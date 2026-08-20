@@ -16,7 +16,12 @@
 #     is full. So `limit` is really "今天最多出现几个不同的源", and a section holding more
 #     sources than `limit` rotates: whoever published the strongest item today gets in.
 #     That is deliberate — it is what stops Hacker News from eating the whole section.
+#   - `staleAfterDays` 读作「多久没更新算可疑」，不是「多久没更新算失败」—— 超了只出一条
+#     告警，不影响出报。默认 30 天，只有实测节奏本来就慢于此的源才写这个字段，写的值取自
+#     2026-08-20 实测的「最新条目距今天数」。**别为了消掉告警随手调大它**，那等于把这个
+#     检查关掉 —— 告警响了先去确认源本身是不是真的停更了。
 #   - Every feed below was probed live on 2026-08-20: reachable, non-empty, UTF-8.
+#     实测的「最新条目距今天数」记在 docs/SOURCES.md，那是 staleAfterDays 的取值依据。
 
 timezone: Asia/Shanghai # renders all dates in this zone, and interprets `schedules[].time` in it
 title: 每日早报
@@ -74,6 +79,7 @@ sources:
   - name: martinfowler
     type: rss
     weight: 1.2
+    staleAfterDays: 90 # 今天 0.5 天前更新，但他一向能连着几个月不发
     params: { url: https://martinfowler.com/feed.atom }
 
   - name: pragmatic-engineer
@@ -83,24 +89,30 @@ sources:
 
   # ── 前端本行：低频高相关，靠 weight 保住席位 ──────────────────────────
   # 若这几个源长期被日更源挤掉，把它们拆成独立 section（limit: 2）即可。
+  # 这一组也是 staleAfterDays 最需要放宽的地方：官方博客一年发不了几次，用默认 30 天
+  # 会天天误报。实测值（2026-08-20，距今天数）写在各自行内。
   - name: react-blog
     type: rss
     weight: 1.2
+    staleAfterDays: 180 # 实测 0.5d，但 react.dev 一年只发几篇
     params: { url: https://react.dev/rss.xml }
 
   - name: chrome-dev
     type: rss
     weight: 1.2
+    staleAfterDays: 120 # 实测 59d
     params: { url: https://developer.chrome.com/static/blog/feed.xml }
 
   - name: web-dev
     type: rss
     weight: 1.1
+    staleAfterDays: 180 # 实测 83d —— 本仓库最接近「疑似停更」的源，值得盯
     params: { url: https://web.dev/static/blog/feed.xml }
 
   - name: ts-devblog
     type: rss
     weight: 1.1
+    staleAfterDays: 120 # 实测 43d
     params: { url: https://devblogs.microsoft.com/typescript/feed/ }
 
   - name: css-tricks
@@ -172,9 +184,21 @@ sources:
     weight: 0.9
     params: { url: https://huggingface.co/blog/feed.xml, limit: 30 }
 
-  # Anthropic 没有官方 RSS（/rss.xml 与 /news/rss.xml 都是 404）。
-  # 试过用 Google News 站内检索兜底，实测只回一条标题为「- Anthropic」的空壳条目，
-  # 反而占掉 AI 栏的席位，故不启用。Anthropic 的动静会经由 hn-front / simonwillison 传到。
+  - name: latent-space
+    type: rss
+    weight: 1.1
+    params: { url: https://www.latent.space/feed } # 工程向 AI newsletter + 播客，与上面五个不重合
+
+  # Anthropic 仍然没有官方 RSS（/rss.xml 与 /news/rss.xml 都是 404）。曾用 Google News
+  # 站内检索兜底，实测只回一条标题为「- Anthropic」的空壳条目，占席位不产内容，已放弃。
+  # 现在改走第三方 RSSHub 镜像**试运行**：2026-08-20 实测 200、10 条、最新条目 8.6 天前。
+  # 代价同 36kr-ai —— 这是别人的服务器，随时可能关停；挂了只留一条抓取告警，不影响出报。
+  # 试运行期间 ai 栏 limit 从 3 提到 4；不留就删掉这个源并把 limit 调回 3。
+  - name: anthropic
+    type: rss
+    weight: 1.1
+    staleAfterDays: 60 # 镜像 + 官方发布本就不密集，实测 9d
+    params: { url: https://rsshub.bestblogs.dev/anthropic/news }
 
   # ── 安全公告：唯一一类「不看会出事」的信息 ────────────────────────────
   - name: cisa-advisories
@@ -203,22 +227,47 @@ sources:
   - name: react-releases
     type: rss
     weight: 1.1
+    staleAfterDays: 180 # 实测 30d，React 本来就发得稀
     params: { url: https://github.com/facebook/react/releases.atom }
 
   - name: typescript-releases
     type: rss
     weight: 1.1
+    staleAfterDays: 240 # 实测 125d —— 全仓库最慢的源
     params: { url: https://github.com/microsoft/TypeScript/releases.atom }
 
   - name: node-releases
     type: rss
     weight: 1.1
+    staleAfterDays: 60 # 实测 15d
     params: { url: https://github.com/nodejs/node/releases.atom }
 
   - name: spring-boot-releases
     type: rss
     weight: 1.0
+    staleAfterDays: 120 # 实测 56d
     params: { url: https://github.com/spring-projects/spring-boot/releases.atom }
+
+  # 下面三个是本仓库和日常开发真在用的工具链，breaking change 概率比框架本身还高。
+  - name: pnpm-releases
+    type: rss
+    weight: 1.1
+    staleAfterDays: 60 # 实测 2d
+    params: { url: https://github.com/pnpm/pnpm/releases.atom }
+
+  - name: vitest-releases
+    type: rss
+    weight: 1.1
+    staleAfterDays: 60 # 实测 2d
+    params: { url: https://github.com/vitest-dev/vitest/releases.atom }
+
+  - name: eslint-releases
+    type: rss
+    weight: 1.0
+    staleAfterDays: 60 # 实测 13d
+    params: { url: https://github.com/eslint/eslint/releases.atom }
+
+  # Vite 没接：本仓库不用，日常也是 Next.js 自带的构建链，接了只会稀释 releases 栏。
 
   # ── 中文技术 ────────────────────────────────────────────────────────
   # 掘金有官方 RSS，就是这个；`?cate=frontend` 之类的参数是假的（实测乱写的分类
@@ -269,6 +318,7 @@ sources:
   - name: zhangxinxu
     type: rss
     weight: 1.2
+    staleAfterDays: 60 # 月更节奏，实测 6d
     params: { url: https://www.zhangxinxu.com/wordpress/feed/ } # 前端 CSS
 
   - name: sspai
@@ -315,8 +365,9 @@ sources:
       limit: 40
 
 sections:
-  # 每日上限 22 条；低频源常年空栏，实际稳定在 15–20 条。
+  # 各栏 limit 相加 = 每日上限 25 条；低频源常年空栏，实际稳定在 15–20 条。
   # 想要更短就调 limit，不要删源 —— 源多是好事，`limit` 才是长度旋钮。
+  # 改了下面任何一个 limit，记得回来把这行的数字也改掉。
   - id: tech
     title: 国际技术
     sources:
@@ -347,8 +398,10 @@ sections:
 
   - id: ai
     title: AI 工程
-    sources: [simonwillison, openai, google-ai, deepmind, huggingface]
-    limit: 3
+    sources: [simonwillison, openai, google-ai, deepmind, huggingface, latent-space, anthropic]
+    # 5 → 7 个源，limit 跟着 3 → 4，否则新源只会稀释轮换池而挤不进来。
+    # anthropic 试运行结束若不留，这里调回 3。
+    limit: 4
     minPerSource: 1
 
   - id: cn-tech
@@ -372,8 +425,18 @@ sections:
   - id: releases
     title: 依赖发版
     sources:
-      [nextjs-releases, react-releases, typescript-releases, node-releases, spring-boot-releases]
-    limit: 2
+      [
+        nextjs-releases,
+        react-releases,
+        typescript-releases,
+        node-releases,
+        spring-boot-releases,
+        pnpm-releases,
+        vitest-releases,
+        eslint-releases,
+      ]
+    # 5 → 8 个源，limit 跟着 2 → 3。发版消息价值高度依赖时效，宁可多给一个席位。
+    limit: 3
     minPerSource: 1
     # 预发布版本一天能出好几个（next.js 的 canary 尤其密），会把真正该看的稳定版挤掉。
     exclude: ['canary', 'nightly', '-rc', '-alpha', '-beta', 'SNAPSHOT']
