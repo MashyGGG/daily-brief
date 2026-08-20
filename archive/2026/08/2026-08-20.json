@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-20",
+  "slot": null,
+  "scheduleId": "morning",
+  "generatedAt": "2026-08-20T04:28:14.249Z",
+  "configHash": "da32268cf3b3",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "afc79d8d632a5e25",
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-19T17:32:38.000Z",
+      "score": 722,
+      "author": "rvz",
+      "excerpt": "722 points · 367 comments · https://news.ycombinator.com/item?id=49364559",
+      "section": "tech",
+      "rankScore": 0.904322
+    },
+    {
+      "id": "f9b53635a75dc1ad",
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "source": "hn-front",
+      "publishedAt": "2026-08-19T18:33:49.000Z",
+      "score": 508,
+      "author": "database64128",
+      "excerpt": "508 points · 135 comments · https://news.ycombinator.com/item?id=49365405",
+      "section": "tech",
+      "rankScore": 0.873288
+    },
+    {
+      "id": "97454b9960af5e16",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-19T11:21:50.000Z",
+      "score": 803,
+      "author": "kareiva",
+      "excerpt": "803 points · 126 comments · https://news.ycombinator.com/item?id=49360015",
+      "section": "tech",
+      "rankScore": 0.832151
+    },
+    {
+      "id": "76417917dbcf1363",
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "source": "hn-front",
+      "publishedAt": "2026-08-19T17:47:29.000Z",
+      "score": 360,
+      "author": "Animux",
+      "excerpt": "360 points · 158 comments · https://news.ycombinator.com/item?id=49364745",
+      "section": "tech",
+      "rankScore": 0.754987
+    },
+    {
+      "id": "58ee512dede2ac46",
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-19T12:19:52.000Z",
+      "score": 431,
+      "author": "yassa9",
+      "excerpt": "431 points · 77 comments · https://news.ycombinator.com/item?id=49360545",
+      "section": "tech",
+      "rankScore": 0.69721
+    },
+    {
+      "id": "b2a3df95a25d8c4d",
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-19T13:21:21.000Z",
+      "score": 323,
+      "author": "karlmush",
+      "excerpt": "323 points · 200 comments · https://news.ycombinator.com/item?id=49361279",
+      "section": "tech",
+      "rankScore": 0.614847
+    },
+    {
+      "id": "311abd2754da9b0b",
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-19T15:28:01.000Z",
+      "score": 302,
+      "author": "__fst__",
+      "excerpt": "302 points · 246 comments · https://news.ycombinator.com/item?id=49362887",
+      "section": "tech",
+      "rankScore": 0.605641
+    },
+    {
+      "id": "222d030d759042f9",
+      "title": "Reclaim the terminal",
+      "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-19T22:10:12.000Z",
+      "author": "nishantjosh.dev by nishantjosh",
+      "excerpt": "Comments",
+      "section": "tech",
+      "rankScore": 0.535491
+    },
+    {
+      "id": "8d73155ef43ff111",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-20T04:17:53.000Z",
+      "excerpt": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+      "section": "news",
+      "rankScore": 0.697124
+    },
+    {
+      "id": "e9e4e05f613f4cbd",
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-20T03:22:57.000Z",
+      "excerpt": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "section": "news",
+      "rankScore": 0.681865
+    },
+    {
+      "id": "a08700303e803ae2",
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-20T03:16:22.000Z",
+      "excerpt": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
+      "section": "news",
+      "rankScore": 0.680036
+    },
+    {
+      "id": "31d67ed28378120e",
+      "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+      "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+      "source": "ars-technica",
+      "publishedAt": "2026-08-20T00:18:48.000Z",
+      "author": "Stephen Clark",
+      "excerpt": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
+      "section": "news",
+      "rankScore": 0.567641
+    },
+    {
+      "id": "79c26c78d9b7dbcc",
+      "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+      "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+      "source": "verge",
+      "publishedAt": "2026-08-19T22:35:20.000Z",
+      "author": "Sean Hollister",
+      "excerpt": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December 2025, the US government…",
+      "section": "news",
+      "rankScore": 0.541774
+    }
+  ],
+  "warnings": []
+}
