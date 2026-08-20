@@ -1,0 +1,103 @@
+# daily-brief — the single source of truth for content, recipients and timing.
+#
+# Rules that this file must obey (they are enforced by zod at load time, not by convention):
+#   1. No secret VALUES ever live here — only `secretRef`, the NAME of an env var.
+#   2. An invalid config fails the run. Nothing is silently skipped.
+#   3. Private recipients that must not be committed go in the RECIPIENTS_OVERRIDE_JSON secret.
+#   4. After changing `schedules[].time`, run `pnpm brief:schedule` and commit the workflow;
+#      `pnpm check:schedule` fails the build if you forget.
+
+timezone: Asia/Shanghai # renders all dates in this zone, and interprets `schedules[].time` in it
+title: 每日早报
+
+schedules:
+  - id: morning
+    time: '08:00' # local time; generated as a UTC cron. Actions drift means it lands 08:00–08:30.
+    lookbackHours: 24 # a skipped run loses nothing: the next one still sees the same window
+    sections: ['*']
+    recipients: ['*']
+    enabled: true
+
+  # Uncomment, then run `pnpm brief:schedule`, to add an evening tech-only digest.
+  # - id: evening
+  #   time: '20:00'
+  #   lookbackHours: 12
+  #   sections: [tech]
+  #   recipients: [me-wecom]
+  #   enabled: true
+
+sources:
+  - name: hn-front
+    type: hackernews
+    weight: 1.2
+    params: { mode: front_page, minPoints: 100, limit: 60 }
+
+  - name: gh-trending-ts
+    type: github
+    weight: 1.0
+    params: { language: typescript, createdWithinDays: 7, minStars: 50, limit: 30 }
+
+  - name: lobsters
+    type: rss
+    weight: 0.9
+    params: { url: https://lobste.rs/rss }
+
+  - name: verge
+    type: rss
+    weight: 0.9
+    params: { url: https://www.theverge.com/rss/index.xml }
+
+  - name: ars-technica
+    type: rss
+    weight: 0.9
+    params: { url: https://feeds.arstechnica.com/arstechnica/index }
+
+  - name: bbc-world
+    type: rss
+    weight: 1.0
+    params: { url: https://feeds.bbci.co.uk/news/world/rss.xml }
+
+sections:
+  - id: tech
+    title: 国际技术
+    sources: [hn-front, gh-trending-ts, lobsters]
+    limit: 8
+    minPerSource: 1 # keep HN from eating the whole section
+    include: [] # empty = no include filter
+    exclude: ['crypto', 'NFT', 'web3']
+
+  - id: news
+    title: 国际要闻
+    sources: [verge, ars-technica, bbc-world]
+    limit: 5
+    minPerSource: 1
+
+archive:
+  enabled: true
+  dir: archive # committed to the DEFAULT branch — this is also what keeps the cron alive
+  indexKeep: 30 # index.md lists the last 30 issues; the files themselves are kept forever
+  commit: true # set false (or pass --no-commit) when running locally
+  dedupeLookbackDays: 14 # cross-day dedupe reads this many days of archived JSON
+
+recipients:
+  - id: me-wecom
+    channel: wecom
+    secretRef: WECOM_WEBHOOK_ME # the NAME of the secret, never the webhook itself
+    sections: [tech, news]
+    format: markdown
+    enabled: true
+
+  - id: me-gmail
+    channel: email
+    driver: smtp # smtp (Gmail App Password) | resend (only with a verified custom domain)
+    to: it@seechange-edu.com
+    sections: ['*']
+    format: html
+    enabled: true
+
+  - id: backup-serverchan
+    channel: serverchan
+    secretRef: SERVERCHAN_KEY
+    sections: [tech]
+    format: markdown
+    enabled: false

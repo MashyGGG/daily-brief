@@ -1,0 +1,93 @@
+import type { Item } from '../config/schema'
+import { nonEmptySections, type Brief } from '../core/brief'
+
+/**
+ * §3.4 — mail clients strip <style> blocks and block remote assets, so everything is
+ * inline and self-contained: no external CSS, no images, no webfonts.
+ */
+
+export function escapeHtml(text: string): string {
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;')
+}
+
+/** Only http(s) links survive; anything else (javascript:, data:) is rendered inert. */
+export function safeHref(url: string): string {
+  try {
+    const parsed = new URL(url)
+    if (parsed.protocol === 'http:' || parsed.protocol === 'https:') return escapeHtml(parsed.href)
+  } catch {
+    /* fall through */
+  }
+  return '#'
+}
+
+const FONT =
+  "-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue','PingFang SC','Microsoft YaHei',sans-serif"
+
+function hostOf(url: string): string {
+  try {
+    return new URL(url).hostname.replace(/^www\./, '')
+  } catch {
+    return ''
+  }
+}
+
+function renderItem(item: Item, index: number): string {
+  const meta = [item.source, hostOf(item.url)]
+  if (typeof item.score === 'number' && item.score > 0) meta.push(String(item.score))
+  const excerpt = item.excerpt
+    ? `<div style="margin:6px 0 0;color:#57606a;font-size:13px;line-height:1.6">${escapeHtml(item.excerpt)}</div>`
+    : ''
+  return [
+    '<tr><td style="padding:12px 0;border-bottom:1px solid #eaeef2">',
+    `<div style="font-size:15px;line-height:1.5">`,
+    `<span style="color:#8c959f">${index}.</span> `,
+    `<a href="${safeHref(item.url)}" style="color:#0969da;text-decoration:none;font-weight:600">${escapeHtml(item.title)}</a>`,
+    '</div>',
+    `<div style="margin:4px 0 0;color:#8c959f;font-size:12px">${escapeHtml(meta.filter(Boolean).join(' · '))}</div>`,
+    excerpt,
+    '</td></tr>',
+  ].join('')
+}
+
+export function renderHtml(brief: Brief): string {
+  const sections = nonEmptySections(brief)
+  const body = sections
+    .map((section) => {
+      const items = section.items.map((item, i) => renderItem(item, i + 1)).join('')
+      return [
+        `<h2 style="margin:28px 0 4px;font-size:16px;color:#1f2328;border-left:3px solid #0969da;padding-left:10px">${escapeHtml(section.title)}</h2>`,
+        `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse">${items}</table>`,
+      ].join('')
+    })
+    .join('')
+
+  const warnings =
+    brief.warnings.length > 0
+      ? [
+          '<div style="margin:28px 0 0;padding:12px 14px;background:#fff8c5;border:1px solid #d4a72c;border-radius:6px;color:#4d2d00;font-size:12px;line-height:1.6">',
+          '<strong>抓取告警</strong><ul style="margin:6px 0 0;padding-left:18px">',
+          brief.warnings.map((w) => `<li>${escapeHtml(w)}</li>`).join(''),
+          '</ul></div>',
+        ].join('')
+      : ''
+
+  return [
+    '<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">',
+    '<meta name="viewport" content="width=device-width,initial-scale=1">',
+    `<title>${escapeHtml(brief.title)} · ${escapeHtml(brief.date)}</title></head>`,
+    `<body style="margin:0;padding:0;background:#f6f8fa">`,
+    `<div style="max-width:680px;margin:0 auto;padding:24px 20px 40px;font-family:${FONT};color:#1f2328">`,
+    `<h1 style="margin:0;font-size:22px;letter-spacing:-0.2px">${escapeHtml(brief.title)}</h1>`,
+    `<div style="margin:6px 0 0;color:#8c959f;font-size:13px">${escapeHtml(brief.date)} · ${escapeHtml(brief.scheduleId)} · 回溯 ${brief.lookbackHours}h</div>`,
+    body || '<p style="color:#57606a">今天没有达标内容。</p>',
+    warnings,
+    `<div style="margin:32px 0 0;padding-top:14px;border-top:1px solid #eaeef2;color:#8c959f;font-size:12px">由 daily-brief 自动生成 · ${escapeHtml(brief.generatedAt)}</div>`,
+    '</div></body></html>',
+  ].join('')
+}

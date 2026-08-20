@@ -1,0 +1,135 @@
+name: daily-brief
+
+on:
+  schedule:
+    # BEGIN generated schedule
+    # generated from brief.config.yaml - run `pnpm brief:schedule` after editing, do not hand-edit
+    - cron: '0 0 * * *' # morning - 08:00 Asia/Shanghai
+    # END generated schedule
+  workflow_dispatch:
+    inputs:
+      schedule:
+        description: which schedule id to run
+        type: string
+        default: morning
+      dry-run:
+        description: render only — no push, no archive, no commit
+        type: boolean
+        default: false
+      recipients:
+        description: comma-separated recipient ids (overrides the schedule's list)
+        type: string
+        default: ''
+      sections:
+        description: comma-separated section ids
+        type: string
+        default: ''
+      from-archive:
+        description: 'YYYY-MM-DD — re-send an archived issue instead of fetching'
+        type: string
+        default: ''
+
+# Queue rather than cancel: a half-pushed brief is worse than a late one.
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # fetch-depth 1 is enough: cross-day dedupe reads archive FILES, not git history.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # The cron block must match brief.config.yaml, or a time change silently never took effect.
+      - name: check schedule drift
+        run: pnpm check:schedule
+
+      - name: build and push the brief
+        id: brief
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          WECOM_WEBHOOK_ME: ${{ secrets.WECOM_WEBHOOK_ME }}
+          RECIPIENTS_OVERRIDE_JSON: ${{ secrets.RECIPIENTS_OVERRIDE_JSON }}
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+          WXPUSHER_APP_TOKEN: ${{ secrets.WXPUSHER_APP_TOKEN }}
+          WXPUSHER_UIDS: ${{ secrets.WXPUSHER_UIDS }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          args=()
+          if [ -n "${{ github.event.schedule }}" ]; then
+            # GitHub reports which cron fired; the CLI reverse-looks-up the schedule id from it.
+            args+=(--cron "${{ github.event.schedule }}")
+          else
+            args+=(--schedule "${{ inputs.schedule || 'morning' }}")
+          fi
+          [ "${{ inputs.dry-run }}" = "true" ] && args+=(--dry-run)
+          [ -n "${{ inputs.recipients }}" ] && args+=(--recipients "${{ inputs.recipients }}")
+          [ -n "${{ inputs.sections }}" ] && args+=(--sections "${{ inputs.sections }}")
+          [ -n "${{ inputs.from-archive }}" ] && args+=(--from-archive "${{ inputs.from-archive }}")
+          pnpm brief "${args[@]}"
+
+      # Runs even when delivery failed: the content is already archived and must not be lost.
+      # This commit lands on the DEFAULT branch, which is also what resets the 60-day
+      # inactivity timer that would otherwise disable this schedule (§0.7).
+      - name: commit archive
+        if: always() && steps.brief.outputs.archive-commit == 'true'
+        run: |
+          set -euo pipefail
+          git add archive/
+          if git diff --cached --quiet; then
+            echo "archive unchanged, nothing to commit"
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m "chore(daily-brief): archive ${{ steps.brief.outputs.archive-date }}"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash && git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt failed, retrying"
+            sleep $((attempt * 5))
+          done
+          echo "could not push the archive after 3 attempts" >&2
+          exit 1
+
+      - name: alert on failure
+        if: failure()
+        env:
+          WECOM_WEBHOOK_ME: ${{ secrets.WECOM_WEBHOOK_ME }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          ALERT_REASON: 'workflow ${{ github.workflow }} failed at job ${{ github.job }}'
+        run: pnpm tsx src/alert.ts
