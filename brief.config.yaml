@@ -90,7 +90,7 @@ recipients:
   - id: me-gmail
     channel: email
     driver: smtp # smtp (Gmail App Password) | resend (only with a verified custom domain)
-    to: it@seechange-edu.com
+    to: chenmasheng0414@gmail.com
     sections: ['*']
     format: html
     enabled: true
