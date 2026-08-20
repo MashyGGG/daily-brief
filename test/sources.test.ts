@@ -3,6 +3,7 @@ import { parseFeed } from '../src/sources/rss'
 import { buildHnUrl, parseHnHits } from '../src/sources/hackernews'
 import { buildGithubUrl, parseRepos } from '../src/sources/github'
 import { fetchAll, type FetchContext } from '../src/sources'
+import { httpGetText, MAX_RESPONSE_CHARS } from '../src/sources/types'
 import { toExcerpt, stripHtml, normalize } from '../src/core/normalize'
 import type { Source } from '../src/config/schema'
 import { NOW } from './helpers'
@@ -69,6 +70,38 @@ describe('rss / atom parsing', () => {
   it('skips entries with no title or no link', () => {
     const xml = `<rss version="2.0"><channel><item><title>No link</title></item></channel></rss>`
     expect(parseFeed(xml, 'x', NOW)).toEqual([])
+  })
+
+  // fast-xml-parser bills predefined entities to its billion-laughs budget, whose boolean
+  // default is 1000. Real feeds carry tens of thousands of `&amp;` — kubernetes.io ~44k,
+  // a GitHub releases.atom ~32k — so the default silently killed 9 of our 45 sources.
+  it('parses a feed carrying far more predefined entities than the default budget', () => {
+    const noisy = Array.from(
+      { length: 3000 },
+      (_, i) =>
+        `<item><title>Q&amp;A &#39;${i}&#39; &quot;x&quot;</title>` +
+        `<link>https://e.com/${i}?a=1&amp;b=2</link></item>`,
+    ).join('')
+    const items = parseFeed(`<rss version="2.0"><channel>${noisy}</channel></rss>`, 'x', NOW)
+
+    expect(items).toHaveLength(3000)
+    expect(items[0]!.title).toBe(`Q&A '0' "x"`)
+    // Entities inside the URL matter most: an undecoded `&amp;` is a broken link.
+    expect(items[0]!.url).toBe('https://e.com/0?a=1&b=2')
+  })
+})
+
+describe('response size guard', () => {
+  it('refuses a response larger than the cap instead of handing it to the parser', async () => {
+    const huge = 'x'.repeat(MAX_RESPONSE_CHARS + 1)
+    await expect(httpGetText('https://e.com/feed', ctx(huge))).rejects.toThrow(/response too large/)
+  })
+
+  it('accepts a response exactly at the cap', async () => {
+    const atCap = 'x'.repeat(MAX_RESPONSE_CHARS)
+    await expect(httpGetText('https://e.com/feed', ctx(atCap))).resolves.toHaveLength(
+      MAX_RESPONSE_CHARS,
+    )
   })
 })
 

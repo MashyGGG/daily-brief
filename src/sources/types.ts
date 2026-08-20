@@ -27,6 +27,13 @@ export class SourceError extends Error {
   }
 }
 
+/**
+ * Upper bound on a source response, in UTF-16 chars. The largest feed we actually track is
+ * kubernetes.io at ~1.2 MB, so this leaves an order of magnitude of headroom while still
+ * bounding what reaches the XML parser (see the `processEntities` note in `rss.ts`).
+ */
+export const MAX_RESPONSE_CHARS = 8 * 1024 * 1024
+
 /** One HTTP GET with a timeout; non-2xx becomes an error so the caller can record a warning. */
 export async function httpGetText(
   url: string,
@@ -44,7 +51,11 @@ export async function httpGetText(
       signal: controller.signal,
     })
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    return await res.text()
+    const body = await res.text()
+    if (body.length > MAX_RESPONSE_CHARS) {
+      throw new Error(`response too large: ${body.length} chars > ${MAX_RESPONSE_CHARS}`)
+    }
+    return body
   } finally {
     clearTimeout(timer)
   }

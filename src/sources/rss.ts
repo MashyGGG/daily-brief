@@ -10,6 +10,26 @@ const parser = new XMLParser({
   attributeNamePrefix: '@_',
   trimValues: true,
   parseTagValue: false,
+  /**
+   * fast-xml-parser counts EVERY entity — including predefined ones like `&amp;` — against
+   * one document-wide billion-laughs budget, and the boolean form of `processEntities`
+   * caps that budget at 1000. Real feeds blow straight through it: kubernetes.io ships
+   * ~44k `&amp;`/`&#39;`, and a GitHub `releases.atom` ~32k. Those are 1:1 replacements
+   * that SHRINK the string, so they cannot amplify anything.
+   *
+   * Amplification only comes from DOCTYPE-declared entities, which no feed we track even
+   * has. So raise the count budget past what real feeds need, and keep the knobs that
+   * actually bound a malicious DTD (`maxExpansionDepth`, `maxEntitySize`,
+   * `maxExpandedLength`) at the strict boolean-mode defaults — passing an object would
+   * otherwise silently relax `maxExpansionDepth` from 10 to 10000.
+   */
+  processEntities: {
+    enabled: true,
+    maxTotalExpansions: 500_000,
+    maxExpansionDepth: 10,
+    maxEntitySize: 10_000,
+    maxExpandedLength: 100_000,
+  },
 })
 
 function asArray<T>(value: T | T[] | undefined): T[] {
