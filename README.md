@@ -123,6 +123,11 @@ Open the run and read the **Summary**, not just the checkmark.
 | sections | the items that went out, each with its `rankScore`                     |
 | 告警     | absent on a healthy run                                                |
 
+The 抓取 table's **最新** column is the age of that source's newest item. It is there because a row
+of all-✅ only proves the requests worked: a feed can answer 200 with a well-formed body and no new
+content for months. When that age passes the source's `staleAfterDays` budget (default 30), 告警
+says so — see [docs/SOURCES.md](docs/SOURCES.md#9-源健康检查).
+
 **A green check does not mean it was delivered.** `skipped` is a success for the job: one recipient
 missing its secret must not take down the others. Only `failed` turns the run red. So the 推送 table
 is the only place that tells you whether mail actually left.
@@ -200,6 +205,12 @@ sources:
 Three source types cover everything: `rss` (any feed, including GitHub Releases `.atom`),
 `hackernews` (Algolia API, free and unauthenticated) and `github` (repository search — GitHub has
 no Trending API and this never scrapes the HTML page).
+
+Two things to check before you commit it: that the URL returns XML rather than an SPA's HTML shell
+(that is how 36氪's official feed died), and how often the source actually publishes. Anything
+slower than monthly needs `staleAfterDays`, or the health check will report it as stale every day.
+The full inventory — every source, its measured cadence, and the ones deliberately left out — is
+[docs/SOURCES.md](docs/SOURCES.md).
 
 ### Change the delivery time
 
