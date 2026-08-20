@@ -33,36 +33,122 @@ Mail goes out over Gmail SMTP, not Resend: no domain needed and any recipient wo
 Resend's free tier is real, but without a verified domain it can only deliver to the address that
 registered the account — which breaks "recipients are configurable" the day a second one is added.
 
-1. Turn on 2-Step Verification on the Google account (an App Password cannot be created without it).
-2. Create an App Password (16 characters).
-3. Save it as the repo secret `SMTP_PASS`, plus `SMTP_HOST=smtp.gmail.com`, `SMTP_PORT=465`,
-   `SMTP_USER=<your address>`, `EMAIL_FROM=<usually the same address>`.
+1. Turn on 2-Step Verification at [myaccount.google.com/security](https://myaccount.google.com/security).
+   An App Password cannot be created without it — the page below just says "not available".
+2. Go to [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords), name it
+   anything (`daily-brief`), and copy the 16 letters it shows.
+   **It is shown once.** Losing it means deleting that entry and creating another.
+3. Save the five secrets:
+
+| Secret       | Value                                       |
+| ------------ | ------------------------------------------- |
+| `SMTP_HOST`  | `smtp.gmail.com`                            |
+| `SMTP_PORT`  | `465`                                       |
+| `SMTP_USER`  | the Gmail address                           |
+| `SMTP_PASS`  | the 16 letters, **with the spaces removed** |
+| `EMAIL_FROM` | the same address as `SMTP_USER`             |
+
+Two things that silently break this:
+
+- **The spaces are display only.** Google prints `abcd efgh ijkl mnop` for readability; the password
+  is the 16 characters without them. Pasting the spaces gives `Invalid login: 535`.
+- **`EMAIL_FROM` must be `SMTP_USER`** (or an alias verified inside Gmail's settings). Gmail will not
+  let you send as an arbitrary address — it either rewrites the header or rejects the message.
 
 Limit: 500 messages per rolling 24h — a daily brief uses one. If Google ever rate-limits the
 account, switch `SMTP_HOST` to QQ/163 with their authorization code; nothing else changes.
 
 ### 2. WeCom group robot
 
-Group → settings → group robots → add → copy the webhook URL → save it as `WECOM_WEBHOOK_ME`.
+Optional — skip it and the run still succeeds, it just reports one skipped recipient every day.
+(Set `enabled: false` on `me-wecom` to silence that line.)
+
+It has to be a **WeCom** group; robots do not exist in consumer WeChat. Open the group → **⋯** →
+group robots → add → create → copy the webhook URL. Save the **whole URL including `?key=...`** as
+`WECOM_WEBHOOK_ME`; the key is the credential and the code never reassembles the URL.
+
+The URL is masked to `https://qyapi.weixin.qq.com/***` everywhere it could be written down — run
+summary, warnings, archive — so a public repo cannot leak it.
 
 Limits: 20 messages/minute and **4096 bytes** (not characters — Chinese is 3 bytes each) per
 markdown body. Oversized briefs are split automatically, never mid-entry, with a 3s pause between
 chunks.
 
-### 3. Repository secrets
+### 3. Actions permissions
 
-| Name                                                                                                           | Required | Purpose                                                          |
-| -------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------- |
-| `SMTP_HOST` `SMTP_PORT` `SMTP_USER` `SMTP_PASS`                                                                | **yes**  | Gmail SMTP; `SMTP_PASS` is the App Password                      |
-| `EMAIL_FROM`                                                                                                   | **yes**  | usually the same as `SMTP_USER`                                  |
-| `WECOM_WEBHOOK_ME`                                                                                             | **yes**  | WeCom group-robot webhook, full URL                              |
-| `RECIPIENTS_OVERRIDE_JSON`                                                                                     | no       | private recipients that must not be committed                    |
-| `SERVERCHAN_KEY` `PUSHPLUS_TOKEN` `WXPUSHER_APP_TOKEN` `WXPUSHER_UIDS` `TELEGRAM_BOT_TOKEN` `TELEGRAM_CHAT_ID` | no       | only if you enable those channels                                |
-| `RESEND_API_KEY`                                                                                               | no       | only with a verified custom domain                               |
-| `GITHUB_TOKEN`                                                                                                 | auto     | raises the GitHub search rate limit and makes the archive commit |
+Settings → Actions → General → **Workflow permissions** → **Read and write**. Without it the daily
+archive commit fails, and the archive commit is what keeps the schedule alive (see below).
+
+### 4. Repository secrets
+
+| Name                                                                                                           | Required | Purpose                                                                    |
+| -------------------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| `SMTP_HOST` `SMTP_PORT` `SMTP_USER` `SMTP_PASS`                                                                | **yes**  | Gmail SMTP; `SMTP_PASS` is the App Password                                |
+| `EMAIL_FROM`                                                                                                   | **yes**  | usually the same as `SMTP_USER`                                            |
+| `WECOM_WEBHOOK_ME`                                                                                             | no       | WeCom group-robot webhook, full URL; omit it and that recipient is skipped |
+| `RECIPIENTS_OVERRIDE_JSON`                                                                                     | no       | private recipients that must not be committed                              |
+| `SERVERCHAN_KEY` `PUSHPLUS_TOKEN` `WXPUSHER_APP_TOKEN` `WXPUSHER_UIDS` `TELEGRAM_BOT_TOKEN` `TELEGRAM_CHAT_ID` | no       | only if you enable those channels                                          |
+| `RESEND_API_KEY`                                                                                               | no       | only with a verified custom domain                                         |
+| `GITHUB_TOKEN`                                                                                                 | auto     | raises the GitHub search rate limit and makes the archive commit           |
 
 A `secretRef` pointing at an unset variable **skips that recipient** and says so in the run
 summary. It does not fail the run, and it does not affect anybody else.
+
+## The first run
+
+Actions → **daily-brief** → `Run workflow ▾`. Do it twice.
+
+**Pass 1 — tick `render only`.** That checkbox is `--dry-run`: it fetches, ranks and renders, then
+prints to the log. Nothing is mailed, nothing is archived, nothing is committed. It proves the
+Actions environment itself works — lockfile installs, the sources are reachable from GitHub's
+network, rendering does not throw — before a half-broken issue can be archived and have its items
+consumed by cross-day dedupe.
+
+**Pass 2 — leave every field at its default.** This is the real one: it delivers, archives, and
+commits.
+
+> **`render only` does not check your secrets.** Under `--dry-run` every recipient is rerouted to
+> the stdout channel, so it is stdout's (empty) requirements that get checked, not the real
+> channel's — see [`src/channels/index.ts`](src/channels/index.ts). A missing `SMTP_PASS` shows up
+> in pass 2, never in pass 1.
+
+## Reading a run
+
+Open the run and read the **Summary**, not just the checkmark.
+
+| Section  | What it should say                                                     |
+| -------- | ---------------------------------------------------------------------- |
+| 抓取     | every source succeeded; a failed one is a warning, not a stopped brief |
+| 推送     | one row per recipient — `sent` / `skipped` / `failed`                  |
+| sections | the items that went out, each with its `rankScore`                     |
+| 告警     | absent on a healthy run                                                |
+
+**A green check does not mean it was delivered.** `skipped` is a success for the job: one recipient
+missing its secret must not take down the others. Only `failed` turns the run red. So the 推送 table
+is the only place that tells you whether mail actually left.
+
+Then confirm the two things the Summary cannot show you:
+
+- the mail arrived — **check the spam folder first**, a new sender talking to itself often lands there
+- `main` gained a `chore(daily-brief): archive <date>` commit, authored by `github-actions[bot]`
+
+**No items means no delivery.** A brief with nothing in it is not pushed, not archived and not
+committed — only noted in the Summary. So "the run was green and I got nothing" is worth checking
+against the Summary before assuming a broken pipe.
+
+### When something goes wrong
+
+| Symptom                         | Cause                                     | Fix                                                    |
+| ------------------------------- | ----------------------------------------- | ------------------------------------------------------ |
+| `skipped — missing env: X`      | secret absent, or the name is misspelled  | names are case-sensitive and exact                     |
+| `failed — Invalid login: 535`   | App Password wrong, or pasted with spaces | regenerate, strip spaces                               |
+| `failed — errcode 93000`        | WeCom webhook revoked or robot deleted    | copy the whole URL again                               |
+| `sent` but nothing in the inbox | spam filter                               | mark as not-spam                                       |
+| `commit archive` step red       | Actions has no write permission           | Workflow permissions → Read and write                  |
+| everything green, no content    | nothing passed the filters                | check 抓取 for a dead source, or widen `lookbackHours` |
+
+Content that was produced but not delivered is already archived — fix the cause and replay it with
+the `from-archive` input (`YYYY-MM-DD`) instead of re-fetching.
 
 ## Everyday tasks
 
