@@ -6,6 +6,17 @@
 #   3. Private recipients that must not be committed go in the RECIPIENTS_OVERRIDE_JSON secret.
 #   4. After changing `schedules[].time`, run `pnpm brief:schedule` and commit the workflow;
 #      `pnpm check:schedule` fails the build if you forget.
+#
+# How to tune this file — read this before adding a source, the ranker is not what you think:
+#   - RSS carries no score, so rank.ts gives every RSS item the 0.5 median. Inside a section
+#     the order is therefore ONLY `weight × 新鲜度`. Ranking quality lives in `weight`.
+#   - Read `weight` as "当这个源发文时,我有多想在早报里看到它". Rare-but-relevant sources
+#     (react.dev, 阮一峰) get a HIGH weight precisely because they publish seldom.
+#   - With `minPerSource: 1` a section hands out exactly one slot per source until `limit`
+#     is full. So `limit` is really "今天最多出现几个不同的源", and a section holding more
+#     sources than `limit` rotates: whoever published the strongest item today gets in.
+#     That is deliberate — it is what stops Hacker News from eating the whole section.
+#   - Every feed below was probed live on 2026-08-20: reachable, non-empty, UTF-8.
 
 timezone: Asia/Shanghai # renders all dates in this zone, and interprets `schedules[].time` in it
 title: 每日早报
@@ -27,9 +38,10 @@ schedules:
   #   enabled: true
 
 sources:
+  # ── 国际技术：讨论热度 ────────────────────────────────────────────────
   - name: hn-front
     type: hackernews
-    weight: 1.2
+    weight: 1.3
     params: { mode: front_page, minPoints: 100, limit: 60 }
 
   - name: gh-trending-ts
@@ -37,39 +49,347 @@ sources:
     weight: 1.0
     params: { language: typescript, createdWithinDays: 7, minStars: 50, limit: 30 }
 
+  # Uncomment for a language-agnostic trending row (wider surface, more noise).
+  # - name: gh-trending-any
+  #   type: github
+  #   weight: 0.9
+  #   params: { createdWithinDays: 7, minStars: 200, limit: 30 }
+
   - name: lobsters
     type: rss
     weight: 0.9
     params: { url: https://lobste.rs/rss }
 
-  - name: verge
+  # ── 国际技术：架构与工程 ──────────────────────────────────────────────
+  - name: bytebytego
+    type: rss
+    weight: 1.1
+    params: { url: https://blog.bytebytego.com/feed } # 系统设计，日更
+
+  - name: infoq-arch
+    type: rss
+    weight: 1.0
+    params: { url: https://feed.infoq.com/architecture-design/ }
+
+  - name: martinfowler
+    type: rss
+    weight: 1.2
+    params: { url: https://martinfowler.com/feed.atom }
+
+  - name: pragmatic-engineer
+    type: rss
+    weight: 1.1
+    params: { url: https://newsletter.pragmaticengineer.com/feed } # 部分文章有付费墙
+
+  # ── 前端本行：低频高相关，靠 weight 保住席位 ──────────────────────────
+  # 若这几个源长期被日更源挤掉，把它们拆成独立 section（limit: 2）即可。
+  - name: react-blog
+    type: rss
+    weight: 1.2
+    params: { url: https://react.dev/rss.xml }
+
+  - name: chrome-dev
+    type: rss
+    weight: 1.2
+    params: { url: https://developer.chrome.com/static/blog/feed.xml }
+
+  - name: web-dev
+    type: rss
+    weight: 1.1
+    params: { url: https://web.dev/static/blog/feed.xml }
+
+  - name: ts-devblog
+    type: rss
+    weight: 1.1
+    params: { url: https://devblogs.microsoft.com/typescript/feed/ }
+
+  - name: css-tricks
     type: rss
     weight: 0.9
+    params: { url: https://css-tricks.com/feed/ }
+
+  - name: smashing
+    type: rss
+    weight: 0.9
+    params: { url: https://www.smashingmagazine.com/feed/ }
+
+  # ── 运维 / 云 / 平台 ─────────────────────────────────────────────────
+  - name: github-changelog
+    type: rss
+    weight: 1.0
+    params: { url: https://github.blog/changelog/feed/ }
+
+  - name: cloudflare
+    type: rss
+    weight: 0.9
+    params: { url: https://blog.cloudflare.com/rss/ }
+
+  - name: kubernetes
+    type: rss
+    weight: 1.0
+    params: { url: https://kubernetes.io/feed.xml }
+
+  # aws-whatsnew 日更 ~100 条且以服务/可用区公告为主，信噪比太低，默认不启用。
+  # - name: aws-whatsnew
+  #   type: rss
+  #   weight: 0.6
+  #   params: { url: https://aws.amazon.com/about-aws/whats-new/recent/feed/, limit: 60 }
+
+  # ── 科技媒体（行业侧，不是硬技术） ────────────────────────────────────
+  - name: verge
+    type: rss
+    weight: 0.7
     params: { url: https://www.theverge.com/rss/index.xml }
 
   - name: ars-technica
     type: rss
-    weight: 0.9
+    weight: 0.7
     params: { url: https://feeds.arstechnica.com/arstechnica/index }
 
-  - name: bbc-world
+  # ── AI 工程 ─────────────────────────────────────────────────────────
+  - name: simonwillison
+    type: rss
+    weight: 1.2
+    params: { url: https://simonwillison.net/atom/everything/ } # LLM 工程实践，信噪比最高
+
+  - name: openai
+    type: rss
+    weight: 1.1
+    params: { url: https://openai.com/news/rss.xml, limit: 30 } # 全量 1000+ 条，必须限量
+
+  - name: google-ai
     type: rss
     weight: 1.0
+    params: { url: https://blog.google/technology/ai/rss/ }
+
+  - name: deepmind
+    type: rss
+    weight: 0.9
+    params: { url: https://deepmind.google/blog/rss.xml, limit: 30 }
+
+  - name: huggingface
+    type: rss
+    weight: 0.9
+    params: { url: https://huggingface.co/blog/feed.xml, limit: 30 }
+
+  # Anthropic 没有官方 RSS（/rss.xml 与 /news/rss.xml 都是 404）。
+  # 试过用 Google News 站内检索兜底，实测只回一条标题为「- Anthropic」的空壳条目，
+  # 反而占掉 AI 栏的席位，故不启用。Anthropic 的动静会经由 hn-front / simonwillison 传到。
+
+  # ── 安全公告：唯一一类「不看会出事」的信息 ────────────────────────────
+  - name: cisa-advisories
+    type: rss
+    weight: 1.0
+    params: { url: https://www.cisa.gov/cybersecurity-advisories/all.xml, limit: 40 }
+
+  - name: hacker-news-sec
+    type: rss
+    weight: 1.0
+    params: { url: https://feeds.feedburner.com/TheHackersNews } # The Hacker News，与 HN 无关
+
+  - name: krebs
+    type: rss
+    weight: 1.1
+    params: { url: https://krebsonsecurity.com/feed/ }
+
+  # ── 依赖发版：升级窗口与 breaking change 预警 ─────────────────────────
+  # GitHub 的 releases.atom 是标准 Atom，现有 rss adapter 直接吃，零代码。
+  # 条目标题是裸版本号（"v8.2.2"），靠渲染层带出的源名分辨是哪个仓库。
+  - name: nextjs-releases
+    type: rss
+    weight: 1.2
+    params: { url: https://github.com/vercel/next.js/releases.atom }
+
+  - name: react-releases
+    type: rss
+    weight: 1.1
+    params: { url: https://github.com/facebook/react/releases.atom }
+
+  - name: typescript-releases
+    type: rss
+    weight: 1.1
+    params: { url: https://github.com/microsoft/TypeScript/releases.atom }
+
+  - name: node-releases
+    type: rss
+    weight: 1.1
+    params: { url: https://github.com/nodejs/node/releases.atom }
+
+  - name: spring-boot-releases
+    type: rss
+    weight: 1.0
+    params: { url: https://github.com/spring-projects/spring-boot/releases.atom }
+
+  # ── 中文技术 ────────────────────────────────────────────────────────
+  # 掘金有官方 RSS，就是这个；`?cate=frontend` 之类的参数是假的（实测乱写的分类
+  # 也返回同一批文章），所以只能拿全站流，靠 weight 压权重。
+  # 另注意：这 20 条只覆盖最近约 4 小时 —— 掘金发文密度太高，日更一次必然漏掉大半。
+  - name: juejin
+    type: rss
+    weight: 0.7
+    params: { url: https://juejin.cn/rss }
+
+  # 36氪：官方 /feed 早已停更（现在返回 SPA 的 HTML 壳，不是 XML），走第三方 RSSHub
+  # 镜像试运行。这是**别人的服务器**，随时可能关停 —— 挂了只会留一条抓取告警，不影响出报。
+  # 走「人工智能·AI」专题而不是 /newsflashes：快讯是财经通稿（三大股指、ETF 成交额），
+  # 且 20 条只覆盖 1.5 小时；这个专题是深度报道，跨度 16.7 小时，基本覆盖得住日更窗口。
+  # 试运行结论和备选路由见 docs/CN-SOURCES.md。
+  - name: 36kr-ai
+    type: rss
+    weight: 0.9
+    params: { url: https://rss.injahow.cn/36kr/motif/327686782977 }
+
+  # 微信公众号：没有任何官方开放接口，现有第三方方案在集体死亡。见 docs/CN-SOURCES.md §3。
+
+  - name: solidot
+    type: rss
+    weight: 1.1
+    params: { url: https://www.solidot.org/index.rss }
+
+  - name: oschina
+    type: rss
+    weight: 0.9
+    params: { url: https://www.oschina.net/news/rss }
+
+  - name: infoq-cn
+    type: rss
+    weight: 1.0
+    params: { url: https://www.infoq.cn/feed }
+
+  - name: ruanyifeng
+    type: rss
+    weight: 1.3
+    params: { url: http://www.ruanyifeng.com/blog/atom.xml } # 周更，所以权重给满
+
+  - name: meituan-tech
+    type: rss
+    weight: 1.2
+    params: { url: https://tech.meituan.com/feed/ }
+
+  - name: zhangxinxu
+    type: rss
+    weight: 1.2
+    params: { url: https://www.zhangxinxu.com/wordpress/feed/ } # 前端 CSS
+
+  - name: sspai
+    type: rss
+    weight: 0.8
+    params: { url: https://sspai.com/feed }
+
+  # ── 国际要闻 ────────────────────────────────────────────────────────
+  - name: bbc-world
+    type: rss
+    weight: 1.1
     params: { url: https://feeds.bbci.co.uk/news/world/rss.xml }
 
+  - name: guardian-world
+    type: rss
+    weight: 0.9
+    params: { url: https://www.theguardian.com/world/rss }
+
+  - name: aljazeera
+    type: rss
+    weight: 0.9
+    params: { url: https://www.aljazeera.com/xml/rss/all.xml }
+
+  # ── 中文要闻 ────────────────────────────────────────────────────────
+  # Google News 条目指向 news.google.com 跳转链接，标题带「 - 来源名」后缀，
+  # 因此它与直连源之间无法自动去重。用作兜底，权重压低。
+  - name: bbc-zhongwen
+    type: rss
+    weight: 1.1
+    params: { url: https://feeds.bbci.co.uk/zhongwen/simp/rss.xml }
+
+  - name: thepaper
+    type: rss
+    weight: 0.9
+    params:
+      url: 'https://news.google.com/rss/search?q=when:24h+site:thepaper.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
+  - name: gnews-cn
+    type: rss
+    weight: 0.8
+    params:
+      url: 'https://news.google.com/rss?hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
 sections:
+  # 每日上限 22 条；低频源常年空栏，实际稳定在 15–20 条。
+  # 想要更短就调 limit，不要删源 —— 源多是好事，`limit` 才是长度旋钮。
   - id: tech
     title: 国际技术
-    sources: [hn-front, gh-trending-ts, lobsters]
-    limit: 8
+    sources:
+      [
+        hn-front,
+        gh-trending-ts,
+        lobsters,
+        bytebytego,
+        infoq-arch,
+        martinfowler,
+        pragmatic-engineer,
+        react-blog,
+        chrome-dev,
+        web-dev,
+        ts-devblog,
+        css-tricks,
+        smashing,
+        github-changelog,
+        cloudflare,
+        kubernetes,
+        verge,
+        ars-technica,
+      ]
+    limit: 6
     minPerSource: 1 # keep HN from eating the whole section
     include: [] # empty = no include filter
-    exclude: ['crypto', 'NFT', 'web3']
+    exclude: ['crypto', 'NFT', 'web3', 'memecoin']
 
+  - id: ai
+    title: AI 工程
+    sources: [simonwillison, openai, google-ai, deepmind, huggingface]
+    limit: 3
+    minPerSource: 1
+
+  - id: cn-tech
+    title: 中文技术
+    sources:
+      [solidot, oschina, infoq-cn, ruanyifeng, meituan-tech, zhangxinxu, juejin, 36kr-ai, sspai]
+    # 试运行 36kr-ai 期间放到 5，好让新源有机会露面被评估；试完不留就调回 4。
+    limit: 5
+    minPerSource: 1
+
+  - id: security
+    title: 安全公告
+    sources: [cisa-advisories, hacker-news-sec, krebs]
+    limit: 2
+    minPerSource: 1
+    # CISA 的 all.xml 以工控 / ICS 为主，与我的技术栈无关。按标题词排除 —— 光排
+    # 「ICS Advisory」不够：实测漏掉了「…Threat to Siemens S7 Series PLCs」这种。
+    exclude:
+      ['ICS Advisory', 'ICS Medical', 'Industrial Control', 'PLC', 'SCADA', 'Siemens', 'Rockwell']
+
+  - id: releases
+    title: 依赖发版
+    sources:
+      [nextjs-releases, react-releases, typescript-releases, node-releases, spring-boot-releases]
+    limit: 2
+    minPerSource: 1
+    # 预发布版本一天能出好几个（next.js 的 canary 尤其密），会把真正该看的稳定版挤掉。
+    exclude: ['canary', 'nightly', '-rc', '-alpha', '-beta', 'SNAPSHOT']
+
+  # id 保持 `news` 不变：已归档的 2026-08-20 那期用的就是这个 id，
+  # 改名会让 `--from-archive` 重发时丢掉这一栏。
   - id: news
     title: 国际要闻
-    sources: [verge, ars-technica, bbc-world]
-    limit: 5
+    sources: [bbc-world, guardian-world, aljazeera]
+    limit: 3
+    minPerSource: 1
+
+  - id: cn-news
+    title: 中文要闻
+    sources: [bbc-zhongwen, thepaper, gnews-cn]
+    limit: 2
     minPerSource: 1
 
 archive:
@@ -83,7 +403,7 @@ recipients:
   - id: me-wecom
     channel: wecom
     secretRef: WECOM_WEBHOOK_ME # the NAME of the secret, never the webhook itself
-    sections: [tech, news]
+    sections: ['*']
     format: markdown
     enabled: true
 
@@ -98,6 +418,6 @@ recipients:
   - id: backup-serverchan
     channel: serverchan
     secretRef: SERVERCHAN_KEY
-    sections: [tech]
+    sections: [tech, ai, security]
     format: markdown
     enabled: false
