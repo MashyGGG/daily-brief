@@ -16,7 +16,18 @@ export interface SourceOutcome {
   items: RawItem[]
   /** Present when the source failed; the run continues without it (A5). */
   error?: string
+  /** Newest `publishedAt` this source returned — the input to the staleness check (§3.2). */
+  latestPublishedAt?: string
   durationMs: number
+}
+
+/** Newest publish date in a batch, or undefined when the batch is empty. */
+export function latestPublishedAt(items: RawItem[]): string | undefined {
+  let newest: string | undefined
+  for (const item of items) {
+    if (newest === undefined || item.publishedAt > newest) newest = item.publishedAt
+  }
+  return newest
 }
 
 export type FetchAllOptions = FetchContext & {
@@ -46,7 +57,12 @@ export async function fetchAll(
         ) => Promise<RawItem[]>
         if (!fetcher) throw new Error(`no fetcher registered for type "${source.type}"`)
         const items = await fetcher(source, options)
-        return { source: source.name, items, durationMs: Date.now() - at }
+        return {
+          source: source.name,
+          items,
+          latestPublishedAt: latestPublishedAt(items),
+          durationMs: Date.now() - at,
+        }
       } catch (err) {
         const message = options.onError
           ? options.onError(source.name, err)

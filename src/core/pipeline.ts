@@ -4,6 +4,7 @@ import { findScheduleByCron, findScheduleById, ScheduleError } from '../schedule
 import { fetchAll, type FetchLike, type SourceOutcome } from '../sources'
 import { dedupe, seenFromArchive, emptySeen } from './dedupe'
 import { filterForSection, minScoreBySource } from './filter'
+import { healthWarnings } from './health'
 import { rank, selectForSection, weightsOf } from './rank'
 import { localDate, totalItems, type Brief, type BriefSection } from './brief'
 import { collectSecretValues, safeErrorMessage } from './redact'
@@ -139,9 +140,13 @@ export async function run(options: RunOptions): Promise<RunResult> {
       onError: (_name, err) => describeError(err),
     })
 
-    const warnings = sourceOutcomes
-      .filter((o) => o.error)
-      .map((o) => `source "${o.source}" failed: ${o.error}`)
+    const warnings = [
+      ...sourceOutcomes
+        .filter((o) => o.error)
+        .map((o) => `source "${o.source}" failed: ${o.error}`),
+      // A source can also fail by NOT failing — 200 + stale content (§3.2, core/health.ts).
+      ...healthWarnings(sourceOutcomes, sources, now),
+    ]
 
     // Higher-weight sources first, so the surviving copy of a cross-posted story is the
     // one from the source we trust more.

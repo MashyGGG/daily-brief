@@ -42,11 +42,26 @@ export const scheduleSchema = z.object({
   enabled: z.boolean().default(true),
 })
 
+/**
+ * §3.2 — how many days of silence make a source *suspicious* rather than merely quiet.
+ * A feed that answers 200 with month-old content looks identical to a healthy one until
+ * you name that budget, so every source has one. The default suits anything that publishes
+ * at least monthly; slower sources declare their own (measured cadences: docs/SOURCES.md).
+ */
+export const DEFAULT_STALE_AFTER_DAYS = 30
+const STALE_AFTER_DAYS = z
+  .number()
+  .int()
+  .positive()
+  .max(365 * 10)
+  .optional()
+
 export const sourceSchema = z.discriminatedUnion('type', [
   z.object({
     name: ID,
     type: z.literal('rss'),
     weight: z.number().positive().default(1),
+    staleAfterDays: STALE_AFTER_DAYS,
     params: z.object({
       url: z.string().url(),
       limit: z.number().int().positive().max(200).default(50),
@@ -56,6 +71,7 @@ export const sourceSchema = z.discriminatedUnion('type', [
     name: ID,
     type: z.literal('hackernews'),
     weight: z.number().positive().default(1),
+    staleAfterDays: STALE_AFTER_DAYS,
     params: z.object({
       mode: z.enum(['front_page', 'new', 'show_hn']).default('front_page'),
       minPoints: z.number().int().nonnegative().default(0),
@@ -66,6 +82,7 @@ export const sourceSchema = z.discriminatedUnion('type', [
     name: ID,
     type: z.literal('github'),
     weight: z.number().positive().default(1),
+    staleAfterDays: STALE_AFTER_DAYS,
     params: z.object({
       language: z.string().min(1).optional(),
       query: z.string().min(1).optional(),

@@ -3,6 +3,20 @@ import { totalItems } from './core/brief'
 import type { RunResult } from './core/pipeline'
 
 /**
+ * Age of a source's newest item. Printed on every run so a feed drifting toward stale is
+ * visible before it trips the warning in `core/health.ts` — a table of all-✅ rows tells
+ * you the requests worked, not that the content is alive.
+ */
+function ageLabel(latestPublishedAt: string | undefined, generatedAt: string): string {
+  if (!latestPublishedAt) return '—'
+  const days =
+    (new Date(generatedAt).getTime() - new Date(latestPublishedAt).getTime()) / 86_400_000
+  if (!Number.isFinite(days)) return '—'
+  if (days < 1) return `${Math.max(0, Math.round(days * 24))}h`
+  return `${Math.round(days)}d`
+}
+
+/**
  * §3.6 — every run writes what it produced into `$GITHUB_STEP_SUMMARY`, so the brief is
  * readable from the Actions run page without waiting on WeCom or mail.
  */
@@ -26,11 +40,12 @@ export function renderRunSummary(result: RunResult, opts: { dryRun: boolean }): 
   if (sources.length > 0) {
     lines.push('### 抓取')
     lines.push('')
-    lines.push('| 源 | 条目 | 耗时 | 状态 |')
-    lines.push('| -- | ---- | ---- | ---- |')
+    lines.push('| 源 | 条目 | 最新 | 耗时 | 状态 |')
+    lines.push('| -- | ---- | ---- | ---- | ---- |')
     for (const s of sources) {
       lines.push(
-        `| ${s.source} | ${s.items.length} | ${s.durationMs}ms | ${s.error ? `❌ ${s.error}` : '✅'} |`,
+        `| ${s.source} | ${s.items.length} | ${ageLabel(s.latestPublishedAt, brief.generatedAt)} | ` +
+          `${s.durationMs}ms | ${s.error ? `❌ ${s.error}` : '✅'} |`,
       )
     }
     lines.push('')
