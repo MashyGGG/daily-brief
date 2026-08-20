@@ -27,3 +27,6 @@ jobs:
       - run: pnpm validate
       # A17 — the workflow cron must still match brief.config.yaml.
       - run: pnpm check:schedule
+      # The Pages site is built from the same archive; a broken builder should fail here,
+      # not two hours later in the deploy.
+      - run: pnpm site:build --out site

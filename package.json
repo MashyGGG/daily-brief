@@ -11,6 +11,7 @@
     "brief": "tsx src/index.ts",
     "brief:schedule": "tsx src/schedule/generate.ts --write",
     "check:schedule": "tsx src/schedule/generate.ts --check",
+    "site:build": "tsx src/site/build.ts",
     "validate": "tsx src/index.ts --validate-only",
     "typecheck": "tsc --noEmit",
     "lint": "eslint .",

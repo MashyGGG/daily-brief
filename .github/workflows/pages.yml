@@ -1,0 +1,88 @@
+name: pages
+
+# Three triggers, each covering a hole the others leave — see docs/PAGES.md §3.
+on:
+  # Hand edits to the site code, the templates or the config.
+  # This does NOT fire for the daily archive commit: pushes made with GITHUB_TOKEN
+  # never trigger workflow runs.
+  push:
+    branches: [main]
+    paths:
+      - 'archive/**'
+      - 'src/site/**'
+      - 'src/render/**'
+      - 'brief.config.yaml'
+      - '.github/workflows/pages.yml'
+
+  # The daily archive commit. Deliberately NOT filtered on conclusion: `commit archive`
+  # runs with `if: always()`, so a red daily-brief run can still have produced content.
+  workflow_run:
+    workflows: [daily-brief]
+    types: [completed]
+
+  workflow_dispatch:
+
+# Read-only on the repo: a bug in the presentation layer must not be able to
+# touch the archive, which is the actual record.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Pages deployments are a serial resource; cancelling one mid-flight leaves it half-applied.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      # `ref: main` is required, not cosmetic. On a workflow_run event github.sha is the
+      # SHA of the run that triggered us — i.e. BEFORE its archive commit — so the default
+      # checkout would build a site that is permanently one issue behind.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: configure pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: build the site
+        run: pnpm site:build --out site --base-url "${{ steps.pages.outputs.base_url }}"
+
+      - name: summarise
+        run: |
+          {
+            echo "### 归档站点"
+            echo
+            echo "- 期数：$(find site -name '*.html' -path 'site/2*' | wc -l)"
+            echo "- 产物：$(du -sh site | cut -f1)"
+            echo "- base_url：${{ steps.pages.outputs.base_url }}"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: deploy
+        id: deploy
+        uses: actions/deploy-pages@v4
