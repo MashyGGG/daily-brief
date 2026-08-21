@@ -552,20 +552,20 @@ tokens and API-key patterns that an upstream might echo back.
 
 ## Commands
 
-| Command                                              | What it does                                                         |
-| ---------------------------------------------------- | -------------------------------------------------------------------- |
-| `pnpm brief`                                         | build and deliver                                                    |
-| `pnpm brief --dry-run`                               | render to stdout; no push, no archive, no commit                     |
-| `pnpm brief --llm-dry-run`                           | list the items the LLM would be called on, and call nothing          |
-| `pnpm brief --no-llm`                                | skip the LLM stage; every item keeps its source excerpt              |
-| `pnpm brief --re-enrich <date> --diff`               | re-summarize an archived issue to evaluate a prompt change           |
+| Command                                              | What it does                                                              |
+| ---------------------------------------------------- | ------------------------------------------------------------------------- |
+| `pnpm brief`                                         | build and deliver                                                         |
+| `pnpm brief --dry-run`                               | render to stdout; no push, no archive, no commit                          |
+| `pnpm brief --llm-dry-run`                           | list the items the LLM would be called on, and call nothing               |
+| `pnpm brief --no-llm`                                | skip the LLM stage; every item keeps its source excerpt                   |
+| `pnpm brief --re-enrich <date> --diff`               | re-summarize an archived issue to evaluate a prompt change                |
 | `pnpm brief --weekly [<date>]`                       | weekly review out of the archive — fetches nothing, archived as `.weekly` |
-| `pnpm brief:schedule`                                | regenerate the workflow cron from the config                         |
-| `pnpm check:schedule`                                | fail if the workflow and the config disagree                         |
-| `pnpm validate`                                      | validate the config and exit                                         |
-| `pnpm site:build`                                    | compile `archive/` into the static site under `site/`                |
-| `pnpm test`                                          | vitest (pure functions only — no network, no SMTP, no temp files)    |
-| `pnpm lint` / `pnpm format:check` / `pnpm typecheck` | the rest of CI                                                       |
+| `pnpm brief:schedule`                                | regenerate the workflow cron from the config                              |
+| `pnpm check:schedule`                                | fail if the workflow and the config disagree                              |
+| `pnpm validate`                                      | validate the config and exit                                              |
+| `pnpm site:build`                                    | compile `archive/` into the static site under `site/`                     |
+| `pnpm test`                                          | vitest (pure functions only — no network, no SMTP, no temp files)         |
+| `pnpm lint` / `pnpm format:check` / `pnpm typecheck` | the rest of CI                                                            |
 
 ## Layout
 
