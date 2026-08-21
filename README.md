@@ -250,6 +250,39 @@ slower than monthly needs `staleAfterDays`, or the health check will report it a
 The full inventory — every source, its measured cadence, and the ones deliberately left out — is
 [docs/SOURCES.md](docs/SOURCES.md).
 
+### Clean up a source's boilerplate
+
+Feeds glue fixed noise onto every entry: `点击查看原文`, a bare `Comments`, `The post … appeared
+first on The GitHub Blog`, a ` - thepaper.cn` suffix, a newsletter pitch in front of the actual
+sentence. `stripPatterns` is a list of case-insensitive regexes removed from the **title and the
+excerpt** before anything else runs, and an invalid regex fails config load rather than the 07:10
+run.
+
+```yaml
+sources:
+  - name: infoq-cn
+    type: rss
+    stripPatterns: ['点击查看原文>?']
+    params: { url: https://www.infoq.cn/feed }
+```
+
+An excerpt that was nothing but boilerplate ends up absent rather than empty, which is the honest
+answer — that source has no readable summary to give, and no regex can invent one.
+
+Two related knobs sit next to it. `render.excerptMaxChars` (default 300) is the character budget,
+and the excerpt is cut at the last full sentence that fits inside it rather than mid-word.
+`dedupe.titleSimilarity` (default 0.2) catches the same story rewritten by a second outlet — the
+Dice coefficient over character 4-grams of the normalized title. Both defaults were measured
+against real archived issues; the reasoning is in the comments in `brief.config.yaml`, and
+`stripPatterns` has to run first or a shared source suffix scores higher than a real cross-post.
+
+### Retire a section without deleting it
+
+Set `enabled: false` on the section. Its sources stay declared and keep validating, they are simply
+never fetched, and the health check stops reporting them. Turning it back on is one line and needs
+no cron regeneration. `recipients[].enabled` and `schedules[].enabled` work the same way, and like
+those, a disabled section is skipped even when `--sections` names it explicitly.
+
 ### Change the delivery time
 
 ```bash
@@ -263,9 +296,12 @@ env var or a repo variable. So the config stays the source of truth and the cron
 it. `pnpm check:schedule` fails CI if you edit the time and forget to regenerate, which is the
 difference between finding out at commit time and finding out on the morning nothing arrives.
 
-Delivery lands between 08:00 and 08:30 Beijing time: Actions schedules routinely run 5–30 minutes
-late, and the top of the hour is the most congested slot. `lookbackHours` covers the window, so a
-skipped run loses no content.
+The trigger is `07:10`, and that number is doing two jobs. Actions schedules routinely run 5–30
+minutes late, so the brief lands by roughly 07:35 at worst — early enough that the summary stages
+planned in [docs/LLM-SUMMARY.md](docs/LLM-SUMMARY.md) can add their 1–3 minutes without pushing
+delivery past breakfast. And `:10` is deliberate: `:00` and `:30` are the two most congested
+minutes in GitHub's scheduler, and the old cron sat on `:00`. `lookbackHours` covers the whole
+window either way, so a skipped run loses no content.
 
 If you set `timezone` to a zone with daylight saving, the generator prints a warning and annotates
 the workflow — a fixed UTC cron is one hour wrong for half the year.
@@ -319,7 +355,10 @@ fully unit-tested, no API key and no quota. The archive stores the raw items, so
 layer could later be replayed over history without re-fetching.
 
 **The archive is also the state.** Cross-day dedupe reads the last 14 days of archived JSON — there
-is no second state file to drift out of sync.
+is no second state file to drift out of sync. That check runs on canonical URL, then exact title,
+then near-identical title, so a story rewritten by a second outlet does not spend two seats in one
+section. Titles whose numbers disagree are never merged: `Rust 1.98.0` and `Rust 1.99.0` read
+alike and are not the same release.
 
 **The daily archive commit is what keeps the schedule alive.** GitHub disables scheduled workflows
 in a public repo after 60 days of inactivity, and only commits on the _default branch_ count. One

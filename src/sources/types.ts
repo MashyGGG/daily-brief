@@ -1,4 +1,5 @@
 import type { RawItem, Source } from '../config/schema'
+import { compileStripPatterns, type NormalizeOptions } from '../core/normalize'
 
 export type FetchLike = (
   url: string,
@@ -10,6 +11,19 @@ export interface FetchContext {
   fetchImpl: FetchLike
   env: NodeJS.ProcessEnv
   timeoutMs: number
+  /** `render.excerptMaxChars`; omitted falls back to `EXCERPT_MAX`. */
+  excerptMaxChars?: number
+}
+
+/**
+ * Per-source normalization knobs: that source's own boilerplate patterns plus the run's
+ * excerpt budget. Compiled once per fetch rather than once per item.
+ */
+export function normalizeOptions(source: Source, ctx: FetchContext): NormalizeOptions {
+  return {
+    stripPatterns: compileStripPatterns(source.stripPatterns),
+    excerptMaxChars: ctx.excerptMaxChars,
+  }
 }
 
 export type Fetcher<S extends Source = Source> = (

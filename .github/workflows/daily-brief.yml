@@ -4,7 +4,7 @@ on:
   schedule:
     # BEGIN generated schedule
     # generated from brief.config.yaml - run `pnpm brief:schedule` after editing, do not hand-edit
-    - cron: '0 0 * * *' # morning - 08:00 Asia/Shanghai
+    - cron: '10 23 * * *' # morning - 07:10 Asia/Shanghai (previous UTC day)
     # END generated schedule
   workflow_dispatch:
     inputs:

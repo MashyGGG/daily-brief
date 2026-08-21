@@ -245,3 +245,25 @@ describe('the committed workflow matches the committed config', () => {
     expect(applyScheduleBlock(workflow, cfg)).toBe(workflow)
   })
 })
+
+describe('M0 — the trigger moved to 07:10 to absorb the LLM stages', () => {
+  it('07:10 Asia/Shanghai runs at 23:10 UTC on the previous day', () => {
+    const parts = localTimeToUtcCron('07:10', 'Asia/Shanghai')
+    expect(parts.cron).toBe('10 23 * * *')
+    expect(parts.dayShift).toBe(-1)
+  })
+
+  it('lands on a minute that is neither :00 nor :30 — those are the crowded ones', () => {
+    const minute = Number(localTimeToUtcCron('07:10', 'Asia/Shanghai').cron.split(' ')[0])
+    expect(minute % 30).not.toBe(0)
+  })
+
+  it('still reverse-looks-up the schedule from the cron GitHub reports', () => {
+    const cfg = config(`timezone: Asia/Shanghai
+schedules:
+  - id: morning
+    time: '07:10'
+`)
+    expect(findScheduleByCron(cfg, '10 23 * * *').id).toBe('morning')
+  })
+})

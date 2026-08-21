@@ -1,7 +1,7 @@
 import { XMLParser } from 'fast-xml-parser'
 import type { RawItem, Source } from '../config/schema'
-import { normalize } from '../core/normalize'
-import { httpGetText, type FetchContext } from './types'
+import { normalize, type NormalizeOptions } from '../core/normalize'
+import { httpGetText, normalizeOptions, type FetchContext } from './types'
 
 type RssSource = Extract<Source, { type: 'rss' }>
 
@@ -68,7 +68,12 @@ function atomLink(entry: Record<string, unknown>): string | undefined {
 }
 
 /** Parse an RSS 2.0 or Atom document into raw items. Exported for the unit tests. */
-export function parseFeed(xml: string, sourceName: string, now: Date): RawItem[] {
+export function parseFeed(
+  xml: string,
+  sourceName: string,
+  now: Date,
+  options: NormalizeOptions = {},
+): RawItem[] {
   const doc = parser.parse(xml) as Record<string, unknown>
 
   const rssChannel = (doc.rss as Record<string, unknown> | undefined)?.channel as
@@ -107,6 +112,7 @@ export function parseFeed(xml: string, sourceName: string, now: Date): RawItem[]
     const item = normalize(
       { title, url, source: sourceName, publishedAt: published, excerpt, author },
       now,
+      options,
     )
     if (item) items.push(item)
   }
@@ -117,5 +123,8 @@ export async function fetchRss(source: RssSource, ctx: FetchContext): Promise<Ra
   const xml = await httpGetText(source.params.url, ctx, {
     accept: 'application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8',
   })
-  return parseFeed(xml, source.name, ctx.now).slice(0, source.params.limit)
+  return parseFeed(xml, source.name, ctx.now, normalizeOptions(source, ctx)).slice(
+    0,
+    source.params.limit,
+  )
 }

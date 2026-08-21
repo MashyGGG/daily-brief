@@ -395,3 +395,63 @@ describe('RECIPIENTS_OVERRIDE_JSON (§3.1 rule 3)', () => {
     )
   })
 })
+
+describe('M0 — the knobs that replaced three hard-coded constants', () => {
+  const withSections = (yaml: string) => parseConfig(configYaml({ sections: yaml }), EMPTY_ENV)
+
+  it('defaults a section to enabled, so existing configs keep every section', () => {
+    expect(parseConfig(configYaml(), EMPTY_ENV).sections.every((s) => s.enabled)).toBe(true)
+  })
+
+  it('accepts a retired section without touching its sources', () => {
+    const config = withSections(`sections:
+  - id: tech
+    title: 国际技术
+    sources: [hn-front]
+    limit: 8
+    enabled: false
+  - id: news
+    title: 国际要闻
+    sources: [verge]
+    limit: 5
+`)
+    expect(config.sections[0]!.enabled).toBe(false)
+    expect(config.sections[0]!.sources).toEqual(['hn-front'])
+  })
+
+  it('defaults stripPatterns to empty, and render / dedupe to their measured values', () => {
+    const config = parseConfig(configYaml(), EMPTY_ENV)
+    expect(config.sources[0]!.stripPatterns).toEqual([])
+    expect(config.render.excerptMaxChars).toBe(300)
+    expect(config.dedupe.titleSimilarity).toBe(0.2)
+  })
+
+  it('rejects a stripPattern that is not a valid regex, at load rather than at 07:10', () => {
+    expectIssue(
+      () =>
+        parseConfig(
+          configYaml({
+            sources: `sources:
+  - name: hn-front
+    type: hackernews
+    weight: 1.2
+    stripPatterns: ['[unclosed']
+    params: { mode: front_page, minPoints: 100 }
+  - name: verge
+    type: rss
+    params: { url: https://www.theverge.com/rss/index.xml }
+`,
+          }),
+          EMPTY_ENV,
+        ),
+      'stripPatterns',
+    )
+  })
+
+  it('rejects a similarity outside 0..1 rather than silently clamping it', () => {
+    expectIssue(
+      () => parseConfig(configYaml() + '\ndedupe:\n  titleSimilarity: 1.5\n', EMPTY_ENV),
+      'titleSimilarity',
+    )
+  })
+})

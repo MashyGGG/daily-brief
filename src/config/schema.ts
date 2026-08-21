@@ -56,12 +56,39 @@ const STALE_AFTER_DAYS = z
   .max(365 * 10)
   .optional()
 
+/**
+ * Boilerplate the feed glues onto every title and excerpt — `appeared first on The GitHub
+ * Blog`, `点击查看原文`, a bare `Comments`, a trailing ` - thepaper.cn`. Case-insensitive
+ * JavaScript regexes, applied before truncation.
+ *
+ * These also feed the title-similarity check (`dedupe.titleSimilarity`): measured on the
+ * 08-20/08-21 archives, a shared source suffix scored *higher* (0.327) than a genuine
+ * cross-post of the same story (0.306), so leaving the boilerplate in makes near-dupe
+ * detection actively wrong rather than merely noisy.
+ */
+const STRIP_PATTERNS = z
+  .array(
+    z
+      .string()
+      .min(1)
+      .refine((p) => {
+        try {
+          new RegExp(p, 'gi')
+          return true
+        } catch {
+          return false
+        }
+      }, 'must be a valid JavaScript regular expression'),
+  )
+  .default([])
+
 export const sourceSchema = z.discriminatedUnion('type', [
   z.object({
     name: ID,
     type: z.literal('rss'),
     weight: z.number().positive().default(1),
     staleAfterDays: STALE_AFTER_DAYS,
+    stripPatterns: STRIP_PATTERNS,
     params: z.object({
       url: z.string().url(),
       limit: z.number().int().positive().max(200).default(50),
@@ -72,6 +99,7 @@ export const sourceSchema = z.discriminatedUnion('type', [
     type: z.literal('hackernews'),
     weight: z.number().positive().default(1),
     staleAfterDays: STALE_AFTER_DAYS,
+    stripPatterns: STRIP_PATTERNS,
     params: z.object({
       mode: z.enum(['front_page', 'new', 'show_hn']).default('front_page'),
       minPoints: z.number().int().nonnegative().default(0),
@@ -83,6 +111,7 @@ export const sourceSchema = z.discriminatedUnion('type', [
     type: z.literal('github'),
     weight: z.number().positive().default(1),
     staleAfterDays: STALE_AFTER_DAYS,
+    stripPatterns: STRIP_PATTERNS,
     params: z.object({
       language: z.string().min(1).optional(),
       query: z.string().min(1).optional(),
@@ -101,6 +130,13 @@ export const sectionSchema = z.object({
   minPerSource: z.number().int().nonnegative().default(0),
   include: z.array(z.string().min(1)).default([]),
   exclude: z.array(z.string().min(1)).default([]),
+  /**
+   * Retiring a section is one flag, not a deletion: the sources it names stay declared,
+   * `--sections <id>` keeps validating, and turning it back on needs no cron regeneration.
+   * Same semantics as `recipients[].enabled` — a disabled section is skipped even when
+   * something names it explicitly.
+   */
+  enabled: z.boolean().default(true),
 })
 
 export const archiveSchema = z
@@ -110,6 +146,34 @@ export const archiveSchema = z
     indexKeep: z.number().int().positive().default(30),
     commit: z.boolean().default(true),
     dedupeLookbackDays: z.number().int().positive().max(90).default(14),
+  })
+  .default({})
+
+/**
+ * §0.1 ② — an excerpt cut at exactly N characters lands mid-word half the time.
+ * `excerptMaxChars` is the budget; `toExcerpt` spends it down to the last sentence
+ * boundary that fits, so the reader gets a whole thought or an honest ellipsis.
+ */
+export const renderSchema = z
+  .object({
+    excerptMaxChars: z.number().int().min(40).max(2000).default(300),
+  })
+  .default({})
+
+/**
+ * Near-duplicate titles. Exact-title dedupe misses the case that actually costs seats:
+ * Chinese tech sites re-report each other's stories under freshly written headlines,
+ * so one section spends two of its limit on one story.
+ *
+ * `titleSimilarity` is the Dice coefficient over character 4-grams of the normalized
+ * title; `0` disables the check. Measured over the 08-20/08-21 archives (43 titles):
+ * the one genuine cross-post scored 0.286, the highest-scoring unrelated pair 0.086 —
+ * 0.2 sits inside that 3.3x gap. 4-grams and not 3: at n=3 the gap narrows to
+ * 0.306 vs 0.153, and at n=2 it inverts (0.341 vs 0.444) and the check becomes harmful.
+ */
+export const dedupeSchema = z
+  .object({
+    titleSimilarity: z.number().min(0).max(1).default(0.2),
   })
   .default({})
 
@@ -135,6 +199,8 @@ export type Schedule = z.infer<typeof scheduleSchema>
 export type Source = z.infer<typeof sourceSchema>
 export type Section = z.infer<typeof sectionSchema>
 export type ArchiveConfig = z.infer<typeof archiveSchema>
+export type RenderConfig = z.infer<typeof renderSchema>
+export type DedupeConfig = z.infer<typeof dedupeSchema>
 export type Recipient = z.infer<typeof recipientSchema>
 
 /** Channels whose destination lives entirely inside a secret. */
@@ -148,6 +214,8 @@ export const briefConfigSchema = z
     sources: z.array(sourceSchema).min(1),
     sections: z.array(sectionSchema).min(1),
     archive: archiveSchema,
+    render: renderSchema,
+    dedupe: dedupeSchema,
     recipients: z.array(recipientSchema).min(1),
   })
   .superRefine((cfg, ctx) => {

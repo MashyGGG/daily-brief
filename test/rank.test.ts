@@ -18,6 +18,7 @@ const section = (over: Partial<Section> = {}): Section => ({
   minPerSource: 0,
   include: [],
   exclude: [],
+  enabled: true,
   ...over,
 })
 

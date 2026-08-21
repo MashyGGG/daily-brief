@@ -14,6 +14,7 @@ function rssSource(name: string, staleAfterDays?: number): Source {
     name,
     type: 'rss',
     weight: 1,
+    stripPatterns: [],
     ...(staleAfterDays !== undefined ? { staleAfterDays } : {}),
     params: { url: `https://example.com/${name}.xml`, limit: 50 },
   }

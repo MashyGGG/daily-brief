@@ -480,3 +480,71 @@ describe('cli argument parsing', () => {
     expect(() => parseArgs(['--schedule'])).toThrow(/needs a value/)
   })
 })
+
+describe('§4 — a retired section costs nothing at run time', () => {
+  const retired = parseConfig(
+    configYaml({
+      sources: `sources:
+  - name: alpha
+    type: rss
+    weight: 1.2
+    params: { url: https://alpha.com/rss }
+  - name: beta
+    type: rss
+    weight: 1.0
+    params: { url: https://beta.com/rss }
+`,
+      sections: `sections:
+  - id: tech
+    title: 国际技术
+    sources: [alpha]
+    limit: 5
+  - id: news
+    title: 国际要闻
+    sources: [beta]
+    limit: 5
+    enabled: false
+`,
+      recipients: `recipients:
+  - id: me-wecom
+    channel: wecom
+    secretRef: WECOM_WEBHOOK_ME
+    sections: ['*']
+`,
+    }),
+    {},
+  )
+
+  const runRetired = async (over: Record<string, unknown> = {}) => {
+    const fetched: string[] = []
+    const result = await run({
+      config: retired,
+      configHash: 'hash',
+      now: NOW,
+      env: {},
+      dryRun: true,
+      fetchImpl: async (url) => {
+        fetched.push(url)
+        return okFetch(url)
+      },
+      channelContext: channelContext(),
+      fs: memoryFs(),
+      ...over,
+    })
+    return { result, fetched }
+  }
+
+  it('leaves the section out of the brief entirely', async () => {
+    const { result } = await runRetired()
+    expect(result.brief.sections.map((s) => s.id)).toEqual(['tech'])
+  })
+
+  it('never requests the sources only that section named', async () => {
+    const { fetched } = await runRetired()
+    expect(fetched.some((u) => u.includes('beta'))).toBe(false)
+  })
+
+  it('skips it even when --sections names it explicitly, as a disabled recipient is skipped', async () => {
+    await expect(runRetired({ sections: ['news'] })).rejects.toThrow('No sections selected')
+  })
+})

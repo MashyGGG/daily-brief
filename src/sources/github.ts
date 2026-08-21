@@ -1,6 +1,6 @@
 import type { RawItem, Source } from '../config/schema'
-import { normalize } from '../core/normalize'
-import { httpGetJson, type FetchContext } from './types'
+import { normalize, type NormalizeOptions } from '../core/normalize'
+import { httpGetJson, normalizeOptions, type FetchContext } from './types'
 
 type GhSource = Extract<Source, { type: 'github' }>
 
@@ -45,7 +45,12 @@ export function buildGithubUrl(params: GhSource['params'], now: Date): string {
   return `${SEARCH}?${search.toString()}`
 }
 
-export function parseRepos(repos: GhRepo[], sourceName: string, now: Date): RawItem[] {
+export function parseRepos(
+  repos: GhRepo[],
+  sourceName: string,
+  now: Date,
+  options: NormalizeOptions = {},
+): RawItem[] {
   const items: RawItem[] = []
   for (const repo of repos) {
     const language = repo.language ? ` · ${repo.language}` : ''
@@ -61,6 +66,7 @@ export function parseRepos(repos: GhRepo[], sourceName: string, now: Date): RawI
         excerpt: `${repo.description ?? '(no description)'} — ★${repo.stargazers_count ?? 0}${language}`,
       },
       now,
+      options,
     )
     if (item) items.push(item)
   }
@@ -74,5 +80,8 @@ export async function fetchGithub(source: GhSource, ctx: FetchContext): Promise<
   if (token) headers.authorization = `Bearer ${token}`
 
   const res = await httpGetJson<GhResponse>(buildGithubUrl(source.params, ctx.now), ctx, headers)
-  return parseRepos(res.items ?? [], source.name, ctx.now).slice(0, source.params.limit)
+  return parseRepos(res.items ?? [], source.name, ctx.now, normalizeOptions(source, ctx)).slice(
+    0,
+    source.params.limit,
+  )
 }

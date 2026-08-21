@@ -16,6 +16,7 @@ const section = (over: Partial<Section> = {}): Section => ({
   minPerSource: 0,
   include: [],
   exclude: [],
+  enabled: true,
   ...over,
 })
 
@@ -117,15 +118,23 @@ describe('minScoreBySource', () => {
         name: 'hn-front',
         type: 'hackernews',
         weight: 1,
+        stripPatterns: [],
         params: { mode: 'front_page', minPoints: 100, limit: 50 },
       },
       {
         name: 'gh',
         type: 'github',
         weight: 1,
+        stripPatterns: [],
         params: { createdWithinDays: 7, minStars: 50, limit: 30 },
       },
-      { name: 'verge', type: 'rss', weight: 1, params: { url: 'https://a.com/rss', limit: 50 } },
+      {
+        name: 'verge',
+        type: 'rss',
+        weight: 1,
+        stripPatterns: [],
+        params: { url: 'https://a.com/rss', limit: 50 },
+      },
     ]
     expect(minScoreBySource(sources)).toEqual({ 'hn-front': 100, gh: 50 })
   })

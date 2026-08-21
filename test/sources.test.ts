@@ -194,6 +194,7 @@ describe('github', () => {
         name: 'gh',
         type: 'github',
         weight: 1,
+        stripPatterns: [],
         params: { createdWithinDays: 7, minStars: 0, limit: 30 },
       },
       { now: NOW, env: { GITHUB_TOKEN: 'ghp_x' }, timeoutMs: 1000, fetchImpl },
@@ -226,8 +227,20 @@ describe('normalize', () => {
 
 describe('A5 — a failing source never takes down the brief', () => {
   const sources: Source[] = [
-    { name: 'good', type: 'rss', weight: 1, params: { url: 'https://a.com/rss', limit: 50 } },
-    { name: 'bad', type: 'rss', weight: 1, params: { url: 'https://b.com/rss', limit: 50 } },
+    {
+      name: 'good',
+      type: 'rss',
+      weight: 1,
+      stripPatterns: [],
+      params: { url: 'https://a.com/rss', limit: 50 },
+    },
+    {
+      name: 'bad',
+      type: 'rss',
+      weight: 1,
+      stripPatterns: [],
+      params: { url: 'https://b.com/rss', limit: 50 },
+    },
   ]
 
   it('records a warning for the failure and keeps the good source', async () => {

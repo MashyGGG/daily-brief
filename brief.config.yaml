@@ -28,7 +28,13 @@ title: 每日早报
 
 schedules:
   - id: morning
-    time: '08:00' # local time; generated as a UTC cron. Actions drift means it lands 08:00–08:30.
+    # 07:10 CST = 23:10 UTC（前一日），生成的 cron 是 `10 23 * * *`。
+    # 提前 50 分钟有两个原因，缺一不可：
+    #   1. M2 的抓正文 + LLM 摘要会给运行时长净增 1–3 分钟；
+    #   2. `:00` 和 `:30` 是全球 Actions 定时任务最拥挤的两个分钟，排队漂移最大。
+    # 时间账：07:10 触发 + 排队 0–20min + 运行 3–5min ⇒ 最坏 07:35 送达。
+    # 改这一行之后必须跑 `pnpm brief:schedule`，否则 `pnpm check:schedule` 会让 CI 红。
+    time: '07:10'
     lookbackHours: 24 # a skipped run loses nothing: the next one still sees the same window
     sections: ['*']
     recipients: ['*']
@@ -63,6 +69,9 @@ sources:
   - name: lobsters
     type: rss
     weight: 0.9
+    # excerpt 整条就是一个指向评论页的 <a>Comments</a>，剥完标签只剩这一个词。
+    # 去掉之后这个源变成「有标题没摘要」—— 那是 §0.1 第 ③ 类病，只有 M2 抓正文能治。
+    stripPatterns: ['^Comments$']
     params: { url: https://lobste.rs/rss }
 
   # ── 国际技术：架构与工程 ──────────────────────────────────────────────
@@ -80,6 +89,7 @@ sources:
     type: rss
     weight: 1.2
     staleAfterDays: 90 # 今天 0.5 天前更新，但他一向能连着几个月不发
+    stripPatterns: ['\s*more…\s*$'] # 摘要末尾的 "more…" 是「阅读全文」按钮，不是内容
     params: { url: https://martinfowler.com/feed.atom }
 
   - name: pragmatic-engineer
@@ -129,6 +139,11 @@ sources:
   - name: github-changelog
     type: rss
     weight: 1.0
+    # WordPress 贴在每条 description 末尾的固定尾巴："The post <标题> appeared first on The GitHub Blog."
+    # 它把 300 字预算里的几十字换成了一句重复的标题。锚在结尾，只吃这条尾巴。
+    # `\s*\.?` and not `\.?`: the trailing period lives inside its own <a> in the feed, so
+    # stripHtml leaves "The GitHub Blog ." with a space in front of the dot.
+    stripPatterns: ['\s*The post .{0,200}?appeared first on The GitHub Blog\s*\.?\s*$']
     params: { url: https://github.blog/changelog/feed/ }
 
   - name: cloudflare
@@ -303,6 +318,8 @@ sources:
   - name: infoq-cn
     type: rss
     weight: 1.0
+    # feed 里的 description 恒为「点击查看原文>」，一个字的内容都没有。
+    stripPatterns: ['点击查看原文>?']
     params: { url: https://www.infoq.cn/feed }
 
   - name: ruanyifeng
@@ -324,6 +341,7 @@ sources:
   - name: sspai
     type: rss
     weight: 0.8
+    stripPatterns: ['\s*查看全文\s*$'] # 摘要尾部的「查看全文」是按钮文案
     params: { url: https://sspai.com/feed }
 
   # ── 国际要闻 ────────────────────────────────────────────────────────
@@ -335,6 +353,14 @@ sources:
   - name: guardian-world
     type: rss
     weight: 0.9
+    # 卫报把订阅推广直接写在 description 里，而且是在正文前面 —— 300 字预算里往往有
+    # 一半花在「订阅我们的新闻邮件」上。三条都是 2026-08-21 实跑里逐字抄下来的。
+    stripPatterns:
+      [
+        'Get our breaking news email\s*,?\s*free app or daily news podcast',
+        'Sign up for the US Breaking News email',
+        'Follow (today’s news live|our [^.]{0,60}? live blog for latest updates)',
+      ]
     params: { url: https://www.theguardian.com/world/rss }
 
   - name: aljazeera
@@ -353,6 +379,10 @@ sources:
   - name: thepaper
     type: rss
     weight: 0.9
+    # Google News 的转发格式，标题和摘要都会被缀上「 - thepaper.cn」。必须去掉：两条毫不
+    # 相干的澎湃文章仅凭这个共享后缀，就能在 4-gram 相似度上刷到 0.327 —— 比真正的跨源
+    # 转载（0.286）还高，会把 dedupe.titleSimilarity 从去重器变成误杀器。
+    stripPatterns: ['\s*[-–—]?\s*thepaper\.cn\s*$']
     params:
       url: 'https://news.google.com/rss/search?q=when:24h+site:thepaper.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
       limit: 40
@@ -360,12 +390,16 @@ sources:
   - name: gnews-cn
     type: rss
     weight: 0.8
+    # 同 thepaper，是 Google News 的「标题 - 来源域名」格式，只是域名逐条不同，
+    # 所以这里匹配的是形状而不是某个具体域名。只对这个源生效，不会波及正常标题。
+    stripPatterns: ['\s*[-–—]\s*[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)+\s*$']
     params:
       url: 'https://news.google.com/rss?hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
       limit: 40
 
 sections:
-  # 各栏 limit 相加 = 每日上限 25 条；低频源常年空栏，实际稳定在 15–20 条。
+  # 各栏 limit 相加 = 每日上限 22 条（releases 已 enabled: false，它的 3 席不计）；
+  # 低频源常年空栏，实际稳定在 15–20 条。
   # 想要更短就调 limit，不要删源 —— 源多是好事，`limit` 才是长度旋钮。
   # 改了下面任何一个 limit，记得回来把这行的数字也改掉。
   - id: tech
@@ -424,6 +458,11 @@ sections:
 
   - id: releases
     title: 依赖发版
+    # 关栏而不是删配置：8 个 release 源保持声明（`--sections releases` 仍然校验得过），
+    # 它们只是不再被任何启用的栏引用，因而整轮不发一次 HTTP 请求、也不再产生 staleAfterDays 告警。
+    # 关掉的理由：发版消息的标题即全部信息（"v4.1.1"），正文永远读不出增量，却要占 3 个席位。
+    # 回滚就是把这一行改回 true —— 不需要重新生成 cron，不需要迁移归档。
+    enabled: false
     sources:
       [
         nextjs-releases,
@@ -461,6 +500,23 @@ archive:
   indexKeep: 30 # index.md lists the last 30 issues; the files themselves are kept forever
   commit: true # set false (or pass --no-commit) when running locally
   dedupeLookbackDays: 14 # cross-day dedupe reads this many days of archived JSON
+
+render:
+  # 源摘要的字符预算。normalize 会在预算内退到最后一个完整句子，退不动才补省略号，
+  # 所以这个数字是「最多」而不是「一定」—— 实际长度按句子落点浮动。
+  excerptMaxChars: 300
+
+dedupe:
+  # 跨源同题去重：标题归一化后取字符 4-gram，算 Dice 系数，>= 这个值就判为同一条。
+  # 阈值不是拍的 —— 用 08-20/08-21 两期归档（43 条标题）实测：
+  #   真重复（oschina 与 36kr-ai 转载同一条 DeepSeek Harness 新闻）  0.286
+  #   最高的无关配对（两条毫不相干的英文技术文）                      0.086
+  # 0.2 落在这 3.3 倍的间距中间。用 4-gram 而不是 3-gram：n=3 时间距收窄到
+  # 0.306 vs 0.153，n=2 时直接反转（0.341 vs 0.444），那会开始误杀真新闻。
+  # 这个检查依赖 sources[].stripPatterns 先把标题里的固定后缀去掉：`- thepaper.cn`
+  # 这种共享后缀本身就能刷到 0.327，比真重复还高。
+  # 置 0 关闭，只保留完全相同标题的老行为。
+  titleSimilarity: 0.2
 
 recipients:
   - id: me-wecom

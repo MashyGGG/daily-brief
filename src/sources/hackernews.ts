@@ -1,6 +1,6 @@
 import type { RawItem, Source } from '../config/schema'
-import { normalize } from '../core/normalize'
-import { httpGetJson, type FetchContext } from './types'
+import { normalize, type NormalizeOptions } from '../core/normalize'
+import { httpGetJson, normalizeOptions, type FetchContext } from './types'
 
 type HnSource = Extract<Source, { type: 'hackernews' }>
 
@@ -43,7 +43,12 @@ export function buildHnUrl(params: HnSource['params']): string {
   }
 }
 
-export function parseHnHits(hits: AlgoliaHit[], sourceName: string, now: Date): RawItem[] {
+export function parseHnHits(
+  hits: AlgoliaHit[],
+  sourceName: string,
+  now: Date,
+  options: NormalizeOptions = {},
+): RawItem[] {
   const items: RawItem[] = []
   for (const hit of hits) {
     const title = hit.title ?? hit.story_title ?? ''
@@ -61,6 +66,7 @@ export function parseHnHits(hits: AlgoliaHit[], sourceName: string, now: Date): 
         excerpt: `${hit.points ?? 0} points · ${comments} comments · https://news.ycombinator.com/item?id=${hit.objectID}`,
       },
       now,
+      options,
     )
     if (item) items.push(item)
   }
@@ -69,5 +75,8 @@ export function parseHnHits(hits: AlgoliaHit[], sourceName: string, now: Date): 
 
 export async function fetchHackerNews(source: HnSource, ctx: FetchContext): Promise<RawItem[]> {
   const res = await httpGetJson<AlgoliaResponse>(buildHnUrl(source.params), ctx)
-  return parseHnHits(res.hits ?? [], source.name, ctx.now).slice(0, source.params.limit)
+  return parseHnHits(res.hits ?? [], source.name, ctx.now, normalizeOptions(source, ctx)).slice(
+    0,
+    source.params.limit,
+  )
 }

@@ -113,7 +113,12 @@ export async function run(options: RunOptions): Promise<RunResult> {
   const describeError = (err: unknown) => safeErrorMessage(err, secrets)
 
   const schedule = resolveSchedule(options)
-  const sections = resolveSections(intersect(schedule.sections, options.sections), config.sections)
+  // A disabled section is skipped even when the schedule or `--sections` names it, exactly
+  // as a disabled recipient is — the flag is the editorial decision, the list is routing.
+  const sections = resolveSections(
+    intersect(schedule.sections, options.sections),
+    config.sections,
+  ).filter((s) => s.enabled)
   const recipients = resolveRecipients(
     intersect(schedule.recipients, options.recipients),
     config.recipients,
@@ -137,6 +142,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
       env,
       fetchImpl: options.fetchImpl,
       timeoutMs: options.timeoutMs ?? 20_000,
+      excerptMaxChars: config.render.excerptMaxChars,
       onError: (_name, err) => describeError(err),
     })
 
@@ -166,7 +172,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
         )
       : emptySeen()
 
-    const deduped = dedupe(fetched, seen)
+    const deduped = dedupe(fetched, seen, config.dedupe.titleSimilarity)
     dedupeDropped = { withinRun: deduped.droppedWithinRun, alreadySeen: deduped.droppedAsSeen }
 
     const floors = minScoreBySource(config.sources)
