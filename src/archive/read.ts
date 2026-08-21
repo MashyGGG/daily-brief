@@ -1,4 +1,4 @@
-import type { Item } from '../config/schema'
+import type { BriefDigest, Item } from '../config/schema'
 import { nodeFs, type FsLike } from './fs'
 import { archiveNames, parseArchiveFilename, recentDates } from './paths'
 import type { IndexEntry } from '../render/markdown'
@@ -14,6 +14,8 @@ export interface ArchiveRecord {
   lookbackHours: number
   itemCount: number
   items: Item[]
+  /** §9 M3 — the issue's 导读, when the model wrote one. Absent on every pre-M3 record. */
+  digest?: BriefDigest
   warnings: string[]
 }
 

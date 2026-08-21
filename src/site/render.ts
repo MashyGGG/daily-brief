@@ -1,6 +1,7 @@
 import type { Item } from '../config/schema'
 import { escapeHtml, safeHref } from '../render/html'
 import { itemBody } from '../render/markdown'
+import type { ArchiveRecord } from '../archive/read'
 import type { IssueSection, SiteIssue } from './collect'
 import { groupByMonth } from './collect'
 
@@ -37,6 +38,10 @@ ol.items li .t{font-size:15px;font-weight:600}
 ol.items li .t::before{content:counter(i) ".";color:var(--muted);font-weight:400;margin-right:6px}
 .meta{margin-top:4px;color:var(--muted);font-size:12px}
 .excerpt{margin-top:6px;color:var(--muted);font-size:13px}
+.digest{margin-top:20px;padding:14px 16px;border-radius:8px;
+  background:var(--card);border:1px solid var(--line)}
+.digest h3{margin:0;font-size:13px;font-weight:600;color:var(--link);letter-spacing:0.5px}
+.digest p{margin:6px 0 0;font-size:14px;line-height:1.75}
 .takeaways{margin:6px 0 0;padding-left:18px;color:var(--muted);font-size:13px;line-height:1.7}
 .warn{margin-top:28px;padding:12px 14px;border-radius:6px;font-size:13px;
   background:var(--warn-bg);border:1px solid var(--warn-line);color:var(--warn-fg)}
@@ -112,6 +117,15 @@ function renderItem(item: Item): string {
   ].join('')
 }
 
+/** §9 M3 — the issue's 导读, when that morning's run wrote one. Pre-M3 issues have none. */
+function digestBlock(record: ArchiveRecord): string {
+  if (!record.digest) return ''
+  return [
+    '<div class="digest"><h3>今日导读</h3>',
+    `<p>${escapeHtml(record.digest.text)}</p></div>`,
+  ].join('')
+}
+
 function warningsBlock(warnings: string[]): string {
   if (warnings.length === 0) return ''
   return [
@@ -165,6 +179,7 @@ export function renderIssuePage(input: IssuePageInput): string {
     body: [
       topBar(input.siteTitle, up, 'issue'),
       `<p class="sub">${escapeHtml(heading)} · ${escapeHtml(record.scheduleId)} · 回溯 ${record.lookbackHours}h · ${record.itemCount} 条</p>`,
+      digestBlock(record),
       body || '<p class="empty">这一期没有达标内容。</p>',
       warningsBlock(record.warnings),
       `<div class="pager">${rel(input.older, '← 更早')}${rel(input.newer, '更新 →')}</div>`,

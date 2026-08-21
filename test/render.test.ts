@@ -374,3 +374,67 @@ describe('§5.2 — recipients[].detail', () => {
     expect(out.get('a')).toBe(out.get('b'))
   })
 })
+
+/** §9 M3 — the 导读: one block about the issue rather than about any item. */
+const DIGEST = {
+  text: '今天最值得看的是 GitHub 的故障复盘。',
+  meta: { by: 'llm' as const, model: 'm', promptVersion: '1', inputKind: 'summaries' as const },
+}
+
+describe('§5.3 / M3 — the 全刊导读', () => {
+  const withDigest = () => brief({ digest: DIGEST })
+
+  it('opens the markdown copy, above the first section', () => {
+    const blocks = renderMarkdownBlocks(withDigest())
+    expect(blocks[1]).toContain('今日导读')
+    expect(blocks[1]).toContain(DIGEST.text)
+    expect(blocks[2]).toContain('国际技术')
+  })
+
+  it('position: bottom moves it below the sections but above the warnings', () => {
+    const blocks = renderMarkdownBlocks(withDigest(), { digestPosition: 'bottom' })
+    expect(blocks[1]).not.toContain('今日导读')
+    expect(blocks[blocks.length - 2]).toContain('今日导读')
+  })
+
+  it('is rendered at detail: compact too — it is what says "worth opening the mail?"', () => {
+    const out = renderMarkdown(withDigest(), { detail: 'compact', compactMaxChars: 20 })
+    expect(out).toContain(DIGEST.text)
+  })
+
+  it('reaches the html mail and the plain-text alternative', () => {
+    expect(renderHtml(withDigest())).toContain(DIGEST.text)
+    expect(renderText(withDigest())).toContain('【今日导读】')
+  })
+
+  it('is escaped like everything else the model wrote', () => {
+    const hostile = brief({ digest: { ...DIGEST, text: '<script>alert(1)</script>' } })
+    expect(renderHtml(hostile)).not.toContain('<script>')
+    expect(renderMarkdown(hostile)).toContain(escapeMarkdown('<script>alert(1)</script>'))
+  })
+
+  it('an issue without one renders exactly as before', () => {
+    expect(renderMarkdown(brief())).not.toContain('今日导读')
+    expect(renderHtml(brief())).not.toContain('导读')
+  })
+
+  it('the archived .md carries it', () => {
+    expect(renderArchiveMarkdown(withDigest())).toContain('今日导读')
+  })
+
+  it('the weekly says 本周, and that is derived rather than configured', () => {
+    const weekly = brief({ digest: DIGEST, scheduleId: 'weekly', title: '每周回顾' })
+    const rendered = renderForRecipients(weekly, [
+      {
+        id: 'me-mail',
+        channel: 'email',
+        driver: 'smtp',
+        sections: ['*'],
+        format: 'html',
+        enabled: true,
+      } as Recipient,
+    ])
+    expect(rendered.get('me-mail')!.body).toContain('本周导读')
+    expect(rendered.get('me-mail')!.body).not.toContain('今日导读')
+  })
+})

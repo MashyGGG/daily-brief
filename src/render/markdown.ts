@@ -29,6 +29,26 @@ export interface RenderOptions {
   detail?: Detail
   /** `render.compactMaxChars`; ignored at `detail: full`. */
   compactMaxChars?: number
+  /** §9 M3 — heading above the 导读; the weekly says 本周 where the daily says 今日. */
+  digestTitle?: string
+  /** `llm.digest.position`. Kept out of the archived digest: it is taste, not provenance. */
+  digestPosition?: 'top' | 'bottom'
+}
+
+/** §5.3 — what the digest is called when the caller has not said. */
+export const DIGEST_TITLE = '今日导读'
+
+/**
+ * §9 M3 — the 导读 is rendered at BOTH detail levels, unlike takeaways. Three sentences
+ * saying what today is about is precisely the thing worth 200 bytes of a WeCom message:
+ * it is what tells the reader whether to go and open the mail at all.
+ */
+export function digestBlock(brief: Brief, options: RenderOptions = {}): string | null {
+  if (!brief.digest) return null
+  return [
+    `> **${escapeMarkdown(options.digestTitle ?? DIGEST_TITLE)}**`,
+    `> ${escapeMarkdown(brief.digest.text)}`,
+  ].join('\n')
 }
 
 /**
@@ -78,10 +98,15 @@ export function renderMarkdownBlocks(brief: Brief, options: RenderOptions = {}):
   const sections = nonEmptySections(brief)
   blocks.push(`# ${brief.title} · ${brief.date}`)
 
+  const digest = digestBlock(brief, options)
+  if (digest && options.digestPosition !== 'bottom') blocks.push(digest)
+
   for (const section of sections) {
     blocks.push(`## ${escapeMarkdown(section.title)}`)
     section.items.forEach((item, i) => blocks.push(renderItemMarkdown(item, i + 1, options)))
   }
+
+  if (digest && options.digestPosition === 'bottom') blocks.push(digest)
 
   if (brief.warnings.length > 0) {
     blocks.push(['> 抓取告警', ...brief.warnings.map((w) => `> - ${escapeMarkdown(w)}`)].join('\n'))
@@ -95,7 +120,7 @@ export function renderMarkdown(brief: Brief, options: RenderOptions = {}): strin
 }
 
 /** The archived `.md` carries a little more provenance than the pushed copy. */
-export function renderArchiveMarkdown(brief: Brief): string {
+export function renderArchiveMarkdown(brief: Brief, options: RenderOptions = {}): string {
   const header = [
     `# ${brief.title} · ${brief.date}${brief.slot ? ` · ${brief.slot}` : ''}`,
     '',
@@ -112,12 +137,16 @@ export function renderArchiveMarkdown(brief: Brief): string {
     })
     .join('\n\n')
 
+  const digest = digestBlock(brief, options)
+
   const warnings =
     brief.warnings.length > 0
       ? `\n\n## 告警\n\n${brief.warnings.map((w) => `- ${escapeMarkdown(w)}`).join('\n')}`
       : ''
 
-  return `${header}\n\n${body || '_今天没有达标内容。_'}${warnings}\n`
+  const opening = digest && options.digestPosition !== 'bottom' ? `${digest}\n\n` : ''
+  const closing = digest && options.digestPosition === 'bottom' ? `\n\n${digest}` : ''
+  return `${header}\n\n${opening}${body || '_今天没有达标内容。_'}${closing}${warnings}\n`
 }
 
 /** `index.md` — the last N issues, rebuilt on every run (§3.5). */

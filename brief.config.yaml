@@ -605,6 +605,37 @@ llm:
     # ↑ 故意不开。它与上面的 sections 开关是「与」的关系，一旦设成 zh，
     #   将来给 cn-tech 打开 summarize 会被它静默抵消，查起来很费劲。
 
+  # 全刊导读（文档 §5.3 / M3）：整期只调用一次，读者感知最强的一块。
+  # 它读的是「这一期最终长什么样」——条目摘要跑完之后才生成，所以它介绍的是
+  # 收件人真正拿到的那一期，而不是抓回来的原始 feed。
+  # 失败不写导读、不改 exitCode，其余部分照常送达（§6.1）。
+  digest:
+    enabled: true
+    sentences: 3 # 提示词里要求的句数；真正兜底的是下面的 maxChars
+    position: top # top | bottom
+    maxChars: 240 # 模型不听话写了八句时的硬截断，不是拒收的理由
+    maxItems: 24 # 喂前 24 条；一栏的尾巴对「今天讲什么」没有贡献
+    maxCharsPerItem: 120 # 每条只喂标题 + 120 字，整个导读的输入约 2–3k 字符
+
+# ── 周报（文档 §9 M3）────────────────────────────────────────────────────────────
+# 零抓取：读 archive/ 里已经提交的日报 JSON，按 rankScore 重排，每栏取前几条。
+# 条目里的 LLM 摘要是早报那天已经付过钱的，这里不会再调一次模型 —— 唯一可能的
+# 调用是「本周导读」那一次（受 digest 与 llm.digest.enabled 双重控制）。
+# 不写归档：这一期的每一条都已经在它自己那天的归档里了。
+# 改了 weekday / time 之后同样必须跑 `pnpm brief:schedule`。
+weekly:
+  enabled: true
+  title: 每周回顾
+  weekday: 1 # ISO：1=周一 … 7=周日
+  time: '08:00' # 08:00 CST = 00:00 UTC 当天，生成的 cron 是 `0 0 * * 1`
+  days: 7 # 往回读 7 天（含当天）
+  limitPerSection: 5 # 每栏最多 5 条；周报是回顾，不是第二份归档
+  sections: ['*']
+  # 只发邮件。周报是「坐下来读」的东西，把 30 条推到手机上只会被划掉 ——
+  # 这也是 weekly.recipients 默认为空、必须显式点名的原因。
+  recipients: [me-mail]
+  digest: true # 本周导读；与 llm.digest.enabled 是「与」的关系
+
 recipients:
   - id: me-wecom
     channel: wecom

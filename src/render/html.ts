@@ -1,6 +1,6 @@
 import type { Item } from '../config/schema'
 import { nonEmptySections, type Brief } from '../core/brief'
-import { bodyFor, type RenderOptions } from './markdown'
+import { bodyFor, DIGEST_TITLE, type RenderOptions } from './markdown'
 
 /**
  * §3.4 — mail clients strip <style> blocks and block remote assets, so everything is
@@ -82,6 +82,22 @@ function renderItem(item: Item, index: number, options: RenderOptions): string {
   ].join('')
 }
 
+/**
+ * §5.3 — the 导读 opens the mail. Given its own card rather than a paragraph: it is the
+ * one block on the page that is about the issue instead of about an item, and a reader
+ * who only reads this should still have got something.
+ */
+function renderDigest(brief: Brief, options: RenderOptions): string {
+  if (!brief.digest) return ''
+  const title = escapeHtml(options.digestTitle ?? DIGEST_TITLE)
+  return [
+    '<div style="margin:20px 0 0;padding:14px 16px;background:#ffffff;border:1px solid #d0d7de;border-radius:8px">',
+    `<div style="font-size:13px;font-weight:600;color:#0969da;letter-spacing:0.5px">${title}</div>`,
+    `<div style="margin:6px 0 0;color:#1f2328;font-size:14px;line-height:1.75">${escapeHtml(brief.digest.text)}</div>`,
+    '</div>',
+  ].join('')
+}
+
 export function renderHtml(brief: Brief, options: RenderOptions = {}): string {
   const sections = nonEmptySections(brief)
   const body = sections
@@ -112,7 +128,9 @@ export function renderHtml(brief: Brief, options: RenderOptions = {}): string {
     `<div style="max-width:680px;margin:0 auto;padding:24px 20px 40px;font-family:${FONT};color:#1f2328">`,
     `<h1 style="margin:0;font-size:22px;letter-spacing:-0.2px">${escapeHtml(brief.title)}</h1>`,
     `<div style="margin:6px 0 0;color:#8c959f;font-size:13px">${escapeHtml(brief.date)} · ${escapeHtml(brief.scheduleId)} · 回溯 ${brief.lookbackHours}h</div>`,
+    options.digestPosition === 'bottom' ? '' : renderDigest(brief, options),
     body || '<p style="color:#57606a">今天没有达标内容。</p>',
+    options.digestPosition === 'bottom' ? renderDigest(brief, options) : '',
     warnings,
     `<div style="margin:32px 0 0;padding-top:14px;border-top:1px solid #eaeef2;color:#8c959f;font-size:12px">由 daily-brief 自动生成 · ${escapeHtml(brief.generatedAt)}</div>`,
     '</div></body></html>',

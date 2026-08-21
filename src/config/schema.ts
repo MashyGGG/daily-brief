@@ -10,8 +10,23 @@ export interface SummaryMeta {
   by: 'llm'
   model: string
   promptVersion: string
-  /** M1 always writes `excerpt`; M2's full-text fetch is what makes this worth recording. */
-  inputKind: 'excerpt' | 'fulltext'
+  /**
+   * M1 always writes `excerpt`; M2's full-text fetch is what makes this worth recording.
+   * `summaries` is the digest (M3): its input is the issue this run just produced, so it
+   * is neither of the other two and saying `excerpt` would misreport what was sent.
+   */
+  inputKind: 'excerpt' | 'fulltext' | 'summaries'
+}
+
+/**
+ * §9 M3 — the whole-issue digest. One call over the items this run already produced, so
+ * it is a property of the issue rather than of any item, and it is archived with the
+ * issue for the same reason `summaryMeta` is: to tell "the model changed its mind" apart
+ * from "I changed the prompt".
+ */
+export interface BriefDigest {
+  text: string
+  meta: SummaryMeta
 }
 
 /** §2.1 — every source normalizes to this shape; it is also the archive JSON element. */
@@ -324,6 +339,64 @@ export const llmSchema = z
         titleLanguageNot: z.enum(['zh']).optional(),
       })
       .default({}),
+    /**
+     * §9 M3 — the whole-issue digest: one extra call, made after the items are summarized
+     * and fed only with what this run already produced. It fetches nothing, so its cost is
+     * fixed at one call per issue no matter how the item gates are tuned, which is why it
+     * sits outside `budget` (that one bounds a per-item fan-out; this cannot fan out).
+     */
+    digest: z
+      .object({
+        enabled: z.boolean().default(false),
+        /** How many sentences the reader gets. The prompt asks; `maxChars` enforces. */
+        sentences: z.number().int().min(1).max(6).default(3),
+        /** Where it lands in the rendered issue. `top` is the point of having one. */
+        position: z.enum(['top', 'bottom']).default('top'),
+        /**
+         * Hard ceiling on the sanitized text — the same role `defaults.maxChars` plays for
+         * an item. A model told "3 sentences" that answers with eight is a formatting
+         * miss, not a reason to drop a paid-for answer, so it is cut rather than rejected.
+         */
+        maxChars: z.number().int().min(40).max(1000).default(240),
+        /** How many items feed it, in section order. The tail of a section adds noise. */
+        maxItems: z.number().int().min(1).max(100).default(24),
+        /** Per item, of title + body. 20 items x 120 chars is ~2.4k chars in, as §7.1 budgets. */
+        maxCharsPerItem: z.number().int().min(40).max(1000).default(120),
+      })
+      .default({}),
+  })
+  .default({})
+
+/**
+ * §9 M3 — the weekly review. It fetches nothing and summarizes nothing: it re-reads the
+ * daily archives (which already carry the LLM summaries) and re-ranks what is in them,
+ * so a week's worth of value costs one render and, at most, one digest call.
+ *
+ * It is deliberately NOT a `schedules[]` entry. A schedule means "go and fetch", and
+ * everything downstream of one — the lookback window, dedupe, the archive write — is
+ * about a fetch that this does not do. Modelling it as a schedule would mean teaching
+ * each of those to make an exception.
+ */
+export const weeklySchema = z
+  .object({
+    enabled: z.boolean().default(false),
+    title: z.string().min(1).default('每周回顾'),
+    /** ISO weekday, 1 = Monday … 7 = Sunday. The cron is generated from it. */
+    weekday: z.number().int().min(1).max(7).default(1),
+    time: TIME.default('08:00'),
+    /** How many days back from (and including) the run date to read. */
+    days: z.number().int().min(2).max(31).default(7),
+    /** Per section, after re-ranking the week. Five is a page; twenty is an archive. */
+    limitPerSection: z.number().int().min(1).max(50).default(5),
+    sections: WILDCARD_LIST.default(['*']),
+    /**
+     * Defaults to nobody rather than everybody: a weekly review is a read, and shipping
+     * it to whatever push channel happens to be enabled would put a 20-item digest on a
+     * phone at 08:00 on a Monday.
+     */
+    recipients: z.array(z.string().min(1)).default([]),
+    /** Ask for a whole-week digest too. ANDs with `llm.digest.enabled`. */
+    digest: z.boolean().default(true),
   })
   .default({})
 
@@ -374,6 +447,8 @@ export type ArchiveConfig = z.infer<typeof archiveSchema>
 export type RenderConfig = z.infer<typeof renderSchema>
 export type DedupeConfig = z.infer<typeof dedupeSchema>
 export type LlmConfig = z.infer<typeof llmSchema>
+export type WeeklyConfig = z.infer<typeof weeklySchema>
+export type DigestConfig = LlmConfig['digest']
 export type LlmPolicyOverride = z.infer<typeof llmPolicyOverride>
 export type ExtractConfig = LlmConfig['extract']
 export type LlmStyle = (typeof LLM_STYLES)[number]
@@ -393,6 +468,7 @@ export const briefConfigSchema = z
     render: renderSchema,
     dedupe: dedupeSchema,
     llm: llmSchema,
+    weekly: weeklySchema,
     recipients: z.array(recipientSchema).min(1),
   })
   .superRefine((cfg, ctx) => {
@@ -490,6 +566,18 @@ export const briefConfigSchema = z
       checkRefs(s.sections, sectionIds, ['schedules', i, 'sections'], 'section')
       checkRefs(s.recipients, recipientIds, ['schedules', i, 'recipients'], 'recipient')
     })
+
+    checkRefs(cfg.weekly.sections, sectionIds, ['weekly', 'sections'], 'section')
+    checkRefs(cfg.weekly.recipients, recipientIds, ['weekly', 'recipients'], 'recipient')
+    // A weekly nobody receives is a job that runs, renders and delivers to no one — the
+    // kind of thing that looks fine on the Actions page for a month.
+    if (cfg.weekly.enabled && cfg.weekly.recipients.length === 0) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        path: ['weekly', 'recipients'],
+        message: 'weekly.enabled is true but weekly.recipients is empty — name at least one',
+      })
+    }
 
     cfg.recipients.forEach((r, i) => {
       checkRefs(r.sections, sectionIds, ['recipients', i, 'sections'], 'section')

@@ -5,6 +5,7 @@ on:
     # BEGIN generated schedule
     # generated from brief.config.yaml - run `pnpm brief:schedule` after editing, do not hand-edit
     - cron: '10 23 * * *' # morning - 07:10 Asia/Shanghai (previous UTC day)
+    - cron: '0 0 * * 1' # weekly - Mon 08:00 Asia/Shanghai
     # END generated schedule
   workflow_dispatch:
     inputs:
@@ -26,6 +27,14 @@ on:
         default: ''
       from-archive:
         description: 'YYYY-MM-DD — re-send an archived issue instead of fetching'
+        type: string
+        default: ''
+      weekly:
+        description: weekly review built from the archive (fetches nothing, archives nothing)
+        type: boolean
+        default: false
+      weekly-ending:
+        description: 'YYYY-MM-DD the weekly window ends on (default: today)'
         type: string
         default: ''
 
@@ -107,6 +116,13 @@ jobs:
           [ -n "${{ inputs.recipients }}" ] && args+=(--recipients "${{ inputs.recipients }}")
           [ -n "${{ inputs.sections }}" ] && args+=(--sections "${{ inputs.sections }}")
           [ -n "${{ inputs.from-archive }}" ] && args+=(--from-archive "${{ inputs.from-archive }}")
+          # The weekly review has its own cron; these inputs are for testing it by hand.
+          if [ "${{ inputs.weekly }}" = "true" ]; then
+            args+=(--weekly)
+            if [ -n "${{ inputs.weekly-ending }}" ]; then
+              args+=("${{ inputs.weekly-ending }}")
+            fi
+          fi
           pnpm brief "${args[@]}"
 
       # Runs even when delivery failed: the content is already archived and must not be lost.

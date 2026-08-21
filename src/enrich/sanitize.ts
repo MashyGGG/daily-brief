@@ -129,3 +129,16 @@ export function sanitizeResponse(raw: string, maxChars: number): SanitizedSummar
   }
   return { summary, takeaways }
 }
+
+/**
+ * §9 M3 — the digest answer. Same cleaning as a summary, one field, and the same
+ * leniency: `{"digest": …}` is what the prompt asks for, `{"summary": …}` is what a model
+ * that pattern-matched on "summarize" tends to send, and bare prose is what a model
+ * ignoring the JSON instruction sends. All three are usable; only an empty result is not.
+ */
+export function sanitizeDigest(raw: string, maxChars: number): string {
+  const parsed = parseModelJson(raw) as { digest?: unknown; summary?: unknown } | null
+  const field = parsed?.digest ?? parsed?.summary
+  if (typeof field === 'string') return sanitizeText(field, maxChars)
+  return parsed ? '' : sanitizeText(raw, maxChars)
+}

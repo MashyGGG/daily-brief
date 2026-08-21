@@ -1,5 +1,6 @@
-import type { Item, LlmConfig, SummaryMeta } from '../config/schema'
+import type { BriefDigest, Item, LlmConfig, SummaryMeta } from '../config/schema'
 import type { BriefSection } from '../core/brief'
+import { buildDigestEntries, estimateDigestTokens, generateDigest } from './digest'
 import { extractArticle, type ExtractFetch } from './extract'
 import { createLlmClient, resolveProvider, type LlmClient, type LlmFetch } from './llm'
 import { cut, planEnrichment, type EnrichPlan, type EnrichTask } from './policy'
@@ -26,6 +27,12 @@ export interface EnrichContext {
   disabled?: boolean
   /** `--llm-dry-run`: build the plan, report it, call nothing. */
   planOnly?: boolean
+  /**
+   * §9 M3 — the weekly review's mode: produce the digest, summarize no items. The items
+   * come out of the daily archives with their summaries already on them, so re-running
+   * the per-item stage would pay a second time for text this repo already owns.
+   */
+  digestOnly?: boolean
   /** Shared with the pipeline so a leaked key cannot reach a committed warning. */
   describeError?: (err: unknown) => string
   log?: (message: string) => void
@@ -58,12 +65,23 @@ export interface EnrichStats {
   completionTokens: number
   /** Local estimate, and the only number `--llm-dry-run` can offer. */
   estimatedInputTokens: number
+  /** §9 M3 — the digest's own call, reported apart from the per-item fan-out (§7.1). */
+  digest: DigestStatus
+  estimatedDigestTokens: number
   durationMs: number
 }
+
+export type DigestStatus =
+  | 'off' // llm.digest.enabled is false, or there was nothing to digest
+  | 'planned' // --llm-dry-run
+  | 'ok'
+  | 'failed' // the call or the answer was unusable — the issue simply has no opening
 
 export interface EnrichResult {
   sections: BriefSection[]
   stats: EnrichStats
+  /** §9 M3 — absent whenever the digest is off, skipped, or failed. */
+  digest?: BriefDigest
   /** Aggregated failures, ready for `brief.warnings`. */
   warnings: string[]
 }
@@ -85,8 +103,19 @@ function emptyStats(status: EnrichStatus, model: string, plan?: EnrichPlan): Enr
     promptTokens: 0,
     completionTokens: 0,
     estimatedInputTokens: plan?.tasks.reduce((n, t) => n + t.estimatedInputTokens, 0) ?? 0,
+    digest: 'off',
+    estimatedDigestTokens: 0,
     durationMs: 0,
   }
+}
+
+/** The plan stands in for "no per-item work" — `digestOnly` and a disabled LLM share it. */
+const NO_TASKS: EnrichPlan = {
+  tasks: [],
+  gated: 0,
+  cappedByItems: 0,
+  cappedByChars: 0,
+  inputChars: 0,
 }
 
 /** `LLM_ENABLED=false|0|no|off` is the break-glass switch; anything else leaves config in charge. */
@@ -269,7 +298,10 @@ export async function enrichSections(
   }
 
   const apiKey = ctx.env[provider.apiKeyRef]?.trim()
-  const plan = planEnrichment(sections, llm)
+  const plan = ctx.digestOnly ? NO_TASKS : planEnrichment(sections, llm)
+  // The digest is worth its one call even when every item was gated out: it reads the
+  // issue as rendered, and an issue of source excerpts still has a "what matters today".
+  const wantsDigest = llm.digest.enabled && sections.some((s) => s.items.length > 0)
 
   if (!apiKey) {
     // Not configured is not a failure: it produces a run-summary row on the Actions page
@@ -279,7 +311,7 @@ export async function enrichSections(
     return { sections, stats: emptyStats('no-key', model, plan), warnings: [] }
   }
 
-  if (plan.tasks.length === 0) {
+  if (plan.tasks.length === 0 && !wantsDigest) {
     return { sections, stats: emptyStats('nothing', model, plan), warnings: [] }
   }
 
@@ -293,7 +325,13 @@ export async function enrichSections(
           `~${task.estimatedInputTokens} tok · ${task.item.title}`,
       )
     }
-    return { sections, stats: emptyStats('planned', model, plan), warnings: [] }
+    const planned = emptyStats('planned', model, plan)
+    if (wantsDigest) {
+      planned.digest = 'planned'
+      planned.estimatedDigestTokens = estimateDigestTokens(buildDigestEntries(sections, llm.digest))
+      log(`llm-dry-run: digest · 1 call · ~${planned.estimatedDigestTokens} tok`)
+    }
+    return { sections, stats: planned, warnings: [] }
   }
 
   const stats = emptyStats('ran', model, plan)
@@ -343,19 +381,48 @@ export async function enrichSections(
 
   stats.succeeded = summaries.size
   stats.failed = plan.tasks.length - summaries.size
+  if (plan.tasks.length > 0) {
+    log(`llm: ${stats.succeeded}/${plan.tasks.length} summarized in ${Date.now() - started}ms`)
+  }
+
+  // §9 M3 — last, and over the summarized sections: the digest introduces the issue the
+  // reader is getting, not the feeds it was assembled from.
+  const enrichedSections = applySummaries(sections, summaries)
+  let digest: BriefDigest | undefined
+  const digestFailures: string[] = []
+  if (wantsDigest) {
+    const outcome = await generateDigest(enrichedSections, llm, client, describeError)
+    stats.attempts += outcome.attempts
+    stats.promptTokens += outcome.promptTokens
+    stats.completionTokens += outcome.completionTokens
+    if (outcome.digest) {
+      digest = outcome.digest
+      stats.digest = 'ok'
+      log(`llm: digest written (${[...outcome.digest.text].length} chars)`)
+    } else if (outcome.failure) {
+      stats.digest = 'failed'
+      digestFailures.push(`llm digest: no 导读 this issue — ${outcome.failure}`)
+    }
+  }
+
   stats.durationMs = Date.now() - started
-  log(`llm: ${stats.succeeded}/${plan.tasks.length} summarized in ${stats.durationMs}ms`)
 
   return {
-    sections: applySummaries(sections, summaries),
+    sections: enrichedSections,
     stats,
-    warnings: [...extractWarnings(extractFailures, stats), ...aggregate(failures, 'llm')],
+    ...(digest ? { digest } : {}),
+    warnings: [
+      ...extractWarnings(extractFailures, stats),
+      ...aggregate(failures, 'llm'),
+      ...digestFailures,
+    ],
   }
 }
 
 export { planEnrichment, resolvePolicy, passesWhen, titleLanguage, estimateTokens } from './policy'
 export type { EnrichPlan, EnrichTask, ResolvedPolicy } from './policy'
-export { sanitizeResponse, sanitizeText, sanitizeTakeaways } from './sanitize'
+export { sanitizeResponse, sanitizeText, sanitizeTakeaways, sanitizeDigest } from './sanitize'
+export { buildDigestEntries, estimateDigestTokens, generateDigest } from './digest'
 export { extractArticle, htmlToText, isFetchableUrl, ExtractError } from './extract'
 export type { ExtractFetch } from './extract'
 export { PROMPT_VERSION } from './prompt'

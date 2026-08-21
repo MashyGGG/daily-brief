@@ -8,6 +8,10 @@ export interface CliArgs {
   dryRun: boolean
   noCommit: boolean
   validateOnly: boolean
+  /** §9 M3 — the weekly review: aggregate the archived issues, send, fetch nothing. */
+  weekly: boolean
+  /** `YYYY-MM-DD` the weekly window ends on; today in the config timezone when unset. */
+  weeklyEnding?: string
   /** Kill switch for the LLM stage; the brief still goes out (§6.1). */
   noLlm: boolean
   /** Plan the LLM calls and print them without making any. */
@@ -30,6 +34,8 @@ usage: pnpm brief [options]
   --sections a,b           only these sections (intersected with the schedule's own list)
   --recipients a,b         only these recipients
   --from-archive YYYY-MM-DD  re-send an archived issue; fetches nothing, archives nothing
+  --weekly [YYYY-MM-DD]    weekly review built from the archived issues (weekly.days back
+                           from the given date, or from today); fetches and archives nothing
   --dry-run                render to stdout only: no push, no archive, no network to channels
   --no-commit              archive normally but tell the workflow not to commit
   --validate-only          load and validate the config, then exit
@@ -55,6 +61,7 @@ export function parseArgs(argv: string[]): CliArgs {
     dryRun: false,
     noCommit: false,
     validateOnly: false,
+    weekly: false,
     noLlm: false,
     llmDryRun: false,
     diff: false,
@@ -87,6 +94,17 @@ export function parseArgs(argv: string[]): CliArgs {
       case '--from-archive':
         args.fromArchive = next()
         break
+      case '--weekly': {
+        args.weekly = true
+        // The date is optional, so it is taken only when the next argument actually looks
+        // like one — `--weekly --dry-run` must not swallow the flag behind it.
+        const peek = argv[i + 1]
+        if (peek && /^\d{4}-\d{2}-\d{2}$/.test(peek)) {
+          args.weeklyEnding = peek
+          i++
+        }
+        break
+      }
       case '--dry-run':
         args.dryRun = true
         break
@@ -125,5 +143,8 @@ export function parseArgs(argv: string[]): CliArgs {
     throw new Error(`--re-enrich expects YYYY-MM-DD, got "${args.reEnrich}"`)
   }
   if (args.diff && !args.reEnrich) throw new Error('--diff only means something with --re-enrich')
+  if (args.weekly && args.fromArchive) {
+    throw new Error('--weekly and --from-archive both replay the archive; pick one')
+  }
   return args
 }

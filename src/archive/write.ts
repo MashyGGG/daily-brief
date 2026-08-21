@@ -2,6 +2,7 @@ import type { ArchiveConfig } from '../config/schema'
 import { itemsOf, type Brief } from '../core/brief'
 import { redactDeep, collectSecretValues } from '../core/redact'
 import { renderArchiveMarkdown, renderIndex } from '../render/markdown'
+import { digestOptionsFor } from '../render'
 import { nodeFs, type FsLike } from './fs'
 import { archiveNames, indexPath } from './paths'
 import { listAllIssues, type ArchiveRecord } from './read'
@@ -50,13 +51,19 @@ export function writeArchive(options: WriteArchiveOptions): WriteArchiveResult {
       lookbackHours: brief.lookbackHours,
       itemCount: items.length,
       items,
+      // §1.2's reasoning, one level up: the archive keeps what was actually sent, so a
+      // prompt change can be judged against it instead of against a memory of it.
+      ...(brief.digest ? { digest: brief.digest } : {}),
       warnings: brief.warnings,
     },
     secrets,
   )
 
   fs.writeFile(names.json, JSON.stringify(record, null, 2) + '\n')
-  fs.writeFile(names.markdown, redactDeep(renderArchiveMarkdown(brief), secrets))
+  fs.writeFile(
+    names.markdown,
+    redactDeep(renderArchiveMarkdown(brief, digestOptionsFor(brief)), secrets),
+  )
 
   const index = indexPath(archive.dir)
   fs.writeFile(index, renderIndex(listAllIssues(archive.dir, fs), archive.indexKeep, now, brief.timezone))

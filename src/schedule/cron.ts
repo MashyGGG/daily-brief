@@ -1,4 +1,5 @@
 import type { BriefConfig, Schedule } from '../config/schema'
+import { weeklySchedule } from '../core/weekly'
 
 /**
  * §3.6 / decision 7 — `on.schedule.cron` must be a literal in the workflow YAML:
@@ -77,27 +78,69 @@ export function localTimeToUtcCron(
   return { cron: `${utcMinute} ${utcHour} * * *`, utcHour, utcMinute, dayShift }
 }
 
+const WEEKDAY_NAMES = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'] as const
+
+/**
+ * §9 M3 — the weekly review's cron. Local wall-clock weekday + time → a UTC day-of-week
+ * cron. The day-of-week has to move with the same `dayShift` the time does: 07:10 Monday
+ * in Asia/Shanghai is 23:10 **Sunday** UTC, and a cron that still said Monday would send
+ * the review 24 hours late every week.
+ *
+ * `weekday` is ISO (1 = Monday … 7 = Sunday); cron counts 0 = Sunday, hence the `% 7`.
+ */
+export function weeklyToUtcCron(
+  time: string,
+  weekday: number,
+  timeZone: string,
+  reference?: Date,
+): CronParts & { utcWeekday: number } {
+  const parts = localTimeToUtcCron(time, timeZone, reference)
+  const utcWeekday = ((((weekday % 7) + parts.dayShift) % 7) + 7) % 7
+  return {
+    ...parts,
+    utcWeekday,
+    cron: `${parts.utcMinute} ${parts.utcHour} * * ${utcWeekday}`,
+  }
+}
+
 export interface GeneratedCron {
   schedule: Schedule
   cron: string
   comment: string
   enabled: boolean
+  /** §9 M3 — the weekly review rather than one of `schedules[]`. */
+  weekly: boolean
 }
 
 export function generateCrons(config: BriefConfig): GeneratedCron[] {
   const dst = hasDst(config.timezone)
-  return config.schedules.map((schedule) => {
+  const dstNote = dst ? ' — WARNING: timezone observes DST, this drifts by 1h twice a year' : ''
+  const shiftNote = (dayShift: number) =>
+    dayShift === 0 ? '' : dayShift > 0 ? ' (next UTC day)' : ' (previous UTC day)'
+
+  const daily = config.schedules.map((schedule): GeneratedCron => {
     const parts = localTimeToUtcCron(schedule.time, config.timezone)
-    const shift =
-      parts.dayShift === 0 ? '' : parts.dayShift > 0 ? ' (next UTC day)' : ' (previous UTC day)'
-    const dstNote = dst ? ' — WARNING: timezone observes DST, this drifts by 1h twice a year' : ''
     return {
       schedule,
       cron: parts.cron,
-      comment: `${schedule.id} - ${schedule.time} ${config.timezone}${shift}${dstNote}`,
+      comment: `${schedule.id} - ${schedule.time} ${config.timezone}${shiftNote(parts.dayShift)}${dstNote}`,
       enabled: schedule.enabled,
+      weekly: false,
     }
   })
+
+  const weekly = weeklyToUtcCron(config.weekly.time, config.weekly.weekday, config.timezone)
+  const localDay = WEEKDAY_NAMES[config.weekly.weekday % 7]!
+  daily.push({
+    schedule: weeklySchedule(config),
+    cron: weekly.cron,
+    comment:
+      `weekly - ${localDay} ${config.weekly.time} ${config.timezone}` +
+      `${shiftNote(weekly.dayShift)}${dstNote}`,
+    enabled: config.weekly.enabled,
+    weekly: true,
+  })
+  return daily
 }
 
 /** Normalize whitespace so `'0  0 * * *'` and `'0 0 * * *'` compare equal. */
@@ -110,7 +153,10 @@ export function normalizeCron(cron: string): string {
  * through as `--cron` and we look up which of our schedules it belongs to.
  * A miss is an error, never a guessed default (A19).
  */
-export function findScheduleByCron(config: BriefConfig, cron: string): Schedule {
+export function findRunByCron(
+  config: BriefConfig,
+  cron: string,
+): { schedule: Schedule; weekly: boolean } {
   const wanted = normalizeCron(cron)
   const matches = generateCrons(config).filter((g) => g.enabled && normalizeCron(g.cron) === wanted)
   if (matches.length === 0) {
@@ -131,7 +177,12 @@ export function findScheduleByCron(config: BriefConfig, cron: string): Schedule 
         .join(', ')} all fire at that time. Give them distinct times.`,
     )
   }
-  return matches[0]!.schedule
+  return { schedule: matches[0]!.schedule, weekly: matches[0]!.weekly }
+}
+
+/** The daily-only view of the lookup, kept because most callers cannot run a weekly. */
+export function findScheduleByCron(config: BriefConfig, cron: string): Schedule {
+  return findRunByCron(config, cron).schedule
 }
 
 export function findScheduleById(config: BriefConfig, id: string): Schedule {

@@ -1,4 +1,4 @@
-import type { Item } from '../config/schema'
+import type { BriefDigest, Item } from '../config/schema'
 
 export interface BriefSection {
   id: string
@@ -18,6 +18,8 @@ export interface Brief {
   generatedAt: string
   lookbackHours: number
   sections: BriefSection[]
+  /** §9 M3 — the whole-issue 导读, when the model wrote one. */
+  digest?: BriefDigest
   warnings: string[]
 }
 

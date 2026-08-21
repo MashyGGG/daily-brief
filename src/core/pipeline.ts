@@ -1,6 +1,6 @@
 import type { BriefConfig, Item, RawItem, Recipient, Schedule, Section } from '../config/schema'
 import { resolveRecipients, resolveSections } from '../config/schema'
-import { findScheduleByCron, findScheduleById, ScheduleError } from '../schedule/cron'
+import { findRunByCron, findScheduleById, ScheduleError } from '../schedule/cron'
 import { fetchAll, type FetchLike, type SourceOutcome } from '../sources'
 import { dedupe, seenFromArchive, emptySeen } from './dedupe'
 import { filterForSection, minScoreBySource } from './filter'
@@ -14,6 +14,7 @@ import { nodeFs, type FsLike } from '../archive/fs'
 import { renderForRecipients } from '../render'
 import { deliver, type ChannelContext, type DeliveryResult } from '../channels'
 import { enrichSections, type EnrichStats } from '../enrich'
+import { collectWeekly, describeWindow, weeklySchedule, type WeeklyWindow } from './weekly'
 import type { LlmFetch } from '../enrich/llm'
 import type { ExtractFetch } from '../enrich/extract'
 
@@ -30,6 +31,14 @@ export interface RunOptions {
   recipients?: string[]
   /** `YYYY-MM-DD` — re-send an archived issue without fetching anything (A14). */
   fromArchive?: string
+  /**
+   * §9 M3 — the weekly review: read `weekly.days` of archived issues, re-rank them, send.
+   * Fetches nothing and archives nothing, because everything it prints is already in the
+   * archive it just read.
+   */
+  weekly?: boolean
+  /** `YYYY-MM-DD` the weekly window ends on; defaults to today in the config timezone. */
+  weeklyEnding?: string
   dryRun: boolean
   /** Suppress the archive write regardless of config (`--no-commit` implies nothing here). */
   noArchive?: boolean
@@ -63,6 +72,8 @@ export interface RunResult {
   dedupeDropped: { withinRun: number; alreadySeen: number }
   /** §6.1 — reported, never fatal. `--from-archive` reports `disabled`: a re-send re-sends. */
   enrich: EnrichStats
+  /** §9 M3 — what the weekly review actually read; `null` on every other run. */
+  weekly: WeeklyWindow | null
   empty: boolean
   exitCode: number
 }
@@ -70,8 +81,12 @@ export interface RunResult {
 /** With one schedule there is nothing to disambiguate; with several, the caller must say which. */
 export function resolveSchedule(options: RunOptions): Schedule {
   const { config } = options
+  // `--weekly` and the weekly cron both land here; the derived schedule is what carries
+  // the weekly's own section and recipient lists into the rest of the run.
+  if (options.weekly) return weeklySchedule(config)
   if (options.scheduleId) return findScheduleById(config, options.scheduleId)
-  if (options.cron && options.cron.trim() !== '') return findScheduleByCron(config, options.cron)
+  if (options.cron && options.cron.trim() !== '')
+    return findRunByCron(config, options.cron).schedule
 
   const enabled = config.schedules.filter((s) => s.enabled)
   if (enabled.length === 1) return enabled[0]!
@@ -115,6 +130,9 @@ function briefFromArchive(options: RunOptions, schedule: Schedule, sections: Sec
     generatedAt: record.generatedAt,
     lookbackHours: record.lookbackHours,
     sections: sections.map((s) => ({ id: s.id, title: s.title, items: byId.get(s.id) ?? [] })),
+    // A re-send re-sends what was written that morning, 导读 included — regenerating it
+    // would make the second copy differ from the one already on the public site.
+    ...(record.digest ? { digest: record.digest } : {}),
     warnings: record.warnings,
   }
 }
@@ -164,10 +182,57 @@ export async function run(options: RunOptions): Promise<RunResult> {
     promptTokens: 0,
     completionTokens: 0,
     estimatedInputTokens: 0,
+    digest: 'off',
+    estimatedDigestTokens: 0,
     durationMs: 0,
   }
+  let weekly: WeeklyWindow | null = null
 
-  if (options.fromArchive) {
+  if (options.weekly) {
+    // §9 M3 — zero fetches: the week is assembled out of the archives the daily runs
+    // already committed, summaries and all.
+    const date = options.weeklyEnding ?? localDate(now, config.timezone)
+    const collected = collectWeekly(
+      config,
+      date,
+      sections.map((s) => s.id),
+      fs,
+    )
+    weekly = collected.window
+    log(`weekly: ${describeWindow(collected.window)}`)
+
+    // The only model call a weekly can make is the digest: every item already carries the
+    // summary the morning run paid for, and paying again would buy the same sentence.
+    // `weekly.digest` can turn even that off without touching the daily's own digest.
+    const weeklyLlm = {
+      ...config.llm,
+      digest: { ...config.llm.digest, enabled: config.llm.digest.enabled && config.weekly.digest },
+    }
+    const enriched = await enrichSections(collected.sections, weeklyLlm, {
+      env,
+      fetchImpl: (options.llmFetchImpl ?? (options.fetchImpl as unknown as LlmFetch)) as LlmFetch,
+      sleep: options.sleep,
+      disabled: options.noLlm,
+      planOnly: options.llmDryRun,
+      digestOnly: true,
+      describeError,
+      log,
+    })
+    enrich = enriched.stats
+
+    brief = {
+      date,
+      scheduleId: schedule.id,
+      slot: null,
+      title: config.weekly.title,
+      timezone: config.timezone,
+      generatedAt: now.toISOString(),
+      lookbackHours: schedule.lookbackHours,
+      sections: enriched.sections,
+      ...(enriched.digest ? { digest: enriched.digest } : {}),
+      warnings: enriched.warnings,
+    }
+  } else if (options.fromArchive) {
     brief = briefFromArchive(options, schedule, sections)
     log(`re-sending archived issue ${brief.date}${brief.slot ? `.${brief.slot}` : ''}`)
   } else {
@@ -256,6 +321,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
       generatedAt: now.toISOString(),
       lookbackHours: schedule.lookbackHours,
       sections: enriched.sections,
+      ...(enriched.digest ? { digest: enriched.digest } : {}),
       warnings,
     }
   }
@@ -273,6 +339,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
       archived: null,
       dedupeDropped,
       enrich,
+      weekly,
       empty: true,
       exitCode: 0,
     }
@@ -281,7 +348,13 @@ export async function run(options: RunOptions): Promise<RunResult> {
   // §3.2 — archive BEFORE pushing: a flaky channel must not take the content down with it.
   let archived: RunResult['archived'] = null
   const shouldArchive =
-    config.archive.enabled && !options.dryRun && !options.noArchive && !options.fromArchive
+    config.archive.enabled &&
+    !options.dryRun &&
+    !options.noArchive &&
+    !options.fromArchive &&
+    // A weekly writes nothing: every item in it is already archived under its own day,
+    // and a second copy would collide with that day's file and skew cross-day dedupe.
+    !options.weekly
   if (shouldArchive) {
     const written = writeArchive({
       brief,
@@ -300,7 +373,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
     log(`archived ${written.markdownPath}`)
   }
 
-  const rendered = renderForRecipients(brief, recipients, config.render)
+  const rendered = renderForRecipients(brief, recipients, config.render, config.llm.digest)
   const payloads = new Map<
     string,
     { title: string; body: string; blocks: string[]; text: string }
@@ -332,6 +405,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
     archived,
     dedupeDropped,
     enrich,
+    weekly,
     empty: false,
     exitCode: failed > 0 ? 1 : 0,
   }

@@ -1,6 +1,6 @@
 import type { Item } from '../config/schema'
 import { nonEmptySections, type Brief } from '../core/brief'
-import { bodyFor, type RenderOptions } from './markdown'
+import { bodyFor, DIGEST_TITLE, type RenderOptions } from './markdown'
 
 /** Plain-text rendering — also the multipart/alternative fallback for the HTML mail. */
 
@@ -18,10 +18,15 @@ function renderItem(item: Item, index: number, options: RenderOptions): string {
 
 export function renderTextBlocks(brief: Brief, options: RenderOptions = {}): string[] {
   const blocks: string[] = [`${brief.title} · ${brief.date}`]
+  const digest = brief.digest
+    ? `【${options.digestTitle ?? DIGEST_TITLE}】\n${brief.digest.text}`
+    : null
+  if (digest && options.digestPosition !== 'bottom') blocks.push(digest)
   for (const section of nonEmptySections(brief)) {
     blocks.push(`【${section.title}】`)
     section.items.forEach((item, i) => blocks.push(renderItem(item, i + 1, options)))
   }
+  if (digest && options.digestPosition === 'bottom') blocks.push(digest)
   if (brief.warnings.length > 0) {
     blocks.push(['抓取告警：', ...brief.warnings.map((w) => `- ${w}`)].join('\n'))
   }

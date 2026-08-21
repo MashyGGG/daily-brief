@@ -1,5 +1,6 @@
 import { appendFileSync } from 'node:fs'
 import { totalItems } from './core/brief'
+import { describeWindow } from './core/weekly'
 import type { RunResult } from './core/pipeline'
 import type { EnrichStats } from './enrich'
 
@@ -52,7 +53,13 @@ function enrichLines(stats: EnrichStats): string[] {
     `| ${stats.planned} | ${stats.succeeded} | ${stats.failed} | ${stats.attempts} | ` +
       `${inputTokens} | ${stats.completionTokens} | ${stats.durationMs}ms |`,
   )
-  lines.push('')
+  const DIGEST_LABEL: Record<Exclude<EnrichStats['digest'], 'off'>, string> = {
+    planned: `**计划中**（~${stats.estimatedDigestTokens} tok，未调用）`,
+    ok: '✅ 已生成',
+    failed: '❌ 本期无导读（模型失败，早报照常）',
+  }
+  if (stats.digest !== 'off') lines.push(`全刊导读：${DIGEST_LABEL[stats.digest]}`, '')
+
   const capped: string[] = []
   if (stats.cappedByItems > 0) capped.push(`条数闸 ${stats.cappedByItems} 条`)
   if (stats.cappedByChars > 0) capped.push(`字符闸 ${stats.cappedByChars} 条`)
@@ -89,6 +96,13 @@ export function renderRunSummary(result: RunResult, opts: { dryRun: boolean }): 
       (opts.dryRun ? ' · **dry-run（未推送、未归档）**' : ''),
   )
   lines.push('')
+
+  // §9 M3 — a weekly fetches nothing, so the 抓取 table below is empty and this line is
+  // the only thing that says where its content came from.
+  if (result.weekly) {
+    lines.push(`> 周报：${describeWindow(result.weekly)}（零抓取，不归档）`)
+    lines.push('')
+  }
 
   if (result.empty) {
     lines.push('> 今天没有达标内容 —— 不推送、不归档。')

@@ -378,6 +378,36 @@ not the read. An explicit value always wins. How short "short" is comes from
 same way excerpts are. Measured on a real 22-item issue with full-length summaries on every
 entry: `full` is 14.3 KB (4 WeCom messages), `compact` is 7.6 KB (2).
 
+### The whole-issue 导读
+
+`llm.digest` is one extra call, made after the items are summarized and fed only with what the
+run already produced — so it introduces the issue the reader is actually getting rather than the
+feeds it was assembled from. It opens the mail (`position: bottom` moves it under the sections),
+and unlike takeaways it is kept in the `compact` copy too: three sentences on what today is about
+is exactly what tells you whether to open the mail at all.
+
+`sentences` is what the prompt asks for; `maxChars` is what the sanitizer enforces. If the call
+fails there is simply no 导读 that morning — every item still carries its own summary, and the
+exit code never hears about it.
+
+### The weekly review
+
+```bash
+pnpm brief --weekly              # the last weekly.days of archived issues
+pnpm brief --weekly 2026-08-20   # …ending on a given date, to rebuild a missed Monday
+```
+
+It reads `archive/`, re-ranks what is in there by the `rankScore` each morning already computed,
+and keeps `weekly.limitPerSection` per section. **It fetches nothing and archives nothing**: every
+item is already in the archive under its own day, summaries included, so the only model call it can
+ever make is the one whole-week 导读 (`weekly.digest` × `llm.digest.enabled`).
+
+It is configured under a top-level `weekly:` block rather than as a `schedules[]` entry — a schedule
+means "go and fetch", and the lookback window, the cross-day dedupe and the archive write all exist
+to serve that. `weekly.recipients` defaults to nobody and must be named explicitly: a weekly review
+is a read, not something that should land on a phone at 08:00 on a Monday. Its cron is generated
+from `weekday` + `time` like every other one, so `pnpm brief:schedule` after changing either.
+
 ### Iterate on the prompt without waiting for tomorrow
 
 ```bash
@@ -498,19 +528,20 @@ tokens and API-key patterns that an upstream might echo back.
 
 ## Commands
 
-| Command                                              | What it does                                                      |
-| ---------------------------------------------------- | ----------------------------------------------------------------- |
-| `pnpm brief`                                         | build and deliver                                                 |
-| `pnpm brief --dry-run`                               | render to stdout; no push, no archive, no commit                  |
-| `pnpm brief --llm-dry-run`                           | list the items the LLM would be called on, and call nothing       |
-| `pnpm brief --no-llm`                                | skip the LLM stage; every item keeps its source excerpt           |
-| `pnpm brief --re-enrich <date> --diff`               | re-summarize an archived issue to evaluate a prompt change        |
-| `pnpm brief:schedule`                                | regenerate the workflow cron from the config                      |
-| `pnpm check:schedule`                                | fail if the workflow and the config disagree                      |
-| `pnpm validate`                                      | validate the config and exit                                      |
-| `pnpm site:build`                                    | compile `archive/` into the static site under `site/`             |
-| `pnpm test`                                          | vitest (pure functions only — no network, no SMTP, no temp files) |
-| `pnpm lint` / `pnpm format:check` / `pnpm typecheck` | the rest of CI                                                    |
+| Command                                              | What it does                                                         |
+| ---------------------------------------------------- | -------------------------------------------------------------------- |
+| `pnpm brief`                                         | build and deliver                                                    |
+| `pnpm brief --dry-run`                               | render to stdout; no push, no archive, no commit                     |
+| `pnpm brief --llm-dry-run`                           | list the items the LLM would be called on, and call nothing          |
+| `pnpm brief --no-llm`                                | skip the LLM stage; every item keeps its source excerpt              |
+| `pnpm brief --re-enrich <date> --diff`               | re-summarize an archived issue to evaluate a prompt change           |
+| `pnpm brief --weekly [<date>]`                       | weekly review out of the archive — fetches nothing, archives nothing |
+| `pnpm brief:schedule`                                | regenerate the workflow cron from the config                         |
+| `pnpm check:schedule`                                | fail if the workflow and the config disagree                         |
+| `pnpm validate`                                      | validate the config and exit                                         |
+| `pnpm site:build`                                    | compile `archive/` into the static site under `site/`                |
+| `pnpm test`                                          | vitest (pure functions only — no network, no SMTP, no temp files)    |
+| `pnpm lint` / `pnpm format:check` / `pnpm typecheck` | the rest of CI                                                       |
 
 ## Layout
 

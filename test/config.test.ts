@@ -609,3 +609,34 @@ describe('§5.2 — recipients[].detail and render.compactMaxChars', () => {
     )
   })
 })
+
+describe('llm.digest — §9 M3', () => {
+  const withLlm = (body: string) => configYaml({ llm: `llm:\n${body}` })
+
+  it('is off by default, so an M2 config gains no extra call', () => {
+    const cfg = parseConfig(configYaml(), EMPTY_ENV)
+    expect(cfg.llm.digest).toEqual({
+      enabled: false,
+      sentences: 3,
+      position: 'top',
+      maxChars: 240,
+      maxItems: 24,
+      maxCharsPerItem: 120,
+    })
+  })
+
+  it('reads the three knobs the plan named and defaults the bounds', () => {
+    const cfg = parseConfig(
+      withLlm(
+        '  enabled: true\n  digest:\n    enabled: true\n    sentences: 2\n    position: bottom\n',
+      ),
+      EMPTY_ENV,
+    )
+    expect(cfg.llm.digest).toMatchObject({ enabled: true, sentences: 2, position: 'bottom' })
+    expect(cfg.llm.digest.maxChars).toBe(240)
+  })
+
+  it('rejects a position it cannot render', () => {
+    expect(() => parseConfig(withLlm('  digest:\n    position: sidebar\n'), EMPTY_ENV)).toThrow()
+  })
+})

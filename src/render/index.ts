@@ -1,7 +1,14 @@
-import type { Recipient, RenderConfig } from '../config/schema'
+import type { DigestConfig, Recipient, RenderConfig } from '../config/schema'
 import { resolveDetail } from '../config/schema'
 import { restrictSections, type Brief } from '../core/brief'
-import { renderMarkdown, renderMarkdownBlocks, type Detail, type RenderOptions } from './markdown'
+import { WEEKLY_SCHEDULE_ID } from '../core/weekly'
+import {
+  DIGEST_TITLE,
+  renderMarkdown,
+  renderMarkdownBlocks,
+  type Detail,
+  type RenderOptions,
+} from './markdown'
 import { renderHtml } from './html'
 import { renderText, renderTextBlocks } from './text'
 
@@ -52,9 +59,11 @@ export function renderForRecipients(
   brief: Brief,
   recipients: Recipient[],
   renderConfig?: RenderConfig,
+  digestConfig?: DigestConfig,
 ): Map<string, Rendered> {
   const cache = new Map<string, Rendered>()
   const byRecipient = new Map<string, Rendered>()
+  const digestOptions = digestOptionsFor(brief, digestConfig)
 
   for (const recipient of recipients) {
     const detail: Detail = resolveDetail(recipient)
@@ -64,6 +73,7 @@ export function renderForRecipients(
       rendered = render(restrictSections(brief, recipient.sections), recipient.format, {
         detail,
         compactMaxChars: renderConfig?.compactMaxChars,
+        ...digestOptions,
       })
       cache.set(key, rendered)
     }
@@ -72,7 +82,22 @@ export function renderForRecipients(
   return byRecipient
 }
 
-export { renderMarkdown, renderMarkdownBlocks } from './markdown'
+/**
+ * §9 M3 — the 导读's label and placement. The label is derived rather than configured:
+ * "今日" on a weekly review would be wrong every Monday, and nobody should have to
+ * discover that in a config file.
+ */
+export function digestOptionsFor(
+  brief: Brief,
+  digestConfig?: DigestConfig,
+): Pick<RenderOptions, 'digestTitle' | 'digestPosition'> {
+  return {
+    digestTitle: brief.scheduleId === WEEKLY_SCHEDULE_ID ? '本周导读' : DIGEST_TITLE,
+    digestPosition: digestConfig?.position ?? 'top',
+  }
+}
+
+export { renderMarkdown, renderMarkdownBlocks, digestBlock, DIGEST_TITLE } from './markdown'
 export type { Detail, RenderOptions } from './markdown'
 export { renderHtml } from './html'
 export { renderText } from './text'

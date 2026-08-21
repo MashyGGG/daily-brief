@@ -1,7 +1,7 @@
 import { parseArgs, USAGE } from './cli'
 import { loadConfig } from './config/load'
 import { ConfigError } from './config/schema'
-import { ScheduleError } from './schedule/cron'
+import { findRunByCron, ScheduleError } from './schedule/cron'
 import { run } from './core/pipeline'
 import { renderRunSummary, writeStepOutputs, writeStepSummary } from './summary'
 import { collectSecretValues, safeErrorMessage } from './core/redact'
@@ -55,6 +55,11 @@ async function main(argv: string[]): Promise<number> {
     log: (message: string) => console.log(message),
   }
 
+  // The workflow passes whichever cron fired; the weekly's is one of them (§9 M3), and
+  // only this lookup can tell the two apart before the run starts.
+  const weekly =
+    args.weekly || (Boolean(args.cron?.trim()) && findRunByCron(config, args.cron!).weekly)
+
   const result = await run({
     config,
     configHash,
@@ -62,6 +67,8 @@ async function main(argv: string[]): Promise<number> {
     env,
     scheduleId: args.schedule,
     cron: args.cron,
+    weekly,
+    weeklyEnding: args.weeklyEnding,
     sections: args.sections,
     recipients: args.recipients,
     fromArchive: args.fromArchive,
