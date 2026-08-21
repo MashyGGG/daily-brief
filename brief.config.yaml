@@ -470,10 +470,14 @@ recipients:
     format: markdown
     enabled: true
 
-  - id: me-gmail
+  # One entry, one message. Nobody's address is committed — both header lines come
+  # from secrets, and the recipient is skipped (not failed) while EMAIL_TO is unset:
+  #   EMAIL_TO = you@example.com                    -> the To: header, normally one address
+  #   EMAIL_CC = ["a@example.com","b@example.com"]  -> the Cc: header; JSON array or a,b
+  # `to`/`cc` may also be set here instead, but then they live in git; the secrets win.
+  - id: me-mail
     channel: email
     driver: smtp # smtp (Gmail App Password) | resend (only with a verified custom domain)
-    to: chenmasheng0414@gmail.com
     sections: ['*']
     format: html
     enabled: true

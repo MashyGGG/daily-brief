@@ -1,4 +1,4 @@
-import type { Recipient } from '../config/schema'
+import { targetList, type Recipient } from '../config/schema'
 import {
   ChannelError,
   postJson,
@@ -37,35 +37,53 @@ async function defaultMailer(options: {
   }) as unknown as Mailer
 }
 
+/**
+ * Who the mail is addressed to. EMAIL_TO (a secret, so the address never has to be
+ * committed) REPLACES the config's `to` outright when set — it does not add to it.
+ */
+function resolveTo(ctx: ChannelContext, recipient: Recipient): string[] {
+  return targetList(ctx.env.EMAIL_TO ?? recipient.to, 'EMAIL_TO')
+}
+
 export function createEmailChannel(ctx: ChannelContext): Channel {
   return {
     name: 'email',
 
     missingEnv(recipient: Recipient) {
-      if (recipient.driver === 'resend') {
-        return ctx.env.RESEND_API_KEY ? [] : ['RESEND_API_KEY']
-      }
-      return SMTP_ENV.filter((key) => !ctx.env[key])
+      const missing =
+        recipient.driver === 'resend'
+          ? ctx.env.RESEND_API_KEY
+            ? []
+            : ['RESEND_API_KEY']
+          : SMTP_ENV.filter((key) => !ctx.env[key])
+      // No mailbox is a missing secret, not a broken config: skip this recipient and
+      // say so in the run summary, exactly like an unset webhook on any other channel.
+      if (resolveTo(ctx, recipient).length === 0) missing.push('EMAIL_TO')
+      return [...missing]
     },
 
     async send({ recipient, title, body, text }: SendInput) {
-      const to = recipient.to
-      if (!to) throw new ChannelError('email', `recipient "${recipient.id}" has no "to"`)
+      const to = resolveTo(ctx, recipient)
+      if (to.length === 0)
+        throw new ChannelError('email', `recipient "${recipient.id}" has no "to"`)
+      const cc = targetList(ctx.env.EMAIL_CC ?? recipient.cc, 'EMAIL_CC').filter(
+        (address) => !to.includes(address),
+      )
       const html = recipient.format === 'html' ? body : undefined
       const plain = recipient.format === 'html' ? text : body
 
       if (recipient.driver === 'resend') {
-        await sendViaResend(ctx, { to, subject: title, html, text: plain })
+        await sendViaResend(ctx, { to, cc, subject: title, html, text: plain })
         return
       }
-      await sendViaSmtp(ctx, { to, subject: title, html, text: plain })
+      await sendViaSmtp(ctx, { to, cc, subject: title, html, text: plain })
     },
   }
 }
 
 async function sendViaSmtp(
   ctx: ChannelContext,
-  message: { to: string; subject: string; html?: string; text: string },
+  message: { to: string[]; cc: string[]; subject: string; html?: string; text: string },
 ): Promise<void> {
   const host = ctx.env.SMTP_HOST
   const user = ctx.env.SMTP_USER
@@ -88,7 +106,9 @@ async function sendViaSmtp(
   try {
     await mailer.sendMail({
       from,
-      to: message.to,
+      // Nodemailer takes the header form; the arrays are the source of truth.
+      to: message.to.join(', '),
+      ...(message.cc.length ? { cc: message.cc.join(', ') } : {}),
       subject: message.subject,
       html: message.html,
       text: message.text,
@@ -102,7 +122,7 @@ async function sendViaSmtp(
 
 async function sendViaResend(
   ctx: ChannelContext,
-  message: { to: string; subject: string; html?: string; text: string },
+  message: { to: string[]; cc: string[]; subject: string; html?: string; text: string },
 ): Promise<void> {
   const key = ctx.env.RESEND_API_KEY
   const from = ctx.env.EMAIL_FROM
@@ -113,7 +133,14 @@ async function sendViaResend(
     ctx,
     'email',
     'https://api.resend.com/emails',
-    { from, to: [message.to], subject: message.subject, html: message.html, text: message.text },
+    {
+      from,
+      to: message.to,
+      ...(message.cc.length ? { cc: message.cc } : {}),
+      subject: message.subject,
+      html: message.html,
+      text: message.text,
+    },
     { authorization: `Bearer ${key}` },
   )
 }

@@ -8,7 +8,10 @@
 const MASK = '[REDACTED]'
 
 /** Env vars whose values must never surface in committed output. */
-const SECRET_ENV_PATTERN = /(TOKEN|SECRET|PASS|PASSWORD|KEY|WEBHOOK|APP_TOKEN|_UID|_URL_SECRET)$/i
+// `EMAIL_TO` / `EMAIL_CC` / `ALERT_EMAIL_TO` are here because the archive is public
+// and the recipient list is private — no address may surface in a warning.
+const SECRET_ENV_PATTERN =
+  /(TOKEN|SECRET|PASS|PASSWORD|KEY|WEBHOOK|APP_TOKEN|_UID|_URL_SECRET|EMAIL_TO|EMAIL_CC)$/i
 
 /** Env vars matching the pattern above that are nonetheless safe / structural. */
 const SECRET_ENV_ALLOWLIST = new Set(['SMTP_HOST', 'SMTP_PORT', 'SMTP_USER', 'EMAIL_FROM'])

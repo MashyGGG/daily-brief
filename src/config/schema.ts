@@ -113,12 +113,19 @@ export const archiveSchema = z
   })
   .default({})
 
+/**
+ * A delivery target list: one target, a comma-separated string, or a real array.
+ * Email uses it for several mailboxes; wxpusher for its uid list; telegram for a chat id.
+ */
+const TARGETS = z.union([z.string().min(1), z.array(z.string().min(1)).min(1)])
+
 export const recipientSchema = z.object({
   id: ID,
   channel: z.enum(['wecom', 'email', 'serverchan', 'pushplus', 'wxpusher', 'telegram', 'stdout']),
   driver: z.enum(['smtp', 'resend']).optional(),
   secretRef: z.string().min(1).optional(),
-  to: z.string().optional(),
+  to: TARGETS.optional(),
+  cc: TARGETS.optional(), // email only; ignored by every other channel
   sections: WILDCARD_LIST.default(['*']),
   format: z.enum(['markdown', 'html', 'text']).default('markdown'),
   enabled: z.boolean().default(true),
@@ -229,13 +236,8 @@ export const briefConfigSchema = z
         })
       }
       if (r.channel === 'email') {
-        if (!r.to) {
-          ctx.addIssue({
-            code: z.ZodIssueCode.custom,
-            path: ['recipients', i, 'to'],
-            message: `recipient "${r.id}" (channel email) requires "to"`,
-          })
-        }
+        // `to`/`cc` may legitimately be absent here and arrive as EMAIL_TO / EMAIL_CC;
+        // the channel skips the recipient if neither ends up naming a mailbox.
         if (r.driver === undefined) {
           ctx.addIssue({
             code: z.ZodIssueCode.custom,
@@ -279,6 +281,16 @@ function formatIssues(error: z.ZodError): ConfigIssue[] {
 
 export function renderIssues(issues: ConfigIssue[]): string {
   return issues.map((i) => `  - ${i.path}: ${i.message}`).join('\n')
+}
+
+/**
+ * A malformed EMAIL_TO / EMAIL_CC secret should fail here — at startup, with the name of
+ * the secret — rather than hours later inside the mailer. Absence is NOT an error: a
+ * recipient with no mailbox is skipped by the channel like any other missing secret.
+ */
+function assertEmailSecrets(env: NodeJS.ProcessEnv) {
+  targetList(env.EMAIL_TO, 'EMAIL_TO')
+  targetList(env.EMAIL_CC, 'EMAIL_CC')
 }
 
 /**
@@ -371,6 +383,7 @@ export function parseConfig(yamlText: string, env: NodeJS.ProcessEnv = process.e
       issues,
     )
   }
+  assertEmailSecrets(env)
   assertResendSender(revalidated.data, env)
   return revalidated.data
 }
@@ -378,6 +391,35 @@ export function parseConfig(yamlText: string, env: NodeJS.ProcessEnv = process.e
 export function resolveSections(names: string[], all: Section[]): Section[] {
   if (names.includes('*')) return all
   return all.filter((s) => names.includes(s.id))
+}
+
+/**
+ * Read a recipient's `to` — always through this, never directly: it may be a single
+ * target, a comma-separated list, or an array, and every caller wants the same list.
+ */
+export function targetList(to: string | string[] | undefined, label = 'to'): string[] {
+  if (to === undefined) return []
+  if (Array.isArray(to)) return to.map((t) => t.trim()).filter(Boolean)
+  const trimmed = to.trim()
+  // A GitHub secret can only hold a string, so a list arrives either as JSON or
+  // comma-separated. Anything starting with "[" is meant as JSON: parse it strictly
+  // rather than comma-splitting it into `["a@x.com` and friends.
+  if (trimmed.startsWith('[')) {
+    let parsed: unknown
+    try {
+      parsed = JSON.parse(trimmed)
+    } catch {
+      throw new ConfigError(`${label} looks like a JSON array but does not parse: ${trimmed}`)
+    }
+    if (!Array.isArray(parsed) || parsed.some((t) => typeof t !== 'string')) {
+      throw new ConfigError(`${label} must be a JSON array of strings`)
+    }
+    return (parsed as string[]).map((t) => t.trim()).filter(Boolean)
+  }
+  return trimmed
+    .split(',')
+    .map((t) => t.trim())
+    .filter(Boolean)
 }
 
 export function resolveRecipients(names: string[], all: Recipient[]): Recipient[] {

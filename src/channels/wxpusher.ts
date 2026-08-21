@@ -1,4 +1,4 @@
-import type { Recipient } from '../config/schema'
+import { targetList, type Recipient } from '../config/schema'
 import { chunkBlocks } from '../core/chunk'
 import {
   assertOkCode,
@@ -11,7 +11,8 @@ import {
 
 /**
  * §0.5 — WxPusher, 500 messages/day, messages expire after 7 days. Off by default.
- * `secretRef` holds the app token; `to` holds a comma-separated UID list (or `topic:<id>`).
+ * `secretRef` holds the app token; `to` holds a UID list — comma-separated or an
+ * array — where an entry may also be `topic:<id>`.
  */
 const WXPUSHER_MAX_BYTES = 40 * 1024
 
@@ -30,10 +31,7 @@ export function createWxPusherChannel(ctx: ChannelContext): Channel {
       const appToken = ctx.env[recipient.secretRef ?? '']
       if (!appToken) throw new ChannelError('wxpusher', `missing secret ${recipient.secretRef}`)
 
-      const targets = (recipient.to ?? ctx.env.WXPUSHER_UIDS ?? '')
-        .split(',')
-        .map((t) => t.trim())
-        .filter(Boolean)
+      const targets = targetList(recipient.to ?? ctx.env.WXPUSHER_UIDS)
       if (targets.length === 0) throw new ChannelError('wxpusher', 'no uids or topics configured')
 
       const [first = ''] = chunkBlocks(blocks, WXPUSHER_MAX_BYTES, 'bytes')

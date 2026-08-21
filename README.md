@@ -85,6 +85,8 @@ archive commit fails, and the archive commit is what keeps the schedule alive (s
 | -------------------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
 | `SMTP_HOST` `SMTP_PORT` `SMTP_USER` `SMTP_PASS`                                                                | **yes**  | Gmail SMTP; `SMTP_PASS` is the App Password                                |
 | `EMAIL_FROM`                                                                                                   | **yes**  | usually the same as `SMTP_USER`                                            |
+| `EMAIL_TO`                                                                                                     | no       | the `To:` address; unset means the email recipient is skipped              |
+| `EMAIL_CC`                                                                                                     | no       | the `Cc:` list, as a JSON array or `a,b`                                   |
 | `WECOM_WEBHOOK_ME`                                                                                             | no       | WeCom group-robot webhook, full URL; omit it and that recipient is skipped |
 | `RECIPIENTS_OVERRIDE_JSON`                                                                                     | no       | private recipients that must not be committed                              |
 | `SERVERCHAN_KEY` `PUSHPLUS_TOKEN` `WXPUSHER_APP_TOKEN` `WXPUSHER_UIDS` `TELEGRAM_BOT_TOKEN` `TELEGRAM_CHAT_ID` | no       | only if you enable those channels                                          |
@@ -93,6 +95,42 @@ archive commit fails, and the archive commit is what keeps the schedule alive (s
 
 A `secretRef` pointing at an unset variable **skips that recipient** and says so in the run
 summary. It does not fail the run, and it does not affect anybody else.
+
+### Who gets the mail
+
+One `channel: email` entry sends **one** message, and two secrets decide its headers.
+No address is committed:
+
+```
+EMAIL_TO = you@example.com
+EMAIL_CC = ["a@example.com", "b@example.com"]
+```
+
+`EMAIL_TO` is the `To:` header — normally one address, though a list works there too.
+`EMAIL_CC` is the `Cc:` header, and takes either a JSON array or a plain `a,b` list;
+`EMAIL_TO` accepts both shapes as well. An address already in `To:` is not copied again,
+and with nothing to copy the `Cc:` header is omitted rather than sent empty.
+
+Both replace the config's `to` / `cc` outright when set, rather than adding to them — so
+changing who gets the brief means editing a secret, never the YAML. Both are treated as
+secret values and masked out of anything the run commits.
+
+While `EMAIL_TO` is unset the email recipient is **skipped** with `missing env: EMAIL_TO`
+in the run summary, exactly like an unset webhook on any other channel — the run itself
+still succeeds. A malformed secret is different: it fails immediately at startup, naming
+the secret, rather than surfacing hours later inside the mailer.
+
+Everyone on the message sees everyone else — there is no BCC, and no per-address
+`sections`. If a second address needs its own sections, its own format, or its own line in
+the run summary, give it a second recipient entry with a different `id` and its own `to`.
+`RECIPIENTS_OVERRIDE_JSON` is merged by `id` and can carry one privately:
+
+```json
+[{ "id": "work-mail", "channel": "email", "driver": "smtp", "to": ["work@example.com"] }]
+```
+
+No extra secret is needed for any of this: every address reuses the same `SMTP_*` /
+`EMAIL_FROM` credentials, and one bad address fails the whole message, so check for typos.
 
 ## The first run
 

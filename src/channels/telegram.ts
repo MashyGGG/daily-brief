@@ -1,4 +1,4 @@
-import type { Recipient } from '../config/schema'
+import { targetList, type Recipient } from '../config/schema'
 import { chunkBlocks, TELEGRAM_MAX_CHARS } from '../core/chunk'
 import {
   assertOkCode,
@@ -35,7 +35,8 @@ export function createTelegramChannel(ctx: ChannelContext): Channel {
     async send({ blocks, recipient }: SendInput) {
       const token = ctx.env[recipient.secretRef ?? '']
       if (!token) throw new ChannelError('telegram', `missing secret ${recipient.secretRef}`)
-      const chatId = recipient.to ?? ctx.env.TELEGRAM_CHAT_ID
+      // One chat per recipient: extra targets in `to` would need one send each.
+      const [chatId = ctx.env.TELEGRAM_CHAT_ID] = targetList(recipient.to)
       if (!chatId) throw new ChannelError('telegram', 'no chat id configured')
 
       // Blocks arrive as markdown; escape each one, then pack by character count.

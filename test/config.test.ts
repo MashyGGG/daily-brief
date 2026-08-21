@@ -173,17 +173,84 @@ schedules:
     )
   })
 
-  it('requires "to" and a driver on an email recipient', () => {
+  it('requires a driver on an email recipient', () => {
     expectIssue(
       () =>
         parseConfig(
           configYaml({
             recipients: `recipients:
-  - id: me-gmail
+  - id: me-mail
     channel: email
 `,
           }),
           EMPTY_ENV,
+        ),
+      'recipients.0.driver',
+    )
+  })
+
+  it('lets an email recipient carry no mailbox at all — the secrets supply it', () => {
+    const noTo = configYaml({
+      recipients: `recipients:
+  - id: me-mail
+    channel: email
+    driver: smtp
+`,
+    })
+    // Not a config error: with EMAIL_TO unset the channel skips this recipient
+    // (see the email channel's missingEnv), it does not sink the whole run.
+    expect(parseConfig(noTo, EMAIL_SAFE_ENV()).recipients[0]!.to).toBeUndefined()
+    expect(parseConfig(noTo, { ...EMAIL_SAFE_ENV(), EMAIL_TO: 'a@x.com' }).recipients).toHaveLength(
+      1,
+    )
+  })
+
+  it('rejects a malformed EMAIL_TO / EMAIL_CC secret at startup, by name', () => {
+    const yaml = configYaml({
+      recipients: `recipients:
+  - id: me-mail
+    channel: email
+    driver: smtp
+`,
+    })
+    expect(() => parseConfig(yaml, { ...EMAIL_SAFE_ENV(), EMAIL_TO: '["a@x.com"' })).toThrow(
+      /EMAIL_TO/,
+    )
+    expect(() => parseConfig(yaml, { ...EMAIL_SAFE_ENV(), EMAIL_CC: '[1, 2]' })).toThrow(/EMAIL_CC/)
+    // A well-formed JSON array is the documented shape for the CC secret.
+    expect(() =>
+      parseConfig(yaml, { ...EMAIL_SAFE_ENV(), EMAIL_CC: '["a@x.com","b@y.com"]' }),
+    ).not.toThrow()
+  })
+
+  it('accepts a list of mailboxes on one recipient', () => {
+    const config = parseConfig(
+      configYaml({
+        recipients: `recipients:
+  - id: me-mail
+    channel: email
+    driver: smtp
+    to: [a@x.com, b@y.com]
+`,
+      }),
+      EMAIL_SAFE_ENV(),
+    )
+    expect(config.recipients[0]!.to).toEqual(['a@x.com', 'b@y.com'])
+  })
+
+  it('rejects an empty mailbox list rather than silently sending to nobody', () => {
+    expectIssue(
+      () =>
+        parseConfig(
+          configYaml({
+            recipients: `recipients:
+  - id: me-mail
+    channel: email
+    driver: smtp
+    to: []
+`,
+          }),
+          EMAIL_SAFE_ENV(),
         ),
       'recipients.0.to',
     )
@@ -279,6 +346,31 @@ describe('RECIPIENTS_OVERRIDE_JSON (§3.1 rule 3)', () => {
       ]),
     )
     expect(merged.recipients.map((r) => r.id)).toContain('private')
+  })
+
+  it('can still swap the mailbox list per-recipient, for a second email entry', () => {
+    const withMail = parseConfig(
+      configYaml({
+        recipients: `recipients:
+  - id: me-mail
+    channel: email
+    driver: smtp
+    to: [a@x.com]
+    format: html
+`,
+      }),
+      EMAIL_SAFE_ENV(),
+    )
+    const merged = applyRecipientOverride(
+      withMail,
+      JSON.stringify([{ id: 'me-mail', to: ['a@x.com', 'b@y.com'] }]),
+    )
+    const mail = merged.recipients.find((r) => r.id === 'me-mail')!
+    expect(mail.to).toEqual(['a@x.com', 'b@y.com'])
+    // driver / format survive the shallow merge.
+    expect(mail.driver).toBe('smtp')
+    expect(mail.format).toBe('html')
+    expect(merged.recipients).toHaveLength(1)
   })
 
   it('rejects malformed JSON instead of silently ignoring it', () => {

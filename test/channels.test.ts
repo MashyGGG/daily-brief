@@ -121,6 +121,48 @@ describe('email channel', () => {
     })
   })
 
+  it('addresses EMAIL_TO and copies EMAIL_CC, which may be a JSON array', async () => {
+    const sendMail = vi.fn(async (_message: Record<string, unknown>) => ({}))
+    await createEmailChannel(
+      ctx({
+        env: { ...smtpEnv, EMAIL_TO: 'you@example.com', EMAIL_CC: '["a@x.com", "b@y.com"]' },
+        createMailer: () => ({ sendMail }),
+      }),
+    ).send({ ...payload(['<html>body</html>']), recipient: mailRecipient })
+
+    expect(sendMail).toHaveBeenCalledTimes(1)
+    expect(sendMail.mock.calls[0]![0]).toMatchObject({
+      to: 'you@example.com',
+      cc: 'a@x.com, b@y.com',
+    })
+  })
+
+  it('takes a comma-separated CC too, and never copies an address it already addressed', async () => {
+    const sendMail = vi.fn(async (_message: Record<string, unknown>) => ({}))
+    await createEmailChannel(
+      ctx({
+        env: { ...smtpEnv, EMAIL_TO: 'you@example.com', EMAIL_CC: ' you@example.com , a@x.com ' },
+        createMailer: () => ({ sendMail }),
+      }),
+    ).send({ ...payload(['<html>body</html>']), recipient: mailRecipient })
+    expect(sendMail.mock.calls[0]![0]).toMatchObject({ to: 'you@example.com', cc: 'a@x.com' })
+  })
+
+  it('omits the Cc header entirely when nothing is copied', async () => {
+    const sendMail = vi.fn(async (_message: Record<string, unknown>) => ({}))
+    await createEmailChannel(ctx({ env: smtpEnv, createMailer: () => ({ sendMail }) })).send({
+      ...payload(['<html>body</html>']),
+      recipient: mailRecipient,
+    })
+    expect(sendMail.mock.calls[0]![0]).not.toHaveProperty('cc')
+  })
+
+  it('skips the recipient instead of failing the run when no mailbox is configured', () => {
+    const channel = createEmailChannel(ctx({ env: smtpEnv }))
+    expect(channel.missingEnv(recipient({ ...mailRecipient, to: undefined }))).toContain('EMAIL_TO')
+    expect(channel.missingEnv(mailRecipient)).toEqual([])
+  })
+
   it('uses port 465 as an implicit-TLS connection', async () => {
     const createMailer = vi.fn(
       (_options: { host: string; port: number; secure: boolean; user: string; pass: string }) => ({
