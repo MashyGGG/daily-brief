@@ -1,5 +1,6 @@
 import type { Item } from '../config/schema'
 import { escapeHtml, safeHref } from '../render/html'
+import { itemBody } from '../render/markdown'
 import type { IssueSection, SiteIssue } from './collect'
 import { groupByMonth } from './collect'
 
@@ -36,6 +37,7 @@ ol.items li .t{font-size:15px;font-weight:600}
 ol.items li .t::before{content:counter(i) ".";color:var(--muted);font-weight:400;margin-right:6px}
 .meta{margin-top:4px;color:var(--muted);font-size:12px}
 .excerpt{margin-top:6px;color:var(--muted);font-size:13px}
+.takeaways{margin:6px 0 0;padding-left:18px;color:var(--muted);font-size:13px;line-height:1.7}
 .warn{margin-top:28px;padding:12px 14px;border-radius:6px;font-size:13px;
   background:var(--warn-bg);border:1px solid var(--warn-line);color:var(--warn-fg)}
 .warn ul{margin:6px 0 0;padding-left:18px}
@@ -94,12 +96,18 @@ function metaOf(item: Item): string {
 }
 
 function renderItem(item: Item): string {
-  const excerpt = item.excerpt ? `<div class="excerpt">${escapeHtml(item.excerpt)}</div>` : ''
+  const body = itemBody(item)
+  const excerpt = body ? `<div class="excerpt">${escapeHtml(body)}</div>` : ''
+  const takeaways =
+    item.takeaways && item.takeaways.length > 0
+      ? `<ul class="takeaways">${item.takeaways.map((t) => `<li>${escapeHtml(t)}</li>`).join('')}</ul>`
+      : ''
   return [
     '<li>',
     `<div class="t"><a href="${safeHref(item.url)}" rel="noopener">${escapeHtml(item.title)}</a></div>`,
     `<div class="meta">${escapeHtml(metaOf(item))}</div>`,
     excerpt,
+    takeaways,
     '</li>',
   ].join('')
 }

@@ -1,5 +1,10 @@
 import { describe, expect, it } from 'vitest'
-import { escapeMarkdown, renderMarkdown, renderMarkdownBlocks } from '../src/render/markdown'
+import {
+  escapeMarkdown,
+  renderArchiveMarkdown,
+  renderMarkdown,
+  renderMarkdownBlocks,
+} from '../src/render/markdown'
 import { escapeHtml, renderHtml, safeHref } from '../src/render/html'
 import { renderText } from '../src/render/text'
 import { render, renderForRecipients } from '../src/render'
@@ -173,5 +178,61 @@ describe('renderForRecipients', () => {
     expect(rendered.body).toMatch(/^<!doctype html>/)
     expect(rendered.text).toContain('Rust 1.90')
     expect(rendered.text).not.toContain('<html')
+  })
+})
+
+describe('§1.2 — the LLM summary is rendered, the excerpt is the fallback', () => {
+  const summarized = item({
+    title: 'Rust ships a new borrow checker',
+    url: 'https://example.com/rust',
+    excerpt: 'The original feed description, which nobody wanted to read.',
+    summary: '新的借用检查器把编译期错误提示改写成了人话。',
+    takeaways: ['误报更少', '编译更快'],
+  })
+  const plain = item({ title: 'No LLM here', excerpt: 'Just the feed text.' })
+  const withBoth = brief({
+    sections: [{ id: 'tech', title: '国际技术', items: [summarized, plain] }],
+  })
+
+  it('markdown prints the summary instead of the excerpt', () => {
+    const out = renderMarkdown(withBoth)
+    expect(out).toContain('新的借用检查器把编译期错误提示改写成了人话。')
+    expect(out).not.toContain('which nobody wanted to read')
+  })
+
+  it('markdown still prints the excerpt for an item the LLM never touched', () => {
+    expect(renderMarkdown(withBoth)).toContain('Just the feed text.')
+  })
+
+  it('the pushed markdown leaves takeaways out — WeCom caps a message at 4096 bytes', () => {
+    expect(renderMarkdown(withBoth)).not.toContain('误报更少')
+  })
+
+  it('the archived markdown keeps them, having no such ceiling', () => {
+    const archived = renderArchiveMarkdown(withBoth)
+    expect(archived).toContain('误报更少')
+    expect(archived).toContain('编译更快')
+  })
+
+  it('mail prints the summary and the bullets', () => {
+    const html = renderHtml(withBoth)
+    expect(html).toContain('新的借用检查器把编译期错误提示改写成了人话。')
+    expect(html).toContain('<li>误报更少</li>')
+    expect(html).not.toContain('which nobody wanted to read')
+  })
+
+  it('plain text — the mail fallback — carries both too', () => {
+    const text = renderText(withBoth)
+    expect(text).toContain('新的借用检查器把编译期错误提示改写成了人话。')
+    expect(text).toContain('- 误报更少')
+  })
+
+  it('escapes a summary the way it escapes a title', () => {
+    const risky = brief({
+      sections: [
+        { id: 'tech', title: 'T', items: [item({ summary: 'a *b* [c] <d>', excerpt: 'x' })] },
+      ],
+    })
+    expect(renderMarkdown(risky)).toContain('a \\*b\\* \\[c\\] \\<d\\>')
   })
 })

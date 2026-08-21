@@ -7,6 +7,8 @@ import { renderRunSummary, writeStepOutputs, writeStepSummary } from './summary'
 import { collectSecretValues, safeErrorMessage } from './core/redact'
 import type { ChannelContext, HttpFetch } from './channels'
 import type { FetchLike } from './sources'
+import { replayEnrich } from './enrich/replay'
+import type { LlmFetch } from './enrich/llm'
 
 const sleep = (ms: number) => new Promise<void>((resolve) => setTimeout(resolve, ms))
 
@@ -28,6 +30,22 @@ async function main(argv: string[]): Promise<number> {
     return 0
   }
 
+  if (args.reEnrich) {
+    const replay = await replayEnrich({
+      config,
+      date: args.reEnrich,
+      env,
+      fetchImpl: fetch as unknown as LlmFetch,
+      diff: args.diff,
+      noLlm: args.noLlm,
+      llmDryRun: args.llmDryRun,
+      describeError: (err) => safeErrorMessage(err, collectSecretValues(env)),
+      log: (message: string) => console.log(`[brief] ${message}`),
+    })
+    console.log(replay.report)
+    return replay.found ? 0 : 1
+  }
+
   const channelContext: ChannelContext = {
     env,
     fetchImpl: fetch as unknown as HttpFetch,
@@ -47,6 +65,9 @@ async function main(argv: string[]): Promise<number> {
     fromArchive: args.fromArchive,
     dryRun: args.dryRun,
     fetchImpl: fetch as unknown as FetchLike,
+    llmFetchImpl: fetch as unknown as LlmFetch,
+    noLlm: args.noLlm,
+    llmDryRun: args.llmDryRun,
     channelContext,
     log: (message: string) => console.log(`[brief] ${message}`),
   })

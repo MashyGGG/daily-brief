@@ -114,3 +114,22 @@ describe('safeErrorMessage', () => {
     expect(safeErrorMessage('plain string', [])).toBe('plain string')
   })
 })
+
+describe('§6.2 item 4 — LLM_BASE_URL', () => {
+  const ENDPOINT = 'https://llm.internal.example/tenants/acme-9f3c1b/openai/v1'
+
+  it('is collected as a secret: a self-hosted endpoint can carry its own auth in the path', () => {
+    expect(collectSecretValues({ LLM_BASE_URL: ENDPOINT })).toContain(ENDPOINT)
+  })
+
+  it('never reaches a committed warning', () => {
+    const values = collectSecretValues({ LLM_BASE_URL: ENDPOINT })
+    expect(redact(`POST ${ENDPOINT}/chat/completions failed`, values)).not.toContain('acme-9f3c1b')
+  })
+
+  it('LLM_API_KEY was already covered by the KEY$ rule', () => {
+    expect(collectSecretValues({ LLM_API_KEY: 'sk-live-abcdef123456' })).toContain(
+      'sk-live-abcdef123456',
+    )
+  })
+})

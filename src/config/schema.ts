@@ -1,6 +1,19 @@
 import { z } from 'zod'
 import { parse as parseYaml } from 'yaml'
 
+/**
+ * §1.2 — where a `summary` came from, kept so a prompt change can be evaluated against
+ * yesterday's archive instead of waiting for tomorrow's run (`--re-enrich`).
+ */
+export interface SummaryMeta {
+  /** Only ever `llm`: an item with no LLM summary carries no meta at all. */
+  by: 'llm'
+  model: string
+  promptVersion: string
+  /** M1 always writes `excerpt`; M2's full-text fetch is what makes this worth recording. */
+  inputKind: 'excerpt' | 'fulltext'
+}
+
 /** §2.1 — every source normalizes to this shape; it is also the archive JSON element. */
 export interface Item {
   id: string
@@ -12,7 +25,16 @@ export interface Item {
   score?: number
   rankScore: number
   author?: string
+  /**
+   * The source's own description, cleaned. Never overwritten by the LLM: `filter.ts`
+   * matches `include`/`exclude` against it, so rewriting it would silently drift the
+   * editorial rules, and keeping it is what makes the no-LLM degradation free.
+   */
   excerpt?: string
+  /** §1.2 — LLM output, rendered in preference to `excerpt`. */
+  summary?: string
+  takeaways?: string[]
+  summaryMeta?: SummaryMeta
 }
 
 /** An item before ranking / section assignment. */
@@ -66,21 +88,19 @@ const STALE_AFTER_DAYS = z
  * cross-post of the same story (0.306), so leaving the boilerplate in makes near-dupe
  * detection actively wrong rather than merely noisy.
  */
-const STRIP_PATTERNS = z
-  .array(
-    z
-      .string()
-      .min(1)
-      .refine((p) => {
-        try {
-          new RegExp(p, 'gi')
-          return true
-        } catch {
-          return false
-        }
-      }, 'must be a valid JavaScript regular expression'),
-  )
-  .default([])
+const REGEX = z
+  .string()
+  .min(1)
+  .refine((p) => {
+    try {
+      new RegExp(p, 'gi')
+      return true
+    } catch {
+      return false
+    }
+  }, 'must be a valid JavaScript regular expression')
+
+const STRIP_PATTERNS = z.array(REGEX).default([])
 
 export const sourceSchema = z.discriminatedUnion('type', [
   z.object({
@@ -177,6 +197,97 @@ export const dedupeSchema = z
   })
   .default({})
 
+/* ────────────────────────────── §2 the `llm` block ────────────────────────────── */
+
+export const LLM_STYLES = ['bullet', 'oneline', 'tldr'] as const
+
+/**
+ * The knobs that resolve source → section → defaults, most specific winning. Every field
+ * is optional here precisely so "unset" and "set to false" stay distinguishable — a
+ * section saying `summarize: true` must not be overridden by a source that says nothing.
+ */
+const llmPolicyOverride = z.object({
+  summarize: z.boolean().optional(),
+  style: z.enum(LLM_STYLES).optional(),
+  language: z.string().min(1).optional(),
+  maxChars: z.number().int().min(40).max(1000).optional(),
+  /** Declared here from M1 so configs need no edit at M2; until then `summaryMeta.inputKind` stays `excerpt`. */
+  fetchFullText: z.boolean().optional(),
+})
+
+const llmDefaults = z
+  .object({
+    /** Whitelist, not blacklist: a source is silent about the LLM until someone opts it in. */
+    summarize: z.boolean().default(false),
+    style: z.enum(LLM_STYLES).default('bullet'),
+    language: z.string().min(1).default('zh-CN'),
+    maxChars: z.number().int().min(40).max(1000).default(180),
+    fetchFullText: z.boolean().default(false),
+  })
+  .default({})
+
+export const llmSchema = z
+  .object({
+    enabled: z.boolean().default(false),
+    provider: z
+      .object({
+        /** Any OpenAI-compatible `/chat/completions` endpoint; `LLM_BASE_URL` overrides it. */
+        baseUrl: z.string().url().default('https://api.deepseek.com/v1'),
+        model: z.string().min(1).default('deepseek-chat'),
+        /** The NAME of the env var holding the key — same convention as `recipients[].secretRef`. */
+        apiKeyRef: z.string().min(1).default('LLM_API_KEY'),
+        temperature: z.number().min(0).max(2).default(0),
+        maxOutputTokens: z.number().int().min(64).max(4096).default(300),
+        timeoutMs: z
+          .number()
+          .int()
+          .min(1000)
+          .max(120 * 1000)
+          .default(30_000),
+        concurrency: z.number().int().min(1).max(16).default(4),
+        retries: z.number().int().min(0).max(5).default(2),
+      })
+      .default({}),
+    /**
+     * The hard gate. `section.limit` already caps how many items can reach the LLM at all
+     * (§1.1 reason 2); this is the second bound, the one that holds when a config edit goes
+     * wrong. Both are checked, and the smaller one wins by construction.
+     */
+    budget: z
+      .object({
+        maxItemsPerRun: z.number().int().min(0).max(200).default(12),
+        maxInputCharsPerItem: z.number().int().min(100).max(50_000).default(6000),
+        maxTotalInputChars: z.number().int().min(100).max(1_000_000).default(80_000),
+      })
+      .default({}),
+    defaults: llmDefaults,
+    sections: z.record(ID, llmPolicyOverride).default({}),
+    sources: z.record(ID, llmPolicyOverride).default({}),
+    /**
+     * The quality gate — orthogonal to `summarize`. The switches say "is this KIND of
+     * content worth paying for"; these say "is THIS item's own excerpt already good
+     * enough". Leaving both `excerptShorterThan` and `excerptMatches` unset turns the
+     * excerpt-quality half off entirely rather than rejecting everything.
+     */
+    when: z
+      .object({
+        /** Call only when the source excerpt is shorter than this. `0` = don't judge by length. */
+        excerptShorterThan: z.number().int().nonnegative().default(0),
+        /** …or when it matches a known-junk fingerprint. Case-insensitive, validated here. */
+        excerptMatches: z.array(REGEX).default([]),
+        /** Only the top N of each section, in rank order. `0` = no cap. */
+        topPerSection: z.number().int().nonnegative().default(0),
+        /**
+         * Skip items whose title is already in this language. Note this ANDs with the
+         * switches above, so setting `zh` silently cancels any `sections.cn-tech`
+         * opt-in — which is why the shipped config leaves it unset.
+         */
+        titleLanguageNot: z.enum(['zh']).optional(),
+      })
+      .default({}),
+  })
+  .default({})
+
 /**
  * A delivery target list: one target, a comma-separated string, or a real array.
  * Email uses it for several mailboxes; wxpusher for its uid list; telegram for a chat id.
@@ -201,6 +312,9 @@ export type Section = z.infer<typeof sectionSchema>
 export type ArchiveConfig = z.infer<typeof archiveSchema>
 export type RenderConfig = z.infer<typeof renderSchema>
 export type DedupeConfig = z.infer<typeof dedupeSchema>
+export type LlmConfig = z.infer<typeof llmSchema>
+export type LlmPolicyOverride = z.infer<typeof llmPolicyOverride>
+export type LlmStyle = (typeof LLM_STYLES)[number]
 export type Recipient = z.infer<typeof recipientSchema>
 
 /** Channels whose destination lives entirely inside a secret. */
@@ -216,6 +330,7 @@ export const briefConfigSchema = z
     archive: archiveSchema,
     render: renderSchema,
     dedupe: dedupeSchema,
+    llm: llmSchema,
     recipients: z.array(recipientSchema).min(1),
   })
   .superRefine((cfg, ctx) => {
@@ -268,6 +383,27 @@ export const briefConfigSchema = z
           })
         }
       })
+    })
+
+    // A typo'd key under `llm.sections` / `llm.sources` costs nothing at runtime and does
+    // nothing at all — the override simply never matches. Catch it here instead.
+    Object.keys(cfg.llm.sections).forEach((id) => {
+      if (!sectionIds.has(id)) {
+        ctx.addIssue({
+          code: z.ZodIssueCode.custom,
+          path: ['llm', 'sections', id],
+          message: `unknown section "${id}"`,
+        })
+      }
+    })
+    Object.keys(cfg.llm.sources).forEach((name) => {
+      if (!sourceNames.has(name)) {
+        ctx.addIssue({
+          code: z.ZodIssueCode.custom,
+          path: ['llm', 'sources', name],
+          message: `unknown source "${name}"`,
+        })
+      }
     })
 
     const checkRefs = (

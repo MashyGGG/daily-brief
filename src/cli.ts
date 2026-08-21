@@ -8,6 +8,14 @@ export interface CliArgs {
   dryRun: boolean
   noCommit: boolean
   validateOnly: boolean
+  /** Kill switch for the LLM stage; the brief still goes out (§6.1). */
+  noLlm: boolean
+  /** Plan the LLM calls and print them without making any. */
+  llmDryRun: boolean
+  /** `YYYY-MM-DD` — re-summarize an archived issue to evaluate a prompt change. */
+  reEnrich?: string
+  /** With --re-enrich: print the source excerpt next to the new summary. */
+  diff: boolean
   help: boolean
 }
 
@@ -25,6 +33,10 @@ usage: pnpm brief [options]
   --dry-run                render to stdout only: no push, no archive, no network to channels
   --no-commit              archive normally but tell the workflow not to commit
   --validate-only          load and validate the config, then exit
+  --no-llm                 skip the LLM stage; every item keeps its source excerpt
+  --llm-dry-run            list the items that would be summarized (+ token estimate), call nothing
+  --re-enrich YYYY-MM-DD   re-summarize an archived issue; prints only, sends and writes nothing
+  --diff                   with --re-enrich: print excerpt vs summary side by side
   -h, --help               this text
 `
 
@@ -43,6 +55,9 @@ export function parseArgs(argv: string[]): CliArgs {
     dryRun: false,
     noCommit: false,
     validateOnly: false,
+    noLlm: false,
+    llmDryRun: false,
+    diff: false,
     help: false,
   }
 
@@ -81,6 +96,18 @@ export function parseArgs(argv: string[]): CliArgs {
       case '--validate-only':
         args.validateOnly = true
         break
+      case '--no-llm':
+        args.noLlm = true
+        break
+      case '--llm-dry-run':
+        args.llmDryRun = true
+        break
+      case '--re-enrich':
+        args.reEnrich = next()
+        break
+      case '--diff':
+        args.diff = true
+        break
       case '-h':
       case '--help':
         args.help = true
@@ -94,5 +121,9 @@ export function parseArgs(argv: string[]): CliArgs {
   if (args.fromArchive && !/^\d{4}-\d{2}-\d{2}$/.test(args.fromArchive)) {
     throw new Error(`--from-archive expects YYYY-MM-DD, got "${args.fromArchive}"`)
   }
+  if (args.reEnrich && !/^\d{4}-\d{2}-\d{2}$/.test(args.reEnrich)) {
+    throw new Error(`--re-enrich expects YYYY-MM-DD, got "${args.reEnrich}"`)
+  }
+  if (args.diff && !args.reEnrich) throw new Error('--diff only means something with --re-enrich')
   return args
 }

@@ -91,6 +91,8 @@ archive commit fails, and the archive commit is what keeps the schedule alive (s
 | `RECIPIENTS_OVERRIDE_JSON`                                                                                     | no       | private recipients that must not be committed                              |
 | `SERVERCHAN_KEY` `PUSHPLUS_TOKEN` `WXPUSHER_APP_TOKEN` `WXPUSHER_UIDS` `TELEGRAM_BOT_TOKEN` `TELEGRAM_CHAT_ID` | no       | only if you enable those channels                                          |
 | `RESEND_API_KEY`                                                                                               | no       | only with a verified custom domain                                         |
+| `LLM_API_KEY`                                                                                                  | no       | turns on LLM summaries; unset means every item keeps its source excerpt    |
+| `LLM_BASE_URL`                                                                                                 | no       | any OpenAI-compatible endpoint, overriding the one in the config           |
 | `GITHUB_TOKEN`                                                                                                 | auto     | raises the GitHub search rate limit and makes the archive commit           |
 
 A `secretRef` pointing at an unset variable **skips that recipient** and says so in the run
@@ -276,6 +278,74 @@ Dice coefficient over character 4-grams of the normalized title. Both defaults w
 against real archived issues; the reasoning is in the comments in `brief.config.yaml`, and
 `stripPatterns` has to run first or a shared source suffix scores higher than a real cross-post.
 
+### Turn on LLM summaries
+
+Every item can carry a model-written `summary` alongside the source's own `excerpt`. The
+excerpt is never overwritten — the renderers print `summary ?? excerpt`, so with no model
+configured the brief looks exactly as it did before.
+
+Nothing happens until you set the key. `llm.enabled: true` is already in the config, and
+with `LLM_API_KEY` unset the stage skips itself and leaves one line on the Actions run page.
+Add the secret and it starts working, no config edit:
+
+```
+LLM_API_KEY   any OpenAI-compatible key         → summaries start appearing
+LLM_BASE_URL  optional; overrides llm.provider.baseUrl
+LLM_ENABLED   optional repo variable; "false" stops the calls without a config edit
+```
+
+Who gets summarized is a whitelist, decided in two independent steps:
+
+```yaml
+llm:
+  sections:
+    tech: { summarize: true } # "is this KIND of content worth paying for"
+  sources:
+    gh-trending-ts: { summarize: false } # source beats section
+  when:
+    excerptShorterThan: 80 # "is THIS item's own excerpt already good enough"
+    topPerSection: 3
+```
+
+Both must say yes. The switches are the editorial judgement; `when` is the per-item quality
+check. A source override beats its section, which beats `llm.defaults` — and a field the
+override leaves out defers to the layer below rather than resetting it.
+
+See the plan before spending anything:
+
+```bash
+pnpm brief --dry-run --llm-dry-run   # lists the items it would call on, and the token estimate
+```
+
+That estimate is a promise: the same gates decide the real run, so the count matches. On a
+typical morning after the boilerplate cleanup, 3 of the 22 selected items pass — most feed
+excerpts are already good enough, which is the point of the second gate.
+
+Failure is never fatal. A dead endpoint, a rejected key, a timeout, or a reply that will not
+parse all degrade that one item back to its excerpt, record a warning, and leave the exit
+code at `0`. `pnpm brief --no-llm` skips the stage entirely.
+
+Two things are enforced rather than requested, because the output is committed to a public
+repo and mailed without review: the feed text is fenced and declared untrusted in the prompt,
+and every answer is stripped of links, HTML, control and bidi characters before it is used.
+Links in the brief come from `item.url`, never from the model.
+
+### Iterate on the prompt without waiting for tomorrow
+
+```bash
+pnpm brief --re-enrich 2026-08-21 --diff
+```
+
+Re-summarizes an archived issue and prints the old excerpt next to the new summary. It fetches
+no feeds and **writes nothing** — a delivered issue stays what it was. This is why `summaryMeta`
+records the model and `promptVersion`: it tells "the model changed its mind" apart from "I
+changed the instructions". Bump `PROMPT_VERSION` in `src/enrich/prompt.ts` whenever you edit
+the prompt.
+
+One caveat: issues archived before the boilerplate cleanup still have `Comments` and
+`appeared first on …` sitting in their excerpts, so replaying them feeds the model dirty input.
+Compare against a recent issue instead.
+
 ### Retire a section without deleting it
 
 Set `enabled: false` on the section. Its sources stay declared and keep validating, they are simply
@@ -336,6 +406,8 @@ loadConfig ─┬─ readArchive(last 14 days) ───────────
             ├─ fetch(sources) concurrently → normalize ┴─→ dedupe
             │     └─ a source that fails records a warning; the brief still goes out
             ├─ filter (keywords / score floor / time window) → rank → truncate per section
+            ├─ enrich (LLM summary, opt-in per section/source)  ← AFTER selection
+            │     └─ any failure degrades that item to its excerpt; exitCode stays 0
             ├─ writeArchive (md + json + rebuilt index.md)      ← BEFORE delivery
             ├─ render once per (sections, format) signature
             ├─ deliver concurrently, each recipient in its own try/catch
@@ -345,6 +417,13 @@ loadConfig ─┬─ readArchive(last 14 days) ───────────
 **Archiving happens before pushing, deliberately.** WeCom or Gmail can fail; the content should not
 disappear with them. When delivery fails the job fails and the alert fires, but the issue is already
 in the repo and `--from-archive` can resend it.
+
+**The LLM runs after selection, not before.** Two reasons, both structural. `section.limit`
+already caps how many items exist by then, so the token bill has a ceiling that no configuration
+mistake can lift. And `filter` matches `include`/`exclude` against `title + excerpt` — summarizing
+first would silently drift those rules with no error to show for it. Running after selection also
+means the summaries land in the archive, so the static site, `--from-archive` and any future digest
+inherit them for free.
 
 **Nothing to say means nothing is sent.** A brief with zero qualifying items is not pushed and not
 archived — only recorded in the step summary. A daily empty email trains you to ignore the real one.
@@ -375,6 +454,9 @@ tokens and API-key patterns that an upstream might echo back.
 | ---------------------------------------------------- | ----------------------------------------------------------------- |
 | `pnpm brief`                                         | build and deliver                                                 |
 | `pnpm brief --dry-run`                               | render to stdout; no push, no archive, no commit                  |
+| `pnpm brief --llm-dry-run`                           | list the items the LLM would be called on, and call nothing       |
+| `pnpm brief --no-llm`                                | skip the LLM stage; every item keeps its source excerpt           |
+| `pnpm brief --re-enrich <date> --diff`               | re-summarize an archived issue to evaluate a prompt change        |
 | `pnpm brief:schedule`                                | regenerate the workflow cron from the config                      |
 | `pnpm check:schedule`                                | fail if the workflow and the config disagree                      |
 | `pnpm validate`                                      | validate the config and exit                                      |
@@ -396,6 +478,7 @@ src/
   sources/     rss | hackernews | github, fetch injected for tests
   core/        normalize, dedupe, filter, rank, chunk, redact, pipeline
   schedule/    timezone → UTC cron, reverse lookup, drift guard
+  enrich/      policy (pure) | prompt | llm client | sanitize | replay
   render/      markdown | html | text
   archive/     read/write, fs injected for tests
   channels/    wecom, email, serverchan, pushplus, wxpusher, telegram, stdout

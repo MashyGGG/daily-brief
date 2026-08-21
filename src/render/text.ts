@@ -1,11 +1,14 @@
 import type { Item } from '../config/schema'
 import { nonEmptySections, type Brief } from '../core/brief'
+import { itemBody } from './markdown'
 
 /** Plain-text rendering — also the multipart/alternative fallback for the HTML mail. */
 
 function renderItem(item: Item, index: number): string {
   const lines = [`${index}. ${item.title}`, `   ${item.url}`]
-  if (item.excerpt) lines.push(`   ${item.excerpt}`)
+  const body = itemBody(item)
+  if (body) lines.push(`   ${body}`)
+  for (const takeaway of item.takeaways ?? []) lines.push(`   - ${takeaway}`)
   return lines.join('\n')
 }
 

@@ -13,6 +13,8 @@ import { writeArchive } from '../archive/write'
 import { nodeFs, type FsLike } from '../archive/fs'
 import { renderForRecipients } from '../render'
 import { deliver, type ChannelContext, type DeliveryResult } from '../channels'
+import { enrichSections, type EnrichStats } from '../enrich'
+import type { LlmFetch } from '../enrich/llm'
 
 export interface RunOptions {
   config: BriefConfig
@@ -31,6 +33,14 @@ export interface RunOptions {
   /** Suppress the archive write regardless of config (`--no-commit` implies nothing here). */
   noArchive?: boolean
   fetchImpl: FetchLike
+  /** POST-capable seam for the LLM endpoint; defaults to `fetchImpl` widened. */
+  llmFetchImpl?: LlmFetch
+  /** `--no-llm` — the brief must still go out when the model is down or unpaid. */
+  noLlm?: boolean
+  /** `--llm-dry-run` — plan the calls, print them, make none. */
+  llmDryRun?: boolean
+  /** Injected so a retry backoff costs the tests nothing. */
+  sleep?: (ms: number) => Promise<void>
   channelContext: ChannelContext
   fs?: FsLike
   timeoutMs?: number
@@ -44,6 +54,8 @@ export interface RunResult {
   deliveries: DeliveryResult[]
   archived: { markdownPath: string; jsonPath: string; indexPath: string } | null
   dedupeDropped: { withinRun: number; alreadySeen: number }
+  /** §6.1 — reported, never fatal. `--from-archive` reports `disabled`: a re-send re-sends. */
+  enrich: EnrichStats
   empty: boolean
   exitCode: number
 }
@@ -129,6 +141,21 @@ export async function run(options: RunOptions): Promise<RunResult> {
   let brief: Brief
   let sourceOutcomes: SourceOutcome[] = []
   let dedupeDropped = { withinRun: 0, alreadySeen: 0 }
+  let enrich: EnrichStats = {
+    status: 'disabled',
+    model: config.llm.provider.model,
+    planned: 0,
+    gated: 0,
+    cappedByItems: 0,
+    cappedByChars: 0,
+    succeeded: 0,
+    failed: 0,
+    attempts: 0,
+    promptTokens: 0,
+    completionTokens: 0,
+    estimatedInputTokens: 0,
+    durationMs: 0,
+  }
 
   if (options.fromArchive) {
     brief = briefFromArchive(options, schedule, sections)
@@ -195,6 +222,20 @@ export async function run(options: RunOptions): Promise<RunResult> {
       built.push({ id: section.id, title: section.title, items: chosen })
     }
 
+    // §1.1 — after selection so `section.limit` caps the spend, before the brief is
+    // built so the summaries reach the archive and every renderer for free.
+    const enriched = await enrichSections(built, config.llm, {
+      env,
+      fetchImpl: (options.llmFetchImpl ?? (options.fetchImpl as unknown as LlmFetch)) as LlmFetch,
+      sleep: options.sleep,
+      disabled: options.noLlm,
+      planOnly: options.llmDryRun,
+      describeError,
+      log,
+    })
+    enrich = enriched.stats
+    warnings.push(...enriched.warnings)
+
     brief = {
       date: localDate(now, config.timezone),
       scheduleId: schedule.id,
@@ -203,7 +244,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
       timezone: config.timezone,
       generatedAt: now.toISOString(),
       lookbackHours: schedule.lookbackHours,
-      sections: built,
+      sections: enriched.sections,
       warnings,
     }
   }
@@ -220,6 +261,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
       deliveries: [],
       archived: null,
       dedupeDropped,
+      enrich,
       empty: true,
       exitCode: 0,
     }
@@ -278,6 +320,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
     deliveries,
     archived,
     dedupeDropped,
+    enrich,
     empty: false,
     exitCode: failed > 0 ? 1 : 0,
   }

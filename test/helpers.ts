@@ -38,9 +38,17 @@ schedules:
     sections: [tech, news]
 `,
     archive: '',
+    llm: '',
   }
   const merged = { ...base, ...overrides }
-  return [merged.head, merged.sources, merged.sections, merged.archive, merged.recipients].join('')
+  return [
+    merged.head,
+    merged.sources,
+    merged.sections,
+    merged.archive,
+    merged.llm,
+    merged.recipients,
+  ].join('')
 }
 
 let seq = 0
@@ -56,6 +64,9 @@ export function rawItem(partial: Partial<RawItem> = {}): RawItem {
     ...(partial.score !== undefined ? { score: partial.score } : {}),
     ...(partial.author ? { author: partial.author } : {}),
     ...(partial.excerpt ? { excerpt: partial.excerpt } : {}),
+    ...(partial.summary ? { summary: partial.summary } : {}),
+    ...(partial.takeaways ? { takeaways: partial.takeaways } : {}),
+    ...(partial.summaryMeta ? { summaryMeta: partial.summaryMeta } : {}),
   }
 }
 

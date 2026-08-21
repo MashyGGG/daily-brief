@@ -518,6 +518,74 @@ dedupe:
   # 置 0 关闭，只保留完全相同标题的老行为。
   titleSimilarity: 0.2
 
+# ── LLM 摘要（§2）──────────────────────────────────────────────────────────────
+# 白名单式：默认谁都不调用，只有在下面被显式打开的 section / source 才会走模型。
+#
+# enabled: true 并不等于「会花钱」。密钥没配的时候整段自动跳过，早报照常出，
+# 只在 Actions 运行页多一行「未配置密钥」。所以这里可以先开着，等哪天把
+# LLM_API_KEY 加进仓库 secrets，它自己就开始工作了。
+#
+# ★ 当前是 M1：只把源自带的 excerpt 喂给模型，不抓正文。对英文源来说这一步是
+#   「翻译 + 压缩」，对中文源基本只是换个说法（文档 §0.2）—— 所以下面中文栏
+#   目前没开，等 M2 的正文抓取上线再打开才划算。
+llm:
+  enabled: true
+
+  provider:
+    baseUrl: https://api.deepseek.com/v1 # 任何 OpenAI 兼容端点；LLM_BASE_URL 可覆盖
+    model: deepseek-chat
+    apiKeyRef: LLM_API_KEY # 写的是 secret 的「名字」，与 recipients.secretRef 同一约定
+    temperature: 0 # 同样的输入永远给同样的输出，便于 --re-enrich 比对
+    maxOutputTokens: 300
+    timeoutMs: 30000
+    concurrency: 4
+    retries: 2 # 只对 429 / 5xx / 超时重试；401 之类重试三遍只是白等
+
+  # 硬闸。section.limit 相加（关掉发版栏后是 22）已经是结构性上限，
+  # 这里是配置写错时兜底的第二道，两者取小。
+  budget:
+    maxItemsPerRun: 12
+    maxInputCharsPerItem: 6000 # M1 喂的是 excerpt（<= 300 字），这个数字是给 M2 的正文准备的
+    maxTotalInputChars: 80000
+
+  defaults:
+    summarize: false # 白名单：没被点名的一律不调用
+    style: bullet # bullet | oneline | tldr
+    language: zh-CN # 英文源直接产出中文
+    maxChars: 180
+    fetchFullText: false # M2 才会真正读这个开关
+
+  # 最具体的胜出：source > section > defaults。
+  sections:
+    tech: { summarize: true }
+    ai: { summarize: true, maxChars: 220 }
+    news: { summarize: true, style: oneline, maxChars: 120 }
+    security: { summarize: true, style: oneline }
+    # cn-tech / cn-news 暂不开启：中文源的 excerpt 本来就是中文，
+    # 只喂 excerpt 的改写换不来信息量，等 M2 抓正文再打开。
+
+  sources:
+    lobsters: { summarize: true, fetchFullText: true } # excerpt 只有一个 "Comments"
+    hn-front: { summarize: true, fetchFullText: true } # excerpt 是 points / comments
+    infoq-cn: { summarize: true, fetchFullText: true } # excerpt 是「点击查看原文」
+    gh-trending-ts: { summarize: false } # repo description 已经是一句话摘要
+    cisa-advisories: { summarize: false } # 结构化公告，改写只会丢掉编号和版本范围
+
+  # 质量闸，与上面的开关正交：开关回答「这类内容值不值得花钱」，
+  # 这里回答「这一条的原始摘要是不是已经够用了」。
+  when:
+    excerptShorterThan: 80 # 源摘要够长 -> 不调用
+    excerptMatches: # 已知的垃圾 excerpt 指纹（stripPatterns 清完通常会变成空串，空串一律放行）
+      - '^Comments$'
+      - '点击查看原文'
+      - '阅读全文'
+      - 'appeared first on'
+      - '^Read more'
+    topPerSection: 3 # 每栏只给前 3 条上模型，尾部保留源摘要
+    # titleLanguageNot: zh
+    # ↑ 故意不开。它与上面的 sections 开关是「与」的关系，一旦设成 zh，
+    #   将来给 cn-tech 打开 summarize 会被它静默抵消，查起来很费劲。
+
 recipients:
   - id: me-wecom
     channel: wecom

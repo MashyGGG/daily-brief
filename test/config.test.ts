@@ -455,3 +455,72 @@ describe('M0 — the knobs that replaced three hard-coded constants', () => {
     )
   })
 })
+
+describe('the llm block — §2.1', () => {
+  /** The block is written as one YAML string per test, the way it appears in the file. */
+  const withLlm = (body: string) => configYaml({ llm: `llm:\n${body}` })
+
+  it('is entirely optional: a config written before M1 still parses, with the LLM off', () => {
+    const cfg = parseConfig(configYaml(), EMPTY_ENV)
+    expect(cfg.llm.enabled).toBe(false)
+    expect(cfg.llm.defaults).toEqual({
+      summarize: false,
+      style: 'bullet',
+      language: 'zh-CN',
+      maxChars: 180,
+      fetchFullText: false,
+    })
+    expect(cfg.llm.provider.apiKeyRef).toBe('LLM_API_KEY')
+    expect(cfg.llm.budget.maxItemsPerRun).toBe(12)
+    expect(cfg.llm.when.topPerSection).toBe(0)
+  })
+
+  it('keeps a section override without inventing the fields it left out', () => {
+    const cfg = parseConfig(
+      withLlm('  enabled: true\n  sections:\n    tech: { summarize: true }\n'),
+      EMPTY_ENV,
+    )
+    // Not `{ summarize: true, style: undefined, ... }` — `resolvePolicy` reads "absent"
+    // as "defer to the layer below", so filling the gaps in here would break the chain.
+    expect(cfg.llm.sections.tech).toEqual({ summarize: true })
+  })
+
+  it('rejects a section override naming a section that does not exist', () => {
+    expectIssue(
+      () => parseConfig(withLlm('  sections:\n    nosuch: { summarize: true }\n'), EMPTY_ENV),
+      'llm.sections.nosuch',
+    )
+  })
+
+  it('rejects a source override naming a source that does not exist', () => {
+    expectIssue(
+      () => parseConfig(withLlm('  sources:\n    nosuch: { summarize: false }\n'), EMPTY_ENV),
+      'llm.sources.nosuch',
+    )
+  })
+
+  it('rejects an uncompilable excerptMatches pattern at load, not at 07:10', () => {
+    expectIssue(
+      () => parseConfig(withLlm("  when:\n    excerptMatches: ['[unclosed']\n"), EMPTY_ENV),
+      'excerptMatches',
+    )
+  })
+
+  it('rejects an unknown style rather than quietly falling back to bullet', () => {
+    expectIssue(() => parseConfig(withLlm('  defaults: { style: haiku }\n'), EMPTY_ENV), 'style')
+  })
+
+  it('rejects a baseUrl that is not a URL', () => {
+    expectIssue(
+      () => parseConfig(withLlm('  provider: { baseUrl: not-a-url }\n'), EMPTY_ENV),
+      'baseUrl',
+    )
+  })
+
+  it('rejects a temperature outside 0..2', () => {
+    expectIssue(
+      () => parseConfig(withLlm('  provider: { temperature: 7 }\n'), EMPTY_ENV),
+      'temperature',
+    )
+  })
+})

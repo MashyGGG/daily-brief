@@ -14,12 +14,30 @@ function hostOf(url: string): string {
   }
 }
 
-export function renderItemMarkdown(item: Item, index: number): string {
+/**
+ * §1.2 — the LLM summary wins where it exists, and the source excerpt is the fallback
+ * that makes every no-LLM path (unset key, `--no-llm`, dead endpoint) render as before.
+ */
+export function itemBody(item: Item): string | undefined {
+  return item.summary ?? item.excerpt
+}
+
+/**
+ * `takeaways` are omitted from the pushed markdown on purpose: WeCom caps a message at
+ * 4096 bytes (§5.1) and bullets would double an entry's length for it. The archive, the
+ * site and the mail — none of which have that ceiling — do print them, and §5.2's
+ * per-recipient `detail` knob is what eventually makes this a choice rather than a rule.
+ */
+export function renderItemMarkdown(item: Item, index: number, withTakeaways = false): string {
   const lines = [`${index}. [${escapeMarkdown(item.title)}](${item.url})`]
   const meta = [item.source, hostOf(item.url)]
   if (typeof item.score === 'number' && item.score > 0) meta.push(`${item.score}`)
   lines.push(`   ${escapeMarkdown(meta.join(' · '))}`)
-  if (item.excerpt) lines.push(`   ${escapeMarkdown(item.excerpt)}`)
+  const body = itemBody(item)
+  if (body) lines.push(`   ${escapeMarkdown(body)}`)
+  if (withTakeaways) {
+    for (const takeaway of item.takeaways ?? []) lines.push(`   - ${escapeMarkdown(takeaway)}`)
+  }
   return lines.join('\n')
 }
 
@@ -59,7 +77,9 @@ export function renderArchiveMarkdown(brief: Brief): string {
 
   const body = nonEmptySections(brief)
     .map((section) => {
-      const items = section.items.map((item, i) => renderItemMarkdown(item, i + 1)).join('\n\n')
+      const items = section.items
+        .map((item, i) => renderItemMarkdown(item, i + 1, true))
+        .join('\n\n')
       return `## ${escapeMarkdown(section.title)}\n\n${items}`
     })
     .join('\n\n')

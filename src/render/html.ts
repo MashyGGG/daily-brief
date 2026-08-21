@@ -1,5 +1,6 @@
 import type { Item } from '../config/schema'
 import { nonEmptySections, type Brief } from '../core/brief'
+import { itemBody } from './markdown'
 
 /**
  * §3.4 — mail clients strip <style> blocks and block remote assets, so everything is
@@ -40,9 +41,18 @@ function hostOf(url: string): string {
 function renderItem(item: Item, index: number): string {
   const meta = [item.source, hostOf(item.url)]
   if (typeof item.score === 'number' && item.score > 0) meta.push(String(item.score))
-  const excerpt = item.excerpt
-    ? `<div style="margin:6px 0 0;color:#57606a;font-size:13px;line-height:1.6">${escapeHtml(item.excerpt)}</div>`
+  const body = itemBody(item)
+  const excerpt = body
+    ? `<div style="margin:6px 0 0;color:#57606a;font-size:13px;line-height:1.6">${escapeHtml(body)}</div>`
     : ''
+  // Mail has no length ceiling to respect, so this is the one pushed surface where the
+  // LLM's bullets actually reach the reader (§5.3 turns this into the full layout).
+  const takeaways =
+    item.takeaways && item.takeaways.length > 0
+      ? `<ul style="margin:6px 0 0;padding-left:18px;color:#57606a;font-size:13px;line-height:1.7">${item.takeaways
+          .map((t) => `<li>${escapeHtml(t)}</li>`)
+          .join('')}</ul>`
+      : ''
   return [
     '<tr><td style="padding:12px 0;border-bottom:1px solid #eaeef2">',
     `<div style="font-size:15px;line-height:1.5">`,
@@ -51,6 +61,7 @@ function renderItem(item: Item, index: number): string {
     '</div>',
     `<div style="margin:4px 0 0;color:#8c959f;font-size:12px">${escapeHtml(meta.filter(Boolean).join(' · '))}</div>`,
     excerpt,
+    takeaways,
     '</td></tr>',
   ].join('')
 }

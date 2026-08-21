@@ -1,6 +1,7 @@
 import { appendFileSync } from 'node:fs'
 import { totalItems } from './core/brief'
 import type { RunResult } from './core/pipeline'
+import type { EnrichStats } from './enrich'
 
 /**
  * Age of a source's newest item. Printed on every run so a feed drifting toward stale is
@@ -14,6 +15,52 @@ function ageLabel(latestPublishedAt: string | undefined, generatedAt: string): s
   if (!Number.isFinite(days)) return '—'
   if (days < 1) return `${Math.max(0, Math.round(days * 24))}h`
   return `${Math.round(days)}d`
+}
+
+const ENRICH_STATUS: Record<EnrichStats['status'], string> = {
+  disabled: '关闭（配置 llm.enabled=false / --no-llm / LLM_ENABLED=false）',
+  'no-key': '未配置密钥 —— 全部保留源摘要',
+  nothing: '无条目通过门控',
+  planned: '**--llm-dry-run（未真实调用）**',
+  ran: '已运行',
+}
+
+/**
+ * §6.1 — the LLM stage cannot fail the run, so the run page is the only place its cost
+ * and its failures are visible. `gated` vs `capped` matters: the first is the config
+ * working as intended, the second is a ceiling actually biting and worth retuning.
+ */
+function enrichLines(stats: EnrichStats): string[] {
+  if (stats.status === 'disabled') return []
+  const lines = [
+    '### LLM 摘要',
+    '',
+    `状态：${ENRICH_STATUS[stats.status]} · 模型 \`${stats.model}\``,
+  ]
+
+  if (stats.status === 'no-key' || stats.status === 'nothing') {
+    lines.push('', `门控跳过 ${stats.gated} 条，计划 ${stats.planned} 条。`, '')
+    return lines
+  }
+
+  lines.push('')
+  lines.push('| 计划 | 成功 | 失败 | 请求次数 | 输入 tok | 输出 tok | 耗时 |')
+  lines.push('| ---- | ---- | ---- | -------- | -------- | -------- | ---- |')
+  const inputTokens =
+    stats.promptTokens > 0 ? String(stats.promptTokens) : `~${stats.estimatedInputTokens}`
+  lines.push(
+    `| ${stats.planned} | ${stats.succeeded} | ${stats.failed} | ${stats.attempts} | ` +
+      `${inputTokens} | ${stats.completionTokens} | ${stats.durationMs}ms |`,
+  )
+  lines.push('')
+  const capped: string[] = []
+  if (stats.cappedByItems > 0) capped.push(`条数闸 ${stats.cappedByItems} 条`)
+  if (stats.cappedByChars > 0) capped.push(`字符闸 ${stats.cappedByChars} 条`)
+  lines.push(
+    `门控跳过 ${stats.gated} 条` + (capped.length > 0 ? `；预算截断：${capped.join('、')}` : ''),
+  )
+  lines.push('')
+  return lines
 }
 
 /**
@@ -54,6 +101,8 @@ export function renderRunSummary(result: RunResult, opts: { dryRun: boolean }): 
     )
     lines.push('')
   }
+
+  lines.push(...enrichLines(result.enrich))
 
   if (deliveries.length > 0) {
     lines.push('### 推送')
