@@ -1,6 +1,6 @@
 import type { Item, LlmConfig, SummaryMeta } from '../config/schema'
 import type { BriefSection } from '../core/brief'
-import { createLlmClient, type LlmClient, type LlmFetch } from './llm'
+import { createLlmClient, resolveProvider, type LlmClient, type LlmFetch } from './llm'
 import { planEnrichment, type EnrichPlan, type EnrichTask } from './policy'
 import { PROMPT_VERSION, systemPrompt, userPrompt } from './prompt'
 import { sanitizeResponse } from './sanitize'
@@ -182,20 +182,23 @@ export async function enrichSections(
 ): Promise<EnrichResult> {
   const log = ctx.log ?? (() => {})
   const describeError = ctx.describeError ?? ((err) => (err as Error)?.message ?? String(err))
-  const model = llm.provider.model
+  // Resolved before the early returns so every status line names the model that would
+  // have run, not the one the committed config happens to still mention.
+  const provider = resolveProvider(llm.provider, ctx.env)
+  const model = provider.model
 
   if (!llm.enabled || ctx.disabled || envDisables(ctx.env)) {
     return { sections, stats: emptyStats('disabled', model), warnings: [] }
   }
 
-  const apiKey = ctx.env[llm.provider.apiKeyRef]?.trim()
+  const apiKey = ctx.env[provider.apiKeyRef]?.trim()
   const plan = planEnrichment(sections, llm)
 
   if (!apiKey) {
     // Not configured is not a failure: it produces a run-summary row on the Actions page
     // and nothing in the brief, because a warning that fires every single morning is a
     // warning nobody reads by the end of the week.
-    log(`llm: ${llm.provider.apiKeyRef} is not set — keeping source excerpts`)
+    log(`llm: ${provider.apiKeyRef} is not set — keeping source excerpts`)
     return { sections, stats: emptyStats('no-key', model, plan), warnings: [] }
   }
 
@@ -215,9 +218,8 @@ export async function enrichSections(
   const stats = emptyStats('ran', model, plan)
   const started = Date.now()
   const client = createLlmClient({
-    provider: llm.provider,
+    provider,
     apiKey,
-    baseUrl: ctx.env.LLM_BASE_URL,
     fetchImpl: ctx.fetchImpl,
     sleep: ctx.sleep,
   })
@@ -225,7 +227,7 @@ export async function enrichSections(
   const summaries = new Map<string, { summary: string; takeaways: string[]; meta: SummaryMeta }>()
   const failures: string[] = []
 
-  await pool(plan.tasks, llm.provider.concurrency, async (task) => {
+  await pool(plan.tasks, provider.concurrency, async (task) => {
     const result = await summarizeOne(
       task,
       client,

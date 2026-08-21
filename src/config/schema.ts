@@ -233,6 +233,7 @@ export const llmSchema = z
       .object({
         /** Any OpenAI-compatible `/chat/completions` endpoint; `LLM_BASE_URL` overrides it. */
         baseUrl: z.string().url().default('https://api.deepseek.com/v1'),
+        /** `LLM_MODEL` overrides it — the pair moves with `baseUrl`, never alone. */
         model: z.string().min(1).default('deepseek-chat'),
         /** The NAME of the env var holding the key — same convention as `recipients[].secretRef`. */
         apiKeyRef: z.string().min(1).default('LLM_API_KEY'),

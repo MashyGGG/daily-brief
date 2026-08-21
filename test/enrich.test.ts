@@ -48,6 +48,28 @@ const ctx = (fetchImpl: LlmFetch, env: NodeJS.ProcessEnv = KEY) => ({
   sleep: () => Promise.resolve(),
 })
 
+describe('LLM_MODEL — swapping the model without a config commit', () => {
+  it('the request, the stats row and summaryMeta all name the overridden model', async () => {
+    const result = await enrichSections(
+      sections(item({ id: 'a', excerpt: 'Comments' })),
+      llm(),
+      ctx(GOOD, { ...KEY, LLM_MODEL: 'kimi-k2' }),
+    )
+    expect(result.stats.model).toBe('kimi-k2')
+    expect(result.sections[0]!.items[0]!.summaryMeta?.model).toBe('kimi-k2')
+  })
+
+  it('names the model that would have run even when no key is configured', async () => {
+    const result = await enrichSections(
+      sections(item({ id: 'a', excerpt: 'Comments' })),
+      llm(),
+      ctx(GOOD, { LLM_MODEL: 'kimi-k2' }),
+    )
+    expect(result.stats.status).toBe('no-key')
+    expect(result.stats.model).toBe('kimi-k2')
+  })
+})
+
 describe('envDisables', () => {
   it.each(['false', 'FALSE', '0', 'no', 'off'])('%s is the break-glass switch', (value) => {
     expect(envDisables({ LLM_ENABLED: value })).toBe(true)

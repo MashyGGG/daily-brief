@@ -1,6 +1,12 @@
 import { describe, expect, it, vi } from 'vitest'
 import { llmSchema } from '../src/config/schema'
-import { chatUrl, createLlmClient, LlmError, type LlmFetch } from '../src/enrich/llm'
+import {
+  chatUrl,
+  createLlmClient,
+  LlmError,
+  resolveProvider,
+  type LlmFetch,
+} from '../src/enrich/llm'
 
 const provider = (overrides: Record<string, unknown> = {}) =>
   llmSchema.parse({ provider: { retries: 2, ...overrides } }).provider
@@ -17,11 +23,14 @@ const ANSWER = { choices: [{ message: { content: '{"summary":"x"}' } }] }
 /** Never really sleeps — a retry test that waits 1.5s is a test nobody runs. */
 const noSleep = () => Promise.resolve()
 
-function client(fetchImpl: LlmFetch, overrides: Record<string, unknown> = {}, baseUrl?: string) {
+function client(
+  fetchImpl: LlmFetch,
+  overrides: Record<string, unknown> = {},
+  env: NodeJS.ProcessEnv = {},
+) {
   return createLlmClient({
-    provider: provider(overrides),
+    provider: resolveProvider(provider(overrides), env),
     apiKey: 'sk-test-key-value',
-    baseUrl,
     fetchImpl,
     sleep: noSleep,
   })
@@ -57,7 +66,10 @@ describe('createLlmClient — the request', () => {
 
   it('LLM_BASE_URL wins over the configured baseUrl', async () => {
     const fetchImpl = vi.fn(() => Promise.resolve(ok(ANSWER))) as unknown as LlmFetch
-    await client(fetchImpl, {}, 'https://self-hosted.example/openai/v1').complete('s', 'u')
+    await client(fetchImpl, {}, { LLM_BASE_URL: 'https://self-hosted.example/openai/v1' }).complete(
+      's',
+      'u',
+    )
     expect((fetchImpl as unknown as ReturnType<typeof vi.fn>).mock.calls[0]![0]).toBe(
       'https://self-hosted.example/openai/v1/chat/completions',
     )
@@ -65,10 +77,53 @@ describe('createLlmClient — the request', () => {
 
   it('an empty LLM_BASE_URL falls back to the config rather than to nothing', async () => {
     const fetchImpl = vi.fn(() => Promise.resolve(ok(ANSWER))) as unknown as LlmFetch
-    await client(fetchImpl, {}, '   ').complete('s', 'u')
+    await client(fetchImpl, {}, { LLM_BASE_URL: '   ' }).complete('s', 'u')
     expect((fetchImpl as unknown as ReturnType<typeof vi.fn>).mock.calls[0]![0]).toContain(
       'api.deepseek.com',
     )
+  })
+
+  it('LLM_MODEL wins over the configured model, and the client reports the one it sent', async () => {
+    const fetchImpl = vi.fn(() => Promise.resolve(ok(ANSWER))) as unknown as LlmFetch
+    const c = client(fetchImpl, {}, { LLM_MODEL: 'kimi-k2' })
+    await c.complete('s', 'u')
+    const body = JSON.parse(
+      (fetchImpl as unknown as ReturnType<typeof vi.fn>).mock.calls[0]![1].body,
+    )
+    expect(body.model).toBe('kimi-k2')
+    // The provenance written into every archived item must name the model actually billed.
+    expect(c.model).toBe('kimi-k2')
+  })
+})
+
+describe('resolveProvider', () => {
+  it('leaves the config alone when neither override is set', () => {
+    const p = provider()
+    expect(resolveProvider(p, {})).toBe(p)
+  })
+
+  it('overrides endpoint and model together — the swap a provider change actually needs', () => {
+    const p = resolveProvider(provider(), {
+      LLM_BASE_URL: 'https://api.moonshot.cn/v1',
+      LLM_MODEL: 'kimi-k2',
+    })
+    expect(p).toMatchObject({ baseUrl: 'https://api.moonshot.cn/v1', model: 'kimi-k2' })
+  })
+
+  it('overriding one leaves the other on the config value', () => {
+    expect(resolveProvider(provider(), { LLM_MODEL: 'deepseek-reasoner' })).toMatchObject({
+      baseUrl: 'https://api.deepseek.com/v1',
+      model: 'deepseek-reasoner',
+    })
+  })
+
+  it('a blank LLM_MODEL is "not set", never an empty model name', () => {
+    expect(resolveProvider(provider(), { LLM_MODEL: '  ' }).model).toBe('deepseek-chat')
+  })
+
+  it('keeps every field the overrides do not name', () => {
+    const p = resolveProvider(provider({ concurrency: 3 }), { LLM_MODEL: 'x' })
+    expect(p).toMatchObject({ apiKeyRef: 'LLM_API_KEY', temperature: 0, concurrency: 3 })
   })
 })
 

@@ -532,8 +532,10 @@ llm:
   enabled: true
 
   provider:
+    # 换供应商不需要改代码，也不需要改这里：LLM_BASE_URL（secret）+ LLM_MODEL（vars）
+    # 覆盖下面两行，二者必须成对改 —— 只换端点会让旧模型名每天早上 404。
     baseUrl: https://api.deepseek.com/v1 # 任何 OpenAI 兼容端点；LLM_BASE_URL 可覆盖
-    model: deepseek-chat
+    model: deepseek-chat # LLM_MODEL 可覆盖
     apiKeyRef: LLM_API_KEY # 写的是 secret 的「名字」，与 recipients.secretRef 同一约定
     temperature: 0 # 同样的输入永远给同样的输出，便于 --re-enrich 比对
     maxOutputTokens: 300

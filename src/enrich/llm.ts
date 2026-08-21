@@ -63,11 +63,27 @@ interface ChatResponse {
   error?: { message?: string }
 }
 
+/**
+ * `LLM_BASE_URL` / `LLM_MODEL` — swapping provider without a commit. The two override
+ * together on purpose: a new endpoint still answering to the old model name is a 401 or a
+ * 404 every morning at 07:10, and the config would still claim the old model was in use.
+ * Blank means "not set" rather than "set to nothing", exactly as the config-vs-secret
+ * convention reads everywhere else in this repo.
+ */
+export function resolveProvider(
+  provider: LlmConfig['provider'],
+  env: NodeJS.ProcessEnv,
+): LlmConfig['provider'] {
+  const baseUrl = env.LLM_BASE_URL?.trim()
+  const model = env.LLM_MODEL?.trim()
+  if (!baseUrl && !model) return provider
+  return { ...provider, ...(baseUrl ? { baseUrl } : {}), ...(model ? { model } : {}) }
+}
+
 export interface LlmClientOptions {
+  /** Already through `resolveProvider`, so `model` here is the model actually billed. */
   provider: LlmConfig['provider']
   apiKey: string
-  /** `LLM_BASE_URL` — swapping provider without touching the committed config. */
-  baseUrl?: string
   fetchImpl: LlmFetch
   /** Injected so a retry costs the tests nothing. */
   sleep?: (ms: number) => Promise<void>
@@ -84,7 +100,7 @@ export const RETRY_BASE_MS = 500
 export function createLlmClient(options: LlmClientOptions): LlmClient {
   const { provider, apiKey, fetchImpl } = options
   const sleep = options.sleep ?? ((ms: number) => new Promise((r) => setTimeout(r, ms)))
-  const url = chatUrl(options.baseUrl?.trim() || provider.baseUrl)
+  const url = chatUrl(provider.baseUrl)
 
   async function once(system: string, user: string): Promise<LlmCompletion> {
     const controller = new AbortController()

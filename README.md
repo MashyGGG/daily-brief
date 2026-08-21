@@ -81,19 +81,20 @@ archive commit fails, and the archive commit is what keeps the schedule alive (s
 
 ### 4. Repository secrets
 
-| Name                                                                                                           | Required | Purpose                                                                    |
-| -------------------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
-| `SMTP_HOST` `SMTP_PORT` `SMTP_USER` `SMTP_PASS`                                                                | **yes**  | Gmail SMTP; `SMTP_PASS` is the App Password                                |
-| `EMAIL_FROM`                                                                                                   | **yes**  | usually the same as `SMTP_USER`                                            |
-| `EMAIL_TO`                                                                                                     | no       | the `To:` address; unset means the email recipient is skipped              |
-| `EMAIL_CC`                                                                                                     | no       | the `Cc:` list, as a JSON array or `a,b`                                   |
-| `WECOM_WEBHOOK_ME`                                                                                             | no       | WeCom group-robot webhook, full URL; omit it and that recipient is skipped |
-| `RECIPIENTS_OVERRIDE_JSON`                                                                                     | no       | private recipients that must not be committed                              |
-| `SERVERCHAN_KEY` `PUSHPLUS_TOKEN` `WXPUSHER_APP_TOKEN` `WXPUSHER_UIDS` `TELEGRAM_BOT_TOKEN` `TELEGRAM_CHAT_ID` | no       | only if you enable those channels                                          |
-| `RESEND_API_KEY`                                                                                               | no       | only with a verified custom domain                                         |
-| `LLM_API_KEY`                                                                                                  | no       | turns on LLM summaries; unset means every item keeps its source excerpt    |
-| `LLM_BASE_URL`                                                                                                 | no       | any OpenAI-compatible endpoint, overriding the one in the config           |
-| `GITHUB_TOKEN`                                                                                                 | auto     | raises the GitHub search rate limit and makes the archive commit           |
+| Name                                                                                                           | Required | Purpose                                                                     |
+| -------------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------- |
+| `SMTP_HOST` `SMTP_PORT` `SMTP_USER` `SMTP_PASS`                                                                | **yes**  | Gmail SMTP; `SMTP_PASS` is the App Password                                 |
+| `EMAIL_FROM`                                                                                                   | **yes**  | usually the same as `SMTP_USER`                                             |
+| `EMAIL_TO`                                                                                                     | no       | the `To:` address; unset means the email recipient is skipped               |
+| `EMAIL_CC`                                                                                                     | no       | the `Cc:` list, as a JSON array or `a,b`                                    |
+| `WECOM_WEBHOOK_ME`                                                                                             | no       | WeCom group-robot webhook, full URL; omit it and that recipient is skipped  |
+| `RECIPIENTS_OVERRIDE_JSON`                                                                                     | no       | private recipients that must not be committed                               |
+| `SERVERCHAN_KEY` `PUSHPLUS_TOKEN` `WXPUSHER_APP_TOKEN` `WXPUSHER_UIDS` `TELEGRAM_BOT_TOKEN` `TELEGRAM_CHAT_ID` | no       | only if you enable those channels                                           |
+| `RESEND_API_KEY`                                                                                               | no       | only with a verified custom domain                                          |
+| `LLM_API_KEY`                                                                                                  | no       | turns on LLM summaries; unset means every item keeps its source excerpt     |
+| `LLM_BASE_URL`                                                                                                 | no       | any OpenAI-compatible endpoint, overriding the one in the config            |
+| `LLM_MODEL`                                                                                                    | no       | the model name, overriding the one in the config; moves with `LLM_BASE_URL` |
+| `GITHUB_TOKEN`                                                                                                 | auto     | raises the GitHub search rate limit and makes the archive commit            |
 
 A `secretRef` pointing at an unset variable **skips that recipient** and says so in the run
 summary. It does not fail the run, and it does not affect anybody else.
@@ -290,9 +291,28 @@ Add the secret and it starts working, no config edit:
 
 ```
 LLM_API_KEY   any OpenAI-compatible key         → summaries start appearing
-LLM_BASE_URL  optional; overrides llm.provider.baseUrl
-LLM_ENABLED   optional repo variable; "false" stops the calls without a config edit
+LLM_BASE_URL  optional secret;   overrides llm.provider.baseUrl
+LLM_MODEL     optional variable; overrides llm.provider.model
+LLM_ENABLED   optional variable; "false" stops the calls without a config edit
 ```
+
+The config ships pointing at DeepSeek, but nothing in the code knows that: the client is one
+POST to `/chat/completions` with a bearer key, not a vendor SDK. Moving to another
+OpenAI-compatible vendor is three settings and no code change —
+
+```
+LLM_API_KEY  = the new vendor's key      (secret)
+LLM_BASE_URL = https://api.example/v1    (secret — the path can carry auth)
+LLM_MODEL    = the new model name        (variable — not sensitive)
+```
+
+Change `LLM_BASE_URL` and `LLM_MODEL` **together**: a new endpoint still being asked for
+`deepseek-chat` answers 404 every morning. Both default to whatever `llm.provider` says, so
+the committed config stays the readable record while the secrets carry the swap. The model
+that actually ran is recorded per item in `summaryMeta.model` and on the run-summary row, so
+an archive from before a swap still says which model wrote it. Two things to re-check after
+moving vendor: the endpoint must accept `max_tokens` and `temperature: 0`, and the prompt
+asks for JSON — verify with `pnpm brief --dry-run` before letting it run at 07:10.
 
 Who gets summarized is a whitelist, decided in two independent steps:
 
