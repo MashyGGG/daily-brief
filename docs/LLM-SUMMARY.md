@@ -249,8 +249,8 @@ weekly:
   digest: true # 本周导读；与 llm.digest.enabled 是「与」的关系
 ```
 
-它**不是** `schedules[]` 的一项 —— 理由见 §9 M3 实施记录 #3。零抓取、零归档、
-条目摘要一次也不重算（`digestOnly`）。
+它**不是** `schedules[]` 的一项 —— 理由见 §9 M3 实施记录 #3。零抓取、条目摘要一次也不重算
+（`digestOnly`），但**照常归档**，用独立的 `weekly` slot —— 见 §9 的「修订：周报归档」。
 
 ### 2.2 门控算法（`policy.ts`，纯函数，必须单测）
 
@@ -277,7 +277,7 @@ shouldSummarize(item) =
 --llm-dry-run       # 只打印「会调用哪些条 + 预估 token」，不真调 ★ 上线前必用
 --re-enrich <date>  # 对历史归档重跑摘要，用于 prompt 迭代
 --diff              # 与 --re-enrich 连用：并排打印 excerpt vs summary
---weekly [<date>]   # ★ M3：读归档出周报（日期可省，默认今天）；不抓取、不归档
+--weekly [<date>]   # ★ M3：读归档出周报（日期可省，默认今天）；不抓取，归档在 .weekly
 ```
 
 ### 2.5 新增环境变量
@@ -826,11 +826,16 @@ boilerplate（`Comments`、`appeared first on The GitHub Blo…`、`334 points �
 
 - `pnpm brief --weekly --dry-run --no-llm`（真实 archive/，2 期归档 44 条）：零抓取，
   6 栏各取前 5 条，只发 me-mail，不写任何文件。
+- 非 dry-run 实跑（archive/ 复制到临时目录）：写出 `2026-08-21.weekly.json` / `.md` 并更新
+  `index.md`；**再跑一遍仍是「2 期归档 · 收集 44 条」**，证明它不会把自己读回来。
+  `site:build` 产出 `2026-08-21.weekly.html` 与一条 feed，而 `latest.html` 仍指向当天早报
+  （空 slot 排在同一天的 `weekly` 之前，已有回归用例钉死）。
 - 起本地假端点跑周报导读：`Bearer` 头正确、`temperature: 0`、用户消息 3872 字符且被
   `<<<ITEM_DATA>>>` 围栏包住、标题写的是**本周导读**（按 `scheduleId` 派生，不是配置项）、
   模型塞进导读的 `https://evil.example.com/x` 与 `<b>` 标签被 `sanitize.ts` 剥掉（100 → 59 字）。
-- 590 个测试 / `typecheck` / `lint` / `format:check` / `check:schedule` 全绿
-  （新增 `enrich-digest.test.ts` 22 个、`weekly.test.ts` 25 个）。
+- 595 个测试 / `typecheck` / `lint` / `format:check` / `check:schedule` 全绿
+  （`enrich-digest.test.ts` 22 个、`weekly.test.ts` 26 个、`archive.test.ts` 25 个 ——
+  后两个各含一条钉死 `isReprint` 的回归用例）。
 - 工作流 cron 区块已重新生成：`0 0 * * 1 # weekly - Mon 08:00 Asia/Shanghai`。
   `--cron` 反查现在会区分早报与周报（`findRunByCron`），workflow_dispatch 也多了手动跑周报的入口。
 
