@@ -1,7 +1,13 @@
 import type { BriefConfig, Item, Schedule } from '../config/schema'
 import { resolveSections } from '../config/schema'
 import { nodeFs, type FsLike } from '../archive/fs'
-import { archiveNames, parseArchiveFilename, recentDates } from '../archive/paths'
+import {
+  archiveNames,
+  isReprint,
+  parseArchiveFilename,
+  recentDates,
+  WEEKLY_SLOT,
+} from '../archive/paths'
 import { parseArchiveRecord } from '../archive/read'
 import type { BriefSection } from './brief'
 
@@ -18,10 +24,18 @@ import type { BriefSection } from './brief'
  * The re-ranking is deliberately the same number the daily run computed (`rankScore`) and
  * not a fresh one: the week's best item is the best item of the day it appeared, and
  * re-scoring it now — against a `now` a week later — would only measure how old it is.
+ *
+ * The issue it produces IS archived, under the `weekly` slot — it is what was sent, and
+ * §3.5's rule is that the archive holds what was sent. Its 导读 is the one thing in it
+ * that exists nowhere else. The cost of that copy is paid here: every reader that asks
+ * "what was published on day X" has to skip the reprint (`isReprint`).
  */
 
-/** The synthetic schedule id. Renderers key the 导读 label off it, so it is not a literal. */
-export const WEEKLY_SCHEDULE_ID = 'weekly'
+/**
+ * The synthetic schedule id, and the archive slot — the same string on purpose: one run,
+ * one name. Renderers key the 导读 label off it, so it is not a literal.
+ */
+export const WEEKLY_SCHEDULE_ID = WEEKLY_SLOT
 
 export interface WeeklyWindow {
   /** Oldest date read, inclusive. */
@@ -61,6 +75,10 @@ export function weeklySchedule(config: BriefConfig): Schedule {
  * Items are deduped by id across days: `--from-archive` re-sends and manual re-runs can
  * put the same item in two files, and the same story twice is exactly what a review is
  * supposed to fix.
+ *
+ * Last week's own review is skipped. It is filed under the Monday it was sent but holds
+ * items from the seven days before that, so reading it would drag items out of the window
+ * back in — and a review that keeps re-promoting its own picks never moves on.
  */
 export function collectWeekly(
   config: BriefConfig,
@@ -79,7 +97,7 @@ export function collectWeekly(
     const { dir } = archiveNames(config.archive.dir, date, null)
     for (const name of fs.readdir(dir)) {
       const parsed = parseArchiveFilename(name)
-      if (!parsed || parsed.date !== date) continue
+      if (!parsed || parsed.date !== date || isReprint(parsed.slot)) continue
       const record = parseArchiveRecord(fs.readFile(`${dir}/${name}`) ?? '')
       if (!record) continue
       issues++

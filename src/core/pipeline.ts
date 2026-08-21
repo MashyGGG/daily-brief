@@ -11,6 +11,7 @@ import { collectSecretValues, safeErrorMessage } from './redact'
 import { readRecentItems, readRecord } from '../archive/read'
 import { writeArchive } from '../archive/write'
 import { nodeFs, type FsLike } from '../archive/fs'
+import { WEEKLY_SLOT } from '../archive/paths'
 import { renderForRecipients } from '../render'
 import { deliver, type ChannelContext, type DeliveryResult } from '../channels'
 import { enrichSections, type EnrichStats } from '../enrich'
@@ -33,8 +34,7 @@ export interface RunOptions {
   fromArchive?: string
   /**
    * §9 M3 — the weekly review: read `weekly.days` of archived issues, re-rank them, send.
-   * Fetches nothing and archives nothing, because everything it prints is already in the
-   * archive it just read.
+   * Fetches nothing; archived like any other issue, under the `weekly` slot.
    */
   weekly?: boolean
   /** `YYYY-MM-DD` the weekly window ends on; defaults to today in the config timezone. */
@@ -223,7 +223,9 @@ export async function run(options: RunOptions): Promise<RunResult> {
     brief = {
       date,
       scheduleId: schedule.id,
-      slot: null,
+      // Its own slot, so Monday's review lands beside Monday's brief instead of on top
+      // of it: `2026-08-24.weekly.json` next to `2026-08-24.json`.
+      slot: WEEKLY_SLOT,
       title: config.weekly.title,
       timezone: config.timezone,
       generatedAt: now.toISOString(),
@@ -351,10 +353,11 @@ export async function run(options: RunOptions): Promise<RunResult> {
     config.archive.enabled &&
     !options.dryRun &&
     !options.noArchive &&
-    !options.fromArchive &&
-    // A weekly writes nothing: every item in it is already archived under its own day,
-    // and a second copy would collide with that day's file and skew cross-day dedupe.
-    !options.weekly
+    // A re-send writes nothing: the file it is reading is already the archived issue.
+    // A weekly, by contrast, IS archived — under its own slot. It was sent, so §3.5 says
+    // it is kept, and its 导读 exists nowhere else. Readers that reconstruct a single
+    // day's publications skip the slot instead (`isReprint`).
+    !options.fromArchive
   if (shouldArchive) {
     const written = writeArchive({
       brief,

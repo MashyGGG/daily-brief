@@ -398,9 +398,26 @@ pnpm brief --weekly 2026-08-20   # …ending on a given date, to rebuild a misse
 ```
 
 It reads `archive/`, re-ranks what is in there by the `rankScore` each morning already computed,
-and keeps `weekly.limitPerSection` per section. **It fetches nothing and archives nothing**: every
-item is already in the archive under its own day, summaries included, so the only model call it can
-ever make is the one whole-week 导读 (`weekly.digest` × `llm.digest.enabled`).
+and keeps `weekly.limitPerSection` per section. **It fetches nothing**: every item is already in the
+archive under its own day, summaries included, so the only model call it can ever make is the one
+whole-week 导读 (`weekly.digest` × `llm.digest.enabled`).
+
+It **is** archived, like every other issue that goes out, under its own slot:
+
+```
+archive/2026/08/2026-08-24.json          Monday's brief
+archive/2026/08/2026-08-24.weekly.json   Monday's review, beside it
+```
+
+The items in it are reprints, but the 本周导读 is written once and exists nowhere else — dropping the
+file would throw that away, and §3.5's rule is that the archive holds what was sent. It also puts
+the review on the static site, and makes the Monday run produce its own archive commit.
+
+The price of that copy is one rule: **anything reconstructing "what was published on day X" must
+skip the `weekly` slot** (`isReprint` in [src/archive/paths.ts](src/archive/paths.ts)). Two readers
+do — cross-day dedupe, which would otherwise stretch its window by `weekly.days`, and the next
+review, which would otherwise keep re-promoting its own picks. The site and `index.md` deliberately
+do not: there, a reprint is a page you want.
 
 It is configured under a top-level `weekly:` block rather than as a `schedules[]` entry — a schedule
 means "go and fetch", and the lookback window, the cross-day dedupe and the archive write all exist
@@ -454,13 +471,20 @@ window either way, so a skipped run loses no content.
 If you set `timezone` to a zone with daylight saving, the generator prints a warning and annotates
 the workflow — a fixed UTC cron is one hour wrong for half the year.
 
-### Add a second time slot
+### A second time slot
 
-Uncomment the `evening` schedule, run `pnpm brief:schedule`, commit. GitHub reports which cron
-fired via `github.event.schedule`; the CLI reverse-looks-up the matching schedule and uses its
-`sections` / `recipients` / `lookbackHours`. An unrecognised cron is an error, never a guess.
-With more than one schedule live, archive filenames gain a slot suffix
-(`2026-08-20.morning.md`).
+Two are live: `morning` at 07:10 and `evening` at 20:10, both carrying every section to every
+recipient. The evening one takes `lookbackHours: 13` rather than 24 — cross-day dedupe would drop
+this morning's items anyway, but the shorter window means they are never fetched or summarised
+twice in the first place.
+
+Adding a third is the same three steps: a `schedules[]` entry, `pnpm brief:schedule`, commit.
+GitHub reports which cron fired via `github.event.schedule`; the CLI reverse-looks-up the matching
+schedule and uses its `sections` / `recipients` / `lookbackHours`. An unrecognised cron is an
+error, never a guess. Two schedules at the same time is also an error — the reverse lookup would be
+ambiguous. With more than one schedule live, archive filenames gain a slot suffix
+(`2026-08-20.morning.md`), and the pre-slot files already in `archive/` keep working:
+`--from-archive` falls back to the unsuffixed name.
 
 ### Re-send a past issue
 
@@ -535,7 +559,7 @@ tokens and API-key patterns that an upstream might echo back.
 | `pnpm brief --llm-dry-run`                           | list the items the LLM would be called on, and call nothing          |
 | `pnpm brief --no-llm`                                | skip the LLM stage; every item keeps its source excerpt              |
 | `pnpm brief --re-enrich <date> --diff`               | re-summarize an archived issue to evaluate a prompt change           |
-| `pnpm brief --weekly [<date>]`                       | weekly review out of the archive — fetches nothing, archives nothing |
+| `pnpm brief --weekly [<date>]`                       | weekly review out of the archive — fetches nothing, archived as `.weekly` |
 | `pnpm brief:schedule`                                | regenerate the workflow cron from the config                         |
 | `pnpm check:schedule`                                | fail if the workflow and the config disagree                         |
 | `pnpm validate`                                      | validate the config and exit                                         |

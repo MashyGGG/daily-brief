@@ -100,7 +100,7 @@ export function renderRunSummary(result: RunResult, opts: { dryRun: boolean }): 
   // §9 M3 — a weekly fetches nothing, so the 抓取 table below is empty and this line is
   // the only thing that says where its content came from.
   if (result.weekly) {
-    lines.push(`> 周报：${describeWindow(result.weekly)}（零抓取，不归档）`)
+    lines.push(`> 周报：${describeWindow(result.weekly)}（零抓取，归档在 .weekly）`)
     lines.push('')
   }
 

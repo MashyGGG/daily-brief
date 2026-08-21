@@ -93,6 +93,10 @@ async function main(argv: string[]): Promise<number> {
         Boolean(result.archived) && config.archive.commit && !args.noCommit && !args.dryRun,
       ),
       'archive-date': result.brief.date,
+      // A weekly is filed under the same date as that Monday's brief, so the date alone
+      // makes two indistinguishable commits. The label carries the slot, matching the
+      // filename that was actually written.
+      'archive-label': `${result.brief.date}${result.brief.slot ? `.${result.brief.slot}` : ''}`,
       'item-count': String(result.brief.sections.reduce((n, s) => n + s.items.length, 0)),
       empty: String(result.empty),
     },

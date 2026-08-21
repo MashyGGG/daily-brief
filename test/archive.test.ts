@@ -1,5 +1,12 @@
 import { describe, expect, it } from 'vitest'
-import { archiveNames, parseArchiveFilename, recentDates, shiftDate } from '../src/archive/paths'
+import {
+  archiveNames,
+  isReprint,
+  parseArchiveFilename,
+  recentDates,
+  shiftDate,
+  WEEKLY_SLOT,
+} from '../src/archive/paths'
 import { memoryFs } from '../src/archive/fs'
 import { listAllIssues, readRecentItems, type ArchiveRecord } from '../src/archive/read'
 import { writeArchive } from '../src/archive/write'
@@ -113,6 +120,39 @@ describe('reading the archive', () => {
     ])
     expect(entries[0]!.path).toBe('2026/08/2026-08-20.md')
     expect(entries[0]!.itemCount).toBe(2)
+  })
+})
+
+describe('the weekly slot is a reprint, not a day', () => {
+  // Monday's review, filed under Monday but holding the week before it.
+  const withWeekly = memoryFs({
+    'archive/2026/08/2026-08-20.json': record('2026-08-20', null, ['a']),
+    'archive/2026/08/2026-08-20.weekly.json': record('2026-08-20', 'weekly', ['a', 'long-gone']),
+  })
+
+  it('isReprint names exactly one slot', () => {
+    expect(isReprint(WEEKLY_SLOT)).toBe(true)
+    expect(isReprint(null)).toBe(false)
+    expect(isReprint('morning')).toBe(false)
+  })
+
+  it('cross-day dedupe skips it — otherwise the window stretches by weekly.days', () => {
+    const { items, scanned } = readRecentItems('archive', '2026-08-20', 2, withWeekly)
+    expect(items.map((i) => i.id)).toEqual(['a'])
+    expect(items.map((i) => i.id)).not.toContain('long-gone')
+    expect(scanned).toBe(1)
+  })
+
+  it('but the index still lists it: on the site a reprint is a page you want', () => {
+    const entries = listAllIssues('archive', withWeekly)
+    expect(entries.map((e) => e.slot)).toContain('weekly')
+    expect(entries.find((e) => e.slot === 'weekly')!.path).toBe('2026/08/2026-08-20.weekly.md')
+  })
+
+  it('the day\'s own brief sorts ahead of its reprint, so "latest" is not the review', () => {
+    // `latest.html` and the top of the feed take entries[0]. On a Monday both files carry
+    // the same date, and the empty slot sorting first is what keeps the brief in front.
+    expect(listAllIssues('archive', withWeekly).map((e) => e.slot)).toEqual([null, 'weekly'])
   })
 })
 

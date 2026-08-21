@@ -40,13 +40,19 @@ schedules:
     recipients: ['*']
     enabled: true
 
-  # Uncomment, then run `pnpm brief:schedule`, to add an evening tech-only digest.
-  # - id: evening
-  #   time: '20:00'
-  #   lookbackHours: 12
-  #   sections: [tech]
-  #   recipients: [me-wecom]
-  #   enabled: true
+  # 晚间一期：内容与早报完全相同（全部 sections、全部 recipients），只是时间不同。
+  # 20:10 CST = 12:10 UTC 当天，生成的 cron 是 `10 12 * * *`。
+  # 和 morning 同理避开 `:00`：那是全球 Actions 定时任务最拥挤的分钟，排队漂移最大。
+  # 时间账：20:10 触发 + 排队 0–20min + 运行 3–5min ⇒ 最坏 20:35 送达。
+  # lookbackHours 13 = 从早报触发的 07:10 往前留一点余量，正好覆盖「早上发完之后
+  # 新出的东西」。真有重叠也不会重复推送：跨天去重会读到当天 morning 那份归档 JSON
+  # （archive.dedupeLookbackDays），今早已经发过的条目在这里会被丢掉。
+  - id: evening
+    time: '20:10'
+    lookbackHours: 13
+    sections: ['*']
+    recipients: ['*']
+    enabled: true
 
 sources:
   # ── 国际技术：讨论热度 ────────────────────────────────────────────────
@@ -621,7 +627,9 @@ llm:
 # 零抓取：读 archive/ 里已经提交的日报 JSON，按 rankScore 重排，每栏取前几条。
 # 条目里的 LLM 摘要是早报那天已经付过钱的，这里不会再调一次模型 —— 唯一可能的
 # 调用是「本周导读」那一次（受 digest 与 llm.digest.enabled 双重控制）。
-# 不写归档：这一期的每一条都已经在它自己那天的归档里了。
+# 照常归档：文件名带 .weekly 后缀（2026-08-24.weekly.json），和当天的早报并排放，
+# 也会出现在静态站上。条目是重印，但「本周导读」那段话只存在于这里。
+# 代价是：读「某一天发了什么」的地方（跨天去重、下一期周报自己）必须跳过这个 slot。
 # 改了 weekday / time 之后同样必须跑 `pnpm brief:schedule`。
 weekly:
   enabled: true

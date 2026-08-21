@@ -35,7 +35,8 @@ usage: pnpm brief [options]
   --recipients a,b         only these recipients
   --from-archive YYYY-MM-DD  re-send an archived issue; fetches nothing, archives nothing
   --weekly [YYYY-MM-DD]    weekly review built from the archived issues (weekly.days back
-                           from the given date, or from today); fetches and archives nothing
+                           from the given date, or from today); fetches nothing, archived
+                           under the "weekly" slot
   --dry-run                render to stdout only: no push, no archive, no network to channels
   --no-commit              archive normally but tell the workflow not to commit
   --validate-only          load and validate the config, then exit

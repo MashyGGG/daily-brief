@@ -1,6 +1,6 @@
 import type { BriefDigest, Item } from '../config/schema'
 import { nodeFs, type FsLike } from './fs'
-import { archiveNames, parseArchiveFilename, recentDates } from './paths'
+import { archiveNames, isReprint, parseArchiveFilename, recentDates } from './paths'
 import type { IndexEntry } from '../render/markdown'
 
 /** The `.json` half of the daily archive — the structured record of one issue. */
@@ -56,6 +56,9 @@ export function readRecentItems(
     for (const name of fs.readdir(dir)) {
       const parsed = parseArchiveFilename(name)
       if (!parsed || parsed.date !== date) continue
+      // A weekly review reprints a week of items under a single day. Counting it here
+      // would silently stretch the dedupe window to `dedupe.days + weekly.days`.
+      if (isReprint(parsed.slot)) continue
       const record = parseArchiveRecord(fs.readFile(`${dir}/${name}`) ?? '')
       if (!record) continue
       scanned++

@@ -12,8 +12,9 @@ import { configYaml, item } from './helpers'
 
 /**
  * §9 M3 — the weekly review. The property every test here is really asserting: it reads
- * the archive and nothing else. No feed is fetched, no model is called for an item, and
- * nothing is written back.
+ * the archive and nothing else. No feed is fetched and no model is called for an item.
+ * What it writes back is one file under the `weekly` slot — the issue that was sent —
+ * which every "what was published that day" reader then has to skip.
  */
 
 const WEEKLY_YAML = (weekly: string) =>
@@ -175,6 +176,22 @@ describe('collectWeekly — the week, out of the archive', () => {
     expect(window.issues).toBe(1)
   })
 
+  it("skips last week's own review — a reprint is not a day's publications", () => {
+    const fs = memoryFs({
+      ...archiveOf({ '2026-08-20': [item({ id: 'fresh', section: 'tech', rankScore: 0.1 })] }),
+      // Sent on the 17th, but holding the seven days before it. Reading it would drag
+      // `expired` back into a window it fell out of, and re-promote it forever.
+      'archive/2026/08/2026-08-17.weekly.json': JSON.stringify({
+        ...JSON.parse(archived('2026-08-17', [item({ id: 'expired', section: 'tech' })])),
+        slot: 'weekly',
+        scheduleId: 'weekly',
+      }),
+    })
+    const { sections, window } = collectWeekly(config(), '2026-08-20', ['*'], fs)
+    expect(sections[0]!.items.map((i) => i.id)).toEqual(['fresh'])
+    expect(window.issues).toBe(1)
+  })
+
   it('describeWindow says what was read', () => {
     expect(
       describeWindow({ from: '2026-08-14', to: '2026-08-20', issues: 6, collected: 110 }),
@@ -278,7 +295,7 @@ describe('a weekly run, end to end', () => {
       '2026-08-18': [item({ id: 'c', section: 'tech', rankScore: 0.95 })],
     })
 
-  it('fetches nothing, archives nothing, and delivers the week', async () => {
+  it('fetches nothing, archives under the weekly slot, and delivers the week', async () => {
     const fs = memoryFs(files())
     const channelContext = ctx()
     let fetched = 0
@@ -299,8 +316,11 @@ describe('a weekly run, end to end', () => {
 
     expect(fetched).toBe(0)
     expect(result.sources).toEqual([])
-    expect(result.archived).toBeNull()
-    expect([...fs.files.keys()].some((k) => k.includes('index.md'))).toBe(false)
+    // Archived under its own slot, beside that day's brief rather than on top of it.
+    expect(result.archived!.jsonPath).toBe('archive/2026/08/2026-08-20.weekly.json')
+    expect(result.archived!.markdownPath).toBe('archive/2026/08/2026-08-20.weekly.md')
+    expect(fs.files.has('archive/2026/08/2026-08-20.json')).toBe(true)
+    expect(fs.files.has('archive/index.md')).toBe(true)
     expect(result.weekly).toMatchObject({ from: '2026-08-14', to: '2026-08-20', issues: 2 })
     expect(result.brief.title).toBe('每周回顾')
     expect(result.brief.scheduleId).toBe('weekly')
@@ -367,7 +387,7 @@ describe('a weekly run, end to end', () => {
     })
     const summary = renderRunSummary(result, { dryRun: true })
     expect(summary).toContain('周报：2026-08-14 → 2026-08-20 · 2 期归档')
-    expect(summary).toContain('零抓取，不归档')
+    expect(summary).toContain('零抓取，归档在 .weekly')
   })
 })
 
