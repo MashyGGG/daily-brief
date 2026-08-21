@@ -1,0 +1,243 @@
+{
+  "date": "2026-08-22",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-08-21T23:35:49.636Z",
+  "configHash": "a7c0b68a9b41",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 22,
+  "items": [
+    {
+      "id": "1825762fda9ae713",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "source": "hn-front",
+      "publishedAt": "2026-08-21T13:56:37.000Z",
+      "score": 958,
+      "author": "speckx",
+      "excerpt": "958 points · 330 comments · https://news.ycombinator.com/item?id=49388154",
+      "section": "tech",
+      "rankScore": 1.051841
+    },
+    {
+      "id": "2a11ee3019cd4353",
+      "title": "Better tools for managing blocked users",
+      "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+      "source": "github-changelog",
+      "publishedAt": "2026-08-21T17:28:36.000Z",
+      "author": "Allison",
+      "excerpt": "Managing blocked users is now faster and clearer for personal accounts and organizations. With this update, you can: Search by username, full name, or email. Sort and paginate long lists.…",
+      "section": "tech",
+      "rankScore": 0.597992
+    },
+    {
+      "id": "f6de0a3ad3003c28",
+      "title": "Homebrew 68K Machine Has A PCI Bus",
+      "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-21T20:24:46.000Z",
+      "author": "hackaday.com via hoistbypetard",
+      "section": "tech",
+      "rankScore": 0.582235
+    },
+    {
+      "id": "c2e19ab852a2f994",
+      "title": "Cloudflare Cuts Astro Github Issues by 85% with AI Agents",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-21T14:09:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Cloudflare, Astro, AI agents, GitHub Actions, issue triage, agentic AI, software architecture, open source, developer tools, AI automation, automated testing, human in the loop, agent workflows, GitHub, software engineering, AI software development, bug triage, continuous integration, developer…",
+      "section": "tech",
+      "rankScore": 0.542548
+    },
+    {
+      "id": "3d5e940513529388",
+      "title": "Resolved: CSS Class Prefix Selector",
+      "url": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+      "source": "css-tricks",
+      "publishedAt": "2026-08-21T15:13:03.000Z",
+      "author": "Geoff Graham",
+      "excerpt": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-* . Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+      "section": "tech",
+      "rankScore": 0.504306
+    },
+    {
+      "id": "09fd28650f48fd4c",
+      "title": "HoverAir’s transforming modular drone has already been halted in the US",
+      "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+      "source": "verge",
+      "publishedAt": "2026-08-21T22:14:11.000Z",
+      "author": "Sean Hollister",
+      "excerpt": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon…",
+      "section": "tech",
+      "rankScore": 0.474125
+    },
+    {
+      "id": "3ec78b9dbabd5084",
+      "title": "llm 0.32.1",
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-21T17:16:13.000Z",
+      "excerpt": "Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx , and it turned out LLM depended on that library but only installed it via a transitive openai dependency.",
+      "section": "ai",
+      "rankScore": 0.713463
+    },
+    {
+      "id": "1c38e656ee355883",
+      "title": "llm-openrouter 0.7",
+      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-21T16:58:19.000Z",
+      "excerpt": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it works much better with reasoning LLMs available through OpenRouter. Updated for compatibility with LLM 0.32 . Models now use OpenRouter's implementation of the Responses API . Three new server-side tools: Shell ,…",
+      "section": "ai",
+      "rankScore": 0.707496
+    },
+    {
+      "id": "cb75c35aa12fdd8a",
+      "title": "Stop Making TUIs",
+      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-21T16:07:32.000Z",
+      "excerpt": "Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing.",
+      "section": "ai",
+      "rankScore": 0.690569
+    },
+    {
+      "id": "b2500d2e110a27d1",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "huggingface",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "section": "ai",
+      "rankScore": 0.276043
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-21T23:35:49.636Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "b20b0472e5cc51e6",
+      "title": "神秘“Ox Alpha”突袭 OpenRouter，性能超过 Fable 5？全网盲猜智谱 or 小米",
+      "url": "https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-21T19:41:49.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.634997
+    },
+    {
+      "id": "64e778be891d4f35",
+      "title": "中国准备发射嫦娥七号，前往月球南极寻找水冰",
+      "url": "https://www.solidot.org/story?sid=85160",
+      "source": "solidot",
+      "publishedAt": "2026-08-21T12:44:27.000Z",
+      "excerpt": "中国准备发射嫦娥七号，它将尝试首次直接在月球南极着陆，搜寻阴影区的陨石坑去寻找水冰。嫦娥七号使用的运载火箭为长征五号，计划从海南文昌航天发射场发射，发射窗口为 2026 年 8 月 24 日上午。嫦娥七号由一个轨道器和一个着陆器组成，而着陆器搭载了漫游的巡视器和飞跃器，其中飞跃器具备重复起飞着陆、月面飞行、月面行走功能。在阳照区完成探测并充电后，它将飞入有永久阴影区的撞击坑进行探测。嫦娥七号探测器将耗时时六天抵达月球轨道，随后将在轨道上展开为期两个月的准备工作，计划于 11 月着陆月球南极，预定着落地点为沙克尔顿撞击坑，它是一个直径 21 公里的环形山，边缘接近月球南极。",
+      "section": "cn-tech",
+      "rankScore": 0.570968
+    },
+    {
+      "id": "a30b6138148cfbc2",
+      "title": "刚刚，多模态版DeepSeek“长眼”了，1000张图只要1块钱",
+      "url": "https://www.36kr.com/p/3949198933032066",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-21T13:24:02.000Z",
+      "author": "新智元",
+      "excerpt": "刚刚， DeepSeek 首个多模态API模型正式上线！ 名字叫 DeepSeek -V4-Flash-Vision-Exp，API现在就能调。 更狠的是，一张图片最多占384个token，计费价格与V4-Flash完全一致。 在别家要单独算钱的多模态能力，在 DeepSeek 这里直接变成了赠品。 而且，还是满配版的。 V4-Flash，现在有眼睛了！ 纯文本方面，加了视觉的V4-Flash-Vision-Exp反而更强了。 在七项Agent评测里，有六项都超过了V4-Flash-0731。 多模态方面，更是一度干掉了硅谷顶流模型。",
+      "section": "cn-tech",
+      "rankScore": 0.477052
+    },
+    {
+      "id": "71fbf54b8f042402",
+      "title": "react-bits 为什么会吸引前端开发者：别把动效当装饰，先把它当成页面能力",
+      "url": "https://juejin.cn/post/7676330290205900806",
+      "source": "juejin",
+      "publishedAt": "2026-08-21T22:03:53.000Z",
+      "author": "吴琼琼",
+      "excerpt": "# react-bits 为什么会吸引前端开发者：别把动效当装饰，先把它当成页面能力 在 GitHub 上，react-bits 以约 36K stars 获得了不少关注。它很容易给人留下一个直观印",
+      "section": "cn-tech",
+      "rankScore": 0.472122
+    },
+    {
+      "id": "b3de4ef6099f4a3c",
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-21T18:53:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled…",
+      "section": "security",
+      "rankScore": 0.621437
+    },
+    {
+      "id": "18975e0566b00762",
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-21T15:52:10.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and…",
+      "section": "security",
+      "rankScore": 0.571205
+    },
+    {
+      "id": "41664b5d84969847",
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-21T22:45:01.000Z",
+      "excerpt": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+      "section": "news",
+      "rankScore": 0.754475
+    },
+    {
+      "id": "34b87476221a5608",
+      "title": "US debt tops $40 trillion, Americans left with the bill",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-21T23:19:48.000Z",
+      "excerpt": "The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.",
+      "section": "news",
+      "rankScore": 0.625993
+    },
+    {
+      "id": "5e655ce29de7ef0d",
+      "title": "Girl, 6, dies three days after Shoreham sea incident that killed parents and sister",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/girl-six-dies-three-days-after-being-pulled-from-sea-off-sussex-coast",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-21T22:50:36.000Z",
+      "author": "Harry Cockburn",
+      "excerpt": "Saja El-Khawas had been in critical condition after being pulled from sea in West Sussex A six-year-old girl has died in hospital three days after being pulled from the sea off Shoreham in West Sussex, in an incident that also killed her mother, father and sister.",
+      "section": "news",
+      "rankScore": 0.618693
+    },
+    {
+      "id": "23555adecf874cae",
+      "title": "台灣「三大公投」：時隔一年再公投，這次投什麼？通過門檻為何？",
+      "url": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-21T13:47:30.000Z",
+      "excerpt": "這是台灣相隔短短一年後再有公投，也是當地近8年來，第4度舉行公投。BBC中文整理了此次三大公投的背景和重點。",
+      "section": "cn-news",
+      "rankScore": 0.590233
+    },
+    {
+      "id": "d0934b2dbc997a2d",
+      "title": "美国将向联合国支付7.25亿美元拖欠会费 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uZUczVzJSeGxkbl9yQ2htVnFFdGdtc01jeGdCejlHU2JyaTVlSFZuU3gtbWd5VUVlN1RGdWs2VzVXSXlsd1dHTUJqTkZUZVRvbng5YUU4Tk4yTkVTZUFuNWxwVmFrVFky?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-21T23:17:03.000Z",
+      "excerpt": "美国将向联合国支付7.25亿美元拖欠会费 央广网 在Google 新闻上查看更多头条新闻和观点",
+      "section": "cn-news",
+      "rankScore": 0.555827
+    }
+  ],
+  "warnings": []
+}
