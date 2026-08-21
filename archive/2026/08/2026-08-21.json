@@ -1,0 +1,281 @@
+{
+  "date": "2026-08-21",
+  "slot": null,
+  "scheduleId": "morning",
+  "generatedAt": "2026-08-21T01:07:02.890Z",
+  "configHash": "7e3fe2dfcb1b",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 25,
+  "items": [
+    {
+      "id": "156485fc7262616d",
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-20T20:07:26.000Z",
+      "score": 896,
+      "author": "speckx",
+      "excerpt": "896 points · 206 comments · https://news.ycombinator.com/item?id=49379550",
+      "section": "tech",
+      "rankScore": 1.161806
+    },
+    {
+      "id": "c181e0424e271a12",
+      "title": "The Pulse: We need to talk about migrations with AI",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-08-20T17:53:01.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Asana completed a testing framework migration in two weeks, that they would have delayed for years more, and they’re not alone. Also: AI startups could make Gartner much less relevant, and more",
+      "section": "tech",
+      "rankScore": 0.637379
+    },
+    {
+      "id": "3aba9d939eb27c69",
+      "title": "Egghead is a note-taking app",
+      "url": "https://wunsch.substack.com/p/egghead-is-a-note-taking-app",
+      "source": "lobsters",
+      "publishedAt": "2026-08-21T00:45:07.000Z",
+      "author": "wunsch.substack.com by wunsch",
+      "excerpt": "Comments",
+      "section": "tech",
+      "rankScore": 0.624517
+    },
+    {
+      "id": "735d2d065e78f32e",
+      "title": "Schema Evolution: Changing the Contract Without Breaking What Runs",
+      "url": "https://blog.bytebytego.com/p/schema-evolution-changing-the-contract",
+      "source": "bytebytego",
+      "publishedAt": "2026-08-20T15:32:18.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we will look at schema evolution and strategies for the same.",
+      "section": "tech",
+      "rankScore": 0.594383
+    },
+    {
+      "id": "9cdf45c5ba3eba60",
+      "title": "Windows 11 arm64 VS2026 image generally available",
+      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "source": "github-changelog",
+      "publishedAt": "2026-08-20T17:52:38.000Z",
+      "author": "Allison",
+      "excerpt": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to… The post Windows 11 arm64 VS2026 image generally available appeared first on The GitHub Blog .",
+      "section": "tech",
+      "rankScore": 0.579329
+    },
+    {
+      "id": "411b8b6c2069aca1",
+      "title": "From all-or-nothing to task-based OAuth consent",
+      "url": "https://blog.cloudflare.com/task-based-oauth-consent/",
+      "source": "cloudflare",
+      "publishedAt": "2026-08-20T17:03:03.000Z",
+      "excerpt": "Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand.",
+      "section": "tech",
+      "rankScore": 0.509
+    },
+    {
+      "id": "01d24a4b093f5833",
+      "title": "ChatGPT search now uses the site:operator at scale",
+      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-20T23:57:32.000Z",
+      "excerpt": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT. Th…",
+      "section": "ai",
+      "rankScore": 0.816828
+    },
+    {
+      "id": "b39f89257f9e7de8",
+      "title": "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
+      "url": "https://www.latent.space/p/wayfinder-skill",
+      "source": "latent-space",
+      "publishedAt": "2026-08-20T20:59:09.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "Matt Pocock tells us about his /wayfinder skill, for greenfield projects or for when the way forward is unclear.",
+      "section": "ai",
+      "rankScore": 0.694253
+    },
+    {
+      "id": "a1b740b4334807f0",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "huggingface",
+      "publishedAt": "2026-08-20T16:52:57.000Z",
+      "section": "ai",
+      "rankScore": 0.506475
+    },
+    {
+      "id": "8b9c3da20071297f",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "source": "openai",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "excerpt": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "section": "ai",
+      "rankScore": 0.437846
+    },
+    {
+      "id": "fba7d18c161e1b0e",
+      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-08-20T23:53:54.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。...",
+      "section": "cn-tech",
+      "rankScore": 0.883585
+    },
+    {
+      "id": "1d47078a07bea6e9",
+      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+      "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-21T01:07:02.890Z",
+      "excerpt": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "43ed7c923ce498b8",
+      "title": "Anthropic：为了理想的“叛逆者”",
+      "url": "https://www.36kr.com/p/3948088613967490",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-21T00:45:27.000Z",
+      "author": "司库商业",
+      "excerpt": "近日，Anthropic被爆出向美国证券交易委员会秘密提交IPO相关文件，预计今年10月份将以超过2万亿美元的估值上市，一旦上市成功，Anthropic不仅领先OpenAI，有望成为美国AI大模型上市第一股，更是会拿下人类历史上规模最大IPO的桂冠。 而这一切都是Anthropic在七年时间内完成的——2021年，达里奥·阿莫迪和丹妮拉·阿莫迪兄妹在与山姆·奥特曼闹掰后，负气出走成立了Anthropic，希望通过“安全可控”的技术，击败追逐商业利益的老东家OpenAI。 最终，这家在Open AI如日中天时创立的AI公司，在技术、营收和资本层面完成了对OpenAI的反超。 可以说，Anthr…",
+      "section": "cn-tech",
+      "rankScore": 0.6246
+    },
+    {
+      "id": "0c036179f21804f7",
+      "title": "海冰消失巨型鲸鱼进入格陵兰",
+      "url": "https://www.solidot.org/story?sid=85151",
+      "source": "solidot",
+      "publishedAt": "2026-08-20T15:57:12.000Z",
+      "excerpt": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，估计 2024 年夏天大约有 4000 头座头鲸、6000 头长须鲸和 6000 头小须鲸造访了格陵兰海。这三种鲸鱼在夏季觅食季节至少会消耗 80 万吨鱼类和磷虾。北极原有的鲸鱼要么被迫适应要么被迫离开。",
+      "section": "cn-tech",
+      "rankScore": 0.601991
+    },
+    {
+      "id": "57e1e52a1ff242a4",
+      "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+      "url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-20T19:03:02.000Z",
+      "author": "KCD Hangzhou 2026 组委会",
+      "excerpt": "点击查看原文>",
+      "section": "cn-tech",
+      "rankScore": 0.598885
+    },
+    {
+      "id": "454791f41da57084",
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-20T20:22:35.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are ar…",
+      "section": "security",
+      "rankScore": 0.620982
+    },
+    {
+      "id": "0b59b459d23f224b",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/08/20/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-72529 TrueConf Server Missing Authentication for Critical Function Vulnerability CVE-2026-72530 TrueConf Server Code Injection Vulnerability These types o…",
+      "section": "security",
+      "rankScore": 0.481376
+    },
+    {
+      "id": "b3dde7ad5db7d8fb",
+      "title": "pnpm 12 RC 8",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v12.0.0-rc.8",
+      "source": "pnpm-releases",
+      "publishedAt": "2026-08-20T20:48:28.000Z",
+      "author": "github-actions[bot]",
+      "excerpt": "Minor Changes packageImportMethod: auto now tries hardlinks before cloning on Linux. A reflink materializes a new inode and copies extent bookkeeping inside the filesystem's metadata trees, where a hardlink is one directory entry — on btrfs this roughly halves the time an install spends materializi…",
+      "section": "releases",
+      "rankScore": 0.690989
+    },
+    {
+      "id": "5165a05a7ede94ce",
+      "title": "TypeScript 7.0.2",
+      "url": "https://github.com/microsoft/TypeScript/releases/tag/v7.0.2",
+      "source": "typescript-releases",
+      "publishedAt": "2026-08-20T18:09:49.000Z",
+      "author": "jakebailey",
+      "excerpt": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/ This tag was originally released at: https://github.com/microsoft/typescript-go/releases/tag/typescript%2Fv7.0.2",
+      "section": "releases",
+      "rankScore": 0.642513
+    },
+    {
+      "id": "dbf98966ddab09a3",
+      "title": "v4.2.0-M1",
+      "url": "https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0-M1",
+      "source": "spring-boot-releases",
+      "publishedAt": "2026-08-20T20:09:59.000Z",
+      "author": "spring-builds",
+      "excerpt": "⭐ New Features Refine Forwarded headers configuration for Jetty servers #51148 Disable Micrometer global registry in tests by default #51142 Use GracefulHandler rather than StatisticsHandler to coordinate graceful shutdown of Jetty #51128 Deprecate RestTemplate support #51118 Update properties for …",
+      "section": "releases",
+      "rankScore": 0.617482
+    },
+    {
+      "id": "251fb2683f47b43f",
+      "title": "Why Nigeria's one-time political giant may face extinction",
+      "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-20T23:21:22.000Z",
+      "excerpt": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
+      "section": "news",
+      "rankScore": 0.737708
+    },
+    {
+      "id": "b92a731c9090bd74",
+      "title": "Australia news live: Swans coach says respect for women a ‘highest priority’ for club; Israel ambassador insists IDF strike that killed Zomi Frankcom a ‘reasonable mistake’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-21T00:59:40.000Z",
+      "author": "Nick Visser",
+      "excerpt": "Dean Cox says Sydney Swans’ culture ‘has taken a hit’. Follow today’s news live Get our breaking news email , free app or daily news podcast Woman behind allegation of sexual assault linked to Sydney Swans reportedly says she wants ‘justice’ The woman who alleges she was sexually assaulted in a Mel…",
+      "section": "news",
+      "rankScore": 0.628155
+    },
+    {
+      "id": "96f18ef2b2f0cc99",
+      "title": "Taliban release two detained UN staff members in Afghanistan",
+      "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-21T00:44:46.000Z",
+      "excerpt": "The two men, detained in the western city of Herat on August 9, were released on Thursday morning.",
+      "section": "news",
+      "rankScore": 0.62443
+    },
+    {
+      "id": "7ad76e46d7595516",
+      "title": "她辭掉了8萬英鎊年薪工作去做冰淇淋，然後造出了爆款",
+      "url": "https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-21T00:04:00.000Z",
+      "excerpt": "英國冰淇淋品牌 Little Moons 華裔共同創辦人分享她給任何考慮自行創業人士的建議。",
+      "section": "cn-news",
+      "rankScore": 0.750735
+    },
+    {
+      "id": "64977200619ec344",
+      "title": "火箭“翻新”再飞，商业航天的命门正在被推开 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MWjVmbDhpTG0zSUtXVnhPNzJfc1NkcFZucjkyTjFCUEg0QW1UQnFWaE9Tck1HZHpOSXdwN0k0VkQ5YjMtRlBET1MyRS1Odw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-21T00:24:00.000Z",
+      "excerpt": "火箭“翻新”再飞，商业航天的命门正在被推开 thepaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.619238
+    }
+  ],
+  "warnings": [
+    "source \"smashing\" failed: TypeError: terminated",
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
