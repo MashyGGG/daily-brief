@@ -1,9 +1,9 @@
 # LLM 摘要与阅读体验升级 —— 实施计划
 
-> 状态：**M0 / M1 已完成**（2026-08-21），M2 / M3 待实施。
-> 两轮的实施记录、与本文原案的偏离、以及踩到的坑，见 §9 的「M0 实施记录」「M1 实施记录」。
-> M1 的结论与决策 7 一致：链路通了，但每天只有 3 条真正上模型，读者几乎感知不到差别 ——
-> 真正的价值交付在 M2。
+> 状态：**M0 / M1 / M2 已完成**（2026-08-21），M3 待实施。
+> 三轮的实施记录、与本文原案的偏离、以及踩到的坑，见 §9 的「M0 实施记录」「M1 实施记录」「M2 实施记录」。
+> M2 兑现了决策 7：邮件里的条目现在是「抓回原文之后写出来的中文摘要 + 要点」，
+> 而不是「把源摘要换个说法」。
 > 目标：**邮件里的每一条都能读完就懂，不必点开链接。**
 > 定位：本文件是 [`PLAN.md`](./PLAN.md) §7「可选扩展 —— LLM 摘要（决策 5 推迟的部分）」的落地方案，
 > 并把 v1 埋下的两处技术债（源自带摘要质量、跨源同题重复）一并结清。
@@ -172,7 +172,16 @@ llm:
   budget: # 硬闸：任何配置错误都烧不穿
     maxItemsPerRun: 12
     maxInputCharsPerItem: 6000
+    # ★ M2 实测补充：开了 fetchFullText 的条目按 maxInputCharsPerItem 预订额度，
+    #   所以这个数至少要 >= maxItemsPerRun × maxInputCharsPerItem，否则字符闸会先于条数闸咬合。
     maxTotalInputChars: 80000
+
+  extract: # ★ M2 新增：抓正文。超时与抓 feed 分开（§8 第 8 行）
+    timeoutMs: 15000
+    maxHtmlChars: 2000000
+    maxRedirects: 3 # 每一跳都重新做私网检查（§6.2 第 3 条）
+    minChars: 200 # 抓出来比这还短 = 付费墙 / JS 壳，退回 excerpt
+    concurrency: 4
 
   defaults:
     summarize: false # ★ 白名单式：默认不调用
@@ -186,7 +195,9 @@ llm:
     ai: { summarize: true, fetchFullText: true, maxChars: 220 }
     tech: { summarize: true, fetchFullText: true }
     news: { summarize: true, style: oneline, maxChars: 120 }
-    cn-tech: { summarize: true, fetchFullText: false } # 中文源 excerpt 本来就能读
+    # ★ M2 实施时改成了 fetchFullText: true。写 false 的理由（「中文源 excerpt 本来就能读」）
+    #   恰恰是 §0.2 反对的那一条：能读不等于读完就懂，只喂 excerpt 等于换个说法。
+    cn-tech: { summarize: true, fetchFullText: true }
     security: { summarize: true, style: oneline }
     # releases 已整栏关闭（§4），无需在此声明
 
@@ -206,6 +217,10 @@ llm:
       - 'appeared first on'
     topPerSection: 3 # 每栏只给前 3 条上 LLM，尾部保留原 excerpt
     titleLanguageNot: zh # 中文标题的中文源跳过
+
+  # ★ M2 实施记录 #1：上面 excerptShorterThan / excerptMatches 这半个闸
+  #   对 fetchFullText: true 的条目不再生效 —— 它问的是「源摘要够不够用」，
+  #   而喂正文的时候源摘要根本不是要喂的东西。topPerSection 与预算闸照常生效。
 
   digest: # 全刊导读：单独一次调用，读者感知最强
     enabled: true
@@ -460,12 +475,17 @@ recipients:
     channel: email
     driver: smtp
     format: html
-    detail: full # ★ 标题 + 要点 + 完整摘要
+    detail: full # ★ 标题 + 要点 + 完整摘要 + 折叠的原文摘要
   - id: me-wecom
     channel: wecom
     format: markdown
-    detail: compact # ★ 标题 + 一句话；细节留给邮件
+    detail: compact # ★ 标题 + 一句话（render.compactMaxChars）；细节留给邮件
 ```
+
+> **M2 实施记录 #3**：`detail` 不写的时候不是默认 `full`，而是按渠道派生
+> （`resolveDetail`：email / stdout → `full`，所有推送渠道 → `compact`）。
+> 「邮件是读、推送是提醒」是渠道的属性；显式写了的永远优先。
+> 一句话的字数由新增的 `render.compactMaxChars`（默认 100）控制，同样按句边界截断。
 
 实现改动很小：[`render/index.ts:39`](../src/render/index.ts#L39) 的渲染缓存 key 加上 `detail` 维度：
 
@@ -555,18 +575,18 @@ const key = `${[...recipient.sections].sort().join(',')}|${recipient.format}|${r
 
 ## 8. 其他应当配置化的项（按 ROI 排序）
 
-| #     | 配置项                                 | 现状                                                            | 为什么                                                                           |
-| ----- | -------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| **1** | `sources[].stripPatterns: []`          | 无                                                              | **0 token 干掉 §0.1 第 ① 类病**，必须先于 LLM 上线 → M0                          |
-| **2** | `render.excerptMaxChars` + 按句截断    | [`normalize.ts:4`](../src/core/normalize.ts#L4) 写死 300        | 0 token 干掉第 ② 类病 → M0                                                       |
-| **3** | `dedupe.titleSimilarity`               | 只做完全相同标题                                                | §0.3 的跨源同题重复，当前最明显的质量缺陷 → M0                                   |
-| **4** | `sections[].enabled`                   | 无                                                              | 补充需求 2 → M0（§4）                                                            |
-| **5** | `recipients[].detail: full \| compact` | 无                                                              | §5 的企微冲突，加 LLM 后**必须**有 → M2                                          |
-| **6** | `rank: { scoreWeight, recencyWeight }` | [`rank.ts:15`](../src/core/rank.ts#L15) 是 `export const`       | PLAN 写着「不满意就调权重」，但现在调权重要改代码；已 export，挪进配置近乎零成本 |
-| **7** | `sources[].enabled: false`             | 只能注释掉整段                                                  | 配置里已有 4 处「试运行完就调回去」的注释债，说明确实在频繁开关源                |
-| **8** | `fetch.timeoutMs` / `enrich.timeoutMs` | [`pipeline.ts:139`](../src/core/pipeline.ts#L139) 写死 `20_000` | 抓 feed 与抓正文需要不同超时                                                     |
-| 9     | `sections[].minScore`                  | 只有 source 级                                                  | 想单独提高 `news` 门槛时无处可写                                                 |
-| 10    | `emptyPolicy` / `channels[].retries`   | 写死                                                            | 优先级低                                                                         |
+| #     | 配置项                                 | 现状                                                        | 为什么                                                                           |
+| ----- | -------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **1** | `sources[].stripPatterns: []`          | 无                                                          | **0 token 干掉 §0.1 第 ① 类病**，必须先于 LLM 上线 → M0                          |
+| **2** | `render.excerptMaxChars` + 按句截断    | [`normalize.ts:4`](../src/core/normalize.ts#L4) 写死 300    | 0 token 干掉第 ② 类病 → M0                                                       |
+| **3** | `dedupe.titleSimilarity`               | 只做完全相同标题                                            | §0.3 的跨源同题重复，当前最明显的质量缺陷 → M0                                   |
+| **4** | `sections[].enabled`                   | 无                                                          | 补充需求 2 → M0（§4）                                                            |
+| **5** | `recipients[].detail: full \| compact` | ✅ M2 已做（不写则按渠道派生）                              | §5 的企微冲突，加 LLM 后**必须**有 → M2                                          |
+| **6** | `rank: { scoreWeight, recencyWeight }` | [`rank.ts:15`](../src/core/rank.ts#L15) 是 `export const`   | PLAN 写着「不满意就调权重」，但现在调权重要改代码；已 export，挪进配置近乎零成本 |
+| **7** | `sources[].enabled: false`             | 只能注释掉整段                                              | 配置里已有 4 处「试运行完就调回去」的注释债，说明确实在频繁开关源                |
+| **8** | `fetch.timeoutMs` / `enrich.timeoutMs` | ✅ M2 做了后半段（`llm.extract.timeoutMs`）；抓 feed 仍写死 | 抓 feed 与抓正文需要不同超时                                                     |
+| 9     | `sections[].minScore`                  | 只有 source 级                                              | 想单独提高 `news` 门槛时无处可写                                                 |
+| 10    | `emptyPolicy` / `channels[].retries`   | 写死                                                        | 优先级低                                                                         |
 
 ---
 
@@ -670,7 +690,7 @@ boilerplate（`Comments`、`appeared first on The GitHub Blo…`、`334 points �
 **M1 的结论与决策 7 一致**：链路通了、成本可见、失败可降级，但每天只有 3 条真正上模型，
 **读者几乎感知不到差别**。要兑现「不用点链接」，必须做 M2 的正文抓取。
 
-### M2 —— 兑现「不用点链接」（1–2 天）★ 价值交付在这里
+### M2 —— 兑现「不用点链接」（1–2 天）★ 价值交付在这里 —— ✅ 已完成
 
 | 内容                                                               |
 | ------------------------------------------------------------------ |
@@ -682,6 +702,43 @@ boilerplate（`Comments`、`appeared first on The GitHub Blo…`、`334 points �
 - **验收**：随机抽 10 条，**不点链接**能否说清「这条讲什么、和我有没有关系」。
   企微那份仍在 3 条消息以内。
 - **回滚**：`fetchFullText: false` 全局关闭，退回 M1 行为。
+
+#### M2 实施记录 —— 四处与本文档原案的偏离
+
+| #   | 原案                                      | 实际做法                                             | 为什么                                                                                                                                                                                 |
+| --- | ----------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 ★ | `when` 的质量闸对所有条目一视同仁         | **开了 `fetchFullText` 的条目跳过 excerpt 那半个闸** | 不改的话 M2 每天只有 **2 条**上模型（实测），而 §7.1 的账是按 12 条算的。`excerptShorterThan` 问的是「源摘要是不是已经和我们要喂的东西一样好」——喂正文之后这个问题的答案就是 §0.2 本身 |
+| 2   | 预算按实际输入字符扣                      | **按 `maxInputCharsPerItem` 预订（reserve）**        | 抓之前不知道正文多长。预订让 `planEnrichment` 保持纯函数，`--llm-dry-run` 的条数才等于真实运行的条数；只会多订不会少订                                                                 |
+| 3   | `recipients[].detail` 每个收件人写死      | **不写就按渠道派生（`resolveDetail`）**              | 「邮件是读、推送是提醒」是渠道的属性不是人的属性。将来加一个企微/TG 收件人忘了写 `detail`，不该在手机上收到五条通知；显式写了的永远优先                                                |
+| 4   | 抓正文失败一律写 `brief.warnings`（§6.1） | **只在「失败占多数」时写**，其余只上运行页           | oschina 这类 JS 壳站点每天都抓不到，天天一条同样的告警就是 M1 记录 #3 那个坑；「多数失败」才是「网络/抓取器坏了」这种昨天还没有的新信息。准确条数在运行页的「正文抓取 N/M」永远看得到  |
+
+另外四处实现细节，原案没写但值得记住：
+
+- **`isFetchableUrl` 不承诺挡住 DNS rebinding。** 域名是公网的、解析结果是内网的，仍然会被抓。
+  挡它需要自己解析 DNS 再在 socket 层校验，而注入 `fetch` 这个缝隙表达不了；换来的东西只是
+  一篇文章的正文，不是凭据。代码注释里写明了这条边界。
+- **重定向是手动跟的（`redirect: 'manual'`）。** 每一跳的 `Location` 都重新过一遍私网检查 ——
+  公网站点上的开放重定向正是够到 `169.254.169.254` 的常规路径，交给 `fetch` 自动跟等于放弃这道闸。
+- **`decodeEntities` 的实体表从 5 个扩到 40 多个。** 实跑发现 `&mdash;` `&rsquo;` 这类命名实体
+  会原样进摘要 —— 喂给模型是噪音，落到邮件里像 bug。顺带修好了 M0 之后 `excerpt` 里的同一问题。
+- **正文按「链接密度」丢导航行。** 大量站点没有 `<article>` / `<main>`，回退到 `<body>` 会把整页
+  菜单一起喂进去。一行里链接文字占比 > 60% 就丢弃：菜单是纯链接，正文段落里的链接从来不是。
+
+实跑验收（2026-08-21，51 个源全部真实抓取）：
+
+- `--llm-dry-run`：7 条通过门控，全部标 `fulltext(planned)`（tech 3、cn-tech 3、ai 1），
+  中文条目预估 ~6000 tok/条、英文 ~1500 tok/条 —— 与 §7.1 方案 B 的量级一致。
+- 真抓 7 篇正文：**6 篇成功**（1802–4276 字），oschina 抓到 0 字（JS 壳）按设计退回 excerpt。
+- 起本地假端点跑完整链路：模型收到的确实是 `FULLTEXT`（625–4411 字符）、`Bearer` 头正确、
+  `temperature: 0`、````json`围栏被解开、**模型塞进摘要的`https://evil.example.com` 被
+  `sanitize.ts` 剥掉**、`- ` / `2. ` 项目符号被剥掉、`summaryMeta.inputKind` 记的是 `fulltext`、
+  原 `excerpt` 一个字没动。
+- 企微/邮件分流实测（把 22 条归档全部按 220 字摘要 + 3 条要点撑满）：
+  `detail: full` **14264 B → 4 条**企微消息，`detail: compact` **7620 B → 2 条** ——
+  §5.1 预测的「4–5 条」得到验证，`compact` 把它压回验收线内。
+- 532 个测试 / `typecheck` / `lint` / `format:check` / `check:schedule` 全绿。
+
+**M2 之后还没做的**：`llm.digest` 全刊导读、周报（都在 M3）。
 
 ### M3 —— 收尾（半天）
 
@@ -700,16 +757,17 @@ boilerplate（`Comments`、`appeared first on The GitHub Blo…`、`334 points �
 
 沿用「注入 fetcher / 不打网络 / 不写临时目录」的既有约定。
 
-| 测试文件                  | 覆盖                                                                      |
-| ------------------------- | ------------------------------------------------------------------------- |
-| `enrich-policy.test.ts`   | ★ 门控判定：source > section > defaults 优先级；`when` 各条触发器；预算闸 |
-| `enrich-sanitize.test.ts` | 输出清洗：链接 / HTML / 控制字符剥离；`maxChars` 截断                     |
-| `enrich-llm.test.ts`      | 假 LLM 响应：正常 / 非法 JSON / 超时 / 5xx → **降级且不抛**               |
-| `normalize.test.ts`       | `stripPatterns`；按句边界截断                                             |
-| `dedupe.test.ts`          | 跨源同题：用 08-21 那两条 DeepSeek 标题做**真实回归样本**                 |
-| `config.test.ts`          | `sections[].enabled` 默认 `true`；`llm` 块缺省时配置仍合法                |
-| `schedule.test.ts`        | `07:10` → `10 23 * * *`，`dayShift = -1`                                  |
-| `render.test.ts`          | `summary ?? excerpt` 优先级；`detail: compact` 不渲染要点                 |
+| 测试文件                  | 覆盖                                                                                                  |
+| ------------------------- | ----------------------------------------------------------------------------------------------------- |
+| `enrich-policy.test.ts`   | ★ 门控判定：source > section > defaults 优先级；`when` 各条触发器；预算闸                             |
+| `enrich-extract.test.ts`  | ★ SSRF 拒绝表（私网 / 凭据 / 非 http / 重定向每一跳）；content-type / 体积 / minChars 闸；HTML → 正文 |
+| `enrich-sanitize.test.ts` | 输出清洗：链接 / HTML / 控制字符剥离；`maxChars` 截断                                                 |
+| `enrich-llm.test.ts`      | 假 LLM 响应：正常 / 非法 JSON / 超时 / 5xx → **降级且不抛**                                           |
+| `normalize.test.ts`       | `stripPatterns`；按句边界截断                                                                         |
+| `dedupe.test.ts`          | 跨源同题：用 08-21 那两条 DeepSeek 标题做**真实回归样本**                                             |
+| `config.test.ts`          | `sections[].enabled` 默认 `true`；`llm` 块缺省时配置仍合法                                            |
+| `schedule.test.ts`        | `07:10` → `10 23 * * *`，`dayShift = -1`                                                              |
+| `render.test.ts`          | `summary ?? excerpt` 优先级；`detail: compact` 不渲染要点                                             |
 
 **不测模型输出质量** —— 那不可测。质量靠 `--re-enrich --diff` 人眼评估。
 

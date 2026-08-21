@@ -505,6 +505,11 @@ render:
   # 源摘要的字符预算。normalize 会在预算内退到最后一个完整句子，退不动才补省略号，
   # 所以这个数字是「最多」而不是「一定」—— 实际长度按句子落点浮动。
   excerptMaxChars: 300
+  # detail: compact 的收件人（默认所有推送渠道）每条给多少字。
+  # 企微一条消息 4096 字节、中文一字三字节，M2 的摘要变长之后，不设这个数就是
+  # 早上五条手机通知。100 字 ≈ 一句话，正好够判断「值不值得去邮箱看全文」。
+  # 同样按句子边界截断，不会断在半句上。
+  compactMaxChars: 100
 
 dedupe:
   # 跨源同题去重：标题归一化后取字符 4-gram，算 Dice 系数，>= 这个值就判为同一条。
@@ -525,9 +530,9 @@ dedupe:
 # 只在 Actions 运行页多一行「未配置密钥」。所以这里可以先开着，等哪天把
 # LLM_API_KEY 加进仓库 secrets，它自己就开始工作了。
 #
-# ★ 当前是 M1：只把源自带的 excerpt 喂给模型，不抓正文。对英文源来说这一步是
-#   「翻译 + 压缩」，对中文源基本只是换个说法（文档 §0.2）—— 所以下面中文栏
-#   目前没开，等 M2 的正文抓取上线再打开才划算。
+# ★ 当前是 M2：打开 fetchFullText 的栏目/源会真的去把原文抓回来喂给模型，
+#   这才是「读完就懂、不用点链接」的那一步（文档 §0.2 / 决策 7）。抓不到就退回
+#   excerpt，早报照常出，只在运行页和 warnings 里留一行。
 llm:
   enabled: true
 
@@ -547,24 +552,36 @@ llm:
   # 这里是配置写错时兜底的第二道，两者取小。
   budget:
     maxItemsPerRun: 12
-    maxInputCharsPerItem: 6000 # M1 喂的是 excerpt（<= 300 字），这个数字是给 M2 的正文准备的
+    maxInputCharsPerItem: 6000 # 正文按这个字符数截断；一篇技术文的前 6000 字足够摘要
+    # 开了 fetchFullText 的条目按 maxInputCharsPerItem 「预订」额度（抓之前还不知道
+    # 正文多长），所以这个数至少要 >= maxItemsPerRun × maxInputCharsPerItem = 72000，
+    # 否则条数还没到 12，字符闸就先把后面的条目挡掉了 —— 运行页的「字符闸 N 条」会报出来。
     maxTotalInputChars: 80000
+
+  # 抓正文。超时与抓 feed 分开（文档 §8 第 8 行）：feed 一秒就回，
+  # 带同意弹窗的新闻站不会，一个慢页面不该占掉模型的时间预算。
+  extract:
+    timeoutMs: 15000
+    maxHtmlChars: 2000000
+    maxRedirects: 3 # 每一跳都会重新做一次私网地址检查（§6.2 第 3 条）
+    minChars: 200 # 抓出来比这还短 = 撞上付费墙 / JS 壳，退回 excerpt 更划算
+    concurrency: 4
 
   defaults:
     summarize: false # 白名单：没被点名的一律不调用
     style: bullet # bullet | oneline | tldr
     language: zh-CN # 英文源直接产出中文
     maxChars: 180
-    fetchFullText: false # M2 才会真正读这个开关
+    fetchFullText: false # 白名单：只有下面点名的栏目/源才会去抓正文
 
   # 最具体的胜出：source > section > defaults。
   sections:
-    tech: { summarize: true }
-    ai: { summarize: true, maxChars: 220 }
-    news: { summarize: true, style: oneline, maxChars: 120 }
-    security: { summarize: true, style: oneline }
-    # cn-tech / cn-news 暂不开启：中文源的 excerpt 本来就是中文，
-    # 只喂 excerpt 的改写换不来信息量，等 M2 抓正文再打开。
+    tech: { summarize: true, fetchFullText: true }
+    ai: { summarize: true, fetchFullText: true, maxChars: 220 }
+    news: { summarize: true, style: oneline, maxChars: 120 } # 要闻只要一句话，不值得抓正文
+    # 中文栏 M2 才打开：只喂 excerpt 的改写对中文源等于换个说法，抓正文才有信息量。
+    cn-tech: { summarize: true, fetchFullText: true }
+    security: { summarize: true, style: oneline } # 安全公告本身就是结构化的，抓正文没意义
 
   sources:
     lobsters: { summarize: true, fetchFullText: true } # excerpt 只有一个 "Comments"
@@ -594,6 +611,9 @@ recipients:
     secretRef: WECOM_WEBHOOK_ME # the NAME of the secret, never the webhook itself
     sections: ['*']
     format: markdown
+    # 标题 + 一句话（render.compactMaxChars），不给要点。所有推送渠道默认就是
+    # compact，这里写出来是为了让「手机上为什么比邮件短」有个明确的答案。
+    detail: compact
     enabled: true
 
   # One entry, one message. Nobody's address is committed — both header lines come
@@ -606,6 +626,7 @@ recipients:
     driver: smtp # smtp (Gmail App Password) | resend (only with a verified custom domain)
     sections: ['*']
     format: html
+    detail: full # 标题 + 摘要 + 要点 + 折叠起来的原文摘要（文档 §5.3）
     enabled: true
 
   - id: backup-serverchan

@@ -1,7 +1,8 @@
 import type { Item, LlmConfig, SummaryMeta } from '../config/schema'
 import type { BriefSection } from '../core/brief'
+import { extractArticle, type ExtractFetch } from './extract'
 import { createLlmClient, resolveProvider, type LlmClient, type LlmFetch } from './llm'
-import { planEnrichment, type EnrichPlan, type EnrichTask } from './policy'
+import { cut, planEnrichment, type EnrichPlan, type EnrichTask } from './policy'
 import { PROMPT_VERSION, systemPrompt, userPrompt } from './prompt'
 import { sanitizeResponse } from './sanitize'
 
@@ -14,6 +15,12 @@ import { sanitizeResponse } from './sanitize'
 export interface EnrichContext {
   env: NodeJS.ProcessEnv
   fetchImpl: LlmFetch
+  /**
+   * §9 M2 — the seam used to read the article itself. Left unset, `fetchFullText` degrades
+   * to M1 behaviour (the excerpt) rather than failing: a missing seam is a missing feature,
+   * not a broken run.
+   */
+  extractFetchImpl?: ExtractFetch
   sleep?: (ms: number) => Promise<void>
   /** `--no-llm`, or `LLM_ENABLED=false` as the workflow-level breaker. */
   disabled?: boolean
@@ -40,6 +47,11 @@ export interface EnrichStats {
   cappedByChars: number
   succeeded: number
   failed: number
+  /** Items whose article was actually read — the M2 number that says the milestone works. */
+  fullText: number
+  /** Items that asked for the article and got the excerpt instead. Quality loss, not failure. */
+  fullTextFailed: number
+  fetchDurationMs: number
   /** HTTP attempts, so a retry storm is visible even when every item eventually lands. */
   attempts: number
   promptTokens: number
@@ -66,6 +78,9 @@ function emptyStats(status: EnrichStatus, model: string, plan?: EnrichPlan): Enr
     cappedByChars: plan?.cappedByChars ?? 0,
     succeeded: 0,
     failed: 0,
+    fullText: 0,
+    fullTextFailed: 0,
+    fetchDurationMs: 0,
     attempts: 0,
     promptTokens: 0,
     completionTokens: 0,
@@ -162,13 +177,75 @@ function applySummaries(
 }
 
 /** Distinct failure reasons with counts — a run that fails 12 times fails for 1 or 2 reasons. */
-function aggregate(failures: string[], limit = 3): string[] {
+function aggregate(failures: string[], prefix: string, limit = 3): string[] {
   const counts = new Map<string, number>()
   for (const message of failures) counts.set(message, (counts.get(message) ?? 0) + 1)
   return [...counts.entries()]
     .sort((a, b) => b[1] - a[1])
     .slice(0, limit)
-    .map(([message, n]) => `llm: ${n} item(s) fell back to the source excerpt — ${message}`)
+    .map(([message, n]) => `${prefix}: ${n} item(s) fell back to the source excerpt — ${message}`)
+}
+
+/**
+ * Whether a run's failed extractions are worth putting in front of the reader.
+ *
+ * They are not, one site at a time: a JS-only page or a paywall fails the same way every
+ * single morning, and M1 already learned (record #3) that a warning which fires daily is
+ * a warning nobody reads by the end of the week — which makes the real ones invisible
+ * too. A majority of attempts failing is different: that is the network, the runner, or
+ * the extractor itself, and it did not look like that yesterday.
+ *
+ * The exact count is on the Actions run page either way (`正文抓取：N/M`), which is where
+ * "oschina still can't be read" belongs.
+ */
+function extractWarnings(failures: string[], stats: EnrichStats): string[] {
+  if (stats.fullTextFailed <= stats.fullText) return []
+  return aggregate(failures, 'extract')
+}
+
+/**
+ * §9 M2 — read the articles the policy asked for, in place. Mutates each task's `input`
+ * and `inputKind` on success and leaves them alone on failure, so the LLM stage below has
+ * exactly one code path whether the fetch worked, timed out, or was never wired up.
+ *
+ * A failure here is a quality loss, not an incident: the item still gets summarized, just
+ * from the excerpt the feed shipped. Which is why it does not always reach `warnings` —
+ * see `extractWarnings`.
+ */
+async function fetchFullTexts(
+  tasks: EnrichTask[],
+  llm: LlmConfig,
+  ctx: EnrichContext,
+  stats: EnrichStats,
+  onFailure: (message: string) => void,
+  describeError: (err: unknown) => string,
+): Promise<void> {
+  const wanted = tasks.filter((t) => t.wantsFullText)
+  if (wanted.length === 0) return
+  const fetchImpl = ctx.extractFetchImpl
+  if (!fetchImpl) {
+    stats.fullTextFailed += wanted.length
+    onFailure('no full-text fetcher wired up')
+    return
+  }
+
+  const started = Date.now()
+  await pool(wanted, llm.extract.concurrency, async (task) => {
+    try {
+      const article = await extractArticle(task.item.url, {
+        fetchImpl,
+        config: llm.extract,
+        maxChars: llm.budget.maxInputCharsPerItem,
+      })
+      task.input = cut(article.text, llm.budget.maxInputCharsPerItem)
+      task.inputKind = 'fulltext'
+      stats.fullText++
+    } catch (err) {
+      stats.fullTextFailed++
+      onFailure(describeError(err))
+    }
+  })
+  stats.fetchDurationMs = Date.now() - started
 }
 
 /**
@@ -208,8 +285,12 @@ export async function enrichSections(
 
   if (ctx.planOnly) {
     for (const task of plan.tasks) {
+      // Nothing is fetched here either: a dry run that pulled 12 articles would be a dry
+      // run with a wall-clock cost and a footprint in somebody's access log.
+      const kind = task.wantsFullText ? 'fulltext(planned)' : 'excerpt'
       log(
-        `llm-dry-run: ${task.sectionId} · ${task.item.source} · ~${task.estimatedInputTokens} tok · ${task.item.title}`,
+        `llm-dry-run: ${task.sectionId} · ${task.item.source} · ${kind} · ` +
+          `~${task.estimatedInputTokens} tok · ${task.item.title}`,
       )
     }
     return { sections, stats: emptyStats('planned', model, plan), warnings: [] }
@@ -226,6 +307,22 @@ export async function enrichSections(
 
   const summaries = new Map<string, { summary: string; takeaways: string[]; meta: SummaryMeta }>()
   const failures: string[] = []
+  const extractFailures: string[] = []
+
+  await fetchFullTexts(
+    plan.tasks,
+    llm,
+    ctx,
+    stats,
+    (message) => extractFailures.push(message),
+    describeError,
+  )
+  if (stats.fullText + stats.fullTextFailed > 0) {
+    log(
+      `extract: ${stats.fullText}/${stats.fullText + stats.fullTextFailed} articles read ` +
+        `in ${stats.fetchDurationMs}ms`,
+    )
+  }
 
   await pool(plan.tasks, provider.concurrency, async (task) => {
     const result = await summarizeOne(
@@ -249,11 +346,17 @@ export async function enrichSections(
   stats.durationMs = Date.now() - started
   log(`llm: ${stats.succeeded}/${plan.tasks.length} summarized in ${stats.durationMs}ms`)
 
-  return { sections: applySummaries(sections, summaries), stats, warnings: aggregate(failures) }
+  return {
+    sections: applySummaries(sections, summaries),
+    stats,
+    warnings: [...extractWarnings(extractFailures, stats), ...aggregate(failures, 'llm')],
+  }
 }
 
 export { planEnrichment, resolvePolicy, passesWhen, titleLanguage, estimateTokens } from './policy'
 export type { EnrichPlan, EnrichTask, ResolvedPolicy } from './policy'
 export { sanitizeResponse, sanitizeText, sanitizeTakeaways } from './sanitize'
+export { extractArticle, htmlToText, isFetchableUrl, ExtractError } from './extract'
+export type { ExtractFetch } from './extract'
 export { PROMPT_VERSION } from './prompt'
 export type { LlmFetch } from './llm'

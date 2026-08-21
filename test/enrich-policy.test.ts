@@ -81,41 +81,70 @@ describe('passesWhen — the quality gate', () => {
 
   it('is off, not closed, when neither excerpt trigger is configured', () => {
     const it0 = item({ excerpt: 'A perfectly serviceable three-line summary from the feed.' })
-    expect(passesWhen(it0, base, { rankInSection: 0, junkPatterns: [] })).toBe(true)
+    expect(
+      passesWhen(it0, base, { rankInSection: 0, junkPatterns: [], fetchFullText: false }),
+    ).toBe(true)
   })
 
   it('declines an excerpt that is already long enough', () => {
     const when = { ...base, excerptShorterThan: 80 }
     const long = item({ excerpt: 'x'.repeat(120) })
     const short = item({ excerpt: 'x'.repeat(20) })
-    expect(passesWhen(long, when, { rankInSection: 0, junkPatterns: [] })).toBe(false)
-    expect(passesWhen(short, when, { rankInSection: 0, junkPatterns: [] })).toBe(true)
+    expect(
+      passesWhen(long, when, { rankInSection: 0, junkPatterns: [], fetchFullText: false }),
+    ).toBe(false)
+    expect(
+      passesWhen(short, when, { rankInSection: 0, junkPatterns: [], fetchFullText: false }),
+    ).toBe(true)
   })
 
   it('always passes an item with no excerpt — that is the case LLM output exists for', () => {
     const when = { ...base, excerptShorterThan: 80 }
-    expect(passesWhen(item({}), when, { rankInSection: 0, junkPatterns: [] })).toBe(true)
+    expect(
+      passesWhen(item({}), when, { rankInSection: 0, junkPatterns: [], fetchFullText: false }),
+    ).toBe(true)
   })
 
   it('passes a long excerpt that matches a junk fingerprint', () => {
     const when = { ...base, excerptShorterThan: 20 }
     const junk = item({ excerpt: 'This post appeared first on The GitHub Blog ' + 'x'.repeat(80) })
-    const ctx = { rankInSection: 0, junkPatterns: [/appeared first on/i] }
+    const ctx = { rankInSection: 0, junkPatterns: [/appeared first on/i], fetchFullText: false }
     expect(passesWhen(junk, when, ctx)).toBe(true)
   })
 
   it('honours topPerSection', () => {
     const when = { ...base, topPerSection: 3 }
-    const ctx = (rank: number) => ({ rankInSection: rank, junkPatterns: [] })
+    const ctx = (rank: number) => ({ rankInSection: rank, junkPatterns: [], fetchFullText: false })
     expect(passesWhen(item({}), when, ctx(2))).toBe(true)
     expect(passesWhen(item({}), when, ctx(3))).toBe(false)
   })
 
   it('honours titleLanguageNot', () => {
     const when = { ...base, titleLanguageNot: 'zh' as const }
-    const ctx = { rankInSection: 0, junkPatterns: [] }
+    const ctx = { rankInSection: 0, junkPatterns: [], fetchFullText: false }
     expect(passesWhen(item({ title: '国产大模型再降价' }), when, ctx)).toBe(false)
     expect(passesWhen(item({ title: 'Rust ships a new borrow checker' }), when, ctx)).toBe(true)
+  })
+
+  it('§9 M2 — a long excerpt no longer cancels a deliberate fetchFullText', () => {
+    const when = { ...base, excerptShorterThan: 80 }
+    const long = item({ excerpt: 'A perfectly serviceable teaser. ' + 'x'.repeat(200) })
+    // The excerpt trigger asks "is the excerpt already as good as what we would send?".
+    // Once the article is what gets sent, that question is answered by §0.2, not by the
+    // teaser's length.
+    expect(
+      passesWhen(long, when, { rankInSection: 0, junkPatterns: [], fetchFullText: true }),
+    ).toBe(true)
+    expect(
+      passesWhen(long, when, { rankInSection: 0, junkPatterns: [], fetchFullText: false }),
+    ).toBe(false)
+  })
+
+  it('the structural caps still bite a full-text item', () => {
+    const when = { ...base, topPerSection: 3, titleLanguageNot: 'zh' as const }
+    const ctx = (rank: number) => ({ rankInSection: rank, junkPatterns: [], fetchFullText: true })
+    expect(passesWhen(item({ title: 'English headline' }), when, ctx(3))).toBe(false)
+    expect(passesWhen(item({ title: '中文标题' }), when, ctx(0))).toBe(false)
   })
 })
 
@@ -168,14 +197,61 @@ describe('planEnrichment', () => {
     expect(plan.tasks[0]!.input).toHaveLength(100)
   })
 
-  it('records that M1 fed the excerpt, so the archive says what was actually used', () => {
+  it('plans the excerpt as the input — the article, if any, arrives later', () => {
     const cfg = llm({
       sections: { tech: { summarize: true } },
       sources: { 'hn-front': { fetchFullText: true } },
     })
     const plan = planEnrichment([section('tech', item({ excerpt: 'short' }))], cfg)
+    // `inputKind` records what was ACTUALLY sent, and at plan time nothing has been
+    // fetched yet: the extract stage flips it only when the fetch comes back.
     expect(plan.tasks[0]!.inputKind).toBe('excerpt')
+    expect(plan.tasks[0]!.wantsFullText).toBe(true)
     expect(plan.tasks[0]!.policy.fetchFullText).toBe(true)
+  })
+
+  it('§9 M2 — a full-text item books its per-item ceiling before it fetches', () => {
+    const cfg = llm({
+      sections: { tech: { summarize: true, fetchFullText: true } },
+      budget: { maxInputCharsPerItem: 1000, maxTotalInputChars: 2500 },
+    })
+    const short = (id: string) => item({ id, excerpt: 'x'.repeat(50) })
+    const plan = planEnrichment([section('tech', short('1'), short('2'), short('3'))], cfg)
+    // Three 50-char excerpts would all fit; three unfetched articles would not. Reserving
+    // is what keeps `--llm-dry-run` honest about the run it is predicting.
+    expect(plan.tasks).toHaveLength(2)
+    expect(plan.cappedByChars).toBe(1)
+    expect(plan.inputChars).toBe(2000)
+    expect(plan.tasks[0]!.reservedChars).toBe(1000)
+  })
+
+  it('an excerpt-only item still books only what it will send', () => {
+    const cfg = llm({
+      sections: { tech: { summarize: true } },
+      budget: { maxInputCharsPerItem: 1000 },
+    })
+    const plan = planEnrichment([section('tech', item({ excerpt: 'x'.repeat(50) }))], cfg)
+    expect(plan.tasks[0]!.reservedChars).toBe(50)
+  })
+
+  it('estimates a full-text item by the script of its title, the one signal it has', () => {
+    const cfg = llm({
+      sections: { tech: { summarize: true, fetchFullText: true } },
+      budget: { maxInputCharsPerItem: 4000 },
+    })
+    const english = planEnrichment(
+      [section('tech', item({ title: 'A very ordinary English headline', excerpt: 'x' }))],
+      cfg,
+    )
+    const chinese = planEnrichment(
+      [section('tech', item({ title: '一条再普通不过的中文标题', excerpt: 'x' }))],
+      cfg,
+    )
+    // Same reserved characters, four times the tokens: CJK runs about one token per
+    // character where Latin runs about four characters per token.
+    expect(chinese.tasks[0]!.estimatedInputTokens).toBeGreaterThan(
+      english.tasks[0]!.estimatedInputTokens * 3,
+    )
   })
 
   it('is a pure function of its inputs — same plan twice', () => {

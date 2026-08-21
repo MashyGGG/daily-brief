@@ -59,6 +59,17 @@ function enrichLines(stats: EnrichStats): string[] {
   lines.push(
     `门控跳过 ${stats.gated} 条` + (capped.length > 0 ? `；预算截断：${capped.join('、')}` : ''),
   )
+  // §9 M2 — the one number that says whether the milestone is actually delivering. An
+  // all-green LLM table over 12 items that were all summarized from `excerpt` is M1
+  // wearing M2's clothes, and nothing else on this page would say so.
+  const wantedFullText = stats.fullText + stats.fullTextFailed
+  if (wantedFullText > 0) {
+    lines.push('')
+    lines.push(
+      `正文抓取：${stats.fullText}/${wantedFullText} 成功（${stats.fetchDurationMs}ms）` +
+        (stats.fullTextFailed > 0 ? `，${stats.fullTextFailed} 条退回源摘要` : ''),
+    )
+  }
   lines.push('')
   return lines
 }

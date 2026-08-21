@@ -71,6 +71,8 @@ export interface WhenContext {
   /** 0-based position within the section, in rank order. */
   rankInSection: number
   junkPatterns: readonly RegExp[]
+  /** §9 M2 — whether this item's policy will send the article rather than the excerpt. */
+  fetchFullText: boolean
 }
 
 /**
@@ -81,10 +83,19 @@ export interface WhenContext {
  * With neither `excerptShorterThan` nor `excerptMatches` configured the excerpt half is
  * off rather than closed: an unconfigured trigger means "don't judge by excerpt", not
  * "reject everything".
+ *
+ * ★ M2 — the excerpt half does not apply to a full-text item. The question it asks is
+ * "is this item's own excerpt already as good as what we would send the model", and that
+ * question only makes sense while the excerpt IS what gets sent. Once the article does,
+ * a well-written 300-character teaser is no longer evidence that the model has nothing to
+ * add — §0.2 makes exactly the opposite argument. The structural caps (`topPerSection`)
+ * and the budget still bound the spend; this only stops the length of a teaser from
+ * cancelling a deliberate `fetchFullText: true`.
  */
 export function passesWhen(item: Item, when: LlmConfig['when'], ctx: WhenContext): boolean {
   if (when.topPerSection > 0 && ctx.rankInSection >= when.topPerSection) return false
   if (when.titleLanguageNot && titleLanguage(item.title) === when.titleLanguageNot) return false
+  if (ctx.fetchFullText) return true
 
   const judgesExcerpt = when.excerptShorterThan > 0 || ctx.junkPatterns.length > 0
   if (!judgesExcerpt) return true
@@ -99,9 +110,19 @@ export interface EnrichTask {
   item: Item
   sectionId: string
   policy: ResolvedPolicy
-  /** What actually gets sent, already cut to `budget.maxInputCharsPerItem`. */
+  /**
+   * What actually gets sent, already cut to `budget.maxInputCharsPerItem`. Planning fills
+   * it with the excerpt; the M2 extract stage overwrites it when the fetch succeeds, which
+   * is the whole difference between "a shorter version of the excerpt" and "you don't
+   * need to click the link".
+   */
   input: string
+  /** What `input` currently holds — mutated by the extract stage, archived in `summaryMeta`. */
   inputKind: 'excerpt' | 'fulltext'
+  /** Whether the resolved policy asked for the article. A failed fetch leaves this true. */
+  wantsFullText: boolean
+  /** What this task was charged against `maxTotalInputChars` (see `planEnrichment`). */
+  reservedChars: number
   estimatedInputTokens: number
 }
 
@@ -112,6 +133,7 @@ export interface EnrichPlan {
   /** Items a budget ceiling declined, split by which ceiling. Non-zero means retune. */
   cappedByItems: number
   cappedByChars: number
+  /** Reserved, not spent: a full-text task books its per-item ceiling before it fetches. */
   inputChars: number
 }
 
@@ -130,9 +152,19 @@ export function estimateTokens(text: string): number {
   return Math.ceil(han + rest / 4)
 }
 
-function cut(text: string, max: number): string {
+export function cut(text: string, max: number): string {
   const chars = [...text]
   return chars.length <= max ? text : chars.slice(0, max).join('')
+}
+
+/**
+ * Tokens a full-text task might cost, before anything has been fetched. The ratio is
+ * guessed from the title's script because that is the one signal available at plan time
+ * and it is a good one: a Chinese site writes a Chinese headline. Display only — the
+ * character budgets are what actually gate spend.
+ */
+function reservedTokens(title: string, chars: number): number {
+  return Math.ceil(chars / (titleLanguage(title) === 'zh' ? 1 : 4))
 }
 
 /**
@@ -163,7 +195,12 @@ export function planEnrichment(sections: BriefSection[], llm: LlmConfig): Enrich
       const item = section.items[rank]
       if (!item) continue
       const policy = resolvePolicy(llm, item.source, section.id)
-      if (!policy.summarize || !passesWhen(item, llm.when, { rankInSection: rank, junkPatterns })) {
+      const when = {
+        rankInSection: rank,
+        junkPatterns,
+        fetchFullText: policy.fetchFullText,
+      }
+      if (!policy.summarize || !passesWhen(item, llm.when, when)) {
         plan.gated++
         continue
       }
@@ -176,21 +213,35 @@ export function planEnrichment(sections: BriefSection[], llm: LlmConfig): Enrich
       plan.cappedByItems++
       continue
     }
-    // M1 has only the excerpt to offer; `fetchFullText` is honoured from M2, and
-    // `summaryMeta.inputKind` in the archive is what records which one was actually used.
     const input = cut(candidate.item.excerpt ?? '', llm.budget.maxInputCharsPerItem)
-    if (plan.inputChars + input.length > llm.budget.maxTotalInputChars) {
+    // A full-text task books its per-item ceiling up front rather than the excerpt it
+    // starts with. Reserving keeps the plan a pure function — `--llm-dry-run` promises the
+    // same item list the run will make — and it can only over-reserve: the article arrives
+    // cut to that same ceiling, or it does not arrive and the excerpt costs less.
+    const wantsFullText = candidate.policy.fetchFullText
+    const reservedChars = wantsFullText
+      ? Math.max(input.length, llm.budget.maxInputCharsPerItem)
+      : input.length
+    if (plan.inputChars + reservedChars > llm.budget.maxTotalInputChars) {
       plan.cappedByChars++
       continue
     }
-    plan.inputChars += input.length
+    plan.inputChars += reservedChars
     plan.tasks.push({
       item: candidate.item,
       sectionId: candidate.sectionId,
       policy: candidate.policy,
       input,
+      // The archive records what was actually sent, so this stays `excerpt` until the
+      // fetch comes back with something better.
       inputKind: 'excerpt',
-      estimatedInputTokens: estimateTokens(candidate.item.title) + estimateTokens(input),
+      wantsFullText,
+      reservedChars,
+      estimatedInputTokens:
+        estimateTokens(candidate.item.title) +
+        (wantsFullText
+          ? reservedTokens(candidate.item.title, reservedChars)
+          : estimateTokens(input)),
     })
   }
 

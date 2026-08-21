@@ -15,6 +15,7 @@ import { renderForRecipients } from '../render'
 import { deliver, type ChannelContext, type DeliveryResult } from '../channels'
 import { enrichSections, type EnrichStats } from '../enrich'
 import type { LlmFetch } from '../enrich/llm'
+import type { ExtractFetch } from '../enrich/extract'
 
 export interface RunOptions {
   config: BriefConfig
@@ -35,6 +36,12 @@ export interface RunOptions {
   fetchImpl: FetchLike
   /** POST-capable seam for the LLM endpoint; defaults to `fetchImpl` widened. */
   llmFetchImpl?: LlmFetch
+  /**
+   * §9 M2 — seam for reading the linked articles. It needs response headers and manual
+   * redirects, which `FetchLike` does not expose, so it is its own option rather than a
+   * cast of `fetchImpl`; unset simply means no article is fetched.
+   */
+  extractFetchImpl?: ExtractFetch
   /** `--no-llm` — the brief must still go out when the model is down or unpaid. */
   noLlm?: boolean
   /** `--llm-dry-run` — plan the calls, print them, make none. */
@@ -150,6 +157,9 @@ export async function run(options: RunOptions): Promise<RunResult> {
     cappedByChars: 0,
     succeeded: 0,
     failed: 0,
+    fullText: 0,
+    fullTextFailed: 0,
+    fetchDurationMs: 0,
     attempts: 0,
     promptTokens: 0,
     completionTokens: 0,
@@ -227,6 +237,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
     const enriched = await enrichSections(built, config.llm, {
       env,
       fetchImpl: (options.llmFetchImpl ?? (options.fetchImpl as unknown as LlmFetch)) as LlmFetch,
+      extractFetchImpl: options.extractFetchImpl,
       sleep: options.sleep,
       disabled: options.noLlm,
       planOnly: options.llmDryRun,
@@ -289,7 +300,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
     log(`archived ${written.markdownPath}`)
   }
 
-  const rendered = renderForRecipients(brief, recipients)
+  const rendered = renderForRecipients(brief, recipients, config.render)
   const payloads = new Map<
     string,
     { title: string; body: string; blocks: string[]; text: string }

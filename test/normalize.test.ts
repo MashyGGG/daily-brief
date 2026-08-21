@@ -3,6 +3,7 @@ import {
   compileStripPatterns,
   normalize,
   stripBoilerplate,
+  stripHtml,
   toExcerpt,
   truncate,
 } from '../src/core/normalize'
@@ -148,5 +149,26 @@ describe('normalize — the render budget reaches the source', () => {
       { stripPatterns: strip('drop') },
     )
     expect(item!.excerpt).toBe('keep')
+  })
+})
+
+describe('§9 M2 — decodeEntities', () => {
+  it('decodes the punctuation that used to survive into a summary looking like a bug', () => {
+    expect(stripHtml('a &mdash; b &ndash; c &hellip;')).toBe('a \u2014 b \u2013 c \u2026')
+    expect(stripHtml('&ldquo;quoted&rdquo; and it&rsquo;s fine')).toBe(
+      '\u201cquoted\u201d and it\u2019s fine',
+    )
+  })
+
+  it('keeps the numeric forms working', () => {
+    expect(stripHtml('&#8212; &#x2014;')).toBe('\u2014 \u2014')
+  })
+
+  it('tells &Prime; from &prime; — the table is case-significant', () => {
+    expect(stripHtml('&prime; &Prime;')).toBe('\u2032 \u2033')
+  })
+
+  it('leaves an entity it does not know rather than mangling it', () => {
+    expect(stripHtml('&notarealentity; stays')).toBe('&notarealentity; stays')
   })
 })

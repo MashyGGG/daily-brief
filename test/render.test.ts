@@ -204,8 +204,11 @@ describe('§1.2 — the LLM summary is rendered, the excerpt is the fallback', (
     expect(renderMarkdown(withBoth)).toContain('Just the feed text.')
   })
 
-  it('the pushed markdown leaves takeaways out — WeCom caps a message at 4096 bytes', () => {
-    expect(renderMarkdown(withBoth)).not.toContain('误报更少')
+  it('renders everything it has when nobody says otherwise', () => {
+    // M1 kept takeaways out of every markdown render because WeCom could not afford them.
+    // §5.2 turned that from a rule into a per-recipient choice, so the default is now
+    // "print what the enrich stage produced" and the phone copy asks for less explicitly.
+    expect(renderMarkdown(withBoth)).toContain('误报更少')
   })
 
   it('the archived markdown keeps them, having no such ceiling', () => {
@@ -218,7 +221,23 @@ describe('§1.2 — the LLM summary is rendered, the excerpt is the fallback', (
     const html = renderHtml(withBoth)
     expect(html).toContain('新的借用检查器把编译期错误提示改写成了人话。')
     expect(html).toContain('<li>误报更少</li>')
-    expect(html).not.toContain('which nobody wanted to read')
+  })
+
+  it('§5.3 — the mail keeps the source excerpt underneath, folded away', () => {
+    const html = renderHtml(withBoth, { detail: 'full' })
+    expect(html).toContain('原文摘要')
+    expect(html).toContain('which nobody wanted to read')
+    // The label sits above the summary's own paragraph, not in front of it.
+    expect(html.indexOf('新的借用检查器')).toBeLessThan(html.indexOf('原文摘要'))
+  })
+
+  it('does not print the excerpt twice when it IS the body', () => {
+    const only = brief({
+      sections: [{ id: 'tech', title: 'T', items: [plain] }],
+    })
+    const html = renderHtml(only, { detail: 'full' })
+    expect(html).toContain('Just the feed text.')
+    expect(html).not.toContain('原文摘要')
   })
 
   it('plain text — the mail fallback — carries both too', () => {
@@ -234,5 +253,124 @@ describe('§1.2 — the LLM summary is rendered, the excerpt is the fallback', (
       ],
     })
     expect(renderMarkdown(risky)).toContain('a \\*b\\* \\[c\\] \\<d\\>')
+  })
+})
+
+describe('§5.2 — recipients[].detail', () => {
+  const long =
+    '新的借用检查器把编译期错误提示改写成了人话。它同时把误报率降到了上一版的三分之一。' +
+    '官方博客说这项改动酝酿了两年，涉及编译器前端的大范围重写，并且不影响现有代码的兼容性。'
+  const heavy = brief({
+    sections: [
+      {
+        id: 'tech',
+        title: '国际技术',
+        items: [
+          item({
+            title: 'Rust ships a new borrow checker',
+            summary: long,
+            takeaways: ['误报更少', '编译更快', '不破坏兼容性'],
+            excerpt: 'The original feed description.',
+          }),
+        ],
+      },
+    ],
+  })
+
+  it('compact cuts the body to the configured budget and drops the bullets', () => {
+    const out = renderMarkdown(heavy, { detail: 'compact', compactMaxChars: 40 })
+    expect(out).toContain('新的借用检查器把编译期错误提示改写成了人话。')
+    expect(out).not.toContain('酝酿了两年')
+    expect(out).not.toContain('误报更少')
+  })
+
+  it('compact cuts at a sentence boundary, not mid-thought', () => {
+    const out = renderMarkdown(heavy, { detail: 'compact', compactMaxChars: 30 })
+    // 30 chars of budget over a first sentence that ends at 22: the whole sentence stops
+    // there, and the reader never sees a half-finished clause or a stray ellipsis.
+    expect(out).toContain('人话。')
+    expect(out).not.toContain('它同时把误报率')
+    expect(out).not.toContain('…')
+  })
+
+  it('full keeps everything', () => {
+    const out = renderMarkdown(heavy, { detail: 'full' })
+    expect(out).toContain('酝酿了两年')
+    expect(out).toContain('误报更少')
+  })
+
+  it('compact html drops the bullets and the folded excerpt too', () => {
+    const out = renderHtml(heavy, { detail: 'compact', compactMaxChars: 40 })
+    expect(out).not.toContain('<li>误报更少</li>')
+    expect(out).not.toContain('原文摘要')
+  })
+
+  it('compact plain text drops the bullets', () => {
+    const out = renderText(heavy, { detail: 'compact', compactMaxChars: 40 })
+    expect(out).not.toContain('- 误报更少')
+  })
+
+  it('an unset detail follows the channel — push is a nudge, mail is the read', () => {
+    const wecom: Recipient = {
+      id: 'w',
+      channel: 'wecom',
+      sections: ['*'],
+      format: 'markdown',
+      enabled: true,
+    }
+    const mail: Recipient = {
+      id: 'm',
+      channel: 'email',
+      sections: ['*'],
+      format: 'markdown',
+      enabled: true,
+    }
+    const out = renderForRecipients(heavy, [wecom, mail], {
+      excerptMaxChars: 300,
+      compactMaxChars: 40,
+    })
+    expect(out.get('w')!.body).not.toContain('误报更少')
+    expect(out.get('m')!.body).toContain('误报更少')
+  })
+
+  it('an explicit detail wins over the channel default', () => {
+    const wecom: Recipient = {
+      id: 'w',
+      channel: 'wecom',
+      sections: ['*'],
+      format: 'markdown',
+      detail: 'full',
+      enabled: true,
+    }
+    const out = renderForRecipients(heavy, [wecom], { excerptMaxChars: 300, compactMaxChars: 40 })
+    expect(out.get('w')!.body).toContain('误报更少')
+  })
+
+  it('detail is part of the render cache key — two recipients must not collide on it', () => {
+    // Same sections, same format: without `detail` in the key, whichever rendered first
+    // would silently hand its document to the other one.
+    const a: Recipient = {
+      id: 'a',
+      channel: 'wecom',
+      sections: ['*'],
+      format: 'markdown',
+      enabled: true,
+    }
+    const b: Recipient = { ...a, id: 'b', channel: 'stdout' }
+    const out = renderForRecipients(heavy, [a, b], { excerptMaxChars: 300, compactMaxChars: 40 })
+    expect(out.get('a')!.body).not.toBe(out.get('b')!.body)
+  })
+
+  it('still renders once for recipients that share the whole signature', () => {
+    const a: Recipient = {
+      id: 'a',
+      channel: 'wecom',
+      sections: ['*'],
+      format: 'markdown',
+      enabled: true,
+    }
+    const b: Recipient = { ...a, id: 'b' }
+    const out = renderForRecipients(heavy, [a, b])
+    expect(out.get('a')).toBe(out.get('b'))
   })
 })

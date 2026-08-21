@@ -177,6 +177,13 @@ export const archiveSchema = z
 export const renderSchema = z
   .object({
     excerptMaxChars: z.number().int().min(40).max(2000).default(300),
+    /**
+     * §5.1 — what a `detail: compact` recipient gets per item. WeCom caps one message at
+     * 4096 BYTES and a Chinese character costs three of them, so the M2 summaries would
+     * turn one morning into five phone notifications. This is the budget that keeps the
+     * pushed copy at the "is this worth opening the mail for" length.
+     */
+    compactMaxChars: z.number().int().min(20).max(500).default(100),
   })
   .default({})
 
@@ -261,6 +268,37 @@ export const llmSchema = z
         maxTotalInputChars: z.number().int().min(100).max(1_000_000).default(80_000),
       })
       .default({}),
+    /**
+     * §9 M2 — fetching the article itself. Separate from `provider.timeoutMs` on purpose
+     * (§8 row 8): a feed answers in a second, a news site with a consent wall does not,
+     * and one slow page must not eat the LLM's clock.
+     */
+    extract: z
+      .object({
+        /** Per page, not per run — the concurrency below is what bounds the wall clock. */
+        timeoutMs: z
+          .number()
+          .int()
+          .min(1000)
+          .max(60 * 1000)
+          .default(15_000),
+        /** Response ceiling, in UTF-16 chars. An article is ~100 KB; 2 MB is already generous. */
+        maxHtmlChars: z
+          .number()
+          .int()
+          .min(1000)
+          .max(20 * 1024 * 1024)
+          .default(2 * 1024 * 1024),
+        /** Every hop is re-checked against the private-address rules, so this stays small. */
+        maxRedirects: z.number().int().min(0).max(10).default(3),
+        /**
+         * Below this the extraction failed at something — a paywall, a JS-only shell —
+         * and the source's own excerpt is the better input. Falling back is not an error.
+         */
+        minChars: z.number().int().min(0).max(10_000).default(200),
+        concurrency: z.number().int().min(1).max(16).default(4),
+      })
+      .default({}),
     defaults: llmDefaults,
     sections: z.record(ID, llmPolicyOverride).default({}),
     sources: z.record(ID, llmPolicyOverride).default({}),
@@ -304,8 +342,30 @@ export const recipientSchema = z.object({
   cc: TARGETS.optional(), // email only; ignored by every other channel
   sections: WILDCARD_LIST.default(['*']),
   format: z.enum(['markdown', 'html', 'text']).default('markdown'),
+  /**
+   * §5.2 — how much of an item this recipient gets. Left unset it follows the channel
+   * (`resolveDetail`), which is where the constraint actually lives: mail has no length
+   * ceiling, a push notification does.
+   */
+  detail: z.enum(['full', 'compact']).optional(),
   enabled: z.boolean().default(true),
 })
+
+/**
+ * Channels where the whole brief arrives as a phone notification. Their caps differ
+ * (WeCom 4096 bytes, Telegram 4096 chars, the rest tens of KB but truncated to the first
+ * message), but the reader's situation is the same: a glance, not a read.
+ */
+const PUSH_CHANNELS = new Set(['wecom', 'telegram', 'serverchan', 'pushplus', 'wxpusher'])
+
+/**
+ * §5.2 — "email is the read, push is the nudge" is a property of the channel, so an
+ * unset `detail` resolves from it. An explicit value always wins: someone who wants the
+ * bullets on their phone should get them by saying so, not by editing this set.
+ */
+export function resolveDetail(recipient: Recipient): 'full' | 'compact' {
+  return recipient.detail ?? (PUSH_CHANNELS.has(recipient.channel) ? 'compact' : 'full')
+}
 
 export type Schedule = z.infer<typeof scheduleSchema>
 export type Source = z.infer<typeof sourceSchema>
@@ -315,6 +375,7 @@ export type RenderConfig = z.infer<typeof renderSchema>
 export type DedupeConfig = z.infer<typeof dedupeSchema>
 export type LlmConfig = z.infer<typeof llmSchema>
 export type LlmPolicyOverride = z.infer<typeof llmPolicyOverride>
+export type ExtractConfig = LlmConfig['extract']
 export type LlmStyle = (typeof LLM_STYLES)[number]
 export type Recipient = z.infer<typeof recipientSchema>
 

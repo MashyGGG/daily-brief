@@ -1,6 +1,6 @@
 import type { Item } from '../config/schema'
 import { nonEmptySections, type Brief } from '../core/brief'
-import { itemBody } from './markdown'
+import { bodyFor, type RenderOptions } from './markdown'
 
 /**
  * §3.4 — mail clients strip <style> blocks and block remote assets, so everything is
@@ -38,20 +38,35 @@ function hostOf(url: string): string {
   }
 }
 
-function renderItem(item: Item, index: number): string {
+/**
+ * §5.3 — the mail is the surface with no length ceiling, so it is the one that has to
+ * deliver "read it and you're done": headline, the model's summary, its bullets, and the
+ * source's own excerpt kept underneath as provenance.
+ *
+ * The excerpt is only shown when a summary replaced it — otherwise it IS the body above,
+ * and printing it twice would be noise. `<details>` folds it away in clients that support
+ * the tag and degrades to a labelled grey line in the ones that don't (Gmail among them),
+ * which is why the label is inside the text rather than only in the disclosure triangle.
+ */
+function renderItem(item: Item, index: number, options: RenderOptions): string {
   const meta = [item.source, hostOf(item.url)]
   if (typeof item.score === 'number' && item.score > 0) meta.push(String(item.score))
-  const body = itemBody(item)
-  const excerpt = body
+  const body = bodyFor(item, options)
+  const summary = body
     ? `<div style="margin:6px 0 0;color:#57606a;font-size:13px;line-height:1.6">${escapeHtml(body)}</div>`
     : ''
-  // Mail has no length ceiling to respect, so this is the one pushed surface where the
-  // LLM's bullets actually reach the reader (§5.3 turns this into the full layout).
+  const full = options.detail !== 'compact'
   const takeaways =
-    item.takeaways && item.takeaways.length > 0
+    full && item.takeaways && item.takeaways.length > 0
       ? `<ul style="margin:6px 0 0;padding-left:18px;color:#57606a;font-size:13px;line-height:1.7">${item.takeaways
           .map((t) => `<li>${escapeHtml(t)}</li>`)
           .join('')}</ul>`
+      : ''
+  const origin =
+    full && item.summary && item.excerpt
+      ? `<details style="margin:6px 0 0"><summary style="color:#8c959f;font-size:12px;cursor:pointer">原文摘要</summary>` +
+        `<div style="margin:4px 0 0;color:#8c959f;font-size:12px;line-height:1.6">${escapeHtml(item.excerpt)}</div>` +
+        `</details>`
       : ''
   return [
     '<tr><td style="padding:12px 0;border-bottom:1px solid #eaeef2">',
@@ -60,17 +75,18 @@ function renderItem(item: Item, index: number): string {
     `<a href="${safeHref(item.url)}" style="color:#0969da;text-decoration:none;font-weight:600">${escapeHtml(item.title)}</a>`,
     '</div>',
     `<div style="margin:4px 0 0;color:#8c959f;font-size:12px">${escapeHtml(meta.filter(Boolean).join(' · '))}</div>`,
-    excerpt,
+    summary,
     takeaways,
+    origin,
     '</td></tr>',
   ].join('')
 }
 
-export function renderHtml(brief: Brief): string {
+export function renderHtml(brief: Brief, options: RenderOptions = {}): string {
   const sections = nonEmptySections(brief)
   const body = sections
     .map((section) => {
-      const items = section.items.map((item, i) => renderItem(item, i + 1)).join('')
+      const items = section.items.map((item, i) => renderItem(item, i + 1, options)).join('')
       return [
         `<h2 style="margin:28px 0 4px;font-size:16px;color:#1f2328;border-left:3px solid #0969da;padding-left:10px">${escapeHtml(section.title)}</h2>`,
         `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse">${items}</table>`,

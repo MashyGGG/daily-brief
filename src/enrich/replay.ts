@@ -3,6 +3,7 @@ import type { BriefSection } from '../core/brief'
 import { nodeFs, type FsLike } from '../archive/fs'
 import { readRecord } from '../archive/read'
 import { enrichSections, type EnrichStats } from './index'
+import type { ExtractFetch } from './extract'
 import type { LlmFetch } from './llm'
 
 /**
@@ -21,6 +22,12 @@ export interface ReplayOptions {
   date: string
   env: NodeJS.ProcessEnv
   fetchImpl: LlmFetch
+  /**
+   * Passed through so a replay exercises the same M2 input the morning run would use.
+   * Note the article is re-fetched, not archived (§11 "全文入库" — the public archive
+   * stores summaries, never someone else's article text).
+   */
+  extractFetchImpl?: ExtractFetch
   fs?: FsLike
   /** Print the source excerpt next to the new summary. */
   diff: boolean
@@ -86,6 +93,7 @@ export async function replayEnrich(options: ReplayOptions): Promise<ReplayResult
   const enriched = await enrichSections(sectionsFromItems(record.items, config), config.llm, {
     env: options.env,
     fetchImpl: options.fetchImpl,
+    extractFetchImpl: options.extractFetchImpl,
     sleep: options.sleep,
     disabled: options.noLlm,
     planOnly: options.llmDryRun,

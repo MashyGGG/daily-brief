@@ -9,6 +9,7 @@ import type { ChannelContext, HttpFetch } from './channels'
 import type { FetchLike } from './sources'
 import { replayEnrich } from './enrich/replay'
 import type { LlmFetch } from './enrich/llm'
+import type { ExtractFetch } from './enrich/extract'
 
 const sleep = (ms: number) => new Promise<void>((resolve) => setTimeout(resolve, ms))
 
@@ -36,6 +37,7 @@ async function main(argv: string[]): Promise<number> {
       date: args.reEnrich,
       env,
       fetchImpl: fetch as unknown as LlmFetch,
+      extractFetchImpl: fetch as unknown as ExtractFetch,
       diff: args.diff,
       noLlm: args.noLlm,
       llmDryRun: args.llmDryRun,
@@ -66,6 +68,7 @@ async function main(argv: string[]): Promise<number> {
     dryRun: args.dryRun,
     fetchImpl: fetch as unknown as FetchLike,
     llmFetchImpl: fetch as unknown as LlmFetch,
+    extractFetchImpl: fetch as unknown as ExtractFetch,
     noLlm: args.noLlm,
     llmDryRun: args.llmDryRun,
     channelContext,

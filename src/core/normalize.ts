@@ -56,6 +56,12 @@ export function normalizeTitle(title: string): string {
     .trim()
 }
 
+/**
+ * The named entities that actually appear in feed text and article bodies. Numeric forms
+ * are decoded arithmetically below; this table only has to cover the names. Kept to the
+ * ones a Latin or CJK news page really uses — a full HTML5 entity table is 2000 rows of
+ * dead weight for the handful that ever show up.
+ */
 const ENTITIES: Record<string, string> = {
   amp: '&',
   lt: '<',
@@ -64,18 +70,70 @@ const ENTITIES: Record<string, string> = {
   apos: "'",
   '#39': "'",
   nbsp: ' ',
+  // Punctuation — the group that survives into a summary and looks like a bug when it does.
+  mdash: '\u2014',
+  ndash: '\u2013',
+  hellip: '\u2026',
+  lsquo: '\u2018',
+  rsquo: '\u2019',
+  ldquo: '\u201c',
+  rdquo: '\u201d',
+  laquo: '\u00ab',
+  raquo: '\u00bb',
+  bull: '\u2022',
+  middot: '\u00b7',
+  prime: '\u2032',
+  Prime: '\u2033',
+  // Symbols that carry meaning in a technical or financial headline.
+  copy: '\u00a9',
+  reg: '\u00ae',
+  trade: '\u2122',
+  deg: '\u00b0',
+  times: '\u00d7',
+  divide: '\u00f7',
+  plusmn: '\u00b1',
+  micro: '\u00b5',
+  euro: '\u20ac',
+  pound: '\u00a3',
+  yen: '\u00a5',
+  cent: '\u00a2',
+  sect: '\u00a7',
+  para: '\u00b6',
+  dagger: '\u2020',
+  permil: '\u2030',
+  larr: '\u2190',
+  rarr: '\u2192',
+  harr: '\u2194',
+  ensp: ' ',
+  emsp: ' ',
+  thinsp: ' ',
+  shy: '',
+}
+
+/**
+ * Named and numeric entities -> characters. Split out of `stripHtml` because the
+ * full-text extractor (`enrich/extract.ts`) needs the decoding without the
+ * whitespace-collapsing: paragraph breaks are what make an article readable to the model.
+ */
+export function decodeEntities(input: string): string {
+  return input.replace(/&(#x?[0-9a-f]+|[a-z]+);/gi, (match, name: string) => {
+    // Exact case first: `&Prime;` and `&prime;` are different characters.
+    if (ENTITIES[name] !== undefined) return ENTITIES[name]
+    const key = name.toLowerCase()
+    if (ENTITIES[key] !== undefined) return ENTITIES[key]
+    try {
+      if (key.startsWith('#x')) return String.fromCodePoint(parseInt(key.slice(2), 16))
+      if (key.startsWith('#')) return String.fromCodePoint(parseInt(key.slice(1), 10))
+    } catch {
+      // An out-of-range code point (`&#1114112;`) is not worth failing a run over.
+      return match
+    }
+    return match
+  })
 }
 
 export function stripHtml(input: string): string {
-  return input
-    .replace(/<[^>]*>/g, ' ')
-    .replace(/&(#x?[0-9a-f]+|[a-z]+);/gi, (match, name: string) => {
-      const key = name.toLowerCase()
-      if (ENTITIES[key]) return ENTITIES[key]
-      if (key.startsWith('#x')) return String.fromCodePoint(parseInt(key.slice(2), 16))
-      if (key.startsWith('#')) return String.fromCodePoint(parseInt(key.slice(1), 10))
-      return match
-    })
+  return decodeEntities(input.replace(/<[^>]*>/g, ' '))
     .replace(/\s+/g, ' ')
     .trim()
 }

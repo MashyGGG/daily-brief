@@ -3,6 +3,7 @@ import { llmSchema, type LlmConfig } from '../src/config/schema'
 import type { BriefSection } from '../src/core/brief'
 import { enrichSections, envDisables } from '../src/enrich'
 import type { LlmFetch } from '../src/enrich/llm'
+import type { ExtractFetch } from '../src/enrich/extract'
 import { PROMPT_VERSION } from '../src/enrich/prompt'
 import { FENCE_CLOSE, FENCE_OPEN } from '../src/enrich/prompt'
 import { replayEnrich, sectionsFromItems } from '../src/enrich/replay'
@@ -361,5 +362,228 @@ describe('--re-enrich — replaying an archived issue (§9 M3, pulled forward)',
     )
     expect(grouped.map((s) => s.id)).toEqual(['tech'])
     expect(grouped[0]!.items).toHaveLength(2)
+  })
+})
+
+describe('§9 M2 — reading the article, not the excerpt', () => {
+  const ARTICLE_TEXT = '主库分区迁移期间出现写放大，故障持续四个小时。'.repeat(10)
+  const PAGE = `<html><body><article><p>${ARTICLE_TEXT}</p></article></body></html>`
+
+  /** A page fetcher that answers every URL with the same article. */
+  const serving = (body = PAGE, contentType = 'text/html'): ExtractFetch =>
+    vi.fn(() =>
+      Promise.resolve({
+        ok: true,
+        status: 200,
+        headers: { get: (n: string) => (n.toLowerCase() === 'content-type' ? contentType : null) },
+        text: () => Promise.resolve(body),
+      }),
+    )
+
+  const fullText = (overrides: Record<string, unknown> = {}) =>
+    llm({ sections: { tech: { summarize: true, fetchFullText: true } }, ...overrides })
+
+  it('sends the article and records that it did', async () => {
+    const pages = serving()
+    let sentBody = ''
+    const model: LlmFetch = (_url, init) => {
+      sentBody = init.body
+      return Promise.resolve({
+        ok: true,
+        status: 200,
+        text: () =>
+          Promise.resolve(
+            JSON.stringify({
+              choices: [
+                {
+                  message: {
+                    content: '{"summary":"GitHub 故障复盘","takeaways":["根因是写放大"]}',
+                  },
+                },
+              ],
+            }),
+          ),
+      })
+    }
+    const result = await enrichSections(sections(item({ excerpt: 'Comments' })), fullText(), {
+      ...ctx(model),
+      extractFetchImpl: pages,
+    })
+    expect(sentBody).toContain('写放大')
+    expect(result.stats.fullText).toBe(1)
+    expect(result.stats.fullTextFailed).toBe(0)
+    expect(result.sections[0]!.items[0]!.summaryMeta?.inputKind).toBe('fulltext')
+    expect(result.warnings).toEqual([])
+  })
+
+  it('leaves the source excerpt in place — the archive keeps both (§1.2)', async () => {
+    const result = await enrichSections(sections(item({ excerpt: 'Comments' })), fullText(), {
+      ...ctx(GOOD),
+      extractFetchImpl: serving(),
+    })
+    expect(result.sections[0]!.items[0]!.excerpt).toBe('Comments')
+    expect(result.sections[0]!.items[0]!.summary).toBe('编译器换了新的借用检查器')
+  })
+
+  it('§6.1 — a dead article falls back to the excerpt, and the brief still goes out', async () => {
+    const dead: ExtractFetch = () =>
+      Promise.resolve({
+        ok: false,
+        status: 403,
+        headers: { get: () => null },
+        text: () => Promise.resolve(''),
+      })
+    let sentBody = ''
+    const model: LlmFetch = (_url, init) => {
+      sentBody = init.body
+      return Promise.resolve({
+        ok: true,
+        status: 200,
+        text: () =>
+          Promise.resolve(
+            JSON.stringify({ choices: [{ message: { content: '{"summary":"还是有摘要"}' } }] }),
+          ),
+      })
+    }
+    const result = await enrichSections(sections(item({ excerpt: '源自带的摘要' })), fullText(), {
+      ...ctx(model),
+      extractFetchImpl: dead,
+    })
+    expect(sentBody).toContain('源自带的摘要')
+    expect(result.stats.fullText).toBe(0)
+    expect(result.stats.fullTextFailed).toBe(1)
+    expect(result.stats.succeeded).toBe(1)
+    expect(result.sections[0]!.items[0]!.summary).toBe('还是有摘要')
+    expect(result.sections[0]!.items[0]!.summaryMeta?.inputKind).toBe('excerpt')
+  })
+
+  it('stays quiet about one stubborn site — it would fail the same way every morning', async () => {
+    // 2 read, 1 refused: the run page says 2/3, the reader is not told about a JS-only
+    // page that has never been readable and never will be (M1 record #3).
+    const mixed = (() => {
+      let n = 0
+      const fetchImpl: ExtractFetch = () => {
+        n++
+        return Promise.resolve(
+          n === 1
+            ? {
+                ok: false,
+                status: 403,
+                headers: { get: () => null },
+                text: () => Promise.resolve(''),
+              }
+            : {
+                ok: true,
+                status: 200,
+                headers: { get: () => 'text/html' },
+                text: () => Promise.resolve(PAGE),
+              },
+        )
+      }
+      return fetchImpl
+    })()
+    const result = await enrichSections(
+      sections(
+        item({ id: 'a', excerpt: 'x' }),
+        item({ id: 'b', excerpt: 'y' }),
+        item({ id: 'c', excerpt: 'z' }),
+      ),
+      fullText(),
+      { ...ctx(GOOD), extractFetchImpl: mixed },
+    )
+    expect(result.stats.fullText).toBe(2)
+    expect(result.stats.fullTextFailed).toBe(1)
+    expect(result.warnings).toEqual([])
+  })
+
+  it('speaks up when most of them fail — that is the extractor, not one site', async () => {
+    const dead: ExtractFetch = () =>
+      Promise.resolve({
+        ok: false,
+        status: 403,
+        headers: { get: () => null },
+        text: () => Promise.resolve(''),
+      })
+    const result = await enrichSections(
+      sections(item({ id: 'a', excerpt: 'x' }), item({ id: 'b', excerpt: 'y' })),
+      fullText(),
+      { ...ctx(GOOD), extractFetchImpl: dead },
+    )
+    expect(result.warnings).toHaveLength(1)
+    expect(result.warnings[0]).toContain('extract: 2 item(s)')
+    expect(result.warnings[0]).toContain('HTTP 403')
+  })
+
+  it('a refused URL never reaches the network', async () => {
+    const pages = serving()
+    const result = await enrichSections(
+      sections(item({ url: 'http://169.254.169.254/latest/meta-data/', excerpt: 'x' })),
+      fullText(),
+      { ...ctx(GOOD), extractFetchImpl: pages },
+    )
+    expect(pages).not.toHaveBeenCalled()
+    expect(result.stats.fullTextFailed).toBe(1)
+    expect(result.warnings[0]).toContain('refused url')
+  })
+
+  it('degrades to the excerpt when no fetcher is wired up at all', async () => {
+    const result = await enrichSections(
+      sections(item({ excerpt: 'Comments' })),
+      fullText(),
+      ctx(GOOD),
+    )
+    expect(result.stats.fullTextFailed).toBe(1)
+    expect(result.stats.succeeded).toBe(1)
+    expect(result.sections[0]!.items[0]!.summaryMeta?.inputKind).toBe('excerpt')
+  })
+
+  it('--llm-dry-run fetches nothing — a dry run with an access-log footprint is not dry', async () => {
+    const pages = serving()
+    const model = vi.fn(GOOD)
+    const lines: string[] = []
+    const result = await enrichSections(sections(item({ excerpt: 'Comments' })), fullText(), {
+      ...ctx(model),
+      extractFetchImpl: pages,
+      planOnly: true,
+      log: (m) => lines.push(m),
+    })
+    expect(pages).not.toHaveBeenCalled()
+    expect(model).not.toHaveBeenCalled()
+    expect(result.stats.status).toBe('planned')
+    expect(lines.some((l) => l.includes('fulltext(planned)'))).toBe(true)
+  })
+
+  it('does not fetch for an item whose policy never asked for the article', async () => {
+    const pages = serving()
+    await enrichSections(sections(item({ excerpt: 'Comments' })), llm(), {
+      ...ctx(GOOD),
+      extractFetchImpl: pages,
+    })
+    expect(pages).not.toHaveBeenCalled()
+  })
+
+  it('cuts the article to the per-item budget before it is sent', async () => {
+    let sentBody = ''
+    const model: LlmFetch = (_url, init) => {
+      sentBody = init.body
+      return Promise.resolve({
+        ok: true,
+        status: 200,
+        text: () =>
+          Promise.resolve(
+            JSON.stringify({ choices: [{ message: { content: '{"summary":"x"}' } }] }),
+          ),
+      })
+    }
+    await enrichSections(
+      sections(item({ excerpt: 'Comments' })),
+      fullText({ budget: { maxInputCharsPerItem: 120, maxTotalInputChars: 80_000 } }),
+      { ...ctx(model), extractFetchImpl: serving() },
+    )
+    const sent = JSON.parse(sentBody) as { messages: { role: string; content: string }[] }
+    const user = sent.messages.find((m) => m.role === 'user')!.content
+    // The 460-character article arrived cut to 120, not whole.
+    expect(user).toContain('写放大')
+    expect([...user].length).toBeLessThan(300)
   })
 })

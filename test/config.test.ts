@@ -1,5 +1,10 @@
 import { describe, expect, it } from 'vitest'
-import { ConfigError, parseConfig, applyRecipientOverride } from '../src/config/schema'
+import {
+  ConfigError,
+  parseConfig,
+  applyRecipientOverride,
+  resolveDetail,
+} from '../src/config/schema'
 import { configYaml } from './helpers'
 
 const EMPTY_ENV: NodeJS.ProcessEnv = {}
@@ -521,6 +526,86 @@ describe('the llm block — §2.1', () => {
     expectIssue(
       () => parseConfig(withLlm('  provider: { temperature: 7 }\n'), EMPTY_ENV),
       'temperature',
+    )
+  })
+
+  it('§9 M2 — the extract block has working defaults nobody has to write', () => {
+    const cfg = parseConfig(configYaml(), EMPTY_ENV)
+    expect(cfg.llm.extract).toEqual({
+      timeoutMs: 15_000,
+      maxHtmlChars: 2 * 1024 * 1024,
+      maxRedirects: 3,
+      minChars: 200,
+      concurrency: 4,
+    })
+  })
+
+  it('the article timeout is separate from the model timeout (§8 row 8)', () => {
+    const cfg = parseConfig(
+      withLlm('  provider: { timeoutMs: 30000 }\n  extract: { timeoutMs: 5000 }\n'),
+      EMPTY_ENV,
+    )
+    expect(cfg.llm.provider.timeoutMs).toBe(30_000)
+    expect(cfg.llm.extract.timeoutMs).toBe(5000)
+  })
+
+  it('rejects an extract timeout long enough to eat the whole run', () => {
+    expectIssue(
+      () => parseConfig(withLlm('  extract: { timeoutMs: 600000 }\n'), EMPTY_ENV),
+      'timeoutMs',
+    )
+  })
+})
+
+describe('§5.2 — recipients[].detail and render.compactMaxChars', () => {
+  it('leaves detail unset so the channel decides (resolveDetail)', () => {
+    const cfg = parseConfig(configYaml(), EMPTY_ENV)
+    expect(cfg.recipients[0]!.detail).toBeUndefined()
+    expect(resolveDetail(cfg.recipients[0]!)).toBe('compact') // wecom
+  })
+
+  it('mail reads in full, every push channel gets the short copy', () => {
+    const base = { id: 'r', sections: ['*'], format: 'markdown' as const, enabled: true }
+    for (const channel of ['wecom', 'telegram', 'serverchan', 'pushplus', 'wxpusher'] as const) {
+      expect(resolveDetail({ ...base, channel }), channel).toBe('compact')
+    }
+    for (const channel of ['email', 'stdout'] as const) {
+      expect(resolveDetail({ ...base, channel }), channel).toBe('full')
+    }
+  })
+
+  it('an explicit detail overrides the channel', () => {
+    const cfg = parseConfig(
+      configYaml({
+        recipients:
+          'recipients:\n  - id: me-wecom\n    channel: wecom\n' +
+          '    secretRef: WECOM_WEBHOOK_ME\n    sections: [tech, news]\n    detail: full\n',
+      }),
+      EMPTY_ENV,
+    )
+    expect(resolveDetail(cfg.recipients[0]!)).toBe('full')
+  })
+
+  it('rejects a detail level that is not one of the two', () => {
+    expectIssue(
+      () =>
+        parseConfig(
+          configYaml({
+            recipients:
+              'recipients:\n  - id: me-wecom\n    channel: wecom\n' +
+              '    secretRef: W\n    detail: medium\n',
+          }),
+          EMPTY_ENV,
+        ),
+      'detail',
+    )
+  })
+
+  it('compactMaxChars defaults to one sentence and is bounded', () => {
+    expect(parseConfig(configYaml(), EMPTY_ENV).render.compactMaxChars).toBe(100)
+    expectIssue(
+      () => parseConfig(configYaml({ archive: 'render: { compactMaxChars: 5 }\n' }), EMPTY_ENV),
+      'compactMaxChars',
     )
   })
 })

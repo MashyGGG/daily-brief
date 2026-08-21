@@ -285,6 +285,11 @@ Every item can carry a model-written `summary` alongside the source's own `excer
 excerpt is never overwritten — the renderers print `summary ?? excerpt`, so with no model
 configured the brief looks exactly as it did before.
 
+Sections and sources that set `fetchFullText: true` have the linked article fetched and
+read before the model sees it, so the summary describes the piece rather than rephrasing
+the feed's teaser. A page that cannot be read — a paywall, a JS-only shell, a 403 — falls
+back to the excerpt and the item is summarized anyway; the run page reports `正文抓取 N/M`.
+
 Nothing happens until you set the key. `llm.enabled: true` is already in the config, and
 with `LLM_API_KEY` unset the stage skips itself and leaves one line on the Actions run page.
 Add the secret and it starts working, no config edit:
@@ -349,6 +354,29 @@ Two things are enforced rather than requested, because the output is committed t
 repo and mailed without review: the feed text is fenced and declared untrusted in the prompt,
 and every answer is stripped of links, HTML, control and bidi characters before it is used.
 Links in the brief come from `item.url`, never from the model.
+
+### Give the mail more than the phone gets
+
+Once the summaries are real, one document no longer suits both surfaces: mail has no length
+ceiling, WeCom caps a message at 4096 **bytes** and a Chinese character costs three of them.
+`recipients[].detail` splits them.
+
+```yaml
+recipients:
+  - id: me-mail
+    channel: email
+    detail: full # headline + summary + bullets + the source excerpt, folded away
+  - id: me-wecom
+    channel: wecom
+    detail: compact # headline + one sentence; the detail is what the mail is for
+```
+
+Leave it out and it follows the channel: mail and stdout read in full, every push channel
+(WeCom, Telegram, ServerChan, PushPlus, WxPusher) gets the short copy — a push is a nudge,
+not the read. An explicit value always wins. How short "short" is comes from
+`render.compactMaxChars` (default 100), spent down to the last whole sentence that fits, the
+same way excerpts are. Measured on a real 22-item issue with full-length summaries on every
+entry: `full` is 14.3 KB (4 WeCom messages), `compact` is 7.6 KB (2).
 
 ### Iterate on the prompt without waiting for tomorrow
 
@@ -426,10 +454,10 @@ loadConfig ─┬─ readArchive(last 14 days) ───────────
             ├─ fetch(sources) concurrently → normalize ┴─→ dedupe
             │     └─ a source that fails records a warning; the brief still goes out
             ├─ filter (keywords / score floor / time window) → rank → truncate per section
-            ├─ enrich (LLM summary, opt-in per section/source)  ← AFTER selection
+            ├─ enrich (fetch article → LLM summary, opt-in per section/source) ← AFTER selection
             │     └─ any failure degrades that item to its excerpt; exitCode stays 0
             ├─ writeArchive (md + json + rebuilt index.md)      ← BEFORE delivery
-            ├─ render once per (sections, format) signature
+            ├─ render once per (sections, format, detail) signature
             ├─ deliver concurrently, each recipient in its own try/catch
             └─ commit archive, write $GITHUB_STEP_SUMMARY
 ```
