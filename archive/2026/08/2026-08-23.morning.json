@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-23",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-08-22T23:33:39.028Z",
+  "configHash": "a7c0b68a9b41",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 18,
+  "items": [
+    {
+      "id": "6aa2d9228d55985b",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "source": "hn-front",
+      "publishedAt": "2026-08-22T14:54:07.000Z",
+      "score": 281,
+      "author": "jemoka",
+      "excerpt": "281 points · 92 comments · https://news.ycombinator.com/item?id=49400408",
+      "section": "tech",
+      "rankScore": 0.995391
+    },
+    {
+      "id": "2c6c459fb8c4726b",
+      "title": "The immortal 1984 Macintosh (restoration diary)",
+      "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+      "source": "lobsters",
+      "publishedAt": "2026-08-22T23:17:44.000Z",
+      "author": "thebyteattic.com via ggpsv",
+      "section": "tech",
+      "rankScore": 0.626021
+    },
+    {
+      "id": "7f312b1865ef3b74",
+      "title": "EP223: Ollama vs vLLM vs SGLang",
+      "url": "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
+      "source": "bytebytego",
+      "publishedAt": "2026-08-22T15:31:34.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "To use open-weight models on your machine, you have three main options: Ollama, vLLM, and SGLang. But each engine handles requests differently.",
+      "section": "tech",
+      "rankScore": 0.622697
+    },
+    {
+      "id": "0755b034570e2d99",
+      "title": "AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks",
+      "url": "https://www.infoq.com/news/2026/08/aws-bench-agent-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-22T08:00:00.000Z",
+      "author": "Gianmarco Nalin",
+      "excerpt": "AWS has released aws-bench, an open-source benchmark for evaluating AI agents on real AWS tasks such as misconfigurations and infrastructure provisioning. Unlike traditional benchmarks, it uses real resources in disposable AWS accounts, scoring agent performance through automated verifiers.",
+      "section": "tech",
+      "rankScore": 0.440653
+    },
+    {
+      "id": "96305b77bceed765",
+      "title": "Doodle generative compositions in your browser with Musical Spirograph",
+      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+      "source": "verge",
+      "publishedAt": "2026-08-22T17:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept.",
+      "section": "tech",
+      "rankScore": 0.413457
+    },
+    {
+      "id": "0d26fae5ddc1a7bd",
+      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+      "source": "ars-technica",
+      "publishedAt": "2026-08-22T11:08:53.000Z",
+      "author": "Mariah Meek and Travis Belote, The Conversation",
+      "excerpt": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
+      "section": "tech",
+      "rankScore": 0.345184
+    },
+    {
+      "id": "f3358fcc35974da2",
+      "title": "llm 0.33",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-22T17:01:16.000Z",
+      "excerpt": "Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix.",
+      "section": "ai",
+      "rankScore": 0.709205
+    },
+    {
+      "id": "8fd87790278f0593",
+      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
+      "url": "https://www.latent.space/p/simile",
+      "source": "latent-space",
+      "publishedAt": "2026-08-21T23:37:38.000Z",
+      "excerpt": "Simile’s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it’s gone from fun exploration to very serious business.",
+      "section": "ai",
+      "rankScore": 0.331217
+    },
+    {
+      "id": "728cce482217c5cb",
+      "title": "ICML 2026 | 美团技术团队学术论文精选",
+      "url": "https://tech.meituan.com/2026/06/29/ICML-2026.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-22T23:33:39.028Z",
+      "excerpt": "ICML是机器学习领域最具影响力的国际顶级学术会议之一。大会旨在探讨机器学习未来发展所面临的关键挑战与核心问题，并通过征集和评估具有重要理论价值和实际影响的前沿研究成果，推动领域发展并引领未来研究方向。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "0ad1df62d425da07",
+      "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
+      "url": "https://www.solidot.org/story?sid=85165",
+      "source": "solidot",
+      "publishedAt": "2026-08-22T15:59:22.000Z",
+      "excerpt": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。",
+      "section": "cn-tech",
+      "rankScore": 0.631191
+    },
+    {
+      "id": "c2b91822b7488227",
+      "title": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+      "url": "https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-22T17:17:00.000Z",
+      "author": "作者：Renato Losio",
+      "section": "cn-tech",
+      "rankScore": 0.595375
+    },
+    {
+      "id": "a3fd8544b12f48d1",
+      "title": "开源项目维护者的自救：用 TRAE Work 造了个 Issue 集结号",
+      "url": "https://juejin.cn/post/7676620373445623860",
+      "source": "juejin",
+      "publishedAt": "2026-08-22T16:31:43.000Z",
+      "author": "有来技术",
+      "excerpt": "一个开源维护者的自救：TRAE Work 一句提示词造出「Issue 集结号」，三平台 Issue 聚合一屏、自动分诊排优先级，已关闭的还能挖成 FAQ。纯前端零依赖，换仓库名就能用。",
+      "section": "cn-tech",
+      "rankScore": 0.407957
+    },
+    {
+      "id": "b11489e9350d9919",
+      "title": "怎样活得像一个数学家",
+      "url": "https://www.36kr.com/p/3950346470725256",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-22T08:39:54.000Z",
+      "author": "字母榜",
+      "excerpt": "刚开始写稿子那几年，我有个不大体面的习惯：喜欢把桌子弄乱。 桌上如果只有一台电脑和一只水杯，我总觉得自己像个会计。于是开工以前，得先摊开三四本书，把几张写了一半的稿纸压在键盘旁边，再留下一只喝空的咖啡杯。坐进这堆东西里，写作便不像一份工作，更像一种命运。 这个办法没有使文章变好。桌子倒一天比一天像作家的桌子，后来还招来了蟑螂。 那是我很晚才明白的一个道理：一个人不知道怎样成为某种人时，最先学会的往往是某种刻板印象。 这种办法很常见。医生的字最好潦草一点，厨师的腰围不宜太小，诗人最好经济状况欠佳，程序员要是穿得太讲究，也容易让人怀疑技术水平。",
+      "section": "cn-tech",
+      "rankScore": 0.406562
+    },
+    {
+      "id": "24ab8bca00e1c267",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-22T20:02:46.000Z",
+      "excerpt": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "section": "news",
+      "rankScore": 0.705563
+    },
+    {
+      "id": "52c2c2d44b1f31ff",
+      "title": "Australia news live: Victorian Liberals announce plan to for new appeals court to ensure tougher sentences",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-22T23:26:46.000Z",
+      "author": "Stephanie Convery",
+      "excerpt": "New court of criminal appeal would give effect to new bail and sentencing laws, opposition leader says. Follow live The Victorian Liberals have announced that, if elected, they will split the court of appeal into two and appoint a new judges to set precedent they say will match “community…",
+      "section": "news",
+      "rankScore": 0.628279
+    },
+    {
+      "id": "5f76c048c6145190",
+      "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
+      "url": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-22T21:55:06.000Z",
+      "excerpt": "Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham's opener.",
+      "section": "news",
+      "rankScore": 0.605362
+    },
+    {
+      "id": "191e23ada77eb81f",
+      "title": "部分美国人工智能公司下调大模型使用价格 - 同花顺财经",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XcTdsQkhlQVQyQkY4Mjlva3lkT3dZdlJlQWFRUUkwMnNTSm5sS3dqTFpVXzMwU3g1UXN4R3FzMFJwYmtQUmdSQXVTSXN0ZEx0anNVSkhseXBGOWpKUDFsMk53?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-22T23:26:25.000Z",
+      "excerpt": "部分美国人工智能公司下调大模型使用价格 同花顺财经 视频丨部分美国人工智能公司下调大模型使用价格|GPT-5.6 Sol|Gemini 3|OpenAI|谷歌|Gemini_手机新浪网 新浪财经 推动中国AI实现惊人飞跃的幕后智囊 华尔街日报中文网 焦点访谈｜开源共享赋能创新中国AI智惠世界- 中国日报网 China Daily 中美“AI 军备竞赛”究竟在比什么？专家预测三种结局 BBC",
+      "section": "cn-news",
+      "rankScore": 0.558392
+    },
+    {
+      "id": "5fa11d514bcea044",
+      "title": "女子连续3年陪丈夫祭奠亡妻：学会尊重与接纳，他们有20多年感情；她曾劝慰丈夫：“我会理解你和前妻的情感，也会认同你孝顺前妻的父母”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VWVgwOVhyZHJBNE1seE1pZXZ1UGZ6bTZGR05pUVgzQTlTRHJiUklVeF9GY05CRDVmYkxiYzlHbDNZMkhWT1d0ZFRyVzFmV1paSzN2eTNnZ3diSnQ0YlE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-22T16:11:00.000Z",
+      "excerpt": "女子连续3年陪丈夫祭奠亡妻：学会尊重与接纳，他们有20多年感情；她曾劝慰丈夫：“我会理解你和前妻的情感，也会认同你孝顺前妻的父母”",
+      "section": "cn-news",
+      "rankScore": 0.519337
+    }
+  ],
+  "warnings": [
+    "source \"smashing\" failed: AbortError: This operation was aborted"
+  ]
+}
