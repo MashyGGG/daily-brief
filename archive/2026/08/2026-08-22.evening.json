@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-22",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-08-22T12:58:43.821Z",
+  "configHash": "a7c0b68a9b41",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "8eaca747f493fea6",
+      "title": "Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace",
+      "url": "https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-22T11:00:00.000Z",
+      "author": "Bruna Pereira",
+      "excerpt": "Bruna Pereira explains how DoorDash built a content-agnostic AI moderation platform. She covers replacing costly LLM-only pipelines with a hybrid pattern: using fast internal models to filter obvious cases, LLM multi-axis scoring for nuanced decisions, and no-code workflows with backtesting.",
+      "section": "tech",
+      "rankScore": 0.639113
+    },
+    {
+      "id": "0461927a49423b73",
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-22T01:06:17.000Z",
+      "score": 493,
+      "author": "Jach",
+      "excerpt": "493 points · 340 comments · https://news.ycombinator.com/item?id=49395628",
+      "section": "tech",
+      "rankScore": 0.630035
+    },
+    {
+      "id": "b77fb146cc3fc6c3",
+      "title": "Espressif releases Linux BSP for ESP32-S31 RISC-V boards",
+      "url": "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-22T12:50:41.000Z",
+      "author": "cnx-software.com via raymii",
+      "section": "tech",
+      "rankScore": 0.626286
+    },
+    {
+      "id": "34f52137fe8d6c54",
+      "title": "You should never be angry at work",
+      "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-22T12:41:39.000Z",
+      "author": "seangoedecke.com via MooreMachine",
+      "section": "tech",
+      "rankScore": 0.622117
+    },
+    {
+      "id": "a26440bd42c9142b",
+      "title": "Two great new repairable gadgets",
+      "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+      "source": "verge",
+      "publishedAt": "2026-08-22T12:00:00.000Z",
+      "author": "Jay Peters",
+      "excerpt": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.)",
+      "section": "tech",
+      "rankScore": 0.468917
+    },
+    {
+      "id": "3858385f32d87ce7",
+      "title": "Putting mice into hibernation causes a major loss of synapses",
+      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+      "source": "ars-technica",
+      "publishedAt": "2026-08-22T11:22:32.000Z",
+      "author": "Jacek Krywko",
+      "excerpt": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+      "section": "tech",
+      "rankScore": 0.455468
+    },
+    {
+      "id": "11b00fc3fca15ad8",
+      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "source": "latent-space",
+      "publishedAt": "2026-08-22T07:36:00.000Z",
+      "excerpt": "Did you think RSI stopped at model training?",
+      "section": "ai",
+      "rankScore": 0.587947
+    },
+    {
+      "id": "5a12d0bb8db7026c",
+      "title": "直播回放·含 ACL'26 杰出论文 | 美团 AI 顶会论文 32 篇精讲",
+      "url": "https://tech.meituan.com/2026/07/11/2026-meituan-32-papers.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-22T12:58:43.821Z",
+      "excerpt": "如果你正在关注 AI 前沿，这篇内容值得收藏。2026 年，美团技术团队数十篇论文被 ACL、SIGIR、ICML、KDD 等顶会收录。我们精选 32 篇，进行了 5 大专场直播。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "643dcc235967a604",
+      "title": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux",
+      "url": "https://www.solidot.org/story?sid=85161",
+      "source": "solidot",
+      "publishedAt": "2026-08-22T11:00:50.000Z",
+      "excerpt": "彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。微软回应彭博社的询问时表示它没有发现影响该 Windows 系统的安全事件。Windows 10 中国政府版由微软和中国电子科技集团的合资企业神州网信开发。神州网信原计划到 2027 年 2 月停止支持该版本，但其生命结束时间被提前到今年下半年。中国政府机构采用的国产 Linux 发行版可能包括了麒麟操作系统（Kylin OS)和统信 UOS。统信 UOS 桌面版源自 Deepin 和 Debian Linux。",
+      "section": "cn-tech",
+      "rankScore": 0.703494
+    },
+    {
+      "id": "ebafbd410f48959e",
+      "title": "npm 终于动手了：默认封杀 postinstall 脚本",
+      "url": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-22T11:05:00.000Z",
+      "author": "作者：Daniel Curtis",
+      "section": "cn-tech",
+      "rankScore": 0.641677
+    },
+    {
+      "id": "9dcb538e1a1ce505",
+      "title": "2026科学智能大会圆满闭幕，近50位院士凝聚共识推进AI4S赋能科学研究",
+      "url": "https://www.oschina.net/news/502074",
+      "source": "oschina",
+      "publishedAt": "2026-08-22T11:23:02.000Z",
+      "excerpt": "2026科学智能大会成功举办 ——以“智能驱动”重塑科研范式，推进人工智能赋能科学研究 8月21-22日，2026科学智能大会在北京成功举办。作为我国人工智能赋能科学研究（AI for Science，简称AI4S）领域最高规格的学术盛会，本次大会由“学术科协”科学智能专家委员会提供学术指导，以“人工智能变革科研范式”为主题，通过...",
+      "section": "cn-tech",
+      "rankScore": 0.585832
+    },
+    {
+      "id": "c146f8447695e8c1",
+      "title": "2万亿的赌局，Anthropic接得住么？",
+      "url": "https://www.36kr.com/p/3950321109499268",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-22T08:48:36.000Z",
+      "author": "格隆汇",
+      "excerpt": "今年6月，SpaceX以1.77万亿美元IPO估值创下历史纪录。不到四个月，这项纪录就可能被Anthropic打破。 金融时报报道，Anthropic最快10月上市，目标估值最高2万亿美元。公司已在6月秘密递交美国IPO申请，具体时间与定价仍未最终确定。 但过去一周，围绕这家AI明星公司的争议突然升温。 01 650亿的ARR， 为何引发全球科技股调整？ 8月18日，Bloomberg披露7月Anthropic的ARR为650亿美元。绝对增速依然亮眼——较5月的470亿美元增长约38%，较2025年底的90亿美元翻了七倍多。",
+      "section": "cn-tech",
+      "rankScore": 0.514555
+    },
+    {
+      "id": "2325ec5cf0a5228a",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-22T12:36:28.000Z",
+      "excerpt": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "section": "news",
+      "rankScore": 0.757441
+    },
+    {
+      "id": "84f497921e32f941",
+      "title": "Man leaves young son on Mount Fuji before ascending Japan’s highest peak",
+      "url": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-22T12:25:16.000Z",
+      "author": "Donna Ferguson",
+      "excerpt": "Boy, seven, had complained of feeling tired so father left him with snacks and a soft drink and continued his climb A man who abandoned his seven-year-old son on Mount Fuji in Japan after the boy complained of feeling tired while on a family hike has been reprimanded by local police.",
+      "section": "news",
+      "rankScore": 0.614555
+    },
+    {
+      "id": "bdb261193cef0dd5",
+      "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+      "url": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-22T12:09:09.000Z",
+      "excerpt": "Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.",
+      "section": "news",
+      "rankScore": 0.607117
+    },
+    {
+      "id": "cabda1e4e37a144a",
+      "title": "2026年度电影总票房超270亿！暑期档成绩亮眼刷新两项纪录 - 青岛日报",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBteHJzWWZ4aElkeUhTRFV2THljVGRoaHdzRFJrZ2dNOUFranBDU2tSUUlJSjloX2Jpc0IwUF9tck1iRkIzTWlvNTNuMmFUV2JPVDJlR0RrQzQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-22T12:47:55.000Z",
+      "excerpt": "2026年度电影总票房超270亿！暑期档成绩亮眼刷新两项纪录 青岛日报 在Google 新闻上查看更多头条新闻和观点",
+      "section": "cn-news",
+      "rankScore": 0.555564
+    },
+    {
+      "id": "543140054966752d",
+      "title": "签署海洋安全合作备忘录、举行联合军演……日印为何强化防务合作",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTdlRMd3R5WVhTaXRJYnMwTUVBRXNzTF9SUWt0VXdDV2tfLVhSR29SN3UzUlFaaXNCTEtDUkZ6SVhYb2pGWEhTcGVyWkZfUQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-22T09:20:00.000Z",
+      "excerpt": "签署海洋安全合作备忘录、举行联合军演……日印为何强化防务合作",
+      "section": "cn-news",
+      "rankScore": 0.529048
+    }
+  ],
+  "warnings": [
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
