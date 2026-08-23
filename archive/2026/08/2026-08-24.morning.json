@@ -1,0 +1,197 @@
+{
+  "date": "2026-08-24",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-08-23T23:34:03.283Z",
+  "configHash": "a7c0b68a9b41",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "08585002454774c3",
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-23T10:02:51.000Z",
+      "score": 159,
+      "author": "raybb",
+      "excerpt": "159 points · 80 comments · https://news.ycombinator.com/item?id=49407507",
+      "section": "tech",
+      "rankScore": 0.909565
+    },
+    {
+      "id": "709e999ecf240a9d",
+      "title": "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-23T22:50:00.000Z",
+      "author": "Bruno Couriol",
+      "excerpt": "Cloudflare recently open-sourced Cloudflare OS. It allows enterprise teams to output work artifacts grounded in enterprise knowledge, know-how, and provisioned connectors, automate repetitive workflows with optimized token cost (with AI assistance only where needed), and build personal, shareable,…",
+      "section": "tech",
+      "rankScore": 0.687763
+    },
+    {
+      "id": "dbdd7abbe8df8825",
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-23T05:51:01.000Z",
+      "score": 143,
+      "author": "userbinator",
+      "excerpt": "143 points · 57 comments · https://news.ycombinator.com/item?id=49406333",
+      "section": "tech",
+      "rankScore": 0.623625
+    },
+    {
+      "id": "dcf71d6b7d73baf1",
+      "title": "My DIY DEF CON Choker Has a Screen On It",
+      "url": "https://www.scd31.com/posts/defcon-choker",
+      "source": "lobsters",
+      "publishedAt": "2026-08-23T21:37:23.000Z",
+      "author": "scd31.com via ThinkChaos",
+      "section": "tech",
+      "rankScore": 0.600832
+    },
+    {
+      "id": "a07c055488b19eef",
+      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "source": "verge",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We […]",
+      "section": "tech",
+      "rankScore": 0.390045
+    },
+    {
+      "id": "0f4276a7694e777b",
+      "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+      "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+      "source": "ars-technica",
+      "publishedAt": "2026-08-23T14:30:16.000Z",
+      "author": "Eric Berger",
+      "excerpt": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+      "section": "tech",
+      "rankScore": 0.384263
+    },
+    {
+      "id": "3de1e2c2d2f9eb39",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-23T20:24:52.000Z",
+      "excerpt": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here .…",
+      "section": "ai",
+      "rankScore": 0.776937
+    },
+    {
+      "id": "d0a2feb9c81480ce",
+      "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+      "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-23T23:34:03.283Z",
+      "excerpt": "搭载美团 LongCat 2.0 的全场景 AI Agent 平台 CatPaw 正式上线，我们将模型能力从“跑得动”推向“用得好”。CatPaw 提供开箱即用的 AI 智能工作台与企业级 Agent 开发托管能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "04fa8eb6053f6791",
+      "title": "机器人短跑超越人类，但刹住是问题",
+      "url": "https://www.solidot.org/story?sid=85169",
+      "source": "solidot",
+      "publishedAt": "2026-08-23T15:48:05.000Z",
+      "excerpt": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去年百米短跑仍然耗时 20 秒以上的机器人，可谓进步巨大。另一台机器人则在 400 米短跑中实现了 39.7 秒的成绩，超越了南非运动员 Wayde van Niekerk 43.03 秒的世界纪录。不过，在冲过终点线后，这些机器人的制动能力依然存在很大缺陷。",
+      "section": "cn-tech",
+      "rankScore": 0.62762
+    },
+    {
+      "id": "ccd92457e11f327e",
+      "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-23T17:00:00.000Z",
+      "author": "作者：Steef-Jan Wiggers",
+      "section": "cn-tech",
+      "rankScore": 0.59054
+    },
+    {
+      "id": "eb28e38f144027a4",
+      "title": "神秘「牛来」大模型刷屏，限时免费",
+      "url": "https://www.36kr.com/p/3950567958199687",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-23T02:03:57.000Z",
+      "author": "机器之心",
+      "excerpt": "大模型圈流行「挂马甲」测试。 近日，一款名为 Ox Alpha 的匿名模型突然出现在 OpenRouter。Ox 本身就是「牛」的意思，国内网友很快给它起了一个更接地气的名字： 「牛来」大模型。 根据 OpenRouter 披露的信息，Ox Alpha 拥有 100 万 token 上下文，支持文本、图片和视频输入，可以调用工具，目前完全免费。 上线后不久，开发者就把它接入编码 Agent，扔进真实代码仓库进行测试。 初步测试结果显示，这款来历不明的「牛来」大模型，能力已逼近当前顶级代码模型。 与此同时，有网友爆料，一款名为 korrine 的匿名模型正在 Code Arena 上进行测试。",
+      "section": "cn-tech",
+      "rankScore": 0.307474
+    },
+    {
+      "id": "4670147d7fe4ab7d",
+      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+      "url": "https://sspai.com/post/113002",
+      "source": "sspai",
+      "publishedAt": "2026-08-23T03:00:00.000Z",
+      "author": "isayyeah",
+      "excerpt": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。",
+      "section": "cn-tech",
+      "rankScore": 0.285766
+    },
+    {
+      "id": "2f8088200fbc56e0",
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-23T20:19:36.000Z",
+      "excerpt": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "section": "news",
+      "rankScore": 0.710583
+    },
+    {
+      "id": "393e66d2e7fa2e8f",
+      "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-23T23:25:29.000Z",
+      "author": "Nick Visser",
+      "excerpt": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Joyce steps in on One Nation’s migration target Barnaby Joyce defended a fellow One Nation MP over comments suggesting the minor party’s migration numbers would not be much different to Labor’s, AAP reports.",
+      "section": "news",
+      "rankScore": 0.627857
+    },
+    {
+      "id": "282c882ff64c2c91",
+      "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
+      "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-23T21:45:05.000Z",
+      "excerpt": "Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.",
+      "section": "news",
+      "rankScore": 0.602757
+    },
+    {
+      "id": "8e43a1fe5af16a5b",
+      "title": "泰國南部一夜50多起縱火 軍方稱為有組織搗亂",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-23T13:56:41.000Z",
+      "excerpt": "軍方表示，這些襲擊「意圖製造動盪」，目前沒有任何組織承認責任。",
+      "section": "cn-news",
+      "rankScore": 0.593581
+    },
+    {
+      "id": "15b9e9ce4328f5b9",
+      "title": "中农批宿迁市场：自河北康保运来大白菜检测结果合格 举报人未提出异议 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oTEU0Vy1KeF9KM0JDR2NDYkFEX2dZTHJGN0d1RTJwVUYwNU1IUGtTV1JnYTBXeW1UcFNPcVJpYVJRX0I5ekl3VnQ4dEJnY3FSQkY2bDhrblhxbXVfWEx2NDdVb1RFZw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-23T23:30:22.000Z",
+      "excerpt": "中农批宿迁市场：自河北康保运来大白菜检测结果合格 举报人未提出异议 东方财富 针对“甲醛白菜”，三部门出手 观察者 国务院食安办等多部门指导地方严查甲醛白菜 新浪财经 手机报·早报丨多家银行更新个人消费贷贴息细则；河北康保回应“白菜收购环节蘸取甲醛溶液” 搜狐网 “甲醛白菜”凸显食品安全全链条监管中的短板 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.55918
+    }
+  ],
+  "warnings": [
+    "source \"smashing\" failed: TypeError: terminated",
+    "source \"react-blog\" looks stale: newest item is 181 days old (budget 180d)",
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
