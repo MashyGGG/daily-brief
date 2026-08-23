@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-23",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-08-23T12:59:51.548Z",
+  "configHash": "a7c0b68a9b41",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "6a5aeba694cbacc7",
+      "title": "To become a better writer, read as much as you can",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-23T03:32:25.000Z",
+      "score": 243,
+      "author": "andsoitis",
+      "excerpt": "243 points · 159 comments · https://news.ycombinator.com/item?id=49405870",
+      "section": "tech",
+      "rankScore": 0.843705
+    },
+    {
+      "id": "5d93f174c5268462",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-23T03:13:16.000Z",
+      "score": 142,
+      "author": "boilerupnc",
+      "excerpt": "142 points · 49 comments · https://news.ycombinator.com/item?id=49405816",
+      "section": "tech",
+      "rankScore": 0.674938
+    },
+    {
+      "id": "06179ab0a4082dd6",
+      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+      "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-23T06:41:51.000Z",
+      "score": 137,
+      "author": "taubek",
+      "excerpt": "137 points · 103 comments · https://news.ycombinator.com/item?id=49406539",
+      "section": "tech",
+      "rankScore": 0.657994
+    },
+    {
+      "id": "1b3faf180c6c56d3",
+      "title": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-23T12:15:54.000Z",
+      "author": "shkspr.mobi via rrampage",
+      "section": "tech",
+      "rankScore": 0.609711
+    },
+    {
+      "id": "0d646555ee454118",
+      "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
+      "url": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
+      "source": "lobsters",
+      "publishedAt": "2026-08-23T12:08:25.000Z",
+      "author": "by oceanhaiyang",
+      "excerpt": "Alternate title:How is there still no decent Linux replacement for Adobe Acrobat (pdf viewing and editing)? There are plenty of viewing programs, some page editing programs, but simply nothing that also allows actual image editing, outline creation, etc. PDF4QT does some of these but is not ideal.",
+      "section": "tech",
+      "rankScore": 0.606257
+    },
+    {
+      "id": "009f8d1dee94e869",
+      "title": "Grand Theft Auto VI exists in its own universe",
+      "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "source": "verge",
+      "publishedAt": "2026-08-23T12:00:00.000Z",
+      "author": "Andrew Webster",
+      "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.",
+      "section": "tech",
+      "rankScore": 0.468512
+    },
+    {
+      "id": "bd94f97e6b70b1ef",
+      "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-23T12:59:51.548Z",
+      "excerpt": "美团 LongCat 团队构建了 MineExplorer —— 首个在开放世界中做到分钟级长程任务的评测基准，系统性地评测多模态大模型在需要长程规划、并包含隐藏前置条件的任务中的真实能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "e7b4f01e2d8e0bba",
+      "title": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了",
+      "url": "https://www.solidot.org/story?sid=85166",
+      "source": "solidot",
+      "publishedAt": "2026-08-23T11:04:24.000Z",
+      "excerpt": "Nicole Suszek 最后一次收到哥哥 Sylwester 的电话语音留言是在 2022 年，在留言中 Sylwester 急迫的请求她给他寄去比特币，否则以后就永远见不到面了。Sylwester 从此杳无音信，家人认为他已经遇害。Sylwester 是东欧和中欧最大加密货币交易所 Zondacrypto 的创始人，他在 2014 年创办了 Zondacrypto 的前身 BitBay。接替 Sylwester 担任 Zondacrypto CEO 的波兰律师 Przemyslaw Kral 在今年四月也失踪了，这一事件让 Sylwester 案再次浮出水面。",
+      "section": "cn-tech",
+      "rankScore": 0.704869
+    },
+    {
+      "id": "a67b02df3eeb052c",
+      "title": "PostgreSQL 太难懂？有人把它做成了城市模拟器",
+      "url": "https://www.infoq.cn/article/umVdo2GaEyONQLWNmPZ9?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-23T11:25:00.000Z",
+      "author": "作者：Olimpiu Pop",
+      "section": "cn-tech",
+      "rankScore": 0.651354
+    },
+    {
+      "id": "47d68b27a75382df",
+      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+      "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+      "source": "sspai",
+      "publishedAt": "2026-08-23T07:25:29.000Z",
+      "author": "neyham",
+      "excerpt": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "section": "cn-tech",
+      "rankScore": 0.42282
+    },
+    {
+      "id": "cffc7d2c3b16dbc9",
+      "title": "AI 即将接管流量，而广告正在疯狂「末日反扑」",
+      "url": "https://www.36kr.com/p/3951561851534723",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-23T04:00:15.000Z",
+      "author": "爱范儿",
+      "excerpt": "夜色渐浓，五颜六色的灯笼营造出喜庆的氛围。一位老先生举起手机，想要拍下眼前跃动的美景。 快门还没响起来，屏幕突然不听使唤了。 他慌乱地在屏幕上各处点击，试图关掉这些突如其来的干扰。然而那些明明写着「关闭」「X」的按钮，却从未将他带向出口，而是进入了新的陷阱。错误的点击制造了一连串剧烈的连锁反应，屏幕疯狂的闪动着，画面甚至还没来得及看清就再次跳转。 弹窗不断地出现，蹦出了穿着暴露的女生，又跳转到奇怪的游戏、几毛钱的红包、数不清的「待完成任务」，还有应用商店的下载页面。 不知是周遭五颜六色的灯笼，还是手机屏幕上不断闪出的广告，照亮了老先生困惑的脸。他只是想拍一张照片而已。",
+      "section": "cn-tech",
+      "rankScore": 0.38095
+    },
+    {
+      "id": "7974844619e035af",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-23T12:56:43.000Z",
+      "excerpt": "The former defence minister has also called for wartime elections to be held in Ukraine.",
+      "section": "news",
+      "rankScore": 0.768227
+    },
+    {
+      "id": "b9a16e9ca93eaf88",
+      "title": "DR Congo miners risk Ebola to make a living",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-23T12:13:20.000Z",
+      "excerpt": "DR Congo miners risk Ebola to make a living",
+      "section": "news",
+      "rankScore": 0.608527
+    },
+    {
+      "id": "657115bc7509783c",
+      "title": "Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-23T12:00:32.000Z",
+      "author": "Victoria Bekiempis in New York",
+      "excerpt": "Defense files motion to dismiss state case after federal guilty plea but prosecutors say they are prepared to litigate After Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian Thompson, most experts believe that the state murder case against is highly…",
+      "section": "news",
+      "rankScore": 0.602619
+    },
+    {
+      "id": "320ac733ea13c910",
+      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
+      "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-23T11:36:31.000Z",
+      "excerpt": "BBC分析：加拿大總理卡尼將必須讓民眾相信，他放棄與白宮談判的這場豪賭，將值得承受隨之而來的後果。",
+      "section": "cn-news",
+      "rankScore": 0.722986
+    },
+    {
+      "id": "0a6c299831f9198d",
+      "title": "伊朗总统：伊朗已处于“全面战争”之中",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vTHQ3WmQtN0k0bTItMm55YUJwVmhpb0l0OExBdmo0b2tVbnpuYmFOV0ktSmRHbUFtMUk3LTJ2XzFUOUhoWEo5T09ZOEtZalVYZV9fVjBzQzhxcGxBcWpzN2dLMk5vc1JK?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-23T12:37:07.000Z",
+      "excerpt": "伊朗总统：伊朗已处于“全面战争”之中 chinanews.com.cn 伊朗总统称现在结束战争是更好选择 新浪新闻_手机新浪网 伊朗总统：没有向敌人屈服 新京报 伊朗总统：是时候结束战争了 观察者 伊总统：伊朗正在全力克服美国带来的困难 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.55067
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 181 days old (budget 180d)",
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
