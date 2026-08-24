@@ -1,4 +1,4 @@
-import type { BriefConfig, Schedule } from '../config/schema'
+import type { BriefConfig, PublishSchedule, Schedule, Weekday } from '../config/schema'
 import { weeklySchedule } from '../core/weekly'
 
 /**
@@ -143,6 +143,142 @@ export function generateCrons(config: BriefConfig): GeneratedCron[] {
   return daily
 }
 
+/* ───────────── PUBLISH.md §7.2 — the same generator, for the publish workflow ───────────── */
+
+/**
+ * There are now TWO workflows carrying generated crons, and A17's reason for the drift
+ * guard doubles with them: "changed the time, forgot to regenerate" fails silently and
+ * the only symptom is a brief that never arrives. `pnpm check:schedule` covers both.
+ */
+export type ScheduleKind = 'brief' | 'publish'
+
+export const WORKFLOWS: Record<ScheduleKind, string> = {
+  brief: '.github/workflows/daily-brief.yml',
+  publish: '.github/workflows/publish.yml',
+}
+
+/** The npm script that regenerates each — printed into the generated block itself. */
+const REGENERATE_SCRIPT: Record<ScheduleKind, string> = {
+  brief: 'pnpm brief:schedule',
+  publish: 'pnpm publish:schedule',
+}
+
+/** ISO weekday of the config's spelling; `weeklyToUtcCron` counts 1 = Monday … 7 = Sunday. */
+const ISO_WEEKDAY: Record<Weekday, number> = {
+  mon: 1,
+  tue: 2,
+  wed: 3,
+  thu: 4,
+  fri: 5,
+  sat: 6,
+  sun: 7,
+}
+
+export interface GeneratedPublishCron {
+  schedule: PublishSchedule
+  cron: string
+  comment: string
+  enabled: boolean
+}
+
+/**
+ * `publish.schedules[]` → crons. A line with a `weekday` goes through the very same
+ * `weeklyToUtcCron` the weekly review uses, day-shift included: 10:30 Monday in
+ * Asia/Shanghai is 02:30 Monday UTC here, but the shift logic is what keeps it correct
+ * for any zone rather than for this one.
+ */
+export function generatePublishCrons(config: BriefConfig): GeneratedPublishCron[] {
+  const dst = hasDst(config.timezone)
+  const dstNote = dst ? ' — WARNING: timezone observes DST, this drifts by 1h twice a year' : ''
+  const shiftNote = (dayShift: number) =>
+    dayShift === 0 ? '' : dayShift > 0 ? ' (next UTC day)' : ' (previous UTC day)'
+
+  return config.publish.schedules.map((schedule): GeneratedPublishCron => {
+    if (schedule.weekday) {
+      const parts = weeklyToUtcCron(schedule.time, ISO_WEEKDAY[schedule.weekday], config.timezone)
+      const localDay = WEEKDAY_NAMES[ISO_WEEKDAY[schedule.weekday] % 7]!
+      return {
+        schedule,
+        cron: parts.cron,
+        comment:
+          `${schedule.id} - ${localDay} ${schedule.time} ${config.timezone}` +
+          `${shiftNote(parts.dayShift)}${dstNote}`,
+        // A globally disabled publish block must not leave live crons behind.
+        enabled: schedule.enabled && config.publish.enabled,
+      }
+    }
+    const parts = localTimeToUtcCron(schedule.time, config.timezone)
+    return {
+      schedule,
+      cron: parts.cron,
+      comment: `${schedule.id} - ${schedule.time} ${config.timezone}${shiftNote(parts.dayShift)}${dstNote}`,
+      enabled: schedule.enabled && config.publish.enabled,
+    }
+  })
+}
+
+/** The kind-agnostic view the renderer and the drift check work on. */
+interface CronEntry {
+  id: string
+  cron: string
+  comment: string
+  enabled: boolean
+}
+
+function entriesFor(config: BriefConfig, kind: ScheduleKind): CronEntry[] {
+  if (kind === 'publish') {
+    return generatePublishCrons(config).map((c) => ({
+      id: c.schedule.id,
+      cron: c.cron,
+      comment: c.comment,
+      enabled: c.enabled,
+    }))
+  }
+  return generateCrons(config).map((c) => ({
+    id: c.schedule.id,
+    cron: c.cron,
+    comment: c.comment,
+    enabled: c.enabled,
+  }))
+}
+
+/** Which publishing line fired, given the cron GitHub reports. A miss is an error (A19). */
+export function findPublishScheduleByCron(config: BriefConfig, cron: string): PublishSchedule {
+  const wanted = normalizeCron(cron)
+  const all = generatePublishCrons(config)
+  const matches = all.filter((g) => g.enabled && normalizeCron(g.cron) === wanted)
+  if (matches.length === 0) {
+    const known = all
+      .filter((g) => g.enabled)
+      .map((g) => `"${g.cron}" (${g.schedule.id})`)
+      .join(', ')
+    throw new ScheduleError(
+      `No enabled publish schedule in brief.config.yaml generates cron "${wanted}". ` +
+        `Known crons: ${known || '(none)'}. ` +
+        `Run "pnpm publish:schedule" and commit the regenerated workflow.`,
+    )
+  }
+  if (matches.length > 1) {
+    throw new ScheduleError(
+      `cron "${wanted}" is ambiguous: publish schedules ${matches
+        .map((m) => `"${m.schedule.id}"`)
+        .join(', ')} all fire at that time. Give them distinct times.`,
+    )
+  }
+  return matches[0]!.schedule
+}
+
+export function findPublishScheduleById(config: BriefConfig, id: string): PublishSchedule {
+  const found = config.publish.schedules.find((s) => s.id === id)
+  if (!found) {
+    throw new ScheduleError(
+      `Unknown publish schedule "${id}". Known: ` +
+        `${config.publish.schedules.map((s) => s.id).join(', ') || '(none)'}`,
+    )
+  }
+  return found
+}
+
 /** Normalize whitespace so `'0  0 * * *'` and `'0 0 * * *'` compare equal. */
 export function normalizeCron(cron: string): string {
   return cron.trim().replace(/\s+/g, ' ')
@@ -202,13 +338,17 @@ export const SCHEDULE_END = '# END generated schedule'
  * Render the `on.schedule` cron list. Indented to sit under `  schedule:` in the workflow.
  * Disabled schedules are emitted commented-out so the file still documents them.
  */
-export function renderScheduleBlock(config: BriefConfig, indent = '    '): string {
+export function renderScheduleBlock(
+  config: BriefConfig,
+  indent = '    ',
+  kind: ScheduleKind = 'brief',
+): string {
   const lines: string[] = []
   lines.push(`${indent}${SCHEDULE_BEGIN}`)
   lines.push(
-    `${indent}# generated from brief.config.yaml - run \`pnpm brief:schedule\` after editing, do not hand-edit`,
+    `${indent}# generated from brief.config.yaml - run \`${REGENERATE_SCRIPT[kind]}\` after editing, do not hand-edit`,
   )
-  const crons = generateCrons(config)
+  const crons = entriesFor(config, kind)
   const enabled = crons.filter((c) => c.enabled)
   if (enabled.length === 0) {
     lines.push(`${indent}# (no enabled schedules - the workflow can only be run manually)`)
@@ -223,7 +363,11 @@ export function renderScheduleBlock(config: BriefConfig, indent = '    '): strin
 }
 
 /** Replace the marked region of an existing workflow file with a freshly generated block. */
-export function applyScheduleBlock(workflowYaml: string, config: BriefConfig): string {
+export function applyScheduleBlock(
+  workflowYaml: string,
+  config: BriefConfig,
+  kind: ScheduleKind = 'brief',
+): string {
   const lines = workflowYaml.split('\n')
   const beginAt = lines.findIndex((l) => l.trim() === SCHEDULE_BEGIN)
   const endAt = lines.findIndex((l) => l.trim() === SCHEDULE_END)
@@ -234,6 +378,6 @@ export function applyScheduleBlock(workflowYaml: string, config: BriefConfig): s
     )
   }
   const indent = lines[beginAt]!.slice(0, lines[beginAt]!.indexOf('#'))
-  const block = renderScheduleBlock(config, indent)
+  const block = renderScheduleBlock(config, indent, kind)
   return [...lines.slice(0, beginAt), ...block.split('\n'), ...lines.slice(endAt + 1)].join('\n')
 }

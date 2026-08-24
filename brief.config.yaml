@@ -674,3 +674,98 @@ recipients:
     sections: [tech, ai, security]
     format: markdown
     enabled: false
+
+# ── 一文多发（docs/PUBLISH.md）────────────────────────────────────────────────────
+# 只读归档、绝不重跑 pipeline：不抓取、不调 LLM、不发推送。发布时刻由 publish.yml
+# 自己的 cron 决定（决策 3），与早报什么时候跑完无关；代价是「cron 到点归档还没
+# 就绪」变成我方要处理的情况，靠 catchUpDays 次日自动补（§1.3）。
+# 改了 time / weekday 之后必须跑 `pnpm publish:schedule`，否则 CI 的 check:schedule 会红。
+publish:
+  enabled: true
+
+  # 首发地。留空则从 GITHUB_REPOSITORY 推导 https://<owner>.github.io/<repo>。
+  # 换域名时用仓库变量 PUBLISH_CANONICAL_BASE 覆盖，不用改这里。
+  canonicalBase: ''
+
+  # ★ 外发栏目白名单（决策 4）。以后新增 finance / culture 之类的栏目，默认不外发 ——
+  # 黑名单会默认放行，白名单会默认拦住，外发内容的默认值必须是「不发」。
+  include: [tech, ai, cn-tech, security, releases]
+
+  schedules:
+    - id: daily
+      time: '09:30' # 早报 07:10 + 晚报 20:10，留 2h20m 吸收 Actions 0–30 分钟漂移
+      # ★ 级别 1：合并当天两期。实测单期技术 11–17 条，合并后 23–31 条（§0.4）。
+      window: { days: 1, slots: [morning, evening] }
+      titleTemplate: '{title} · 技术日报（{date}）'
+      tags: [前端, 后端, AI]
+      minItems: 8 # 低于此条数当天不发：宁可缺一期，也不发凑数文（决策 11）
+      maxItems: 30
+      backfillDays: 2 # 条数不够时往前扩几天，只捞没发过的
+      catchUpDays: 2 # 归档晚到时，次日往回补
+      skipWeekdays: [] # 填 [mon] 则周一只发周报
+      enabled: true
+
+    - id: weekly
+      time: '10:30'
+      weekday: mon
+      # 直接取 weekly 那期归档 —— 它已经是 weekly.ts 做过编辑取舍的结果。
+      # 不在这里重新聚合七天，那是把同一个判断做两次。
+      window: { days: 1, slots: [weekly] }
+      titleTemplate: '{title} · 本周技术周报（{range}）'
+      tags: [周报, 前端, AI]
+      minItems: 12
+      maxItems: 40
+      backfillDays: 0
+      catchUpDays: 3
+      enabled: true
+
+  targets:
+    # Tier 1：官方 token，长期有效、无风控、失败原因永远是明确的 HTTP 错误。
+    - id: notion-archive
+      platform: notion
+      enabled: true
+      schedules: ['*']
+      secretRef: NOTION_TOKEN
+      notion:
+        # 二选一。数据库模式推荐；填数据库 ID 也行，适配器会解析成 data_source（§5.1）。
+        dataSourceRef: NOTION_DATA_SOURCE_ID
+        pageRef: '' # 页面模式：作为子页面挂在某个固定页下，完全绕开 data source 的演进
+        # 属性名必须与 Notion 里的列名逐字一致，错了会报 validation_error。
+        properties:
+          title: Name
+          date: Date
+          line: Line
+          summary: Summary
+          tags: Tags
+          url: Source
+      # Notion 没有草稿态，创建即可见；写死 true 只是让语义统一。
+      autoPublish: true
+
+    # Tier 2：网页端登录态，没有官方开放发布 API，接口随时可能变（§6.1）。
+    - id: juejin
+      platform: juejin
+      enabled: true
+      schedules: [daily, weekly]
+      secretRef: JUEJIN_COOKIE
+      # 决策 10：试运行期只到草稿箱。转 true 的条件见 §6.5（连续 10 期无异常）。
+      autoPublish: false
+      failStreakLimit: 3 # 连续 3 次失败即熔断 —— 在风控里反复撞墙只会更糟
+      footer: true
+      juejin:
+        # 不可猜，也不要从别人的文章里抄：按 §6.3 从浏览器实抓一次。
+        categoryId: '6809637767543259144' # 前端
+        tagIds: ['6809640407484334093', '6809640419312926727'] # 前端 / 资讯
+        syncToOrg: false
+      overrides:
+        weekly:
+          tags: [周报, 前端]
+          juejin:
+            tagIds: ['6809640407484334093'] # 周报只挂一个主标签
+
+
+    # ---- TODO（§12）：抽象验完再开 ----
+    # - id: devto
+    #   platform: devto
+    #   enabled: false
+    #   schedules: [weekly]
+    #   secretRef: DEVTO_API_KEY

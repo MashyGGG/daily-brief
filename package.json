@@ -10,6 +10,9 @@
   "scripts": {
     "brief": "tsx src/index.ts",
     "brief:schedule": "tsx src/schedule/generate.ts --write",
+    "publish:run": "tsx src/publish.ts",
+    "publish:dry": "tsx src/publish.ts --dry-run --explain",
+    "publish:schedule": "tsx src/schedule/generate.ts --write --kind publish",
     "check:schedule": "tsx src/schedule/generate.ts --check",
     "site:build": "tsx src/site/build.ts",
     "validate": "tsx src/index.ts --validate-only",

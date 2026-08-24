@@ -550,6 +550,85 @@ a side branch.
 being written: by exact value for everything read from env, and by shape for webhook URLs, bot
 tokens and API-key patterns that an upstream might echo back.
 
+## Publishing to Notion / 掘金
+
+Optional, off until you configure it. The brief keeps working exactly as before whether
+this is set up or not — publishing is a separate workflow with its own cron, its own
+alert wording, and its own secrets. Full design: [docs/PUBLISH.md](docs/PUBLISH.md).
+
+**What it does.** At a fixed local time (`daily` 09:30, `weekly` Mon 10:30) it reads the
+archive — never the network, never the model — rebuilds one article out of a window of
+archived issues, and posts it. Two rules shape the content:
+
+- **only tech goes out.** `publish.include` is a whitelist; a section added later is not
+  published until someone names it there.
+- **one day is merged, not one issue.** The daily line reads that day's `morning` _and_
+  `evening`, which is what takes it from ~13 items to ~29.
+
+Re-running is safe: the state file records a `contentHash` and a second run is a no-op.
+
+### Setup
+
+| #   | Do this                                                                                                                                                               | Where it ends up                                                                        |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 1   | Create a Notion integration                                                                                                                                           | its token → secret `NOTION_TOKEN`                                                       |
+| 2   | Create a Notion database with six columns, named exactly `Name` (title) · `Date` (date) · `Line` (select) · `Summary` (text) · `Tags` (multi-select) · `Source` (url) | —                                                                                       |
+| 3   | Database `…` menu → **Connections** → add the integration                                                                                                             | **the step everyone forgets**; skipping it answers `object_not_found`                   |
+| 4   | Copy the 32-hex id out of the database URL                                                                                                                            | secret `NOTION_DATA_SOURCE_ID` (a database id works too — it is resolved)               |
+| 5   | 掘金 → write-article page → F12 Network → filter `article_draft` → save a draft → read the payload                                                                    | `category_id` / `tag_ids` → `brief.config.yaml`, with the Chinese name in a comment     |
+| 6   | Copy that request's whole Cookie header                                                                                                                               | secret `JUEJIN_COOKIE` — **secrets only**, never the config, the logs or the state file |
+| 7   | Repo variable `PUBLISH_ENABLED=true`                                                                                                                                  | the break-glass switch: set it to `false` to stop publishing without a PR               |
+| 8   | _(trial period)_ Settings → Environments → `publishing` → required reviewer = you                                                                                     | the manual gate for stage A                                                             |
+
+Nothing above is required to start: a target whose secret is unset is **skipped**, not
+failed, so you can configure Notion first and leave 掘金 for later.
+
+`pnpm publish:run --validate-only` prints which targets are ready and which secrets are
+still missing.
+
+### Trial period, then automatic
+
+掘金 starts at `autoPublish: false` — it only ever creates a **draft**, which you open in
+the 草稿箱 and look at. Flip it to `true` after ten consecutive issues with no formatting
+surprises and no cookie expiry. Markdown dialect problems are only visible in the real
+editor, and the cost of looking is one glance a day.
+
+Once automatic, three passive guards replace the manual one: `minItems` (too few items →
+no post at all), `failStreakLimit` (three consecutive failures → circuit opens, no more
+requests, alert fires), and `PUBLISH_ENABLED=false`.
+
+### Everyday tasks
+
+```bash
+# see exactly what would go out, and why — calls no platform
+pnpm publish:dry --schedule daily --date 2026-08-22
+
+# publish one line to one target by hand
+pnpm publish:run --schedule weekly --targets notion-archive
+
+# re-publish after fixing something the hash would otherwise call "unchanged"
+pnpm publish:run --schedule daily --force
+
+# check what is configured and which secrets are missing
+pnpm publish:run --validate-only
+```
+
+`--explain` prints the selection table: what each archived issue contributed, what the
+whitelist blocked, what earlier publications already used, and what the cap cut. It is
+the answer to "why did today only have nine items".
+
+### Caveats worth knowing
+
+- **掘金 has no official publishing API.** This drives the endpoints its own web editor
+  calls, with a session cookie that expires in roughly a month. When it does, the run
+  fails and the alert says "Cookie 已过期" — renew the secret. Nothing else breaks: the
+  mail, the archive and the Pages site are untouched.
+- **Notion updates properties only.** Rewriting a page body means deleting its blocks one
+  at a time, and a failure halfway leaves half a page. Content that changed after
+  publication says so in the run summary instead.
+- **A 掘金 post that is already public is never silently edited.** The people who read it
+  will not be told, so the run warns and leaves it alone.
+
 ## Commands
 
 | Command                                              | What it does                                                              |
@@ -560,8 +639,11 @@ tokens and API-key patterns that an upstream might echo back.
 | `pnpm brief --no-llm`                                | skip the LLM stage; every item keeps its source excerpt                   |
 | `pnpm brief --re-enrich <date> --diff`               | re-summarize an archived issue to evaluate a prompt change                |
 | `pnpm brief --weekly [<date>]`                       | weekly review out of the archive — fetches nothing, archived as `.weekly` |
-| `pnpm brief:schedule`                                | regenerate the workflow cron from the config                              |
-| `pnpm check:schedule`                                | fail if the workflow and the config disagree                              |
+| `pnpm publish:run --schedule daily`                  | cross-post the day window to the configured targets                       |
+| `pnpm publish:dry`                                   | select + render + explain, calling no platform at all                     |
+| `pnpm brief:schedule`                                | regenerate daily-brief.yml cron from the config                           |
+| `pnpm publish:schedule`                              | regenerate publish.yml cron from the config                               |
+| `pnpm check:schedule`                                | fail if EITHER workflow and the config disagree                           |
 | `pnpm validate`                                      | validate the config and exit                                              |
 | `pnpm site:build`                                    | compile `archive/` into the static site under `site/`                     |
 | `pnpm test`                                          | vitest (pure functions only — no network, no SMTP, no temp files)         |
@@ -573,9 +655,11 @@ tokens and API-key patterns that an upstream might echo back.
 brief.config.yaml            the only file you normally edit
 .github/workflows/
   daily-brief.yml            cron block generated by pnpm brief:schedule
+  publish.yml                cron block generated by pnpm publish:schedule
   pages.yml                  build archive/ into a site and deploy it to GitHub Pages
   ci.yml                     lint / format / typecheck / test / validate / check:schedule
 archive/YYYY/MM/             one .md + one .json per issue, plus index.md
+                             and one .publish.json per publication DAY
 src/
   config/      zod schema + loader; invalid config fails the run
   sources/     rss | hackernews | github, fetch injected for tests
@@ -585,7 +669,9 @@ src/
   render/      markdown | html | text
   archive/     read/write, fs injected for tests
   channels/    wecom, email, serverchan, pushplus, wxpusher, telegram, stdout
+  publish/     collect (window -> issue) | adapt | state | notion | juejin | stdout
   site/        archive/**/*.json -> static site (see docs/PAGES.md)
 ```
 
 Adding a channel is one file, one registry line, and one boundary table in `test/`.
+Adding a publishing platform is the same shape — see `src/publish/` and docs/PUBLISH.md §1.1.

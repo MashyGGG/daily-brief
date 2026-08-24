@@ -438,3 +438,61 @@ describe('§5.3 / M3 — the 全刊导读', () => {
     expect(rendered.get('me-mail')!.body).not.toContain('今日导读')
   })
 })
+
+/**
+ * PUBLISH.md §3.2 — the escaper became injectable so a platform renderer can turn it off.
+ * The whole change is only safe if the DEFAULT is byte-for-byte what it was before, which
+ * is what these assert: every renderer, at both detail levels, with and without a digest.
+ */
+describe('the injectable escaper (PUBLISH.md §3.2)', () => {
+  const rich = () =>
+    brief({
+      digest: {
+        text: 'a [digest] with *syntax*',
+        meta: { by: 'llm', model: 'm', promptVersion: 'v1', inputKind: 'summaries' },
+      },
+      warnings: ['a [warning] with `backticks`'],
+      sections: [
+        {
+          id: 'tech',
+          title: '国际技术 [x]',
+          items: [
+            item({
+              id: 't1',
+              title: 'Rust 1.90 <released> [stable]',
+              excerpt: 'body with [brackets] and *stars*',
+              takeaways: ['first _takeaway_', 'second `one`'],
+            }),
+          ],
+        },
+      ],
+    })
+
+  it('renders identically whether escape is unset or explicitly the default', () => {
+    const b = rich()
+    expect(renderMarkdown(b, {})).toBe(renderMarkdown(b, { escape: escapeMarkdown }))
+    expect(renderArchiveMarkdown(b, {})).toBe(renderArchiveMarkdown(b, { escape: escapeMarkdown }))
+    expect(renderMarkdownBlocks(b, { detail: 'compact' })).toEqual(
+      renderMarkdownBlocks(b, { detail: 'compact', escape: escapeMarkdown }),
+    )
+  })
+
+  it('still escapes by default, everywhere it used to', () => {
+    const out = renderArchiveMarkdown(rich())
+    expect(out).toContain('\\[stable\\]')
+    expect(out).toContain('国际技术 \\[x\\]')
+    expect(out).toContain('\\[digest\\]')
+    expect(out).toContain('a \\[warning\\]')
+    expect(out).toContain('first \\_takeaway\\_')
+  })
+
+  it('turns every escape off when the caller passes identity — no stray backslash', () => {
+    const plain = (s: string) => s
+    const out = renderArchiveMarkdown(rich(), { escape: plain })
+    expect(out).toContain('Rust 1.90 <released> [stable]')
+    expect(out).toContain('国际技术 [x]')
+    expect(out).toContain('first _takeaway_')
+    // Nothing weaker: with the escaper off there must be no backslash in the output at all.
+    expect(out).not.toContain('\\')
+  })
+})

@@ -33,6 +33,12 @@ export interface RenderOptions {
   digestTitle?: string
   /** `llm.digest.position`. Kept out of the archived digest: it is taste, not provenance. */
   digestPosition?: 'top' | 'bottom'
+  /**
+   * PUBLISH.md §3.2 — the escaper, injectable so a platform renderer can turn it off.
+   * 掘金 and Notion both display the backslashes `escapeMarkdown` adds; mail and the
+   * archive need them. Unset it and every caller renders byte-for-byte as before.
+   */
+  escape?: (text: string) => string
 }
 
 /** §5.3 — what the digest is called when the caller has not said. */
@@ -45,10 +51,10 @@ export const DIGEST_TITLE = '今日导读'
  */
 export function digestBlock(brief: Brief, options: RenderOptions = {}): string | null {
   if (!brief.digest) return null
-  return [
-    `> **${escapeMarkdown(options.digestTitle ?? DIGEST_TITLE)}**`,
-    `> ${escapeMarkdown(brief.digest.text)}`,
-  ].join('\n')
+  const esc = options.escape ?? escapeMarkdown
+  return [`> **${esc(options.digestTitle ?? DIGEST_TITLE)}**`, `> ${esc(brief.digest.text)}`].join(
+    '\n',
+  )
 }
 
 /**
@@ -77,14 +83,15 @@ export function bodyFor(item: Item, options: RenderOptions = {}): string | undef
  * ceiling and print all of it.
  */
 export function renderItemMarkdown(item: Item, index: number, options: RenderOptions = {}): string {
-  const lines = [`${index}. [${escapeMarkdown(item.title)}](${item.url})`]
+  const esc = options.escape ?? escapeMarkdown
+  const lines = [`${index}. [${esc(item.title)}](${item.url})`]
   const meta = [item.source, hostOf(item.url)]
   if (typeof item.score === 'number' && item.score > 0) meta.push(`${item.score}`)
-  lines.push(`   ${escapeMarkdown(meta.join(' · '))}`)
+  lines.push(`   ${esc(meta.join(' · '))}`)
   const body = bodyFor(item, options)
-  if (body) lines.push(`   ${escapeMarkdown(body)}`)
+  if (body) lines.push(`   ${esc(body)}`)
   if (options.detail !== 'compact') {
-    for (const takeaway of item.takeaways ?? []) lines.push(`   - ${escapeMarkdown(takeaway)}`)
+    for (const takeaway of item.takeaways ?? []) lines.push(`   - ${esc(takeaway)}`)
   }
   return lines.join('\n')
 }
@@ -94,6 +101,7 @@ export function renderItemMarkdown(item: Item, index: number, options: RenderOpt
  * without ever cutting an entry in half (§3.4 / A8).
  */
 export function renderMarkdownBlocks(brief: Brief, options: RenderOptions = {}): string[] {
+  const esc = options.escape ?? escapeMarkdown
   const blocks: string[] = []
   const sections = nonEmptySections(brief)
   blocks.push(`# ${brief.title} · ${brief.date}`)
@@ -102,14 +110,14 @@ export function renderMarkdownBlocks(brief: Brief, options: RenderOptions = {}):
   if (digest && options.digestPosition !== 'bottom') blocks.push(digest)
 
   for (const section of sections) {
-    blocks.push(`## ${escapeMarkdown(section.title)}`)
+    blocks.push(`## ${esc(section.title)}`)
     section.items.forEach((item, i) => blocks.push(renderItemMarkdown(item, i + 1, options)))
   }
 
   if (digest && options.digestPosition === 'bottom') blocks.push(digest)
 
   if (brief.warnings.length > 0) {
-    blocks.push(['> 抓取告警', ...brief.warnings.map((w) => `> - ${escapeMarkdown(w)}`)].join('\n'))
+    blocks.push(['> 抓取告警', ...brief.warnings.map((w) => `> - ${esc(w)}`)].join('\n'))
   }
   blocks.push(`—— ${brief.title} · ${brief.scheduleId} · ${brief.timezone}`)
   return blocks
@@ -121,6 +129,7 @@ export function renderMarkdown(brief: Brief, options: RenderOptions = {}): strin
 
 /** The archived `.md` carries a little more provenance than the pushed copy. */
 export function renderArchiveMarkdown(brief: Brief, options: RenderOptions = {}): string {
+  const esc = options.escape ?? escapeMarkdown
   const header = [
     `# ${brief.title} · ${brief.date}${brief.slot ? ` · ${brief.slot}` : ''}`,
     '',
@@ -131,9 +140,9 @@ export function renderArchiveMarkdown(brief: Brief, options: RenderOptions = {})
   const body = nonEmptySections(brief)
     .map((section) => {
       const items = section.items
-        .map((item, i) => renderItemMarkdown(item, i + 1, { detail: 'full' }))
+        .map((item, i) => renderItemMarkdown(item, i + 1, { detail: 'full', escape: esc }))
         .join('\n\n')
-      return `## ${escapeMarkdown(section.title)}\n\n${items}`
+      return `## ${esc(section.title)}\n\n${items}`
     })
     .join('\n\n')
 
@@ -141,7 +150,7 @@ export function renderArchiveMarkdown(brief: Brief, options: RenderOptions = {})
 
   const warnings =
     brief.warnings.length > 0
-      ? `\n\n## 告警\n\n${brief.warnings.map((w) => `- ${escapeMarkdown(w)}`).join('\n')}`
+      ? `\n\n## 告警\n\n${brief.warnings.map((w) => `- ${esc(w)}`).join('\n')}`
       : ''
 
   const opening = digest && options.digestPosition !== 'bottom' ? `${digest}\n\n` : ''

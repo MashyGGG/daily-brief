@@ -1,0 +1,156 @@
+name: publish
+
+# PUBLISH.md §7.1 decision 3 — this workflow holds its OWN cron rather than hanging off
+# `workflow_run: [daily-brief]`. Chaining would make the publication time equal to
+# "whenever the brief happened to finish", which drifts with the Actions queue and
+# directly contradicts the one product requirement that asked for a fixed time. The price
+# is that "the archive is not ready yet" becomes ours to handle — `catchUpDays` does.
+on:
+  schedule:
+    # BEGIN generated schedule
+    # generated from brief.config.yaml - run `pnpm publish:schedule` after editing, do not hand-edit
+    - cron: '30 1 * * *' # daily - 09:30 Asia/Shanghai
+    - cron: '30 2 * * 1' # weekly - Mon 10:30 Asia/Shanghai
+    # END generated schedule
+
+  workflow_dispatch:
+    inputs:
+      schedule:
+        description: 发布线 id（daily / weekly）
+        type: string
+        default: daily
+      date:
+        description: 'YYYY-MM-DD 发布日（留空=今天）'
+        type: string
+        default: ''
+      targets:
+        description: 逗号分隔的 target id（留空=配置里所有启用项）
+        type: string
+        default: ''
+      dry-run:
+        # Manual runs default to safe: the destructive default belongs to the cron, which
+        # is reviewed once, not to the button somebody clicks while debugging.
+        description: 只选材+渲染，不调平台接口
+        type: boolean
+        default: true
+      force:
+        description: 忽略 contentHash 判定，强制重发
+        type: boolean
+        default: false
+      publish:
+        description: 允许执行真正的「发布」而不止于草稿
+        type: boolean
+        default: false
+
+# Serial, and never cancelled: half a publication is worse than a late one — the same
+# reason daily-brief queues. The two lines sit an hour apart on Mondays anyway; this is
+# really about a manual run jumping the queue.
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write # only to write back *.publish.json
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15 # roomier than daily-brief: Notion's batched appends are serial
+
+    # §7.4 — the manual gate for the trial period. The GATE is not this line: it is
+    # whether Settings → Environments → publishing has a required reviewer. With none
+    # (including before you ever create the environment) the job simply runs. Add
+    # yourself as a reviewer for stage A, and REMOVE the reviewer — not this line — when
+    # you go automatic; a gate you approve without reading protects nothing.
+    environment: publishing
+
+    steps:
+      # `ref: main` on purpose: the brief's archive commit has just landed on main, and a
+      # cron event's github.sha does not necessarily include it. Depth 1 is enough —
+      # selection reads FILES, not git history.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # Both workflows' crons must still match brief.config.yaml (§7.2).
+      - name: check schedule drift
+        run: pnpm check:schedule
+
+      - name: publish
+        id: publish
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATA_SOURCE_ID: ${{ secrets.NOTION_DATA_SOURCE_ID }}
+          NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
+          JUEJIN_COOKIE: ${{ secrets.JUEJIN_COOKIE }}
+          # §2.4 — the break-glass switch is a repo VARIABLE so it can be flipped from a
+          # phone. Set PUBLISH_ENABLED=false and the next run exits 0 without publishing.
+          PUBLISH_ENABLED: ${{ vars.PUBLISH_ENABLED }}
+          PUBLISH_CANONICAL_BASE: ${{ vars.PUBLISH_CANONICAL_BASE }}
+        run: |
+          set -euo pipefail
+          args=()
+          if [ -n "${{ github.event.schedule }}" ]; then
+            # GitHub reports which cron fired; the CLI reverse-looks-up the publishing
+            # line from it — the same mechanism daily-brief.yml uses.
+            args+=(--cron "${{ github.event.schedule }}")
+          else
+            args+=(--schedule "${{ inputs.schedule || 'daily' }}")
+          fi
+          [ -n "${{ inputs.date }}" ]    && args+=(--date "${{ inputs.date }}")
+          [ -n "${{ inputs.targets }}" ] && args+=(--targets "${{ inputs.targets }}")
+          [ "${{ inputs.dry-run }}" = "true" ] && args+=(--dry-run --explain)
+          [ "${{ inputs.force }}"   = "true" ] && args+=(--force)
+          [ "${{ inputs.publish }}" = "true" ] && args+=(--publish)
+          pnpm publish:run "${args[@]}"
+
+      # Same shape as daily-brief: the state already exists, and a later failure must not
+      # lose it — losing failStreak means hammering a rate limiter forever.
+      - name: commit publish state
+        if: always() && steps.publish.outputs.state-commit == 'true'
+        run: |
+          set -euo pipefail
+          git add 'archive/**/*.publish.json'
+          if git diff --cached --quiet; then
+            echo "publish state unchanged, nothing to commit"
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m "chore(publish): ${{ steps.publish.outputs.state-label }}"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash && git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt failed, retrying"
+            sleep $((attempt * 5))
+          done
+          echo "could not push the publish state after 3 attempts" >&2
+          exit 1
+
+      # The wording matters more than the fact: "掘金 Cookie expired, go renew it" is a
+      # hundred times more useful at 09:30 than "publish failed".
+      - name: alert on failure
+        if: failure()
+        env:
+          WECOM_WEBHOOK_ME: ${{ secrets.WECOM_WEBHOOK_ME }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          ALERT_REASON: 'publish 失败 —— 多半是掘金 Cookie 过期，去 GitHub Secrets 续 JUEJIN_COOKIE；详情见 run'
+        run: pnpm tsx src/alert.ts

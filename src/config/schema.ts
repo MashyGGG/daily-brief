@@ -454,6 +454,119 @@ export type ExtractConfig = LlmConfig['extract']
 export type LlmStyle = (typeof LLM_STYLES)[number]
 export type Recipient = z.infer<typeof recipientSchema>
 
+/* ──────────────────────── §2.2 the `publish` block (PUBLISH.md) ──────────────────────── */
+
+/**
+ * The archive slot a publish window merges. A schedule-less archive file
+ * (`2026-08-20.json`, written back when only one schedule was enabled) has no slot at
+ * all, so the window names it with this literal rather than with an empty string — a
+ * config value you cannot see is a config value nobody can debug.
+ */
+export const NO_SLOT = 'none'
+
+export const WEEKDAYS = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'] as const
+const WEEKDAY = z.enum(WEEKDAYS)
+
+/**
+ * One publishing line: a fixed wall-clock time plus the archive window it draws from.
+ * Its cron is generated into `.github/workflows/publish.yml` by `pnpm publish:schedule`,
+ * exactly as `schedules[]` is generated into `daily-brief.yml` (PUBLISH.md §7.2).
+ */
+export const publishScheduleSchema = z.object({
+  id: ID,
+  time: TIME,
+  /** Set for a weekly line; unset means every day. */
+  weekday: WEEKDAY.optional(),
+  window: z
+    .object({
+      days: z.number().int().min(1).max(31).default(1),
+      /** Archive slots to merge; `none` matches the slot-less file. */
+      slots: z.array(z.string().min(1)).min(1),
+    })
+    .default({ days: 1, slots: ['morning'] }),
+  titleTemplate: z.string().min(1).default('{title} · {date}'),
+  tags: z.array(z.string().min(1)).default([]),
+  /** Below this the whole line is skipped: a thin filler post is worse than no post. */
+  minItems: z.number().int().min(0).max(200).default(8),
+  maxItems: z.number().int().min(1).max(200).default(30),
+  backfillDays: z.number().int().min(0).max(30).default(0),
+  catchUpDays: z.number().int().min(0).max(30).default(2),
+  skipWeekdays: z.array(WEEKDAY).default([]),
+  enabled: z.boolean().default(true),
+})
+
+/** Notion property names — they must match the database's columns verbatim (§5.4). */
+const notionPropertiesSchema = z
+  .object({
+    title: z.string().min(1).default('Name'),
+    date: z.string().min(1).default('Date'),
+    line: z.string().min(1).default('Line'),
+    summary: z.string().min(1).default('Summary'),
+    tags: z.string().min(1).default('Tags'),
+    url: z.string().min(1).default('Source'),
+  })
+  .default({})
+
+const notionTargetSchema = z.object({
+  /** Either of these — never both. Both name an ENV VAR, never an id (§2.4). */
+  dataSourceRef: z.string().default(''),
+  pageRef: z.string().default(''),
+  properties: notionPropertiesSchema,
+})
+
+const juejinTargetSchema = z.object({
+  /** Not guessable and deliberately without a default: a wrong id posts to a wrong 分区. */
+  categoryId: z.string().min(1),
+  tagIds: z.array(z.string().min(1)).min(1).max(3), // 掘金 caps an article at 3 tags
+  syncToOrg: z.boolean().default(false),
+})
+
+/**
+ * Per-line escape hatch, shallow-merged over the target (`overrides.weekly.tags`).
+ *
+ * Typed rather than `z.record(z.unknown())` on purpose: an override is the one place
+ * where a typo produces no error and no effect, which is precisely the failure mode
+ * §2.2 asks the schema to catch everywhere else.
+ */
+const publishOverrideSchema = z.object({
+  tags: z.array(z.string().min(1)).optional(),
+  autoPublish: z.boolean().optional(),
+  footer: z.boolean().optional(),
+  notion: notionTargetSchema.partial().optional(),
+  juejin: juejinTargetSchema.partial().optional(),
+})
+
+export const publishTargetSchema = z.object({
+  id: ID,
+  platform: z.enum(['notion', 'juejin', 'stdout']),
+  enabled: z.boolean().default(true),
+  schedules: WILDCARD_LIST.default(['*']),
+  /** The NAME of the env var holding the credential — never the credential. */
+  secretRef: z.string().min(1),
+  autoPublish: z.boolean().default(false),
+  /** Consecutive failures after which this target stops trying and alerts (§8). */
+  failStreakLimit: z.number().int().min(1).max(20).default(3),
+  footer: z.boolean().default(true),
+  notion: notionTargetSchema.optional(),
+  juejin: juejinTargetSchema.optional(),
+  overrides: z.record(publishOverrideSchema).default({}),
+})
+
+export const publishSchema = z
+  .object({
+    enabled: z.boolean().default(false),
+    /** Empty = derive `https://<owner>.github.io/<repo>` from GITHUB_REPOSITORY. */
+    canonicalBase: z.string().default(''),
+    /**
+     * §0.4 decision 4 — a WHITELIST. A section added later is not published until
+     * someone names it here; a blacklist would leak it on the first run.
+     */
+    include: z.array(z.string().min(1)).min(1).default(['tech']),
+    schedules: z.array(publishScheduleSchema).default([]),
+    targets: z.array(publishTargetSchema).default([]),
+  })
+  .default({})
+
 /** Channels whose destination lives entirely inside a secret. */
 const SECRET_REF_CHANNELS = new Set(['wecom', 'serverchan', 'pushplus', 'wxpusher', 'telegram'])
 
@@ -470,6 +583,7 @@ export const briefConfigSchema = z
     llm: llmSchema,
     weekly: weeklySchema,
     recipients: z.array(recipientSchema).min(1),
+    publish: publishSchema,
   })
   .superRefine((cfg, ctx) => {
     const flagDupes = (ids: string[], path: string, key: string) => {
@@ -607,7 +721,107 @@ export const briefConfigSchema = z
         })
       }
     })
+
+    /* ── PUBLISH.md §2.2 — the five checks the publish block needs ──────────────── */
+
+    flagDupes(
+      cfg.publish.schedules.map((s) => s.id),
+      'publish.schedules',
+      'id',
+    )
+    flagDupes(
+      cfg.publish.targets.map((t) => t.id),
+      'publish.targets',
+      'id',
+    )
+
+    // `include` is the ONE field here that fails silently: a typo does not error, it
+    // just publishes one section less, forever. So it is checked against real sections.
+    cfg.publish.include.forEach((id, i) => {
+      if (!sectionIds.has(id)) {
+        ctx.addIssue({
+          code: z.ZodIssueCode.custom,
+          path: ['publish', 'include', i],
+          message: `unknown section "${id}"`,
+        })
+      }
+    })
+
+    const publishLineIds = new Set(cfg.publish.schedules.map((s) => s.id))
+    cfg.publish.targets.forEach((target, i) => {
+      checkRefs(
+        target.schedules,
+        publishLineIds,
+        ['publish', 'targets', i, 'schedules'],
+        'publish schedule',
+      )
+      Object.keys(target.overrides).forEach((line) => {
+        if (!publishLineIds.has(line)) {
+          ctx.addIssue({
+            code: z.ZodIssueCode.custom,
+            path: ['publish', 'targets', i, 'overrides', line],
+            message: `unknown publish schedule "${line}"`,
+          })
+        }
+      })
+
+      if (target.platform === 'notion') {
+        const notion = target.notion
+        if (!notion) {
+          ctx.addIssue({
+            code: z.ZodIssueCode.custom,
+            path: ['publish', 'targets', i, 'notion'],
+            message: `target "${target.id}" (platform notion) requires a "notion" block`,
+          })
+        } else if (Boolean(notion.dataSourceRef) === Boolean(notion.pageRef)) {
+          // Both set is as broken as neither: the parent decides whether the page is a
+          // database row or a child page, and there is no sane way to be both (§5.1).
+          ctx.addIssue({
+            code: z.ZodIssueCode.custom,
+            path: ['publish', 'targets', i, 'notion', 'dataSourceRef'],
+            message:
+              `target "${target.id}": set exactly one of notion.dataSourceRef / notion.pageRef ` +
+              `(database mode or page mode)`,
+          })
+        }
+      }
+      if (target.platform === 'juejin' && !target.juejin) {
+        ctx.addIssue({
+          code: z.ZodIssueCode.custom,
+          path: ['publish', 'targets', i, 'juejin'],
+          message:
+            `target "${target.id}" (platform juejin) requires a "juejin" block with ` +
+            `categoryId and tagIds — they have no safe default (§6.3)`,
+        })
+      }
+    })
+
+    // A publishing line nobody targets is a cron that fires, selects, renders and posts
+    // nowhere — the kind of thing that looks healthy on the Actions page for a month.
+    if (cfg.publish.enabled) {
+      cfg.publish.schedules.forEach((line, i) => {
+        if (!line.enabled) return
+        const targeted = cfg.publish.targets.some(
+          (t) => t.enabled && (t.schedules.includes('*') || t.schedules.includes(line.id)),
+        )
+        if (!targeted) {
+          ctx.addIssue({
+            code: z.ZodIssueCode.custom,
+            path: ['publish', 'schedules', i, 'id'],
+            message: `publish schedule "${line.id}" is enabled but no enabled target publishes it`,
+          })
+        }
+      })
+    }
   })
+
+export type PublishConfig = z.infer<typeof publishSchema>
+export type PublishSchedule = z.infer<typeof publishScheduleSchema>
+export type PublishTarget = z.infer<typeof publishTargetSchema>
+export type PublishPlatform = PublishTarget['platform']
+export type NotionTargetConfig = NonNullable<PublishTarget['notion']>
+export type JuejinTargetConfig = NonNullable<PublishTarget['juejin']>
+export type Weekday = (typeof WEEKDAYS)[number]
 
 export type BriefConfig = z.infer<typeof briefConfigSchema>
 
