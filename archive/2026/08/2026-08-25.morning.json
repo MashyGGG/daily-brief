@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-25",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-08-24T23:33:23.239Z",
+  "configHash": "9cde425c0c54",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "01bb1bd8b7fe572f",
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "source": "hn-front",
+      "publishedAt": "2026-08-24T13:05:25.000Z",
+      "score": 1006,
+      "author": "l-one-lone",
+      "excerpt": "1006 points · 628 comments · https://news.ycombinator.com/item?id=49419237",
+      "section": "tech",
+      "rankScore": 1.043233
+    },
+    {
+      "id": "78fee9e4158a7f49",
+      "title": "Fragments: August 24",
+      "url": "https://martinfowler.com/fragments/2026-08-24.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-08-24T15:29:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?)",
+      "section": "tech",
+      "rankScore": 0.678538
+    },
+    {
+      "id": "35761f522ac2f529",
+      "title": "Sloc Cloc and Code 4.0 (scc) - Finding the files that need the most attention",
+      "url": "https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-24T23:04:39.000Z",
+      "author": "boyter.org by boyter",
+      "section": "tech",
+      "rankScore": 0.622816
+    },
+    {
+      "id": "6768cab7597923ba",
+      "title": "Why Code Verification Matters More Than Ever in the Age of AI",
+      "url": "https://blog.bytebytego.com/p/why-code-verification-matters-more",
+      "source": "bytebytego",
+      "publishedAt": "2026-08-24T15:31:01.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we will look at how code verification works, why the rise of AI-generated code puts more pressure on it, along with the extremely useful insights from Andrea on what the future may look like.",
+      "section": "tech",
+      "rankScore": 0.622609
+    },
+    {
+      "id": "2dbe89636e5b89e0",
+      "title": "Microsoft Moves AI Governance From Policy to Runtime Enforcement",
+      "url": "https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-24T13:49:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Microsoft has outlined an AI governance architecture spanning nine governance domains and four functions: policy, control, visibility, and proof. The approach connects policies with runtime enforcement, continuous evaluation, observability, identity, security, and audit evidence to help…",
+      "section": "tech",
+      "rankScore": 0.53767
+    },
+    {
+      "id": "f06974e02481bc7f",
+      "title": "WordPress PHP-Only Block Registration",
+      "url": "https://css-tricks.com/wordpress-php-block-registration/",
+      "source": "css-tricks",
+      "publishedAt": "2026-08-24T13:54:02.000Z",
+      "author": "Fränk Klein",
+      "excerpt": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+      "section": "tech",
+      "rankScore": 0.485162
+    },
+    {
+      "id": "25ce7ea75ba35150",
+      "title": "llm-anthropic 0.27",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-24T16:27:04.000Z",
+      "excerpt": "Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago.",
+      "section": "ai",
+      "rankScore": 0.697893
+    },
+    {
+      "id": "02adc01e6789ab6e",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "openai",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "excerpt": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "section": "ai",
+      "rankScore": 0.558132
+    },
+    {
+      "id": "117f664e34b80f75",
+      "title": "微软删除了逾 17 万非营利组织的数据",
+      "url": "https://www.solidot.org/story?sid=85183",
+      "source": "solidot",
+      "publishedAt": "2026-08-24T14:48:16.000Z",
+      "excerpt": "微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年初它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。6 月 11 日前如果没有转为付费的账号内相关数据将被删除。根据 Slate 的报道，没有注意到微软邮件通知的非营利组织遭到重创，17.1 万非营利组织储存在 OneDrive 中的数据被删除，全部丢失。一名经营着一家儿童医保组织的人士称，他翻遍了该组织的邮件存档和垃圾邮件，没有看到任何授权终止的通知。",
+      "section": "cn-tech",
+      "rankScore": 0.609546
+    },
+    {
+      "id": "40a00ea90aee908f",
+      "title": "Next.js 16.3 发布：即时导航、开发内存最高降低 90%，构建速度大幅提升",
+      "url": "https://www.infoq.cn/article/NedlVNN6E9uWbIE3WV07?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-24T17:15:00.000Z",
+      "author": "作者：Daniel Curtis",
+      "section": "cn-tech",
+      "rankScore": 0.594892
+    },
+    {
+      "id": "7f553ed1c7f4b2c2",
+      "title": "九个编码 Agent 共用免费额度，本地代理是路由还是绕开？",
+      "url": "https://juejin.cn/post/7677432175924510760",
+      "source": "juejin",
+      "publishedAt": "2026-08-24T23:31:02.000Z",
+      "author": "苏灿烤鱼",
+      "excerpt": "把多家模型供应商接到现有编码 Agent ， 它要当的不是又一个免费模型列表，而是让现有编码 Agent 换模型目录的本地入口。",
+      "section": "cn-tech",
+      "rankScore": 0.489542
+    },
+    {
+      "id": "f757083275a5fdff",
+      "title": "英伟达都摁不住了，内存疯涨，AI服务器被曝涨价超15%",
+      "url": "https://www.36kr.com/p/3953405161372804",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-24T13:25:57.000Z",
+      "author": "新智元",
+      "excerpt": "一台AI服务器，涨价超过15%！ 刚刚，英伟达最大的几家客户集体收到了涨价通知单： 搭载英伟达AI芯片的服务器要涨价，很多配置涨幅直接超过15%，2027年初就生效；旗舰级的Vera Rubin和Grace Blackwell，也未能幸免。 提到AI服务器涨价，大多数人脑子里都会跳出这样一个画面：英伟达那颗几万美元一片的GPU。 但这波涨价，发通知的还真不是英伟达，而是那些替微软、谷歌、甲骨文组装机柜的代工厂。 他们最近一封接一封，把涨价通知发给了自己的客户。 英伟达那边还没吭声，代工厂这边先坐不住了。 可代工厂毕竟也只是个传话的，定价权根本不在他们手里。",
+      "section": "cn-tech",
+      "rankScore": 0.478141
+    },
+    {
+      "id": "11caef6229c2b760",
+      "title": "WePush 5.1.2 发布，专注批量推送的小而美的工具",
+      "url": "https://www.oschina.net/news/502095",
+      "source": "oschina",
+      "publishedAt": "2026-08-24T08:31:48.000Z",
+      "excerpt": "WePush 5.1.2 已发布，这是一个专注批量推送的小而美的工具。 更新内容: 新增多消息类型并优化推送网络层 新增支持飞书群自定义机器人消息 企业微信：新增小程序通知消息类型 公众号客服消息：新增图片、语音、视频、音乐类型，并修复素材上传 钉钉：Markdown消息支持变量替换 网络层升级为HTTP/2，优化批量推送 下载地址...",
+      "section": "cn-tech",
+      "rankScore": 0.404603
+    },
+    {
+      "id": "6098e39e9c6a52db",
+      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-24T17:41:11.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients.",
+      "section": "security",
+      "rankScore": 0.602166
+    },
+    {
+      "id": "31b5f47f75a83ebb",
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-24T12:35:36.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups.",
+      "section": "security",
+      "rankScore": 0.517281
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 182 days old (budget 180d)"
+  ]
+}
