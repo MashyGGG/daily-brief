@@ -1,0 +1,323 @@
+{
+  "date": "2026-08-24",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-08-24T10:01:21.556Z",
+  "configHash": "9cde425c0c54",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "9f4305858a810827",
+      "title": "烏克蘭遭革職防長告訴BBC，該質問澤連斯基對貪腐所知多少",
+      "url": "https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-24T08:40:31.000Z",
+      "excerpt": "民意支持度頗高的前防長費多羅夫呼籲烏克蘭舉行戰時選舉，總統澤連斯基警告這將引發滅國級政治「海嘯」。",
+      "section": "news",
+      "rankScore": 0.813052
+    },
+    {
+      "id": "46122234c336b07f",
+      "title": "韩国军方：伊朗战争导致美军兵力调配受限，美韩下月联合军演被迫取消",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260824-%E9%9F%A9%E5%9B%BD%E5%86%9B%E6%96%B9-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%AF%BC%E8%87%B4%E7%BE%8E%E5%86%9B%E5%85%B5%E5%8A%9B%E8%B0%83%E9%85%8D%E5%8F%97%E9%99%90%EF%BC%8C%E4%B8%8B%E6%9C%88%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%E8%A2%AB%E8%BF%AB%E5%8F%96%E6%B6%88",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-24T09:58:50.000Z",
+      "author": "左依",
+      "excerpt": "韩国军方周一（8月24日）宣布，由于伊朗战争导致美军兵力调配受到限制，美国取消了原定于下月举行的一项重要美韩联合两栖登陆演习。",
+      "section": "news",
+      "rankScore": 0.699298
+    },
+    {
+      "id": "628f553341191036",
+      "title": "日本“副首都”争夺战：防范灾害还是政治“淘金”？",
+      "url": "https://cn.nytimes.com/asia-pacific/20260824/japan-capital-osaka/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-08-24T03:40:15.000Z",
+      "author": "赫海威,HISAKO UENO",
+      "excerpt": "日本立法机构通过法案，拟设立副首都，在东京遭遇自然灾害或其他紧急情况下维持政府运作。大阪、福冈和北海道等纷纷加入角逐。但“副首都”的必要性和成本也受到质疑。 Hiroko Masuike/The New York Times 眺望日本北海道的札幌市。",
+      "section": "news",
+      "rankScore": 0.65355
+    },
+    {
+      "id": "cc1105f0903963bd",
+      "title": "Guinea rubbish landfill collapse kills 31",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-24T09:03:43.000Z",
+      "excerpt": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "section": "news",
+      "rankScore": 0.615589
+    },
+    {
+      "id": "6a7a92022ababfbe",
+      "title": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
+      "url": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-24T09:37:47.000Z",
+      "author": "Christina Goldbaum",
+      "excerpt": "The discussions, reported by the Syrian state news agency, came days after Israel struck an air base in Syria’s northwest, the latest in a series of military interventions.",
+      "section": "news",
+      "rankScore": 0.554761
+    },
+    {
+      "id": "f315db3c92a73624",
+      "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
+      "url": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-24T09:29:26.000Z",
+      "excerpt": "Argentinian striker was targeted by fans while warming up and jeered again after coming on in the 66th minute.",
+      "section": "news",
+      "rankScore": 0.552905
+    },
+    {
+      "id": "b742fad0fe9d3cff",
+      "title": "Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-24T09:28:26.000Z",
+      "author": "Jakub Krupa (now) and Vivian Ho (earlier)",
+      "excerpt": "UK PM to announce support for France in setting up missile assembly lines during his Kyiv visit, as coalition of willing meets later today Burnham visits Ukraine with promise of boost for Kyiv’s long-range missiles The Kremlin responded to Burnham’s overnight comments, saying his plans to help…",
+      "section": "news",
+      "rankScore": 0.552683
+    },
+    {
+      "id": "fd08268128df01c5",
+      "title": "We’re in a New Era of Class Warfare. History Points to a Way Out.",
+      "url": "https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-24T09:03:15.000Z",
+      "author": "Kim Phillips-Fein",
+      "excerpt": "The class-based violence of the past was part of a broader struggle. Today, the violence is the end in itself.",
+      "section": "news",
+      "rankScore": 0.478701
+    },
+    {
+      "id": "5429b8888d928319",
+      "title": "'It embarrasses me to be involved': Inside the National Guard D.C. deployment",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
+      "source": "npr-news",
+      "publishedAt": "2026-08-24T09:00:00.000Z",
+      "author": "Kat Lonsdorf",
+      "excerpt": "As President Trump's deployment of the National Guard to Washington, D.C. enters its second year, three guard members who served many months on the mission share their reactions with NPR.",
+      "section": "news",
+      "rankScore": 0.478069
+    },
+    {
+      "id": "28a951aa8cce6cdd",
+      "title": "Thames Water creditors plan board shake-up if utility avoids nationalisation",
+      "url": "https://www.ft.com/content/f160c7b8-d322-4b5f-b5c9-f6861c62e3db?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-08-24T07:36:51.000Z",
+      "excerpt": "Move aims to reassure government there would be a change of leadership under their ownership",
+      "section": "news",
+      "rankScore": 0.461901
+    },
+    {
+      "id": "bb25128f931cceec",
+      "title": "新西兰拟禁16岁以下使用社交媒体，法案或难获议会通过",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdVBJaTdYMXFDXzFXWGgwMDRLWXc4dWJydDctc0tJQWdzVm1qSW9hSmVXOW5DQzRJdHdXWFhCbDZiYTZ2MXhIU2lqUkxYUW5sWnM3Mm1iWVl5a00tYTd4M1VnVHlLSXBnT0VCN21OSmdsNHI4WllLRkpaR3ZMNkRNdi1hWUxJcWctWjZvNWdoQjBnWlc2?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-24T09:33:34.000Z",
+      "excerpt": "新西兰拟禁16岁以下使用社交媒体，法案或难获议会通过 紫荆网 新西兰政府拟禁止16岁以下青少年使用社交媒体 凤凰网科技 纽西兰拟禁止16岁以下儿少使用社媒 违规平台恐面临重罚 SWI swissinfo.ch 纽西兰追随澳洲脚步 推未成年人社媒“16禁” - 国际 - 即时国际 Sin Chew Daily 新西兰拟立法禁止16岁以下未成年人使用社交媒体 chinanews.com.cn",
+      "section": "news",
+      "rankScore": 0.415368
+    },
+    {
+      "id": "415e90d4635c398a",
+      "title": "联合国人权监测团：俄罗斯袭击乌克兰购物中心违反国际人道法",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142675",
+      "source": "un-news-zh",
+      "publishedAt": "2026-08-23T12:00:00.000Z",
+      "excerpt": "联合国乌克兰人权监测团周六表示，俄罗斯周五对乌中部第聂伯罗彼得罗夫斯克州克里维里赫市一处人流量大的购物中心发动袭击，从目前的情况来看，这一行为违反了国际人道法。",
+      "section": "news",
+      "rankScore": 0.29966
+    },
+    {
+      "id": "0405040c48b2d989",
+      "title": "三部门：加快推进家庭医生签约服务向专科医生拓展",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-24/10683226.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-08-24T08:21:37.000Z",
+      "excerpt": "中新网8月24日电 据国家卫健委网站消息，国家卫生健康委办公厅、国家中医药局综合司、国家疾控局综合司日前联合发布《关于印发进一步深化“六个拓展” 做实家庭医生签约服务若干措施的通知》。通知提到，加快推进签约服务由全科医生向专科医生拓展。",
+      "section": "cn-news",
+      "rankScore": 0.806752
+    },
+    {
+      "id": "8dfcd14e4bea1520",
+      "title": "陈武同志逝世",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683302.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-24T09:41:08.000Z",
+      "excerpt": "新华社北京8月24日电 中国共产党的优秀党员，忠诚的共产主义战士，我国民族工作和经济建设战线的杰出领导人，中国人民政治协商会议第十四届全国委员会副主席陈武同志，因病于2026年8月24日15时05分在北京逝世，享年72岁。",
+      "section": "cn-news",
+      "rankScore": 0.76382
+    },
+    {
+      "id": "48de77918974947f",
+      "title": "跨越两千公里的“零碳加油”：8000吨绿色甲醇背后的“中国方案”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683304.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-24T09:51:28.000Z",
+      "excerpt": "8月17日，上海洋山港绿华山锚地。法国达飞集团旗下的“欧斯米姆”号巨轮静静停泊，等待一次特殊的“加油”。当甲醇加注船“海港致远”轮稳稳对接，8000吨主要来自吉林洮南的绿色甲醇顺利注入燃料舱，全球单次绿色甲醇加注最高纪录就此刷新。",
+      "section": "cn-news",
+      "rankScore": 0.627527
+    },
+    {
+      "id": "8de60d3139c85f03",
+      "title": "萌宠营销，跳出品类边界",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JS2RlZzJ4b2wzYTZKZS1Da2RkQ05UVV9qdlFwdUhMdTBGaTlmYVhkNmJ0TVhPd2R1aVRja2w4OVd5MTBQTHZhd0FoMDlMYmoyS0ZQeFFaX25vc1ktd2VTQw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-24T07:57:00.000Z",
+      "excerpt": "萌宠营销，跳出品类边界",
+      "section": "cn-news",
+      "rankScore": 0.59891
+    },
+    {
+      "id": "5d1859469788e6c4",
+      "title": "学习进行时·深入学习贯彻习近平党建思想丨牢固树立“四个意识”，维护党中央权威",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xc0U5ZW5PSVVpUTVNbWRtUEV6Y1MySmVBSk5UYjVKeFBYai02Z05qZ0laVVRqQm16S3lJdWNqaWprdUpqM0pFc0tNeFVqMFhKelUzOGpsN3hORmhwLVJPamJSbUtWQQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-24T08:51:55.000Z",
+      "excerpt": "学习进行时·深入学习贯彻习近平党建思想丨牢固树立“四个意识”，维护党中央权威 hebcdi.gov.cn “习近平党建思想与国家治理”学术研讨会在北京召开 中国网新闻中心 学习新语丨切实担负起管党治党政治责任 gdlgb.gov.cn 湖南省自然资源厅党组书记、厅长李全胜：感悟思想伟力，奋力谱写自然资源事业新篇章 搜狐网 中国纪检监察报评论员文章丨深入学习贯彻习近平党建思想以更高标准、更实举措完成好全年各项工作任务 南粤清风网",
+      "section": "cn-news",
+      "rankScore": 0.544568
+    },
+    {
+      "id": "a85b3e987c555947",
+      "title": "中國24家文學刊物聯合反AI 一經查獲永不採用",
+      "url": "https://www.cna.com.tw/news/acn/202608240172.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-24T07:02:37.000Z",
+      "excerpt": "（中央社台北24日電）中國24家文學刊物日前發表「捍衛原創，拒絕AI」聯合聲明指出，各家文學刊物來稿經人工覆核與技術檢測雙重審核，一經查實係AI投稿，列入黑名單，永不採用該作者作品。",
+      "section": "cn-news",
+      "rankScore": 0.520279
+    },
+    {
+      "id": "6f2d2f820899c83c",
+      "title": "China boosts coal’s economic value 700% after turning it to liquids: report",
+      "url": "https://www.scmp.com/news/china/science/article/3365027/china-boosts-coals-economic-value-700-after-turning-it-liquids-report?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-24T10:00:11.000Z",
+      "author": "Zhang Tong",
+      "excerpt": "The world’s largest coal-to-liquids plant is turning coal into oil products that can power rockets and serve as machine lubricants while boosting its value sevenfold, according to a Chinese newspaper.",
+      "section": "cn-news",
+      "rankScore": 0.489771
+    },
+    {
+      "id": "12b5de7c788bc38c",
+      "title": "蔡崇信、吴泳铭增持1.2亿港元阿里股票",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jZ2loWFoyazE0bVdWVG5SZndlWjlycVRXSnhrTUFkMUYtMFdMU1NackJoT2hJYlNNWFpQeG1MNW5vSzg0THBZazFkaERHSE9ieWxfNXhWLXhLZDVx?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-24T09:48:00.000Z",
+      "excerpt": "蔡崇信、吴泳铭增持1.2亿港元阿里股票 证券时报 阿里配股后股价下跌，野村：稀释不足4%维持买入，债市太贵是选择配股主因 华尔街见闻 暴跌10%，如何看待阿里巨额配售？ 新浪财经 阿里巴巴拟按每股112.70港元配售7.1亿股新股份，配售总金额800亿港元 china.zjol.com.cn 阿里宣布800亿港元新股配售，AI板块整体普跌 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.487402
+    },
+    {
+      "id": "862af8c5b34e626e",
+      "title": "新华语典·“典”评长春电影节|电影展映 让市民成为观影主角",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb1Bld194ZmFoSzI5bkVrdWZXcXNHSU1MRXNfd3dETTg0X2RmUlQtUFotN2gyeGx4WjJLNlNPQlcxYVFMc3dYV0RvaTFMVU92TkY1czlPM3J3RkFCR1hiektYeERwOTdlZnc1b21Ub1djQmZkbDNFaEpzNk9DbUpfX2tn?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-24T08:53:49.000Z",
+      "excerpt": "新华语典·“典”评长春电影节|电影展映 让市民成为观影主角 新华网 长春电影节“超现场”，破界而来 凤凰网 《我们的少年时代2》定档宣传_新浪新闻 手机新浪网 第二十一届中国长春电影节开幕 光明网 光影润春城！第二十一届中国长春电影节开幕 中华网",
+      "section": "cn-news",
+      "rankScore": 0.408743
+    },
+    {
+      "id": "a970c8489dee7677",
+      "title": "Ray Online｜曾俊華遇普通話網約車司機不懂老牌屋苑 議員：屋苑有幾十年歷史唔代表人人聽過",
+      "url": "https://hk.news.yahoo.com/ray-online-%E6%9B%BE%E4%BF%8A%E8%8F%AF%E9%81%87%E6%99%AE%E9%80%9A%E8%A9%B1%E7%B6%B2%E7%B4%84%E8%BB%8A%E5%8F%B8%E6%A9%9F%E4%B8%8D%E6%87%82%E8%80%81%E7%89%8C%E5%B1%8B%E8%8B%91-%E8%AD%B0%E5%93%A1-%E5%B1%8B%E8%8B%91%E6%9C%89%E5%B9%BE%E5%8D%81%E5%B9%B4%E6%AD%B7%E5%8F%B2%E5%94%94%E4%BB%A3%E8%A1%A8%E4%BA%BA%E4%BA%BA%E8%81%BD%E9%81%8E-071621374.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-08-23T23:16:21.000Z",
+      "excerpt": "網約車服務愈趨盛行，不過前財政司司長曾俊華近日分享，遇到唔識講廣東話嘅網約車司機，亦好似直頭冇聽過香港幾十年嘅老牌屋苑，質疑係咪適合照樣接單。民建聯立法會議員植潔鈴就話香港有咁多屋苑，一個屋苑有幾十年歷史都唔代表人人聽過。植潔鈴主動喺社交平台回應事件，佢話前財爺近日分享嘅經歷，其實帶出幾值得思考嘅問題，就係網約車愈嚟愈普及，應該用咩標準衡量服務質素。對於曾俊華話司機唔識路，要全程跟住GPS導航。植潔鈴話司機未聽過某個屋苑名，未必等於唔熟香港道路。而且網約車用GPS同即時路況導航，本來就係服務模式一部分。但佢指出遇到塞車、封路、導航失準等等，司機仍要有基本判斷同應變能力，安全駕駛始終係首要條件。",
+      "section": "cn-news",
+      "rankScore": 0.364582
+    },
+    {
+      "id": "e402f7fe8e6c8147",
+      "title": "“沙德尔”将于27日至28日登陆闽浙 闽桂粤湘有强降雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683301.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-24T09:40:04.000Z",
+      "excerpt": "中国天气网讯 据中央气象台消息，今年以来，西北太平洋和南海台风生成数显著偏多。预计第18号台风“沙德尔”将向西偏北移动，可能于27日夜间至28日上午在浙江南部到福建沿海登陆(台风级或强台风级)，但不排除27日下午到夜间登陆台湾东部沿海(强台风级)后，于28日在福建中南部沿海登陆(强热带风暴级或台风级)的可能。",
+      "section": "cn-life",
+      "rankScore": 0.832902
+    },
+    {
+      "id": "c0e8f81277fd580f",
+      "title": "住院分娩个人“零自付”加速落地，哪些费用能全报？",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nX2Q4UVVybHQ2TWVIQ0kwOFdka3dGdURkQ2J3dzhzcUpyc05UMXJRU0tNazF0MktiU2hlY29wTXRuT2hNX3dQYWxTM0ZCYVVPR2F3M3ExNEVSX0FpZmVRTmVLbm4?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-24T09:51:00.000Z",
+      "excerpt": "住院分娩个人“零自付”加速落地，哪些费用能全报？ 新京报",
+      "section": "cn-life",
+      "rankScore": 0.62741
+    },
+    {
+      "id": "8117211bba6c85df",
+      "title": "菲律宾南部海域发生5.0级地震",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tbGFNdDZFMzIzUTl5SEtSZ2ZBem41V0hkaE1rSU1sYTRWMXJmSjJRMWxwaVBaUHczUjNhT1VYcnI4djRKaTBYLVB1dFBpVjBQdVp2eDhka1ZwRHYtUGNNOGJ5WFg0VEp2?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-24T09:18:21.000Z",
+      "excerpt": "菲律宾南部海域发生5.0级地震 chinanews.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.619248
+    },
+    {
+      "id": "367cf1673f7e19ef",
+      "title": "深圳市龙岗区第二人民医院关于2026年第七批医用耗材及试剂公开遴选的公告",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwc3pKZkVZcDc0MjhOWHJlMU5FR19XYTNHcXpUdm40VXJlTkJiTHpvTnNvMGdnbm02dFF4aW9hMlY2bjFPNWVTSGxWaXE2VUdFSmprU2dkOEVYQTM4aVl4TlRnSzJQN1I2ZW1RM0pwSFY?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-24T09:48:09.000Z",
+      "excerpt": "深圳市龙岗区第二人民医院关于2026年第七批医用耗材及试剂公开遴选的公告",
+      "section": "cn-life",
+      "rankScore": 0.557065
+    },
+    {
+      "id": "9dae99dac62b58bc",
+      "title": "供货吉利激光雷达被质监总局召回，速腾聚创跌超14%！",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BNm8wNWtTcFZIelA3c0pPUHlvVU1HbG1iREdwMmZ3clRWOS13YlViX0ZJQTJwREhXdUJUMHlFcGRmRG44NEpOcU41MEF0aXpVSEpV?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-24T09:35:00.000Z",
+      "excerpt": "供货吉利激光雷达被质监总局召回，速腾聚创跌超14%！ 电子工程专辑",
+      "section": "cn-life",
+      "rankScore": 0.484875
+    },
+    {
+      "id": "490a259e8ad3e0fd",
+      "title": "暴食后真有“后悔药”吗？专家：网传方法存健康隐患",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14SjR6b2hYQ0JRRXVCTkVyZ1NORVlVLW9fU2cyeTIyblcyWm1NZjA1TS0yY2VLVVUtaU42UHBsbkF3RjB0QmJoSzZfd0lnUWdwYWF3NVlLT1FSWXZCaEJnblBDWQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-24T09:00:00.000Z",
+      "excerpt": "暴食后真有“后悔药”吗？专家：网传方法存健康隐患 光明网",
+      "section": "cn-life",
+      "rankScore": 0.478069
+    },
+    {
+      "id": "c01041d64fd52262",
+      "title": "从黄海之滨到天山脚下！盐城第十二批“园丁”赴疆支教",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WNGRLQ0tlbURBODFhZEtBaldxQkZZeWRxeUk5NllXbFhaVlA2RFNYSkJNVFZCb1NzcnR1QzV2clp3VkdGcVA3cjlialcyVmI3SUM5QURwZkx6SkxTV1Iwcw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-24T09:47:00.000Z",
+      "excerpt": "从黄海之滨到天山脚下！盐城第十二批“园丁”赴疆支教 ycnews.cn",
+      "section": "cn-life",
+      "rankScore": 0.417607
+    },
+    {
+      "id": "a1cad264b9e7d26b",
+      "title": "林荣国：挂国旗变考数学，国庆月何须草木皆兵",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYXcxV1pDekV2UHN5aGdyU3ZibG5IaXJBNHFRWmpTblRCOGthTGNMSlkyWU9rdEktNGl0X2xyUGdQOVRJamUxVG5aRHNFam9DRjZsdDJsUUlWLWhtSjRTek95aklZRnQ4bnNkM2l2VE11dWFIOG9PQUswUFRDVW0xVGR6WFBlaF92NWt2QS1taFVBNEZ1RHBOMG9ydTgwZVVQUnRhSW1xZFpoMHJNQTFKUnVmUTdya25JcHVLbUtidGo2MUtYS3JHOHpQX0pubTZuMXFKWklB?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-08-24T00:15:00.000Z",
+      "excerpt": "林荣国：挂国旗变考数学，国庆月何须草木皆兵 中國報 China Press",
+      "section": "cn-life",
+      "rankScore": 0.268561
+    }
+  ],
+  "warnings": [
+    "source \"jiemian\" failed: TypeError: fetch failed",
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
