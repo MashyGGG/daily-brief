@@ -219,24 +219,61 @@ describe('publish/collect — the window', () => {
 })
 
 describe('publish/collect — dedupe, ranking and the minItems gate', () => {
-  it('drops items an earlier publication already carried', () => {
+  it('drops items an earlier publication carried — but only where backfill reached', () => {
     const cfg = config()
+    const hungry = { ...line(cfg, 'daily'), minItems: 3, backfillDays: 2 }
     const fs = archive({
+      // The line's own window. `old` went out yesterday and stays anyway: inside the
+      // primary window an already-published id is not evidence of duplication.
       'archive/2026/08/2026-08-22.morning.json': record('2026-08-22', 'morning', [
         item({ id: 'old', section: 'tech', rankScore: 9 }),
         item({ id: 'new1', section: 'tech', rankScore: 1 }),
-        item({ id: 'new2', section: 'tech', rankScore: 1 }),
+      ]),
+      // Only reached because the window was short — here the check does apply.
+      'archive/2026/08/2026-08-21.morning.json': record('2026-08-21', 'morning', [
+        item({ id: 'stale', section: 'tech', rankScore: 8 }),
+        item({ id: 'new2', section: 'tech', rankScore: 0.5 }),
       ]),
     })
     const result = collect({
       config: cfg,
-      schedule: line(cfg, 'daily'),
+      schedule: hungry,
       publishDate: '2026-08-22',
-      publishedItemIds: ['old'],
+      publishedItemIds: ['old', 'stale'],
       fs,
     })
-    expect(result.issue!.itemIds).toEqual(['new1', 'new2'])
-    expect(result.explain.rows[0]!.alreadyPublished).toBe(1)
+    expect(result.issue!.itemIds.sort()).toEqual(['new1', 'new2', 'old'])
+    const window = result.explain.rows.find((r) => !r.backfill)!
+    const backfilled = result.explain.rows.find((r) => r.backfill)!
+    expect(window.alreadyPublished).toBe(0)
+    expect(backfilled.alreadyPublished).toBe(1)
+  })
+
+  /**
+   * The regression that made this rule what it is. A weekly review reprints the week's
+   * items by definition, so with the filter on the primary window the daily line that had
+   * already published them left the weekly line with 2 of 20 items and it skipped itself
+   * — every Monday, silently, for as long as the dailies kept running.
+   */
+  it('still fills the weekly line after the dailies published the same items', () => {
+    const cfg = config()
+    const weekly = { ...line(cfg, 'weekly'), minItems: 3 }
+    const week = ['a', 'b', 'c', 'd'].map((id, i) =>
+      item({ id, section: 'tech', rankScore: 1 - i / 10 }),
+    )
+    const fs = archive({
+      'archive/2026/08/2026-08-24.weekly.json': record('2026-08-24', 'weekly', week),
+    })
+    const result = collect({
+      config: cfg,
+      schedule: weekly,
+      publishDate: '2026-08-24',
+      // Exactly what six days of published dailies leave behind.
+      publishedItemIds: ['a', 'b', 'c', 'd'],
+      fs,
+    })
+    expect(result.reason).toBeUndefined()
+    expect(result.issue!.itemIds.sort()).toEqual(['a', 'b', 'c', 'd'])
   })
 
   it('caps at maxItems by rankScore, not by file order', () => {

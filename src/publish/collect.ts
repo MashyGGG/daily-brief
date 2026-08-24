@@ -17,14 +17,17 @@ import type { CollectedIssue } from './types'
  *   1. list the window's archived JSON      (daily: today's slots; weekly: that Monday's)
  *   2. skip reprints the window did not ask for by name
  *   3. section whitelist
- *   4. drop item ids an earlier publication already carried
- *   5. rank desc, cap at maxItems
- *   6. fewer than minItems? backfill, then give up rather than post filler
+ *   4. rank desc, cap at maxItems
+ *   5. fewer than minItems? backfill — and only there, drop what an earlier publication
+ *      already carried — then give up rather than post filler
  *
- * Cross-issue duplication needs no work here: the pipeline's cross-day dedupe already
- * guarantees an item is archived once, so merging morning+evening cannot double up.
- * `publishedItemIds` guards something else — backfill widening the window backwards and
- * re-picking items that went out in an earlier publication.
+ * Cross-issue duplication needs no work in the primary window: the pipeline's cross-day
+ * dedupe already guarantees an item is archived once, so merging morning+evening cannot
+ * double up. `publishedItemIds` guards one thing only — backfill widening the window
+ * backwards and re-picking items that went out in an earlier publication. Applying it to
+ * the primary window as well looked harmless and was not: a weekly review reprints the
+ * week's items by definition, so the daily line that already published them left the
+ * weekly line with nothing and it skipped itself every Monday.
  */
 
 /** One row of `--explain`: what a single archived issue contributed, and what was dropped. */
@@ -35,7 +38,7 @@ export interface CollectExplainRow {
   total: number
   /** Left after the section whitelist. */
   included: number
-  /** Dropped because a previous publication already carried them. */
+  /** Dropped because a previous publication already carried them — backfill rows only. */
   alreadyPublished: number
   /** Dropped because another file in this window already carried them. */
   duplicate: number
@@ -79,7 +82,10 @@ export interface CollectOptions {
   schedule: PublishSchedule
   /** The publication date — also the right-hand edge of the window. */
   publishDate: string
-  /** Item ids carried by earlier publications of ANY line (§4.1). */
+  /**
+   * Item ids carried by earlier publications of ANY line (§4.1). Consulted only for
+   * issues backfill reached back for, never for the line's own window.
+   */
   publishedItemIds?: Iterable<string>
   fs?: FsLike
 }
@@ -213,7 +219,13 @@ export function collect(options: CollectOptions): CollectResult {
       for (const item of issue.record.items) {
         if (!allowed.has(item.section)) continue
         row.included++
-        if (published.has(item.id)) {
+        // Only what BACKFILL dragged in is checked against earlier publications. Inside
+        // the line's own window the check is both unnecessary and harmful: unnecessary
+        // because the pipeline's cross-day dedupe already archives an item once, and
+        // harmful because the weekly window is a REPRINT of the week — every item in it
+        // went out in a daily first, so filtering the primary window starved the weekly
+        // line to zero and skipped it every Monday.
+        if (issue.backfill && published.has(item.id)) {
           row.alreadyPublished++
           continue
         }
@@ -247,9 +259,10 @@ export function collect(options: CollectOptions): CollectResult {
     }
   }
 
-  // §1.3 step 6 — widen the window backwards before giving up. Anything it finds that an
-  // earlier publication already carried is dropped by `published`, so backfill can only
-  // add genuinely unpublished items.
+  // §1.3 step 5 — widen the window backwards before giving up. This is the one place
+  // `published` applies: reaching into older days is exactly how a publication would
+  // re-pick what an earlier one already carried, so backfill can only add genuinely
+  // unpublished items.
   if (candidates.length < schedule.minItems && schedule.backfillDays > 0) {
     explain.backfillUsed = true
     const oldest = window[window.length - 1]!
