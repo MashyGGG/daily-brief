@@ -51,6 +51,17 @@
           "failStreak": 0,
           "updatedAt": "2026-08-24T06:31:00.958Z",
           "lastError": null
+        },
+        "juejin": {
+          "platform": "juejin",
+          "status": "draft",
+          "postId": "7677254638325415946",
+          "url": "https://juejin.cn/editor/drafts/7677254638325415946",
+          "contentHash": "b7aad08afbcd7606",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-08-24T07:20:44.189Z",
+          "lastError": null
         }
       }
     }
