@@ -693,7 +693,9 @@ publish:
 
   schedules:
     - id: daily
-      time: '09:30' # 早报 07:10 + 晚报 20:10，留 2h20m 吸收 Actions 0–30 分钟漂移
+      # 必须晚于晚报 20:10：窗口右边界就是发布日当天，09:30 那一刻当天的 evening
+      # 还不存在，合并两期就退化成只发早报一半。1h20m 缓冲吸收 Actions 0–30 分钟漂移。
+      time: '21:30'
       # ★ 级别 1：合并当天两期。实测单期技术 11–17 条，合并后 23–31 条（§0.4）。
       window: { days: 1, slots: [morning, evening] }
       titleTemplate: '{title} · 技术日报（{date}）'

@@ -41,41 +41,6 @@
           "lastError": null
         }
       }
-    },
-    "daily": {
-      "sources": [
-        {
-          "date": "2026-08-24",
-          "slot": "morning"
-        }
-      ],
-      "itemCount": 10,
-      "itemIds": [
-        "08585002454774c3",
-        "709e999ecf240a9d",
-        "04fa8eb6053f6791",
-        "dbdd7abbe8df8825",
-        "dcf71d6b7d73baf1",
-        "ccd92457e11f327e",
-        "a07c055488b19eef",
-        "0f4276a7694e777b",
-        "eb28e38f144027a4",
-        "4670147d7fe4ab7d"
-      ],
-      "contentHash": "a254e6b5b5da836e",
-      "targets": {
-        "notion-archive": {
-          "platform": "notion",
-          "status": "published",
-          "postId": "3c69696e-9c08-81c3-bdc0-c218f651f220",
-          "url": "https://app.notion.com/p/2026-08-24-3c69696e9c0881c3bdc0c218f651f220",
-          "contentHash": "a254e6b5b5da836e",
-          "attempts": 1,
-          "failStreak": 0,
-          "updatedAt": "2026-08-24T06:17:21.053Z",
-          "lastError": null
-        }
-      }
     }
   }
 }

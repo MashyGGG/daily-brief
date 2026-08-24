@@ -9,7 +9,7 @@ on:
   schedule:
     # BEGIN generated schedule
     # generated from brief.config.yaml - run `pnpm publish:schedule` after editing, do not hand-edit
-    - cron: '30 1 * * *' # daily - 09:30 Asia/Shanghai
+    - cron: '30 13 * * *' # daily - 21:30 Asia/Shanghai
     - cron: '30 2 * * 1' # weekly - Mon 10:30 Asia/Shanghai
     # END generated schedule
 
