@@ -1,0 +1,328 @@
+{
+  "date": "2026-08-24",
+  "slot": "weekly",
+  "scheduleId": "weekly",
+  "generatedAt": "2026-08-24T00:56:42.631Z",
+  "configHash": "a7c0b68a9b41",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 168,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "1825762fda9ae713",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "source": "hn-front",
+      "publishedAt": "2026-08-21T13:56:37.000Z",
+      "score": 958,
+      "author": "speckx",
+      "excerpt": "958 points · 330 comments · https://news.ycombinator.com/item?id=49388154",
+      "section": "tech",
+      "rankScore": 1.051841
+    },
+    {
+      "id": "156485fc7262616d",
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-20T20:07:26.000Z",
+      "score": 1362,
+      "author": "speckx",
+      "excerpt": "1362 points · 296 comments · https://news.ycombinator.com/item?id=49379550",
+      "section": "tech",
+      "rankScore": 1.038158
+    },
+    {
+      "id": "1a77829df1e37497",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-21T10:33:56.000Z",
+      "score": 196,
+      "author": "dares2573",
+      "excerpt": "196 points · 48 comments · https://news.ycombinator.com/item?id=49386163",
+      "section": "tech",
+      "rankScore": 1.001522
+    },
+    {
+      "id": "6aa2d9228d55985b",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "source": "hn-front",
+      "publishedAt": "2026-08-22T14:54:07.000Z",
+      "score": 281,
+      "author": "jemoka",
+      "excerpt": "281 points · 92 comments · https://news.ycombinator.com/item?id=49400408",
+      "section": "tech",
+      "rankScore": 0.995391
+    },
+    {
+      "id": "086e921e5083051a",
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-21T05:31:34.000Z",
+      "score": 268,
+      "author": "rdmuser",
+      "excerpt": "268 points · 149 comments · https://news.ycombinator.com/item?id=49384180",
+      "section": "tech",
+      "rankScore": 0.929944
+    },
+    {
+      "id": "3de1e2c2d2f9eb39",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-23T20:24:52.000Z",
+      "excerpt": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here .…",
+      "section": "ai",
+      "rankScore": 0.776937
+    },
+    {
+      "id": "9e9b5881c2db4454",
+      "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
+      "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+      "source": "latent-space",
+      "publishedAt": "2026-08-21T05:45:21.000Z",
+      "excerpt": "Yes, we’re confused too.",
+      "section": "ai",
+      "rankScore": 0.752527
+    },
+    {
+      "id": "3d7770bca15b0711",
+      "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
+      "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
+      "source": "latent-space",
+      "publishedAt": "2026-08-20T05:17:12.000Z",
+      "excerpt": "Every lab CEO is on X now",
+      "section": "ai",
+      "rankScore": 0.72899
+    },
+    {
+      "id": "3ec78b9dbabd5084",
+      "title": "llm 0.32.1",
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-21T17:16:13.000Z",
+      "excerpt": "Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx , and it turned out LLM depended on that library but only installed it via a transitive openai dependency.",
+      "section": "ai",
+      "rankScore": 0.713463
+    },
+    {
+      "id": "f3358fcc35974da2",
+      "title": "llm 0.33",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-22T17:01:16.000Z",
+      "excerpt": "Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix.",
+      "section": "ai",
+      "rankScore": 0.709205
+    },
+    {
+      "id": "d0a2feb9c81480ce",
+      "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+      "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-23T23:34:03.283Z",
+      "excerpt": "搭载美团 LongCat 2.0 的全场景 AI Agent 平台 CatPaw 正式上线，我们将模型能力从“跑得动”推向“用得好”。CatPaw 提供开箱即用的 AI 智能工作台与企业级 Agent 开发托管能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "bd94f97e6b70b1ef",
+      "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-23T12:59:51.548Z",
+      "excerpt": "美团 LongCat 团队构建了 MineExplorer —— 首个在开放世界中做到分钟级长程任务的评测基准，系统性地评测多模态大模型在需要长程规划、并包含隐藏前置条件的任务中的真实能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "728cce482217c5cb",
+      "title": "ICML 2026 | 美团技术团队学术论文精选",
+      "url": "https://tech.meituan.com/2026/06/29/ICML-2026.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-22T23:33:39.028Z",
+      "excerpt": "ICML是机器学习领域最具影响力的国际顶级学术会议之一。大会旨在探讨机器学习未来发展所面临的关键挑战与核心问题，并通过征集和评估具有重要理论价值和实际影响的前沿研究成果，推动领域发展并引领未来研究方向。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "5a12d0bb8db7026c",
+      "title": "直播回放·含 ACL'26 杰出论文 | 美团 AI 顶会论文 32 篇精讲",
+      "url": "https://tech.meituan.com/2026/07/11/2026-meituan-32-papers.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-22T12:58:43.821Z",
+      "excerpt": "如果你正在关注 AI 前沿，这篇内容值得收藏。2026 年，美团技术团队数十篇论文被 ACL、SIGIR、ICML、KDD 等顶会收录。我们精选 32 篇，进行了 5 大专场直播。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-21T23:35:49.636Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "74dde799cab359d2",
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-21T06:06:11.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.",
+      "section": "security",
+      "rankScore": 0.689903
+    },
+    {
+      "id": "37c393cd4ee11b30",
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-21T11:21:39.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making.",
+      "section": "security",
+      "rankScore": 0.644872
+    },
+    {
+      "id": "b3de4ef6099f4a3c",
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-21T18:53:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled…",
+      "section": "security",
+      "rankScore": 0.621437
+    },
+    {
+      "id": "4bebd2bbd1525bc4",
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-21T10:03:11.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.",
+      "section": "security",
+      "rankScore": 0.604632
+    },
+    {
+      "id": "18975e0566b00762",
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-21T15:52:10.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and…",
+      "section": "security",
+      "rankScore": 0.571205
+    },
+    {
+      "id": "decaebc5d5b225d1",
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-21T13:07:00.000Z",
+      "excerpt": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "section": "news",
+      "rankScore": 0.768787
+    },
+    {
+      "id": "7974844619e035af",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-23T12:56:43.000Z",
+      "excerpt": "The former defence minister has also called for wartime elections to be held in Ukraine.",
+      "section": "news",
+      "rankScore": 0.768227
+    },
+    {
+      "id": "abcc06533911ea78",
+      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "url": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-20T07:08:35.000Z",
+      "excerpt": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
+      "section": "news",
+      "rankScore": 0.763024
+    },
+    {
+      "id": "2325ec5cf0a5228a",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-22T12:36:28.000Z",
+      "excerpt": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "section": "news",
+      "rankScore": 0.757441
+    },
+    {
+      "id": "41664b5d84969847",
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-21T22:45:01.000Z",
+      "excerpt": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+      "section": "news",
+      "rankScore": 0.754475
+    },
+    {
+      "id": "45059db112dc87cb",
+      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+      "url": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-21T04:28:39.000Z",
+      "excerpt": "美國和中國再次就巴拿馬運河問題交鋒。這條戰略水道約佔全球海運貿易量5%，而美國近40%的集裝箱運輸都經過這裏。",
+      "section": "cn-news",
+      "rankScore": 0.729091
+    },
+    {
+      "id": "320ac733ea13c910",
+      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
+      "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-23T11:36:31.000Z",
+      "excerpt": "BBC分析：加拿大總理卡尼將必須讓民眾相信，他放棄與白宮談判的這場豪賭，將值得承受隨之而來的後果。",
+      "section": "cn-news",
+      "rankScore": 0.722986
+    },
+    {
+      "id": "8a69ffccc711eba3",
+      "title": "台灣為何此刻提出「鞭刑入法」公投？",
+      "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-20T04:00:32.000Z",
+      "excerpt": "關於鞭刑的討論已在台灣醞釀了近十年，尤其在重大刑案發生後，民眾不滿刑罰不足，主張仿效新加坡制度。最新民調顯示約八成台灣人贊同政府評估鞭刑，人權團體與法律界則批評此舉違反國際人權標準。",
+      "section": "cn-news",
+      "rankScore": 0.705564
+    },
+    {
+      "id": "37fac1e99b1b61d1",
+      "title": "「蟑螂人民黨」的崛起：印度Z世代到底在抗議什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/c1l136ry802o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-21T11:05:58.000Z",
+      "excerpt": "一句侮辱，演變成一場反抗。從網路玩笑到全國抗議，這場由印度Z世代推動的運動，成為納倫德拉·莫迪執政以來最嚴峻的挑戰之一。",
+      "section": "cn-news",
+      "rankScore": 0.700512
+    },
+    {
+      "id": "b679491d3c198f1b",
+      "title": "罗昊：现在谈AI泡沫破裂还为时过早，因为基本面还在 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aRU12amxuQTJIX09EbmkwWXQ0TlNJcjlWZFBOU2RNSE5KV3dFT0RvOGVSYm5JVzZiTlpPcXE1ZVF2LVFMdWhucW9RYzNFcl9IaUZzY3hFbEVmM1M4RVE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-20T05:15:58.000Z",
+      "excerpt": "罗昊：现在谈AI泡沫破裂还为时过早，因为基本面还在 thepaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.596138
+    }
+  ],
+  "warnings": []
+}
