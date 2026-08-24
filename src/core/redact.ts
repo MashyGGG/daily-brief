@@ -13,8 +13,10 @@ const MASK = '[REDACTED]'
 // `_BASE_URL` covers `LLM_BASE_URL` (§6.2 item 4): `LLM_API_KEY` was already caught by
 // `KEY$`, but a self-hosted endpoint can carry its own auth in the path or the query,
 // and nothing else in this file would have matched it.
+// `COOKIE` / `SESSION` cover PUBLISH.md §6's `JUEJIN_COOKIE`: a web session cookie IS the
+// account credential, and it matched none of the names above.
 const SECRET_ENV_PATTERN =
-  /(TOKEN|SECRET|PASS|PASSWORD|KEY|WEBHOOK|APP_TOKEN|_UID|_URL_SECRET|_BASE_URL|EMAIL_TO|EMAIL_CC)$/i
+  /(TOKEN|SECRET|PASS|PASSWORD|KEY|WEBHOOK|APP_TOKEN|COOKIE|SESSION|_UID|_URL_SECRET|_BASE_URL|EMAIL_TO|EMAIL_CC)$/i
 
 /** Env vars matching the pattern above that are nonetheless safe / structural. */
 const SECRET_ENV_ALLOWLIST = new Set(['SMTP_HOST', 'SMTP_PORT', 'SMTP_USER', 'EMAIL_FROM'])
