@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-24",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-08-24T13:11:10.906Z",
+  "configHash": "9cde425c0c54",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "8e63228f12f680f1",
+      "title": "Emacs 31.1 released",
+      "url": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
+      "source": "lobsters",
+      "publishedAt": "2026-08-24T10:52:27.000Z",
+      "author": "lists.gnu.org via dutchie",
+      "section": "tech",
+      "rankScore": 0.56597
+    },
+    {
+      "id": "ba18c99779ef4590",
+      "title": "Tiny, Untyped Monads (2024)",
+      "url": "https://text.marvinborner.de/2024-11-18-00.html",
+      "source": "lobsters",
+      "publishedAt": "2026-08-24T09:56:57.000Z",
+      "author": "text.marvinborner.de via abhin4v",
+      "section": "tech",
+      "rankScore": 0.540355
+    },
+    {
+      "id": "cd213f393c02478c",
+      "title": "3 constraints before I build anything",
+      "url": "https://jordanlord.co.uk/blog/3-constraints/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-24T09:43:23.000Z",
+      "author": "jordanlord.co.uk via schmudde",
+      "section": "tech",
+      "rankScore": 0.534093
+    },
+    {
+      "id": "ef3adbfb18181f82",
+      "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+      "url": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+      "source": "verge",
+      "publishedAt": "2026-08-24T11:37:53.000Z",
+      "author": "Dominic Preston",
+      "excerpt": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and perhaps cheaper…",
+      "section": "tech",
+      "rankScore": 0.456508
+    },
+    {
+      "id": "7618eb0d00027840",
+      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+      "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+      "source": "ars-technica",
+      "publishedAt": "2026-08-24T11:00:01.000Z",
+      "author": "Andrew Cunningham",
+      "excerpt": "The Unibook is a weird entry-level laptop for people with patience.",
+      "section": "tech",
+      "rankScore": 0.442915
+    },
+    {
+      "id": "90fe055a2eb14537",
+      "title": "JDK 27 and JDK 28: What We Know So Far",
+      "url": "https://www.infoq.com/news/2026/08/java-27-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-24T02:30:00.000Z",
+      "author": "Michael Redlich",
+      "excerpt": "JDK 27, the second non-LTS release since JDK 25, has reached its first release candidate phase featuring a final set of nine new features, in the form of JEPs, that can be separated into four categories: Core Java Library, HotSpot, Security Library and Java Language Specification.",
+      "section": "tech",
+      "rankScore": 0.371189
+    },
+    {
+      "id": "a78b6eb22092c55f",
+      "title": "Your executable is a SQLite database",
+      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-24T11:38:15.000Z",
+      "excerpt": "Your executable is a SQLite database Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary.",
+      "section": "ai",
+      "rankScore": 0.782811
+    },
+    {
+      "id": "dd9a7a2ec902a567",
+      "title": "下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-24T13:11:10.906Z",
+      "excerpt": "过去一年，我们见证了 Search Agent 能力的显著演进。在 BrowseComp 等评测上，顶尖模型准确率从最初的 30% 区间迅速攀升至 90% 以上。然而，当基准迅速饱和，其区分模型能力的价值也随之递减。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "2f9bdddea948c863",
+      "title": "Valve 诞生 30 周年",
+      "url": "https://www.solidot.org/story?sid=85180",
+      "source": "solidot",
+      "publishedAt": "2026-08-24T10:52:37.000Z",
+      "excerpt": "Valve 由前微软员工 Gabe Newell 和 Mike Harrington 创办于 1996 年 8 月 24 日，该公司的第一款游戏是备受好评的《半条命》，它被认为对 FPS 这一游戏类别产生了深远影响。Harrington 于 2000 年离开 Valve。Valve 在 2003 年开发了 Steam，之后随《半条命2》的发布强制捆绑推送给玩家，此举曾引起广泛批评，但它最终成为 Valve 最主要的收入来源，它过于成功以至于部分导致 Valve 大幅减少了游戏新作的开发速度。",
+      "section": "cn-tech",
+      "rankScore": 0.691835
+    },
+    {
+      "id": "bece259a3747d7a6",
+      "title": "GitHub 公开预览 Stacked Pull Requests 功能",
+      "url": "https://www.infoq.cn/article/zdc3HzpvqA96jwWA6lGb?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-24T12:19:00.000Z",
+      "author": "作者：Craig Risi",
+      "section": "cn-tech",
+      "rankScore": 0.67324
+    },
+    {
+      "id": "6cf5084785b7baf8",
+      "title": "Hugging Face 要被卖了：最新报价约870亿元",
+      "url": "https://www.36kr.com/p/3953405173366152",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-24T13:04:17.000Z",
+      "author": "新智元",
+      "excerpt": "最重要的 AI 开源平台 Hugging Face（抱抱脸）正在探索出售，接触买家中，估值可能达到 130 亿美元（约 870 亿元人民币）甚至更高。 据 Business Insider 援引知情人士消息，这家 AI 开发者平台已聘请投行评估买家兴趣，但尚未达成交易。 https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8 2023 年，Hugging Face 的估值还是 45 亿美元（PitchBook 数据）。 不到三年，翻了近三倍——而这家公司没有训练过任何一个前沿大模型。",
+      "section": "cn-tech",
+      "rankScore": 0.626816
+    },
+    {
+      "id": "2a5964529629ce7f",
+      "title": "调问更新 8.8 ~ 8.22：新增审核与多方评审，数据导出及问卷能力全面优化",
+      "url": "https://www.oschina.net/news/502096",
+      "source": "oschina",
+      "publishedAt": "2026-08-24T09:37:33.000Z",
+      "excerpt": "坚持前后端代码 100% 开源 助力企业建设自主可控的问卷调研系统 官网地址www.diaowen.net ➔ 源码下载Gitee 仓库 ➔ 本次更新新增人工审核、举报问卷、多方评审、判断题等功能，并完善文本智能识别、模板管理及数据导出能力。同时针对问卷编辑、填写、审核、题库、模板等场景进行了多项体验优化，并修复一批影响使用的问...",
+      "section": "cn-tech",
+      "rankScore": 0.531401
+    },
+    {
+      "id": "473cb07fd52dd56d",
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-24T11:58:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle.",
+      "section": "security",
+      "rankScore": 0.662471
+    },
+    {
+      "id": "749a009274420cec",
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-24T11:56:34.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset.",
+      "section": "security",
+      "rankScore": 0.661736
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 182 days old (budget 180d)",
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
