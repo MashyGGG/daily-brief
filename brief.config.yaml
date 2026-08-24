@@ -36,7 +36,10 @@ schedules:
     # 改这一行之后必须跑 `pnpm brief:schedule`，否则 `pnpm check:schedule` 会让 CI 红。
     time: '07:10'
     lookbackHours: 24 # a skipped run loses nothing: the next one still sees the same window
-    sections: ['*']
+    # ★ 白名单（决策 4）：新闻已经独立成 news-am / news-pm 两期，技术早晚报回归纯技术。
+    # 不改则新闻栏一天被抓四遍。releases 当前 enabled: false，写进来只是为了将来
+    # 重新打开它时不用记得回来补这一行。
+    sections: [tech, ai, cn-tech, security, releases]
     recipients: ['*']
     enabled: true
 
@@ -50,8 +53,35 @@ schedules:
   - id: evening
     time: '20:10'
     lookbackHours: 13
-    sections: ['*']
+    sections: [tech, ai, cn-tech, security, releases] # 同 morning，理由见上
     recipients: ['*']
+    enabled: true
+
+  # ── 要闻期（docs/NEWS-EDITION.md）─────────────────────────────────────────────
+  # 新闻从技术早晚报里独立出来，自己占一期：只跑 news / cn-news / cn-life 三栏，
+  # 只发邮件。好处是新闻自带一套席位，不与技术栏抢 limit；代价是每天多两次 Actions。
+  #
+  # 09:10 CST = 01:10 UTC 当天，生成的 cron 是 `10 1 * * *`。同 morning 一样避开
+  # `:00` `:30` 这两个全球 Actions 最拥挤的分钟。
+  # lookbackHours 24：晚间那期若被跳过，早间这期仍然兜得住一整天。
+  - id: news-am
+    time: '09:10'
+    lookbackHours: 24
+    sections: [news, cn-news, cn-life]
+    # 只发邮件（决策 3）：企微单条 4096 字节装不下 30 条要闻。企微哪天不用了，
+    # 这行改回 ['*'] 即可 —— 席位是按邮件的长度容忍度定的，不是按企微。
+    recipients: [me-mail]
+    enabled: true
+
+  # 18:10 CST = 10:10 UTC 当天，生成的 cron 是 `10 10 * * *`。
+  # lookbackHours 12 覆盖 09:10 之后的新增，余量吸收 Actions 0–30 分钟的排队漂移。
+  # 与早间那期窗口重叠不会重复推送：跨天去重会读到当天 news-am 的归档 JSON
+  # （archive.dedupeLookbackDays），早上已经发过的条目在这里会被丢掉。
+  - id: news-pm
+    time: '18:10'
+    lookbackHours: 12
+    sections: [news, cn-news, cn-life]
+    recipients: [me-mail]
     enabled: true
 
 sources:
@@ -350,15 +380,40 @@ sources:
     stripPatterns: ['\s*查看全文\s*$'] # 摘要尾部的「查看全文」是按钮文案
     params: { url: https://sspai.com/feed }
 
-  # ── 国际要闻 ────────────────────────────────────────────────────────
-  - name: bbc-world
+  # ── 国际要闻（docs/NEWS-EDITION.md §2.1）──────────────────────────────
+  # 权重按「LLM 未开」配：LLM_API_KEY 这个 secret 目前没配，llm.sections.news 那句
+  # 中文 oneline 因此不存在，英文源进邮件就是原样英文 excerpt。所以中文源全部压在
+  # 英文源之上 —— ★ 这是本文件里唯一一处「配上 key 那天要回来调平」的临时值。
+  # 全部 14 个源在 2026-08-24 实测：可达、非空、UTF-8、最新条目龄期 ≤ 2.6 天。
+  - name: bbc-zhongwen
+    type: rss
+    weight: 1.2
+    params: { url: https://feeds.bbci.co.uk/zhongwen/simp/rss.xml }
+
+  - name: nyt-cn
     type: rss
     weight: 1.1
+    params: { url: https://cn.nytimes.com/rss.html } # 纽约时报中文网
+
+  - name: rfi-zh
+    type: rss
+    weight: 1.0
+    params: { url: https://www.rfi.fr/cn/rss } # 法广中文
+
+  - name: un-news-zh
+    type: rss
+    weight: 0.9
+    # 机构口径：联合国自己的通稿，与商业媒体的选题重叠很小。
+    params: { url: https://news.un.org/feed/subscribe/zh/news/all/rss.xml }
+
+  - name: bbc-world
+    type: rss
+    weight: 0.9
     params: { url: https://feeds.bbci.co.uk/news/world/rss.xml }
 
   - name: guardian-world
     type: rss
-    weight: 0.9
+    weight: 0.8
     # 卫报把订阅推广直接写在 description 里，而且是在正文前面 —— 300 字预算里往往有
     # 一半花在「订阅我们的新闻邮件」上。三条都是 2026-08-21 实跑里逐字抄下来的。
     stripPatterns:
@@ -369,18 +424,84 @@ sources:
       ]
     params: { url: https://www.theguardian.com/world/rss }
 
+  - name: nyt-world
+    type: rss
+    weight: 0.8
+    # 实测 58 条，是本栏最长的直连源；不调 params.limit，靠 section.limit 压。
+    params: { url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml }
+
   - name: aljazeera
     type: rss
-    weight: 0.9
+    weight: 0.8
     params: { url: https://www.aljazeera.com/xml/rss/all.xml }
 
-  # ── 中文要闻 ────────────────────────────────────────────────────────
-  # Google News 条目指向 news.google.com 跳转链接，标题带「 - 来源名」后缀，
-  # 因此它与直连源之间无法自动去重。用作兜底，权重压低。
-  - name: bbc-zhongwen
+  - name: nyt-home
+    type: rss
+    weight: 0.7
+    # 头版，含非国际条目（美国国内 / 文化）。权重压在 nyt-world 之下就是为此。
+    params: { url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml }
+
+  - name: npr-news
+    type: rss
+    weight: 0.7
+    params: { url: https://feeds.npr.org/1001/rss.xml } # 实测 10 条，条数克制
+
+  - name: ft-world
+    type: rss
+    weight: 0.7
+    params: { url: 'https://www.ft.com/world?format=rss' } # 财经视角看国际
+
+  - name: economist-week
+    type: rss
+    weight: 0.7
+    # 周刊，但 feed 里堆了 300 条历史条目 —— limit 必须显式写死，否则整栏会被这一个
+    # 源的陈年条目灌满（新鲜度会压低它们的排名，但 minPerSource 之后的席位仍会被它吃掉）。
+    params: { url: https://www.economist.com/the-world-this-week/rss.xml, limit: 50 }
+
+  - name: gn-world-zh
+    type: rss
+    weight: 0.6
+    # Google News 兜底源。三条 stripPatterns 由所有 gn-* 源共用（YAML 锚点），
+    # 前两条缺一不可，见 docs/NEWS-EDITION.md §2.4②：
+    #   1. 「 - thepaper.cn」这种 ASCII 域名后缀；
+    #   2. 「 - 新华网客户端」「 - 中國報 China Press」这种中文来源名后缀 —— 第 1 条对它无效。
+    #   3. excerpt 末尾的「在 Google 新闻上查看更多头条新闻和观点」，是按钮文案不是内容。
+    # 前两条不去掉的后果不是难看：两条毫不相干的文章仅凭共享后缀就能把 4-gram 相似度
+    # 刷到 0.327，比真正的跨源转载（0.286）还高，会把 dedupe.titleSimilarity 变成误杀器。
+    # 中文那条要求后缀以中文开头、≤ 15 字、最多再跟两个拉丁词（"中國報 China Press"），
+    # 避免吃掉正常标题里的破折号尾巴 —— 2026-08-24 的 dry-run 逐条对过。
+    stripPatterns:
+      &gn-strip [
+        '\s*[-–—]\s*[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)+\s*$',
+        '\s*[-–—]\s*[一-龥][一-龥A-Za-z0-9·]{1,14}( [A-Za-z][A-Za-z0-9.]{0,14}){0,2}\s*$',
+        '\s*在\s*Google\s*新闻上查看更多头条新闻和观点\s*$',
+      ]
+    params:
+      url: 'https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JYcG9MVU5PR2dKRFRpZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
+  - name: un-news-en
+    type: rss
+    weight: 0.6
+    params: { url: https://news.un.org/feed/subscribe/en/news/all/rss.xml }
+
+  # ── 国内要闻（docs/NEWS-EDITION.md §2.2）──────────────────────────────
+  # chinanews 的 5 个频道（本节 3 个 + 民生栏 2 个）之间有重叠，靠 dedupe.titleSimilarity
+  # 吃掉；重叠最大的 rss/scroll（全类目滚动）故意没接，它只会白占轮换位。
+  - name: chinanews-import
+    type: rss
+    weight: 1.2
+    params: { url: https://www.chinanews.com.cn/rss/importnews.xml } # 主源：要闻
+
+  - name: chinanews-china
     type: rss
     weight: 1.1
-    params: { url: https://feeds.bbci.co.uk/zhongwen/simp/rss.xml }
+    params: { url: https://www.chinanews.com.cn/rss/china.xml }
+
+  - name: jiemian
+    type: rss
+    weight: 1.0
+    params: { url: 'https://a.jiemian.com/index.php?m=article&a=rss' } # 界面新闻
 
   - name: thepaper
     type: rss
@@ -393,19 +514,139 @@ sources:
       url: 'https://news.google.com/rss/search?q=when:24h+site:thepaper.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
       limit: 40
 
-  - name: gnews-cn
+  - name: chinanews-finance
+    type: rss
+    weight: 0.9
+    # 路径是 finance.xml —— 站内链接上那个 rss/cj.xml 是 404，别照抄。
+    params: { url: https://www.chinanews.com.cn/rss/finance.xml }
+
+  - name: cna-zh
     type: rss
     weight: 0.8
-    # 同 thepaper，是 Google News 的「标题 - 来源域名」格式，只是域名逐条不同，
-    # 所以这里匹配的是形状而不是某个具体域名。只对这个源生效，不会波及正常标题。
-    stripPatterns: ['\s*[-–—]\s*[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)+\s*$']
+    # 中央社，走 feedburner 第三方中转。与 36kr-ai 同一风险模型：中转随时可能停，
+    # 挂了只留一条告警、不影响出报，所以权重先压在 0.8。
+    params: { url: https://feeds.feedburner.com/rsscna/mainland }
+
+  - name: gn-nation-zh
+    type: rss
+    weight: 0.8
+    stripPatterns: *gn-strip
+    params:
+      url: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNR1F3TlhjekVnVjZhQzFEVGlnQVAB?hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
+  - name: mingpao
+    type: rss
+    weight: 0.8
+    params: { url: https://news.mingpao.com/rss/pns/s00001.xml } # 明报港闻
+
+  - name: scmp-china
+    type: rss
+    weight: 0.7
+    # 英文写中国，视角与前面几家互补；LLM 未开时它进邮件是英文，故压在 0.7。
+    params: { url: https://www.scmp.com/rss/4/feed }
+
+  - name: gn-business-zh
+    type: rss
+    weight: 0.7
+    stripPatterns: *gn-strip
+    params:
+      url: 'https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JYcG9MVU5PR2dKRFRpZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
+  - name: yahoo-hk
+    type: rss
+    weight: 0.7
+    params: { url: https://hk.news.yahoo.com/rss/hong-kong } # 港闻
+
+  - name: gnews-cn
+    type: rss
+    # 0.8 → 0.6 降权：Google News 把「同题相关报道列表」塞进 description，实测 excerpt
+    # 是「中农批宿迁市场：…东方财富 …观察者 …新浪财经」这样的纯噪音，而且长度 > 80，
+    # 会撞上 llm.when.excerptShorterThan 被判为「源摘要已经够用」——
+    # 就算将来配了 LLM_API_KEY 也永远不会被改写。
+    weight: 0.6
+    stripPatterns: *gn-strip
     params:
       url: 'https://news.google.com/rss?hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
       limit: 40
 
+  # ── 民生·社会（docs/NEWS-EDITION.md §2.3）─────────────────────────────
+  # 这一栏一半是 Google News 检索源：民生话题没有哪个官方 feed 能覆盖，检索是唯一
+  # 拿得到面的方式。全部带 when:24h，权重一律 ≤ 0.9（它们与直连源之间无法自动去重）。
+  - name: chinanews-society
+    type: rss
+    weight: 1.2
+    params: { url: https://www.chinanews.com.cn/rss/society.xml } # 主源：社会
+
+  - name: chinanews-life
+    type: rss
+    weight: 1.0
+    params: { url: https://www.chinanews.com.cn/rss/life.xml } # 生活服务
+
+  - name: gn-minsheng
+    type: rss
+    weight: 0.9
+    stripPatterns: *gn-strip
+    params:
+      url: 'https://news.google.com/rss/search?q=民生+OR+社保+OR+医保+OR+就业+OR+房价+OR+物价+when:24h&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
+  - name: gn-disaster
+    type: rss
+    weight: 0.9
+    stripPatterns: *gn-strip
+    params:
+      url: 'https://news.google.com/rss/search?q=台风+OR+暴雨+OR+地震+OR+应急+OR+预警+when:24h&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
+  - name: gn-govcn
+    type: rss
+    weight: 0.8
+    # 政策原文：site: 限定到 gov.cn，出来的是部委和地方政府自己的发布。
+    stripPatterns: *gn-strip
+    params:
+      url: 'https://news.google.com/rss/search?q=site:gov.cn+when:24h&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
+  - name: gn-health-zh
+    type: rss
+    weight: 0.7
+    stripPatterns: *gn-strip
+    params:
+      url: 'https://news.google.com/rss/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JYcG9MVU5PS0FBUAE?hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
+  - name: gn-food
+    type: rss
+    weight: 0.7
+    stripPatterns: *gn-strip
+    params:
+      url: 'https://news.google.com/rss/search?q=食品安全+OR+药品+OR+抽检+OR+召回+when:24h&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
+  - name: gn-edu
+    type: rss
+    weight: 0.6
+    stripPatterns: *gn-strip
+    params:
+      url: 'https://news.google.com/rss/search?q=教育+OR+高考+OR+义务教育+OR+招生+when:24h&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
+  - name: gn-science-zh
+    type: rss
+    weight: 0.5
+    stripPatterns: *gn-strip
+    params:
+      url: 'https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JYcG9MVU5PR2dKRFRpZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
+
 sections:
-  # 各栏 limit 相加 = 每日上限 22 条（releases 已 enabled: false，它的 3 席不计）；
-  # 低频源常年空栏，实际稳定在 15–20 条。
+  # 两组栏目，被 schedules 的白名单分开跑（docs/NEWS-EDITION.md 决策 1）：
+  #   技术早晚报（morning / evening）= tech 6 + ai 4 + cn-tech 5 + security 2 = 每期上限 17 条
+  #                                     （releases 已 enabled: false，它的 3 席不计）
+  #   要闻期（news-am / news-pm）      = news 12 + cn-news 10 + cn-life 8 = 每期上限 30 条
+  # 低频源常年空栏，技术那三栏实际稳定在 15–20 条。
   # 想要更短就调 limit，不要删源 —— 源多是好事，`limit` 才是长度旋钮。
   # 改了下面任何一个 limit，记得回来把这行的数字也改掉。
   - id: tech
@@ -486,18 +727,74 @@ sections:
     # 预发布版本一天能出好几个（next.js 的 canary 尤其密），会把真正该看的稳定版挤掉。
     exclude: ['canary', 'nightly', '-rc', '-alpha', '-beta', 'SNAPSHOT']
 
-  # id 保持 `news` 不变：已归档的 2026-08-20 那期用的就是这个 id，
-  # 改名会让 `--from-archive` 重发时丢掉这一栏。
+  # ── 要闻期专用的三栏（docs/NEWS-EDITION.md §1.2）────────────────────────────
+  # limit 贴着源数，是有意的：minPerSource: 1 让席位先按「每源保底一条」发放，
+  # limit 一旦大于源数，多出来的席位就全给排名最高的那个源连发 —— 把「面」换成
+  # 「同一家媒体刷屏」，而重大新闻要的恰恰是面。所以源数就是 limit 的天然上限，
+  # 想更长只能加源。留 2 席差额是给轮换的余量：低频源有机会顶上来。
+  #
+  # 两期共用这三栏，所以早间 / 晚间的条数必然相同 —— limit 是 section 的属性，
+  # 不是 schedule 的。要区分就得建两套 section（id 不能重复），暂不做。
+
+  # id 保持 `news` / `cn-news` 不变：已归档的 2026-08-20 那期用的就是这两个 id，
+  # 改名会让 `--from-archive` 重发时丢掉整栏。
   - id: news
     title: 国际要闻
-    sources: [bbc-world, guardian-world, aljazeera]
-    limit: 3
+    sources:
+      [
+        bbc-zhongwen,
+        nyt-cn,
+        rfi-zh,
+        un-news-zh,
+        bbc-world,
+        guardian-world,
+        nyt-world,
+        aljazeera,
+        nyt-home,
+        npr-news,
+        ft-world,
+        economist-week,
+        gn-world-zh,
+        un-news-en,
+      ]
+    limit: 12
     minPerSource: 1
 
   - id: cn-news
-    title: 中文要闻
-    sources: [bbc-zhongwen, thepaper, gnews-cn]
-    limit: 2
+    title: 国内要闻
+    sources:
+      [
+        chinanews-import,
+        chinanews-china,
+        jiemian,
+        thepaper,
+        chinanews-finance,
+        cna-zh,
+        gn-nation-zh,
+        mingpao,
+        scmp-china,
+        gn-business-zh,
+        yahoo-hk,
+        gnews-cn,
+      ]
+    limit: 10
+    minPerSource: 1
+
+  - id: cn-life
+    title: 民生·社会
+    sources:
+      [
+        chinanews-society,
+        chinanews-life,
+        gn-minsheng,
+        gn-disaster,
+        gn-govcn,
+        gn-health-zh,
+        gn-food,
+        gn-edu,
+        gn-science-zh,
+      ]
+    limit: 8
     minPerSource: 1
 
 archive:
@@ -554,10 +851,13 @@ llm:
     concurrency: 4
     retries: 2 # 只对 429 / 5xx / 超时重试；401 之类重试三遍只是白等
 
-  # 硬闸。section.limit 相加（关掉发版栏后是 22）已经是结构性上限，
+  # 硬闸。section.limit 相加（技术早晚报 17、要闻期 30）已经是结构性上限，
   # 这里是配置写错时兜底的第二道，两者取小。
   budget:
-    maxItemsPerRun: 12
+    # 12 → 24：额度按栏目顺序发放，早报里 tech(3) + ai(3) + cn-tech(3) + security(2) = 11，
+    # 12 这个值等于把排在后面的栏目饿死。不会涨钱：实际用量仍被 when.topPerSection: 3
+    # 卡在「栏目数 × 3」（技术早晚报 12 条、要闻期 9 条），24 只是不再提前截断。
+    maxItemsPerRun: 24
     maxInputCharsPerItem: 6000 # 正文按这个字符数截断；一篇技术文的前 6000 字足够摘要
     # 开了 fetchFullText 的条目按 maxInputCharsPerItem 「预订」额度（抓之前还不知道
     # 正文多长），所以这个数至少要 >= maxItemsPerRun × maxInputCharsPerItem = 72000，
@@ -585,6 +885,10 @@ llm:
     tech: { summarize: true, fetchFullText: true }
     ai: { summarize: true, fetchFullText: true, maxChars: 220 }
     news: { summarize: true, style: oneline, maxChars: 120 } # 要闻只要一句话，不值得抓正文
+    # 两个中文要闻栏同样只要一句话。注意：LLM_API_KEY 没配的时候这三行全都不生效，
+    # 国际栏进邮件就是原样英文 excerpt —— 这正是 sources 里中文源被压在英文源之上的原因。
+    cn-news: { summarize: true, style: oneline, maxChars: 120 }
+    cn-life: { summarize: true, style: oneline, maxChars: 120 }
     # 中文栏 M2 才打开：只喂 excerpt 的改写对中文源等于换个说法，抓正文才有信息量。
     cn-tech: { summarize: true, fetchFullText: true }
     security: { summarize: true, style: oneline } # 安全公告本身就是结构化的，抓正文没意义
@@ -638,7 +942,9 @@ weekly:
   time: '08:00' # 08:00 CST = 00:00 UTC 当天，生成的 cron 是 `0 0 * * 1`
   days: 7 # 往回读 7 天（含当天）
   limitPerSection: 5 # 每栏最多 5 条；周报是回顾，不是第二份归档
-  sections: ['*']
+  # ★ 白名单，与 schedules 里的那两处同源（决策 4）：不写死就会把 7 天的新闻卷进来，
+  # 三个新闻栏 × limitPerSection 5 = 每周多出 15 条时政，周报是技术回顾。
+  sections: [tech, ai, cn-tech, security, releases]
   # 只发邮件。周报是「坐下来读」的东西，把 30 条推到手机上只会被划掉 ——
   # 这也是 weekly.recipients 默认为空、必须显式点名的原因。
   recipients: [me-mail]

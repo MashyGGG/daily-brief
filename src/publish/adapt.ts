@@ -1,6 +1,6 @@
 import { createHash } from 'node:crypto'
 import type { BriefConfig, PublishSchedule, PublishTarget } from '../config/schema'
-import { archiveNames } from '../archive/paths'
+import { archiveNames, slotLabel } from '../archive/paths'
 import { truncate } from '../core/normalize'
 import { renderItemMarkdown } from '../render/markdown'
 import type { CollectedIssue, PlatformArticle } from './types'
@@ -64,14 +64,8 @@ export function issueUrl(base: string, date: string, slot: string | null): strin
 }
 
 /** A label a human recognises: `2026-08-22 早报` rather than `2026-08-22.morning`. */
-const SLOT_LABELS: Record<string, string> = {
-  morning: '早报',
-  evening: '晚报',
-  weekly: '周报',
-}
-
 export function sourceLabel(date: string, slot: string | null): string {
-  return slot ? `${date} ${SLOT_LABELS[slot] ?? slot}` : date
+  return slot ? `${date} ${slotLabel(slot)}` : date
 }
 
 /**

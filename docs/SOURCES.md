@@ -6,30 +6,40 @@
 本文是它的可读版本 —— 逐源列出抓取端点、权重、栏目归属和「为什么是这个值」，
 外加一份**没有接入的源**及其原因，免得下次重新踩一遍坑。
 
-- 快照时间：**2026-08-20**
-- 规模：**51 个源 / 3 种适配器 / 7 个栏目**，每日最多产出 **25 条**
-- 所有 feed 均在 2026-08-20 实测过：可达、非空、UTF-8，且**逐个量过「最新条目距今多久」**（§9）
+- 快照时间：**2026-08-24**（技术栏的数据仍是 2026-08-20 那次快照）
+- 规模：**80 个源 / 3 种适配器 / 8 个栏目**，分两组跑：
+  - 技术早晚报（`morning` / `evening`）四栏，每期最多 **17 条**
+  - 要闻期（`news-am` / `news-pm`）三栏，每期最多 **30 条**，编排理由见
+    [`docs/NEWS-EDITION.md`](./NEWS-EDITION.md)
+- 所有 feed 都实测过：可达、非空、UTF-8，且**逐个量过「最新条目距今多久」**（§9）——
+  技术栏测于 2026-08-20，三个新闻栏测于 2026-08-24
 - 改源之后请回来同步这份文档，它不是自动生成的
 
 ---
 
 ## 0. 一张表看懂全局
 
-| 栏目 id    | 标题     | 源数 | 每日 limit | 过滤规则                                                |
-| ---------- | -------- | ---: | ---------: | ------------------------------------------------------- |
-| `tech`     | 国际技术 |   18 |          6 | 排除 crypto / NFT / web3 / memecoin                     |
-| `ai`       | AI 工程  |    7 |          4 | 无（`anthropic` 试运行期间从 3 提到 4）                 |
-| `cn-tech`  | 中文技术 |    9 |          5 | 无（`36kr-ai` 试运行期间从 4 提到 5）                   |
-| `security` | 安全公告 |    3 |          2 | 排除 ICS / 工控 / PLC / SCADA / Siemens / …             |
-| `releases` | 依赖发版 |    8 |          3 | 排除 canary / nightly / -rc / -alpha / -beta / SNAPSHOT |
-| `news`     | 国际要闻 |    3 |          3 | 无                                                      |
-| `cn-news`  | 中文要闻 |    3 |          2 | 无                                                      |
+| 栏目 id    | 标题      | 源数 | 每日 limit | 过滤规则                                                |
+| ---------- | --------- | ---: | ---------: | ------------------------------------------------------- |
+| `tech`     | 国际技术  |   18 |          6 | 排除 crypto / NFT / web3 / memecoin                     |
+| `ai`       | AI 工程   |    7 |          4 | 无（`anthropic` 试运行期间从 3 提到 4）                 |
+| `cn-tech`  | 中文技术  |    9 |          5 | 无（`36kr-ai` 试运行期间从 4 提到 5）                   |
+| `security` | 安全公告  |    3 |          2 | 排除 ICS / 工控 / PLC / SCADA / Siemens / …             |
+| `releases` | 依赖发版  |    8 |          3 | 排除 canary / nightly / -rc / -alpha / -beta / SNAPSHOT |
+| `news`     | 国际要闻  |   14 |         12 | 无                                                      |
+| `cn-news`  | 国内要闻  |   12 |         10 | 无                                                      |
+| `cn-life`  | 民生·社会 |    9 |          8 | 无                                                      |
 
-按适配器分：`rss` 49 个、`hackernews` 1 个、`github` 1 个。
+上面前五栏（`tech` … `releases`）属于**技术早晚报**，后三栏属于**要闻期** ——
+两组由 `schedules[].sections` 的白名单分开跑，互不抢席位。哪一期跑哪几栏是配置，
+不是代码：见 [`docs/NEWS-EDITION.md` §1](./NEWS-EDITION.md)。
+
+按适配器分：`rss` 78 个、`hackernews` 1 个、`github` 1 个。
 每个源都恰好属于一个栏目，没有孤儿源，也没有被两个栏目共用的源。
 
-各栏 `limit` 相加 = **25**，这就是每日条数上限。加源的时候记得回头改
-`brief.config.yaml` 里 `sections:` 上方那行注释里的数字 —— 它已经过期过一次。
+各栏 `limit` 相加：技术早晚报 **17**、要闻期 **30**（`releases` 已关，它的 3 席不计），
+这就是每期的条数上限。加源的时候记得回头改 `brief.config.yaml` 里 `sections:` 上方
+那段注释里的数字 —— 它已经过期过一次。
 
 ---
 
@@ -163,7 +173,7 @@ rankScore = weight × (0.6 × normScore + 0.4 × recency)
 
 ---
 
-## 5. 其余四栏
+## 5. 其余五栏
 
 ### `security` 安全公告（3 源 / limit 2）
 
@@ -201,26 +211,93 @@ Next.js 自带的构建链，接了只会稀释这一栏。
 排除词：`canary`、`nightly`、`-rc`、`-alpha`、`-beta`、`SNAPSHOT` —— 预发布版一天能出好几个
 （next.js 的 canary 尤其密），会把真正该看的稳定版挤掉。
 
-### `news` 国际要闻（3 源 / limit 3）
+### `news` 国际要闻（14 源 / limit 12）
 
-| 源               | 端点                                          |   w |
-| ---------------- | --------------------------------------------- | --: |
-| `bbc-world`      | `https://feeds.bbci.co.uk/news/world/rss.xml` | 1.1 |
-| `guardian-world` | `https://www.theguardian.com/world/rss`       | 0.9 |
-| `aljazeera`      | `https://www.aljazeera.com/xml/rss/all.xml`   | 0.9 |
+要闻期（`news-am` / `news-pm`）的三栏之一。全部 2026-08-24 实测：可达、非空、UTF-8、
+最新条目龄期 ≤ 2.6 天。`n` = 实测条数。
 
-### `cn-news` 中文要闻（3 源 / limit 2）
+| 源               | 端点                                                                  |   w |   n | 备注                              |
+| ---------------- | --------------------------------------------------------------------- | --: | --: | --------------------------------- |
+| `bbc-zhongwen`   | `https://feeds.bbci.co.uk/zhongwen/simp/rss.xml`                      | 1.2 |   — | 从 `cn-news` 移入 —— 它写的是国际 |
+| `nyt-cn`         | `https://cn.nytimes.com/rss.html`                                     | 1.1 |  20 | 纽约时报中文网                    |
+| `rfi-zh`         | `https://www.rfi.fr/cn/rss`                                           | 1.0 |  30 | 法广中文                          |
+| `un-news-zh`     | `https://news.un.org/feed/subscribe/zh/news/all/rss.xml`              | 0.9 |  30 | 机构口径                          |
+| `bbc-world`      | `https://feeds.bbci.co.uk/news/world/rss.xml`                         | 0.9 |   — |                                   |
+| `guardian-world` | `https://www.theguardian.com/world/rss`                               | 0.8 |   — | 三条 `stripPatterns` 去订阅推广   |
+| `nyt-world`      | `https://rss.nytimes.com/services/xml/rss/nyt/World.xml`              | 0.8 |  58 | 量最大，靠 `limit` 压             |
+| `aljazeera`      | `https://www.aljazeera.com/xml/rss/all.xml`                           | 0.8 |   — |                                   |
+| `nyt-home`       | `https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml`           | 0.7 |  20 | 头版，含非国际条目                |
+| `npr-news`       | `https://feeds.npr.org/1001/rss.xml`                                  | 0.7 |  10 | 条数克制                          |
+| `ft-world`       | `https://www.ft.com/world?format=rss`                                 | 0.7 |  25 | 财经视角                          |
+| `economist-week` | `https://www.economist.com/the-world-this-week/rss.xml`（`limit:50`） | 0.7 | 300 | 周刊，feed 里堆着历史条目         |
+| `gn-world-zh`    | Google News 国际（中文，`limit:40`）                                  | 0.6 |  27 | 兜底，无法与直连源去重            |
+| `un-news-en`     | `https://news.un.org/feed/subscribe/en/news/all/rss.xml`              | 0.6 |  30 | 低频                              |
 
-| 源             | 端点                                                                |   w | 备注                        |
-| -------------- | ------------------------------------------------------------------- | --: | --------------------------- |
-| `bbc-zhongwen` | `https://feeds.bbci.co.uk/zhongwen/simp/rss.xml`                    | 1.1 | 直连源                      |
-| `thepaper`     | Google News 站内检索 `site:thepaper.cn`（`when:24h`，`limit:40`）   | 0.9 | 澎湃无官方 feed，走检索兜底 |
-| `gnews-cn`     | Google News 中文头条 `hl=zh-CN&gl=CN&ceid=CN:zh-Hans`（`limit:40`） | 0.8 | 兜底，权重压低              |
+**权重为什么中文源全在上面**：`LLM_API_KEY` 这个 secret 目前没配，`llm.sections.news`
+那句中文 oneline 因此从来没跑过（扫过 `archive/2026/08/` 全部 9 期 166 条，`withSummary=0`），
+英文源进邮件就是原样英文 excerpt。**配上 key 之后回来把权重调平** —— 这是整份配置里
+唯一一处「将来要回滚的临时值」。
+
+### `cn-news` 国内要闻（12 源 / limit 10）
+
+| 源                  | 端点                                                     |   w |   n | 备注                         |
+| ------------------- | -------------------------------------------------------- | --: | --: | ---------------------------- |
+| `chinanews-import`  | `https://www.chinanews.com.cn/rss/importnews.xml`        | 1.2 |  30 | 主源                         |
+| `chinanews-china`   | `https://www.chinanews.com.cn/rss/china.xml`             | 1.1 |  30 |                              |
+| `jiemian`           | `https://a.jiemian.com/index.php?m=article&a=rss`        | 1.0 |  30 | 界面新闻                     |
+| `thepaper`          | Google News `site:thepaper.cn`（`when:24h`，`limit:40`） | 0.9 |   — | 澎湃无官方 feed              |
+| `chinanews-finance` | `https://www.chinanews.com.cn/rss/finance.xml`           | 0.9 |  30 | 站内那个 `rss/cj.xml` 是 404 |
+| `cna-zh`            | `https://feeds.feedburner.com/rsscna/mainland`           | 0.8 |  20 | 中央社，第三方中转           |
+| `gn-nation-zh`      | Google News 国内（中文，`limit:40`）                     | 0.8 |  43 | 兜底                         |
+| `mingpao`           | `https://news.mingpao.com/rss/pns/s00001.xml`            | 0.8 |  12 | 明报港闻                     |
+| `scmp-china`        | `https://www.scmp.com/rss/4/feed`                        | 0.7 |  50 | 英文写中国，视角互补         |
+| `gn-business-zh`    | Google News 财经（中文，`limit:40`）                     | 0.7 |  32 | 兜底                         |
+| `yahoo-hk`          | `https://hk.news.yahoo.com/rss/hong-kong`                | 0.7 |  30 | 港闻                         |
+| `gnews-cn`          | Google News 中文头条（`limit:40`）                       | 0.6 |   — | 0.8 → 0.6 降权，见下         |
+
+`gnews-cn` 降权的原因不是它不新，而是它的 `description` 被 Google 塞进了「同题相关报道
+列表」：实测 excerpt 长这样 ——「中农批宿迁市场：…东方财富 …观察者 …新浪财经」。
+两个后果：邮件里是纯噪音；长度 > 80 会撞上 `llm.when.excerptShorterThan`，被判为
+「源摘要已经够用」，**就算将来配了 key 也永远不会被改写**。
+
+### `cn-life` 民生·社会（9 源 / limit 8）
+
+一半是 Google News 检索源：民生话题没有哪个官方 feed 能覆盖，检索是唯一拿得到面的方式。
+检索源全部带 `when:24h`、`limit:40`。
+
+| 源                  | 端点                                           |   w |   n | 备注     |
+| ------------------- | ---------------------------------------------- | --: | --: | -------- |
+| `chinanews-society` | `https://www.chinanews.com.cn/rss/society.xml` | 1.2 |  30 | 主源     |
+| `chinanews-life`    | `https://www.chinanews.com.cn/rss/life.xml`    | 1.0 |  16 | 生活服务 |
+| `gn-minsheng`       | 检索：民生 / 社保 / 医保 / 就业 / 房价 / 物价  | 0.9 |  30 |          |
+| `gn-disaster`       | 检索：台风 / 暴雨 / 地震 / 应急 / 预警         | 0.9 |  23 |          |
+| `gn-govcn`          | 检索：`site:gov.cn`                            | 0.8 | 100 | 政策原文 |
+| `gn-health-zh`      | Google News 健康（中文）                       | 0.7 |  70 |          |
+| `gn-food`           | 检索：食品安全 / 药品 / 抽检 / 召回            | 0.7 |  10 |          |
+| `gn-edu`            | 检索：教育 / 高考 / 义务教育 / 招生            | 0.6 |  10 |          |
+| `gn-science-zh`     | Google News 科学（中文）                       | 0.5 |  18 |          |
+
+### 三栏共同的两个坑
+
+**① Google News 的可读路径会 302，配置里必须写重定向后的 id。**
+`/rss/headlines/section/topic/WORLD` 会跳到 `/rss/topics/<base64>`；写可读路径等于把
+「哪天 Google 改了跳转」变成静默失效。已解析好的五个频道 id 记在
+[`docs/NEWS-EDITION.md` §2.4](./NEWS-EDITION.md)，配置里写的就是它们。
+
+**② 标题后缀必须 strip，而且中文那条不能少。**
+Google News 给每条标题缀上「 - 来源名」，来源名多半是中文（`- 新华网客户端`、`- 第一财经`、
+`- 四川在线`）。原有的 `gnews-cn` 只匹配 ASCII 域名形状（`- thepaper.cn`），对中文无效。
+这不是美观问题：本仓库实测过，**共享后缀能把 4-gram 相似度刷到 0.327，比真正的跨源转载
+（0.286）还高**，会把 `dedupe.titleSimilarity: 0.2` 从去重器变成误杀器。
+所以每个 `gn-*` 源都挂着同一份 `stripPatterns`（配置里用 YAML 锚点 `&gn-strip` 共享一份）：
+ASCII 域名后缀、中文来源名后缀，外加 excerpt 末尾那句「在 Google 新闻上查看更多头条新闻和观点」。
+中文那条要求后缀以中文开头、≤ 15 字、最多再跟两个拉丁词（`中國報 China Press`），
+避免吃掉正常标题里的破折号尾巴 —— 2026-08-24 的 dry-run 结果逐条对过。
 
 **Google News 类源无法与直连源自动去重**：条目 URL 指向 `news.google.com` 跳转链接，
-标题还带「 - 来源名」后缀，跟直连源的 id/标题都对不上。这是把它们权重压低的原因。
+跟直连源的 id 对不上。这是把它们权重一律压到 ≤ 0.9 的原因。
 
-> 栏目 id 保持 `news` / `cn-news` 不变：已归档的 2026-08-20 那期用的就是这个 id，
+> 栏目 id 保持 `news` / `cn-news` 不变：已归档的 2026-08-20 那期用的就是这两个 id，
 > 改名会让 `--from-archive` 重发时丢掉整栏。
 
 ---
@@ -293,6 +370,32 @@ Next.js 自带的构建链，接了只会稀释这一栏。
 [`docs/CN-SOURCES.md` §3](./CN-SOURCES.md)。结论是：真正有技术价值的公众号内容，
 绝大多数会同步到已接入的 `meituan-tech` / `infoq-cn` / `juejin` / `oschina`，投入产出比很低。
 
+### 2026-08-24 批量评估：中文新闻源（要闻期）
+
+建三个新闻栏时逐个探过的候选。**结论同样是近一半不能用**，其中最坑的是「200 + 结构完好
+
+- 内容冻结在一年前」这种静默失效 —— 只看 HTTP 状态码是分辨不出来的（§9 讲的就是这件事）。
+
+| 候选                                       | 实测结果                                               | 结论                                         |
+| ------------------------------------------ | ------------------------------------------------------ | -------------------------------------------- |
+| 人民网 politics / society / world          | 200、100 条、结构完好，**冻结在 2025-06-05（445 天）** | 典型静默失效，不接                           |
+| 新华网 `news_politics.xml`                 | 冻结 2022-12-14，且 `pubDate` 标签残缺                 | 日期解析不出来，会被时间窗全丢               |
+| 中国日报 `rss/china_rss.xml`               | 条目停在 2017，且没有 `pubDate` 字段                   | 死源                                         |
+| `chinanews-scroll`（全类目滚动）           | 200、30 条、当天，**活的**                             | 与已接的 5 个 chinanews 频道重叠，白占轮换位 |
+| CNN `edition_world`                        | 最新条目 1071 天前                                     | 死源                                         |
+| 新浪 `focus15` / `marquee/ddt`             | 2891 天前 / 仅 1 条且无日期                            | 死源                                         |
+| 网易 / 一财 / 财新 / 观察者网 / 环球网     | 返回 HTML 壳                                           | 不是 XML                                     |
+| Reuters · AP · 联合早报 · 凤凰 · 央视      | 404 / 401                                              | 公开 feed 已停                               |
+| 证券时报 · 新京报 · 南周 · 财联社 · 21世纪 | 404 / ECONNRESET                                       | 同上                                         |
+| 参考消息 · 中青报 · hk01 · 每经            | 404 / ECONNRESET                                       | 同上                                         |
+| DW 中文 / VOA 中文                         | ECONNRESET                                             | 本机网络所致，runner 上可能不同              |
+| france24 中文 / 日经中文                   | 404 / 403                                              | 不接                                         |
+| RSSHub 公共镜像 `rssforever`               | 503                                                    | 与本节开头那张表一致                         |
+
+`chinanews-scroll` 那一行值得单独记一笔：它**是活的**，被否掉的理由是重叠而不是可达性。
+`minPerSource: 1` 的席位分配下，一个内容与已接频道高度重合的源不会让内容变多，
+只会把轮换位从别人那里拿走。
+
 ### 第三方依赖的风险，说清楚
 
 目前只有 `36kr-ai` 依赖**别人的服务器**（`rss.injahow.cn`）。它随时可能关停、限流或改变行为，
@@ -306,9 +409,12 @@ Next.js 自带的构建链，接了只会稀释这一栏。
 
 ```bash
 gh workflow run daily-brief.yml -f dry-run=true -f sections=cn-tech
+gh workflow run daily-brief.yml -f dry-run=true -f schedule=news-am   # 要闻期的 29 个新源
 ```
 
 然后看输出里的「抓取告警」段落，哪个源在 runner 上抓不到一眼就能看出来。
+要闻期一次引入 29 个源，这一步是**必做**而不是可选：挂掉的源只会留告警不影响出报，
+但你得知道是哪几个，才能决定换掉还是留着。
 
 ---
 

@@ -1,8 +1,13 @@
 # daily-brief
 
-Every morning, aggregate international tech + world news into one brief, push it to WeCom and
-Gmail, and commit the issue into this repo's default branch. Run by GitHub Actions, on a schedule
-generated from a config file.
+Aggregate international tech and world news into briefs, push them to WeCom and Gmail, and commit
+each issue into this repo's default branch. Run by GitHub Actions, on a schedule generated from a
+config file.
+
+Four issues a day, two kinds: a **tech brief** at 07:10 and 20:10 (WeCom + mail), and a **news
+edition** at 09:10 and 18:10 that carries the three news sections only, to mail only
+([docs/NEWS-EDITION.md](docs/NEWS-EDITION.md) records why they are separate issues rather than
+extra sections). A weekly review goes out Monday 08:00.
 
 - **What gets in** → `brief.config.yaml` (`sources` + `sections`)
 - **Who receives it** → `brief.config.yaml` (`recipients`), plus the `RECIPIENTS_OVERRIDE_JSON` secret for private ones
@@ -471,14 +476,29 @@ window either way, so a skipped run loses no content.
 If you set `timezone` to a zone with daylight saving, the generator prints a warning and annotates
 the workflow — a fixed UTC cron is one hour wrong for half the year.
 
-### A second time slot
+### More time slots
 
-Two are live: `morning` at 07:10 and `evening` at 20:10, both carrying every section to every
-recipient. The evening one takes `lookbackHours: 13` rather than 24 — cross-day dedupe would drop
-this morning's items anyway, but the shorter window means they are never fetched or summarised
-twice in the first place.
+Four are live. Two carry the tech sections to every recipient:
 
-Adding a third is the same three steps: a `schedules[]` entry, `pnpm brief:schedule`, commit.
+| id        | time  | `lookbackHours` | sections                       | recipients |
+| --------- | ----- | --------------: | ------------------------------ | ---------- |
+| `morning` | 07:10 |              24 | tech · ai · cn-tech · security | all        |
+| `evening` | 20:10 |              13 | same                           | all        |
+| `news-am` | 09:10 |              24 | news · cn-news · cn-life       | mail only  |
+| `news-pm` | 18:10 |              12 | same                           | mail only  |
+
+`evening` takes `lookbackHours: 13` rather than 24 — cross-day dedupe would drop this morning's
+items anyway, but the shorter window means they are never fetched or summarised twice in the first
+place. `news-pm` takes 12 for the same reason; `news-am` keeps 24 so that a skipped evening run
+still leaves the next morning covering the full day.
+
+The two lists of sections are whitelists on both sides, not one whitelist and one catch-all. That
+is deliberate: `sections: ['*']` on the tech issues would fetch every news source four times a
+day, and the same wildcard on `weekly` would bury a week of tech in seven days of politics. A new
+section is therefore invisible until some schedule names it — which is the right default for a
+file that decides what goes out.
+
+Adding a fifth is the same three steps: a `schedules[]` entry, `pnpm brief:schedule`, commit.
 GitHub reports which cron fired via `github.event.schedule`; the CLI reverse-looks-up the matching
 schedule and uses its `sections` / `recipients` / `lookbackHours`. An unrecognised cron is an
 error, never a guess. Two schedules at the same time is also an error — the reverse lookup would be

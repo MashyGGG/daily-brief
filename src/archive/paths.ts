@@ -38,6 +38,24 @@ export function indexPath(baseDir: string): string {
 export const WEEKLY_SLOT = 'weekly'
 
 /**
+ * A label a human recognises: `早报` rather than `morning`. The slot id is a filename and
+ * a config id, so it stays ASCII; everything a reader sees goes through here instead.
+ * An unknown slot falls back to its id — a new `schedules[]` entry renders as itself
+ * rather than as nothing, which is the failure mode worth having.
+ */
+const SLOT_LABELS: Record<string, string> = {
+  morning: '早报',
+  evening: '晚报',
+  weekly: '周报',
+  'news-am': '早间要闻',
+  'news-pm': '晚间要闻',
+}
+
+export function slotLabel(slot: string): string {
+  return SLOT_LABELS[slot] ?? slot
+}
+
+/**
  * True for an archive file that REPRINTS items already archived under their own day.
  *
  * A weekly review holds up to a week of items but is filed under the day it was sent, so

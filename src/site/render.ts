@@ -2,6 +2,7 @@ import type { Item } from '../config/schema'
 import { escapeHtml, safeHref } from '../render/html'
 import { itemBody } from '../render/markdown'
 import type { ArchiveRecord } from '../archive/read'
+import { slotLabel } from '../archive/paths'
 import type { IssueSection, SiteIssue } from './collect'
 import { groupByMonth } from './collect'
 
@@ -159,7 +160,7 @@ export interface IssuePageInput {
 
 export function renderIssuePage(input: IssuePageInput): string {
   const { record, up } = input.issue
-  const heading = `${record.date}${record.slot ? ` · ${record.slot}` : ''}`
+  const heading = `${record.date}${record.slot ? ` · ${slotLabel(record.slot)}` : ''}`
 
   const body = input.sections
     .map((section) =>
@@ -192,7 +193,8 @@ export function renderIssuePage(input: IssuePageInput): string {
 export function searchKey(issue: SiteIssue): string {
   return [
     issue.record.date,
-    issue.record.slot ?? '',
+    // 两种写法都收：读者看到的是「早报」，但归档文件名和配置里写的是 `morning`。
+    issue.record.slot ? `${issue.record.slot} ${slotLabel(issue.record.slot)}` : '',
     ...issue.record.items.map((i) => `${i.title} ${i.source}`),
   ]
     .join(' ')
@@ -255,7 +257,9 @@ export function renderIndexPage(input: IndexPageInput): string {
             `<li data-q="${escapeHtml(searchKey(issue))}">`,
             '<div class="row">',
             `<a class="date" href="${issue.path}">${escapeHtml(issue.record.date)}</a>`,
-            issue.record.slot ? `<span class="pill">${escapeHtml(issue.record.slot)}</span>` : '',
+            issue.record.slot
+              ? `<span class="pill">${escapeHtml(slotLabel(issue.record.slot))}</span>`
+              : '',
             `<span class="pill">${issue.record.itemCount} 条</span>`,
             '</div>',
             peek ? `<div class="peek">${escapeHtml(peek)}</div>` : '',
@@ -340,7 +344,7 @@ export function renderFeed(input: FeedInput): string {
     .map((issue) => {
       const link = joinUrl(input.baseUrl, issue.path)
       const title = `${input.siteTitle} · ${issue.record.date}${
-        issue.record.slot ? ` · ${issue.record.slot}` : ''
+        issue.record.slot ? ` · ${slotLabel(issue.record.slot)}` : ''
       }`
       const body = [
         '<ul>',
