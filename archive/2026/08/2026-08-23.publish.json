@@ -44,12 +44,12 @@
         "notion-archive": {
           "platform": "notion",
           "status": "published",
-          "postId": "3c69696e-9c08-8103-b5be-d42464651042",
-          "url": "https://app.notion.com/p/2026-08-23-3c69696e9c088103b5bed42464651042",
+          "postId": "3c69696e-9c08-81fe-b18e-d7022eb5b2a5",
+          "url": "https://app.notion.com/p/2026-08-23-3c69696e9c0881feb18ed7022eb5b2a5",
           "contentHash": "b7aad08afbcd7606",
           "attempts": 1,
           "failStreak": 0,
-          "updatedAt": "2026-08-24T06:03:30.046Z",
+          "updatedAt": "2026-08-24T06:31:00.958Z",
           "lastError": null
         }
       }

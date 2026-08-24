@@ -8,36 +8,40 @@
           "slot": "weekly"
         }
       ],
-      "itemCount": 16,
+      "itemCount": 20,
       "itemIds": [
         "1825762fda9ae713",
         "156485fc7262616d",
         "1a77829df1e37497",
+        "6aa2d9228d55985b",
         "086e921e5083051a",
         "d0a2feb9c81480ce",
+        "bd94f97e6b70b1ef",
+        "728cce482217c5cb",
         "5a12d0bb8db7026c",
         "332dded855b98d30",
         "3de1e2c2d2f9eb39",
         "9e9b5881c2db4454",
         "3d7770bca15b0711",
         "3ec78b9dbabd5084",
+        "f3358fcc35974da2",
         "74dde799cab359d2",
         "37c393cd4ee11b30",
         "b3de4ef6099f4a3c",
         "4bebd2bbd1525bc4",
         "18975e0566b00762"
       ],
-      "contentHash": "2d784d573ac58d37",
+      "contentHash": "b05b178cbe89dd42",
       "targets": {
         "notion-archive": {
           "platform": "notion",
           "status": "published",
-          "postId": "3c69696e-9c08-819c-9cab-f93689fc5231",
-          "url": "https://app.notion.com/p/2026-08-24-3c69696e9c08819c9cabf93689fc5231",
-          "contentHash": "2d784d573ac58d37",
+          "postId": "3c69696e-9c08-81ca-9b51-ca5f664f336c",
+          "url": "https://app.notion.com/p/2026-08-24-3c69696e9c0881ca9b51ca5f664f336c",
+          "contentHash": "b05b178cbe89dd42",
           "attempts": 1,
           "failStreak": 0,
-          "updatedAt": "2026-08-24T06:09:10.457Z",
+          "updatedAt": "2026-08-24T06:30:48.945Z",
           "lastError": null
         }
       }
