@@ -1,0 +1,323 @@
+{
+  "date": "2026-08-25",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-08-25T10:46:19.377Z",
+  "configHash": "9cde425c0c54",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "2fe140901d8e34e7",
+      "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-25T09:28:45.000Z",
+      "excerpt": "這是普京執政逾25年來首次踏足「北方四島」（俄稱南千島群島）之一。當前正值俄羅斯遭遇來自烏克蘭一波接一波的無人機攻勢之際，普京為何要在此時親赴遠東登島？",
+      "section": "news",
+      "rankScore": 0.788285
+    },
+    {
+      "id": "588d57b483be9544",
+      "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
+      "url": "https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-25T08:51:14.000Z",
+      "excerpt": "中國工廠裡有超過兩百萬台機器人正在工作——而且它們的數量還在快速增長。",
+      "section": "news",
+      "rankScore": 0.763274
+    },
+    {
+      "id": "238959b5d4a73c2c",
+      "title": "台湾女艺人因向日本国宝\"佛足石\"泼洒不明液体而被逮捕",
+      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260825-%E5%8F%B0%E6%B9%BE%E5%A5%B3%E8%89%BA%E4%BA%BA%E5%9B%A0%E5%90%91%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%9D-%E4%BD%9B%E8%B6%B3%E7%9F%B3-%E6%B3%BC%E6%B4%92%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93%E8%80%8C%E8%A2%AB%E9%80%AE%E6%8D%95",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-25T10:10:19.000Z",
+      "author": "左依",
+      "excerpt": "综合共同社与中央社消息，日本奈良警署22日以涉嫌在奈良市药师寺向被指定为国宝的“佛足石”泼洒液体、违反《文化财保护法》为由，逮捕了来自台湾自称从事主持人工作的蔡宜臻（38岁）。蔡宜臻的经纪人周二（8月24日）发表道歉声明，表示对于此事造成的社会关注及相关困扰深感抱歉。据称由于蔡宜臻正在日本接受调查，无法与其本人取得联系。",
+      "section": "news",
+      "rankScore": 0.679997
+    },
+    {
+      "id": "7c03c451fab17dfe",
+      "title": "US firefighters say major blaze near Reno about a quarter contained",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-25T09:49:02.000Z",
+      "excerpt": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
+      "section": "news",
+      "rankScore": 0.601355
+    },
+    {
+      "id": "25098993086b9f85",
+      "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-25T10:42:26.000Z",
+      "author": "Tom Ambrose",
+      "excerpt": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homes The Greens have accused Andy Burnham of a “massive backtrack” after the government announced that only 60% of the Affordable Homes Programme would be spent on council…",
+      "section": "news",
+      "rankScore": 0.558271
+    },
+    {
+      "id": "52e60e4d01c4bbb0",
+      "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+      "url": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-25T10:22:00.000Z",
+      "excerpt": "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.",
+      "section": "news",
+      "rankScore": 0.54919
+    },
+    {
+      "id": "6d5e4f4297eff171",
+      "title": "U.S. Campaign on Iran’s Economy May Still Risk Regional Military Escalation",
+      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-25T10:20:16.000Z",
+      "author": "Erika Solomon",
+      "excerpt": "Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf.",
+      "section": "news",
+      "rankScore": 0.548419
+    },
+    {
+      "id": "4de8b3920c774013",
+      "title": "加拿大对美国说“不”",
+      "url": "https://cn.nytimes.com/opinion/20260825/mark-carney-tariffs-canada-america/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-08-25T04:20:21.000Z",
+      "author": "STEPHEN MARCHE",
+      "excerpt": "卡尼并非只是拒绝了一份贸易提议。他公开蔑视美国这种新型的侵略行径，拒绝与一个霸权国家捆绑在一起。这必将引起远超国界的共鸣。 Illustration by The New York Times; photograph by Chris Tanouye/Reuters",
+      "section": "news",
+      "rankScore": 0.534128
+    },
+    {
+      "id": "0ba18917124a6e3c",
+      "title": "Burnham set for first meeting with Trump in September",
+      "url": "https://www.ft.com/content/18c7de31-a049-4533-bbeb-6ba6e2a096b2?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-08-25T10:36:18.000Z",
+      "excerpt": "British officials explore possible White House visit around time of UN General Assembly",
+      "section": "news",
+      "rankScore": 0.486102
+    },
+    {
+      "id": "8b4b9e9b60dc9680",
+      "title": "At Least 1 in 4 NFL Players Gets CTE, Major New Study Finds",
+      "url": "https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-25T10:31:20.000Z",
+      "author": "John Branch",
+      "excerpt": "The actual prevalence, researchers said, may be much higher.",
+      "section": "news",
+      "rankScore": 0.484171
+    },
+    {
+      "id": "4ecfc7f92c5bc857",
+      "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
+      "url": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
+      "source": "npr-news",
+      "publishedAt": "2026-08-25T10:30:00.000Z",
+      "author": "Vito Emanuel",
+      "excerpt": "Investors will buy your life insurance policy today — and collect the payout when you die.",
+      "section": "news",
+      "rankScore": 0.483652
+    },
+    {
+      "id": "08b3a33e12a1467e",
+      "title": "美国最高法院为特朗普政府限制邮寄选票留余地",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KUEJaTU9sT2pLMnFUcTBORnVxSTNsbEdDU1YwQ19tTkZpeGVsOG1sRHFCVlpUZmppZ3hrb0txX3pTQnZmOGlXS1RKOHZmRkotRWdrQkdSQTJhVl9Dd1k0a2hqOXVfM3pvN0ZYTENobTN3bWFXQ1poS3N2U0Jyb1E?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-25T10:17:55.000Z",
+      "excerpt": "美国最高法院为特朗普政府限制邮寄选票留余地 新华网 联邦上诉法院维持德州对邮寄投票的限制| 选举保护和诚信法案| 联邦第五巡回上诉法院| 邮寄选票| 新唐人电视台 新唐人電視台 与特朗普立场一致的邮寄选票新规等待最高法院裁决 新浪财经 美国最高法院批准了唐纳德·特朗普关于邮寄投票的法令 Informat.ro 美国邮政署出台新规，要求各州提交申请邮寄选票的选民名单 北晚在线",
+      "section": "news",
+      "rankScore": 0.410531
+    },
+    {
+      "id": "4ad223c6b96dd1a5",
+      "title": "中国建设银行河南省分行原行长石永拴被开除党籍",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684013.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-25T10:38:24.000Z",
+      "excerpt": "中新网8月25日电 据中央纪委国家监委驻中国建设银行纪检监察组、山东省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中国建设银行纪检监察组、山东省聊城市监委对中国建设银行河南省分行原党委书记、行长石永拴严重违纪违法问题进行了立案审查调查。",
+      "section": "cn-news",
+      "rankScore": 0.765158
+    },
+    {
+      "id": "6a5d0da0de536f47",
+      "title": "我国老年助餐点达8.2万家 多元供给格局初步形成",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683930.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-08-25T08:41:39.000Z",
+      "excerpt": "中新网武汉8月25日电 (记者 马芙蓉)民政部养老服务司副司长孙文灿25日在武汉介绍，截至目前，全国老年助餐点达到8.2万家，每天为400万余人次老年人提供助餐服务，助餐服务网络覆盖城乡，多元供给格局初步形成。",
+      "section": "cn-news",
+      "rankScore": 0.756885
+    },
+    {
+      "id": "ac397bf3dcb83b74",
+      "title": "北京恭王府旁2.6亿元四合院流拍：买家需自行承担35户租户腾退",
+      "url": "https://www.jiemian.com/article/14988050.html",
+      "source": "jiemian",
+      "publishedAt": "2026-08-25T10:36:12.000Z",
+      "author": "jianli@jiemian.com(李科峰)",
+      "excerpt": "该四合院建筑面积972.7平方米，整体为典型的老城多户混居大杂院。",
+      "section": "cn-news",
+      "rankScore": 0.694376
+    },
+    {
+      "id": "9c317f7684773735",
+      "title": "王竹：统筹政法资源与数字身份治理，推动形成网络直播未成年人保护共识",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684016.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-25T10:36:14.000Z",
+      "excerpt": "随着数字终端和网络服务日益融入未成年人的日常生活，未成年人接触网络直播、网络游戏等数字服务的渠道更加多元，直播场景下账号借用、身份冒用、过度消费等问题也随之受到关注。四川大学法学院王竹教授认为，网络直播中的未成年人保护不能仅围绕“打赏能否退款”展开，而应放在数字终端和数字服务沉迷防治、网络实名身份体系、家庭监护责任、平台治理以及司法规则协调的整体框架下加以考察。尤其是在未成年人可能借用成年人账号进入数字服务场景的情况下，仅依靠平台端的身份识别和事后退款机制，仍难以从根本上解决问题。",
+      "section": "cn-news",
+      "rankScore": 0.624955
+    },
+    {
+      "id": "157627c1ecc46c99",
+      "title": "鲁迅文学奖颁奖典礼首度落户上海，多场文学活动向市民开放",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEQk5lcV8zeHNKMTJLZGhyMk0yZ2JHelZkS0d6a0VVdzBfX1BBZUhONFlPeEtVV1ZWQi1mYjBhaEFtZnFkRFp2U3MzV1lxUEZQZzNQVHI0Q1EtZUpEVUVfeQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-25T10:24:00.000Z",
+      "excerpt": "鲁迅文学奖颁奖典礼首度落户上海，多场文学活动向市民开放",
+      "section": "cn-news",
+      "rankScore": 0.618839
+    },
+    {
+      "id": "7300d004eb7856d8",
+      "title": "台风“沙德尔”将登陆浙江象山到福建福清 “紫檀”将登陆或擦过海南岛再登陆粤桂",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tZEppTlJHd1NBSTZJaDE2QjdfTGJ6SzEtOWM1bnZjUncyb1huOVJYRWRxYnBFWTlHY3RvMG1Gb3dXb3E2X2YyUDVuUnhIWFRQdGszQWpLajRfNFdt?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-25T10:05:07.000Z",
+      "excerpt": "台风“沙德尔”将登陆浙江象山到福建福清 “紫檀”将登陆或擦过海南岛再登陆粤桂 天气网 海空联动扫海 守护台州湾平安 台州海事局积极防御第18号台风“沙德尔” 台州新闻 应对台风“沙德尔” 闽浙均启动防台风四级应急响应 央视网 防御台风“沙德尔” 福建撤离渔船和海上人员 新浪财经 新闻1+1丨四个台风接续而来，如何应对？ 光明网",
+      "section": "cn-news",
+      "rankScore": 0.541686
+    },
+    {
+      "id": "588f3f4bb441df61",
+      "title": "美施壓伊朗貿易夥伴 北京稱中伊合作符合國際法",
+      "url": "https://www.cna.com.tw/news/acn/202608250213.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-25T08:06:43.000Z",
+      "excerpt": "（中央社台北25日電）美國財政部長貝森特24日警告，與伊朗有經貿往來的國家恐將面臨嚴峻後果，中國被各界視為主要對象。中國外交部發言人林劍今天稱，中國和伊朗的合作始終在國際法架構內進行，不應受到干擾破壞。",
+      "section": "cn-news",
+      "rankScore": 0.489064
+    },
+    {
+      "id": "6a4dda132455640d",
+      "title": "上海：促进智能机器人、智能穿戴、智能计算机、智能手机等消费升级",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uWjlRTGY0NlpZbTd4QVdURWNodWtGc25QSWFWLVdBdXlHcjl2WHFFUjJLWXJ4R2pramtUYTllLTdxNE9BdWw4dzFCU2ExV2t5OTBVZWlaSmVMQlY4QndnOWVDQV9HUQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-25T10:19:01.000Z",
+      "excerpt": "上海：促进智能机器人、智能穿戴、智能计算机、智能手机等消费升级 东方财富 上海“十五五”产业地图公布 新增三个万亿级产业集群 新浪财经 内参 | 沪指跌破20日均线 搜狐网 峰值推力35.2吨自研发动机同步研发！上海集中全力：C929研制等 凤凰网科技 上海明确推进算力芯片攻关，机构看好存储及先进封装景气，芯片板块延续调整 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.479381
+    },
+    {
+      "id": "75f7139bdc8bb146",
+      "title": "China’s J-16s face off against Egypt’s Rafales in combat drills as Iran war rumbles on",
+      "url": "https://www.scmp.com/news/china/military/article/3365163/chinas-j-16s-face-against-egypts-rafales-combat-drills-iran-war-rumbles?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-25T10:00:11.000Z",
+      "author": "Liu Zhen",
+      "excerpt": "Chinese fighter jets have conducted combat training with their Egyptian counterparts in a joint exercise following a major Chinese air force deployment to the Middle East.",
+      "section": "cn-news",
+      "rankScore": 0.472057
+    },
+    {
+      "id": "072dd26b8ab8d1a7",
+      "title": "新华语典·“典”读长春电影节｜十大奖项 全链条覆盖——金鹿奖的专业追求解码",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWpBNERiVTZ0WVJhaFhLaV90X0xHWjdndUlMMzlqSTMtODZCVlJiRlR5Ujl0NExDMXU4dU5vQUFPNmUtWk9pY3lzanFwNUJ4aU44MGdleThTbGZXWkl1dTdmMDVSbXpmVFJpZUEzaTBLdVNRVUxXaHFKbVNXTjN3WWxR?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-25T09:08:32.000Z",
+      "excerpt": "新华语典·“典”读长春电影节｜十大奖项 全链条覆盖——金鹿奖的专业追求解码 新华网 新浪网· 手机新浪网 第二十一届中国长春电影节主题研讨会在东北师大召开 搜狐网 长春电影节赋能青年电影创作 t.cj.sina.cn AI叩响文学影视之门 业界探讨技术与人文创作边界 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.387403
+    },
+    {
+      "id": "724d6de9233fa777",
+      "title": "台风“紫檀”“沙德尔”将相继登陆我国 强风雨接连影响华南华东",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684017.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-25T10:31:20.000Z",
+      "excerpt": "中国天气网讯 过去一周内，四个台风接连生成。目前第20号台风“简拉维”已减弱消散，第21号台风“艾莎尼”也已停编，但第18号台风“沙德尔”和第19号台风“紫檀”仍继续活跃，并将登陆我国。未来这两个台风将如何发展？会登陆哪里？哪些地方将承接最强风雨影响？中国天气网一一为你解读。",
+      "section": "cn-life",
+      "rankScore": 0.830007
+    },
+    {
+      "id": "0320a38585849464",
+      "title": "合江：荔城“小站点”撬动民生“大就业”",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBOUZqTjBwZ1ZZajZfUWhlM0xpMEJ5VUNsUkRwOXQ5RndHU1dlZmRCM2YyRGplb20xSmt0ZHNRQzdUTzBhVTlYR093OWJadDBhWWZYZkk5ZDkyNkM2UV9tUVdB?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-25T10:41:48.000Z",
+      "excerpt": "合江：荔城“小站点”撬动民生“大就业” 四川在线",
+      "section": "cn-life",
+      "rankScore": 0.627739
+    },
+    {
+      "id": "f2a452bd3ceca8a1",
+      "title": "日本北海道根室半岛附近海域发生4.8级地震",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LaWQ3MDRBYTZrV01zOU50OHA4enlNSjM1cXh5UjVUM0F6ODNBZGZabG42RDhwNEYySlAxdGs2d0JIcDNCWkJIQmNWMzc5LWpjLXNUMGRGUlFuR1dhYXhyendyOHFGRGRSc0czUkFfVVNZaDdWNFBtNlJ2RQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-25T10:34:39.000Z",
+      "excerpt": "日本北海道根室半岛附近海域发生4.8级地震 中国日报网",
+      "section": "cn-life",
+      "rankScore": 0.624164
+    },
+    {
+      "id": "c01d14a6041b6373",
+      "title": "5个厨房里的坏习惯，可能导致家庭癌！尤其第一个……",
+      "url": "https://www.chinanews.com.cn/life/2026/08-25/10683917.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-08-25T08:24:38.000Z",
+      "excerpt": "5个厨房里的坏习惯，可能导致家庭癌！尤其第一个，很多人都中招",
+      "section": "cn-life",
+      "rankScore": 0.621284
+    },
+    {
+      "id": "9f9678ea339218c2",
+      "title": "辽宁辖区证券期货市场概况（2026年7月）_辽宁监管局",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZN2ljcnNMOW1fVlloSmlYa2R0UDREU1RfamN3SzBvWkNhb2gxOEVjRlNVVDYwd2RISWhZVWJDY0lJRUVRZjVzY3JFVlA1S09namRfWk1uWWNCQWpGTE13N2daN0hGVGtvY1F0b1pNbVM?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-25T10:12:37.000Z",
+      "excerpt": "辽宁辖区证券期货市场概况（2026年7月）_辽宁监管局 csrc.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.545019
+    },
+    {
+      "id": "7be96af959f67c90",
+      "title": "湖南今年累计召回儿童学生用品13.62万件",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMDVaSW9KVXJpMXZ6eXFCZ1liaS1OTnRvaDE4c1Y0U2hFTnBLdU5GYzFoUWJUdFJlODZmaThCYzZlVUsxMEtsOEMtQU1wek9qdTdFZVJTRHBYTEQ1S2Jj?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-25T10:40:18.000Z",
+      "excerpt": "湖南今年累计召回儿童学生用品13.62万件 华声在线",
+      "section": "cn-life",
+      "rankScore": 0.487658
+    },
+    {
+      "id": "adeb4dd2c457da73",
+      "title": "“懒癌”并不懒，女子甲状腺结节3个月迅速恶变侵犯气管",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHZ01nTnhid0R2WEx4NGlLUkhXY1hENE5JMy1SLVRzbjQ3WmlqUFJ6VUpjTUFjYlB2UUpkdFBmR2xPMUd3SUpCN2s4aXhvNm9JcVIyODNBZ2NzR0JkMmhwZ2NhMml1V3ZO?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-25T10:03:00.000Z",
+      "excerpt": "“懒癌”并不懒，女子甲状腺结节3个月迅速恶变侵犯气管 紫牛新闻 潜伏40年突然“暴走”！颈部老结节一周暴长4倍，险些窒息致命 紫牛新闻 脖子有肿块恐是甲状腺癌 医揭重点在均衡饮食 出现4症状快就医 香港01 健康谈 | 体检发现甲状腺结节？别慌，这份长效管理指南请收好 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.473152
+    },
+    {
+      "id": "b70d68abb4f1640f",
+      "title": "宿迁学院2026 级新生大数据",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lbEJvZkVmOWppOHByUXZnUlkxSDRsSTJvQVVxeHZrMEJmbzY3MVZwdnk5RS0wbWV1bjRNSmZOcEZmYnNrMEZMTEJJZVVkbDVoY2E2V2xHX0RYNFk?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-25T10:18:16.000Z",
+      "excerpt": "宿迁学院2026 级新生大数据 华禹教育网",
+      "section": "cn-life",
+      "rankScore": 0.410648
+    }
+  ],
+  "warnings": [
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
