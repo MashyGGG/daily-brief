@@ -6,8 +6,8 @@ on:
     # generated from brief.config.yaml - run `pnpm brief:schedule` after editing, do not hand-edit
     - cron: '10 23 * * *' # morning - 07:10 Asia/Shanghai (previous UTC day)
     - cron: '10 12 * * *' # evening - 20:10 Asia/Shanghai
-    - cron: '10 1 * * *' # news-am - 09:10 Asia/Shanghai
-    - cron: '10 10 * * *' # news-pm - 18:10 Asia/Shanghai
+    - cron: '40 23 * * *' # news-am - 07:40 Asia/Shanghai (previous UTC day)
+    - cron: '10 11 * * *' # news-pm - 19:10 Asia/Shanghai
     - cron: '0 0 * * 1' # weekly - Mon 08:00 Asia/Shanghai
     # END generated schedule
   workflow_dispatch:

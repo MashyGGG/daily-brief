@@ -5,7 +5,7 @@ each issue into this repo's default branch. Run by GitHub Actions, on a schedule
 config file.
 
 Four issues a day, two kinds: a **tech brief** at 07:10 and 20:10 (WeCom + mail), and a **news
-edition** at 09:10 and 18:10 that carries the three news sections only, to mail only
+edition** at 07:40 and 19:10 that carries the three news sections only, to mail only
 ([docs/NEWS-EDITION.md](docs/NEWS-EDITION.md) records why they are separate issues rather than
 extra sections). A weekly review goes out Monday 08:00.
 
@@ -501,21 +501,59 @@ window either way, so a skipped run loses no content.
 If you set `timezone` to a zone with daylight saving, the generator prints a warning and annotates
 the workflow — a fixed UTC cron is one hour wrong for half the year.
 
-### More time slots
+### The full schedule
 
-Four are live. Two carry the tech sections to every recipient:
+Five issues go out, listed in the order they arrive. Times are `Asia/Shanghai` (the config's
+`timezone`); the cron column is the UTC literal generated into
+[`.github/workflows/daily-brief.yml`](.github/workflows/daily-brief.yml) — never hand-edited.
 
-| id        | time  | `lookbackHours` | sections                       | recipients |
-| --------- | ----- | --------------: | ------------------------------ | ---------- |
-| `morning` | 07:10 |              24 | tech · ai · cn-tech · security | all        |
-| `evening` | 20:10 |              13 | same                           | all        |
-| `news-am` | 09:10 |              24 | news · cn-news · cn-life       | mail only  |
-| `news-pm` | 18:10 |              12 | same                           | mail only  |
+| id        | time (CST) | cron (UTC)    | frequency | `lookbackHours` | sections                                  | recipients |
+| --------- | ---------- | ------------- | --------- | --------------: | ----------------------------------------- | ---------- |
+| `morning` | 07:10      | `10 23 * * *` | daily     |              24 | tech · ai · cn-tech · security · releases | all        |
+| `news-am` | 07:40      | `40 23 * * *` | daily     |              24 | news · cn-news · cn-life                  | mail only  |
+| `news-pm` | 19:10      | `10 11 * * *` | daily     |              12 | news · cn-news · cn-life                  | mail only  |
+| `evening` | 20:10      | `10 12 * * *` | daily     |              13 | tech · ai · cn-tech · security · releases | all        |
+| `weekly`  | Mon 08:00  | `0 0 * * 1`   | Mondays   |      `days: 7`¹ | tech · ai · cn-tech · security · releases | mail only  |
 
-`evening` takes `lookbackHours: 13` rather than 24 — cross-day dedupe would drop this morning's
-items anyway, but the shorter window means they are never fetched or summarised twice in the first
-place. `news-pm` takes 12 for the same reason; `news-am` keeps 24 so that a skipped evening run
-still leaves the next morning covering the full day.
+¹ `weekly` reads the archive rather than fetching, so it takes `days` instead of `lookbackHours`.
+The `morning` and `news-am` crons carry a `(previous UTC day)` annotation in the workflow: 07:10 and
+07:40 CST are 23:10 and 23:40 UTC the day before.
+
+Four of the five are defined under `schedules[]` in
+[`brief.config.yaml`](brief.config.yaml); `weekly` has its own top-level `weekly:` block because it
+is built from the archive rather than from a fetch — same three steps to change either.
+
+**Why these minutes.** Every trigger avoids `:00` and `:30`, the two most congested minutes in
+GitHub's scheduler. Actions routinely fires 5–30 minutes late, so read each row as "no earlier
+than" — the 07:10 issue lands by roughly 07:35 at worst.
+
+**Why these hours.** All five now fall inside DeepSeek's off-peak window (peak is UTC 01:00–04:00
+and 06:00–10:00, weekdays only — 09:00–12:00 and 14:00–18:00 CST), so LLM tokens bill at half
+price. `news-am` moved from 09:10 to 07:40 on 2026-08-26 for reading habits; the discount came
+along for free. See [docs/LLM-VENDOR-CHOICE.md](docs/LLM-VENDOR-CHOICE.md) §4.1 before changing a
+time — that is the property a cron edit silently breaks.
+
+**Why the windows differ.** `evening` takes `lookbackHours: 13` rather than 24 — cross-day dedupe
+would drop this morning's items anyway, but the shorter window means they are never fetched or
+summarised twice in the first place. `news-pm` takes 12 for the same reason, which reaches back to
+07:10 and so covers the 07:40 issue with half an hour to spare; `news-am` keeps 24 so that a
+skipped evening run still leaves the next morning covering the full day.
+
+`morning` and `news-am` are only 30 minutes apart, which is safe: their section whitelists do not
+overlap at all, and the workflow's `concurrency` group queues rather than cancels, so a late run
+makes the next one wait instead of losing it.
+
+Publishing to Notion / 掘金 runs on its own crons in
+[`.github/workflows/publish.yml`](.github/workflows/publish.yml), deliberately decoupled from when
+the brief finishes:
+
+| id       | time (CST) | cron (UTC)    | frequency | reads                            |
+| -------- | ---------- | ------------- | --------- | -------------------------------- |
+| `daily`  | 21:30      | `30 13 * * *` | daily     | that day's `morning` + `evening` |
+| `weekly` | Mon 10:30  | `30 2 * * 1`  | Mondays   | that Monday's `weekly` issue     |
+
+`daily` must sit after `evening` at 20:10 — at 09:30 the day's evening issue does not exist yet,
+and merging the two slots would silently degrade to half a brief.
 
 The two lists of sections are whitelists on both sides, not one whitelist and one catch-all. That
 is deliberate: `sections: ['*']` on the tech issues would fetch every news source four times a
@@ -523,7 +561,7 @@ day, and the same wildcard on `weekly` would bury a week of tech in seven days o
 section is therefore invisible until some schedule names it — which is the right default for a
 file that decides what goes out.
 
-Adding a fifth is the same three steps: a `schedules[]` entry, `pnpm brief:schedule`, commit.
+Adding another is the same three steps: a `schedules[]` entry, `pnpm brief:schedule`, commit.
 GitHub reports which cron fired via `github.event.schedule`; the CLI reverse-looks-up the matching
 schedule and uses its `sections` / `recipients` / `lookbackHours`. An unrecognised cron is an
 error, never a guess. Two schedules at the same time is also an error — the reverse lookup would be

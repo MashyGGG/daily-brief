@@ -61,11 +61,15 @@ schedules:
   # 新闻从技术早晚报里独立出来，自己占一期：只跑 news / cn-news / cn-life 三栏，
   # 只发邮件。好处是新闻自带一套席位，不与技术栏抢 limit；代价是每天多两次 Actions。
   #
-  # 09:10 CST = 01:10 UTC 当天，生成的 cron 是 `10 1 * * *`。同 morning 一样避开
+  # 07:40 CST = 23:40 UTC（前一日），生成的 cron 是 `40 23 * * *`。同 morning 一样避开
   # `:00` `:30` 这两个全球 Actions 最拥挤的分钟。
+  # 与 morning（07:10）只隔 30 分钟，这是安全的：两期栏目完全不相交（技术 vs 新闻），
+  # 不存在互相去重；workflow 的 concurrency 组是排队而非取消，真撞上了只会晚发不会丢。
+  # 顺带白捡半价：DeepSeek 峰时 = 工作日 09:00–12:00 / 14:00–18:00 CST，07:40 在谷时，
+  # 而原来的 09:10 正好踩在峰时里（docs/LLM-VENDOR-CHOICE.md §4.1）。
   # lookbackHours 24：晚间那期若被跳过，早间这期仍然兜得住一整天。
   - id: news-am
-    time: '09:10'
+    time: '07:40'
     lookbackHours: 24
     sections: [news, cn-news, cn-life]
     # 只发邮件（决策 3）：企微单条 4096 字节装不下 30 条要闻。企微哪天不用了，
@@ -73,12 +77,13 @@ schedules:
     recipients: [me-mail]
     enabled: true
 
-  # 18:10 CST = 10:10 UTC 当天，生成的 cron 是 `10 10 * * *`。
-  # lookbackHours 12 覆盖 09:10 之后的新增，余量吸收 Actions 0–30 分钟的排队漂移。
+  # 19:10 CST = 11:10 UTC 当天，生成的 cron 是 `10 11 * * *`。
+  # lookbackHours 12 上溯到 07:10，正好盖住 07:40 的 news-am 并多留 30 分钟，
+  # 余量吸收 Actions 0–30 分钟的排队漂移 —— 两期窗口之间不留缝。
   # 与早间那期窗口重叠不会重复推送：跨天去重会读到当天 news-am 的归档 JSON
   # （archive.dedupeLookbackDays），早上已经发过的条目在这里会被丢掉。
   - id: news-pm
-    time: '18:10'
+    time: '19:10'
     lookbackHours: 12
     sections: [news, cn-news, cn-life]
     recipients: [me-mail]
