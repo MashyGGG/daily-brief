@@ -163,13 +163,17 @@ llm:
 
   provider: # 需求 1：模型完全自定义
     baseUrl: https://api.deepseek.com/v1 # 任何 OpenAI 兼容端点
-    model: deepseek-chat
+    # ★ 2026-08-26 修正：deepseek-chat 别名已于 2026-07-24 下线，留着就是每天四个 404。
+    model: deepseek-v4-flash
     apiKeyRef: LLM_API_KEY # 只写 secret 的「名字」，与 recipients.secretRef 同一约定
     temperature: 0 # 确定性：同输入同输出
     maxOutputTokens: 300
     timeoutMs: 30000
     concurrency: 4
     retries: 2
+    # ★ 2026-08-26 新增：厂商扩展参数原样并入请求体（见 LLM-VENDOR-CHOICE.md §9.3）。
+    #   工具调用三家都是标准 tools / tool_choice；思考模式各写各的，这一格就是为它准备的。
+    extraBody: {}
 
   budget: # 硬闸：任何配置错误都烧不穿
     maxItemsPerRun: 12
@@ -282,18 +286,19 @@ shouldSummarize(item) =
 
 ### 2.5 新增环境变量
 
-| 变量           | 来源   | 必需        | 说明                                         |
-| -------------- | ------ | ----------- | -------------------------------------------- |
-| `LLM_API_KEY`  | secret | 启用 LLM 时 | 名字由 `provider.apiKeyRef` 指定             |
-| `LLM_BASE_URL` | secret | 否          | 覆盖配置里的 `baseUrl`（换供应商不改配置）   |
-| `LLM_MODEL`    | vars   | 否          | 覆盖配置里的 `model`，与 `LLM_BASE_URL` 成对 |
-| `LLM_ENABLED`  | vars   | 否          | `false` 等价于 `--no-llm`，用于临时熔断      |
+| 变量              | 来源   | 必需        | 说明                                         |
+| ----------------- | ------ | ----------- | -------------------------------------------- |
+| `LLM_API_KEY`     | secret | 启用 LLM 时 | 名字由 `provider.apiKeyRef` 指定             |
+| `LLM_BASE_URL`    | secret | 否          | 覆盖配置里的 `baseUrl`（换供应商不改配置）   |
+| `LLM_MODEL`       | vars   | 否          | 覆盖配置里的 `model`，与 `LLM_BASE_URL` 成对 |
+| `LLM_CONCURRENCY` | vars   | 否          | 覆盖 `concurrency`（1–16），限流跟着密钥走   |
+| `LLM_ENABLED`     | vars   | 否          | `false` 等价于 `--no-llm`，用于临时熔断      |
 
-四个都要加进 [`daily-brief.yml`](../.github/workflows/daily-brief.yml) 的 `env:` 块。
+五个都要加进 [`daily-brief.yml`](../.github/workflows/daily-brief.yml) 的 `env:` 块。
 
 **换供应商是零代码改动**：`llm.ts` 是一次 `POST /chat/completions` + bearer key，不是任何厂商
 SDK —— 换 key / `LLM_BASE_URL` / `LLM_MODEL` 三个值即可。`baseUrl` 与 `model` **必须成对覆盖**：
-只换端点、模型名还留着 `deepseek-chat`，结果是每天早上一个 404。`resolveProvider()`
+只换端点、模型名还留着上一家的，结果是每天早上一个 404。`resolveProvider()`
 （[`enrich/llm.ts`](../src/enrich/llm.ts)）在所有早退分支之前解析，因此运行汇总表和
 `summaryMeta.model` 记的都是**真正跑的那个模型**，换供应商之后回头看旧归档仍然对得上。
 端点侧只有两处需要复核：是否接受 `max_tokens` 与 `temperature: 0`；换完先跑

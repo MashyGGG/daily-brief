@@ -682,7 +682,7 @@ describe('M1 — the enrich stage inside a real run', () => {
     const { result } = await runWithLlm()
     const summary = renderRunSummary(result, { dryRun: false })
     expect(summary).toContain('### LLM 摘要')
-    expect(summary).toContain('deepseek-chat')
+    expect(summary).toContain('deepseek-v4-flash')
     expect(summary).toMatch(/\| \d+ \| \d+ \| 0 \|/)
   })
 

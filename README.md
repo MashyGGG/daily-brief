@@ -303,6 +303,7 @@ Add the secret and it starts working, no config edit:
 LLM_API_KEY   any OpenAI-compatible key         → summaries start appearing
 LLM_BASE_URL  optional secret;   overrides llm.provider.baseUrl
 LLM_MODEL     optional variable; overrides llm.provider.model
+LLM_CONCURRENCY  optional variable; overrides llm.provider.concurrency (1-16)
 LLM_ENABLED   optional variable; "false" stops the calls without a config edit
 ```
 
@@ -317,12 +318,36 @@ LLM_MODEL    = the new model name        (variable — not sensitive)
 ```
 
 Change `LLM_BASE_URL` and `LLM_MODEL` **together**: a new endpoint still being asked for
-`deepseek-chat` answers 404 every morning. Both default to whatever `llm.provider` says, so
-the committed config stays the readable record while the secrets carry the swap. The model
-that actually ran is recorded per item in `summaryMeta.model` and on the run-summary row, so
+the previous vendor's model name answers 404 every morning. Both default to whatever
+`llm.provider` says, so the committed config stays the readable record while the secrets
+carry the swap. The model that actually ran is recorded per item in `summaryMeta.model` and on the run-summary row, so
 an archive from before a swap still says which model wrote it. Two things to re-check after
 moving vendor: the endpoint must accept `max_tokens` and `temperature: 0`, and the prompt
 asks for JSON — verify with `pnpm brief --dry-run` before letting it run at 07:10.
+
+`LLM_CONCURRENCY` rides along because a rate limit belongs to the key, not to the config: a
+free tier at roughly 1 QPS answers `concurrency: 4` with a wall of 429s. That makes an
+A/B against an archived issue a single command, no config edit and nothing sent —
+
+```
+LLM_API_KEY=<the free key> LLM_BASE_URL=https://open.bigmodel.cn/api/paas/v4 LLM_MODEL=glm-4.7-flash LLM_CONCURRENCY=1 pnpm brief --re-enrich 2026-08-26 --diff
+```
+
+Anything a vendor adds beyond the OpenAI shape — thinking mode, tools — goes in
+`llm.provider.extraBody` and is merged into the request body verbatim. Tool calling is
+already standard `tools` / `tool_choice` across vendors; thinking mode is where each writes
+its own parameters, which is what that field exists for:
+
+```yaml
+extraBody: { thinking: { type: enabled }, reasoning_effort: low } # DeepSeek
+extraBody: { enable_thinking: true, thinking_budget: 2048 } # Qwen
+```
+
+The config rejects `model`, `messages`, `temperature`, `max_tokens` and `stream` there — the
+first four are the provider block's own, and an SSE body would read as "non-JSON" and drop
+every item back to its excerpt. Turning thinking on also means raising `maxOutputTokens`
+well past 300: the chain of thought is billed and counted as output, so a model can spend
+the whole budget thinking and have none left to answer with.
 
 Who gets summarized is a whitelist, decided in two independent steps:
 

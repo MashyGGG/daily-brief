@@ -843,13 +843,26 @@ llm:
     # 换供应商不需要改代码，也不需要改这里：LLM_BASE_URL（secret）+ LLM_MODEL（vars）
     # 覆盖下面两行，二者必须成对改 —— 只换端点会让旧模型名每天早上 404。
     baseUrl: https://api.deepseek.com/v1 # 任何 OpenAI 兼容端点；LLM_BASE_URL 可覆盖
-    model: deepseek-chat # LLM_MODEL 可覆盖
+    # deepseek-chat 这个别名已于 2026-07-24 下线，留着就是每天四个 404。
+    model: deepseek-v4-flash # LLM_MODEL 可覆盖
     apiKeyRef: LLM_API_KEY # 写的是 secret 的「名字」，与 recipients.secretRef 同一约定
     temperature: 0 # 同样的输入永远给同样的输出，便于 --re-enrich 比对
     maxOutputTokens: 300
     timeoutMs: 30000
-    concurrency: 4
+    concurrency: 4 # LLM_CONCURRENCY 可覆盖；限流是密钥的属性，不是代码的属性
     retries: 2 # 只对 429 / 5xx / 超时重试；401 之类重试三遍只是白等
+
+    # 厂商扩展参数，原样并入请求体。工具调用（tools / tool_choice）三家都是标准 OpenAI
+    # 形状，加了不用改代码；但思考模式各写各的，所以才需要这一格 —— 有了它，
+    # 「换哪个模型」是一行配置，不是一次改代码。
+    #   DeepSeek：extraBody: { thinking: { type: enabled }, reasoning_effort: low }
+    #   通义：    extraBody: { enable_thinking: true, thinking_budget: 2048 }
+    #   智谱：    extraBody: { thinking: { type: enabled } }
+    # ⚠️ 真要开思考模式，maxOutputTokens 必须同步抬到 2000+（思维链也算输出 token，
+    #    300 的上限会让模型「想完没预算写答案」），timeoutMs 也要放宽。
+    # model / messages / temperature / max_tokens / stream 这五个键会被配置校验拒绝：
+    # 前四个 provider 自己管，stream 会让 llm.ts 把 SSE 当成「非 JSON 响应」整期退回 excerpt。
+    extraBody: {}
 
   # 硬闸。section.limit 相加（技术早晚报 17、要闻期 30）已经是结构性上限，
   # 这里是配置写错时兜底的第二道，两者取小。

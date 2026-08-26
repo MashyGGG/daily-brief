@@ -140,7 +140,7 @@ describe('generateDigest — one call, isolated', () => {
     expect(outcome.digest!.text).toBe('今天最值得看的是 GitHub 的故障复盘。')
     expect(outcome.digest!.meta).toEqual({
       by: 'llm',
-      model: 'deepseek-chat',
+      model: 'deepseek-v4-flash',
       promptVersion: DIGEST_PROMPT_VERSION,
       inputKind: 'summaries',
     })

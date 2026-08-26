@@ -94,16 +94,19 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          # LLM summaries (docs/LLM-SUMMARY.md §2.5). All four are optional: with no
+          # LLM summaries (docs/LLM-SUMMARY.md §2.5). All five are optional: with no
           # LLM_API_KEY the enrich stage skips itself and the brief goes out unchanged.
           # LLM_ENABLED is the break-glass switch — set the repo variable to "false" to
           # stop calling the model without editing brief.config.yaml.
           # LLM_BASE_URL + LLM_MODEL are the provider swap: change the two together (plus
           # the key) and the next morning runs on another vendor with no code change. The
           # endpoint is a secret because its path can carry auth; the model name is not.
+          # LLM_CONCURRENCY goes with them when the new key is rate-limited harder than the
+          # old one — a free tier at ~1 QPS needs "1" here, not a config edit.
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
           LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_CONCURRENCY: ${{ vars.LLM_CONCURRENCY }}
           LLM_ENABLED: ${{ vars.LLM_ENABLED }}
           GITHUB_TOKEN: ${{ github.token }}
         run: |

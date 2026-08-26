@@ -96,7 +96,7 @@ describe('enrichSections — the happy path', () => {
     const result = await enrichSections(sections(item({})), llm(), ctx(GOOD))
     expect(result.sections[0]!.items[0]!.summaryMeta).toEqual({
       by: 'llm',
-      model: 'deepseek-chat',
+      model: 'deepseek-v4-flash',
       promptVersion: PROMPT_VERSION,
       inputKind: 'excerpt',
     })

@@ -57,7 +57,7 @@ describe('createLlmClient — the request', () => {
     expect(init.method).toBe('POST')
     expect(init.headers.authorization).toBe('Bearer sk-test-key-value')
     const body = JSON.parse(init.body)
-    expect(body).toMatchObject({ model: 'deepseek-chat', temperature: 0, max_tokens: 300 })
+    expect(body).toMatchObject({ model: 'deepseek-v4-flash', temperature: 0, max_tokens: 300 })
     expect(body.messages).toEqual([
       { role: 'system', content: 'SYSTEM' },
       { role: 'user', content: 'USER' },
@@ -94,6 +94,40 @@ describe('createLlmClient — the request', () => {
     // The provenance written into every archived item must name the model actually billed.
     expect(c.model).toBe('kimi-k2')
   })
+
+  it('merges extraBody into the request body — thinking mode without a code change', async () => {
+    const fetchImpl = vi.fn(() => Promise.resolve(ok(ANSWER))) as unknown as LlmFetch
+    await client(fetchImpl, {
+      extraBody: { thinking: { type: 'enabled' }, reasoning_effort: 'low' },
+    }).complete('SYSTEM', 'USER')
+    const [, init] = (fetchImpl as unknown as ReturnType<typeof vi.fn>).mock.calls[0]!
+    const body = JSON.parse(init.body)
+    expect(body.thinking).toEqual({ type: 'enabled' })
+    expect(body.reasoning_effort).toBe('low')
+    // and the four it must not disturb
+    expect(body).toMatchObject({ model: 'deepseek-v4-flash', temperature: 0, max_tokens: 300 })
+    expect(body.messages).toHaveLength(2)
+  })
+
+  it('sends no extra keys when extraBody is left empty', async () => {
+    const fetchImpl = vi.fn(() => Promise.resolve(ok(ANSWER))) as unknown as LlmFetch
+    await client(fetchImpl).complete('SYSTEM', 'USER')
+    const [, init] = (fetchImpl as unknown as ReturnType<typeof vi.fn>).mock.calls[0]!
+    expect(Object.keys(JSON.parse(init.body)).sort()).toEqual([
+      'max_tokens',
+      'messages',
+      'model',
+      'temperature',
+    ])
+  })
+
+  it('rejects an extraBody that would shadow a field the provider owns', () => {
+    for (const key of ['model', 'messages', 'temperature', 'max_tokens', 'stream']) {
+      expect(() => llmSchema.parse({ provider: { extraBody: { [key]: 'x' } } })).toThrow(
+        new RegExp(key.replace(/_/g, '_')),
+      )
+    }
+  })
 })
 
 describe('resolveProvider', () => {
@@ -118,12 +152,32 @@ describe('resolveProvider', () => {
   })
 
   it('a blank LLM_MODEL is "not set", never an empty model name', () => {
-    expect(resolveProvider(provider(), { LLM_MODEL: '  ' }).model).toBe('deepseek-chat')
+    expect(resolveProvider(provider(), { LLM_MODEL: '  ' }).model).toBe('deepseek-v4-flash')
   })
 
   it('keeps every field the overrides do not name', () => {
     const p = resolveProvider(provider({ concurrency: 3 }), { LLM_MODEL: 'x' })
     expect(p).toMatchObject({ apiKeyRef: 'LLM_API_KEY', temperature: 0, concurrency: 3 })
+  })
+
+  it('LLM_CONCURRENCY overrides on its own — a free tier at 1 QPS needs no config edit', () => {
+    expect(resolveProvider(provider(), { LLM_CONCURRENCY: '1' })).toMatchObject({
+      model: 'deepseek-v4-flash',
+      concurrency: 1,
+    })
+  })
+
+  it('ignores an LLM_CONCURRENCY that is not a whole number in range', () => {
+    for (const value of ['0', '17', '2.5', 'four', '', '  ']) {
+      expect(resolveProvider(provider(), { LLM_CONCURRENCY: value }).concurrency).toBe(4)
+    }
+  })
+
+  it('carries extraBody through untouched', () => {
+    const p = resolveProvider(provider({ extraBody: { reasoning_effort: 'low' } }), {
+      LLM_MODEL: 'x',
+    })
+    expect(p.extraBody).toEqual({ reasoning_effort: 'low' })
   })
 })
 

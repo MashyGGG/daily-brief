@@ -248,6 +248,14 @@ const llmDefaults = z
   })
   .default({})
 
+/**
+ * Keys `extraBody` may not carry. The first four are the ones `provider` already owns —
+ * letting a passthrough shadow them would mean the config no longer states what is
+ * actually billed. `stream` is a different failure: `llm.ts` parses the body once as JSON,
+ * so an SSE answer reads as "non-JSON body" and the whole issue falls back to excerpts.
+ */
+const RESERVED_BODY_KEYS = ['model', 'messages', 'temperature', 'max_tokens', 'stream']
+
 export const llmSchema = z
   .object({
     enabled: z.boolean().default(false),
@@ -256,7 +264,7 @@ export const llmSchema = z
         /** Any OpenAI-compatible `/chat/completions` endpoint; `LLM_BASE_URL` overrides it. */
         baseUrl: z.string().url().default('https://api.deepseek.com/v1'),
         /** `LLM_MODEL` overrides it — the pair moves with `baseUrl`, never alone. */
-        model: z.string().min(1).default('deepseek-chat'),
+        model: z.string().min(1).default('deepseek-v4-flash'),
         /** The NAME of the env var holding the key — same convention as `recipients[].secretRef`. */
         apiKeyRef: z.string().min(1).default('LLM_API_KEY'),
         temperature: z.number().min(0).max(2).default(0),
@@ -267,8 +275,33 @@ export const llmSchema = z
           .min(1000)
           .max(120 * 1000)
           .default(30_000),
+        /** `LLM_CONCURRENCY` overrides it — a free tier's QPS is a property of the key, not the code. */
         concurrency: z.number().int().min(1).max(16).default(4),
         retries: z.number().int().min(0).max(5).default(2),
+        /**
+         * Vendor extensions, merged verbatim into the `/chat/completions` body. Decision 1
+         * promises "any OpenAI-compatible endpoint", and thinking mode is exactly where the
+         * vendors stop agreeing: DeepSeek wants `thinking` + `reasoning_effort`, Qwen wants
+         * `enable_thinking` + `thinking_budget`, Zhipu wants `thinking`. Tool calling, by
+         * contrast, is already standard `tools` / `tool_choice` everywhere.
+         *
+         * Because `llm.ts` is raw fetch rather than a vendor SDK, a vendor extension is just
+         * another key in the JSON — so this one field keeps "switch provider" a config edit.
+         */
+        extraBody: z
+          .record(z.unknown())
+          .default({})
+          .superRefine((body, ctx) => {
+            for (const key of Object.keys(body)) {
+              if (!RESERVED_BODY_KEYS.includes(key)) continue
+              ctx.addIssue({
+                code: z.ZodIssueCode.custom,
+                message:
+                  `llm.provider.extraBody.${key} collides with a field the provider block already owns ` +
+                  `(${RESERVED_BODY_KEYS.join(', ')}) — set it there instead`,
+              })
+            }
+          }),
       })
       .default({}),
     /**

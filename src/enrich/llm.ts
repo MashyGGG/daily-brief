@@ -69,6 +69,12 @@ interface ChatResponse {
  * 404 every morning at 07:10, and the config would still claim the old model was in use.
  * Blank means "not set" rather than "set to nothing", exactly as the config-vs-secret
  * convention reads everywhere else in this repo.
+ *
+ * `LLM_CONCURRENCY` rides along for a third reason: rate limits belong to the key, not to
+ * the config. A free tier at ~1 QPS answers `concurrency: 4` with a wall of 429s, and an
+ * A/B run that degrades half its items to excerpts compares nothing. Unparseable or
+ * out-of-range values are ignored rather than fatal — a bad env var must not take the
+ * morning brief down.
  */
 export function resolveProvider(
   provider: LlmConfig['provider'],
@@ -76,8 +82,15 @@ export function resolveProvider(
 ): LlmConfig['provider'] {
   const baseUrl = env.LLM_BASE_URL?.trim()
   const model = env.LLM_MODEL?.trim()
-  if (!baseUrl && !model) return provider
-  return { ...provider, ...(baseUrl ? { baseUrl } : {}), ...(model ? { model } : {}) }
+  const raw = Number(env.LLM_CONCURRENCY?.trim())
+  const concurrency = Number.isInteger(raw) && raw >= 1 && raw <= 16 ? raw : undefined
+  if (!baseUrl && !model && concurrency === undefined) return provider
+  return {
+    ...provider,
+    ...(baseUrl ? { baseUrl } : {}),
+    ...(model ? { model } : {}),
+    ...(concurrency !== undefined ? { concurrency } : {}),
+  }
 }
 
 export interface LlmClientOptions {
@@ -120,6 +133,9 @@ export function createLlmClient(options: LlmClientOptions): LlmClient {
             { role: 'system', content: system },
             { role: 'user', content: user },
           ],
+          // Vendor extensions — thinking mode, tools — straight through. The schema rejects
+          // the keys above, so this can add to the request but never rewrite it.
+          ...provider.extraBody,
         }),
         signal: controller.signal,
       })
