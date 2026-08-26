@@ -1,0 +1,323 @@
+{
+  "date": "2026-08-26",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-08-26T02:38:29.657Z",
+  "configHash": "9cde425c0c54",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "d57072d246372073",
+      "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高",
+      "url": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-26T00:22:13.000Z",
+      "excerpt": "歐洲哥白尼氣候變化服務的薩曼莎·伯吉斯博士表示，這項紀錄是「另一個表明海洋正面臨越來越大壓力的清晰訊號」。",
+      "section": "news",
+      "rankScore": 0.794574
+    },
+    {
+      "id": "422d3a3ff021a597",
+      "title": "艺术家高兟因创作讽刺毛泽东雕塑获刑三年",
+      "url": "https://cn.nytimes.com/china/20260826/china-artist-gao-zhen-jailed-mao-sculpture/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-08-26T00:59:59.000Z",
+      "author": "郭莉莉",
+      "excerpt": "高兟与其弟逾15年前创作了数组讽刺毛泽东的雕塑。他在两年前回中国探亲时被拘留。本周，法院判处其侵害英雄烈士名誉、荣誉罪成立。本案凸显了中国法律体系的不透明性。 Shiho Fukada for The New York Times 高兟、高强和他们的作品《下跪忏悔的毛》，2009年摄于北京。",
+      "section": "news",
+      "rankScore": 0.739899
+    },
+    {
+      "id": "851a0c8bd7496b76",
+      "title": "尼泊尔：国际藏学学术会议突然被取消，是否有来自中国的压力？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260825-%E5%B0%BC%E6%B3%8A%E5%B0%94-%E5%9B%BD%E9%99%85%E8%97%8F%E5%AD%A6%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E7%AA%81%E7%84%B6%E8%A2%AB%E5%8F%96%E6%B6%88%EF%BC%8C%E6%98%AF%E5%90%A6%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8E%8B%E5%8A%9B",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-25T23:40:36.000Z",
+      "author": "阿曼亭",
+      "excerpt": "原定于8月23日至29日在尼泊尔首都加德满都举行的一次国际藏学学术会议在临近开幕前突然被取消了线下形式、改为线上举行。这一改变是否来自中国的压力呢？",
+      "section": "news",
+      "rankScore": 0.650585
+    },
+    {
+      "id": "9d24bd38e5c47053",
+      "title": "Tributes pour in after country music legend Dolly Parton, 80, dies following ‘brief battle with cancer’ – latest updates",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-26T02:09:34.000Z",
+      "author": "Kate Lamb (now); Lucy Campbell and Fran Lawther (earlier)",
+      "excerpt": "Reba McEntire, Lily Tomlin, Dionne Warwick, Kacey Musgraves, Donald Trump and others mourn star’s death Dolly Parton dies aged 80 | Celebrity tributes | A life in pictures Parton’s peerless career turned country music cliches inside out Share your tributes and memories of Dolly Parton Our picture…",
+      "section": "news",
+      "rankScore": 0.553572
+    },
+    {
+      "id": "a69041f850433e42",
+      "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-26T01:54:00.000Z",
+      "excerpt": "Families displaced by war in Sudan’s El Obeid refugee camps face crippling water shortages.",
+      "section": "news",
+      "rankScore": 0.550112
+    },
+    {
+      "id": "0a3358d4802e7026",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-25T19:50:57.000Z",
+      "excerpt": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "section": "news",
+      "rankScore": 0.528114
+    },
+    {
+      "id": "f7881263f5a4d53b",
+      "title": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
+      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-25T23:58:04.000Z",
+      "author": "Farnaz Fassihi",
+      "excerpt": "Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has given her asylum.",
+      "section": "news",
+      "rankScore": 0.524349
+    },
+    {
+      "id": "a2307407b78acb69",
+      "title": "N.Y.C. Officials Defend Second-Home Tax Rollout and Move to Ease Worries",
+      "url": "https://www.nytimes.com/2026/08/25/nyregion/mamdani-pieds-a-terre-tax-homes.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-26T01:53:37.000Z",
+      "author": "Andy Newman",
+      "excerpt": "Mamdani administration officials said they had used new data to shrink the pool of properties potentially subject to the tax and extended the deadline for homeowners to prove city residency.",
+      "section": "news",
+      "rankScore": 0.481274
+    },
+    {
+      "id": "fdc39c40b7049643",
+      "title": "China’s new challenger in Arctic sea trade",
+      "url": "https://www.ft.com/content/3b4c4dc2-3b26-4973-b1c3-4286bc072bb2",
+      "source": "ft-world",
+      "publishedAt": "2026-08-26T01:24:46.000Z",
+      "excerpt": "Seoul hopes polar sea highway will reduce reliance on chokepoints such as Hormuz and revive ailing city of Busan",
+      "section": "news",
+      "rankScore": 0.475664
+    },
+    {
+      "id": "b9b284e72e51d274",
+      "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
+      "source": "npr-news",
+      "publishedAt": "2026-08-25T22:50:57.000Z",
+      "author": "John Ruwitch",
+      "excerpt": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks.",
+      "section": "news",
+      "rankScore": 0.445755
+    },
+    {
+      "id": "c1986598da6810fd",
+      "title": "英法加码对乌军援难解今冬燃眉之急- 环球新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LU25mUlRpX0dzTlJ5dDVlcmhwZWxZVXJWNVhrZXhnSVJ0MGU2Zl9KOWUwWG1Da25sRFNEZlFocEZyeTZpTjVmQ0t1TzBhTXoxVUo1X29GbThfOWswYzFkWmt3TQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-26T01:49:00.000Z",
+      "excerpt": "英法加码对乌军援难解今冬燃眉之急- 环球新闻 东南网 英法加码对乌军援难解今冬燃眉之急--国际 人民网 英国首相伯纳姆9月将与特朗普举行首次面对面会谈 新浪财经 英首相首次出访：助乌造远程导弹，称“乌安全即英安全” 观察者 英国将向乌克兰提供“风暴之影”导弹生产技术 凤凰网",
+      "section": "news",
+      "rankScore": 0.411751
+    },
+    {
+      "id": "113cad1456aa8640",
+      "title": "联合国秘书长与红十字会主席再次呼吁制定致命自主武器规则",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142684",
+      "source": "un-news-zh",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "excerpt": "尽管有未经证实的报道称，全自主且由人工智能引导的无人机目前已在战场上投入使用，但联合国秘书长古特雷斯与红十字国际委员会主席埃格周二再次发出紧急呼吁，要求在为时已晚之前制定更严格的全球管控措施。",
+      "section": "news",
+      "rankScore": 0.410376
+    },
+    {
+      "id": "86a765525a4cef07",
+      "title": "网友收到“四川长宁7.7级”地震预警 中国地震局回应三方面问题",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684316.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-08-26T02:02:25.000Z",
+      "excerpt": "2026年8月24日8时26分，四川宜宾市长宁县发生4.7级地震。中国地震预警网震后6秒通过微信小程序、华为手机、小米手机和地震预警专用终端等渠道，向震中周边区域1000余万用户推送了官方地震预警信息。此事引发公众广泛关注。今天，中国地震局针对三方面问题进行回应：",
+      "section": "cn-news",
+      "rankScore": 0.827974
+    },
+    {
+      "id": "528015da7f08f509",
+      "title": "工信部：未来五年将加快打造航空航天、智能机器人等新兴支柱产业",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684351.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-26T02:33:09.000Z",
+      "excerpt": "中新网8月26日电 8月26日，国新办举行 “开局起步‘十五五’”系列主题新闻发布会，工业和信息化部相关负责人介绍全力抓好“十五五”规划实施、加快推进新型工业化有关情况。",
+      "section": "cn-news",
+      "rankScore": 0.768367
+    },
+    {
+      "id": "ebac0354259b29a6",
+      "title": "工信部：“十四五”期间我国规模以上工业增加值年均增长5.9%",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684366.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-26T02:30:08.000Z",
+      "excerpt": "8月26日，国新办举行“开局起步‘十五五’”系列主题新闻发布会，工业和信息化部相关负责人介绍全力抓好“十五五”规划实施、加快推进新型工业化有关情况。",
+      "section": "cn-news",
+      "rankScore": 0.62791
+    },
+    {
+      "id": "9dc69896e167cdb5",
+      "title": "与鲁迅、郑振铎“流观”古人笺谱和博物图谱",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FZDhYOWsydkgzY1E4WURIaG8tNGR3ZlVqZFBuem5hS3dxRVhicHVZc1JhV2RKTGxJUG5pTDFOcEhHRHY4VGt2d1NzSjFEYS1fcE5GZ2dCaHp6ZG5RYUVBWA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-26T01:55:00.000Z",
+      "excerpt": "与鲁迅、郑振铎“流观”古人笺谱和博物图谱",
+      "section": "cn-news",
+      "rankScore": 0.619126
+    },
+    {
+      "id": "b01faf89ee1d5dd2",
+      "title": "我国交通强国指数稳步增长位列世界第五",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jYm1ETGVmYW92eGZRaDZyTGRPMlJzZ0tXNXNlMEJTNFU3YUZCZm9Nb1FXTXQxdFpaTUgtRVhtTDFZX2tQa0diWWFlTzZydVUwMFhoaldBZEhBRHlod2pScFh4ekRIaDZBSUxRTU9YUQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-26T02:10:59.000Z",
+      "excerpt": "我国交通强国指数稳步增长位列世界第五 中山网 2026年加快建设交通强国大会召开 新浪财经 开辟60多条多式联运通道 湖北成中西部地区物流成本洼地 中华网 关志鸥会见交通运输部党组书记、部长刘伟 央视网 交通运输部：推进交通基础设施更新和数智化改造 新浪财经",
+      "section": "cn-news",
+      "rankScore": 0.553886
+    },
+    {
+      "id": "a1f2a6a6defa28e9",
+      "title": "中共火箭軍再成反腐箭靶 共軍公開徵集採購涉貪線索",
+      "url": "https://www.cna.com.tw/news/acn/202608260028.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-26T01:22:48.000Z",
+      "excerpt": "（中央社台北26日電）綜合路透社及觀察者網報導，中共軍方24日透過其招標平台「軍隊採購網」發布公告，指共軍為整治火箭軍採購領域問題，即日起至11月30日止向中國社會公開徵集火箭軍違規採購問題有關線索。火箭軍已是中共總書記習近平執行軍隊反腐的重災區，如今官方正進一步加強對軍方採購活動的審查。",
+      "section": "cn-news",
+      "rankScore": 0.543179
+    },
+    {
+      "id": "70de14db88f1576e",
+      "title": "超六成上市公司营收正增长",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YYkRSVU02NVhZeWc2QzNzWk40VUZRUXRDOWNhaU9WUFBnRDhyT05fU051LTdialF3MUdITG96QUJQQ0R3WUEwV1lQR3VYWmdEanJRMUV3bnlTMHdrLVNrQkhn?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-26T02:03:45.000Z",
+      "excerpt": "超六成上市公司营收正增长 同花顺 A股中期分红密集落地 448家公司派现超2300亿元 新浪财经 三家头部券商年中分红超140亿元，东方财富不实施中期分红 凤凰网 A股分红派息转增一览：10股今日股权登记 每日经济新闻 拟10派8.1元，大手笔分红又现！多家A股公司业绩大增 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.483244
+    },
+    {
+      "id": "d4021dfbe6e6f054",
+      "title": "Trump pick Darline Graham wins election despite struggling over Taiwan question",
+      "url": "https://www.scmp.com/news/us/politics/article/3365262/trump-pick-darline-graham-wins-election-despite-struggling-over-taiwan-question?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-26T01:25:49.000Z",
+      "author": "Han Li",
+      "excerpt": "South Carolina Senator Darline Graham won the Republican nomination in seeking a full term on Tuesday, overcoming a rocky moment in last week’s debate, when she struggled to answer questions about Taiwan and the South China Sea.",
+      "section": "cn-news",
+      "rankScore": 0.475868
+    },
+    {
+      "id": "61c6e609a66d4ede",
+      "title": "中国队斩获10金9银3铜 2026年亚洲青年攀岩锦标赛圆满落幕",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xNGNfbEtBcG04QzRLbjRjV1FBemloTjJQbi1yMk1JcFVmcnhsRjYtMFJrczgybVFlcnlOYV9TMnQ2cTJqa0NkdDd2Q2hMRVE?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-26T02:08:42.000Z",
+      "excerpt": "中国队斩获10金9银3铜 2026年亚洲青年攀岩锦标赛圆满落幕 凤凰网 攀岩亚青赛：同桌再度同上领奖台 赵一程速度赛称王 新华网 中国队斩获5金5银2铜 ！2026贵阳亚青赛难度、速度项目决出多项荣誉 搜狐网 攀岩亚青赛：中国队包揽U17女子攀石前三 新浪财经 攀岩亚青赛落幕 中国队10金收官 光明网",
+      "section": "cn-news",
+      "rankScore": 0.415034
+    },
+    {
+      "id": "eefb331395c6aab4",
+      "title": "西環女子護愛犬遭唐狗噬傷腳 男友尾隨追截遛狗老翁無果",
+      "url": "https://hk.news.yahoo.com/%E8%A5%BF%E7%92%B0%E5%A5%B3%E5%AD%90%E8%AD%B7%E6%84%9B%E7%8A%AC%E9%81%AD%E5%94%90%E7%8B%97%E5%99%AC%E5%82%B7%E8%85%B3-%E7%94%B7%E5%8F%8B%E5%B0%BE%E9%9A%A8%E8%BF%BD%E6%88%AA%E9%81%9B%E7%8B%97%E8%80%81%E7%BF%81%E7%84%A1%E6%9E%9C-002013683.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-08-25T16:20:13.000Z",
+      "excerpt": "本港近日發生狗咬死人及咬死動物的慘劇。昨日(25日)晚上11時許，西環再次發生狗咬人事件，一名34歲女子與男友攜同一隻由西伯利亞雪橇犬與松鼠狗混合的混種犬「Pomsky」在卑路乍街西寶城對開散步，期間突遭一隻無拖狗繩的唐狗襲擊，兩狗瞬間爆發混戰，女子護犬心切上前阻擋，小腿慘被唐狗咬傷淌血。",
+      "section": "cn-news",
+      "rankScore": 0.369779
+    },
+    {
+      "id": "8bf119b5d3fab696",
+      "title": "从湖畔花园到空中栈道 友好化改造让旅游更暖心",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684365.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-26T02:29:54.000Z",
+      "excerpt": "让特殊群体“无障碍”畅游一直是文旅行业关注的重点，多地景区持续推进文旅友好化改造，补齐游览设施短板，让残障人士、老年群体也能走出家门，安心感受山水风光。",
+      "section": "cn-life",
+      "rankScore": 0.837135
+    },
+    {
+      "id": "ca684f8787b39277",
+      "title": "强台风“沙德尔”逼近浙闽沿海 福州各部门迅速响应积极应对",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pak5xaFlOUmNvZS1FNGprd081OEtsQy1Qemp2bWlQZXo5WXg5Qk1qS2dUS3pFVk5ZOGxjd291ak1kcjRvS3ZLNVdFUVc0bXR2TmpwZlNrZ0JDV2ROdTRVTmtTVWo0NEwzd2U1c2tRWTdzSURH?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-26T02:25:40.000Z",
+      "excerpt": "强台风“沙德尔”逼近浙闽沿海 福州各部门迅速响应积极应对 福州市政协",
+      "section": "cn-life",
+      "rankScore": 0.626793
+    },
+    {
+      "id": "e3ecea3297235a29",
+      "title": "用专业服务回应民生需求 泰康着力书写长期价值答卷",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGhiRnlQVUQwT1o0NGZydzgwWHluY2N5bG0xNWNVb1FCUXRGaXlLdGdobE01a3ZGcVpXUV84b1R2MGphTEMzY3lUNHBGWTNubmkwM3VXNHVlWm83WG5kQktibWtpaGhqb1Q3c0Y3aGJYSHhGVHZaTXFOUDFxRi16Nzk4d1JKUlNNV2Z0cg?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-26T02:21:53.000Z",
+      "excerpt": "用专业服务回应民生需求 泰康着力书写长期价值答卷 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.625847
+    },
+    {
+      "id": "cfa6066fe748ca4f",
+      "title": "交易项目编号：S110000A001044789002",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyNUl5cktJVk9pOE1nSS1jcUpCN3hFZHAzbkJmTkF2N3k3MndqVXI3QlIwMVRIUHY2bng0WnA0ODkyUjdRVnBodW1aa2xhT3lKNzZwOF94czhkcEdBN3o2U1ZGMURXRGVFNmtXaFJ2WFlKQQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-26T02:04:18.000Z",
+      "excerpt": "交易项目编号：S110000A001044789002 北京市公共资源交易服务平台",
+      "section": "cn-life",
+      "rankScore": 0.552401
+    },
+    {
+      "id": "5ddf30f04bf7ca2f",
+      "title": "汕头市澄海区恩达玩具厂召回部分益智闯关游戏机",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFZfRjkwODhpUl9LQXFQNDJUTnpmOVJ2dy1QQ3pReTloWkRycVFVZGtEYVRuUmpxUFBoVnNrMmNTUk1nTFBXaUVjOHpORXdtc3BWRGRUdUtEUmRqM3hwTHpPdGE5TU1KQ2U0RkJiaG1vX0hsNzctYzFJUjVqNm4ycU9FcXNOaWc5X1ptZmVTVG90RjlwN2tUUg?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-26T01:52:05.000Z",
+      "excerpt": "汕头市澄海区恩达玩具厂召回部分益智闯关游戏机 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.480976
+    },
+    {
+      "id": "3c6711866154a7b2",
+      "title": "无法取得肿瘤组织怎么办？胸腔积液细胞块助力原发性心脏血管肉瘤精准诊断，首次检出MSH2突变",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84MW5RQ0o3WVhzMzBhSmp0Zlh5OS1BazduM1ZfTVE2VUtGNG56ZVJvbkNVNXpuVUdlMWF3TUZXVUxlWVFCUkh3UjZ4YlJUT2h0Z2R6a2cxSGwtMVBrbl8tWEZEMkxkVm1hVzF2Q2Jn?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-26T01:20:26.000Z",
+      "excerpt": "无法取得肿瘤组织怎么办？胸腔积液细胞块助力原发性心脏血管肉瘤精准诊断，首次检出MSH2突变 梅斯医学 MedSci",
+      "section": "cn-life",
+      "rankScore": 0.474821
+    },
+    {
+      "id": "d3080e265d2ed80b",
+      "title": "“嘎嘣”一声牙碎了！梭子蟹上市，第一批“受害者”已出现",
+      "url": "https://www.chinanews.com.cn/life/2026/08-25/10684067.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-08-25T12:14:35.000Z",
+      "excerpt": "又到了吃梭子蟹的季节",
+      "section": "cn-life",
+      "rankScore": 0.460025
+    },
+    {
+      "id": "07def07a078f045e",
+      "title": "考古文博学院举行“向樊锦诗先生学习”新生教育主题讲座",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByYmdQQVRBRVVyTkMydzNqeVN4czBfb0JpSDZ0a09uQ0E3cFlkWnRXRDNrTlVNcmMzNjRCV3VKbW96UXpHWGVWRTJlSFFkSW9tbW5DQWlXR0dhaXA3NmtsZ0xwV21GMHNVdndLREJ3R0hoTGc?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-26T02:30:39.000Z",
+      "excerpt": "考古文博学院举行“向樊锦诗先生学习”新生教育主题讲座 北京大学新闻网",
+      "section": "cn-life",
+      "rankScore": 0.418693
+    }
+  ],
+  "warnings": [
+    "source \"jiemian\" failed: TypeError: fetch failed",
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
