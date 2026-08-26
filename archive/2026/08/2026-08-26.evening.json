@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-26",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-08-26T13:14:24.707Z",
+  "configHash": "6bd81ffe6b4c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "402658ea5ba35f18",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "source": "hn-front",
+      "publishedAt": "2026-08-26T10:04:55.000Z",
+      "score": 218,
+      "author": "garo-pro",
+      "excerpt": "218 points · 90 comments · https://news.ycombinator.com/item?id=49446422",
+      "section": "tech",
+      "rankScore": 1.07617
+    },
+    {
+      "id": "bcf65e4bb62e37f4",
+      "title": "Presentation: Can Claude Fix Itself? Using LLMs for Incident Response",
+      "url": "https://www.infoq.com/presentations/claude-sre-incidents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-26T11:00:00.000Z",
+      "author": "Alex Palcuie",
+      "excerpt": "Anthropic reliability engineer Alex Palcuie shares practical lessons on using LLMs for real-world incident response. He explains where AI acts as a superhuman for observing logs and traces, why it still struggles with causation versus correlation during root-cause analysis, and how engineering…",
+      "section": "tech",
+      "rankScore": 0.631071
+    },
+    {
+      "id": "df4d0bd2d0b93e1d",
+      "title": "The ReaderT Design Pattern (2017)",
+      "url": "https://academy.fpblock.com/blog/2017/06/readert-design-pattern/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-26T12:20:51.000Z",
+      "author": "academy.fpblock.com via abhin4v",
+      "section": "tech",
+      "rankScore": 0.605279
+    },
+    {
+      "id": "bf3c8442322260a2",
+      "title": "Ring says its new encryption limits what it can give police",
+      "url": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement",
+      "source": "verge",
+      "publishedAt": "2026-08-26T12:55:45.000Z",
+      "author": "Jennifer Pattison Tuohy",
+      "excerpt": "Ring has a new way to protect your videos. It's developed an encryption method called TAKE, short for Throw Away the Key Encryption, that the Amazon-owned company says will protect your videos without traditional end-to-end encryption.",
+      "section": "tech",
+      "rankScore": 0.483301
+    },
+    {
+      "id": "29815063dfa8f7ed",
+      "title": "wide-trace/open-higgsfield",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "source": "gh-trending-ts",
+      "publishedAt": "2026-08-26T06:09:58.000Z",
+      "score": 357,
+      "author": "wide-trace",
+      "excerpt": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery. — ★357 · TypeScript",
+      "section": "tech",
+      "rankScore": 0.482336
+    },
+    {
+      "id": "4f967f533bda0c68",
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "source": "ars-technica",
+      "publishedAt": "2026-08-26T11:10:49.000Z",
+      "author": "Samuel Axon",
+      "excerpt": "The focus is on agentic capability and predictable enterprise deployment.",
+      "section": "tech",
+      "rankScore": 0.445633
+    },
+    {
+      "id": "1ecd57540719485a",
+      "title": "月之暗面与微软、亚马逊和 Google 协商收益分成协议",
+      "url": "https://www.solidot.org/story?sid=85201",
+      "source": "solidot",
+      "publishedAt": "2026-08-26T09:30:20.000Z",
+      "excerpt": "月之暗面正与微软、亚马逊和 Google 协商收益分成协议，协议将允许美国云巨头托管其旗舰模型 Kimi K3。如果协议达成，这将是中国 AI 公司与美国云巨头之间首个大型收益分成协议。这一协商也凸显了中国领先的、通常比美国同类产品更便宜的 AI 模型在美国日益增长的市场需求。月之暗面寻求从微软 Azure、亚马逊 AWS 和 Google 云平台上 K3 相关服务的收入中获得最高 30% 的分成。谈判还处于早期阶段，能否达成协议还无法确定。",
+      "section": "cn-tech",
+      "rankScore": 0.643597
+    },
+    {
+      "id": "557bc4d612ea259e",
+      "title": "Netflix详述如何扩展其实时服务地图",
+      "url": "https://www.infoq.cn/article/T0CGyJc70O4ss6H2OCj9?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-26T11:11:13.000Z",
+      "author": "作者：Eran Stiller",
+      "section": "cn-tech",
+      "rankScore": 0.636823
+    },
+    {
+      "id": "28e8fdc86ecc2256",
+      "title": "盖茨态度大转弯：第一次希望AI慢一点，要划”人类保留区”、向Token征税，这次真的不一样？",
+      "url": "https://www.36kr.com/p/3956302395587715",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-26T13:07:43.000Z",
+      "author": "AI唱反调",
+      "excerpt": "一个催了五十年创新的人，开始踩刹车了。 美国时间 8 月 26 日，比尔·盖茨在 Gates Notes 发表长文《动荡的 AI 时代已经到来，我们的选择至关重要》。文中最扎眼的一句是：“这是我第一次面对一种新技术，希望它发展得慢一点。” 把盖茨过去三年对 AI 的表态排成一条线，转向非常明显： • 2023 年 ：把 AI 比作汽车和互联网——风险真实，但可以用规则、技术和社会适应来管理； • 2026 年初 ：自称”带着脚注的乐观主义”； • 现在 ：“这一次真的不同。我们需要时间为社会、政治和经济动荡做准备，但 AI 很难停下来等人类。”",
+      "section": "cn-tech",
+      "rankScore": 0.62691
+    },
+    {
+      "id": "051de6f75802df45",
+      "title": "“05 后”开发者两周建起 20K Star 的开源项目社区",
+      "url": "https://www.oschina.net/news/502135",
+      "source": "oschina",
+      "publishedAt": "2026-08-26T10:04:52.000Z",
+      "excerpt": "要说本月技术人朋友圈里最火的东西，横空出世的 DeepSeek Harness 当之无愧。不少朋友都在 DSH 刚出来的那晚通宵把玩，各大开源技术交流群热闹非凡，基于 DSH 的二创项目很快攻占各平台趋势热榜。 但 DSH 官方版本要装 Node.js，要从命令行启动本地服务，要处理一堆环境问题，很多普通用户想试试，卡在第一步就放弃了。就...",
+      "section": "cn-tech",
+      "rankScore": 0.542518
+    },
+    {
+      "id": "f87528f677153504",
+      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+      "url": "https://sspai.com/post/68227",
+      "source": "sspai",
+      "publishedAt": "2026-08-26T08:25:44.000Z",
+      "author": "jijiali",
+      "excerpt": "学生党到底有哪些专享福利？看这一篇就对了。",
+      "section": "cn-tech",
+      "rankScore": 0.441568
+    },
+    {
+      "id": "2d271ec437183291",
+      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+      "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-26T11:55:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it.",
+      "section": "security",
+      "rankScore": 0.659276
+    },
+    {
+      "id": "c06294488e38c836",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "url": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-26T11:36:49.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity score.",
+      "section": "security",
+      "rankScore": 0.649951
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 184 days old (budget 180d)",
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
