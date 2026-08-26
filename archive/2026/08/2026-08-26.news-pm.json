@@ -1,0 +1,322 @@
+{
+  "date": "2026-08-26",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-08-26T11:41:21.813Z",
+  "configHash": "6bd81ffe6b4c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "e69b9729599f84ff",
+      "title": "「甲醛白菜」再現中國：為何食品安全監管仍有盲區？",
+      "url": "https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-26T11:07:16.000Z",
+      "excerpt": "近日，中國河北省被揭發收購商為達到保鮮效果，將大白菜蘸取工業甲醛，再裝車運輸到外地，事件引發官方及輿論高度關注。",
+      "section": "news",
+      "rankScore": 0.817269
+    },
+    {
+      "id": "6523ff017778d3d8",
+      "title": "美國再次制裁伊朗能成功向德黑蘭政權施壓嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-26T07:35:58.000Z",
+      "excerpt": "美國稱新的制裁是「經濟D日（economic D-Day）」，但德黑蘭領導人以前也曾挺過了制裁。",
+      "section": "news",
+      "rankScore": 0.676402
+    },
+    {
+      "id": "2e14955f00c61fb8",
+      "title": "《奥德赛》电影上映，伊萨卡岛期待迎来旅游热潮",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260826-%E5%A5%A5%E5%BE%B7%E8%B5%9B-%E7%94%B5%E5%BD%B1%E4%B8%8A%E6%98%A0%EF%BC%8C%E4%BC%8A%E8%90%A8%E5%8D%A1%E5%B2%9B%E6%9C%9F%E5%BE%85%E8%BF%8E%E6%9D%A5%E6%97%85%E6%B8%B8%E7%83%AD%E6%BD%AE",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-26T10:46:34.000Z",
+      "author": "林兰",
+      "excerpt": "随着著名导演克里斯托弗·诺兰执导的电影《奥德赛》7月16日开始在全球上映，希腊伊萨卡岛再次受到人们的关注。这座传说中英雄奥德修斯的故乡小岛，希望借助电影的热映吸引更多游客。",
+      "section": "news",
+      "rankScore": 0.669557
+    },
+    {
+      "id": "8e54161139515a81",
+      "title": "The heart, hope and steely determination behind a musical legacy",
+      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-26T11:32:11.000Z",
+      "excerpt": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+      "section": "news",
+      "rankScore": 0.62541
+    },
+    {
+      "id": "07859afc28c23bda",
+      "title": "Darline Graham wins South Carolina GOP nomination to replace her late brother in US Senate – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-26T11:26:23.000Z",
+      "author": "Tom Ambrose",
+      "excerpt": "Sister of late Lindsey Graham, who has been backed by Trump, overcomes concern about lack of experience to win place on November ballot South Carolina chooses Darline Graham as Republican nominee for US Senate A US military strike on an alleged drug trafficking boat in the Caribbean on Tuesday…",
+      "section": "news",
+      "rankScore": 0.553342
+    },
+    {
+      "id": "9c293c40f2a2cb1f",
+      "title": "Kurdish-Led Militia in Syria Disbands in Boost for U.S.-Backed Government",
+      "url": "https://www.nytimes.com/2026/08/26/world/middleeast/kurdish-militia-syria-disbands.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-26T11:25:17.000Z",
+      "author": "Abdi Latif Dahir",
+      "excerpt": "The Syrian Democratic Forces, a Kurdish-led armed group that has lost territory and authority in recent months, will integrate with the country’s military.",
+      "section": "news",
+      "rankScore": 0.552853
+    },
+    {
+      "id": "cf0411952e6f0ad3",
+      "title": "Manchester City sign teenage Moroccan star Ayyoub Bouaddi from Lille",
+      "url": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-26T11:06:28.000Z",
+      "excerpt": "Sought-after midfielder Bouaddi joins the Premier League club on a five-year deal worth $117 million.",
+      "section": "news",
+      "rankScore": 0.54449
+    },
+    {
+      "id": "f2cb6b15d573802b",
+      "title": "Families Debate Whether Children Should Play Football, After New C.T.E. Study",
+      "url": "https://www.nytimes.com/2026/08/26/us/parents-football-cte-decisions.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-26T11:28:41.000Z",
+      "author": "Juliet Macur",
+      "excerpt": "Many families are engaged in tense debates after a new study found a high percentage of N.F.L. players had developed degenerative brain disease.",
+      "section": "news",
+      "rankScore": 0.485069
+    },
+    {
+      "id": "8d8f87c7e0fa55ee",
+      "title": "当世界发现，反抗特朗普也可以是一个选择",
+      "url": "https://cn.nytimes.com/usa/20260826/trump-polls-tariffs-carney/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-08-26T03:54:50.000Z",
+      "author": "PETER BAKER",
+      "excerpt": "虽然特朗普仍是全球最具影响力的人物，但他国领导人以及美国国内机构愈发显示出不愿服从他意志的迹象。加拿大总理卡尼拒绝屈服于美国关税威胁可能树立了一个范本。 Kenny Holston/The New York Times 世界各国领导人和美国国内机构都越来越不愿意屈从于特朗普总统的意志。",
+      "section": "news",
+      "rankScore": 0.484898
+    },
+    {
+      "id": "aa6cdbb8cc90f151",
+      "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
+      "url": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "source": "npr-news",
+      "publishedAt": "2026-08-26T11:05:46.000Z",
+      "author": "Brittney Melton",
+      "excerpt": "Canada has announced it plans to hit the U.S. with countertariffs that mirror its actions \"dollar for dollar.\" And, remembering the legacy of country star and icon Dolly Parton, who died at 80.",
+      "section": "news",
+      "rankScore": 0.476157
+    },
+    {
+      "id": "516f3956bef9f8be",
+      "title": "Reform UK pledges to cut data rules and curb liabilities for non-executives",
+      "url": "https://www.ft.com/content/64fe84f0-0b78-4c8b-a220-1aa2466179f6?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-08-26T10:46:08.000Z",
+      "excerpt": "Nigel Farage’s party woos business by promising to scrap the General Data Protection Regulation if it wins power",
+      "section": "news",
+      "rankScore": 0.468522
+    },
+    {
+      "id": "aa1f581ac62a84b0",
+      "title": "俄总统新闻秘书：普京已听取俄情报部门与美中情局局长接触情况汇报",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcE5OeDZRdTV3QTI5VFdaNWtDNnUwY00tUmJELTRjYWpnVDB6aFJDX2Z6MWNQUlotUG9EYTBlenB4T01NaWtLei1fejczRUxuMnhSZ1pzN3lwbGpDUzY5S2YwWjVjbGQ3?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-26T11:27:02.000Z",
+      "excerpt": "俄总统新闻秘书：普京已听取俄情报部门与美中情局局长接触情况汇报 chinanews.com.cn 俄方证实美中情局局长访俄：涉及情报部门间接触 央视网 美媒：中情局局长正在俄罗斯进行会谈 新浪新闻_手机新浪网 外媒：罕见！美中情局局长秘访莫斯科 与俄方举行未公开会谈 光明网 一财主播说 | 俄美情报高层会面 什么信号？ 第一财经",
+      "section": "news",
+      "rankScore": 0.415223
+    },
+    {
+      "id": "fbd1d178c74d280f",
+      "title": "山西省洪洞县农商行原董事长郭宏伟被遣返回国",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684681.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-08-26T10:01:49.000Z",
+      "excerpt": "中新网8月26日电 据中央纪委国家监委网站消息，近日，在中央反腐败协调小组国际追逃追赃工作办公室统筹协调下，经山西省监察机关、公安机关与有关国家执法机关密切合作，外逃职务犯罪嫌疑人郭宏伟在境外投案并被遣返回国。",
+      "section": "cn-news",
+      "rankScore": 0.773635
+    },
+    {
+      "id": "224222f4676d7014",
+      "title": "宿州学院党委书记李红接受审查调查",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684732.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-26T11:26:18.000Z",
+      "excerpt": "中新网8月26日电 据安徽省纪委监委消息：宿州学院党委书记李红涉嫌严重违纪违法，目前正接受安徽省纪委监委纪律审查和监察调查。",
+      "section": "cn-news",
+      "rankScore": 0.760794
+    },
+    {
+      "id": "99ead2109ce21457",
+      "title": "郑商所：对部分客户采取暂停开仓监管措施",
+      "url": "https://www.jiemian.com/article/14998997.html",
+      "source": "jiemian",
+      "publishedAt": "2026-08-26T11:13:47.000Z",
+      "author": "jianli@jiemian.com(界面快报)",
+      "section": "cn-news",
+      "rankScore": 0.684678
+    },
+    {
+      "id": "97cf63a72b788217",
+      "title": "前7个月广东综保区外贸进出口突破万亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684722.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-26T11:17:44.000Z",
+      "excerpt": "中新网广州8月26日电 (许青青 陈琳)据海关总署广东分署26日消息，今年前7个月广东省内综合保税区(含跨境工业区、保税区)进出口1.05万亿元，同比增长32.3%，创历史同期新高，比上年度提前2个月迈上万亿元关口。",
+      "section": "cn-news",
+      "rankScore": 0.618185
+    },
+    {
+      "id": "1f403511c53e6e10",
+      "title": "尼泊尔严重洪灾已致16死数百人失联，初步研判或因冰崩堵塞河道后溃决",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ublBLQUVlNnE0UkhmM0pNMzJxSEo4M1ZlRFB5eDh6cjlZMlg3Rjg0Wi1rVHJtTWhvS0pwQUU4ZGhkcDA3eHhUVUtGRkJYZkpTVmQ1aXJsdEpNNGs5M3A4VQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-26T11:06:00.000Z",
+      "excerpt": "尼泊尔严重洪灾已致16死数百人失联，初步研判或因冰崩堵塞河道后溃决",
+      "section": "cn-news",
+      "rankScore": 0.612318
+    },
+    {
+      "id": "bd44c7a684ff276c",
+      "title": "中國擬增台灣文旦准入果園 農業部：尚未接獲通知",
+      "url": "https://www.cna.com.tw/news/acn/202608260306.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-26T11:18:50.000Z",
+      "excerpt": "（中央社記者呂佳蓉、汪淑芬北京-台北26日電）中國海關總署網站公布新增一批台灣文旦柚包裝廠及果園註冊。農業部表示，目前尚未接獲中國通知新增台灣文旦柚包裝場及供果園，動植物防疫檢疫更涉及公權力執行，呼籲中國與台灣溝通諮商。",
+      "section": "cn-news",
+      "rankScore": 0.549987
+    },
+    {
+      "id": "e68d3bb5ce514eeb",
+      "title": "甘肃局地再迎暴雨 与前期降水落区叠加",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PRllTZTlJaUYzVlEwd2xGSUg4ZGlFTUZRVFZSbXdLZ3g4ZTBnT2R0UEFFandNczJ5eVJ6dGJiMkItZ1RXb0dfTTJ5dXh0ajh3NUxUZ2UwY1RTU3JhZTBMZlktZlpuNlVuWUlJZEUzekR1Tkt0Tmt3?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-26T10:51:22.000Z",
+      "excerpt": "甘肃局地再迎暴雨 与前期降水落区叠加 新华网 中雨、大雨、暴雨……甘肃未来几天的天气→ 搜狐网 甘肃省陇南市徽县气象台发布暴雨黄色预警信号 新浪网 甘肃省武威市古浪县发布暴雨蓝色预警信号 手机网易网 任振鹤在省政府总值班室调度防汛减灾工作(图) tianshui.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.537779
+    },
+    {
+      "id": "d66533b21f1b8cc2",
+      "title": "China makes officials liable for environmental damage for life",
+      "url": "https://www.scmp.com/news/china/politics/article/3365336/china-makes-officials-liable-environmental-damage-life?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-26T10:21:33.000Z",
+      "author": "Meredith Chen",
+      "excerpt": "China has reminded its officials of their lifelong responsibility for serious environmental damage on their watch, tying green efforts more closely to performance assessments in the country’s push for higher-quality growth.",
+      "section": "cn-news",
+      "rankScore": 0.458961
+    },
+    {
+      "id": "980ac25a5860e7a4",
+      "title": "朝阳区人工智能与医药健康产业亮相HICOOL全球创业者峰会",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NNXFvQk5zZThmUnNteElwb2hRTllXYlY2blpGZ3J6dzljMDhRRDY0WEZoZHhUMEc1dU85TkdwOFFQZ2RhZEU5dUJnSzRRYTkxbHZ6WUxYQ2hSRWw0QXZGUHpIZ2o?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-26T09:31:00.000Z",
+      "excerpt": "朝阳区人工智能与医药健康产业亮相HICOOL全球创业者峰会 新京报 600余家展商亮相五大展区 HICOOL开启全球创业者“嘉年华” 北京市人民政府 海淀这棵“生态树”，结满“未来果” 人民网 iFab 数字智造赋能康复辅具升级 奥托博克亮相 HICOOL2026 全球创业者峰会 中国日报网 一杯咖啡的距离，读懂北京科创的速度与温度 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.439303
+    },
+    {
+      "id": "2ac8a9a5c6ea6c0a",
+      "title": "鎏金长裙赴光影之约 孙悦长春电影节红毯舞台双亮相",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1taF9fS1dyaDZ4MXM4NGt6Si15am9xNTBvZjRDVlZOamg3dUFzSnBRWjJmUjJ0djFmT0wyNUtlNXdSMGF4MmIzRWlLN2NLeTBMcy1NYTUyX1NrUnNPM3h3NXNiOWZEMVE1?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-26T09:43:41.000Z",
+      "excerpt": "鎏金长裙赴光影之约 孙悦长春电影节红毯舞台双亮相 中国网 AI介入文学与影视创作 业界共探技术与创作边界 新浪网 第二十一届中国长春电影节长春光华学院分会场活动顺利举办 凤凰网 长春，开启光影新未来——第二十一届中国长春电影节走笔 上海热线 长春电影节｜AI时代，中国电影人拿什么守住自己的“根”与“魂”？ 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.380773
+    },
+    {
+      "id": "a4b53af75f32981e",
+      "title": "国务院食安办对“消杀公司违规使用敌敌畏为餐饮门店消杀”事件挂牌督办",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684742.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-26T11:33:47.000Z",
+      "excerpt": "记者今天了解到，针对近日舆论关注的福建省厦门市“消杀公司违规使用敌敌畏为餐饮门店消杀”事件，国务院食安办决定实行挂牌督办，并会同市场监管总局、国家疾控局成立联合工作组，赴实地督促指导案件查办，依法严惩重处违法违规行为，举一反三开展风险排查，切实维护人民群众饮食安全。(总台央视记者 张萍 李晶晶)",
+      "section": "cn-life",
+      "rankScore": 0.834947
+    },
+    {
+      "id": "763be8d2499a3c03",
+      "title": "台风“沙德尔”逼近 温州37条客运航线全部停航",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4dHlfVzM5Y0FXQmtrc2V6SU83cnBCVVpuMElvVUtFSFNaazhrVDZRdzRENV8xaWZTMElMT0R4UDBLUUQ5RUhuZTNRTHNoSHNaSEEwajVpdnVGRndFUzlkbS1PU3EtUQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-26T11:23:41.000Z",
+      "excerpt": "台风“沙德尔”逼近 温州37条客运航线全部停航 温州新闻网",
+      "section": "cn-life",
+      "rankScore": 0.62116
+    },
+    {
+      "id": "5f6f3085999bba44",
+      "title": "包钢调研基层医疗服务和医保基金管理工作",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QTGRTcEIyNVFuOEo0UTZYZkJNa0JiSFRVcVpvOVdYNkhmRGN1ZUVLdTZ4R0hLV2pBV2REWTNISzhGdkxJRk1QYnZmY1F6dmdPenRmVC0wVkROSVBUeFF5ZGNoYzVhNmk5cjFuUzllOA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-26T11:15:00.000Z",
+      "excerpt": "包钢调研基层医疗服务和医保基金管理工作 内蒙古新闻网",
+      "section": "cn-life",
+      "rankScore": 0.616818
+    },
+    {
+      "id": "228d6af25f845172",
+      "title": "数览中国脉动｜今年暑期，你“奔县”了吗？",
+      "url": "https://www.chinanews.com.cn/life/2026/08-26/10684558.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-08-26T07:04:58.000Z",
+      "excerpt": "“宝藏”的县域，正承载越来越多游客向往的生活。上半年，县域旅游成为市场重要增长极，“宝藏小城”“奔县游”热度持续攀升。",
+      "section": "cn-life",
+      "rankScore": 0.546446
+    },
+    {
+      "id": "070dbf71d83e4ae3",
+      "title": "地点：北京市政府采购电子交易平台",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQzdUX1kxV0wxY0NaR2lLTFdQN3RjbEZBRU1qb2ZNbGNhblAyTXFLaG55TkwxVnRJT0ZlR2UydG1ITEhTX0k3OWQwMGJLMVNTczVsNmkxaEQyX2tMSjQtY1duTXczelk2dVZHTw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-26T09:54:41.000Z",
+      "excerpt": "地点：北京市政府采购电子交易平台 北京市公共资源交易服务平台",
+      "section": "cn-life",
+      "rankScore": 0.512587
+    },
+    {
+      "id": "d1191ae38a660537",
+      "title": "能独立抽血的机器人获FDA授权",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IOGNhcGZ6cFF3M3hMUzlQYTN5NzByNnI0cVdiQmNmQVZoOGk0amZScnJZN2ZSeC12THd5UG4xTnBHVUdxMnpZZTdBSDZidEMtcDFaS0p2ZkRCMS1fWnRQVTN4c3NfZTZuLXF5clhKOWFSU1kyT2w3OQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-26T11:33:06.000Z",
+      "excerpt": "能独立抽血的机器人获FDA授权 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.486786
+    },
+    {
+      "id": "1b62ebd93efc0d1a",
+      "title": "Sci Immunol：北京大学杨竞/涂笑凡团队揭示雄激素决定肺部交感神经性别二态性的全新神经免疫机制 - ByDrug",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wbWIwMlcyeE5TMkVBbGxRUlQwZzQ1Y0NYODdkRXV3RW94NV91RXZpekVzT29QdkROeW1QalNlekpoOWlWZG84WHdXdFliZFZqVlI0M3A3dXdROW1EaXR6VXQ2cWloTTRNOVphOFFsdkJIYWRORHk1c0dhM3RYQQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-26T08:26:00.000Z",
+      "excerpt": "Sci Immunol：北京大学杨竞/涂笑凡团队揭示雄激素决定肺部交感神经性别二态性的全新神经免疫机制 ByDrug",
+      "section": "cn-life",
+      "rankScore": 0.414025
+    },
+    {
+      "id": "ab99c4c4ffb3aedf",
+      "title": "“2026全民国家安全教育展线上问答游戏”得奖名单公布– 澳门特别行政区政府入口网站",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKaE9CMUF1UXk2OC1VNVNTbzRPMEFaZkR4aFVJQkZSSnJmT1FQYU5LekVsLTN3bDFvU1pOSFl6N3JPZlQxSkJlQTJpaGRwZTVZ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-26T11:10:00.000Z",
+      "excerpt": "“2026全民国家安全教育展线上问答游戏”得奖名单公布– 澳门特别行政区政府入口网站 澳門特別行政區政府入口網站",
+      "section": "cn-life",
+      "rankScore": 0.409545
+    }
+  ],
+  "warnings": [
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
