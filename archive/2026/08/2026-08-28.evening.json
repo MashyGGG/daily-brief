@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-28",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-08-27T22:13:43.841Z",
+  "configHash": "6bd81ffe6b4c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "ee34664e90a5c359",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-27T17:17:57.000Z",
+      "score": 369,
+      "author": "TangerineDream",
+      "excerpt": "369 points · 106 comments · https://news.ycombinator.com/item?id=49468083",
+      "section": "tech",
+      "rankScore": 0.886146
+    },
+    {
+      "id": "1be6eb899299f7cd",
+      "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-08-27T17:59:17.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "We find out why Meta destroyed its standout engineering culture: it feared AI-native startups doing more with less. Also: thoughts on Ramp’s AI infra, GitHub’s load doubles in four months, and more",
+      "section": "tech",
+      "rankScore": 0.626466
+    },
+    {
+      "id": "1024ab902a2494bc",
+      "title": "Making Your Data Ready for Agentic AI",
+      "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-08-27T13:11:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Lots of organizations are excited about what AI can do to streamline their processes, save money, and juice margins. But AI's capabilities are founded on the data that AI accesses, and for many organizations that foundation is little more than sand.",
+      "section": "tech",
+      "rankScore": 0.506012
+    },
+    {
+      "id": "3d98cb9b82f81442",
+      "title": "Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch",
+      "url": "https://www.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-27T15:50:00.000Z",
+      "author": "Michael Redlich",
+      "excerpt": "After a 10-week hiatus since the last batch of Spring ecosystem releases, there was a flurry of activity during the week of August 17th, 2026, highlighting first milestone releases of: Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration, Spring HATEOAS, Spring Modulith,…",
+      "section": "tech",
+      "rankScore": 0.503215
+    },
+    {
+      "id": "6afcb39261dfa6dd",
+      "title": "Float Bloat: vector serialization gone wrong",
+      "url": "https://bonsai.io/blog/float-bloat/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-27T17:12:50.000Z",
+      "author": "bonsai.io by binarymax",
+      "section": "tech",
+      "rankScore": 0.491124
+    },
+    {
+      "id": "f06c566e5291a690",
+      "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
+      "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+      "source": "verge",
+      "publishedAt": "2026-08-27T21:37:45.000Z",
+      "author": "Emma Roth",
+      "excerpt": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Threads that \"the camera will now stop working if the light is covered during a…",
+      "section": "tech",
+      "rankScore": 0.477084
+    },
+    {
+      "id": "a3df3fb3559d26af",
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "google-ai",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "author": "James Byers",
+      "excerpt": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "section": "ai",
+      "rankScore": 0.508343
+    },
+    {
+      "id": "64b6bf3056567bd7",
+      "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+      "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-27T22:13:43.841Z",
+      "excerpt": "ACL 2026杰出论文奖（Outstanding Paper）揭晓，全球共 18 篇入选，其中包含美团履约技术团队的1篇论文。本文介绍了一种专为 RLVR 设计的低秩训练方法，以及它在业务 Agentic RL 中的落地经验。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "4ae2b2c0e3aebe41",
+      "title": "世界人工智能开源大赛（GOAI）初赛评审结果暨晋级名单公告",
+      "url": "https://www.infoq.cn/article/Y410fSRGi67fUrNUuzYb?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-27T17:56:39.000Z",
+      "author": "世界人工智能开源大赛",
+      "section": "cn-tech",
+      "rankScore": 0.568164
+    },
+    {
+      "id": "6bf8e2bcdb6dd899",
+      "title": "一名微软工程师一个月的 AI 支出高达 2.8 万美元",
+      "url": "https://www.solidot.org/story?sid=85216",
+      "source": "solidot",
+      "publishedAt": "2026-08-27T16:00:29.000Z",
+      "excerpt": "在长时间鼓励之后，本月初微软开始要求员工限制 AI 使用。执行副总裁 Jay Parikh 在一封发给微软员工的邮件中要求工程师专注于业务成果，而非最大化 AI token 的使用量，为了“从 token 投资中获得更大的价值”，微软将比 Anthropic 模型更便宜的 OpenAI GPT-5.6 设为内部使用的默认模型。",
+      "section": "cn-tech",
+      "rankScore": 0.55945
+    },
+    {
+      "id": "136ade29f4e87a72",
+      "title": "Java Web 服务器 wastnet 路由开发实战",
+      "url": "https://www.oschina.net/news/502159",
+      "source": "oschina",
+      "publishedAt": "2026-08-27T12:20:02.000Z",
+      "excerpt": "wastnet 是一款零依赖、自研的 Java Web 服务器，核心基于 JDK 原生 NIO 构建 Reactor 多路复用模型，不依赖 Netty、Tomcat 等任何第三方网络库。其 HTTP/2（h2 / h2c）协议栈从 HPACK、Huffman 到 ALPN 均为完全自研实现，是框架的核心特色之一；在基准测试中吞吐对标 Undertow。 本文介绍 wastnet 的路由分发组件 Http...",
+      "section": "cn-tech",
+      "rankScore": 0.355986
+    },
+    {
+      "id": "33f49f91c4ebf114",
+      "title": "新玩意 250｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/113905",
+      "source": "sspai",
+      "publishedAt": "2026-08-27T10:00:05.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ...",
+      "section": "cn-tech",
+      "rankScore": 0.259016
+    },
+    {
+      "id": "ce81f49883a6e858",
+      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+      "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-27T18:36:19.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May.",
+      "section": "security",
+      "rankScore": 0.588506
+    },
+    {
+      "id": "17cbd11c510c38bc",
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "source": "krebs",
+      "publishedAt": "2026-08-27T11:04:15.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.",
+      "section": "security",
+      "rankScore": 0.392344
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"react-blog\" looks stale: newest item is 185 days old (budget 180d)",
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
