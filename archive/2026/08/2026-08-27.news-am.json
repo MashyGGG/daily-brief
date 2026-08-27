@@ -1,0 +1,323 @@
+{
+  "date": "2026-08-27",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-08-27T05:00:00.509Z",
+  "configHash": "6bd81ffe6b4c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "18a2b489c74fcefe",
+      "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-27T04:47:25.000Z",
+      "excerpt": "事發地點為西藏日喀則市吉隆縣接壤尼泊爾邊境，中尼兩國各500多人失聯，其中包括大批外國遊客。",
+      "section": "news",
+      "rankScore": 0.835803
+    },
+    {
+      "id": "1c8d3c91b4685b8b",
+      "title": "社交媒体成瘾诉讼：Meta以最高171亿美元达成和解",
+      "url": "https://cn.nytimes.com/technology/20260827/meta-settlement-social-media-addiction-lawsuit/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-08-27T04:04:16.000Z",
+      "author": "CECILIA KANG,ELI TAN",
+      "excerpt": "Meta还同意限制青少年使用时长，禁止使用可能引发心理问题的功能。这项协议可能标志着社交媒体行业的一个转折点，此前该行业在产品对儿童有害问题上逃脱了监管审查。 Jason Henry for The New York Times Meta位于加利福尼亚州的总部。",
+      "section": "news",
+      "rankScore": 0.752968
+    },
+    {
+      "id": "5cf6ab6948f731ae",
+      "title": "At least one dead after car crashes into crowd in northern France",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-27T02:42:17.000Z",
+      "excerpt": "One suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
+      "section": "news",
+      "rankScore": 0.595569
+    },
+    {
+      "id": "14fa04ac291da199",
+      "title": "青少年成瘾诉讼：Meta最高支付170亿美元和解并限制青少年使用脸书",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260826-%E9%9D%92%E5%B0%91%E5%B9%B4%E6%88%90%E7%98%BE%E8%AF%89%E8%AE%BC-meta%E6%9C%80%E9%AB%98%E6%94%AF%E4%BB%98170%E4%BA%BF%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3%E5%B9%B6%E9%99%90%E5%88%B6%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BD%BF%E7%94%A8%E8%84%B8%E4%B9%A6",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-26T21:40:13.000Z",
+      "author": "安娜",
+      "excerpt": "美国多个州指控Meta旗下脸书与Instagram被刻意设计成容易让青少年上瘾，并误导公众有关平台安全风险。Meta周三（8月26日）同意支付最高170亿美元，同时限制青少年使用这两个平台，以结束与各州总检察长近五年的法律争端。",
+      "section": "news",
+      "rankScore": 0.577836
+    },
+    {
+      "id": "0d8b7d4cb8272c80",
+      "title": "Nepal flash flood live updates: more than 1,000 people missing after glacial collapse at Tibet border",
+      "url": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-27T04:42:14.000Z",
+      "author": "Adam Fulton",
+      "excerpt": "At least 165 people have died, while officials say hundreds of foreign nationals from India, the US, UK, Australia, Malaysia and Ukraine among those missing.",
+      "section": "news",
+      "rankScore": 0.55605
+    },
+    {
+      "id": "2f68a8d73236dfce",
+      "title": "Twelve dead as over 150 wildfires rage across northeastern Algeria",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/twelve-dead-as-over-150-wildfires-rage-across-northeastern-algeria?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-27T04:28:44.000Z",
+      "excerpt": "More than 150 fires spread in a single day across several of Algeria’s provinces, killing at least 12 people.",
+      "section": "news",
+      "rankScore": 0.55305
+    },
+    {
+      "id": "dbcecbdee3ae3bf1",
+      "title": "Why China Loves A.I.",
+      "url": "https://www.nytimes.com/2026/08/26/world/china-ai-nepal-tibet-flood.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-27T04:22:34.000Z",
+      "author": "Alicia P.Q. Wittmeyer",
+      "excerpt": "People in China are way more optimistic about the technology than Americans. We look at what’s behind the difference.",
+      "section": "news",
+      "rankScore": 0.55168
+    },
+    {
+      "id": "0e29b19d3e924464",
+      "title": "Yayoi Kusama, high priestess of polka dots, has died",
+      "url": "https://www.npr.org/2026/08/26/1102916697/yayoi-kusama-high-priestess-of-polka-dots-has-died",
+      "source": "npr-news",
+      "publishedAt": "2026-08-27T03:42:56.000Z",
+      "author": "Elizabeth Blair",
+      "excerpt": "The Japanese artist has died at age 97. Kusama's polka dotted pumpkins, \"Infinity Rooms,\" and other repetitive and dreamlike artworks have been shown in museums and galleries worldwide.",
+      "section": "news",
+      "rankScore": 0.475013
+    },
+    {
+      "id": "db60b37a8c159b22",
+      "title": "South Korea raises interest rates to 3% to tame AI-fuelled inflation",
+      "url": "https://www.ft.com/content/b2531a83-ea6f-4467-bf10-46c96c427657",
+      "source": "ft-world",
+      "publishedAt": "2026-08-27T03:34:10.000Z",
+      "excerpt": "Bank of Korea extends tightening cycle as booming chip demand drives growth and heightens inflationary pressures",
+      "section": "news",
+      "rankScore": 0.473309
+    },
+    {
+      "id": "e9ae6222a7855980",
+      "title": "As a Storyteller, Tim Curry Had the Gift",
+      "url": "https://www.nytimes.com/2026/08/26/theater/tim-curry-rocky-horror-spamalot.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-27T01:26:07.000Z",
+      "author": "Laura Collins-Hughes",
+      "excerpt": "He was a blast to watch, whether playing a mad scientist in “The Rocky Horror Picture Show,” a butler in “Clue” or a singing King Arthur in “Spamalot.”",
+      "section": "news",
+      "rankScore": 0.44841
+    },
+    {
+      "id": "e4e0b47f99a232b2",
+      "title": "伊朗外交部：美国对伊政策是“闹剧”",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQlRQWmRJSGw5Zkw5VjhMMDhpZTB1VWlpN1NlMlRFR242OWIyM3NNWEZndFdNVUxXbmVZdUVtb1pQR1RXMHNCSkg0Y1BfUlBZaXZ4RGxZV1RoVHJmaVhSTnVSNjR2OU5rZjRyTUJFWmxyQVZZQ19FbXF3MExUT2prbms2YnFURmtBa0Y0aldYVFV6Wi1fWktJdHVR?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-27T04:34:40.000Z",
+      "excerpt": "伊朗外交部：美国对伊政策是“闹剧” 新华网客户端",
+      "section": "news",
+      "rankScore": 0.415776
+    },
+    {
+      "id": "079c47c85bdee60c",
+      "title": "古特雷斯：联合国维和行动必须适应新的现实",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142695",
+      "source": "un-news-zh",
+      "publishedAt": "2026-08-26T12:00:00.000Z",
+      "excerpt": "联合国秘书长古特雷斯周三在联合国大会关于联合国维和行动审查的讲话中表示，联合国维和行动是维护国际和平与安全不可或缺的工具，但面对不断变化的冲突形势，必须适应新的现实。",
+      "section": "news",
+      "rankScore": 0.374998
+    },
+    {
+      "id": "d4ed64b4844c0817",
+      "title": "韩国警方提请法院批捕中国留学生遇害案嫌疑人",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10685077.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-08-27T03:26:21.000Z",
+      "excerpt": "中新网8月27日电 据韩联社27日报道，韩国警方已以涉嫌杀人等罪名提请法院批捕杀害中国籍女留学生A某的中国籍大学讲师郑某，对郑某的逮捕必要性审查将于当天进行。",
+      "section": "cn-news",
+      "rankScore": 0.808781
+    },
+    {
+      "id": "487a7775a527e270",
+      "title": "解放军西部战区指导组抵达西藏投入泥石流灾害救援",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10685104.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-27T04:53:50.000Z",
+      "excerpt": "中新社成都8月27日电 (邓栋之)8月27日上午，解放军西部战区指导组乘坐战区空军一架运-20飞机抵达西藏某机场，投入日喀则市吉隆县泥石流灾害联合救援。",
+      "section": "cn-news",
+      "rankScore": 0.768113
+    },
+    {
+      "id": "8f4e987d44407a31",
+      "title": "多只半导体个股涨停",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685092.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-27T04:25:08.000Z",
+      "excerpt": "中新网8月27日电(记者 谢艺观)27日，A股三大股指早盘集体收涨。截至午盘，上证指数涨0.6%，深证成指涨1.19%，创业板指涨1.51%。全市场超3000家个股上涨。",
+      "section": "cn-news",
+      "rankScore": 0.621281
+    },
+    {
+      "id": "ce428b08df22b1a0",
+      "title": "磐石市公安局交管大队开展“炸街”集中整治统一行动",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3VjBnR3RmREJ3dzhrcFRWVmtjdGFjbmpKUURDcXk4TmdyZXdTUUg4TjJla25QaFpmQVJDa3pWVjhWZkhTNmNsWjhHdXZNLVZ4RlZXa3NLUXBHaXZXcmc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-27T03:35:00.000Z",
+      "excerpt": "磐石市公安局交管大队开展“炸街”集中整治统一行动",
+      "section": "cn-news",
+      "rankScore": 0.608748
+    },
+    {
+      "id": "1f0caad1db3ccea1",
+      "title": "平陆运河货轮实船适航试验顺利完成",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FUkpKeFozcWRfT0RlWkFMUkRXZ2FZdnFnOWk3N1JXenBtWU9hWW83Z3dmTFdXVDMyWFV1NVo0YjVwU0JLNklLR1pKT1RzcWNzbWd1WHd3?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-27T03:29:21.000Z",
+      "excerpt": "平陆运河货轮实船适航试验顺利完成 国际金融报",
+      "section": "cn-news",
+      "rankScore": 0.539854
+    },
+    {
+      "id": "cc17fb0728e03c52",
+      "title": "李強赴黑龍江、吉林調研 強調嚴把食品品質安全關",
+      "url": "https://www.cna.com.tw/news/acn/202608270062.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-27T02:59:40.000Z",
+      "excerpt": "（中央社記者呂佳蓉北京27日電）中國國務院總理李強24日至26日在黑龍江、吉林調研。他在期間強調，要嚴把食品品質安全關，緊盯生產、收購、加工、流通等關鍵環節，加強從農田到餐桌的全鏈條監管，讓民眾吃得放心、健康。",
+      "section": "cn-news",
+      "rankScore": 0.533257
+    },
+    {
+      "id": "6127ee3c4172da90",
+      "title": "8月27日国债期货午盘集体走低 30年期主力合约跌0.15%",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNT0I1MVVELUJya1ZIN3d0bi1FNFh1VFk5RDFfNUFrVVpwNWZsSHVObTRMYVVXNzJhWnN2bE1RSGV5OEdZT2ZaTnNFRDZTN2tOME45d2RDYzRwX3VzSGtEalhKSFhHbUFoQmdDaktKQzVKaVk?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-27T04:34:37.000Z",
+      "excerpt": "8月27日国债期货午盘集体走低 30年期主力合约跌0.15% 央广网",
+      "section": "cn-news",
+      "rankScore": 0.485063
+    },
+    {
+      "id": "53fa193363069ec9",
+      "title": "Japan fast-tracks anti-drone system amid China’s military build-up",
+      "url": "https://www.scmp.com/news/china/military/article/3365345/japan-fast-tracks-anti-drone-system-amid-chinas-military-build?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-27T04:00:16.000Z",
+      "author": "Gabriel Dominguez",
+      "excerpt": "Tokyo is experimenting with a radically faster way of buying new weapons – picking a domestically built interceptor drone less than three months after launching the procurement process. Analysts say this shift could help Japan respond more quickly to China’s expanding military capabilities.",
+      "section": "cn-news",
+      "rankScore": 0.478384
+    },
+    {
+      "id": "e812b165ed3d5793",
+      "title": "第26届山东省省运会开幕，青岛代表团强势领跑",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoLS1IektvazJDdGM1QzRueHp4VXlzVlRXTXByR2pDQjJkVjVVV3dpS3d5M3RRdkp4U3NCaHR6SUk0S1FzNTRGUkNDNE40UmRjcUQ4Nmozd00?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-27T04:33:21.000Z",
+      "excerpt": "第26届山东省省运会开幕，青岛代表团强势领跑 青岛日报 山东省第二十六届运动会在临沂开幕 新华网 当红色基因遇上青春省运 一座老区城市如何焕新出发？ 新浪财经 以赛事为窗，看见山东体育强省之路 凤凰网山东 盛会耀盛景 奋发赞沂蒙：临沂以省运会为窗彰显城市发展新能级 thepaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.415557
+    },
+    {
+      "id": "0a0c78227ddb0b2a",
+      "title": "大埔安埔路水管完成搶修 早上約6時陸續恢復供水",
+      "url": "https://hk.news.yahoo.com/%E5%A4%A7%E5%9F%94%E5%AE%89%E5%9F%94%E8%B7%AF%E6%B0%B4%E7%AE%A1%E5%AE%8C%E6%88%90%E6%90%B6%E4%BF%AE-%E6%97%A9%E4%B8%8A%E7%B4%846%E6%99%82%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9%E4%BE%9B%E6%B0%B4-020925499.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-08-26T18:09:25.000Z",
+      "excerpt": "【Now新聞台】大埔安埔路近大元邨有食水管爆裂，水務署完成緊急維修，已陸續恢復供水。 受影響暫停供水的包括大元邨、汀雅苑，以及大元商場，食水供應在早上約6時開始陸續恢復正常。署方會與相關部門，包括民政事務總署、房屋署等及相關持份者緊密協調，盡快制定更換該段喉管的方案，減少水管滲漏對附近居民造成的影響。#要聞",
+      "section": "cn-news",
+      "rankScore": 0.363496
+    },
+    {
+      "id": "2d148b9e0d8d7589",
+      "title": "未来三天西藏吉隆预计有雨 救援工作面临哪些挑战？专家详解",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-27/10685084.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-27T03:50:14.000Z",
+      "excerpt": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。据初步统计，截至27日上午8时，成功搜救热索村民2人，排查发现遇难3人、失联558人。",
+      "section": "cn-life",
+      "rankScore": 0.816742
+    },
+    {
+      "id": "95383f3fb359eda8",
+      "title": "苏州市相城高新区（元和街道）新就业群体党群服务中心开展新就业群体夏日关爱活动",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNaWcwaC1ydnRHWU1aY1ctUVRnb3NjLW96OXJtd1hXNDFoNnBGdVhkSlBoWm9yM1Bzb25OWUpOT3E3NzB0N0RBaFFvelhqMi1oaHBKbFlsVi1aR3JobDc0b1hycHdwZU90QlhtQlUyZVR5WXZCd184UQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-27T04:51:00.000Z",
+      "excerpt": "苏州市相城高新区（元和街道）新就业群体党群服务中心开展新就业群体夏日关爱活动 紫牛新闻",
+      "section": "cn-life",
+      "rankScore": 0.627748
+    },
+    {
+      "id": "b7e14c5ef218a947",
+      "title": "台风“沙德尔”登陆地点又变了！福建部分列车停运→",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EUG5TcUZCbk1Rc2dIb3F1N3JCVFZiNzdjTHc0VEVhbjNyY2FzVElGMGJRTXdWRDFZaDlqZWp0OWhJSjltTkN0c2tGMUxWZnlMR3o2cEREWm5qcE9kQVhlMzZsaVhmYkt0RVRUMEN5VQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-27T04:29:00.000Z",
+      "excerpt": "台风“沙德尔”登陆地点又变了！福建部分列车停运→ qzwb.com",
+      "section": "cn-life",
+      "rankScore": 0.622248
+    },
+    {
+      "id": "07f17b85c78e0bbf",
+      "title": "“北京服务”标准加速走向全国 ——本市搭建服务领域国标对接平台，23项地方标准达成升级意向",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RQmp2MEdDNHZLUm96VjJDcjJVYm9DM09SQ2NFemlIUEI1ZVBYTFdFSHNOUjItMDYyc04wa0RaU2Z6LTBGYWt6ZTZJNmNLMEEyVlpTcEk4d1hUYy1zREJMZWp2ZGpJRGVmY1FYR1AtTnljRzdzLWFvc2J3?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-27T03:10:10.000Z",
+      "excerpt": "“北京服务”标准加速走向全国 ——本市搭建服务领域国标对接平台，23项地方标准达成升级意向 北京市市场监督管理局",
+      "section": "cn-life",
+      "rankScore": 0.535591
+    },
+    {
+      "id": "45450936d0fe3704",
+      "title": "760元一粒的片仔癀被指虚假宣传遭立案，股价一年内下跌逾四成",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLThDU0RvUXdPNnFLVTBMdXE4d2ZwRUVMaUxQTXFXOGpSelo4RnpNd1ZKUVNMYmdraWtqa0R0ejd2b3BmTGFoc3Y0YXFoSTBrZ1NlQXY5cnlkckJlS1ZfeFd6QmRVU3RaVmozckxPRi1aSTRGdkdrOWRnQmlIMTcxMldJQ2VmeldNLW9ZWXlkUV9jZ0FkZ1ljRg?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-27T04:26:31.000Z",
+      "excerpt": "760元一粒的片仔癀被指虚假宣传遭立案，股价一年内下跌逾四成 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.483488
+    },
+    {
+      "id": "f0162dd7f8097060",
+      "title": "脑出血致残有望迎来全新治疗方式",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHUnA1YUdPQ2dHczhiMVdKRm1BMFZULWVLZzFEU1RpX2VteHlqZWtFWF94VGV6TVZENVp1VWFKbG9XbjVVNDdFcjRoTFJWVHowRUlHNHBRM2YyOURfSnN2LXQ5OXhFQlVXazZ1VQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-27T01:32:52.000Z",
+      "excerpt": "脑出血致残有望迎来全新治疗方式 健康报",
+      "section": "cn-life",
+      "rankScore": 0.449722
+    },
+    {
+      "id": "82c29e05cb5c5f7d",
+      "title": "中公教育2026年半年报：降本增效释放利润，净利增18.52%",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBNllvUkRUb3BaQ25yeEVqM1lya1dTdEtHSzUyUXRXM0ZSTG8tRVI5SjJjRk1Ya2tIR1U3S21tMV9JUmZSUzY1SkhCWHpzS1F2bGp3VjZpY1d3Y0VXQS1YVXlfR0tMdw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-27T04:50:56.000Z",
+      "excerpt": "中公教育2026年半年报：降本增效释放利润，净利增18.52% 东方财富",
+      "section": "cn-life",
+      "rankScore": 0.418487
+    },
+    {
+      "id": "7964890632cde3ff",
+      "title": "超70所“学校”，还教不会端盘子？ - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EeUh5YTVMSHpMVXU3YW5JS3l4c1Q1dlJVUlg3S05KRU90UG1hWm5kQUZVSjFvRndpYXRhY1gzSzBvRjFld2pKYU9ncTBtNmFyWXEzeHNNZjRoZUpRXzBkbjdYT2lRUVNhMFZYeXVOdlA?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-08-27T01:19:20.000Z",
+      "excerpt": "超70所“学校”，还教不会端盘子？ 新浪新闻_手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.319351
+    }
+  ],
+  "warnings": [
+    "source \"jiemian\" failed: TypeError: fetch failed",
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
