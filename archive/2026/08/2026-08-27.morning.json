@@ -1,0 +1,197 @@
+{
+  "date": "2026-08-27",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-08-27T04:30:13.119Z",
+  "configHash": "6bd81ffe6b4c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "11407d872cb1b738",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "source": "hn-front",
+      "publishedAt": "2026-08-27T01:12:55.000Z",
+      "score": 523,
+      "author": "mfiguiere",
+      "excerpt": "523 points · 231 comments · https://news.ycombinator.com/item?id=49458161",
+      "section": "tech",
+      "rankScore": 1.104661
+    },
+    {
+      "id": "eb9d81b7cee1bf7c",
+      "title": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+      "url": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces",
+      "source": "github-changelog",
+      "publishedAt": "2026-08-27T01:52:19.000Z",
+      "author": "Allison",
+      "excerpt": "You can now opt individual plugin marketplaces into automatic updates by setting autoUpdate: true on an extraKnownMarketplaces entry in enterprise managed settings. Supported clients automatically check the marketplace and update…",
+      "section": "tech",
+      "rankScore": 0.656138
+    },
+    {
+      "id": "cae04b3b264f9e08",
+      "title": "If I release it, you won’t get the same experience I get",
+      "url": "https://notes.highlysuspect.agency/cant-release-that.html",
+      "source": "lobsters",
+      "publishedAt": "2026-08-27T03:47:52.000Z",
+      "author": "notes.highlysuspect.agency via artemisSystem",
+      "section": "tech",
+      "rankScore": 0.619412
+    },
+    {
+      "id": "4bc504f48506d156",
+      "title": "Why performant code matters (but gets widely ignored), with Casey Muratori",
+      "url": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-08-26T15:59:59.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Casey Muratori explains why software performance matters, how developers can write faster code, and why he challenges conventional engineering practices.",
+      "section": "tech",
+      "rankScore": 0.540761
+    },
+    {
+      "id": "6d182ff03f751ed5",
+      "title": "How to Make LLMs 3X Faster",
+      "url": "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster",
+      "source": "bytebytego",
+      "publishedAt": "2026-08-26T15:30:34.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we will look at how speculative decoding works.",
+      "section": "tech",
+      "rankScore": 0.531773
+    },
+    {
+      "id": "4e95fd09f8c12221",
+      "title": "AWS Introduces Specification Driven Composition for Flexible Data Workflows",
+      "url": "https://www.infoq.com/news/2026/08/aws-spec-driven-data-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-26T14:18:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "AWS describes a specification-driven approach for composing flexible data workflows by separating intent from processing logic. Architecture uses declarative specifications, reusable processing capabilities, and validation before execution.",
+      "section": "tech",
+      "rankScore": 0.463273
+    },
+    {
+      "id": "7ac57626531011ad",
+      "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+      "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+      "source": "latent-space",
+      "publishedAt": "2026-08-27T01:31:22.000Z",
+      "excerpt": "The conference with hot chips and even hotter companies",
+      "section": "ai",
+      "rankScore": 0.715351
+    },
+    {
+      "id": "2ca38222997db908",
+      "title": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
+      "url": "https://www.latent.space/p/lovable-future-of-saas",
+      "source": "latent-space",
+      "publishedAt": "2026-08-26T16:16:25.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin.",
+      "section": "ai",
+      "rankScore": 0.545783
+    },
+    {
+      "id": "5e2ff01fca9133d5",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "source": "deepmind",
+      "publishedAt": "2026-08-26T17:01:00.000Z",
+      "excerpt": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "section": "ai",
+      "rankScore": 0.457695
+    },
+    {
+      "id": "03e8d2ade045f45a",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source": "openai",
+      "publishedAt": "2026-08-26T10:00:00.000Z",
+      "excerpt": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "section": "ai",
+      "rankScore": 0.430767
+    },
+    {
+      "id": "4da7c769a664b348",
+      "title": "Qwen3.8-Flash 发布：125B MoE，激活 6B，训练成本仅前代的 1/9",
+      "url": "https://www.oschina.net/news/502145/qwen3-8-flash-next",
+      "source": "oschina",
+      "publishedAt": "2026-08-27T03:39:05.000Z",
+      "excerpt": "阿里通义千问团队正式发布 Qwen3.8-Flash。 发布公告有一组让人需要停下来看两眼的数据： 125B 总参数 + 51B N-gram Embedding，每 token 只激活 6B 参数。原生支持 262K 上下文，可通过 YaRN 扩展到 1M。相比 Qwen3.7-Plus，训练开销仅为其 1/9，编码和办公任务上却有更强能力。 这代模型在架构上有四个值得关注的变化：...",
+      "section": "cn-tech",
+      "rankScore": 0.617216
+    },
+    {
+      "id": "e98ed7b511f6c79d",
+      "title": "育碧在 Steam 上架《魔法门之英雄无敌3》时忘记将游戏文件放进去",
+      "url": "https://www.solidot.org/story?sid=85205",
+      "source": "solidot",
+      "publishedAt": "2026-08-26T16:03:48.000Z",
+      "excerpt": "在宣布重制版的同时，育碧于 8 月 26 日在 Steam 上架了原版的《魔法门之英雄无敌3》，国区售价为 40 元。然而购买游戏的 Steam 玩家发现下载的游戏文件仅仅为 23.49 KB，育碧忘记把游戏文件打包进去了。直到数小时之后育碧才修复问题，释出了包含游戏完整文件的版本，完整版本容量大约为 1GB。此事导致玩家在游戏页面留下了大量差评。",
+      "section": "cn-tech",
+      "rankScore": 0.541928
+    },
+    {
+      "id": "2d1cb73a1cb5f6b8",
+      "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+      "url": "https://sspai.com/post/113222",
+      "source": "sspai",
+      "publishedAt": "2026-08-27T03:01:42.000Z",
+      "author": "随便好啦",
+      "excerpt": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+      "section": "cn-tech",
+      "rankScore": 0.540329
+    },
+    {
+      "id": "90cfb84cfff1cc7e",
+      "title": "英伟达公布 Vera Rubin 最新进展：推理、网络和定制芯片全面升级",
+      "url": "https://www.infoq.cn/article/3F8I0zcLfC5wcENtLASD?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-26T17:44:28.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.520624
+    },
+    {
+      "id": "9766b439b89b6e5d",
+      "title": "WorkBuddy 保姆级教程开源了！600 多篇 Agent 资料一次性放出",
+      "url": "https://juejin.cn/post/7678239088522313780",
+      "source": "juejin",
+      "publishedAt": "2026-08-27T03:50:13.000Z",
+      "author": "AI架构师汤师爷",
+      "excerpt": "大家好，我是汤师爷。 如果你最近在学 AI Agent，大概率有过这种感觉。 教程刷了不少，提示词也收藏了一堆，可真要自己动手，还是不知道先学什么。 WorkBuddy、Codex、Skill、工作流",
+      "section": "cn-tech",
+      "rankScore": 0.482222
+    },
+    {
+      "id": "1388bfc8c54133df",
+      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+      "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-26T15:35:05.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC). Group-IB, in a new analysis published today, described…",
+      "section": "security",
+      "rankScore": 0.484685
+    },
+    {
+      "id": "96586e6d163b0e33",
+      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-26T13:44:31.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process.",
+      "section": "security",
+      "rankScore": 0.453972
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: TypeError: fetch failed",
+    "source \"react-blog\" looks stale: newest item is 184 days old (budget 180d)"
+  ]
+}
