@@ -1,0 +1,177 @@
+{
+  "date": "2026-08-28",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-08-28T06:55:04.094Z",
+  "configHash": "6bd81ffe6b4c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "9bea0e9a8e120977",
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "source": "hn-front",
+      "publishedAt": "2026-08-27T15:56:58.000Z",
+      "score": 591,
+      "author": "tosh",
+      "excerpt": "591 points · 269 comments · https://news.ycombinator.com/item?id=49466917",
+      "section": "tech",
+      "rankScore": 0.892114
+    },
+    {
+      "id": "bee599ea7393f8ba",
+      "title": "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
+      "url": "https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits",
+      "source": "lobsters",
+      "publishedAt": "2026-08-28T05:52:13.000Z",
+      "author": "hanselman.com via j11g",
+      "section": "tech",
+      "rankScore": 0.614287
+    },
+    {
+      "id": "a5e673e18dd838f1",
+      "title": "Actions retention will cover checks, workflow runs, and statuses",
+      "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
+      "source": "github-changelog",
+      "publishedAt": "2026-08-27T21:50:39.000Z",
+      "author": "Allison",
+      "excerpt": "Starting October 1, 2026, checks, workflow runs, and statuses will be governed by the same Actions retention setting that already controls how long artifacts and logs are kept, with a…",
+      "section": "tech",
+      "rankScore": 0.548773
+    },
+    {
+      "id": "9cf296727e7fc487",
+      "title": "Kubernetes v1.37: Metrics API graduates to stable",
+      "url": "https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/",
+      "source": "kubernetes",
+      "publishedAt": "2026-08-27T18:30:00.000Z",
+      "excerpt": "Kubernetes v1.37 promotes the metrics.k8s.io API to stable ( v1 ). This API provides CPU and memory usage for nodes and Pods, and is the API behind commands such as kubectl top and resource-metrics-based autoscaling.",
+      "section": "tech",
+      "rankScore": 0.493037
+    },
+    {
+      "id": "0f35ac71fdce2bf4",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source": "verge",
+      "publishedAt": "2026-08-28T03:14:06.000Z",
+      "author": "Hayden Field",
+      "excerpt": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration.",
+      "section": "tech",
+      "rankScore": 0.447034
+    },
+    {
+      "id": "261adfd1e30b6cf6",
+      "title": "rhevorn/confetti",
+      "url": "https://github.com/rhevorn/confetti",
+      "source": "gh-trending-ts",
+      "publishedAt": "2026-08-27T12:24:43.000Z",
+      "score": 132,
+      "author": "rhevorn",
+      "excerpt": "Confetti — one VS Code extension for toml, yaml, ini, nginx, dotenv, gitignore, hosts, and 16+ config files. Local, fast, no telemetry. — ★132 · TypeScript",
+      "section": "tech",
+      "rankScore": 0.391569
+    },
+    {
+      "id": "7050d4861008ea1c",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-27T22:50:25.000Z",
+      "excerpt": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness.",
+      "section": "ai",
+      "rankScore": 0.678449
+    },
+    {
+      "id": "213042a54296a1e3",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source": "openai",
+      "publishedAt": "2026-08-27T09:00:00.000Z",
+      "excerpt": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "section": "ai",
+      "rankScore": 0.368174
+    },
+    {
+      "id": "12854403e3ae0267",
+      "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-08-27T23:56:43.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。...",
+      "section": "cn-tech",
+      "rankScore": 0.758929
+    },
+    {
+      "id": "051d8e59c06e36c9",
+      "title": "气候变暖放大东太平洋的厄尔尼诺变率",
+      "url": "https://www.solidot.org/story?sid=85217",
+      "source": "solidot",
+      "publishedAt": "2026-08-28T03:51:23.000Z",
+      "excerpt": "发表在《科学》期刊上的一项研究分析了加拉帕戈斯群岛（Galápagos）珊瑚长达千年的记录，发现随着地球变暖，厄尔尼诺现象正在加剧，东太平洋的厄尔尼诺-南方涛动（ENSO）变率比工业化前时代高出了约 36.5%。这些发现表明，气候变化已经在放大全球最重要的极端天气来源之一，并可能对生态系统、基础设施和人类社会带来日益增长的风险。ENSO 是导致年际气候极端事件的主要原因，它与干旱、洪水、野火、珊瑚白化事件以及对农业和人类健康的影响相关。该现象源于热带太平洋与大气之间的复杂相互作用。近几十年来发生了数次异常强烈的厄尔尼诺事件，其变暖范围覆盖了热带太平洋的大部分区域。",
+      "section": "cn-tech",
+      "rankScore": 0.713874
+    },
+    {
+      "id": "dbfb6b8968b41734",
+      "title": "专访商汤首席科学家林达华：多模态的涌现时刻会在一两年内到来",
+      "url": "https://www.36kr.com/p/3958827634179205",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-28T06:49:55.000Z",
+      "author": "晓曦",
+      "excerpt": "文｜李炤锋 编辑｜张雨忻 “没有电脑的年代，也有爱因斯坦和牛顿。我们不会因为他们不写代码，就认为他们不够聪明。” 近日，商汤联合创始人、首席科学家林达华在36氪的专访中，用这句话描述Coding与智能上限的关系，也解释商汤为什么仍把原生多模态作为长期方向。 眼下，Coding Agent已经较早跑通商业闭环。公开信息显示，截至7月底，Anthropic的年化收入已超过650亿美元，约为2025年底的7倍。多模态何时能拿出同样清晰的能力和商业结果，是这次对话反复触及的问题。但从长期看，林达华认为，“AI和AGI的空间远远不止Coding”。",
+      "section": "cn-tech",
+      "rankScore": 0.628712
+    },
+    {
+      "id": "e068ac1378e225f0",
+      "title": "内核跃迁，智能原生 | openKylin 3.0 正式发布",
+      "url": "https://www.oschina.net/news/502168",
+      "source": "oschina",
+      "publishedAt": "2026-08-28T06:15:58.000Z",
+      "excerpt": "万亿Token免费送 OpenAtom openKylin（以下简称\"openKylin\"）3.0 版本正式发布！本次版本升级，openKylin 将系统内核跨代升级至 Linux 7.0，完成 180 余个核心组件全面迭代；构建智能体开放底座，让 AI 贯穿系统全链路；隔空手势、语音输入、屏幕朗读等多模态交互革新；场景覆盖从智能桌面延伸至移动端、服务器等全场景。...",
+      "section": "cn-tech",
+      "rankScore": 0.620225
+    },
+    {
+      "id": "19c92afeec37dfd5",
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "url": "https://sspai.com/post/113883",
+      "source": "sspai",
+      "publishedAt": "2026-08-28T04:00:00.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...",
+      "section": "cn-tech",
+      "rankScore": 0.521096
+    },
+    {
+      "id": "c31d835310c507c6",
+      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+      "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-27T15:12:16.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, malicious tools waiting before showing…",
+      "section": "security",
+      "rankScore": 0.438111
+    },
+    {
+      "id": "06350551fdd87362",
+      "title": "Mitsubishi Electric CNC Series (Update A)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-05",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-08-27T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause an out-of-bounds read, resulting in a denial-of-service condition in the affected products.",
+      "section": "security",
+      "rankScore": 0.384703
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 185 days old (budget 180d)",
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
