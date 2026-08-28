@@ -1,5 +1,6 @@
 import { describe, expect, it, vi } from 'vitest'
 import { run, slotFor } from '../src/core/pipeline'
+import { editionSubject } from '../src/core/brief'
 import { parseConfig } from '../src/config/schema'
 import { memoryFs } from '../src/archive/fs'
 import type { ArchiveRecord } from '../src/archive/read'
@@ -788,5 +789,72 @@ describe('a late cron dispatch does not steal the NEXT day filename', () => {
     })
 
     expect(result.brief.date).toBe('2026-08-21')
+  })
+})
+
+describe('the subject names the edition, not the publication', () => {
+  const at = (slot: string | null, title = '每日早报') =>
+    editionSubject({ title, slot, date: '2026-08-28' })
+
+  // The bug: four issues a day, one global `title`, four identical subject lines.
+  it('gives each daily slot its own name', () => {
+    expect([at('morning'), at('news-am'), at('news-pm'), at('evening')]).toEqual([
+      '早报 · 2026-08-28',
+      '早间要闻 · 2026-08-28',
+      '晚间要闻 · 2026-08-28',
+      '晚报 · 2026-08-28',
+    ])
+  })
+
+  it('leaves the weekly its own configured title', () => {
+    expect(at('weekly', '每周回顾')).toBe('每周回顾 · 2026-08-28')
+  })
+
+  it('falls back to the publication name when only one schedule is live', () => {
+    // `slotFor` returns null there — nothing to tell apart, so naming a slot would be noise.
+    expect(at(null)).toBe('每日早报 · 2026-08-28')
+  })
+
+  it('renders an unknown slot as itself rather than as nothing', () => {
+    expect(at('midday')).toBe('midday · 2026-08-28')
+  })
+
+  it('reaches the channel: two schedules deliver two different subjects', async () => {
+    const two = parseConfig(
+      configYaml({
+        head: `timezone: Asia/Shanghai
+title: 每日早报
+schedules:
+  - id: morning
+    time: '08:00'
+    lookbackHours: 24
+  - id: evening
+    time: '20:00'
+    lookbackHours: 24
+`,
+      }),
+      {},
+    )
+    const subjects: string[] = []
+    const ctx = channelContext()
+    const spy = { ...ctx, log: (m: string) => subjects.push(m) }
+
+    for (const id of ['morning', 'evening']) {
+      await run({
+        config: two,
+        configHash: 'hash',
+        now: NOW,
+        env: ctx.env,
+        scheduleId: id,
+        dryRun: true,
+        fetchImpl: okFetch,
+        channelContext: spy,
+        fs: memoryFs(),
+      })
+    }
+
+    const titles = subjects.filter((m) => m.includes('2026-08-20')).map((m) => m.split('— ')[1])
+    expect(titles).toContain('早报 · 2026-08-20')
+    expect(titles).toContain('晚报 · 2026-08-20')
   })
 })

@@ -167,4 +167,10 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           ALERT_REASON: 'workflow ${{ github.workflow }} failed at job ${{ github.job }}'
+          # Which edition died. Without these the alert reads the same for all five, which
+          # is the failure mode the subject lines themselves had. The alert resolves the
+          # cron the same way the brief step does, and falls back to a generic wording if
+          # the config will not load — a broken config being one plausible reason it failed.
+          ALERT_CRON: ${{ github.event.schedule }}
+          ALERT_SCHEDULE: ${{ inputs.schedule }}
         run: pnpm tsx src/alert.ts

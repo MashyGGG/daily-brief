@@ -6,7 +6,7 @@ import { dedupe, seenFromArchive, emptySeen } from './dedupe'
 import { filterForSection, minScoreBySource } from './filter'
 import { healthWarnings } from './health'
 import { rank, selectForSection, weightsOf } from './rank'
-import { localDate, totalItems, type Brief, type BriefSection } from './brief'
+import { editionSubject, localDate, totalItems, type Brief, type BriefSection } from './brief'
 import { collectSecretValues, safeErrorMessage } from './redact'
 import { readRecentItems, readRecord } from '../archive/read'
 import { writeArchive } from '../archive/write'
@@ -395,7 +395,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
     const r = rendered.get(recipient.id)
     if (!r) continue
     payloads.set(recipient.id, {
-      title: `${brief.title} · ${brief.date}`,
+      title: editionSubject(brief),
       body: r.body,
       blocks: r.blocks,
       text: r.text,

@@ -1,4 +1,5 @@
 import type { BriefDigest, Item } from '../config/schema'
+import { slotLabel, WEEKLY_SLOT } from '../archive/paths'
 
 export interface BriefSection {
   id: string
@@ -36,6 +37,27 @@ export function nonEmptySections(brief: Pick<Brief, 'sections'>): BriefSection[]
 export function restrictSections(brief: Brief, sectionIds: string[]): Brief {
   if (sectionIds.includes('*')) return brief
   return { ...brief, sections: brief.sections.filter((s) => sectionIds.includes(s.id)) }
+}
+
+/**
+ * The line a reader sees FIRST — the mail subject, the WeCom card title, the ServerChan
+ * heading. It has to name the edition, not the publication.
+ *
+ * `title` alone did not: the four daily issues all inherit the one global `title`, so an
+ * inbox held four identical `每日早报 · 2026-08-28` lines a day and Gmail threaded them
+ * into one. `slotLabel` already carries a human name per slot (早报 / 晚报 / 早间要闻 /
+ * 晚间要闻) and the site and the publishers have used it all along; only delivery never did.
+ *
+ * Two slots deliberately keep `title` instead:
+ *   - the weekly, which already names itself through `weekly.title` (每周回顾);
+ *   - a null slot, which `slotFor` returns when only ONE schedule is live — there is
+ *     nothing to tell apart then, and the publication's own name reads better.
+ *
+ * The distinguishing word goes first so it survives an inbox that truncates.
+ */
+export function editionSubject(brief: Pick<Brief, 'title' | 'slot' | 'date'>): string {
+  const name = brief.slot && brief.slot !== WEEKLY_SLOT ? slotLabel(brief.slot) : brief.title
+  return `${name} · ${brief.date}`
 }
 
 /** Local `YYYY-MM-DD` for a timezone, without pulling in a date library. */

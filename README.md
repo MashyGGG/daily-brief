@@ -531,6 +531,19 @@ Four of the five are defined under `schedules[]` in
 [`brief.config.yaml`](brief.config.yaml); `weekly` has its own top-level `weekly:` block because it
 is built from the archive rather than from a fetch — same three steps to change either.
 
+**What each one is called.** The mail subject, the WeCom card title and the ServerChan heading all
+come from `editionSubject` in [`src/core/brief.ts`](src/core/brief.ts): `早报 · 2026-08-28`,
+`早间要闻 · …`, `晚间要闻 · …`, `晚报 · …`, and `每周回顾 · …` for the weekly. The name comes from
+`slotLabel` — the same map the static site and the publishers have always used — and the
+distinguishing word leads so it survives a truncating inbox. Before 2026-08-28 all four daily
+issues used the one global `title`, so an inbox held four identical `每日早报 · <date>` lines a day
+and Gmail threaded them into one. The weekly is the exception: `weekly.title` already names it.
+A run with only ONE schedule enabled has no slot at all (`slotFor` returns null) and falls back to
+the publication's own `title` — there is nothing to tell apart. The failure alert
+([`src/alert/compose.ts`](src/alert/compose.ts)) follows the same rule, resolving the edition from
+the firing cron; if the config will not load it drops back to the generic wording rather than
+failing to alert.
+
 **Why these minutes.** Every trigger avoids `:00` and `:30`, the two most congested minutes in
 GitHub's scheduler; `weekly` was the last one sitting on `:00` and moved to 08:20 on 2026-08-28
 after measuring 56 minutes of drift there. Read each row as "no earlier than": measured drift runs
