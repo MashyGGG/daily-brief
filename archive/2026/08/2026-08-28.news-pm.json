@@ -1,0 +1,321 @@
+{
+  "date": "2026-08-28",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-08-28T21:21:09.533Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "2496ab5985e39b28",
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-28T21:01:39.000Z",
+      "excerpt": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+      "section": "news",
+      "rankScore": 0.620246
+    },
+    {
+      "id": "b81a47013da80577",
+      "title": "中尼边界山地海啸的根本原因 ：山体滑坡还是冰山崩塌？",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260828-%E4%B8%AD%E5%B0%BC%E8%BE%B9%E7%95%8C%E5%B1%B1%E5%9C%B0%E6%B5%B7%E5%95%B8%E7%9A%84%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0-%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E8%BF%98%E6%98%AF%E5%86%B0%E5%B1%B1%E5%B4%A9%E5%A1%8C",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-28T18:41:30.000Z",
+      "author": "杨眉",
+      "excerpt": "8月26日发生在喜马拉雅山区中国西藏与尼泊尔边境的泥石流是山洪灾难规模空前，造成巨大的生命与财产损失，目前各国的专家们正在就此一灾难所造成的原因举行分析调查，随着时间的推移，事故原因也日渐明朗，虽然到目前为止依然存在许多未知数。如果说在第一时间专家们一致认为冰川崩塌是导致此次山地海啸的原因，将气候变化等几乎不可抗拒的因素列为是主要原因，经过两天的观察，多名专家倾向于认为在冰川崩塌之前就已经发生了山体滑坡，指出导致此一巨大灾难的正真原因是山体滑坡才是而并非是冰川崩塌，因此，需要调查的是造成山体滑坡的原因究竟是什么。",
+      "section": "news",
+      "rankScore": 0.611301
+    },
+    {
+      "id": "4c8ee07e014572fb",
+      "title": "Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing",
+      "url": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-28T21:18:28.000Z",
+      "author": "The New York Times",
+      "excerpt": "A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new flooding.",
+      "section": "news",
+      "rankScore": 0.558803
+    },
+    {
+      "id": "1df96c1e378ce8ce",
+      "title": "National Park Service supports Trump’s arch even though it would have ‘adverse effects’ on other DC monuments, report says – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-28T21:14:06.000Z",
+      "author": "Robert Mackey (now); Shrai Popat, Lucy Campbell, Keely Aouga and Tom Ambrose (earlier)",
+      "excerpt": "The 133-page report released Friday says the memorial arch is likely to disrupt the historical significance of dozens of sites near its planned location at the Arlington Memorial Bridge A reminder that we are covering the latest out of Jackson Hole, Wyoming, where Kevin Warsh – the new chair of…",
+      "section": "news",
+      "rankScore": 0.556863
+    },
+    {
+      "id": "b94dfe9724ebe5c5",
+      "title": "8-year-old Nepal flood survivor reunited with mother after rescue",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/8-year-old-nepal-flood-survivor-reunited-with-mother-after-rescue?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-28T21:01:41.000Z",
+      "excerpt": "Eight-year-old Nepal flood survivor reunited with mother after rescue",
+      "section": "news",
+      "rankScore": 0.551344
+    },
+    {
+      "id": "2aab7330ead4bda3",
+      "title": "Senior German politicians call for ban on parts of far-right AfD",
+      "url": "https://www.ft.com/content/593c2cde-cf0d-4dcd-a170-9cb1dc9ed896?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-08-28T20:58:25.000Z",
+      "excerpt": "Boris Pistorius and Cem Özdemir say top court should consider outlawing Alternative for Germany’s most radical flank",
+      "section": "news",
+      "rankScore": 0.481156
+    },
+    {
+      "id": "9e0842aeccf5a578",
+      "title": "Judge Throws Out Key 9/11 Confession as Tainted by Torture",
+      "url": "https://www.nytimes.com/2026/08/28/us/politics/september11-confession-trial.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-28T20:50:31.000Z",
+      "author": "Carol Rosenberg",
+      "excerpt": "Prosecutors argued the statements by the defendant, Khalid Shaikh Mohammed, were crucial evidence for the eventual death-penalty trial.",
+      "section": "news",
+      "rankScore": 0.478084
+    },
+    {
+      "id": "b50a8a00f0b4c935",
+      "title": "尼泊爾—西藏泥石流：逾2000人遇難或失聯，中國總理赴前線意味著什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/c980env4n78o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-28T11:41:29.000Z",
+      "excerpt": "在中國，災難應對往往也帶有政治訊號。尤其是中共中央總書記作出「重要指示」，或總理、副總理親赴現場，通常意味著北京把事件視為需要高度關注和統籌應對的重大危機。",
+      "section": "news",
+      "rankScore": 0.45355
+    },
+    {
+      "id": "c80c7e629f538526",
+      "title": "After 6 months of war, Iran's battered regime remains entrenched",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
+      "source": "npr-news",
+      "publishedAt": "2026-08-28T19:35:24.000Z",
+      "author": "Hadeel Al-Shalchi",
+      "excerpt": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line.",
+      "section": "news",
+      "rankScore": 0.448872
+    },
+    {
+      "id": "7516945aa140e636",
+      "title": "以色列空袭约旦河西岸杰宁市致三人死亡",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWNuZ3pFa3lxNWt2SVo5Mm5uREZaOGdfTlVkZm1ReW9kUFFhRjRnMmxKNk1hYUZvMDRTOGNubThBa1E5Rzh0aXpuSmFnX2Z6TUNsRmpGdmRWdTZPdXZfb0Vlc3R3c2tMejZmMTR4MDRwaHlrSlQtVlFUd2FwSHlzNEFhbmhwcDhNSW1aaU9lYTZFQXc1Z051dW5R?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-28T20:38:32.000Z",
+      "excerpt": "以色列空袭约旦河西岸杰宁市致三人死亡 新华网客户端 以军称摧毁哈马斯武器库和发射阵地 搜狐网 哈马斯：以色列空袭在加沙造成五人死亡 联合早报 一周看天下 新华网 以色列称在约旦河西岸打死一名哈马斯高级负责人 京报网",
+      "section": "news",
+      "rankScore": 0.405791
+    },
+    {
+      "id": "407563d1d0a6512e",
+      "title": "尼泊尔洪灾影响巨大 遇难人数持续攀升",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142702",
+      "source": "un-news-zh",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
+      "excerpt": "随着尼泊尔当局确认已在受灾地区打捞出538具遗体，这场致命洪灾的影响被描述为“巨大”。",
+      "section": "news",
+      "rankScore": 0.349421
+    },
+    {
+      "id": "05fa9f89b6d5f0e3",
+      "title": "WHO reports more than 3,200 attacks on Ukraine’s healthcare system since full-scale invasion",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168226",
+      "source": "un-news-en",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
+      "excerpt": "Since the beginning of Russia’s full-scale invasion of Ukraine, 3,205 attacks on healthcare facilities have been carried out, World Health Organization (WHO) Representative for Ukraine Jarno Habicht reported on Friday following fresh overnight strikes.",
+      "section": "news",
+      "rankScore": 0.232947
+    },
+    {
+      "id": "133457da373ba6c8",
+      "title": "传承抗战精神 台盟爱国主义教育基地在沈阳揭牌",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686242.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-28T15:54:10.000Z",
+      "excerpt": "中新社沈阳8月28日电 (姜月恒)“勿忘九一八 传承抗战精神”暨纪念九一八事变爆发95周年活动28日在沈阳举行。活动回顾两岸同胞共御外侮的峥嵘岁月，深挖抗战精神所蕴含的两岸共同精神内核，“台盟爱国主义教育基地”在沈阳“九·一八”历史博物馆揭牌。",
+      "section": "cn-news",
+      "rankScore": 0.570171
+    },
+    {
+      "id": "432d559676984e26",
+      "title": "从天津到比什凯克，全球聚焦“上合时间”",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686243.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-28T15:46:26.000Z",
+      "excerpt": "中新社北京8月28日电 题：从天津到比什凯克，全球聚焦“上合时间”",
+      "section": "cn-news",
+      "rankScore": 0.565445
+    },
+    {
+      "id": "8e19a5931ef958ee",
+      "title": "俄方称未收到9月恢复乌克兰问题谈判的提议",
+      "url": "https://www.jiemian.com/article/15023133.html",
+      "source": "jiemian",
+      "publishedAt": "2026-08-28T16:01:41.000Z",
+      "author": "jianli@jiemian.com(界面快报)",
+      "section": "cn-news",
+      "rankScore": 0.522514
+    },
+    {
+      "id": "0d4b177c5fe6669b",
+      "title": "沃什：美国通胀仍然过高 美联储应主要聚焦于物价",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHpZMGU0ZDB5SFZrX2NrWmlTckIxTzhCZTBxUGxaZGF6aGFsNjdWYVlMaW03Q2pWY0lRZXBiUjZXS21QMW9qU1Y0YkZhTm5rc3ZOcndRbGExem5QWENzVVN2RjdBQjdKb2lsRVV0WkZXM2o3WXY0Q0ROSGYtN2diamdTTFFDYlo4cWdBbG9zVFJUdjFpRHIyR2Rn?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-28T19:48:41.000Z",
+      "excerpt": "沃什：美国通胀仍然过高 美联储应主要聚焦于物价 新华网客户端 “全球货币政策风向标”！美联储新任主席，即将重要表态 新浪财经 沃什首秀突袭市场：美元跳涨近40点，黄金瞬间蒸发80美元 同花顺财经 沃什放鹰！如果通胀压力持续，美联储有很多工作要做 第一财经 沃什杰克逊霍尔首秀放鹰，称美联储“还有工作要做”，暗示通胀不快速下降准备加息 华尔街见闻",
+      "section": "cn-news",
+      "rankScore": 0.454037
+    },
+    {
+      "id": "db2770fff2c11000",
+      "title": "四川发布发布地灾黄色预警 涉及78个县市区",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05dkphWjBCTklzdGp1anljMUFseHlheDB4aHZUREtldEY4bU1TOU1nWlVuQ3VpQk5lX1NYQkNYTWFlSkNjWEVkSjNkQk1mMVY1Wk92Z01IRk9IVmRSTE80QVlBdlRra2p2UXNwcnUtOUM?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-28T16:56:13.000Z",
+      "excerpt": "四川发布发布地灾黄色预警 涉及78个县市区 央广网 今夜明天大风大雨来降温，周日四川盆地气温重回30℃ 新浪财经 四川省成都市大邑县发布暴雨橙色预警信号 天气网 注意！成都西部和东南部有强对流云系发展 搜狐网 雨雨雨又来了！四川周末将迎强降雨，大风暴雨齐上线 新浪财经",
+      "section": "cn-news",
+      "rankScore": 0.442248
+    },
+    {
+      "id": "0a8a215f8dd43518",
+      "title": "中基协：7月ABS新增备案规模逾1900亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10686216.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-28T14:18:02.000Z",
+      "excerpt": "中新网北京8月28日电 (记者 陈康亮)根据中国证券投资基金业协会(下称中基协)28日披露的数据，2026年7月，资产支持专项计划(下称ABS)新增备案189只，新增备案规模合计1956.14亿元(人民币，下同)。",
+      "section": "cn-news",
+      "rankScore": 0.418437
+    },
+    {
+      "id": "e4e84ebe1c30a89d",
+      "title": "南京商旅上半年营收同比增长1.72%，“春假对旅游行业构成了制度性利好”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44cFh3UnFKV3R3R0Z6bEp4aTlhaFN4VlZ0WVZNRG9lck9sQUFTTmlxZ2FiTEpKendWeEQ4VzR0R1N6WU9oUURzWjRneG0xTUtoUjhmc2pNV3ByakRjWmNvSQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-28T14:06:00.000Z",
+      "excerpt": "南京商旅上半年营收同比增长1.72%，“春假对旅游行业构成了制度性利好”",
+      "section": "cn-news",
+      "rankScore": 0.412421
+    },
+    {
+      "id": "111e7b73c5c39007",
+      "title": "中國19家白酒上市公司半年收入大減 景氣指數續滑",
+      "url": "https://www.cna.com.tw/news/acn/202608280331.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-28T14:17:31.000Z",
+      "excerpt": "（中央社記者馮昭上海28日電）中國大陸財經媒體今天報導，中國19家白酒上市公司上半年合計營業收入人民幣1794億元，年減97億元（新台幣456億元），負成長5.1%，白酒行業上半年仍未走出深度調整。",
+      "section": "cn-news",
+      "rankScore": 0.371715
+    },
+    {
+      "id": "ed9f06220cb0c638",
+      "title": "学习进行时丨防灾减灾救灾，总书记强调坚持极限思维、底线思维",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMGo0RVVsbkl4QzFPZWhKamJ4LWF3eXhYZGZJSmQzYkZuMzZWUkNNc1NlczVLQU9DUW1LTFZJLUNQYnY0S1dQOTVxTnhRMGFzcWlLamxsSXJXMFZEdC1ycVBZV0RQQlVXbElpY3Q4aWw5Zk96QVFncjlCYl9lc1pUSW1BVUFzYlNFWjRj?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-28T17:17:57.000Z",
+      "excerpt": "学习进行时丨防灾减灾救灾，总书记强调坚持极限思维、底线思维 新华网 时事纵横丨从主汛期看我国现代化应急体系建设 中华人民共和国国防部 学习兴疆丨扬优势、补短板、强弱项，不断提高防范应对各类自然灾害的能力和水平 aksxw.com 经济日报：不断提升防灾减灾效能 京报网 镜观中国丨始终把人民生命安全放在首位 altxw.com",
+      "section": "cn-news",
+      "rankScore": 0.33893
+    },
+    {
+      "id": "6f15093adb48848c",
+      "title": "The ‘Asian water tower’ is starting to wobble, computer simulations show",
+      "url": "https://www.scmp.com/news/china/science/article/3365514/asian-water-tower-starting-wobble-computer-simulations-show?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-28T14:00:14.000Z",
+      "author": "Chao Kong",
+      "excerpt": "“Asia’s water tower” is heading towards a more unpredictable and unstable future, according to a new study measuring the Tibetan Plateau’s stability. The study, published on August 21 in Nature Communications, examined the entropy of the region to gauge how much chaos or disorder was building up…",
+      "section": "cn-news",
+      "rankScore": 0.318529
+    },
+    {
+      "id": "00ccffc5c75859d6",
+      "title": "西藏吉隆泥石流灾害已致7人遇难554人失联",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686252.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-28T17:24:02.000Z",
+      "excerpt": "记者从西藏自治区应急管理厅获悉，截至29日1时，已救出热索村群众2人，吉隆泥石流灾害已造成7人遇难，554人失联。(记者刘洲鹏、格桑朗杰、丁增尼达）",
+      "section": "cn-life",
+      "rankScore": 0.681916
+    },
+    {
+      "id": "6cbd2488d4075e03",
+      "title": "国联民生（601456.SH）新增一起对外投资，被投资公司为广东南方新媒体股份有限公司_公司新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ET3hhNi1GakRTMGhfRlJkWE9SdUZjTjgxRi1oM2ZwYUpaNk14c2V4SDJNc25aSy1fdFMwRktkY0x3VkdST0Y0N3RjTHBRNmZ3dm5ITXhnbk9HcEQ0WW82YVR5OWw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-28T20:34:50.000Z",
+      "excerpt": "国联民生（601456.SH）新增一起对外投资，被投资公司为广东南方新媒体股份有限公司_公司新闻 证券之星",
+      "section": "cn-life",
+      "rankScore": 0.606837
+    },
+    {
+      "id": "ff5c286f0b20e013",
+      "title": "浙江调整防台风应急响应为Ⅲ级",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDdJWEtmRXZOWG10aUxaazhRU1VUbXFDT0o0cm9xMUpsc0V6TE9LTm1VQUs2UFVYaURSRnpNbUItaUxGc2dUWm8tNXplOV9OZXdKRF92V0diaEFlaGVnVzNCNEdnallNT1hwR0pocUVST0NOZVBtajZpOC1iVFdjcnF3d0c?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-28T15:38:00.000Z",
+      "excerpt": "浙江调整防台风应急响应为Ⅲ级 hznews.hangzhou.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.458421
+    },
+    {
+      "id": "f7e37f6226673943",
+      "title": "沃尔玛道歉",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSzRVLVpzUldwT3JTenFKUXhiQ1VyWWExcnhhTzlaMldMZVpPUE5OZTl1TGhoOGJjWldMZ1poT05LWWo0dmN1cUFEZS1VRFI1SDd3T2dZZTlRbWwyRTE1Q1NLdkVQVFBWWjYtRzRFTzVDWkNzNE5ac1ZaX1lkZG0zb1A3ZHRUTnNJZGJ6TWpTT3FaVGVuV0pZXw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-28T16:13:44.000Z",
+      "excerpt": "沃尔玛道歉 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.370446
+    },
+    {
+      "id": "789b00314a8b5495",
+      "title": "涉港澳资讯",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtbWU0Uy0xQ3laZlNxdWdmWDJWMlRvWUlpRG9pdm0wck40bGxhdFJnNHZKV3ZsalJrTGtvMUx2WlRGdjJKRFVqR0hCbG5YQ3V0bHZLVVRIZnJSeFhO?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-28T14:09:21.000Z",
+      "excerpt": "涉港澳资讯 hmo.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.368085
+    },
+    {
+      "id": "282da691d6149d54",
+      "title": "南昌市秋季开学中小学收费标准公布",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkFSbzhCd3NNNms2S2E5UlBCbjBIOGV6UUNyb1Nwb0dfMEVISk5TTXVndFpTaTRhTnppRjJ1UmE5bDJCMHAzQ2U0Zy1UclVnRy1UZzRlY0d5YnRacENXZTQybS1rWURDWVhld25hX3kwYlR6eEhOaU9IY0hGNVNJV1JFQ0RBb040WmpBbTlqLUNTWWVLbmFWcQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-28T16:35:56.000Z",
+      "excerpt": "南昌市秋季开学中小学收费标准公布 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.324925
+    },
+    {
+      "id": "fa9159ecf2d0bee6",
+      "title": "附属北京天坛医院季楠教授/张扬主任团队《Nature Medicine》发表颅内B7-H3 CAR-T治疗复发胶质母细胞瘤Ⅰ期临床研究成果",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMS2VnZzlHSzdTY1hHdzdvNHM5QlI5dkgzOWdCdEFoX0JsTEZrOUF6SU1rdGlMRFRIOTE2NHJ3Y0Y4UVFhUjZlQ1QtWjJnU0poVFE3MnJSeHh1ZjlmR21LSTBvb0QzZUdjVUxkTU9HWWVMRmhEOFNTUklVUk8?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-28T11:27:21.000Z",
+      "excerpt": "附属北京天坛医院季楠教授/张扬主任团队《Nature Medicine》发表颅内B7-H3 CAR-T治疗复发胶质母细胞瘤Ⅰ期临床研究成果 首都医科大学",
+      "section": "cn-life",
+      "rankScore": 0.259074
+    },
+    {
+      "id": "97d66746620a2860",
+      "title": "Claude闯入现实！Anthropic首款在物理世界运行的AI工具问世了",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWdaeVVwY1NFVWlCNUxzeldVNzkwV2xlTTE4aG5LYWpaSWFKUHBnYmdxZkdaeElULU1URy1NQ2p1R1RzQUwweA?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-08-28T11:14:01.000Z",
+      "excerpt": "Claude闯入现实！Anthropic首款在物理世界运行的AI工具问世了 财联社",
+      "section": "cn-life",
+      "rankScore": 0.181349
+    }
+  ],
+  "warnings": [
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
