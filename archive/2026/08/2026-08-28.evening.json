@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-28",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-08-28T22:15:38.534Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "1e974e912140d79e",
+      "title": "Get your Windows license refund",
+      "url": "https://en.refund4freedom.org/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-28T13:42:40.000Z",
+      "score": 621,
+      "author": "smartmic",
+      "excerpt": "621 points · 252 comments · https://news.ycombinator.com/item?id=49478340",
+      "section": "tech",
+      "rankScore": 0.919016
+    },
+    {
+      "id": "9a118e59d024ed25",
+      "title": "How cats.txt showed llms.txt evidence is GEO astrology",
+      "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
+      "source": "lobsters",
+      "publishedAt": "2026-08-28T18:11:43.000Z",
+      "author": "markwilliamscook.substack.com via kaycebasques",
+      "section": "tech",
+      "rankScore": 0.517419
+    },
+    {
+      "id": "a4b07b5844554ec9",
+      "title": "Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos",
+      "url": "https://www.infoq.com/news/2026/08/uber-gitfarm-git-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-28T14:30:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Uber’s GitFarm provides Git operations as a centralized service, eliminating local repository clones across large scale monorepo workloads. The platform uses prewarmed checkouts, ephemeral sandboxes, repository synchronization, and gRPC streaming to reduce resource consumption and startup latency…",
+      "section": "tech",
+      "rankScore": 0.461209
+    },
+    {
+      "id": "cfc975d68b166b64",
+      "title": "Here's what we know about the \"space academy\" Trump just announced",
+      "url": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
+      "source": "ars-technica",
+      "publishedAt": "2026-08-28T17:36:30.000Z",
+      "author": "Eric Berger",
+      "excerpt": "\"It's called the US Space Academy. That's a big deal.\"",
+      "section": "tech",
+      "rankScore": 0.389795
+    },
+    {
+      "id": "1ad6b2e6af1ed83d",
+      "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+      "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
+      "source": "verge",
+      "publishedAt": "2026-08-28T17:03:07.000Z",
+      "author": "Brad Bourque",
+      "excerpt": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version.",
+      "section": "tech",
+      "rankScore": 0.377811
+    },
+    {
+      "id": "f26a73c7f3a883d2",
+      "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+      "url": "https://blog.cloudflare.com/botbase-for-operators/",
+      "source": "cloudflare",
+      "publishedAt": "2026-08-28T12:59:44.000Z",
+      "author": "Julian Laxman",
+      "excerpt": "Bot operators now have a home in the Cloudflare dashboard to manage submissions. This update adds submission status tracking, submission editing, and a behavior model so operators can accurately declare how their bots use content.",
+      "section": "tech",
+      "rankScore": 0.373427
+    },
+    {
+      "id": "33f136f80a38a632",
+      "title": "澳大利亚有望在未来十年消灭宫颈癌",
+      "url": "https://www.solidot.org/story?sid=85226",
+      "source": "solidot",
+      "publishedAt": "2026-08-28T16:41:00.000Z",
+      "excerpt": "宫颈癌是女性第四大常见癌症，而 99% 的宫颈癌病例是由高危型人乳头瘤病毒（HPV）引起的。2006 年澳大利亚在全球率先推出首款宫颈癌疫苗，至今已有 20 年。该疫苗除了预防宫颈癌，还能预防咽喉癌、生殖器癌和肛门癌。因此男女都能从接种疫苗上受益。澳大利亚也是第一个全额资助 HPV 疫苗接种计划的国家，自 2007 年起，澳大利亚 26 岁以下女孩和年轻女性可免费接种该疫苗，2013 年起男孩和年轻男性也纳入该计划。澳大利亚有望在未来十年消灭宫颈癌。",
+      "section": "cn-tech",
+      "rankScore": 0.581227
+    },
+    {
+      "id": "b3f16d38c703cee3",
+      "title": "下一层抽象：从UX角度思考Agentic OS的样貌",
+      "url": "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-28T18:00:00.000Z",
+      "author": "灯火明",
+      "section": "cn-tech",
+      "rankScore": 0.568901
+    },
+    {
+      "id": "22c1690f8f5f3a67",
+      "title": "超级Web特性HTML-in-Canvas初体验",
+      "url": "https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/",
+      "source": "zhangxinxu",
+      "publishedAt": "2026-08-28T10:14:29.000Z",
+      "author": "张 鑫旭",
+      "excerpt": "HTML-in-Canvas这个特性太特么强了，我从未想过Canvas还有这样的能力，现在Chrome浏览器居然实现了，赶快进来一看究竟吧。",
+      "section": "cn-tech",
+      "rankScore": 0.39621
+    },
+    {
+      "id": "e3e1f1ed8b7a58e0",
+      "title": "「机器人奥运」加冕双冠王，不「偏科」的智元是如何炼成的？",
+      "url": "https://www.36kr.com/p/3959191433165952",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-28T13:32:31.000Z",
+      "author": "碧根果",
+      "excerpt": "18金、16银、12铜，金牌榜、奖牌榜双第一，这是智元首次参加2026世界人形机器人运动会、业内人称“机器人奥运会”上交出的成绩单。 其中，量产版灵巧手OmniHand拿下8个灵巧手专项中的7枚金牌；精灵G2在场景赛获得12枚金牌中的6枚；远征A3、灵犀X2则分别在舞蹈、武术、乒乓球和障碍赛等项目中取得多枚奖牌。另外值得一提的是，智元这次派出的参赛机型都是量产机，并未为比赛单独定制本体。 奖牌是赛事最直观的结果，但比奖牌数量更值得关注的，是其背后呈现出的跨赛道能力。这也对应着当前人形机器人竞争焦点的变化：产业进入部署阶段后，竞争正在由单项长板转向系统能力。",
+      "section": "cn-tech",
+      "rankScore": 0.388557
+    },
+    {
+      "id": "99ad4bc46f28fb17",
+      "title": "🔥MakuBoot 5.2 发布，低代码开发平台，快速开发利器",
+      "url": "https://www.oschina.net/news/502184",
+      "source": "oschina",
+      "publishedAt": "2026-08-28T13:00:27.000Z",
+      "excerpt": "介绍 maku-boot 是采用 SpringBoot4.0、SpringSecurity7.0、Flowable8.0、Mybatis-Plus、Vue3、Element-plus 等技术开发的低代码开发平台，旨在为开发者提供一个简洁、高效、可扩展的低代码开发平台。 使用门槛极低，支持国密加密、达梦数据库等，符合信创需求的低代码开发平台。 采用组件模式，扩展不同的业务功能，可以...",
+      "section": "cn-tech",
+      "rankScore": 0.373757
+    },
+    {
+      "id": "f246eb656b86fa8c",
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-28T21:30:52.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands.",
+      "section": "security",
+      "rankScore": 0.677038
+    },
+    {
+      "id": "5ab518d7ffd5b968",
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-28T20:38:47.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026.",
+      "section": "security",
+      "rankScore": 0.650329
+    }
+  ],
+  "warnings": [
+    "source \"smashing\" failed: AbortError: This operation was aborted",
+    "source \"react-blog\" looks stale: newest item is 186 days old (budget 180d)"
+  ]
+}
