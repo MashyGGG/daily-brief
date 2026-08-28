@@ -1,0 +1,321 @@
+{
+  "date": "2026-08-28",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-08-28T07:03:52.353Z",
+  "configHash": "6bd81ffe6b4c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "9c168b1cb0e162d1",
+      "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」",
+      "url": "https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-28T05:35:04.000Z",
+      "excerpt": "特朗普簽署這項行政命令之際，美加貿易談判已於上週稍後時間宣告破裂。",
+      "section": "news",
+      "rankScore": 0.810398
+    },
+    {
+      "id": "772e5ac2e759dae8",
+      "title": "中情局局长为何秘密访问莫斯科",
+      "url": "https://cn.nytimes.com/usa/20260828/cia-director-russia-ukraine/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-08-28T03:55:58.000Z",
+      "author": "ADAM ENTOUS,JULIAN E. BARNES",
+      "excerpt": "拉特克利夫与俄方分享了他对俄罗斯战争现状的悲观评估，并敦促对方在军事和经济状况进一步恶化前达成协议。美国情报界人士一直质疑普京对战争走向是否有清醒认识。 Kenny Holston/The New York Times 中央情报局局长约翰·拉特克利夫本周秘密访问莫斯科，向俄罗斯联邦安全局局长亚历山大·博尔特尼科夫转达紧急信息。",
+      "section": "news",
+      "rankScore": 0.712584
+    },
+    {
+      "id": "ad1cb036f93ba9eb",
+      "title": "求情变狠批一党专政 邹幸彤：追求民主 一天牢也不应坐",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260828-%E6%B1%82%E6%83%85%E5%8F%98%E7%8B%A0%E6%89%B9%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF-%E9%82%B9%E5%B9%B8%E5%BD%A4-%E8%BF%BD%E6%B1%82%E6%B0%91%E4%B8%BB-%E4%B8%80%E5%A4%A9%E7%89%A2%E4%B9%9F%E4%B8%8D%E5%BA%94%E5%9D%90",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-28T06:30:48.000Z",
+      "author": "香港特约记者 麦燕庭",
+      "excerpt": "前支联会副主席邹幸彤拒绝为被指煽动颠覆国家政权罪（煽颠罪）的量刑陈词，强调追求民主「根本一日监都唔应该坐」。她更反批法庭上周206页的罪成裁决书，通篇是在説「追求民主有罪」；誓言将来会继续追求包括「结束一党专政」在内的支联会五大纲领，直至民主来临，尽管这会令她成为罪人。",
+      "section": "news",
+      "rankScore": 0.690813
+    },
+    {
+      "id": "3aaacbcb8283f004",
+      "title": "Norway's King Harald dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-28T06:57:35.000Z",
+      "excerpt": "The late king, who reigned for 35 years, broke with tradition by marrying a commoner and celebrated Norway's diversity in a famous speech.",
+      "section": "news",
+      "rankScore": 0.628428
+    },
+    {
+      "id": "c940ac1008ceb205",
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods/heres-the-latest",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-28T06:58:29.000Z",
+      "author": "Anupreeta Das, Binod Ghimire, Mujib Mashal, Lily Kuo and Qasim Nauman",
+      "section": "news",
+      "rankScore": 0.558802
+    },
+    {
+      "id": "0ebc89a35ebaa660",
+      "title": "Nepal-Tibet flash flood: helicopter rescue operations suspended as lake overflows; death toll rises to 469",
+      "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-28T06:53:08.000Z",
+      "author": "Mabel Banfield-Nwachi (now) and Adam Fulton (earlier)",
+      "excerpt": "Operations in Rasuwa in Nepal suspended amid fears of further destruction; 1,300 people still missing amid race to find survivors Flood risk forces halt to rescues in Tibet, as Nepal death toll rises to 469 Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash…",
+      "section": "news",
+      "rankScore": 0.557614
+    },
+    {
+      "id": "c869aa04acb0d35e",
+      "title": "Armed with a whistle, Gaza’s lifeguards do what they can to save swimmers",
+      "url": "https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-28T06:45:10.000Z",
+      "excerpt": "Shortages leave Gaza's lifeguards without essential rescue equipment, as Palestinians flock to the beaches.",
+      "section": "news",
+      "rankScore": 0.555843
+    },
+    {
+      "id": "d2999103441da368",
+      "title": "What a fake poll reveals about worries around prediction markets and the midterms",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5945290/fake-poll-meridian-stratgies-kalshi-polymarket",
+      "source": "npr-news",
+      "publishedAt": "2026-08-28T07:00:00.000Z",
+      "author": "Bobby Allyn",
+      "excerpt": "While a stunt involving fake polls may not have been an effort to rig prediction markets, concerns are growing ahead of the midterms about other attempts to influence the betting sites.",
+      "section": "news",
+      "rankScore": 0.489247
+    },
+    {
+      "id": "1ca6e8bdb2905577",
+      "title": "Healey to shelve his own defence spending target of 3% of GDP by 2030",
+      "url": "https://www.ft.com/content/fc925436-4bcb-444c-b929-83014f6da44d?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-08-28T06:54:23.000Z",
+      "excerpt": "Chancellor resigned as defence secretary in June over what he saw as inadequate ambition for military spending by Sir Keir Starmer’s government",
+      "section": "news",
+      "rankScore": 0.488155
+    },
+    {
+      "id": "3573f23ffed13b1a",
+      "title": "LA Mayor Karen Bass Eases Street Vending Crackdown After Debate",
+      "url": "https://www.nytimes.com/2026/08/27/us/los-angeles-street-vendors-karen-bass.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-28T05:21:18.000Z",
+      "author": "Livia Albeck-Ripka",
+      "excerpt": "Mayor Karen Bass said food vendors discourage restaurant patrons, mentioning them alongside homeless encampments. Her opponent, Nithya Raman, said vendors should be brought into the system.",
+      "section": "news",
+      "rankScore": 0.470055
+    },
+    {
+      "id": "7a0b8c74ae8f8cf9",
+      "title": "挪威国王哈拉尔五世去世",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbmxmeDRDUGpMa1ltbHQzY3ZKaFNIZ20tbjNiRFR2WG1oaVNXRk5xcXNTMUgwNUNHT1R1TlpWZThCTzJDRWxUajB6akx2ZzQxallxaXhWeU1nYUFoSjd4UGY5Q0JfV0EyV2E1cDBLQkMwaTVaMUlnOTYwOU9LV1loYjdtLWhMcjFCQUd0UVkwcEljaUxLYlVFS2Rn?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-28T06:58:45.000Z",
+      "excerpt": "挪威国王哈拉尔五世去世 新华网客户端 欧洲最年长国家元首，挪威国王病逝 凤凰网 挪威国王哈拉尔五世病情恶化，王室连发两条声明 搜狐网 挪威国王病危 全国摒息 首相取消访德行程 RFI 哈拉德五世病情恶化 民众献花帮祈福 VanPeople",
+      "section": "news",
+      "rankScore": 0.419146
+    },
+    {
+      "id": "1c178b2f51acf1f0",
+      "title": "Cartoon: America and Canada stand on the brink of a trade war",
+      "url": "https://www.economist.com/the-world-this-week/2026/08/27/cartoon-america-and-canada-stand-on-the-brink-of-a-trade-war",
+      "source": "economist-week",
+      "publishedAt": "2026-08-27T14:02:18.000Z",
+      "excerpt": "A lighter take on the news",
+      "section": "news",
+      "rankScore": 0.291361
+    },
+    {
+      "id": "6e244567a9072b4f",
+      "title": "挪威国王哈拉尔五世去世 享年89岁",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685840.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-08-28T06:58:22.000Z",
+      "excerpt": "中新网8月28日电 据美国有线电视新闻网(CNN)报道，挪威王室28日发表声明说，国王哈拉尔五世去世，享年89岁。",
+      "section": "cn-news",
+      "rankScore": 0.838165
+    },
+    {
+      "id": "fc7a1fa59e20d43a",
+      "title": "神舟二十三号航天员乘组圆满完成出舱活动",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685825.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-28T06:28:25.000Z",
+      "excerpt": "新华社快讯：神舟二十三号航天员乘组圆满完成出舱活动。",
+      "section": "cn-news",
+      "rankScore": 0.759166
+    },
+    {
+      "id": "6fffb8e1974d532a",
+      "title": "化学制药板块尾盘探底回升，誉衡药业涨停",
+      "url": "https://www.jiemian.com/article/15019499.html",
+      "source": "jiemian",
+      "publishedAt": "2026-08-28T06:47:00.000Z",
+      "author": "jianli@jiemian.com(界面快报)",
+      "section": "cn-news",
+      "rankScore": 0.695313
+    },
+    {
+      "id": "a7c8aafdef567545",
+      "title": "揭穿“中国挤压论”的叙事陷阱",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685835.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-28T06:56:06.000Z",
+      "excerpt": "近期，西方一些智库和媒体在“中国冲击论”的基础上进一步炮制、炒作所谓的“中国挤压论”。该论调认为，中国在产业升级背景下，仍在劳动密集型制造业维持较高份额，挤占了全球南方国家依托低端制造开启工业化的发展空间。这种陈词滥调不仅在国际社会看来已了无新意，即便在美国国内也遭到了以哥伦比亚大学亚当·图兹教授为代表的一些学者驳斥。",
+      "section": "cn-news",
+      "rankScore": 0.628057
+    },
+    {
+      "id": "023711b2512da35d",
+      "title": "马上评｜“镜头霸凌”九旬老人？别为流量失了做人的底线",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xZkJhZFdrVFhzcVY1TmMzTnlmb1o1Y3VLT2VUQmZfSTZiRkp5M2VzQnV1SGFKSTU5cThyd0JfTktVVl9ZS3JvQk9tc2szR0RHOFNfS0YwTFN2WGNWYTRZdg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-28T05:16:00.000Z",
+      "excerpt": "马上评｜“镜头霸凌”九旬老人？别为流量失了做人的底线",
+      "section": "cn-news",
+      "rankScore": 0.603032
+    },
+    {
+      "id": "cd66a0ab1bcd08ac",
+      "title": "亚太经合组织第三次高官会在大连举行",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ia18yV3d6VF9lTUJWOHYtak01QzFYajlmTzJQbVdtQzQtUEdoZ1FGWXNlQWV6ODZuUHJXT3o1LWpVN2RibHNJa2YtTEV2MkpvdmpiN3VzdWlVUUtGcmFPazFuemdaLWhhLWl6RmI4U2FiTzR2MElRQk4zZ00yZw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-28T05:54:48.000Z",
+      "excerpt": "亚太经合组织第三次高官会在大连举行 新华网 2026年亚太经合组织会议筹备进程进入冲刺阶段 新华网 大连小吃“鲜”声夺人 非遗匠心惊艳嘉宾 新浪财经 2026年亚太经合组织第三次高官会开幕式在大连举行 央视网 APEC中国年 | 船舶重工→现代渔业、高新科技→历史人文 与会代表感受不同区域发展特色 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.544651
+    },
+    {
+      "id": "2cf340f890830710",
+      "title": "機器人產業 中國官方：防止盲目跟風一哄而上",
+      "url": "https://www.cna.com.tw/news/acn/202608280127.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-28T05:39:04.000Z",
+      "excerpt": "（中央社記者李雅雯台北28日電）中國國家發改委今天提醒，機器人產業涉及許多尖端科技，必須因地制宜、健康有序發展，找準定位、發揮優勢，防止盲目跟風、一哄而上，才能推動相關產業行穩致遠。",
+      "section": "cn-news",
+      "rankScore": 0.541154
+    },
+    {
+      "id": "e02a87e7d87b2872",
+      "title": "Will Australia be locked out of top scientific research by shunning Chinese universities?",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3365526/will-australia-be-locked-out-top-scientific-research-shunning-chinese-universities?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-28T06:00:09.000Z",
+      "author": "Caroline Lin",
+      "excerpt": "Australia’s decision to axe partnerships with two Chinese universities has raised concerns that Canberra is moving to align with Washington on research security policy. The decision came after the United States expanded its restrictions on research entities from China.",
+      "section": "cn-news",
+      "rankScore": 0.47761
+    },
+    {
+      "id": "cd6b8c98fd51317f",
+      "title": "我国5G移动电话用户占比超七成",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TczB5anNBTmY4SHZrZnlVU3owdEJpRDNDMnlaUlQyRkJTR0ozakZjYldSeDFiN1pmbDVuVEtDNld0TnA1T3ZoRXA0VWlCMmtselJRRnY0bko1dy02SmhjdDlQMDBJYVRGejkzQVBXRV8?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-28T05:24:37.000Z",
+      "excerpt": "我国5G移动电话用户占比超七成 中国科技网",
+      "section": "cn-news",
+      "rankScore": 0.4707
+    },
+    {
+      "id": "0195ded467103d2f",
+      "title": "长春电影节丨文化产业推介聚焦冰雪、光影、都市圈",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBha2pIWDl0QUZhVTh4QmU4b1l0bWFZSGdOU1hEZGFuZWY2VjBvNlRSZXNiendzcElpeUlaZmNWMXlZc3czN2QwSWtEd01mRGlONDVDSWpldl9tZUIxSy1nUkFHeTZYUQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-28T05:51:00.000Z",
+      "excerpt": "长春电影节丨文化产业推介聚焦冰雪、光影、都市圈-中国吉林网 news.cnjiwang.com 二十一届中国长春电影节 | 艺术家进校园——名师大讲堂在吉林动画学院举办 凤凰网 冯小刚担任评委会主席有哪些优势？ 新浪财经 长春电影节｜“智映春城·AIGC影像路演”路演圆满落幕- 中国日报网 China Daily 长春电影节｜“跟着电影品美食”主题活动正式启动 thepaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.407855
+    },
+    {
+      "id": "83b6b4a4711483f1",
+      "title": "四川内江隆昌市发生5.1级地震 中国地震局启动三级应急响应",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10685821.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-28T06:29:05.000Z",
+      "excerpt": "中新网8月28日电 据中国地震台网正式测定，2026年8月28日13时13分，在四川内江市隆昌市(北纬29.23度，东经105.22度)发生5.1级地震，震源深度6公里。中国地震局启动三级应急响应。",
+      "section": "cn-life",
+      "rankScore": 0.828404
+    },
+    {
+      "id": "3e1c172eb155a0dc",
+      "title": "红色预警持续！“沙德尔”登陆地点有变 最新预测→ - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hcDRwUWZ4emlac0cwaWtZRWY2ZEctcm1DMGJqSjE5SWtXdDRXeVlNaXRZajJzSE9DblhQYkU5cFdfSmVpUzZEQU5VZXhyRGxxVmxfZjUydVI0R2txYV9ETjNiaExtcUptZHU2X3BicUdFUjFqV3c?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-28T06:34:39.000Z",
+      "excerpt": "红色预警持续！“沙德尔”登陆地点有变 最新预测→ 新浪新闻_手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.622694
+    },
+    {
+      "id": "78ad0fa82d659889",
+      "title": "*ST仕净连亏2年半 2021上市国联民生保荐两募资共6.23亿",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pVnJGTVd6bmV4WGhsd3NqSzZheENtd1dkcXVoSVJRUlpZOVl4UVR4cGk0TGV0LUF3TFh1eGVZSVI4N1BHRS1YbjdfQlVwTzhjUW1QNzZpVUM5bFhLOFU5THRaWVVyLXlmMjZVenFwYllWUQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-28T06:32:00.000Z",
+      "excerpt": "*ST仕净连亏2年半 2021上市国联民生保荐两募资共6.23亿 中国经济网",
+      "section": "cn-life",
+      "rankScore": 0.622032
+    },
+    {
+      "id": "7af056467e7f6065",
+      "title": "云浮郁南：推行“1+7”警示教育资源包 提升教育针对性有效性",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43bmlQWkhxa3J3RURNU1Q2WjRpYllGZHExQjJ3eE5GNmctOHd4aVh1SGFMWlRTcGtWOE1HN0RMN1BPdGk1NFJlMGlKMmg4VGY0STd2Ym9lSk0wblNGaDZpbjBrVWZrN2Rj?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-28T06:39:21.000Z",
+      "excerpt": "云浮郁南：推行“1+7”警示教育资源包 提升教育针对性有效性 南粤清风网",
+      "section": "cn-life",
+      "rankScore": 0.554551
+    },
+    {
+      "id": "4d3d7b214494d526",
+      "title": "宝马在美召回部分车型 传动轴连接磨损或致后轮动力中断",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJOTFGUEgxNEJjdTgzS18tU2syN3JGSDdjU0VnSGRJTmk1a3NxN3NpYlBzbnFwUVZMUFZIdVQwZC11UWxBWFd6TTc3WEI3SWx5dHg2V0sxWFp6WEk?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-28T06:49:42.000Z",
+      "excerpt": "宝马在美召回部分车型 传动轴连接磨损或致后轮动力中断 汽车之家",
+      "section": "cn-life",
+      "rankScore": 0.487244
+    },
+    {
+      "id": "ce4817d35ee6de3b",
+      "title": "哈佛神经专家警示：维D缺乏让大脑“忘记如何睡眠”！Gynable洁妮贝维生素DK镁破局登场",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HODZqczJST1RPVTI2ZnZMRG1NQmM0cE5BZnNIaTZtLTNGN3VyaGRJWUxva1NpdFZNMUlOdHR5M19JVTdxdVh3TXRYdVBLdHM1dW5paW5aQWhKNkxZQXkyMDMwX25oZk5zQ0xwTg?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-28T06:10:51.000Z",
+      "excerpt": "哈佛神经专家警示：维D缺乏让大脑“忘记如何睡眠”！Gynable洁妮贝维生素DK镁破局登场 中华网",
+      "section": "cn-life",
+      "rankScore": 0.47969
+    },
+    {
+      "id": "9f0b7d1a645b8bed",
+      "title": "文明校园创建丨开学季安全教育进校园 朝阳区六里屯街道多维度护航青少年成长",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54R0JfcGtXS0VZN0NISzJMSmVTeE9oc1lzTzcxRHlwTEJleGoxNVFJcGtub2FEU0FMc2V2eEFBbU1kcmQwVmVueDZ6WkF2Y1A3MUtqTTRsODBiUHc?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-28T06:57:29.000Z",
+      "excerpt": "文明校园创建丨开学季安全教育进校园 朝阳区六里屯街道多维度护航青少年成长 首都文明网",
+      "section": "cn-life",
+      "rankScore": 0.418935
+    },
+    {
+      "id": "bffdd7db69517026",
+      "title": "399美元就玩转物理AI！Hugging Face发布“中国造”机器人“微型鸭”，可用强化学习教导摔倒后站起",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tMFUzRVhmSzU5LVlUMGFmeXQ0RFRRdG9xUjlOX1RMRERVNHpGaU1XRC1EeUZjdGk1U1Z6TTlzZGNRQkQ2R2lhenFTVE14S1Y2dmUw?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-08-27T19:21:15.000Z",
+      "excerpt": "399美元就玩转物理AI！Hugging Face发布“中国造”机器人“微型鸭”，可用强化学习教导摔倒后站起 华尔街见闻",
+      "section": "cn-life",
+      "rankScore": 0.252414
+    }
+  ],
+  "warnings": [
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
