@@ -279,6 +279,61 @@ export function findPublishScheduleById(config: BriefConfig, id: string): Publis
   return found
 }
 
+/** Only the literal shapes this file GENERATES: `M H * * *` and `M H * * D`. */
+const CRON_LITERAL = /^\d{1,2}$/
+
+/**
+ * The instant a cron was MEANT to fire, given the instant the run actually started.
+ *
+ * GitHub's `schedule` dispatcher is best-effort. Measured on this repo: 23–88 minutes late
+ * on a normal day, and 5–10 HOURS late across the 2026-08-26 Actions incident. The run's
+ * own clock is therefore not the edition's identity — anchoring the date to it filed
+ * 2026-08-27's evening issue as `2026-08-28.evening`, where the next day's real evening
+ * run would have overwritten it. Walking back to the most recent occurrence of the cron
+ * keeps "one cron firing = one (date, slot)" total for any lag under 24 hours.
+ *
+ * Freshness is NOT anchored here: `now` stays wall-clock, so a late issue still carries
+ * the newest items rather than honouring a stale window.
+ *
+ * Returns null for any cron this file would not have generated, so callers fall back to
+ * wall clock rather than guessing.
+ */
+export function lastCronOccurrence(cron: string, at: Date): Date | null {
+  const fields = normalizeCron(cron).split(' ')
+  if (fields.length !== 5) return null
+  const [minute, hour, dayOfMonth, month, dayOfWeek] = fields as [
+    string,
+    string,
+    string,
+    string,
+    string,
+  ]
+  if (dayOfMonth !== '*' || month !== '*') return null
+  if (!CRON_LITERAL.test(minute) || !CRON_LITERAL.test(hour)) return null
+  const m = Number(minute)
+  const h = Number(hour)
+  if (m > 59 || h > 23) return null
+  // cron counts 0 = Sunday and accepts 7 for it too; `* ` means every day.
+  let weekday: number | null = null
+  if (dayOfWeek !== '*') {
+    if (!CRON_LITERAL.test(dayOfWeek)) return null
+    const d = Number(dayOfWeek)
+    if (d > 7) return null
+    weekday = d % 7
+  }
+
+  // Seven steps is enough: a daily cron fires every day, a weekly one every 7.
+  for (let back = 0; back <= 7; back += 1) {
+    const candidate = new Date(
+      Date.UTC(at.getUTCFullYear(), at.getUTCMonth(), at.getUTCDate() - back, h, m, 0, 0),
+    )
+    if (candidate.getTime() > at.getTime()) continue
+    if (weekday !== null && candidate.getUTCDay() !== weekday) continue
+    return candidate
+  }
+  return null
+}
+
 /** Normalize whitespace so `'0  0 * * *'` and `'0 0 * * *'` compare equal. */
 export function normalizeCron(cron: string): string {
   return cron.trim().replace(/\s+/g, ' ')

@@ -725,3 +725,68 @@ describe('M1 — the new CLI flags', () => {
     expect(() => parseArgs(['--diff'])).toThrow(/--re-enrich/)
   })
 })
+
+describe('a late cron dispatch does not steal the NEXT day filename', () => {
+  // 2026-08-20 20:10 CST is 12:10 UTC; GitHub dispatched the real 2026-08-27 evening run
+  // 10h03m after its cron, which lands at 06:13 the FOLLOWING CST day.
+  const dueAt = new Date('2026-08-20T12:10:00.000Z')
+  const dispatchedAt = new Date('2026-08-20T22:13:43.000Z')
+
+  it('files the issue under the day the cron was due', async () => {
+    const fs = memoryFs()
+    const ctx = channelContext()
+    const result = await run({
+      config,
+      configHash: 'hash',
+      now: dispatchedAt,
+      scheduledAt: dueAt,
+      env: ctx.env,
+      dryRun: false,
+      fetchImpl: okFetch,
+      channelContext: ctx,
+      fs,
+    })
+
+    expect(result.brief.date).toBe('2026-08-20')
+    expect(result.archived!.markdownPath).toBe('archive/2026/08/2026-08-20.md')
+    // Freshness is deliberately NOT rewound: the issue goes out late, but with the items
+    // that were current when it actually ran.
+    expect(result.brief.generatedAt).toBe(dispatchedAt.toISOString())
+    expect(result.brief.sections.every((s) => s.items.length > 0)).toBe(true)
+  })
+
+  it('without the anchor it takes the next day — the bug this pins', async () => {
+    const fs = memoryFs()
+    const ctx = channelContext()
+    const result = await run({
+      config,
+      configHash: 'hash',
+      now: dispatchedAt,
+      env: ctx.env,
+      dryRun: false,
+      fetchImpl: okFetch,
+      channelContext: ctx,
+      fs,
+    })
+
+    expect(result.brief.date).toBe('2026-08-21')
+  })
+
+  it('a manual run has no intended time and keeps the wall clock', async () => {
+    const fs = memoryFs()
+    const ctx = channelContext()
+    const result = await run({
+      config,
+      configHash: 'hash',
+      now: dispatchedAt,
+      scheduledAt: null,
+      env: ctx.env,
+      dryRun: false,
+      fetchImpl: okFetch,
+      channelContext: ctx,
+      fs,
+    })
+
+    expect(result.brief.date).toBe('2026-08-21')
+  })
+})

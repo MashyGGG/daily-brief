@@ -4,6 +4,7 @@ import {
   findScheduleByCron,
   findScheduleById,
   generateCrons,
+  lastCronOccurrence,
   hasDst,
   localTimeToUtcCron,
   renderScheduleBlock,
@@ -12,6 +13,7 @@ import {
 } from '../src/schedule/cron'
 import { parseConfig } from '../src/config/schema'
 import { configYaml } from './helpers'
+import { localDate } from '../src/core/brief'
 
 const config = (head: string) => parseConfig(configYaml({ head }), {})
 
@@ -266,4 +268,58 @@ schedules:
 `)
     expect(findScheduleByCron(cfg, '10 23 * * *').id).toBe('morning')
   })
+})
+
+describe('a late dispatch keeps the edition it was scheduled for', () => {
+  // Every case below is a real run: the CST times are the ones GitHub actually dispatched
+  // at, and the expected instant is the cron occurrence that run belonged to.
+  const cases: Array<[string, string, string, string]> = [
+    // morning `10 23 * * *` — 07:10 CST. Dispatched 5h19m late on 2026-08-27.
+    ['10 23 * * *', '2026-08-27T04:29:00Z', '2026-08-26T23:10:00Z', '2026-08-27'],
+    // evening `10 12 * * *` — 20:10 CST. Dispatched 10h03m late, into the next CST day.
+    ['10 12 * * *', '2026-08-27T22:13:43Z', '2026-08-27T12:10:00Z', '2026-08-27'],
+    // news-pm `10 11 * * *` — 19:10 CST, same night, same overflow.
+    ['10 11 * * *', '2026-08-27T20:59:00Z', '2026-08-27T11:10:00Z', '2026-08-27'],
+    // publish daily `30 13 * * *` — 21:30 CST, dispatched 9h30m late.
+    ['30 13 * * *', '2026-08-27T23:00:00Z', '2026-08-27T13:30:00Z', '2026-08-27'],
+    // On time: the occurrence is the firing itself.
+    ['10 23 * * *', '2026-08-27T23:10:00Z', '2026-08-27T23:10:00Z', '2026-08-28'],
+    // A few seconds early (clock skew) still belongs to the PREVIOUS occurrence.
+    ['10 23 * * *', '2026-08-27T23:09:59Z', '2026-08-26T23:10:00Z', '2026-08-27'],
+  ]
+
+  for (const [cron, dispatchedAt, due, expectedDate] of cases) {
+    it(`${cron} dispatched ${dispatchedAt} was due ${due}`, () => {
+      const at = lastCronOccurrence(cron, new Date(dispatchedAt))
+      expect(at?.toISOString()).toBe(new Date(due).toISOString())
+      expect(localDate(at!, 'Asia/Shanghai')).toBe(expectedDate)
+    })
+  }
+
+  it('walks back a whole week for a weekly cron', () => {
+    // weekly `0 0 * * 1` — Monday 08:00 CST. A run dispatched the following Saturday
+    // still belongs to that Monday, not to a Monday that has not happened yet.
+    const at = lastCronOccurrence('0 0 * * 1', new Date('2026-08-29T12:00:00Z'))
+    expect(at?.toISOString()).toBe('2026-08-24T00:00:00.000Z')
+    expect(at?.getUTCDay()).toBe(1)
+  })
+
+  it('accepts 7 as Sunday, the way cron does', () => {
+    const at = lastCronOccurrence('30 2 * * 7', new Date('2026-08-27T12:00:00Z'))
+    expect(at?.getUTCDay()).toBe(0)
+    expect(at?.toISOString()).toBe('2026-08-23T02:30:00.000Z')
+  })
+
+  it('tolerates the whitespace normalizeCron tolerates', () => {
+    expect(lastCronOccurrence(' 10  23 * * * ', new Date('2026-08-27T04:29:00Z'))?.toISOString()) //
+      .toBe('2026-08-26T23:10:00.000Z')
+  })
+
+  // Returning null rather than guessing is the point: the caller falls back to the wall
+  // clock, which is exactly today's behaviour, instead of inventing a date.
+  for (const bad of ['*/5 * * * *', '0 0 1 * *', '0 0 * 3 *', '10 23 * *', '', '99 23 * * *']) {
+    it(`declines to interpret "${bad}"`, () => {
+      expect(lastCronOccurrence(bad, new Date('2026-08-27T04:29:00Z'))).toBeNull()
+    })
+  }
 })

@@ -23,6 +23,12 @@ export interface RunOptions {
   config: BriefConfig
   configHash: string
   now: Date
+  /**
+   * The instant the cron was MEANT to fire, when a `schedule` run knows it. Only the
+   * edition's IDENTITY (its date, hence its archive filename) hangs off this; freshness
+   * stays on `now`. Unset for manual runs, which are their own occasion.
+   */
+  scheduledAt?: Date | null
   env: NodeJS.ProcessEnv
   /** Which schedule to run — by id, or reverse-looked-up from the firing cron. */
   scheduleId?: string
@@ -144,6 +150,10 @@ export function slotFor(config: BriefConfig, schedule: Schedule): string | null 
 
 export async function run(options: RunOptions): Promise<RunResult> {
   const { config, now, env } = options
+  // GitHub dispatches `schedule` events 20–90 minutes late routinely and hours late during
+  // an Actions incident. Dating the issue by the run's own clock let a delayed evening
+  // edition take the NEXT day's filename, where that day's real evening run overwrote it.
+  const editionAt = options.scheduledAt ?? now
   const fs = options.fs ?? nodeFs
   const log = options.log ?? (() => {})
   const secrets = collectSecretValues(env)
@@ -191,7 +201,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
   if (options.weekly) {
     // §9 M3 — zero fetches: the week is assembled out of the archives the daily runs
     // already committed, summaries and all.
-    const date = options.weeklyEnding ?? localDate(now, config.timezone)
+    const date = options.weeklyEnding ?? localDate(editionAt, config.timezone)
     const collected = collectWeekly(
       config,
       date,
@@ -269,7 +279,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
       ? seenFromArchive(
           readRecentItems(
             config.archive.dir,
-            localDate(now, config.timezone),
+            localDate(editionAt, config.timezone),
             config.archive.dedupeLookbackDays,
             fs,
           ).items,
@@ -315,7 +325,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
     warnings.push(...enriched.warnings)
 
     brief = {
-      date: localDate(now, config.timezone),
+      date: localDate(editionAt, config.timezone),
       scheduleId: schedule.id,
       slot: slotFor(config, schedule),
       title: config.title,

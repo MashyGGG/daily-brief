@@ -33,6 +33,11 @@ export interface RunPublishOptions {
   config: BriefConfig
   env: NodeJS.ProcessEnv
   now: Date
+  /**
+   * The instant the cron was MEANT to fire; picks the publication day when a `schedule`
+   * run is dispatched late. Unset for manual runs. See `lastCronOccurrence`.
+   */
+  scheduledAt?: Date | null
   ctx: PublisherContext
   scheduleId?: string
   cron?: string
@@ -96,7 +101,9 @@ export async function runPublish(options: RunPublishOptions): Promise<RunPublish
     ? findPublishScheduleByCron(config, options.cron)
     : findPublishScheduleById(config, options.scheduleId ?? 'daily')
 
-  const today = options.date ?? localDate(options.now, config.timezone)
+  // The publication day follows the cron's intended firing, not the dispatch: 2026-08-27's
+  // 21:30 line ran at 07:00 the next morning and would otherwise have published as 08-28.
+  const today = options.date ?? localDate(options.scheduledAt ?? options.now, config.timezone)
   const catchUp = options.catchUp ?? schedule.catchUpDays
   // Oldest first: a missed day is published before today's, so the platform timeline
   // reads in the order the content was actually about.

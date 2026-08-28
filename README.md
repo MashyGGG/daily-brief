@@ -7,7 +7,7 @@ config file.
 Four issues a day, two kinds: a **tech brief** at 07:10 and 20:10 (WeCom + mail), and a **news
 edition** at 07:40 and 19:10 that carries the three news sections only, to mail only
 ([docs/NEWS-EDITION.md](docs/NEWS-EDITION.md) records why they are separate issues rather than
-extra sections). A weekly review goes out Monday 08:00.
+extra sections). A weekly review goes out Monday 08:20.
 
 - **What gets in** → `brief.config.yaml` (`sources` + `sections`)
 - **Who receives it** → `brief.config.yaml` (`recipients`), plus the `RECIPIENTS_OVERRIDE_JSON` secret for private ones
@@ -452,7 +452,7 @@ do not: there, a reprint is a page you want.
 It is configured under a top-level `weekly:` block rather than as a `schedules[]` entry — a schedule
 means "go and fetch", and the lookback window, the cross-day dedupe and the archive write all exist
 to serve that. `weekly.recipients` defaults to nobody and must be named explicitly: a weekly review
-is a read, not something that should land on a phone at 08:00 on a Monday. Its cron is generated
+is a read, not something that should land on a phone at 08:20 on a Monday. Its cron is generated
 from `weekday` + `time` like every other one, so `pnpm brief:schedule` after changing either.
 
 ### Iterate on the prompt without waiting for tomorrow
@@ -491,12 +491,20 @@ env var or a repo variable. So the config stays the source of truth and the cron
 it. `pnpm check:schedule` fails CI if you edit the time and forget to regenerate, which is the
 difference between finding out at commit time and finding out on the morning nothing arrives.
 
-The trigger is `07:10`, and that number is doing two jobs. Actions schedules routinely run 5–30
-minutes late, so the brief lands by roughly 07:35 at worst — early enough that the summary stages
-planned in [docs/LLM-SUMMARY.md](docs/LLM-SUMMARY.md) can add their 1–3 minutes without pushing
-delivery past breakfast. And `:10` is deliberate: `:00` and `:30` are the two most congested
-minutes in GitHub's scheduler, and the old cron sat on `:00`. `lookbackHours` covers the whole
-window either way, so a skipped run loses no content.
+The trigger is `07:10`, and that number is doing two jobs. GitHub dispatches this repo's `schedule`
+events 23–25 minutes late in that slot, so the brief lands by roughly 07:35 — early enough that the
+summary stages in [docs/LLM-SUMMARY.md](docs/LLM-SUMMARY.md) can add their time without pushing
+delivery past breakfast. And `:10` is deliberate: `:00` and `:30` are the two most congested minutes
+in GitHub's scheduler, and the old cron sat on `:00`. `lookbackHours` covers the whole window either
+way, so a skipped run loses no content.
+
+Those numbers are measured, not estimated — 28 scheduled runs pulled from the Actions API on
+2026-08-28, written up in [docs/SCHEDULE-DRIFT.md](docs/SCHEDULE-DRIFT.md). Two things in there are
+worth knowing before you touch a time: the delay is entirely GitHub's dispatch step (queueing for a
+runner is `0.0m` and the job itself takes under a minute), and the size of it tracks the **UTC hour**
+far more than the minute — 23:xx UTC drifts 23 minutes, 01:10 UTC drifted 88. The same doc records
+what an Actions incident does to this (5–10 hours on 2026-08-27) and why the issue's date is
+therefore anchored to the cron's intended firing rather than to the clock the run happens to see.
 
 If you set `timezone` to a zone with daylight saving, the generator prints a warning and annotates
 the workflow — a fixed UTC cron is one hour wrong for half the year.
@@ -513,7 +521,7 @@ Five issues go out, listed in the order they arrive. Times are `Asia/Shanghai` (
 | `news-am` | 07:40      | `40 23 * * *` | daily     |              24 | news · cn-news · cn-life                  | mail only  |
 | `news-pm` | 19:10      | `10 11 * * *` | daily     |              12 | news · cn-news · cn-life                  | mail only  |
 | `evening` | 20:10      | `10 12 * * *` | daily     |              13 | tech · ai · cn-tech · security · releases | all        |
-| `weekly`  | Mon 08:00  | `0 0 * * 1`   | Mondays   |      `days: 7`¹ | tech · ai · cn-tech · security · releases | mail only  |
+| `weekly`  | Mon 08:20  | `20 0 * * 1`  | Mondays   |      `days: 7`¹ | tech · ai · cn-tech · security · releases | mail only  |
 
 ¹ `weekly` reads the archive rather than fetching, so it takes `days` instead of `lookbackHours`.
 The `morning` and `news-am` crons carry a `(previous UTC day)` annotation in the workflow: 07:10 and
@@ -524,8 +532,11 @@ Four of the five are defined under `schedules[]` in
 is built from the archive rather than from a fetch — same three steps to change either.
 
 **Why these minutes.** Every trigger avoids `:00` and `:30`, the two most congested minutes in
-GitHub's scheduler. Actions routinely fires 5–30 minutes late, so read each row as "no earlier
-than" — the 07:10 issue lands by roughly 07:35 at worst.
+GitHub's scheduler; `weekly` was the last one sitting on `:00` and moved to 08:20 on 2026-08-28
+after measuring 56 minutes of drift there. Read each row as "no earlier than": measured drift runs
+23–25 minutes for the two 23:xx UTC slots and 48–64 for `evening`, the worst of the daily rows.
+`evening` was left where it is on purpose — five days of data says 12:10 UTC is bad, but not which
+hour would be better.
 
 **Why these hours.** All five now fall inside DeepSeek's off-peak window (peak is UTC 01:00–04:00
 and 06:00–10:00, weekdays only — 09:00–12:00 and 14:00–18:00 CST), so LLM tokens bill at half

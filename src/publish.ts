@@ -1,7 +1,7 @@
 import { parsePublishArgs, PUBLISH_USAGE } from './publish/cli'
 import { loadConfig } from './config/load'
 import { ConfigError } from './config/schema'
-import { ScheduleError } from './schedule/cron'
+import { lastCronOccurrence, ScheduleError } from './schedule/cron'
 import { runPublish } from './publish/run'
 import { renderPublishSummary } from './publish/summary'
 import { createPublisher } from './publish/index'
@@ -57,10 +57,20 @@ async function main(argv: string[]): Promise<number> {
     return 0
   }
 
+  const now = new Date()
+  const scheduledAt = args.cron?.trim() ? lastCronOccurrence(args.cron, now) : null
+  if (scheduledAt) {
+    const lagMinutes = Math.round((now.getTime() - scheduledAt.getTime()) / 60_000)
+    console.log(
+      `[publish] cron "${args.cron}" was due ${scheduledAt.toISOString()} — dispatched ${lagMinutes}min late`,
+    )
+  }
+
   const result = await runPublish({
     config,
     env,
-    now: new Date(),
+    now,
+    scheduledAt,
     ctx,
     ...(args.schedule ? { scheduleId: args.schedule } : {}),
     ...(args.cron ? { cron: args.cron } : {}),

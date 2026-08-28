@@ -210,6 +210,31 @@ describe('publish/run — end to end over a memory archive', () => {
       ...over,
     })
 
+  // The 2026-08-27 daily line (21:30 CST) was dispatched at 07:00 the next morning. Dating
+  // the publication by the run would have published 08-28, a day with no archive yet.
+  it('publishes the day its cron was due, not the day it was dispatched', async () => {
+    const store = fs()
+    const result = await run({
+      fs: store,
+      date: undefined,
+      now: new Date('2026-08-22T23:00:00.000Z'),
+      scheduledAt: new Date('2026-08-22T13:30:00.000Z'),
+    })
+
+    expect(result.days.map((d) => d.publishDate)).toEqual(['2026-08-22'])
+  })
+
+  it('without the anchor the same run publishes the wrong day', async () => {
+    const store = fs()
+    const result = await run({
+      fs: store,
+      date: undefined,
+      now: new Date('2026-08-22T23:00:00.000Z'),
+    })
+
+    expect(result.days.map((d) => d.publishDate)).toEqual(['2026-08-23'])
+  })
+
   it('publishes once and writes the state', async () => {
     const store = fs()
     const result = await run({ fs: store })

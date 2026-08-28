@@ -1,7 +1,7 @@
 import { parseArgs, USAGE } from './cli'
 import { loadConfig } from './config/load'
 import { ConfigError } from './config/schema'
-import { findRunByCron, ScheduleError } from './schedule/cron'
+import { findRunByCron, lastCronOccurrence, ScheduleError } from './schedule/cron'
 import { run } from './core/pipeline'
 import { renderRunSummary, writeStepOutputs, writeStepSummary } from './summary'
 import { collectSecretValues, safeErrorMessage } from './core/redact'
@@ -60,10 +60,24 @@ async function main(argv: string[]): Promise<number> {
   const weekly =
     args.weekly || (Boolean(args.cron?.trim()) && findRunByCron(config, args.cron!).weekly)
 
+  const now = new Date()
+  // The issue is dated by the cron's INTENDED firing, not by when GitHub got round to
+  // dispatching it — see `lastCronOccurrence`. Manual runs have no intended time and keep
+  // the wall clock. The lag is logged because it is the only place it is ever visible:
+  // GitHub reports a late run as perfectly on time.
+  const scheduledAt = args.cron?.trim() ? lastCronOccurrence(args.cron, now) : null
+  if (scheduledAt) {
+    const lagMinutes = Math.round((now.getTime() - scheduledAt.getTime()) / 60_000)
+    console.log(
+      `[brief] cron "${args.cron}" was due ${scheduledAt.toISOString()} — dispatched ${lagMinutes}min late`,
+    )
+  }
+
   const result = await run({
     config,
     configHash,
-    now: new Date(),
+    now,
+    scheduledAt,
     env,
     scheduleId: args.schedule,
     cron: args.cron,

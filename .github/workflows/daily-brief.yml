@@ -8,7 +8,7 @@ on:
     - cron: '10 12 * * *' # evening - 20:10 Asia/Shanghai
     - cron: '40 23 * * *' # news-am - 07:40 Asia/Shanghai (previous UTC day)
     - cron: '10 11 * * *' # news-pm - 19:10 Asia/Shanghai
-    - cron: '0 0 * * 1' # weekly - Mon 08:00 Asia/Shanghai
+    - cron: '20 0 * * 1' # weekly - Mon 08:20 Asia/Shanghai
     # END generated schedule
   workflow_dispatch:
     inputs:
