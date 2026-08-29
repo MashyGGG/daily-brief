@@ -1,0 +1,325 @@
+{
+  "date": "2026-08-29",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-08-29T15:35:40.858Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "236eba1b18b62ade",
+      "title": "俄罗斯对基辅附近一处弹药库发动空袭，造成至少37人死亡",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260829-%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E5%9F%BA%E8%BE%85%E9%99%84%E8%BF%91%E4%B8%80%E5%A4%84%E5%BC%B9%E8%8D%AF%E5%BA%93%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD%EF%BC%8C%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%9137%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-29T14:58:31.000Z",
+      "author": "古莉",
+      "excerpt": "周五深夜至周六凌晨，一架俄罗斯无人机袭击了基辅附近的一个弹药库，造成至少37人死亡，引发大面积火灾和连环爆炸，并再次引发乌克兰国内对在居民区设立此类仓库的批评。",
+      "section": "news",
+      "rankScore": 0.679353
+    },
+    {
+      "id": "fe0e05a20855f80d",
+      "title": "尼日尔首都彻夜枪声 总统卫队与叛军激战 当局称已重新控制局势",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260829-%E5%B0%BC%E6%97%A5%E5%B0%94%E9%A6%96%E9%83%BD%E5%BD%BB%E5%A4%9C%E6%9E%AA%E5%A3%B0-%E6%80%BB%E7%BB%9F%E5%8D%AB%E9%98%9F%E4%B8%8E%E5%8F%9B%E5%86%9B%E6%BF%80%E6%88%98-%E5%BD%93%E5%B1%80%E7%A7%B0%E5%B7%B2%E9%87%8D%E6%96%B0%E6%8E%A7%E5%88%B6%E5%B1%80%E5%8A%BF",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-29T14:25:44.000Z",
+      "author": "古莉",
+      "excerpt": "周六，在尼日尔首都尼亚美，武装部队中的叛变人员与总统卫队在总统府内爆发冲突，此前首都多个街区经历了一夜的激烈枪战。国家电视台的信号一度中断。",
+      "section": "news",
+      "rankScore": 0.66114
+    },
+    {
+      "id": "bfef78a89f004532",
+      "title": "解放报：吉隆山地海啸受灾严重但灾情消息了了",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260829-%E8%A7%A3%E6%94%BE%E6%8A%A5-%E5%90%89%E9%9A%86%E5%B1%B1%E5%9C%B0%E6%B5%B7%E5%95%B8%E5%8F%97%E7%81%BE%E4%B8%A5%E9%87%8D%E4%BD%86%E7%81%BE%E6%83%85%E6%B6%88%E6%81%AF%E4%BA%86%E4%BA%86",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-29T14:21:45.000Z",
+      "author": "瑞迪",
+      "excerpt": "法国暑期休假接近尾声，各方政治力量开始为将在明年举行的总统选举和立法选举热身动员是周末版法国各全国性大报重点关注的国内话题。西藏与比邻的尼泊尔遭遇的严重洪灾仍是各大报纸在国际版特别关注的话题。各报也都特别报道冰岛29日关于是否重启加入欧盟的谈判的公民投票。《费加罗报》以大版篇幅介绍法国民众对教皇良十四9月下旬来法国访问的热情期待。关于中国，《解放报》特别注意到国际媒体聚焦尼泊尔灾情之际，来自同样受灾的藏区的消息却十分有限。该报驻香港记者的报道则特别通过中国葡萄酒业的兴起透视中国奢侈品市场的变迁",
+      "section": "news",
+      "rankScore": 0.658927
+    },
+    {
+      "id": "2462104a073c51d3",
+      "title": "中共前湖北省委书记蒋超良一审被判死缓不得减刑",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E4%B8%AD%E5%85%B1%E5%89%8D%E6%B9%96%E5%8C%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%92%8B%E8%B6%85%E8%89%AF%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%E4%B8%8D%E5%BE%97%E5%87%8F%E5%88%91",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-29T13:35:01.000Z",
+      "author": "古莉",
+      "excerpt": "中共原湖北省委书记蒋超良8月28日被南京中院一审判处死缓。蒋超良被指控从政30多年来，敛财折合人民币超过7.46亿元。该判决规定在死缓转为无期徒刑后，不得减刑或假释。",
+      "section": "news",
+      "rankScore": 0.632964
+    },
+    {
+      "id": "01083388a984ce3b",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-29T15:27:56.000Z",
+      "excerpt": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "section": "news",
+      "rankScore": 0.626126
+    },
+    {
+      "id": "2f8c1c40243e2fba",
+      "title": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
+      "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-29T15:32:21.000Z",
+      "author": "Jeanna Smialek and Amelia Nierenberg",
+      "excerpt": "A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.",
+      "section": "news",
+      "rankScore": 0.55852
+    },
+    {
+      "id": "e403bfc311e6e203",
+      "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+      "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-29T15:25:43.000Z",
+      "excerpt": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
+      "section": "news",
+      "rankScore": 0.555571
+    },
+    {
+      "id": "7058710e49362d64",
+      "title": "James Cleverly resigns from shadow cabinet to run for mayor of London",
+      "url": "https://www.theguardian.com/politics/2026/aug/29/james-cleverly-resigns-conservative-shadow-cabinet-london-mayor",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-29T15:25:34.000Z",
+      "author": "Sammy Gecsoyler",
+      "excerpt": "Shadow minister for housing, communities and local government to resign with immediate effect James Cleverly has resigned from the shadow cabinet to run for mayor of London.",
+      "section": "news",
+      "rankScore": 0.555505
+    },
+    {
+      "id": "80e3cf4571e81e16",
+      "title": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
+      "url": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-29T15:31:44.000Z",
+      "author": "Ken Bensinger and Stuart A. Thompson",
+      "excerpt": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers.",
+      "section": "news",
+      "rankScore": 0.488465
+    },
+    {
+      "id": "7819dbe95f37123a",
+      "title": "Warsh puts Fed on collision course with Trump ahead of midterms",
+      "url": "https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-08-29T12:57:12.000Z",
+      "excerpt": "US central bank chair’s Jackson Hole hint that rates may rise runs counter to the reduction in borrowing costs the US president desires",
+      "section": "news",
+      "rankScore": 0.428369
+    },
+    {
+      "id": "fe4eb0b4a223e830",
+      "title": "The bridges of Rwanda open up new worlds",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda",
+      "source": "npr-news",
+      "publishedAt": "2026-08-29T11:54:36.000Z",
+      "author": "Fatma Tanis",
+      "excerpt": "A charity built 96 bridges to connect communities separated by rivers and gorges. A new study looks at the life-changing impact of a concrete-and-steel pedestrian crossing.",
+      "section": "news",
+      "rankScore": 0.404024
+    },
+    {
+      "id": "d6a3bc0d19a7015b",
+      "title": "中非职业教育合作为非洲培养更多技能人才",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1RCdmJ2TUNCYTNVV1dEeVdJYjJPakwxb01Fdko5eV9nVTJaTWtTUklqR0xzNVk2RVJ5U0F0MWYxbFpKYzFUQlJyU2M0bkVmYTZNZVlpR1dSZ2p5ZjRodXRVZjM2MlVHWlpBdVdlLWJsN3ZNZDI4X3dienVHTG8yd0lpSWlET1E1WTRaTUhjLWtnbXZtbzhjdWZB?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-29T14:06:40.000Z",
+      "excerpt": "中非职业教育合作为非洲培养更多技能人才 新华网客户端 助力“未来非洲”！第十一届ATC大赛开幕 搜狐网 第十一届非洲职业技能挑战赛在山东潍坊举行 chinanews.com.cn 第十一届非洲职业技能挑战赛在山东潍坊开幕 rss.jingjiribao.cn",
+      "section": "news",
+      "rankScore": 0.390329
+    },
+    {
+      "id": "b7f42e9bc8fba1da",
+      "title": "西藏自治区政协向全区各级政协委员发出倡议",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686603.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-29T15:18:53.000Z",
+      "excerpt": "致全区各级政协委员的倡议书",
+      "section": "cn-news",
+      "rankScore": 0.759735
+    },
+    {
+      "id": "23aec70601fb0291",
+      "title": "应急管理部紧急调派隧道专家赴尼泊尔实施国际救援行动",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686492.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-08-29T10:36:43.000Z",
+      "excerpt": "中新网8月29日电 据应急管理部网站消息，应尼泊尔政府请求，8月29日，应急管理部紧急调派5名中方隧道专家，从西藏吉隆搭乘直升机，于北京时间16时58分飞抵尼泊尔灾区，立即投入尼泊尔水电站隧道救援工作。同时，根据救援工作需要，又紧急增派4名中方隧道专家赴尼，全力支持尼泊尔开展隧道救援工作。",
+      "section": "cn-news",
+      "rankScore": 0.64069
+    },
+    {
+      "id": "315e37ebae3b0914",
+      "title": "数智激活电商动能 中国新电商大会共探AI产业新机遇",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686565.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-29T14:03:42.000Z",
+      "excerpt": "中新网吉林8月29日电(记者 苍雁 石洪宇)第六届中国新电商大会29日在吉林省吉林市开幕。大会期间举办的“人工智能+新电商”分论坛上，来自政府、企业和学术界的代表共话AI赋能驱动产业新增长。",
+      "section": "cn-news",
+      "rankScore": 0.58401
+    },
+    {
+      "id": "aa420b46be77226a",
+      "title": "专访前NASA科学家蒋红涛：在宇宙沉默中听文明警钟长鸣",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zcnlzOVVhOXNDWkhkamloeUZzclh2U1Q1QVNreXpVWFR5RkUxb1RvNjFaMzNuOTBaNEFyTWlkaWdUX0o2di1VT3JGZEE2T2wwQjR3M3R6ZDYtbEkwNGhCNA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-29T13:12:00.000Z",
+      "excerpt": "专访前NASA科学家蒋红涛：在宇宙沉默中听文明警钟长鸣",
+      "section": "cn-news",
+      "rankScore": 0.55816
+    },
+    {
+      "id": "0f58474b01a0245d",
+      "title": "气温回落闷热天缓解 江苏沿淮及以南降水有望持续",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BdDVEb0JyMGJzLTBBTHJYNXpBYjc4TDVYcUZxRUE5U3EyeXEyUDc5bTMxT1ZjMEJtNWlQRVZCdTVwMDNscDBiZWllQkxCd2xZMG5RdF9IUHVrWGc3cW4yUmx3b2h5eW9aTnNNd2FmYw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-29T12:16:00.000Z",
+      "excerpt": "气温回落闷热天缓解 江苏沿淮及以南降水有望持续 紫牛新闻",
+      "section": "cn-news",
+      "rankScore": 0.471253
+    },
+    {
+      "id": "da88a96816567a53",
+      "title": "Chinese coastguard has 0.3% chance of using weapons in disputed waters, war game suggests",
+      "url": "https://www.scmp.com/news/china/science/article/3365390/chinese-coastguard-has-03-chance-using-weapons-disputed-waters-war-game-suggests?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-29T14:00:08.000Z",
+      "author": "Chao Kong",
+      "excerpt": "A Chinese coastguard ship is shielding a cluster of fishing boats when several small, fast vessels begin circling – sometimes darting closer, sometimes backing off. Are they just curious fishermen? Or are they probing for a weak spot, trying to lure the patrol ship into a trap?",
+      "section": "cn-news",
+      "rankScore": 0.452843
+    },
+    {
+      "id": "898ddf88c9c0e1d7",
+      "title": "晶采观察丨壮大实体经济根基 未来5年中国工业将这样干",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFSGJxUk53SlpxSzd1aExIejFqd0tmUzhVbXN4VWFRdzJXVFRmY0hPckFzVkhXZE51TVA5cmNaMVZ1NkJZYXRQSnB3VmdrekMwRDZWa0JUTzdlZDRkX0RIdjN3RzZub2R5?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-29T13:48:00.000Z",
+      "excerpt": "晶采观察丨壮大实体经济根基 未来5年中国工业将这样干 紫牛新闻",
+      "section": "cn-news",
+      "rankScore": 0.448124
+    },
+    {
+      "id": "a2f420aca643367b",
+      "title": "吴兴涵替补建功 天津津门虎1-1战平青岛西海岸",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWUWNLTmhKeWF5NEl5NVNkcjZRTnNQcmhpcFB5ekZuNHB6MnBVbXBFaFZWYmx4Rl9seFlPQjhXZ3dGMlNUSHhWWWFoUGV0UXZHT2xqOGtFaHg5Q3Ixd09MaS1SMDlmbnZkVXJwV2lXa0QwbmlpR085bmdGSQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-29T14:14:37.000Z",
+      "excerpt": "吴兴涵替补建功 天津津门虎1-1战平青岛西海岸 央视网体育 （体育）足球——中超：天津津门虎平青岛西海岸 搜狐网 于根伟：上半场整体发挥有些欠缺；结果可以接受，要好好总结 懂球帝 谢维军：戴上队长袖标肩负更多责任，要更加集中考虑整个团队 懂球帝 于根伟：谢蒂内受伤后前场还需更多的变化；球队逐渐走向成熟 懂球帝",
+      "section": "cn-news",
+      "rankScore": 0.392979
+    },
+    {
+      "id": "48a51992a9113d66",
+      "title": "中國連續21個月增持黃金",
+      "url": "https://www.cna.com.tw/news/acn/202608290126.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-29T07:56:40.000Z",
+      "excerpt": "（中央社台北29日電）港媒報導，自2024年11月重啟購金以來，中國人民銀行（央行）已連續21個月增持黃金。截至今年7月底，中國黃金儲備已達7608萬盎司（約2366噸），7月單月增持64萬盎司，創下本輪增持週期的新高。",
+      "section": "cn-news",
+      "rankScore": 0.355994
+    },
+    {
+      "id": "4b3d4509fce10c2f",
+      "title": "李家超：沉痛哀悼西藏泥石流遇難者 賑災基金預留五千萬元作緊急賑災項目之用",
+      "url": "https://hk.news.yahoo.com/%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E9%81%87%E9%9B%A3%E8%80%85-%E8%B3%91%E7%81%BD%E5%9F%BA%E9%87%91%E9%A0%90%E7%95%99%E4%BA%94%E5%8D%83%E8%90%AC%E5%85%83%E4%BD%9C%E7%B7%8A%E6%80%A5%E8%B3%91%E7%81%BD%E9%A0%85%E7%9B%AE%E4%B9%8B%E7%94%A8-130628148.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-08-29T05:06:28.000Z",
+      "excerpt": "【Now新聞台】行政長官李家超稱，沉痛哀悼西藏泥石流遇難者，已從賑災基金預留了五千萬港元，作為緊急賑災項目之用，馬會亦宣布捐款兩千萬港元支援西藏救災工作。李家超在社交平台發文，稱尼泊爾一側發生泥石流災害造成西藏日喀則市、吉隆縣、吉隆口岸重大人命傷亡、失聯，令人無比難過，他對遇難者表示沉痛哀悼，對受災者和遇難者家屬致以深切的慰問，又稱已從賑災基金預留了五千萬港元，賑災基金諮詢委員會將會迅速處理撥款申請。他又衷心感謝所有救援人員，祝願救災行動順利、平安，災民獲得及時支援，早日渡過難關。香港賽馬會亦宣布，透過中聯辦捐款兩千萬港元支援救災工作，祝願受災地區逐步回復正常。 #要聞",
+      "section": "cn-news",
+      "rankScore": 0.245306
+    },
+    {
+      "id": "8aa6b611526cb855",
+      "title": "准确溯源冰岩崩位置 中方部署卫星遥感加强吉隆泥石流灾害监测",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686604.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-29T15:29:32.000Z",
+      "excerpt": "中新社北京8月29日电 (记者 郭超凯 陈溯)记者29日从中国应急管理部获悉，该部部署国家减灾中心启动卫星应急数据获取机制，综合利用应急减灾、资源、高分等系列卫星数据资源，对西藏日喀则市吉隆县泥石流灾害过程开展监测。",
+      "section": "cn-life",
+      "rankScore": 0.835902
+    },
+    {
+      "id": "16a472692901a7f8",
+      "title": "房价能否稳住主要看哪个指标 真实买家的接盘意愿",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tUi1peFRZMDdNSXVlS1dMSFoyUlV4Tmp1RkxUbC1CdlhCbUdQNnBjZ2xTTGpacVczekhNTnBHaUh0blN1OTBGSjJGMnVqQ2tjekxIQ0ZBY2tNaFItWC1OYmJ0NnV3RUFnZEIyU1lNaEU?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-29T15:14:32.000Z",
+      "excerpt": "房价能否稳住主要看哪个指标 真实买家的接盘意愿 中华网",
+      "section": "cn-life",
+      "rankScore": 0.619426
+    },
+    {
+      "id": "c16d383ef5dba23c",
+      "title": "中国地震局公布地震预警信息服务官方渠道：多品牌手机、微信支付宝等均可免费获取",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XdEMyNWlnaUZTaXc0U29VRmtqX3lGbnhvRGN2T0dzOTY3VjJoWHladDZsc1owOHp6bkdZZW0ycGFuOTBIa0JBQkdEbkFZcVdaWEh5dVRWYmVJQ3FaNVkzVG5ycHFhMkN6bWg1RERiYks4V2tQNjBXTVF5Nll0Zw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-29T14:08:17.000Z",
+      "excerpt": "中国地震局公布地震预警信息服务官方渠道：多品牌手机、微信支付宝等均可免费获取 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.586301
+    },
+    {
+      "id": "17847c9a887700c6",
+      "title": "中华人民共和国农业法",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NYnRHQmo3Q25XNmxWdzlONVd5dVJET3dMOTVUenNRenBkRGlrbXY1X2lMLW50SlNGbWpYSUNSU2F0dFZFb2daR3FZZ3ozUUF0WTFSUTc0dUVmaTNHWkN4Sg?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-29T14:11:48.000Z",
+      "excerpt": "中华人民共和国农业法 forestry.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.52272
+    },
+    {
+      "id": "4219a6a9e1fbd596",
+      "title": "汽车质量终身追责真能保护消费者吗？",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpR3d6UTVaZzV1Ri1Na2x2Tkw3MDFkOGtpcGNBTVRSOWhaeXJDeW03ZTg2SUFoLV8yMUE5ZEpKdlp3UEw1UFI3SGEwVjQ1a0RNUjBvTW52azRGT00?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-29T15:01:34.000Z",
+      "excerpt": "汽车质量终身追责真能保护消费者吗？ 车家号",
+      "section": "cn-life",
+      "rankScore": 0.476733
+    },
+    {
+      "id": "0382c00715384ee0",
+      "title": "六年减少5.36万所学校，民办教育正在“洗牌”",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3pJUU9WcE13T0Z3U2VfOTByeDRBdWdhSU1Sd08zc2stRlVNTGQ1cllKbzk3ckpTelZzWUcyOWZyUnI4YlFCM3Rfd0JHcUc3WGJRa1BkeTBueGMyd3QxUDI2SlJPUmk4eFl1NE1ZX0QxaUlKTTU4bFVfeVNTclZyZTF1QQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-29T14:18:04.000Z",
+      "excerpt": "六年减少5.36万所学校，民办教育正在“洗牌” 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.394129
+    },
+    {
+      "id": "16526019fc3c231f",
+      "title": "2026 ESC 心衰指南重磅更新：药物治疗迎来四大变革-yeeyi - yeeyi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41WG10UHRZX2RNWTZFS2UxbnlWMFpmOEtqU05mRjJVd1BrWTFZTEhIbmtDYkRUdjQ1RjVNcEhLSjczV1l4RmpSZWlzTjdZekJlbXFJNzVR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-29T10:20:30.000Z",
+      "excerpt": "2026 ESC 心衰指南重磅更新：药物治疗迎来四大变革-yeeyi yeeyi ESC 2026丨ACASA-TAVI研究抢先看：TAVI术后抗凝vs. 抗血小板策略-MedSci.cn 梅斯医学 MedSci 【速递】欧洲颁布2026版心衰指南—",
+      "section": "cn-life",
+      "rankScore": 0.36743
+    },
+    {
+      "id": "0c2560ed6359e918",
+      "title": "40万公里外“穿针”！我国首次实现地月双向高速激光通信",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aeDBqQm9hQVNCcjAzcktCdDNoM0M5Z05YLW5BS0JQa1hhc3Fpbzh5dHRHOFBvakNpUGMyNUFpOVB4bFRubzFkMjQ2X1ZPamNSNG1iR3NGaXZ6eWdPT3VaTEwxV2lkdw?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-08-29T11:04:00.000Z",
+      "excerpt": "40万公里外“穿针”！我国首次实现地月双向高速激光通信 观察者",
+      "section": "cn-life",
+      "rankScore": 0.274533
+    }
+  ],
+  "warnings": [
+    "source \"jiemian\" failed: TypeError: fetch failed",
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
