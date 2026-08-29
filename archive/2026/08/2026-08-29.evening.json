@@ -1,0 +1,134 @@
+{
+  "date": "2026-08-29",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-08-29T16:41:14.425Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 11,
+  "items": [
+    {
+      "id": "1493d0c0a339a667",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-29T14:02:10.000Z",
+      "score": 283,
+      "author": "pluc",
+      "excerpt": "283 points · 223 comments · https://news.ycombinator.com/item?id=49489982",
+      "section": "tech",
+      "rankScore": 1.063951
+    },
+    {
+      "id": "038adb4eafa53c74",
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "source": "hn-front",
+      "publishedAt": "2026-08-29T11:39:38.000Z",
+      "score": 269,
+      "author": "tosh",
+      "excerpt": "269 points · 325 comments · https://news.ycombinator.com/item?id=49489057",
+      "section": "tech",
+      "rankScore": 0.708929
+    },
+    {
+      "id": "4c476312fbafc13d",
+      "title": "Creepy crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "source": "lobsters",
+      "publishedAt": "2026-08-29T16:25:31.000Z",
+      "author": "people.kernel.org via gmem",
+      "section": "tech",
+      "rankScore": 0.622743
+    },
+    {
+      "id": "103e0d35e1e0db69",
+      "title": "Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models",
+      "url": "https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-29T11:00:00.000Z",
+      "author": "Fabiane Nardon",
+      "excerpt": "Fabiane Nardon shares how TOTVS prepares enterprise data for token-hungry AI agents. She discusses balancing deterministic logic and non-deterministic LLMs across precision, security, and cost.",
+      "section": "tech",
+      "rankScore": 0.525005
+    },
+    {
+      "id": "1f7d66d952a4f7f0",
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "source": "verge",
+      "publishedAt": "2026-08-29T16:01:13.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure.",
+      "section": "tech",
+      "rankScore": 0.475633
+    },
+    {
+      "id": "e9d53956d5a88b69",
+      "title": "I asked 100 companies for my data. Some deleted it instead.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+      "source": "ars-technica",
+      "publishedAt": "2026-08-29T10:50:31.000Z",
+      "author": "Reece Rodgers, wired.com",
+      "excerpt": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+      "section": "tech",
+      "rankScore": 0.364099
+    },
+    {
+      "id": "57f828ec87123f78",
+      "title": "女性在产后遭遇 PTSD",
+      "url": "https://www.solidot.org/story?sid=85231",
+      "source": "solidot",
+      "publishedAt": "2026-08-29T14:52:10.000Z",
+      "excerpt": "东英吉利大学的一项研究认为，英国可能有数万女性在产后经历未诊断的 PTSD（创伤后应激障碍）。PTSD 可能在经历艰难的妊娠或分娩后出现，其症状包括闪回、噩梦、焦虑和持续的负面想法。最新数据显示，2021-2023 年间自杀是英国产后六周至一年内女性死亡的首要原因。研究人员称这些死亡只是冰山一角，有更多女性正遭受严重的心理健康问题困扰，却无法获得所需的帮助。他们的研究表明，每 20 名产后女性就有1人会患上 PTSD。",
+      "section": "cn-tech",
+      "rankScore": 0.708471
+    },
+    {
+      "id": "c9cca9a2238413da",
+      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+      "url": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-29T13:19:17.000Z",
+      "author": "王玮",
+      "section": "cn-tech",
+      "rankScore": 0.596432
+    },
+    {
+      "id": "8de39e8bf480a2cc",
+      "title": "手搓JSVMM第 8 篇：函数调用：参数、返回值与调用帧",
+      "url": "https://juejin.cn/post/7679324747243094062",
+      "source": "juejin",
+      "publishedAt": "2026-08-29T16:00:56.000Z",
+      "author": "泯泷",
+      "excerpt": "1. 本文目标 现在 VM 已经支持表达式、变量和控制流。下一步是函数： 本篇要实现： Function Object FunctionMeta Call Frame 参数传递 Return Addr",
+      "section": "cn-tech",
+      "rankScore": 0.475531
+    },
+    {
+      "id": "b116e1b524c9cbd3",
+      "title": "「中国词元」：芯片、模型、绿电的算术题",
+      "url": "https://www.oschina.net/news/502199",
+      "source": "oschina",
+      "publishedAt": "2026-08-29T10:14:00.000Z",
+      "excerpt": "8 月 28 日周五晚，天际资本创始人张倩和开源中国 CEO 徐勇做了一场直播，聊的是英伟达收购 Hugging Face。直播后半段，徐勇提了一个概念，叫「中国词元」。 这个词是开源中国董事长马越提出来的，还在区块链上做了存证。公式很简单，中国词元=中国芯片+中国模型+中国绿电，这是一笔清晰的成本账。 徐勇讲了他在美国的见...",
+      "section": "cn-tech",
+      "rankScore": 0.451274
+    },
+    {
+      "id": "854f08f33322b3ff",
+      "title": "一枚戒指，估值千亿元",
+      "url": "https://www.36kr.com/p/3960323709894016",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-29T08:10:36.000Z",
+      "author": "36氪的朋友们",
+      "excerpt": "资本市场从来不缺高估值，但这一次的主角有点特别——在AI风劲吹的2026年，它不卖大模型，不搞AI基建，乍看主打产品还是一枚智能戒指。 据彭博社报道，智能戒指制造商Oura计划最早将在9月在美国IPO，预计融资额为30亿美元（折合人民币约202亿元），公司估值将超过160亿美元（折合人民币约1076亿元）。此前的5月，Oura已秘密提交IPO申请，并聘请高盛、摩根士丹利、摩根大通等担任承销商。 假如能够以160亿美元的估值顺利上市，这意味着Oura的市场价值又涨了。要知道，2025年9月完成E轮融资时，Oura的估值还在110亿美元。",
+      "section": "cn-tech",
+      "rankScore": 0.39432
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 187 days old (budget 180d)"
+  ]
+}
