@@ -1,0 +1,322 @@
+{
+  "date": "2026-08-29",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-08-29T04:18:26.907Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "86d7ed8c5c18ed5d",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-29T03:54:11.000Z",
+      "excerpt": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "section": "news",
+      "rankScore": 0.623934
+    },
+    {
+      "id": "38fc962a419a897b",
+      "title": "伊朗：美国加大制裁压力，中国对美表现强硬，但是……",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260828-%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%A4%A7%E5%88%B6%E8%A3%81%E5%8E%8B%E5%8A%9B%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%BE%8E%E8%A1%A8%E7%8E%B0%E5%BC%BA%E7%A1%AC%EF%BC%8C%E4%BD%86%E6%98%AF",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-28T23:44:13.000Z",
+      "author": "阿曼亭",
+      "excerpt": "法国世界报本周三表示，面对美国就伊朗及其贸易伙伴不断加大制裁压力，中国对美国表现强硬，但同时也避免与美国发生新的严重冲突。",
+      "section": "news",
+      "rankScore": 0.623825
+    },
+    {
+      "id": "5b121ce92ea50733",
+      "title": "Icelanders Are Voting on E.U. Membership Talks. Here’s What to Know.",
+      "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-29T04:01:14.000Z",
+      "author": "Amelia Nierenberg",
+      "excerpt": "The Nordic nation is holding a referendum on Saturday on whether to start membership talks with the European Union. Voters are divided.",
+      "section": "news",
+      "rankScore": 0.556174
+    },
+    {
+      "id": "90938fd354487299",
+      "title": "‘The butcher may be gone, but to many he is a hero’: victims condemn glorification of Mladić",
+      "url": "https://www.theguardian.com/world/2026/aug/29/bosnia-reaction-death-ratko-mladic",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-29T04:00:17.000Z",
+      "author": "Kim Willsher",
+      "excerpt": "Architect of Srebrenica genocide is dead but those scarred by his atrocities say his ideology is still shockingly pervasive To most of the world, he was and will always be the “Butcher of Bosnia”, a grim epithet but one that still fails to fully convey the evil and horror inflicted on its people…",
+      "section": "news",
+      "rankScore": 0.555963
+    },
+    {
+      "id": "77c4f327ada14769",
+      "title": "Ecuador sentences ex-president Moreno to five years in jail in bribery case",
+      "url": "https://www.aljazeera.com/news/2026/8/29/ecuador-sentences-ex-president-moreno-to-five-years-in-jail-in-bribery-case?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-29T03:48:25.000Z",
+      "excerpt": "Lenin Moreno, 73, has also been permanently barred from holding any public office in the future.",
+      "section": "news",
+      "rankScore": 0.553326
+    },
+    {
+      "id": "380ef02e4370eacf",
+      "title": "「因古老而安全」：為何舊技術有時更能防範黑客攻擊？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yd3r9rzyzo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-28T09:14:33.000Z",
+      "excerpt": "對黑客攻擊的擔憂，促使一些人轉而使用那些被新一代網絡罪犯忽略的技術。",
+      "section": "news",
+      "rankScore": 0.458701
+    },
+    {
+      "id": "fbf90cac88a56e52",
+      "title": "The Chinese brand that wants to lead Europe’s trail-running pack",
+      "url": "https://www.ft.com/content/e8e3d7b1-2955-4b55-aa76-cb3f18aacc8c?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-08-29T01:00:07.000Z",
+      "excerpt": "Baggio Zhong’s Kailas is making an overseas push with its Fuga label",
+      "section": "news",
+      "rankScore": 0.451435
+    },
+    {
+      "id": "afd69ffc4dd0a8fa",
+      "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
+      "source": "npr-news",
+      "publishedAt": "2026-08-29T00:06:04.000Z",
+      "author": "Juliana Kim",
+      "excerpt": "His removal order was triggered by two convictions from over 15 years ago, when he struggled with untreated PTSD. New York's governor said Park earned a \"second chance through rehabilitation.\"",
+      "section": "news",
+      "rankScore": 0.440926
+    },
+    {
+      "id": "cb88c40025f9d7d8",
+      "title": "Critics Blast Metropolitan Museum’s Plan to Honor John Galliano",
+      "url": "https://www.nytimes.com/2026/08/28/style/galliano-met-gala-critics.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-28T23:47:25.000Z",
+      "author": "Vanessa Friedman and Jacob Bernstein",
+      "excerpt": "Galliano, a fashion industry giant championed by Anna Wintour, was found guilty of a hate crime for his antisemitic outbursts in 2011.",
+      "section": "news",
+      "rankScore": 0.437299
+    },
+    {
+      "id": "905d512520825c10",
+      "title": "冰岛再议加入欧盟 折射欧洲安全格局新变化",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YVnlscXd5WnNQdDVOM3A2SVlQYV9hUWRRcjhDSXpuMEtMVElGWjlrMURiUDYyWDNtUkR3Z1BLR1oxbjRGMXZWNjh6dzluZHUyWGpYOVFwRk5va0paS2c?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-29T03:19:18.000Z",
+      "excerpt": "冰岛再议加入欧盟 折射欧洲安全格局新变化 同花顺 特朗普紧盯格陵兰：安全议题成为冰岛欧盟公投的胜负关键 新浪财经 冰岛就重启入欧盟谈判公投，安全议题升温 币界网 视频 | 入不入欧盟 冰岛民众很割裂 搜狐网 冰岛就加入欧盟谈判举行投票，在安全与主权间权衡 华尔街日报中文网",
+      "section": "news",
+      "rankScore": 0.410142
+    },
+    {
+      "id": "07289146cece5a5b",
+      "title": "标志性公约签署65周年 难民署呼吁采取新举措防止无国籍状态",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142705",
+      "source": "un-news-zh",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
+      "excerpt": "在1961年《减少无国籍状态公约》缔结65周年之际，联合国难民署呼吁重申政治承诺，确保每个人都能享有国籍权。难民署国表示，全球至少有450万人属于无国籍或国籍不明，还有数百万人受到这一问题影响但未被官方数据记录。",
+      "section": "news",
+      "rankScore": 0.385388
+    },
+    {
+      "id": "012fee26064decc2",
+      "title": "As the Himalayas melt, deadly floods become the new normal",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168227",
+      "source": "un-news-en",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
+      "excerpt": "A day before a wall of ice, rock and muddy water tore through Himalayan valleys along the Nepal-China border, Dipesh Chapagain was discussing with a colleague just how devastating such a disaster could be.",
+      "section": "news",
+      "rankScore": 0.256925
+    },
+    {
+      "id": "3051440b14085172",
+      "title": "我国首次实现地月双向高速激光通信",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686328.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-29T03:51:29.000Z",
+      "excerpt": "记者从中国科学院空间应用工程与技术中心获悉，日前，我国在地月激光通信试验任务中取得重要突破，成功在超过40万公里的地月距离上建立起双向激光链路，首次实现地月双向高速激光通信。这标志着我国空间激光通信正式从近地轨道迈入地月空间。",
+      "section": "cn-news",
+      "rankScore": 0.761761
+    },
+    {
+      "id": "63099488b08407d3",
+      "title": "西藏林芝市迅速处置新增风险冰湖隐患",
+      "url": "https://www.jiemian.com/article/15026230.html",
+      "source": "jiemian",
+      "publishedAt": "2026-08-29T04:18:02.000Z",
+      "author": "jianli@jiemian.com(界面快报)",
+      "excerpt": "林芝市水利局官微消息，根据西藏自治区《自然资源冰湖信息专报》，林芝市工布江达县新发现一处风险冰湖点位，该冰湖上方冰雪层出现裂隙，存在冰体崩塌、冰湖溃决风险，直接威胁下游沿线群众生命财产安全。林芝市水利局及时下发做好风险冰湖监测防治工作提醒，摸排冰湖下游村庄保护对象，排查下游底数，明晰防护重点。充分利用乡村级防汛责任人与驻村工作力量开展风险冰湖下游巡查排查工作，提醒下游居民在出现河水突涨、浑浊、断流或发生轰鸣等异常现象时，第一时间组织人员撤离。要求属地乡镇全面摸清风险底数，针对性制定防控措施，完善临灾预警、人员转移避险预案。",
+      "section": "cn-news",
+      "rankScore": 0.699885
+    },
+    {
+      "id": "f7ce5b40a3cf02d2",
+      "title": "稳中有进 提质增效 中国建设银行公布2026年半年度经营业绩",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686331.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-29T04:05:23.000Z",
+      "excerpt": "2026年8月28日，中国建设银行(股票代码SH:601939；HK:00939)公布2026年半年度经营业绩。",
+      "section": "cn-news",
+      "rankScore": 0.626734
+    },
+    {
+      "id": "76a32fa4f30f96ab",
+      "title": "房产投资大V称被MCN追索2亿违约金，合作方回应称已报警",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IRDZPUFhMdE1MamlVYUpQMG9fekZQS1g3eUowMW1vYVBoNll6UThvTjdNczJaSUZsSmlsUFdMb2t3dVZNOThBQTBienhuZmlyTDhKX28zd2hBcGdWZDRmNQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-29T02:32:00.000Z",
+      "excerpt": "房产投资大V称被MCN追索2亿违约金，合作方回应称已报警",
+      "section": "cn-news",
+      "rankScore": 0.603388
+    },
+    {
+      "id": "d5c3325083021abe",
+      "title": "特稿丨为构建中吉命运共同体注入新动力——吉尔吉斯斯坦各界期待习近平主席对吉进行国事访问",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa0JfUndENVgyZnZ4a0l6TFVCaktsd0pJLTNDOU9uaWI1bWJiblFleExQNkw4Nk82TUl2ekpnRzE0eU5pYTZ4cVQ0eTFkSmU0TTQycG16NXdLOGpzZ2VtTUszd2paVVZ1cDZFaVpoQzVVNW5hdzdmMnNIeUJDbml5Y19HVEtmcUxSRHMwUXpjejZmRDU5ZW1tTzln?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-29T03:50:39.000Z",
+      "excerpt": "特稿丨为构建中吉命运共同体注入新动力——吉尔吉斯斯坦各界期待习近平主席对吉进行国事访问 新华网客户端 众行致远｜做“上海精神”的火炬手 央视网 跟着习主席看世界 | 走进吉尔吉斯斯坦：山水相依 民心相亲 中国日报网 学习手记丨坚持睦邻友好 携手共享繁荣 新华网 全球媒体聚焦｜上合峰会：擘画地区未来数十年稳定发展蓝图 光明网",
+      "section": "cn-news",
+      "rankScore": 0.553823
+    },
+    {
+      "id": "0c6630c813bd712b",
+      "title": "西藏土石流災情 中國啟動精細輿論審查",
+      "url": "https://www.cna.com.tw/news/acn/202608290064.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-29T03:20:22.000Z",
+      "excerpt": "（中央社台北29日電）尼泊爾與中國西藏邊境地區近日發生大規模洪災及土石流後，「中國數字時代」（CDT）敏感詞檢測編輯對「德國之聲」（DW）表示，中國審查機器立即啟動，進行了技術精確的輿論審查。",
+      "section": "cn-news",
+      "rankScore": 0.547093
+    },
+    {
+      "id": "ba316a3c895f1a0b",
+      "title": "China tests GJ-21 stealth drone as Sichuan Type 076 warship carries out sea trials",
+      "url": "https://www.scmp.com/news/china/military/article/3365654/china-tests-gj-21-stealth-drone-sichuan-type-076-warship-carries-out-sea-trials?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-29T04:00:16.000Z",
+      "author": "Albee Zhang",
+      "excerpt": "China’s GJ-21 large stealth attack drone has been spotted on flight tests this month, as the country’s first Type 076 amphibious assault ship – the vessel that will launch the drone – enters its final sea trials.",
+      "section": "cn-news",
+      "rankScore": 0.486465
+    },
+    {
+      "id": "405aca5c499725ed",
+      "title": "兖矿能源(600188.SH)：2026年中报净利润为74.73亿元、同比较去年同期上涨45.05%",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qclk2cmRaVnY3WkxITGxxTDhyT0tjRFdYR2xFVVhDb1VsM1NVVXVxdllDXzdUUU14R29JY0ZqOS1UTTFTYkczTWxFWDVEZXBucHMtUVVjdmNkanZZQjZDR3JhVFdyZw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-29T01:58:22.000Z",
+      "excerpt": "兖矿能源(600188.SH)：2026年中报净利润为74.73亿元、同比较去年同期上涨45.05% 东方财富 兖矿能源(01171)发布中期业绩，股东应占净收益78.75亿元 同比增加57.2% 新浪财经 净利增近五成再推中期分红 兖矿能源拟每股派现0.2元 证券之星 图解兖矿能源中报：第二季度单季净利润同比增长55.33% 搜狐网 [中报]兖矿能源(600188):兖矿能源集团股份有限公司2026年半年度报告摘要 中财网",
+      "section": "cn-news",
+      "rankScore": 0.462762
+    },
+    {
+      "id": "524e2701d1c4f9e0",
+      "title": "蒋超良一审被判死缓",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685984.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-08-28T09:02:07.000Z",
+      "excerpt": "原标题：十四届全国人大常委会原委员、全国人大农业与农村委员会原副主任委员蒋超良受贿案一审宣判",
+      "section": "cn-news",
+      "rankScore": 0.454556
+    },
+    {
+      "id": "8cf39b9daaf3cc62",
+      "title": "长春电影节：为中国电影“守根”的七年之约",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14b0o4a3ZFUHVmbFNZdHZYMGUyaXYweTF1WUJWQzR5b2Rmb181R0I3cWpCXzM2SW1FN1BjbEJpWUVyRzVId1N6NnZn?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-29T04:02:42.000Z",
+      "excerpt": "长春电影节：为中国电影“守根”的七年之约 凤凰网 光影映春城 产兴都市圈 第二十一届中国长春电影节文化产业推介活动举行 央视网 “光影筑梦·影艺焕新”影视行业发展主题研讨会在长春举办- 中国日报网 China Daily 第二十一届中国长春电影节闭幕式取消红毯环节及“超现场”等直播活动 新京报 情系家国，同心守望：长春电影节取消红毯环节 thepaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.417375
+    },
+    {
+      "id": "a91bc7006238966f",
+      "title": "第十六届中国航展倒计时100天启动仪式在珠海举行",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686329.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-29T03:55:53.000Z",
+      "excerpt": "中新网珠海8月29日电 (记者 邓媛雯)第十六届中国航展倒计时100天启动仪式暨“世界航展对话”活动28日在广东珠海举行。来自地方政府、领军企业代表齐聚一堂，共话中国航展与全球航空航天、智能制造等领域的新机遇，传递中国航空航天产业开放共赢的发展愿景。",
+      "section": "cn-life",
+      "rankScore": 0.832478
+    },
+    {
+      "id": "3b1e3c5abd2e3abb",
+      "title": "3岁以下婴幼儿到底能不能吃糖",
+      "url": "https://www.chinanews.com.cn/life/2026/08-29/10686294.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-08-29T01:52:02.000Z",
+      "excerpt": "3岁以下婴幼儿能不能吃糖？如何科学地吃糖，将健康风险降到最低？这是不少新手爸妈的困惑，甚至有家长谈“糖”色变，试图将所有的糖拒之门外。",
+      "section": "cn-life",
+      "rankScore": 0.659329
+    },
+    {
+      "id": "d7c05de1012c74fc",
+      "title": "受台风“沙德尔”影响 29日湘中、湘南部分地区有大到暴雨 局地大暴雨",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93ZUt2R0N0elYyQzJrZ0dyck5PcUhkdWlRdUFhZGZFd1BtUU9jaFlQVVRkeWx2NlE3VVYyMExFTkRUbDNROXBoczBaYmw5N0M0MWZZRXBHSGJGWm9fYWt3?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-29T04:02:00.000Z",
+      "excerpt": "受台风“沙德尔”影响 29日湘中、湘南部分地区有大到暴雨 局地大暴雨 华声在线",
+      "section": "cn-life",
+      "rankScore": 0.625888
+    },
+    {
+      "id": "6b602d447e330cc1",
+      "title": "观“湘”门丨残疾人就业创业 湘潭如何先行一步",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDhJVlZ1NDY5MDIxLVN1RkVhQ3kyTXAzcTFsTWdSLTFnX3dMT3pQUmNJWkFzazdOeklXT2ttMHA2aEZCRnhLdlJLSUJldHMwUHZENVZGYkM0Q3BIRTNUSWxvNHhOSnFiYXA4LWJ2bjRBdmk3c1BxallmRDlOVWk3TkpTbG01bUEwSl8xZQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-29T03:30:04.000Z",
+      "excerpt": "观“湘”门丨残疾人就业创业 湘潭如何先行一步 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.617905
+    },
+    {
+      "id": "a2f2791b63a6e406",
+      "title": "事关退休！苏州市社保中心权威答疑",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNlo2dUYzQjAzNTgydllZY0Vfc1pBeFZLZ2FMcHBWWVA4Q2RWbFY2c3hxLWhhQzdES1h6dzJCQ3lncW9nUmlxUlZHdFJEREJodjhEU1BneUFuLUpnVmhtQW5TOXdQbWZyRHVuWWg2UE1mWTc5c1lLQjRBUmpUUzVIMy1hNlE3Nk9hUXBr?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-29T01:26:00.000Z",
+      "excerpt": "事关退休！苏州市社保中心权威答疑 suzhou.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.521678
+    },
+    {
+      "id": "544dc86f629a50b2",
+      "title": "几百万辆汽车召回！具体生产日期范围公布，涉及多个品牌！快看和你有关吗【山东商报·山海新闻】",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUkpCUmFGaHFaVTB5a01ob1d2WDI5dzFEY19veUZOMzNrM2FWQ0ZmSDJvQ3NuYjI3czM3MHhudUtrd08yaGt2cWFyM3lrWkR2MFp2VGNYZzhzYXN2UDlGczNSUm93dWcyTnN0RmFPNUgtX2lmR0h2VjBxa2hVYk9MMXRMNy1yM28yRFlsY0dn?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-29T03:57:55.000Z",
+      "excerpt": "几百万辆汽车召回！具体生产日期范围公布，涉及多个品牌！快看和你有关吗【山东商报·山海新闻】 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.486008
+    },
+    {
+      "id": "c71a10fa66b3f70c",
+      "title": "宫颈癌筛查可以改变命运吗",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaSk10VnJ6U0FuV2Z6N3dnVnlGUV9vbGdYZHdvRnJZa3VQNGl1bGpVWU1jbVRfRkJTZFgtUTNlb05UNmNOVEpCeU9tMlNWbDdYRmN0Q0hSUmM2VjBt?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-29T00:40:00.000Z",
+      "excerpt": "宫颈癌筛查可以改变命运吗 网易新闻客户端 2026年肿瘤预防与控制学术会议召开 专家呼吁宫颈癌前病变应减少过度治疗，保护生育力 新华网",
+      "section": "cn-life",
+      "rankScore": 0.447524
+    },
+    {
+      "id": "f86b0dfd71b8e0e1",
+      "title": "@各位家长，孩子入学，这些教育服务在线办→",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3U0MmRBS1dIeUJ2TDRPS1NxOEdVQ0RCeGR4a0J4YjRMdjdpa1djYmFuZ2JJbUt4bUpBVW51cWxrTGpYc1h2N1ZiS2dvQXhpc0QyOTlkdlRqVDdycjNOYzM2RlhnVHpEVzBhNFZOaHRyQkQ5SWJJSkZqQ1Zfb2kwVmdyYmRoVjhYQ3YyVQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-29T04:02:52.000Z",
+      "excerpt": "@各位家长，孩子入学，这些教育服务在线办→ 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.417403
+    }
+  ],
+  "warnings": [
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
