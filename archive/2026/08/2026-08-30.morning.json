@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-30",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-08-30T01:13:49.073Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "dd56f468d7e94484",
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+      "source": "hn-front",
+      "publishedAt": "2026-08-29T18:44:37.000Z",
+      "score": 290,
+      "author": "firefax",
+      "excerpt": "290 points · 44 comments · https://news.ycombinator.com/item?id=49492219",
+      "section": "tech",
+      "rankScore": 1.103741
+    },
+    {
+      "id": "e91ca15feadb1c84",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "source": "hn-front",
+      "publishedAt": "2026-08-29T17:19:47.000Z",
+      "score": 244,
+      "author": "gpi",
+      "excerpt": "244 points · 56 comments · https://news.ycombinator.com/item?id=49491568",
+      "section": "tech",
+      "rankScore": 0.850249
+    },
+    {
+      "id": "66811d002eee11b6",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "source": "hn-front",
+      "publishedAt": "2026-08-29T06:06:51.000Z",
+      "score": 245,
+      "author": "ingve",
+      "excerpt": "245 points · 92 comments · https://news.ycombinator.com/item?id=49487341",
+      "section": "tech",
+      "rankScore": 0.718674
+    },
+    {
+      "id": "ff653755faeddd55",
+      "title": "Omnipresent availability risks in cloud software",
+      "url": "https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-29T22:17:35.000Z",
+      "author": "surfingcomplexity.blog via azhenley",
+      "section": "tech",
+      "rankScore": 0.585941
+    },
+    {
+      "id": "35f9f68018eba9dc",
+      "title": "Cloudflare Workers Accept Inbound TCP, with gRPC the First Protocol on Top",
+      "url": "https://www.infoq.com/news/2026/08/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-29T09:55:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "Cloudflare Workers can now accept inbound TCP connections through a new connect(socket) handler routed via Spectrum, ending an eight-year restriction to HTTP. Containers get full-duplex gRPC in any language, while Workers get unary and server-streaming through automatic gRPC-web translation.",
+      "section": "tech",
+      "rankScore": 0.444773
+    },
+    {
+      "id": "dae6a9c3b8fa3b73",
+      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+      "source": "verge",
+      "publishedAt": "2026-08-29T20:59:26.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing […]",
+      "section": "tech",
+      "rankScore": 0.440536
+    },
+    {
+      "id": "6dc869bf119ea78b",
+      "title": "Introducing Hy4 Preview",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-29T23:53:13.000Z",
+      "excerpt": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000…",
+      "section": "ai",
+      "rankScore": 0.813133
+    },
+    {
+      "id": "c778dfde68a96753",
+      "title": "日韩上半年人口都出现增长",
+      "url": "https://www.solidot.org/story?sid=85230",
+      "source": "solidot",
+      "publishedAt": "2026-08-29T14:15:15.000Z",
+      "excerpt": "韩国和日本两国今年上半年人口都恢复了增长： 韩国上半年累计出生人口为 14.5804 万人，同比增加 1.943 万人，增幅为 15.4%，出生人口规模为近7年同期之最，增加规模和增幅双双创下历史最高纪录。分析认为出生人数增加主要是因为婚姻登记数自疫后的 2023 年 5 月起呈现增加势头、30 多岁女性人口增加，以及婚姻及生育的观念变化。2024 年和 2025 年的下半年出生人口均高于同年上半年，若按照这一趋势下去，今年全年总和生育率有可能回升至 0.9 以上。",
+      "section": "cn-tech",
+      "rankScore": 0.568771
+    },
+    {
+      "id": "88cfa8eaf995b429",
+      "title": "Debian 项目将允许以负责任的方式使用生成式 AI",
+      "url": "https://www.solidot.org/story?sid=85229",
+      "source": "solidot",
+      "publishedAt": "2026-08-29T13:37:00.000Z",
+      "excerpt": "Debian 项目对是否允许使用 AI 进行了投票表决，投票采用孔多塞投票法，共有 9 个选项，最终结果是第 5 选项“负责任的使用生成式 AI”获胜。Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。无论是否使用生成式 AI 工具，Debian 项目希望提交的内容都符合相同的质量、正确性、可维护性和法律合规性标准。使用生成式 AI 工具不会减少责任。",
+      "section": "cn-tech",
+      "rankScore": 0.557083
+    },
+    {
+      "id": "6ee695774fc1db9f",
+      "title": "人形机器人的跑步方式与人类不同",
+      "url": "https://www.solidot.org/story?sid=85228",
+      "source": "solidot",
+      "publishedAt": "2026-08-29T10:46:44.000Z",
+      "excerpt": "北京人形机器人创新中心研发的通用人形机器人天工在世界人形机器人运动会上跑出了 100 米 8.64 秒的成绩，远超博尔特（Usain Bolt）于 2009 年创下的 100 米 9.58 秒的人类世界纪录。机器人的平均速度接近 42 公里/时。专家表示，这一成绩凸显了机器人的强大，也凸显了它们在决策和感知等方面的不足——人形机器人都是靠撞软垫的方式刹车的。人形机器人的跑步方式与人类不同：首先是博尔特的起跑仅仅花了 0.146 秒，相比下机器人等了近 1 秒钟才反应过来开始移动；博尔特仅用 41 步就完成了 100 米，而机器人花了 50 多步，机器人的步频更快步幅更短。",
+      "section": "cn-tech",
+      "rankScore": 0.505057
+    },
+    {
+      "id": "15e4edf7bec72c7c",
+      "title": "Agent 时代，为什么有人开始重新造 Google？",
+      "url": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-29T12:00:00.000Z",
+      "author": "蔡芳芳",
+      "section": "cn-tech",
+      "rankScore": 0.479495
+    },
+    {
+      "id": "1b2f7d5092999c3e",
+      "title": "AI 时代的代码库，为什么成了兵家必争之地",
+      "url": "https://www.oschina.net/news/502198",
+      "source": "oschina",
+      "publishedAt": "2026-08-29T10:10:03.000Z",
+      "excerpt": "前阵子有一条新闻，圈里人聊得不少。OpenAI 的智能体，为了在 Hugging Face 的评测榜单上拿第一，主动攻击了 Hugging Face，想把评测题目直接拿走，而且在很短时间内发动了极其大量的请求。 这件事放在以前，可能只是条安全新闻。放在今天，它反映了一个新问题，AI 时代的代码库，正在变成兵家必争之地。 8 月 28 日周五...",
+      "section": "cn-tech",
+      "rankScore": 0.404058
+    },
+    {
+      "id": "4b74496fc02f36fe",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-29T16:25:03.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.",
+      "section": "security",
+      "rankScore": 0.55312
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"react-blog\" looks stale: newest item is 187 days old (budget 180d)",
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
