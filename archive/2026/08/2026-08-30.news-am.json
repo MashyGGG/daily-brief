@@ -1,0 +1,322 @@
+{
+  "date": "2026-08-30",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-08-30T01:37:17.822Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "64addf9ef4675696",
+      "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
+      "url": "https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-30T00:14:20.000Z",
+      "excerpt": "接二連三的失敗，令外界對機械人全面接管披薩餐廳製作流程的前景失去信心。",
+      "section": "news",
+      "rankScore": 0.812345
+    },
+    {
+      "id": "d547946c74c5c074",
+      "title": "户上隼辅击败樊振东：乒乓球德国杯上，杜塞尔多夫队在第一轮比赛中出局",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260829-%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%E5%87%BB%E8%B4%A5%E6%A8%8A%E6%8C%AF%E4%B8%9C-%E4%B9%92%E4%B9%93%E7%90%83%E5%BE%B7%E5%9B%BD%E6%9D%AF%E4%B8%8A%EF%BC%8C%E6%9D%9C%E5%A1%9E%E5%B0%94%E5%A4%9A%E5%A4%AB%E9%98%9F%E5%9C%A8%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%AF%94%E8%B5%9B%E4%B8%AD%E5%87%BA%E5%B1%80",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-29T21:19:12.000Z",
+      "author": "安东尼",
+      "excerpt": "8月29日，乒乓球德国杯1/8决赛在德国纽伦堡市举行，中国名将樊振东效力的杜塞尔多夫俱乐部以1比3不敌奥克森豪森队，无缘八强。",
+      "section": "news",
+      "rankScore": 0.628306
+    },
+    {
+      "id": "f0b1c34da458a251",
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-30T00:17:25.000Z",
+      "excerpt": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "section": "news",
+      "rankScore": 0.61003
+    },
+    {
+      "id": "d2a8ba0e3cee6a2b",
+      "title": "News live: limits on smartglasses being considered, Plibersek says; missing Australian woman located safely in Nepal",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-30T01:26:22.000Z",
+      "author": "Luca Ittimani",
+      "excerpt": "‘My heart goes out to all the Nepalese families who are grieving loved ones,’ Cara Severino says. Follow latest updates live Joyce explains One Nation’s migration policy with sheep and cattle Barnaby Joyce has used sheep and cattle to illustrate his claim that One Nation wants to cut net overseas…",
+      "section": "news",
+      "rankScore": 0.557571
+    },
+    {
+      "id": "d5fd8df0c6a6e259",
+      "title": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
+      "url": "https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-30T00:16:58.000Z",
+      "excerpt": "Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.",
+      "section": "news",
+      "rankScore": 0.542149
+    },
+    {
+      "id": "8c578476080ae608",
+      "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
+      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-29T23:06:06.000Z",
+      "author": "Binod Ghimire and Mujib Mashal",
+      "excerpt": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
+      "section": "news",
+      "rankScore": 0.526401
+    },
+    {
+      "id": "417706ee93fc1367",
+      "title": "A MAGA Uproar Ensued After a Bill Was Given a Nick Shirley Nickname",
+      "url": "https://www.nytimes.com/2026/08/29/us/stop-nick-shirley-immigration-shield-california.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-30T00:59:15.000Z",
+      "author": "Laurel Rosenhall",
+      "excerpt": "A privacy measure for immigration aid workers became a free speech cause for backers of Mr. Shirley, a right-wing YouTube star. Democrats say the furor is fueled by misinformation.",
+      "section": "news",
+      "rankScore": 0.482602
+    },
+    {
+      "id": "8014c41a5006305b",
+      "title": "【子午播报】2026年8月29日",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142711",
+      "source": "un-news-zh",
+      "publishedAt": "2026-08-29T12:00:00.000Z",
+      "excerpt": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，联合国全力以赴驰援中尼灾区；77年前的今天：苏联打破美国核垄断地位；《欢迎来龙餐馆》导演文牧野做客《联合国会客厅》，聊聊战争与儿童保护。",
+      "section": "news",
+      "rankScore": 0.425676
+    },
+    {
+      "id": "6dedbaeb5f152643",
+      "title": "伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiQ2s4MFNONjY0NzVQam45UU4xS1dybW0xOEN4N1F1eU9Ccnp0VUM4V3pfRktZejdmR01TTHNsYVRQbmNVbFdpaXl1b0RGZ3hrU2lr?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-30T00:16:46.000Z",
+      "excerpt": "伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡 第一财经 霍尔木兹海峡，有新消息 finance.sina.com.cn 伊朗副外长称不急于重新开放霍尔木兹海峡 finance.sina.com.cn 伊朗缘何“双轨话术”应对海峡僵局 政治与军事的协调配合 中华网 伊朗：霍尔木兹海峡临时航线谅解达成 仅限商船通行 观察者",
+      "section": "news",
+      "rankScore": 0.406578
+    },
+    {
+      "id": "c1d0436f77e9b385",
+      "title": "Warsh charts a forward-looking path for the Fed at Jackson Hole",
+      "url": "https://www.ft.com/content/4319c6b7-5a25-41a7-836f-ca068ac4fe60?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-08-29T16:28:50.000Z",
+      "excerpt": "This might be remembered as a moment when the central bank switched approach",
+      "section": "news",
+      "rankScore": 0.383354
+    },
+    {
+      "id": "22c71faaffafdc9a",
+      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+      "source": "npr-news",
+      "publishedAt": "2026-08-29T15:54:40.000Z",
+      "author": "The Associated Press",
+      "excerpt": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.",
+      "section": "news",
+      "rankScore": 0.376711
+    },
+    {
+      "id": "ee04ce6a0834d1af",
+      "title": "Rising seas, rising stakes: What increasing sea-levels mean to humanity",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168206",
+      "source": "un-news-en",
+      "publishedAt": "2026-08-29T12:00:00.000Z",
+      "excerpt": "The ocean is rising faster now than at any point in recorded history. The impacts are already being felt and the threats are growing.",
+      "section": "news",
+      "rankScore": 0.283784
+    },
+    {
+      "id": "fc474dc33026b032",
+      "title": "王毅同尼泊尔外长通电话：面对灾情，两国要坚定站在一起",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686608.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-08-29T22:08:37.000Z",
+      "excerpt": "中新社北京8月29日电 中共中央政治局委员、外交部长王毅29日同尼泊尔外长希西尔通电话。",
+      "section": "cn-news",
+      "rankScore": 0.77044
+    },
+    {
+      "id": "7cbda1b171912d64",
+      "title": "习言道｜从习近平引用古语中，感受何为“上合”",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686654.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-30T01:26:03.000Z",
+      "excerpt": "今年是上海合作组织成立25周年。习近平主席将出席在吉尔吉斯斯坦首都比什凯克举行的2026年上海合作组织峰会。",
+      "section": "cn-news",
+      "rankScore": 0.766563
+    },
+    {
+      "id": "229ed1c91a31fdd8",
+      "title": "常冰玉击败“世界第一”赵心童，首夺排名赛冠军",
+      "url": "https://www.jiemian.com/article/15029237.html",
+      "source": "jiemian",
+      "publishedAt": "2026-08-30T01:18:41.000Z",
+      "author": "jianli@jiemian.com(界面快报)",
+      "excerpt": "在8月29日进行的2026世界斯诺克武汉公开赛决赛中，00后“黑马”常冰玉10∶7击败“世界第一”赵心童，拿下2026世界斯诺克武汉公开赛冠军，职业生涯首夺排名赛冠军。",
+      "section": "cn-news",
+      "rankScore": 0.69483
+    },
+    {
+      "id": "605e6515e1f00bb8",
+      "title": "黑色八月：战火烧进俄罗斯人的购物车，俄乌冲突逼近临界点？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XQ0hPbHZVQjhOXzIyaVU4a0lHVmZhQWZjMWVoa3JkN1ZmcTlPRlhZa0pSY0VoZ2ZpbS14S0w0OVN3M1hwb3VObG9SNWRVcmhZemJpNDRNNEFQVjhFVHZqZg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-29T23:33:00.000Z",
+      "excerpt": "黑色八月：战火烧进俄罗斯人的购物车，俄乌冲突逼近临界点？",
+      "section": "cn-news",
+      "rankScore": 0.598926
+    },
+    {
+      "id": "3a442781e16be41d",
+      "title": "吉隆泥石流灾害系因尼泊尔一条冰川断裂发生冰岩崩",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BdGEwaW5HbXdQVkpNUzIxNzBiSFVMa0RnOEZMWk4xOGIyN2JvYlh6emp6WjdzNmhCR3NYd1JmSERGM3ZUdmU3SEhIVVF5MkxwMS1RMGppWVVTUzczekEwRUlWMkhiSFFsZVlPejkzcV8wVkt4bEFV?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-30T00:31:25.000Z",
+      "excerpt": "吉隆泥石流灾害系因尼泊尔一条冰川断裂发生冰岩崩 新华网 西藏泥石流灾害原因现已查明 凤凰网 吉隆泥石流已致16人遇难546人失联 finance.sina.com.cn 吉隆受灾核心区域电力抢修持续推进 中国经济网 多方合力，全力救援！直击西藏日喀则市吉隆县泥石流灾害抢险救援一线 上海热线",
+      "section": "cn-news",
+      "rankScore": 0.54536
+    },
+    {
+      "id": "478434f1f2f7ba46",
+      "title": "上半年全国新设外商投资企业增长7%",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAySGd3TWI5SlY1aXFLS0NabHBmVlJscUw5RGtSMDhXTGZ4Tnl3bUl1dHJpUi1ZUmx0elRMLXBoM21XTEJaZXZhRjFTYjZ4Zmg4aUVpSEhBbF96Y0hkYktPaFozTE5tQjFEMlFiaEpn?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-30T00:18:00.000Z",
+      "excerpt": "上半年全国新设外商投资企业增长7% 人民网",
+      "section": "cn-news",
+      "rankScore": 0.474581
+    },
+    {
+      "id": "78c19b218dbaa9dd",
+      "title": "年产值可达200亿元 天津子牙经开区借循环经济链通中亚市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686559.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-29T13:58:28.000Z",
+      "excerpt": "中新网天津8月29日电 题：年产值可达200亿 天津子牙经开区借循环经济链通中亚市场",
+      "section": "cn-news",
+      "rankScore": 0.455292
+    },
+    {
+      "id": "33f942b1c77f3598",
+      "title": "Is the Irtysh River the choke-free Arctic shipping gateway that China needs?",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3365692/irtysh-river-choke-free-arctic-shipping-gateway-china-needs?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-29T22:00:13.000Z",
+      "author": "Laura Zhou",
+      "excerpt": "As conflicts around the world highlight the vulnerability of global shipping lanes, China and Russia are reportedly weighing the possibility of turning a vast river into an inland cargo route to the rest of the world.",
+      "section": "cn-news",
+      "rankScore": 0.44779
+    },
+    {
+      "id": "bb2204c7d06c24e3",
+      "title": "中尼邊境遭暴洪重創 兩國外長通話",
+      "url": "https://www.cna.com.tw/news/acn/202608290208.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-29T15:00:48.000Z",
+      "excerpt": "（中央社記者呂佳蓉北京29日電）尼泊爾與西藏邊境地區26日遭暴洪重創。中共中央政治局委員、中國外長王毅29日與尼泊爾外長坎乃爾（Shisir Khanal）通電話。王毅表示，中方對尼泊爾援助正在落實，包括緊急現匯援助和人道主義援助。",
+      "section": "cn-news",
+      "rankScore": 0.418556
+    },
+    {
+      "id": "47f377d3a2914cf2",
+      "title": "粤超八强全部揭晓 广州队锁定先客后主对阵茂名",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQkROTHhYVEVHOGgyZHlHZWxCcEQ2cnpGeVA0SlUzXzlCN2dDWnkyYk9iUXA4UGJoYV93VHZVQWRBQUR0RjRZbWJCOXZfWkY0eU1XVFRWNHo2ZUNhV0syMWVDQVVyYXNLdkRoUTkwZTVmWS1ya05CWTJkVFVvLTM1MUZZajl4R1hsOHc?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-29T23:40:44.000Z",
+      "excerpt": "粤超八强全部揭晓 广州队锁定先客后主对阵茂名 广州日报新花城 快讯：今晚粤超茂名点球绝胜！晋级八强！ finance.sina.com.cn 粤超东莞主场，格局打开，温度拉满｜名记带你看球赛 搜狐网 赢得起，放得下！肇庆队，明年再战 nfplus.nfnews.com 粤超八强附加赛次回合即将打响！佛山队目标常规时间内拿下胜利",
+      "section": "cn-news",
+      "rankScore": 0.400573
+    },
+    {
+      "id": "37ab7cc9bacbd775",
+      "title": "西藏公布两个为国内失联人员家属提供服务的热线电话",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686660.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-30T01:35:50.000Z",
+      "excerpt": "西藏公布两个为国内失联人员家属提供服务的热线电话：0892-8980106、0892-8980107，提供24小时接听服务。",
+      "section": "cn-life",
+      "rankScore": 0.839512
+    },
+    {
+      "id": "e69d759f83e5a21d",
+      "title": "暴雨到大暴雨！8月30日至9月1日，江苏有持续降雨，并可能伴有短时强降水和雷暴大风！江苏发布开学当天降雨量预报图",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10ZU96OHIwOG04VFVES2k0ZzNRbG9HbWdhRUVyZHQtemFnTnJkYk1jb0IxUktoc2ZyRFBvbjM5QWl1UUZpSDRwRWhmR3NnbC1DdjJrMXY1aGNJNE9hSkZJbm5qaHE4dHNOUFJuY0pNT2k?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-30T01:12:07.000Z",
+      "excerpt": "暴雨到大暴雨！8月30日至9月1日，江苏有持续降雨，并可能伴有短时强降水和雷暴大风！江苏发布开学当天降雨量预报图 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.623705
+    },
+    {
+      "id": "d82361399e662a8c",
+      "title": "民生工程有序推进",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUFVpNTVseHBEcS0tY25lV0N6RUJudGhZekwwT0ZwdnB0Vjd3MEhLNUE3UWF0RUc2dUtEbzVOUTF4eTBxcUVuc2Y1Wjg2Z0RzZjJRc29qY2hYSTJpczlJSHA3bjk5VlN6Y3c?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-30T00:51:00.000Z",
+      "excerpt": "民生工程有序推进 人民网",
+      "section": "cn-life",
+      "rankScore": 0.618426
+    },
+    {
+      "id": "417bc4f14b895931",
+      "title": "安溪做好服务保障确保秋茶产销两旺_安溪要闻_新闻中心",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vUDI0Sk5WVWI2bVNyay1rMU50eV85MlRhYk1KY21XaUl6bWVPY0NmQ0tVZllZZDJIaEFrZ28wRlp5NUNBcVBhdTh2bzk4UmoxX0x6bnhHMnc4R3V0NHVTa05jWXZXREdHR09uZS1wWDFLZTRXR3c?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-30T01:10:00.000Z",
+      "excerpt": "安溪做好服务保障确保秋茶产销两旺_安溪要闻_新闻中心 安溪县人民政府",
+      "section": "cn-life",
+      "rankScore": 0.553934
+    },
+    {
+      "id": "edd90df7905838a6",
+      "title": "社情民意：从\"毒白菜\"事件看食品安全监管失职对民心与执政根基的严重伤害",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZY2F0RXY1cldpR0ljQVpxN3F5ekhuV3MxbUEtY1dKaEk2djhCQW9YRmZWdEhrNGY2dnloa1pnWjdnS1ZNQkNueUd4dG1aaGFxV2ZiWGkzbTU5cTg4WlhrYkxuM21rZnB3?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-30T01:29:49.000Z",
+      "excerpt": "社情民意：从\"毒白菜\"事件看食品安全监管失职对民心与执政根基的严重伤害 wyzxwk.com",
+      "section": "cn-life",
+      "rankScore": 0.488545
+    },
+    {
+      "id": "c5fa344fba1954dd",
+      "title": "十年内，癌症将在澳洲彻底消失！四期癌症清零，医学奇迹震撼全球 - yeeyi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aQjRCdGZaRU55X2JuZ0ptSmNaSEdUV3RQcnZXeWNvQXJfMTVnand6NlRKUU5qeVk3UXdxQktUZWxpY1IzUnVwbFpfN3Itdl9tc1F0eGlB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-29T22:23:17.000Z",
+      "excerpt": "十年内，癌症将在澳洲彻底消失！四期癌症清零，医学奇迹震撼全球 yeeyi 疫苗推出20周年 澳洲有望十年內根除宮頸癌 大纪元 澳洲有望10年内消除宫颈癌！疫苗已纳入165国计划 yeeyi",
+      "section": "cn-life",
+      "rankScore": 0.452275
+    },
+    {
+      "id": "ef9d3fb2159c88d8",
+      "title": "石楼：杜侯平“把脉问诊”普通高中教育高质量发展",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0UxSy00NTR5eno5U0FtZmpOYkJqdmZwUlBOS0stN0FLUWRwMzJDREx3Z3ZRLXF5dlJ2eDZkTmt6S19CUzBaUk05ZmtHYWFwX1dMZUt2MGpNRWZNbnNDVVpIWThvSGhwTGFyRFFrMG1hQ3AtM3dpdUdkNjZVM1ZOam5FNjE1dndf?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-30T01:28:23.000Z",
+      "excerpt": "石楼：杜侯平“把脉问诊”普通高中教育高质量发展 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.418514
+    },
+    {
+      "id": "722f383d5f2d174c",
+      "title": "NASA羅曼太空望遠鏡將升空 百倍視野探索宇宙",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51MGNHT2FNWXF5NThQQkhKRlZSbjN0ZmFUQl9MNE1Td2tXV3Nkc21IaGJZSFk4MW9MX3VsZllhbVozbzZQWEYyWUtVQ1d3eWN6NGJPRmZ3OGJsakhLdkZMStIBZkFVX3lxTE0xb1lFMDR0eEhKMjZFbTBPSnV2c1ZxNkljRmtJQWQzdDFpd3dCMTVyR2lTN3Y1SUE5TGtGd1QzZkhYZHJtUU1FT3d1eEJyampaWGdwZE1RSmFLcG5YdjZXVGJZUVA3Zw?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-08-29T17:37:00.000Z",
+      "excerpt": "NASA羅曼太空望遠鏡將升空 百倍視野探索宇宙 大纪元",
+      "section": "cn-life",
+      "rankScore": 0.283292
+    }
+  ],
+  "warnings": [
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
