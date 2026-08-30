@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-30",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-08-30T16:38:35.055Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 12,
+  "items": [
+    {
+      "id": "26071eeeef2a7a53",
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "source": "hn-front",
+      "publishedAt": "2026-08-30T08:23:26.000Z",
+      "score": 161,
+      "author": "joebig",
+      "excerpt": "161 points · 48 comments · https://news.ycombinator.com/item?id=49496782",
+      "section": "tech",
+      "rankScore": 0.872399
+    },
+    {
+      "id": "e308c6fdc7663fd3",
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-30T08:51:39.000Z",
+      "score": 146,
+      "author": "vntok",
+      "excerpt": "146 points · 61 comments · https://news.ycombinator.com/item?id=49496918",
+      "section": "tech",
+      "rankScore": 0.696211
+    },
+    {
+      "id": "5b25472a07003924",
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-30T11:39:43.000Z",
+      "score": 141,
+      "author": "greenlightning",
+      "excerpt": "141 points · 74 comments · https://news.ycombinator.com/item?id=49497810",
+      "section": "tech",
+      "rankScore": 0.613255
+    },
+    {
+      "id": "49ff770468e5dd1d",
+      "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry",
+      "url": "https://alexalejandre.com/interviews/interview-with-oofoe/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-30T15:13:55.000Z",
+      "author": "alexalejandre.com via veqq",
+      "excerpt": "Oofoe ( sourcehut ) is a REBOL-refugee comes from animation and now works on precision instrument software. He makes puzzles in Decker and games in Janet (using his Janet->JavaScript transpiler) and Racket and Racket and, again, Racket and Racket and even visual novels . In this interview, we…",
+      "section": "tech",
+      "rankScore": 0.590923
+    },
+    {
+      "id": "0c525dc196fff297",
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "source": "verge",
+      "publishedAt": "2026-08-30T15:35:10.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras.",
+      "section": "tech",
+      "rankScore": 0.467235
+    },
+    {
+      "id": "3de5f28d4dd4572c",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "source": "ars-technica",
+      "publishedAt": "2026-08-30T11:03:47.000Z",
+      "author": "Paresh Dave, WIRED.com",
+      "excerpt": "The company is testing robots on tasks that can performed by technicians.",
+      "section": "tech",
+      "rankScore": 0.369815
+    },
+    {
+      "id": "f172ff3cffe98779",
+      "title": "设计你自己的可替换能力：三段式 Seam 实战，从需求到上线",
+      "url": "https://juejin.cn/post/7679644532576616474",
+      "source": "juejin",
+      "publishedAt": "2026-08-30T16:27:45.000Z",
+      "author": "怕浪猫",
+      "excerpt": "第12章：能力 Seam 三段式实战——设计你自己的可替换能力 最后一章。前 11 章你学会了 dsh 的架构、会话、循环、工具流水线、插件原理、事件系统。这些是「使用」dsh 的能力。这一章讲「扩展",
+      "section": "cn-tech",
+      "rankScore": 0.486111
+    },
+    {
+      "id": "d8f2301eaa772231",
+      "title": "AI 范式越迁：使用 XXL-BOOT SKILL 实现一句话直生业务",
+      "url": "https://juejin.cn/post/7679618338583183370",
+      "source": "juejin",
+      "publishedAt": "2026-08-30T15:41:31.000Z",
+      "author": "许雪里",
+      "excerpt": "随着大模型编程助手的成熟，业务交付范式正在被重塑。从「一行 SQL 生成代码」到「一句需求直生业务」——业务开发正式进入 AI 范式新时代。",
+      "section": "cn-tech",
+      "rankScore": 0.469514
+    },
+    {
+      "id": "88cdad7dd15d5a22",
+      "title": "XXL-BOOT v2.1.0 发布：React 全新上线 · 全栈 TypeScript · AI+SKILL 驱动开发",
+      "url": "https://juejin.cn/post/7679458659610607666",
+      "source": "juejin",
+      "publishedAt": "2026-08-30T15:39:50.000Z",
+      "author": "许雪里",
+      "excerpt": "围绕「**前端工程全面 TypeScript 化**」「**React 全新前端版本交付**」「**AI + SKILL 驱动开发**」三大核心亮点展开，让中后台业务开发从此进入 AI 辅助时代。",
+      "section": "cn-tech",
+      "rankScore": 0.46891
+    },
+    {
+      "id": "05c856d2bf5688c1",
+      "title": "重置额度之神Tibo，剧透了Codex下一次大更新",
+      "url": "https://www.36kr.com/p/3961764924702087",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-30T08:37:11.000Z",
+      "author": "爱范儿",
+      "excerpt": "Codex 用户大概都知道重置额度的神 Tibo 。 过去一段时间，Codex 一出问题，或者 OpenAI 想给用户补点额度，他就会跑到 X 上说一句：重置了。 今天早上 Tibo 就在 X 上宣布，为所有付费的 ChatGPT Work 和 Codex 用户重置使用额度。 Tibo 表示这次修复能让不同使用方式的用户额度多撑 10% 到 50%。 在最近的访谈中，Matthew Berman 最近干脆当面问他：你到底是咋重置的？ 答案可太有节目效果了—— Tibo 真有一个实体按钮。 觉得体验出了问题，需要补偿用户，他自己就能按。 不过这场访谈更有意思的部分，还不仅仅是这个按钮。",
+      "section": "cn-tech",
+      "rankScore": 0.407815
+    },
+    {
+      "id": "611ecd4b0115874b",
+      "title": "城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营",
+      "url": "https://sspai.com/post/113974",
+      "source": "sspai",
+      "publishedAt": "2026-08-30T07:00:00.000Z",
+      "author": "程天冲",
+      "excerpt": "我种草佛罗伦萨的理由绝对是世所罕见：因为SEVENTEEN的NanaTour有很大一部分是在佛罗伦萨及其周边拍摄的。从去年夏天看了这个综艺开始，我就一直对这个地方念念不忘，心想夏日的意大利到底是有何种 ...",
+      "section": "cn-tech",
+      "rankScore": 0.322632
+    },
+    {
+      "id": "ce9dcb4ec307285a",
+      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-30T07:36:33.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.",
+      "section": "security",
+      "rankScore": 0.422034
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 188 days old (budget 180d)"
+  ]
+}
