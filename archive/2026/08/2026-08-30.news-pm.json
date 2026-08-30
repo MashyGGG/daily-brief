@@ -1,0 +1,323 @@
+{
+  "date": "2026-08-30",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-08-30T15:18:56.543Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "c10d5631d1d93a6b",
+      "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
+      "url": "https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-30T12:37:59.000Z",
+      "excerpt": "一些關於這場致命山洪暴發最驚人的畫面，中國官方媒體未對公眾播放。",
+      "section": "news",
+      "rankScore": 0.732694
+    },
+    {
+      "id": "d0cb05ad083aeb30",
+      "title": "太平洋岛国论坛开幕：大国竞争背景下的中台角力",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260830-%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B2%9B%E5%9B%BD%E8%AE%BA%E5%9D%9B%E5%BC%80%E5%B9%95-%E5%A4%A7%E5%9B%BD%E7%AB%9E%E4%BA%89%E8%83%8C%E6%99%AF%E4%B8%8B%E7%9A%84%E4%B8%AD%E5%8F%B0%E8%A7%92%E5%8A%9B",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-30T14:37:06.000Z",
+      "author": "瑞迪",
+      "excerpt": "2026太平洋岛国论坛30日在帕劳开幕。如果说尽管有北京当局的一再阻挠，台湾中华民国仍得以应邀出席这次论坛活动无疑是台湾的一项外交胜利的话，随着中美两大国全面战略竞争日益激烈，台海两岸的外交角力也日渐成为太平洋地区牵扯多国利益的多国实力博弈中的一环。",
+      "section": "news",
+      "rankScore": 0.676754
+    },
+    {
+      "id": "04ca93fb0715a7b6",
+      "title": "俄罗斯“非洲军团”协助尼日尔军政府平息兵变",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E4%BF%84%E7%BD%97%E6%96%AF-%E9%9D%9E%E6%B4%B2%E5%86%9B%E5%9B%A2-%E5%8D%8F%E5%8A%A9%E5%B0%BC%E6%97%A5%E5%B0%94%E5%86%9B%E6%94%BF%E5%BA%9C%E5%B9%B3%E6%81%AF%E5%85%B5%E5%8F%98",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-30T13:54:27.000Z",
+      "author": "古莉",
+      "excerpt": "尼日尔军政府周六在俄罗斯伙伴的协助下平息了一场兵变，此前，该国首都尼亚美的一处重要军事基地已被夺回，该地自周五深夜至周六凌晨一直战况激烈。",
+      "section": "news",
+      "rankScore": 0.65306
+    },
+    {
+      "id": "6dbe2013f0d7a0ea",
+      "title": "Northern Cyprus ferry disaster: at least seven dead as vessel capsizes – latest updates",
+      "url": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-30T15:14:43.000Z",
+      "author": "Harry Cockburn (now) and Yohannes Lowe (earlier)",
+      "excerpt": "An estimated 237 people have been rescued but 23 are missing after accident off the coast of northern Cyprus Fatalities after ferry carrying nearly 270 capsizes off northern Cyprus The Turkish Republic of Northern Cyprus’ transport minister said the ferry “completely sunk to a depth of 514 metres…",
+      "section": "news",
+      "rankScore": 0.558122
+    },
+    {
+      "id": "a1be0554403631a4",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-30T12:44:08.000Z",
+      "excerpt": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "section": "news",
+      "rankScore": 0.552595
+    },
+    {
+      "id": "5bfe75726999810c",
+      "title": "Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order",
+      "url": "https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-30T14:57:57.000Z",
+      "author": "Matina Stevis-Gridneff",
+      "excerpt": "Users in the United States will see the new label, following President Trump’s executive order last week.",
+      "section": "news",
+      "rankScore": 0.55067
+    },
+    {
+      "id": "986ed0e8e5410745",
+      "title": "Why did Australia give visas to Israeli soldiers but not Bassem Youssef?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sydney-marathon-israeli-soldiers-idf-fm?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-30T14:50:22.000Z",
+      "excerpt": "The Australian government is under pressure to explain why it allowed dozens of Israeli soldiers into the country.",
+      "section": "news",
+      "rankScore": 0.5473
+    },
+    {
+      "id": "e00a47459245d86d",
+      "title": "Claridge’s operator bets on US and UK visitors to offset Middle East",
+      "url": "https://www.ft.com/content/a1bfac83-5310-4fdb-bbc7-1efb983a83a0?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-08-30T14:41:47.000Z",
+      "excerpt": "Maybourne chief executive says it has ‘proactively pivoted’ to other areas to counter drop in Gulf bookings",
+      "section": "news",
+      "rankScore": 0.475549
+    },
+    {
+      "id": "56351228d3dbfe2c",
+      "title": "NASA’s Nancy Grace Roman Telescope’s Roman Telescope Leaves Earth to Chart the Stars",
+      "url": "https://www.nytimes.com/2026/08/30/science/spacex-roman-telescope-launch.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-30T14:36:24.000Z",
+      "author": "Katrina Miller",
+      "excerpt": "Astronomers will use data collected by Roman’s wide, deep gaze to study the dark universe and hunt for new worlds.",
+      "section": "news",
+      "rankScore": 0.473456
+    },
+    {
+      "id": "64bd552f85685e0d",
+      "title": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
+      "source": "npr-news",
+      "publishedAt": "2026-08-30T12:45:00.000Z",
+      "author": "Dhanika Pineda",
+      "excerpt": "Dawn was crowned fattest marmot by popular vote.",
+      "section": "news",
+      "rankScore": 0.430134
+    },
+    {
+      "id": "c3f8afb297f92108",
+      "title": "菲律宾布拉干省持续洪涝 历史建筑巴拉索因教堂遭水淹",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIRmhUX1VlUldOU2RBenBUTVFsdG9fS2JzSUh2RUNiS1lLMFFnbjJQaDNzejdkWXdHUkFaMEpqS1ZwRGxnMEVxZFlvYVh2dEMzRkc5Yl9VM01UTUxZdVRrSmNCV1RjRDRS?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-30T13:17:02.000Z",
+      "excerpt": "菲律宾布拉干省持续洪涝 历史建筑巴拉索因教堂遭水淹 chinanews.com.cn",
+      "section": "news",
+      "rankScore": 0.379364
+    },
+    {
+      "id": "aa38817218c7de2e",
+      "title": "Cover Story newsletter: The Unwelcoming States of America",
+      "url": "https://www.economist.com/the-world-this-week/2026/08/30/cover-story-newsletter-the-unwelcoming-states-of-america",
+      "source": "economist-week",
+      "publishedAt": "2026-08-30T10:05:16.000Z",
+      "excerpt": "An exclusive look at how we designed our cover",
+      "section": "news",
+      "rankScore": 0.368015
+    },
+    {
+      "id": "d7137f2231fefb5a",
+      "title": "重庆市忠县人大常委会党组原书记、主任雷亚平接受审查调查",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686939.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-30T13:13:38.000Z",
+      "excerpt": "中新网8月30日电 据重庆市纪委监委消息：重庆市忠县人大常委会党组原书记、主任雷亚平涉嫌严重违纪违法，目前正接受重庆市纪委监委纪律审查和监察调查。",
+      "section": "cn-news",
+      "rankScore": 0.693422
+    },
+    {
+      "id": "440a9aca2929a53e",
+      "title": "最新调整！又一地宣布生物地理不计入中考总分",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686895.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-08-30T11:23:03.000Z",
+      "excerpt": "据辽宁省教育厅8月28日消息，为优化考试评价，减轻学生课业负担，经调研论证，决定对中考部分事项进行调整。",
+      "section": "cn-news",
+      "rankScore": 0.682738
+    },
+    {
+      "id": "422524a4a707b312",
+      "title": "马杜罗社媒平台发布监狱照：“一份爱与希望的小礼物”",
+      "url": "https://www.jiemian.com/article/15030364.html",
+      "source": "jiemian",
+      "publishedAt": "2026-08-30T14:27:58.000Z",
+      "author": "jianli@jiemian.com(界面快报)",
+      "excerpt": "8月30日，遭美国强行控制的委内瑞拉总统尼古拉斯·马杜罗的社媒平台X账号发布监狱照，配文称这是“一份爱与希望的小礼物，将这些照片送给我所有的孙子孙女，送给所有男孩女孩，也送给所有爱我们的善良的人们”。",
+      "section": "cn-news",
+      "rankScore": 0.67168
+    },
+    {
+      "id": "718a84c0b70c1015",
+      "title": "河北工业企业兴起直播热 产品“云上”销全球",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686947.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-30T13:41:29.000Z",
+      "excerpt": "中新社石家庄8月30日电 (记者 陈林 艾广德)为帮助工业企业拓宽销售渠道，今年以来，河北大力推动工业品电商直播，一些外籍员工也走进车间变身“主播”，将河北工业品卖向全球。数据显示，截至7月上旬，河北开展直播的工业企业超1.6万家，开播企业通过线上直播引流实现销售额约210亿元(人民币，下同)。",
+      "section": "cn-news",
+      "rankScore": 0.58127
+    },
+    {
+      "id": "3c04751c2379db65",
+      "title": "铁路部门回应“多名乘客二等座变无座”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoTmwwdkJrTlJkckFlUkpKb2hWMkxfMTREUlFWNW1XR1Y4dXJOVTBMclkzTkNRNzlvZlJkUlJmdWpLaUtZNVQ5cUlHYk5zeVFWRXlCV3U4UUQzRW41WlE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-30T12:25:00.000Z",
+      "excerpt": "铁路部门回应“多名乘客二等座变无座”",
+      "section": "cn-news",
+      "rankScore": 0.543029
+    },
+    {
+      "id": "5cf0f0b9d243c01c",
+      "title": "心相近丨“习近平主席鼓励我们做中埃友好使者”",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lcjlPQVBHZjRqVDlBNnVQQXVqcXp5c2ctNlc5U1VNQVFRSUdwSWlQb1FnSnNZcTJhTkxTUFp2eUtIUlFnVFpTOUlGS0tITThXZmxneFE0VnZRT2pYU0V6N01aSU1JMnFxd0RJc09PUDYtcWI4YnlJ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-30T13:28:12.000Z",
+      "excerpt": "心相近丨“习近平主席鼓励我们做中埃友好使者” 新华网",
+      "section": "cn-news",
+      "rankScore": 0.510781
+    },
+    {
+      "id": "3cde7bfa633679fd",
+      "title": "中國官方：吉隆土石流區發現8處地質災害高風險點",
+      "url": "https://www.cna.com.tw/news/acn/202608300175.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-30T13:10:33.000Z",
+      "excerpt": "（中央社台北30日電）央視新聞今天報導，中國官方在西藏吉隆土石流災害區域發現60多處地質災害隱患點，初步判定其中8處為高風險點。",
+      "section": "cn-news",
+      "rankScore": 0.502937
+    },
+    {
+      "id": "e399392f9498a682",
+      "title": "PLA shift to systems warfare means Taiwan’s defences need to change: experts",
+      "url": "https://www.scmp.com/news/china/military/article/3365761/pla-shift-systems-warfare-means-taiwans-defences-need-change-experts?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-30T14:00:10.000Z",
+      "author": "Lawrence Chung",
+      "excerpt": "The People’s Liberation Army is increasingly embracing broader “systems-oriented warfare” rather than relying on individual weapons platforms – a shift Taiwanese analysts say could pose new challenges to the island’s defences.",
+      "section": "cn-news",
+      "rankScore": 0.459365
+    },
+    {
+      "id": "727ffdf1cb209ffa",
+      "title": "招商轮船：上半年净利润同比增长227.57% 拟10派1.3元",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50bVo1dVBXeEVBbjFQMjNXdll6ell3b19rTkRhNHlMMUlUOVFKQm5rYU5JTGt0dlktUE01WHZ4SWpkZ0VVZHgtb293bHRnb0hTWG5PSmxjT21WVjZi?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-30T13:33:00.000Z",
+      "excerpt": "招商轮船：上半年净利润同比增长227.57% 拟10派1.3元 证券时报",
+      "section": "cn-news",
+      "rankScore": 0.4488
+    },
+    {
+      "id": "41b10a6787436a5e",
+      "title": "中国女排亚锦赛不敌泰国队 无缘直通洛杉矶奥运会",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42TFAxQ2I1UEo3bFBvSGI2a2UyaUc1c3h6cGZOdV9RSlVuLWxobmk2c0QyQy1RdkNUbjJWeVJTN2JsM3hKLTBMb1EyOFRYTXp3Ry1QSkpQQTM2U00zRkdNVWJGdGd5TnZPS0w4b3NnZw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-30T14:57:00.000Z",
+      "excerpt": "中国女排亚锦赛不敌泰国队 无缘直通洛杉矶奥运会 qzwb.com",
+      "section": "cn-news",
+      "rankScore": 0.412686
+    },
+    {
+      "id": "90b5583d11d9852a",
+      "title": "尼泊尔泥石流灾害中取得联系的中方人员已安全转移",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686957.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-30T14:33:47.000Z",
+      "excerpt": "当地时间8月30日，据中国驻尼泊尔大使馆消息，截至当地时间当天中午，在尼泊尔泥石流灾害中已取得联系的中方人员已全部转移至安全地区。",
+      "section": "cn-life",
+      "rankScore": 0.809894
+    },
+    {
+      "id": "2665ee3f9427b7a5",
+      "title": "居民“点单”诉期盼 社区“接单”铺通民生路",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFdxZldocmFaQ0dSNlRvalJMX1BvQWk5ZHowY1RCM0NWN1FsS0RfN2FYLUdneVlQOGE1TkVGZm5LcnVxOUFQUlpHVlBvREdPSkE1WmFLNGdEeEwwYU5tRGo4dFRYSlh2S25pZjgta1JYbURHYmhJODFtMTYyM3VNRG1BTlJlTkZnd3JIMg?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-30T14:12:07.000Z",
+      "excerpt": "居民“点单”诉期盼 社区“接单”铺通民生路 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.596587
+    },
+    {
+      "id": "a6ea01d229ff8412",
+      "title": "台风“沙德尔”，停止编号",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VNFRwSi1nbUpBZkhvazEwTnA2dENUVXlkd1pvcnVmSGNsTFV0ZG1mS3ZWQTg1b2VaMFIyQkpod1ZNeWhvU0x2aEsya1k2UHlfbWtVRGN4c3YtZjJFSDI4?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-30T12:38:39.000Z",
+      "excerpt": "台风“沙德尔”，停止编号 华声在线",
+      "section": "cn-life",
+      "rankScore": 0.549854
+    },
+    {
+      "id": "063b010dbf00c77c",
+      "title": "首演！裸眼3D！9月5日石景山！",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01ZzEyVUU4THVuN2Y4dVgxSFBTalJzUDFFaGVnSzBGMjd3VDRRVTc1N2xuN3NDYjFFRExXSUpNLThUQWhicVJic0t2M1pTdEpmUUMwcjRHbFloSnp2NWd0TTVFeDN1Skp2Y29VUGNReXM0SHNO?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-30T12:48:00.000Z",
+      "excerpt": "首演！裸眼3D！9月5日石景山！ 北京市人民政府门户网站",
+      "section": "cn-life",
+      "rankScore": 0.492914
+    },
+    {
+      "id": "d80464cf4ba354c0",
+      "title": "跟專家這樣運動能防癌 快快學起來",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EUUNyeEF3bWVIWUlXSzBiR0pwYzA0ZXVteTByX0pJNWo1UjEtWWVMUy02NExtaGtLZl9TSy1mLVh6MnVnelJxNllvb3lKNEU0eC1NcmVQTkI5aElkYS1hbNIBZkFVX3lxTE9Yc2ZoYjRMeklySWhGZVhCQjRDZjFCbnQ1Q2dLNXZHREMwcjktQWhDQk05N192WnFXYU43Sk9jb2Z4MkVabDVWcDBlaVJTei0xZTR6RVlPUjBZYlo0V2ljdTFPNlVVZw?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-30T15:00:00.000Z",
+      "excerpt": "跟專家這樣運動能防癌 快快學起來 大纪元 研究结果表明,即使是每天坐着度过大部分时间的人,只要短暂地活动身体,也有助于降低癌症的危险。 매일경제 这项运动真的被低估了! 力量训练开启抗癌新希望 中华网 4肿瘤医生一致推荐：早上9点前一定要做这事 aboluowang.com",
+      "section": "cn-life",
+      "rankScore": 0.482634
+    },
+    {
+      "id": "91efed265ddadd21",
+      "title": "吉林通化：顾客买到变质生鲜水果，主张千元惩罚性赔偿，法院判了",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQU02RnJaaU9Tc1BsOFhRcmwwNF84anZPc3lxREUtbENzWHhVWjl2SGQtOWZxOWtlNVcwT3BOV0hFU3pvWHViaW5TZUpWZlRkRzVJQ0xNeDF1NnhWNHZzVzE3Y2JLdmZMbVMxVGFMbTFON241TWtnelkxcDlrLUduUWVQaUUxUFZQYmhrVFZxQWhYdGZhdTFONA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-30T13:22:00.000Z",
+      "excerpt": "吉林通化：顾客买到变质生鲜水果，主张千元惩罚性赔偿，法院判了 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.444522
+    },
+    {
+      "id": "eee3d12826188d9d",
+      "title": "新学期多所新校集中启用，上海基础教育版图再升级",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10UjZzaVBlVmI2a3h5aHdMVTVJN0JFbDB1SGxLSTlyb0xoUWZBNHh2M0JPMGY1N0k2d2JtRkxfc2ZvZDByZllSZnVUTWtoczlIaFppeVdodk8tUQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-30T14:33:00.000Z",
+      "excerpt": "新学期多所新校集中启用，上海基础教育版图再升级 上观新闻",
+      "section": "cn-life",
+      "rankScore": 0.404686
+    },
+    {
+      "id": "5fed5e6c26c12611",
+      "title": "开学前孩子情绪低落焦虑 家长可以这样做",
+      "url": "https://www.chinanews.com.cn/life/2026/08-30/10686748.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-08-30T04:53:58.000Z",
+      "excerpt": "朝“问”健康丨开学前孩子情绪低落焦虑 家长可以这样做",
+      "section": "cn-life",
+      "rankScore": 0.352791
+    }
+  ],
+  "warnings": [
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
