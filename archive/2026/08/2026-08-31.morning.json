@@ -1,0 +1,137 @@
+{
+  "date": "2026-08-31",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-08-31T01:21:50.780Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 11,
+  "items": [
+    {
+      "id": "f41d7f2eeaafb392",
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "url": "https://0xcc.io/posts/omarchy-root-creds/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-30T15:59:49.000Z",
+      "score": 399,
+      "author": "trap0xcc",
+      "excerpt": "399 points · 400 comments · https://news.ycombinator.com/item?id=49499854",
+      "section": "tech",
+      "rankScore": 1.032045
+    },
+    {
+      "id": "22b9948f7d0e6a11",
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+      "source": "hn-front",
+      "publishedAt": "2026-08-30T15:12:40.000Z",
+      "score": 353,
+      "author": "nickslaughter02",
+      "excerpt": "353 points · 148 comments · https://news.ycombinator.com/item?id=49499394",
+      "section": "tech",
+      "rankScore": 0.885018
+    },
+    {
+      "id": "fcf2c105e7c3a466",
+      "title": "Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-ai-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-30T19:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "Cloudflare AI Search is a built-in search and retrieval service designed to give AI agents and applications a ready-to-use search engine over custom data. It supports agent integration, multimodal search, and seamless integration with other Cloudflare tools. By Sergio De Simone",
+      "section": "tech",
+      "rankScore": 0.593932
+    },
+    {
+      "id": "d8715d9b04af6c2f",
+      "title": "Parallel O(sqrt n) Overhead LSD Radix Sort",
+      "url": "https://arxiv.org/abs/2607.05302",
+      "source": "lobsters",
+      "publishedAt": "2026-08-30T21:57:28.000Z",
+      "author": "arxiv.org via fanf",
+      "section": "tech",
+      "rankScore": 0.578905
+    },
+    {
+      "id": "857b887f7a7bd78d",
+      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "source": "ars-technica",
+      "publishedAt": "2026-08-30T21:40:56.000Z",
+      "author": "Kyle Orland",
+      "excerpt": "Cut content from Portal 2 , hints of Half Life 2: Episode 3 , and so much more.",
+      "section": "tech",
+      "rankScore": 0.447045
+    },
+    {
+      "id": "a2cfdcb7a424c7da",
+      "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+      "url": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+      "source": "verge",
+      "publishedAt": "2026-08-30T21:18:59.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you […]",
+      "section": "tech",
+      "rankScore": 0.442777
+    },
+    {
+      "id": "ff3b823b0217cf73",
+      "title": "派早报：GTA 6 引发请假玩游戏热潮",
+      "url": "https://sspai.com/post/114022",
+      "source": "sspai",
+      "publishedAt": "2026-08-30T22:59:06.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "GTA 6 引发请假玩游戏热潮 Sam Altman 为 OpenAI 高管定制豪华表 海信发布 A10 系列墨水屏手机 Pixel 11 削减内存安全特性，GrapheneOS 考虑放弃支持 「承重」等 Claude 滥用词在 GitHub 蔓延 工信部曝光车企监督检查典型案例 看看就行的简讯 少数派的近期动态 你可能错过的好文章",
+      "section": "cn-tech",
+      "rankScore": 0.528279
+    },
+    {
+      "id": "26842ac5fbc78784",
+      "title": "开源神器 Navop：数据库+SSH+终端+AI，一个应用全搞定",
+      "url": "https://juejin.cn/post/7679723089019502630",
+      "source": "juejin",
+      "publishedAt": "2026-08-31T01:12:23.000Z",
+      "author": "SimonKing",
+      "excerpt": "在日常开发和运维工作中，我们往往需要在数据库客户端、SSH 工具、SFTP 文件管理器、终端模拟器以及 AI 助手之间频繁切换。每多打开一个工具，就多一次上下文切换，效率在无形中被消耗。",
+      "section": "cn-tech",
+      "rankScore": 0.48816
+    },
+    {
+      "id": "64826e8917a029f7",
+      "title": "Redis的Lua脚本居然把我的集群搞崩了！",
+      "url": "https://juejin.cn/post/7679448534011133986",
+      "source": "juejin",
+      "publishedAt": "2026-08-31T01:01:31.000Z",
+      "author": "阿橙的百宝箱",
+      "excerpt": "Redis的Lua脚本居然把我的集群搞崩了！** -- 引言 Redis作为一款高性能的内存数据库，凭借其丰富的数据结构和灵活的扩展性，成为现代分布式系统中的核心组件之一。而Lua脚本作为Redi",
+      "section": "cn-tech",
+      "rankScore": 0.486047
+    },
+    {
+      "id": "13c076b23532e6bd",
+      "title": "AI 时代，一个优化 Flutter 的重复代码工具 Deslop",
+      "url": "https://juejin.cn/post/7679542577553571894",
+      "source": "juejin",
+      "publishedAt": "2026-08-31T01:00:26.000Z",
+      "author": "恋猫de小郭",
+      "excerpt": "现在基本都在用 AI 写代码，但是实际上 AI 经常缺少全局意识，甚至你就算写了规则，它也不一定遵守，比如一个昨天就看到一个网友发的这个，感觉就挺典型了： 这次情况下，你如果没有仔细 Review ，",
+      "section": "cn-tech",
+      "rankScore": 0.485836
+    },
+    {
+      "id": "8e4e7553c71085a1",
+      "title": "Termexo V0.6.0 发布：新增任务看板，OpenCode 升级为一等 Agent",
+      "url": "https://www.oschina.net/news/502204",
+      "source": "oschina",
+      "publishedAt": "2026-08-30T15:02:13.000Z",
+      "excerpt": "Termexo 是一个 MIT 开源、仅在本地运行的 Windows AI 编程工作台，通过真实 PTY 统一管理 Claude Code、Codex、OpenCode 以及多个并行终端。V0.6.0 已发布。 本次更新 OpenCode 升级为一等 Agent：启动、恢复、重启还原、自动确认与任务看板全部与 Claude Code、Codex 对齐。它自行解析模型与凭据，因此不需要在 Termex...",
+      "section": "cn-tech",
+      "rankScore": 0.475093
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"react-blog\" looks stale: newest item is 188 days old (budget 180d)"
+  ]
+}
