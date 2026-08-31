@@ -1,0 +1,155 @@
+{
+  "date": "2026-08-31",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-08-31T19:07:10.338Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "64ac2de276ca50f4",
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-31T14:52:26.000Z",
+      "score": 306,
+      "author": "cutoff",
+      "excerpt": "306 points · 126 comments · https://news.ycombinator.com/item?id=49510514",
+      "section": "tech",
+      "rankScore": 0.963031
+    },
+    {
+      "id": "50ab6e7c9b55d133",
+      "title": "What Happens Inside an AI Chatbot Between Enter and the First Word?",
+      "url": "https://blog.bytebytego.com/p/what-happens-inside-an-ai-chatbot",
+      "source": "bytebytego",
+      "publishedAt": "2026-08-31T15:31:20.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we are going to look at this entire journey in detail.",
+      "section": "tech",
+      "rankScore": 0.648245
+    },
+    {
+      "id": "b6a78b050c2d1bbb",
+      "title": "Bootstrappable builds: how and why",
+      "url": "https://lwn.net/Articles/1088279/",
+      "source": "lobsters",
+      "publishedAt": "2026-08-31T17:03:47.000Z",
+      "author": "lwn.net via pushcx",
+      "section": "tech",
+      "rankScore": 0.573051
+    },
+    {
+      "id": "fce43ffc7524f287",
+      "title": "DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents",
+      "url": "https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-31T14:28:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "DoorDash has moved engineering agent workloads from developer laptops to its Flux cloud platform. The platform automated 130,000 engineering tasks in one month and supports more than 25,000 automated code reviews weekly.",
+      "section": "tech",
+      "rankScore": 0.556835
+    },
+    {
+      "id": "786bee35cfe8d75a",
+      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+      "url": "https://css-tricks.com/css-random-function-polyfill/",
+      "source": "css-tricks",
+      "publishedAt": "2026-08-31T15:12:19.000Z",
+      "author": "Lee Meyer",
+      "excerpt": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers. Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+      "section": "tech",
+      "rankScore": 0.521605
+    },
+    {
+      "id": "379e7c2e3cbd289c",
+      "title": "Car owners want tech they can ignore",
+      "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
+      "source": "verge",
+      "publishedAt": "2026-08-31T17:11:17.000Z",
+      "author": "Andrew J. Hawkins",
+      "excerpt": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to the latest tech survey from JD Power.",
+      "section": "tech",
+      "rankScore": 0.448399
+    },
+    {
+      "id": "d7aeb13c370552fa",
+      "title": "从出片到出海：AI MediaKit 重塑短剧全链路生产力",
+      "url": "https://www.infoq.cn/article/L7P7cA3UMXXQJcBfyHuJ?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-31T18:27:41.000Z",
+      "author": "火山引擎视频云",
+      "section": "cn-tech",
+      "rankScore": 0.679749
+    },
+    {
+      "id": "973156943a6e853d",
+      "title": "加州议会通过年龄验证法案，Linux BSD 豁免",
+      "url": "https://www.solidot.org/story?sid=85245",
+      "source": "solidot",
+      "publishedAt": "2026-08-31T15:47:25.000Z",
+      "excerpt": "加州参议院和众议院批准了年龄验证法案 Assembly Bill 1856。在递交给州长批准之后法案预计于 2027 年 1 月 1 日生效。法案豁免了 Linux 和 BSD 等开源操作系统。法案要求，如果操作系统有账户设置功能，那么系统提供商须提供一个界面，在账户设置期间要求输入设备主用户的出生日期、年龄或两者兼有。操作系统通过相对一致的实时 API 向受监管的应用商店和应用开发商提供数字年龄信号。该信号不显示精确的出生日期，而是四个年龄段之一：13 岁以下、13-15 岁、16-17 岁或 18 岁及以上。",
+      "section": "cn-tech",
+      "rankScore": 0.657317
+    },
+    {
+      "id": "a6a6941e1f21cf68",
+      "title": "尴尬的“世界模型”，四条路线纷争未决",
+      "url": "https://www.36kr.com/p/3963266346014344",
+      "source": "36kr-ai",
+      "publishedAt": "2026-08-31T13:42:59.000Z",
+      "author": "铑科技",
+      "excerpt": "8月27日，自变量机器人发布WALL-SS自回归世界模型，计划让虚拟世界真正成为机器人的“训练场”。同月，群核科技推出了Lux3D 3D生成模型，20秒内就能从一张图生成可交互的3D资产，并披露了“显式3D”世界模型路线图。 而就在此前不久，北京智源人工智能研究院推出悟界·RoboBrain Orca。同期，图灵奖得主杨立昆团队发布了AdaJEPA，让世界模型首次具备了“边做边学”的自适应能力，在部署中持续根据真实反馈校正预测。 稍早的4月，李飞飞World Labs连发Marble 1.1和Marble 1.1-Plus两款模型，一个提升画质，一个专攻超大规模场景生成。",
+      "section": "cn-tech",
+      "rankScore": 0.480374
+    },
+    {
+      "id": "aeb9fd01eb929c3e",
+      "title": "微信内部的生产级模型，居然开源了",
+      "url": "https://juejin.cn/post/7680023541135507497",
+      "source": "juejin",
+      "publishedAt": "2026-08-31T17:39:19.000Z",
+      "author": "stormzhangV",
+      "excerpt": "微信把自家视频号、公众号、朋友圈在用的多模态向量模型 WeMM-Embedding 开源了，2B 版本打平阿里 8B，打游戏的电脑就能跑。说清它是什么、谁能用、哪些行业适合上手。",
+      "section": "cn-tech",
+      "rankScore": 0.458462
+    },
+    {
+      "id": "58c5fc1d45f2d993",
+      "title": "开源中国的独立叙事：在被收购的宿命里，走一条相反的路",
+      "url": "https://www.oschina.net/news/502227",
+      "source": "oschina",
+      "publishedAt": "2026-08-31T12:00:37.000Z",
+      "excerpt": "8 月 28 日，英伟达拟以 129 亿美金收购 Hugging Face 的消息，在开源圈持续发酵两天后，被一则币圈&娱乐圈的新闻盖过了热度。当晚，天际资本创始人张倩与开源中国 CEO 徐勇进行了一场约两个小时的直播对谈，主题正是这场收购。 这场对谈的价值，不止于行业点评。它同时呈现了两条交织的叙事线，一条是 Hugging Face 作为...",
+      "section": "cn-tech",
+      "rankScore": 0.433128
+    },
+    {
+      "id": "794189e397a58223",
+      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+      "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-31T17:24:28.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical…",
+      "section": "security",
+      "rankScore": 0.64733
+    },
+    {
+      "id": "406bbea2e1d161b2",
+      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-31T13:50:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional.",
+      "section": "security",
+      "rankScore": 0.537348
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 189 days old (budget 180d)"
+  ]
+}
