@@ -1,0 +1,229 @@
+{
+  "date": "2026-08-31",
+  "slot": "weekly",
+  "scheduleId": "weekly",
+  "generatedAt": "2026-08-31T05:39:05.122Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 168,
+  "itemCount": 20,
+  "items": [
+    {
+      "id": "69f2d7d2b0f6675c",
+      "title": "Dolly Parton has died",
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "source": "hn-front",
+      "publishedAt": "2026-08-25T18:02:22.000Z",
+      "score": 1089,
+      "author": "helsinkiandrew",
+      "excerpt": "1089 points · 163 comments · https://news.ycombinator.com/item?id=49438052",
+      "section": "tech",
+      "rankScore": 1.156719
+    },
+    {
+      "id": "11407d872cb1b738",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "source": "hn-front",
+      "publishedAt": "2026-08-27T01:12:55.000Z",
+      "score": 523,
+      "author": "mfiguiere",
+      "excerpt": "523 points · 231 comments · https://news.ycombinator.com/item?id=49458161",
+      "section": "tech",
+      "rankScore": 1.104661
+    },
+    {
+      "id": "dd56f468d7e94484",
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+      "source": "hn-front",
+      "publishedAt": "2026-08-29T18:44:37.000Z",
+      "score": 290,
+      "author": "firefax",
+      "excerpt": "290 points · 44 comments · https://news.ycombinator.com/item?id=49492219",
+      "section": "tech",
+      "rankScore": 1.103741
+    },
+    {
+      "id": "402658ea5ba35f18",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "source": "hn-front",
+      "publishedAt": "2026-08-26T10:04:55.000Z",
+      "score": 218,
+      "author": "garo-pro",
+      "excerpt": "218 points · 90 comments · https://news.ycombinator.com/item?id=49446422",
+      "section": "tech",
+      "rankScore": 1.07617
+    },
+    {
+      "id": "1493d0c0a339a667",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-29T14:02:10.000Z",
+      "score": 283,
+      "author": "pluc",
+      "excerpt": "283 points · 223 comments · https://news.ycombinator.com/item?id=49489982",
+      "section": "tech",
+      "rankScore": 1.063951
+    },
+    {
+      "id": "cef4414e843ba78f",
+      "title": "EVE Online: The Move to Python 3 Begins!",
+      "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-25T22:59:30.000Z",
+      "excerpt": "EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010 .…",
+      "section": "ai",
+      "rankScore": 0.827962
+    },
+    {
+      "id": "6dc869bf119ea78b",
+      "title": "Introducing Hy4 Preview",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-29T23:53:13.000Z",
+      "excerpt": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000…",
+      "section": "ai",
+      "rankScore": 0.813133
+    },
+    {
+      "id": "7ac57626531011ad",
+      "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+      "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+      "source": "latent-space",
+      "publishedAt": "2026-08-27T01:31:22.000Z",
+      "excerpt": "The conference with hot chips and even hotter companies",
+      "section": "ai",
+      "rankScore": 0.715351
+    },
+    {
+      "id": "25ce7ea75ba35150",
+      "title": "llm-anthropic 0.27",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-24T16:27:04.000Z",
+      "excerpt": "Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago.",
+      "section": "ai",
+      "rankScore": 0.697893
+    },
+    {
+      "id": "7050d4861008ea1c",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+      "source": "simonwillison",
+      "publishedAt": "2026-08-27T22:50:25.000Z",
+      "excerpt": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness.",
+      "section": "ai",
+      "rankScore": 0.678449
+    },
+    {
+      "id": "64b6bf3056567bd7",
+      "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+      "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-08-27T22:13:43.841Z",
+      "excerpt": "ACL 2026杰出论文奖（Outstanding Paper）揭晓，全球共 18 篇入选，其中包含美团履约技术团队的1篇论文。本文介绍了一种专为 RLVR 设计的低秩训练方法，以及它在业务 Agentic RL 中的落地经验。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "12854403e3ae0267",
+      "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-08-27T23:56:43.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。...",
+      "section": "cn-tech",
+      "rankScore": 0.758929
+    },
+    {
+      "id": "051d8e59c06e36c9",
+      "title": "气候变暖放大东太平洋的厄尔尼诺变率",
+      "url": "https://www.solidot.org/story?sid=85217",
+      "source": "solidot",
+      "publishedAt": "2026-08-28T03:51:23.000Z",
+      "excerpt": "发表在《科学》期刊上的一项研究分析了加拉帕戈斯群岛（Galápagos）珊瑚长达千年的记录，发现随着地球变暖，厄尔尼诺现象正在加剧，东太平洋的厄尔尼诺-南方涛动（ENSO）变率比工业化前时代高出了约 36.5%。这些发现表明，气候变化已经在放大全球最重要的极端天气来源之一，并可能对生态系统、基础设施和人类社会带来日益增长的风险。ENSO 是导致年际气候极端事件的主要原因，它与干旱、洪水、野火、珊瑚白化事件以及对农业和人类健康的影响相关。该现象源于热带太平洋与大气之间的复杂相互作用。近几十年来发生了数次异常强烈的厄尔尼诺事件，其变暖范围覆盖了热带太平洋的大部分区域。",
+      "section": "cn-tech",
+      "rankScore": 0.713874
+    },
+    {
+      "id": "57f828ec87123f78",
+      "title": "女性在产后遭遇 PTSD",
+      "url": "https://www.solidot.org/story?sid=85231",
+      "source": "solidot",
+      "publishedAt": "2026-08-29T14:52:10.000Z",
+      "excerpt": "东英吉利大学的一项研究认为，英国可能有数万女性在产后经历未诊断的 PTSD（创伤后应激障碍）。PTSD 可能在经历艰难的妊娠或分娩后出现，其症状包括闪回、噩梦、焦虑和持续的负面想法。最新数据显示，2021-2023 年间自杀是英国产后六周至一年内女性死亡的首要原因。研究人员称这些死亡只是冰山一角，有更多女性正遭受严重的心理健康问题困扰，却无法获得所需的帮助。他们的研究表明，每 20 名产后女性就有1人会患上 PTSD。",
+      "section": "cn-tech",
+      "rankScore": 0.708471
+    },
+    {
+      "id": "f70e31ae66e5b6ae",
+      "title": "微软画图和照片应用生成的图像嵌入了看不见的水印",
+      "url": "https://www.solidot.org/story?sid=85192",
+      "source": "solidot",
+      "publishedAt": "2026-08-25T11:12:00.000Z",
+      "excerpt": "Windows 画图（Paint）和照片（Photos）应用都集成了微软的 AI 工具 Copilot，支持通过本地模型和云端生成图像。AI 生成的图像会嵌入两个水印，其一是可见的 Copilot logo，其二是不可见的能跟踪到用户身份的唯一识别码 GUID。画图和照片使用的本地模型（仅限于 Copilot+ PC）共四个文件，容量不到 400MB，无论本地还是云端用户输入的提示词都会发送到微软服务器进行内容审核，服务器会返回 GUID 以及审核后的提示词，GUID 随后就嵌入在 AI 生成的图像之中。",
+      "section": "cn-tech",
+      "rankScore": 0.703787
+    },
+    {
+      "id": "f246eb656b86fa8c",
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-28T21:30:52.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands.",
+      "section": "security",
+      "rankScore": 0.677038
+    },
+    {
+      "id": "f4e8f01a3942b973",
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-25T11:56:15.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication.",
+      "section": "security",
+      "rankScore": 0.662499
+    },
+    {
+      "id": "84102099acb008b6",
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-25T11:52:43.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.",
+      "section": "security",
+      "rankScore": 0.660687
+    },
+    {
+      "id": "2d271ec437183291",
+      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+      "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-26T11:55:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it.",
+      "section": "security",
+      "rankScore": 0.659276
+    },
+    {
+      "id": "5ab518d7ffd5b968",
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-28T20:38:47.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026.",
+      "section": "security",
+      "rankScore": 0.650329
+    }
+  ],
+  "warnings": []
+}
