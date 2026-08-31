@@ -1,0 +1,323 @@
+{
+  "date": "2026-08-31",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-08-31T01:35:11.803Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "bcc8c564003df378",
+      "title": "她放下演藝事業，回愛丁堡拯救家裏的中餐館",
+      "url": "https://www.bbc.com/zhongwen/articles/czjzdlvly70o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-08-31T00:15:53.000Z",
+      "excerpt": "母親經營了30年的餐廳正在走下坡。因此，賀灕灑暫停了自己的演藝事業，回到蘇格蘭的家裏試一把。",
+      "section": "news",
+      "rankScore": 0.813562
+    },
+    {
+      "id": "9950871ff9e07377",
+      "title": "中国公布西藏洪灾261名外国公民失踪",
+      "url": "https://cn.nytimes.com/china/20260831/tibet-nepal-flood-death-toll-china/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-08-31T01:11:18.000Z",
+      "author": "郭莉莉,PEI-LIN WU",
+      "excerpt": "这是当局迄今为止对中国侧受灾人员所提供的最详细统计。失踪外国人中人数最多的是尼泊尔公民；目前西藏地区已确认16人遇难，总计仍有546人下落不明。 Atul Loke for The New York Times 上周四，尼泊尔拉苏瓦县境内，浑浊的特里舒利河蜿蜒流淌，图为该河流的航拍图。",
+      "section": "news",
+      "rankScore": 0.762698
+    },
+    {
+      "id": "ee167e054aeeca88",
+      "title": "尼泊尔和中国艰难推进救援工作",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260830-%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%92%8C%E4%B8%AD%E5%9B%BD%E8%89%B0%E9%9A%BE%E6%8E%A8%E8%BF%9B%E6%95%91%E6%8F%B4%E5%B7%A5%E4%BD%9C",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-30T23:25:46.000Z",
+      "author": "安东尼",
+      "excerpt": "周日，在经历重大泥石流和山洪灾难之后，尼泊尔和中国的救援工作在泥泞难行的环境中艰难推进，救援人员要应对水位上涨和新形成堰塞湖带来的威胁，全力搜寻数千名失踪者。",
+      "section": "news",
+      "rankScore": 0.664047
+    },
+    {
+      "id": "7b74dd86a6e712ea",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-08-30T23:53:03.000Z",
+      "excerpt": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "section": "news",
+      "rankScore": 0.604463
+    },
+    {
+      "id": "45bae88e6bc73f88",
+      "title": "Australia news live: PM urged to restrict violent pornography after teen’s death; Labor working on release of Oscar Jenkins",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-08-31T01:21:35.000Z",
+      "author": "Nick Visser",
+      "excerpt": "Follow the day’s news live The Australian government is working with Russian officials in a bid to secure the release of Australian Oscar Jenkins , Matt Thistlethwaite says.",
+      "section": "news",
+      "rankScore": 0.556975
+    },
+    {
+      "id": "985cdd4e4c9890d6",
+      "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
+      "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-08-31T01:11:08.000Z",
+      "author": "Sajal Pradhan, Mujib Mashal and Atul Loke",
+      "excerpt": "Only a fraction of the over 2,500 missing are turning up among the dead, underscoring a bleak reality: The death toll is likely to keep rising for days to come.",
+      "section": "news",
+      "rankScore": 0.554653
+    },
+    {
+      "id": "e192791ac25fabb3",
+      "title": "What are the implications of the US-Venezuela oil deal?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-08-31T00:41:12.000Z",
+      "excerpt": "Opposition in Venezuela as interim leader insists the deal with Washington will help with the country's recovery.",
+      "section": "news",
+      "rankScore": 0.548001
+    },
+    {
+      "id": "1d6f08506a835ca3",
+      "title": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas",
+      "url": "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-08-31T00:21:26.000Z",
+      "author": "Zach Montague and Mattathias Schwartz",
+      "excerpt": "For years, conservative litigants flocked to Judge Reed O’Connor’s district. Now, North Texas has become a favorite destination of the Justice Department.",
+      "section": "news",
+      "rankScore": 0.475657
+    },
+    {
+      "id": "82cc475dba35248b",
+      "title": "US and Iran exchange fire for the first time in more than a month",
+      "url": "https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-08-30T23:47:34.000Z",
+      "excerpt": "Oil prices rise after American military hits an island in the Strait of Hormuz and Tehran retaliates in Jordan",
+      "section": "news",
+      "rankScore": 0.469072
+    },
+    {
+      "id": "2c95e48094e93387",
+      "title": "美媒：CIA局长访俄提议举行美俄乌三方峰会--国际",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xRGpsTTNndXJhVERiTW9QRGZnNTI3MmtlSjloM2RDMWNUT0JjWUs5QTdFV25VYzF5aXFmUUVjNEVaVm9SVkN0MWx1WkdWcXBHUm1IVURRR1dqQ3JxRHZGNXRSN0VxSlFyS0lz?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-08-31T00:58:00.000Z",
+      "excerpt": "美媒：CIA局长访俄提议举行美俄乌三方峰会--国际 人民网 CIA局长秘密访问莫斯科，想撮合三方会谈 观察者网 美媒：美中情局局长访俄提议举行美俄乌三方峰会 新京报 俄美48小时的隔空过招 表态降温动作升温 中华网 CIA局长密访莫斯科，特朗普为何急着说“没这回事”？ 凤凰网",
+      "section": "news",
+      "rankScore": 0.413801
+    },
+    {
+      "id": "4cb29f622c27d782",
+      "title": "Politics chat: more tariffs, mail-in voting order, Kushner-Jeffries meeting",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5948115/politics-chat-more-tariffs-mail-in-voting-order-kushner-jeffries-meeting",
+      "source": "npr-news",
+      "publishedAt": "2026-08-30T12:02:26.000Z",
+      "author": "Ayesha Rascoe",
+      "excerpt": "Real economic sanctions on Canada and economic threats to countries trading with Iran may work against Republicans in the midterm elections.",
+      "section": "news",
+      "rankScore": 0.331963
+    },
+    {
+      "id": "805ea6156685f114",
+      "title": "‘The lake is our life’: Protecting a shared lifeline in Uganda",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168228",
+      "source": "un-news-en",
+      "publishedAt": "2026-08-30T12:00:00.000Z",
+      "excerpt": "On the shores of Nkondo, in Uganda’s Kikuube district, the day begins before sunrise. Fishers enter the lake to fish, while families around Lake Albert rely on its waters for food, income and daily survival.",
+      "section": "news",
+      "rankScore": 0.284134
+    },
+    {
+      "id": "532c85c52652706c",
+      "title": "订单排到年底！这一千亿级“冷”市场，“热”起来了",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10686998.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-08-31T00:09:23.000Z",
+      "excerpt": "大模型越做越大，芯片越跑越快，一个看似朴素的问题突然变得棘手起来——服务器太热了，怎么办？",
+      "section": "cn-news",
+      "rankScore": 0.811396
+    },
+    {
+      "id": "59ab9e9b2c48cd03",
+      "title": "西藏网警公布10起涉吉隆泥石流网络谣言典型案例",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687017.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-08-31T01:27:20.000Z",
+      "excerpt": "公安机关网安部门持续推进“净网—2026”专项行动，聚焦涉日喀则吉隆口岸泥石流灾害网络谣言乱象，依法打击编造虚假灾情信息误导公众、扰乱网络秩序相关违法犯罪，确保救灾工作顺利开展。现发布10起典型案例：",
+      "section": "cn-news",
+      "rankScore": 0.767597
+    },
+    {
+      "id": "4358a96bd8ff7f60",
+      "title": "新能源新周期，南方基金旗下新能源系列ETF布局机遇备受关注",
+      "url": "https://www.jiemian.com/article/15031505.html",
+      "source": "jiemian",
+      "publishedAt": "2026-08-31T01:20:29.000Z",
+      "author": "jianli@jiemian.com(有连云)",
+      "excerpt": "截至上周五收盘，新能源ETF南方（516160）跟踪标的中证新能源指数上周跌1.90%。",
+      "section": "cn-news",
+      "rankScore": 0.695913
+    },
+    {
+      "id": "190d2824dea896b7",
+      "title": "2.7万公里“黄金大外环”如何赋能我国高质量发展？解读来了",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687005.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-08-31T00:43:37.000Z",
+      "excerpt": "“十五五”期间，我国将打造一条全长近2.7万公里的“黄金大外环”，这相当于地球赤道周长的三分之二。它由沿边国道219、国道331和沿海国道228三条骨干通道首尾衔接而成。",
+      "section": "cn-news",
+      "rankScore": 0.617105
+    },
+    {
+      "id": "007200f1c84178c1",
+      "title": "进步派迎来“胜利之夏”，民主社会主义者能否重塑美国民主党？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00WVdxX1lMZS15MlZnU2Z0UUJ0TlAxa2ZWTGR1c3U5U0R2dUdlUW9EUTIzRUZOeG1DVTlGTW55MFdNdzZib1BfV19TU3pmdUs2aENXR1AxRFNsclRmYnRvZA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-08-30T23:49:00.000Z",
+      "excerpt": "进步派迎来“胜利之夏”，民主社会主义者能否重塑美国民主党？",
+      "section": "cn-news",
+      "rankScore": 0.603451
+    },
+    {
+      "id": "1956933256cb7c31",
+      "title": "树立和践行正确政绩观是一项长期任务",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yTnpPTS1XcE1OZndpeERKbEUxWG91dnlZVVJkNG05WDdLVG9Yd1lRY2xNSzdwTXRvcHlsVFl6b2w1b0pxMks3WWRMX1lNMVVWbW5saU1mMzhTQmxpVjVFZVNRZ2x3S0xYZS15bXhJMFJBamVGNGFRN1NCWkw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-08-31T01:05:44.000Z",
+      "excerpt": "树立和践行正确政绩观是一项长期任务 求是 从一条渠读懂正确政绩观（连线评论员） 人民日报 省委书记点题，县委书记最该想、最该谋、最该干这件事 finance.sina.com.cn 省委常委会召开扩大会议 尹弘主持并讲话 凤凰网江西 习言道｜习近平心中的“最大政绩” 光明网",
+      "section": "cn-news",
+      "rankScore": 0.553453
+    },
+    {
+      "id": "a2f831f6ac9d1904",
+      "title": "具身智能机器人迈向“价值兑现”",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yZzRCVHQzWGJERVZfai1wSXV3OXlFaERtUklvQ1pxd2tyaU80aEFReERNaTN3NXo3cm5Dc1dzYU9GWEt0NHdfQ0RjNERYWGFYVkZtaFREMUx3QmdBVUF5MnpfSFBEaFNyeHhoLVJuUGtCdi0xc2FLTGstczBvdw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-08-31T01:18:37.000Z",
+      "excerpt": "具身智能机器人迈向“价值兑现” 新华网 中国机器人加速领跑全球（国际论道） finance.sina.com.cn 杭州“老城区”做活“新经济” 搜狐网 中科创达携手北京人形机器人创新中心推动机器人规模化落地 中华网 机器人加速“跑”进千行百业 中国网新闻中心",
+      "section": "cn-news",
+      "rankScore": 0.486776
+    },
+    {
+      "id": "56b020f38d256deb",
+      "title": "Trita Parsi on why US air strikes strengthened Iran’s hand and failed to trigger a revolt",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3365735/trita-parsi-why-us-air-strikes-strengthened-irans-hand-and-failed-trigger-revolt?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-08-30T22:00:06.000Z",
+      "author": "Josephine Ma",
+      "excerpt": "Trita Parsi is co-founder and executive vice-president of the Quincy Institute, a Washington-based think tank. He is an expert on US-Iranian relations, Iranian foreign policy and the geopolitics of the Middle East.",
+      "section": "cn-news",
+      "rankScore": 0.448176
+    },
+    {
+      "id": "b745c4af362a1fcb",
+      "title": "泰国女排主教练：中国队一直是我们的老师",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNckJZbjVTMmNPbFp2SWNSRHFSZzFqeGpkVU8xR01DU1RFaXFHeDlPUWptVVNwYkw5WjFVS1NpSEp5aXJHSkNPQlh5dkxJdzQzd1FWOHFILVN1V01qSmNXLVB2bnRyZmwySHFGSVJUSXRzSi11UU5PZ1dUbGJBb3U1Q0tn?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-08-31T01:04:42.000Z",
+      "excerpt": "泰国女排主教练：中国队一直是我们的老师 新华网 亚锦赛摘银 中国女排无缘直通洛杉矶奥运会 新华网 错失奥运“头等舱”！这是最弱中国女排？ 凤凰网 中国女排决赛对手泰国队实力如何？ finance.sina.com.cn 过度年轻化成中国女排失利原因！赵勇喊口号无果，球队丧失特色只会盲目模仿 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.414917
+    },
+    {
+      "id": "d279f991e724bab9",
+      "title": "中國在南海民主礁巡航 進行漁業執法檢查",
+      "url": "https://www.cna.com.tw/news/acn/202608300183.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-08-30T14:33:53.000Z",
+      "excerpt": "（中央社記者馮昭上海30日電）央視新聞今天報導，中國海警編隊在南海民主礁（中國稱黃岩島）海域「執法巡查」，無人機加入空中偵察。巡航編隊的執法員還對附近海域作業漁船進行漁業執法檢查和普法宣傳。",
+      "section": "cn-news",
+      "rankScore": 0.413041
+    },
+    {
+      "id": "ad2b8ba0c2c6a272",
+      "title": "“沙德尔”残余涡旋入海后将再次发展加强 江淮江南华南等地有强降雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10686997.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-08-31T01:11:57.000Z",
+      "excerpt": "中新网8月31日电 据中央气象台网站31日消息，预计未来三天，江淮、江南中东部、华南东部等地部分地区将有强降雨，局地伴有雷暴大风等强对流天气，注意防范强降雨或持续降雨可能引发的次生灾害。内蒙古东北部、黑龙江等地多降雨天气，关注对农业生产等的不利影响。",
+      "section": "cn-life",
+      "rankScore": 0.832251
+    },
+    {
+      "id": "48eb6c8f658a5cb6",
+      "title": "沃什杰克逊霍尔首讲：通胀优先，利率看数据",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vUGlrMU1YT2FQWEN6YmJRZ25LUGJ0QVAxdFRtZnBYV3RhUFVZbVByV1J0WE9Zb0lWVmxGUURyR0pUbHdaMEdVWEg0SDdrNmx6SG5fSDcyUWFJTVlxdWkyQ29icUlodWNYZWpiME4tRnZxZU9xWXNGOEcwSWdpQQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-08-31T01:29:43.000Z",
+      "excerpt": "沃什杰克逊霍尔首讲：通胀优先，利率看数据 同花顺财经",
+      "section": "cn-life",
+      "rankScore": 0.62863
+    },
+    {
+      "id": "00f84f00a0334455",
+      "title": "西藏吉隆救灾一线又开通一座4/5G基站_现代西藏",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52WEtHdHZNSDQ5X08yVi1vaXV5UmZTZDBfWkt3b1dtNUZyTm9QN2pBM0dmOGJhVGhPNjdfQklZQzBjVzNJdzRlaVJGcy1ESFdkUFd6djE3UWNUVkN2blJZVjJmbDBJTW9IRUE?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-08-31T01:25:51.000Z",
+      "excerpt": "西藏吉隆救灾一线又开通一座4/5G基站_现代西藏 中国西藏网",
+      "section": "cn-life",
+      "rankScore": 0.627663
+    },
+    {
+      "id": "8157f4f5f3004d20",
+      "title": "中山市小榄镇投资促进中心2025年度小榄镇部门决算公开",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MSHJkdEc2QUxvdnJ2OUZmWFFPMG9taHBIZlVMWmJKUG9ra3BsN29lOEZGWV81WnR2MURxSElHVzFwSUM3S0NDNVpiSUtKQjlsVG0wOWw0S2p1Nm1qMFZnR2V2Y1p1MEx6cDFnYw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-08-31T01:34:40.000Z",
+      "excerpt": "中山市小榄镇投资促进中心2025年度小榄镇部门决算公开 zs.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.559882
+    },
+    {
+      "id": "2f60106c4a7595d0",
+      "title": "三文鱼切片大肠菌群超标4倍多！沃尔玛道歉",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVm14MEwya05SSXY1c1hVX1o1eVRxSmI3UVNqWk9BZXVEQ2N0RFFCTE9jeTRBREx3S0haZ2FCTE51cldkYnRSb1VHclN4QmJsRjRYLVRIczBRclRlSWdKSS1JamM3cjMtTFZkRW90MkRKcm83cDlxWU9pcmNIeXIwc3EyT1l2UQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-08-31T01:00:13.000Z",
+      "excerpt": "三文鱼切片大肠菌群超标4倍多！沃尔玛道歉 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.483198
+    },
+    {
+      "id": "fcb068ba6bb338e8",
+      "title": "警惕！3大呼吸道病毒在抬头疫苗接种率不足50% - VanPeople",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rQWRJSDJlSnRCVHhjQ1pwdjZ3aU9NR01Ec1d6TmhGLUpCcmhpdmxrZDdOcHlaak1aa0t4RjlOeU11R3puWC1jRmxUNENXOFBk?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-08-30T21:15:34.000Z",
+      "excerpt": "警惕！3大呼吸道病毒在抬头疫苗接种率不足50% VanPeople",
+      "section": "cn-life",
+      "rankScore": 0.439516
+    },
+    {
+      "id": "9f90f1dca0849791",
+      "title": "超本科线100多分，他们为什么还选高职？",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPVDJaNmk4a0V3U25SRjB6S3g0MGxPNkpWTVYxbmQwUmpIYmVkWnB6TlNvcjBGSWRsUU9QN2lFZWgzTGF2akFaMHNPNzBILVpoZHRabFU0WlJOelhuRG01dzZNTGFoU3dJc3c?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-08-31T01:25:00.000Z",
+      "excerpt": "超本科线100多分，他们为什么还选高职？ 教育在线",
+      "section": "cn-life",
+      "rankScore": 0.418301
+    },
+    {
+      "id": "a14b1bf633ae3ace",
+      "title": "长鑫之后，合肥押注核聚变",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mUWlWeVMzTXQ4ZDY0SHppYnVjRjg5aHdCRUpLOTFQVkJzZF9QZkpLUjVNMDFZd3pSZ004Z3hJbE1pM0VBM1QwUjJsS19ENEtKbFJVVzN6Y1NqMFU?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-08-30T23:54:14.000Z",
+      "excerpt": "长鑫之后，合肥押注核聚变 风闻",
+      "section": "cn-life",
+      "rankScore": 0.335977
+    }
+  ],
+  "warnings": [
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
