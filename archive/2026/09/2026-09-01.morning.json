@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-01",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-01T01:48:40.405Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "a9801b051e1906b6",
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-31T21:10:58.000Z",
+      "score": 505,
+      "author": "twapi",
+      "excerpt": "505 points · 402 comments · https://news.ycombinator.com/item?id=49514878",
+      "section": "tech",
+      "rankScore": 1.156384
+    },
+    {
+      "id": "fe5eef59d53ec4e1",
+      "title": "Janet 1.42.0",
+      "url": "https://github.com/janet-lang/janet/releases/tag/v1.42.0",
+      "source": "lobsters",
+      "publishedAt": "2026-09-01T00:05:30.000Z",
+      "author": "github.com via veqq",
+      "section": "tech",
+      "rankScore": 0.604207
+    },
+    {
+      "id": "d3aad07d1daa1dde",
+      "title": "Java News Roundup: GraalVM, Jakarta Data, JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere",
+      "url": "https://www.infoq.com/news/2026/08/java-news-roundup-aug24-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-08-31T11:30:00.000Z",
+      "author": "Michael Redlich",
+      "excerpt": "This week's Java roundup for August 24th, 2026, features news highlighting: the GA release of Atmosphere 4.0; point releases of GraalVM, Azul Payara and Quarkus; a maintenance release of WildFly 41; milestone releases of Jakarta Data and Eclipse JNoSQL; a beta release of the September 2026 edition…",
+      "section": "tech",
+      "rankScore": 0.46148
+    },
+    {
+      "id": "cec7fb3db542b597",
+      "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
+      "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+      "source": "ars-technica",
+      "publishedAt": "2026-08-31T23:01:16.000Z",
+      "author": "Jonathan M. Gitlin",
+      "excerpt": "It's the lightest Bentley in 85 years.",
+      "section": "tech",
+      "rankScore": 0.457449
+    },
+    {
+      "id": "343ae2e9fefa78f5",
+      "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
+      "url": "https://css-tricks.com/whats-important-18/",
+      "source": "css-tricks",
+      "publishedAt": "2026-08-31T14:08:55.000Z",
+      "author": "Daniel Schwarz",
+      "excerpt": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.",
+      "section": "tech",
+      "rankScore": 0.455061
+    },
+    {
+      "id": "5a64cd0863ce5927",
+      "title": "The Google TV Streamer now costs $50 more",
+      "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+      "source": "verge",
+      "publishedAt": "2026-08-31T22:32:51.000Z",
+      "author": "Stevie Bonifield",
+      "excerpt": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new […]",
+      "section": "tech",
+      "rankScore": 0.451923
+    },
+    {
+      "id": "baab4c2d1dc4de06",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "openai",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "excerpt": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "section": "ai",
+      "rankScore": 0.370128
+    },
+    {
+      "id": "85ce76272a1c0d78",
+      "title": "AI放大个体生产力，团队协作该往哪里发力？",
+      "url": "https://www.36kr.com/p/3964097409228294",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-01T00:50:51.000Z",
+      "author": "哈佛商业评论",
+      "excerpt": "AI 大幅提升了单人生产力，仅凭个体就能快速搭建产品原型。但界定核心问题、研判方案价值这类思辨判断，更依赖团队协作。未来团队的发力重点不再是分工落地，而是汇聚多元视角校准方向，管理者也需要调整组织与创新流程，聚焦高价值的决策环节。 AI工具已经足够强大，让单人创业的可行性不断提升，没有技术背景的创新者也能做出可用产品。随着AI普及，这种“单人开发”模式不仅出现在初创公司，在大型企业内部也逐步落地。在整个创新流程里，执行环节已经被AI普惠化：产品经理无需编写一行代码就能搭建可运行原型，开发者则可以借助AI加速软件开发、测试、文档撰写与数据处理。",
+      "section": "cn-tech",
+      "rankScore": 0.615544
+    },
+    {
+      "id": "1e92b13587c74118",
+      "title": "OpenShot 4.0 释出",
+      "url": "https://www.solidot.org/story?sid=85246",
+      "source": "solidot",
+      "publishedAt": "2026-08-31T16:54:12.000Z",
+      "excerpt": "自由软件视频编辑器项目 OpenShot 释出了 v4.0 版本。主要新特性包括：新色彩视图；新录制视图：将麦克风、屏幕、Web 摄像头和系统音频直接添加到项目中，每个音源保持独立且可编辑；10 种新特效；使用本地大模型选择和跟踪对象；更简洁的原生时间线；更快的特效和编辑速度；智能的创意工作流程；扩展 Qt 6 支持，改进了与较新 Linux 发行版的兼容性，为 Android 和其它平台奠定了基础。",
+      "section": "cn-tech",
+      "rankScore": 0.606689
+    },
+    {
+      "id": "0d433f5f842792c4",
+      "title": "AI 写代码飞快，为何交付没有变快？小红书 Muse 的 Agentic 架构实践",
+      "url": "https://www.infoq.cn/article/l88X1azz8wfwphDyECoP?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-08-31T16:48:57.000Z",
+      "author": "作者：郑鑫祺",
+      "section": "cn-tech",
+      "rankScore": 0.550077
+    },
+    {
+      "id": "7be163da8e04eda7",
+      "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
+      "url": "https://sspai.com/post/114055",
+      "source": "sspai",
+      "publishedAt": "2026-09-01T00:17:20.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "少数派的近期动态能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章全球仅剩三位数的物种，科学家却连一个准数都数不出来屏幕之外，桌面之上 ...",
+      "section": "cn-tech",
+      "rankScore": 0.539702
+    },
+    {
+      "id": "fab2cb4a1b514fbe",
+      "title": "轻量级运维极速引擎 OpsFlash v0.4.0 正式发布",
+      "url": "https://www.oschina.net/news/502230",
+      "source": "oschina",
+      "publishedAt": "2026-08-31T14:35:55.000Z",
+      "excerpt": "OpsFlash v0.4.0 版本发布： 新增 Redis / MySQL / TDengine 数据库执行能力： 连接管理：新增三种数据库类型（默认端口 6379 / 3306 / 6041），创建/编辑弹窗可一键测试连通性，指令库目标连接自动按类型过滤 Redis 执行器：基于 go-redis 执行任意指令（PING / GET / SET 等），结果统一展开展示 MySQL 执行器：查询类...",
+      "section": "cn-tech",
+      "rankScore": 0.461811
+    },
+    {
+      "id": "d0de3cbd897006eb",
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-31T12:14:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions.",
+      "section": "security",
+      "rankScore": 0.473702
+    },
+    {
+      "id": "653cd3405d3b791d",
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-08-31T11:47:24.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security.",
+      "section": "security",
+      "rankScore": 0.466313
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 189 days old (budget 180d)",
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
