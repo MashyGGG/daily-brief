@@ -1,0 +1,322 @@
+{
+  "date": "2026-09-01",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-01T15:27:24.370Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "2e01ec438e235244",
+      "title": "上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？",
+      "url": "https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-01T14:11:23.000Z",
+      "excerpt": "「整套東西說穿了，就是共識旗幟下的中國工具箱。成員加入自己感興趣的部分，沒有人被要求成為盟友。北京不要求同盟式義務，它要的是背書、參與，以及不要阻擋（中國）。」",
+      "section": "news",
+      "rankScore": 0.789318
+    },
+    {
+      "id": "278498652e24c722",
+      "title": "法国专家：为何有必要强调尼泊尔泥石流的核心诱因是山崩而非冰崩",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20260901-%E6%B3%95%E5%9B%BD%E4%B8%93%E5%AE%B6-%E4%B8%BA%E4%BD%95%E6%9C%89%E5%BF%85%E8%A6%81%E5%BC%BA%E8%B0%83%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%9A%84%E6%A0%B8%E5%BF%83%E8%AF%B1%E5%9B%A0%E6%98%AF%E5%B1%B1%E5%B4%A9%E8%80%8C%E9%9D%9E%E5%86%B0%E5%B4%A9",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-01T15:11:18.000Z",
+      "author": "杨眉",
+      "excerpt": "上周中尼边界突发的泥石流洪灾到今天周二已经造成900多人死亡，近5000人失踪，中国官方在上周日公布了对此次灾难的原因的分析，中国专家一致认为其主因是位于尼泊尔境内的冰川的崩溃，“冰川崩解下来带动了岩崩，所有的崩解下来形成冰川泥石流。”不过，上述说法与国际学者近日发表在科学网站上的文章颇有出入，这篇文章十分明确的指出： 造成此一灾难的原因是一場山崩，而非冰川崩潰，是山崩引發了一連串事件的連鎖反應。 那西方学者的说法的论据是什么？区分灾难的核心原因是冰崩还是山崩又有什么意义？",
+      "section": "news",
+      "rankScore": 0.691052
+    },
+    {
+      "id": "9c6072fa660cbfc6",
+      "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-01T15:20:12.000Z",
+      "excerpt": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history with police.",
+      "section": "news",
+      "rankScore": 0.626397
+    },
+    {
+      "id": "8a23068343955596",
+      "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
+      "url": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-01T15:22:45.000Z",
+      "author": "Maya Tekeli",
+      "excerpt": "To protect its waters from overexposure to nitrates, Denmark is proposing a crackdown on fertilizer use. Farmers aren’t happy.",
+      "section": "news",
+      "rankScore": 0.557931
+    },
+    {
+      "id": "f4f08a35884240d4",
+      "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
+      "url": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-01T15:06:27.000Z",
+      "author": "Dan Sabbagh in Kyiv",
+      "excerpt": "Zelenskyy says Moscow is capitalising on shortage of US-made Patriot interceptors to lower morale in capital Europe live – latest updates At least 12 people have been killed in and around Kyiv overnight as Ukraine’s capital endured a sixth consecutive night of Russian drone and missile attacks…",
+      "section": "news",
+      "rankScore": 0.550686
+    },
+    {
+      "id": "8df8580b574d8665",
+      "title": "Palestinian farmers inspect olive trees bulldozed by Israeli forces",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinian-farmers-inspect-olive-trees-bulldozed-by-israeli-forces?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-01T14:55:56.000Z",
+      "excerpt": "Palestinian farmers inspect olive trees bulldozed by Israeli forces",
+      "section": "news",
+      "rankScore": 0.546012
+    },
+    {
+      "id": "dadda77f72253644",
+      "title": "Global bond sell-off deepens amid inflation fears",
+      "url": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-01T14:59:22.000Z",
+      "excerpt": "UK borrowing costs rise to highest level since 2008 and Japanese yields hit peaks not seen since 1990s",
+      "section": "news",
+      "rankScore": 0.479096
+    },
+    {
+      "id": "6ce7df91c2a16a10",
+      "title": "Satsuki Katayama, the Woman at the Center of Japan’s Currency Fight",
+      "url": "https://www.nytimes.com/2026/09/01/business/japan-finance-minister-yen.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-01T14:09:36.000Z",
+      "author": "River Akira Davis, Kiuko Notoya and Hisako Ueno",
+      "excerpt": "Japan’s finance minister, Satsuki Katayama, is under pressure to strengthen the yen while balancing competing demands from the prime minister and Washington.",
+      "section": "news",
+      "rankScore": 0.459742
+    },
+    {
+      "id": "cc4508561b997a6e",
+      "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",
+      "url": "https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary",
+      "source": "npr-news",
+      "publishedAt": "2026-09-01T13:52:18.000Z",
+      "author": "Tilda Wilson",
+      "excerpt": "Wendell Berry has died at age 92 He was a beloved American poet, novelist, essayist, and farmer.",
+      "section": "news",
+      "rankScore": 0.453014
+    },
+    {
+      "id": "508e448f2af62b95",
+      "title": "西班牙6月至8月逾5000人因关联高温原因死亡",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CS0NUbHV5c1dyaEU1eEJiUjF0M0pmdlBIa2h2TFRGUzlhZzRFTnFzUF9naUtoaDRzaHg2YjRjOHFkZ0o4WmJ2MGV5ZUtBVG1TaWdLQk9ZSFFwWTJFZ0xIYXhiSEJwQlRrZGxDcE1EUi0tQVpNcVZmYzZheDMydw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-01T14:19:11.000Z",
+      "excerpt": "西班牙6月至8月逾5000人因关联高温原因死亡 新华网 极端高温重创欧洲经济：死亡人数超3.5万，葡萄歉收、工厂减产，GDP增速或被拖累0.2个百分点 华尔街见闻 西班牙今夏逾5000人死于高温相关原因 创10年来新高 联合早报 欧洲今夏3.5万人因高温死亡 西班牙破纪录；休达企业因危机面临生存压力“多年努力48小时被毁” 华人头条 西班牙热浪或已致5232人死亡，创历史监测纪录| 乌克兰新闻 Межа. Новини України.",
+      "section": "news",
+      "rankScore": 0.397259
+    },
+    {
+      "id": "007250388fe3a80b",
+      "title": "如何重建家园？尼泊尔年轻总理面临考验",
+      "url": "https://cn.nytimes.com/world/20260901/nepal-floods-balen-shah-gen-z/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-01T04:53:54.000Z",
+      "author": "BINOD GHIMIRE,MUJIB MASHAL",
+      "excerpt": "现年36岁的总理沙阿顺应民粹主义浪潮上台，但这场灾难令他和组建不久的政府面临艰巨的考验，除了目前的紧急响应，政府还必须应对未来不可避免的深层经济困境。 Atul Loke for The New York Times 周日，尼泊尔德维加特地区，由于喜马拉雅地区冰川崩塌引发洪水，河水水位上涨。",
+      "section": "news",
+      "rankScore": 0.382857
+    },
+    {
+      "id": "d924333f4c3d3304",
+      "title": "Nepal floods: Mounting death toll and concern for women and girls",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168234",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "excerpt": "As rescue efforts continue in Nepal, humanitarians are focused on how the recent deadly flash floods have impacted women and girls, as well as access to healthcare.",
+      "section": "news",
+      "rankScore": 0.350865
+    },
+    {
+      "id": "f62f788adf2b3354",
+      "title": "上海合作组织二十五周年比什凯克宣言",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688336.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-01T15:10:22.000Z",
+      "excerpt": "新华社比什凯克9月1日电#8195;上海合作组织二十五周年比什凯克宣言",
+      "section": "cn-news",
+      "rankScore": 0.759587
+    },
+    {
+      "id": "a927946300b26f9e",
+      "title": "为什么停编31小时之后，台风“沙德尔”又“复活”了？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688210.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-01T12:37:39.000Z",
+      "excerpt": "中新网北京9月1日电(记者 邵萌)今年第18号台风“沙德尔”于8月28日在浙江登陆后，在30日减弱停编，其残余涡旋移入南海后于9月1日凌晨再度加强为台风(热带风暴级)，中央气象台继续维持原台风名称“沙德尔”和编号2618不变。",
+      "section": "cn-news",
+      "rankScore": 0.726829
+    },
+    {
+      "id": "841b4a857f2dc911",
+      "title": "习近平将抵达埃及开罗",
+      "url": "https://www.jiemian.com/article/15042745.html",
+      "source": "jiemian",
+      "publishedAt": "2026-09-01T15:23:30.000Z",
+      "author": "jianli@jiemian.com(界面)",
+      "section": "cn-news",
+      "rankScore": 0.69783
+    },
+    {
+      "id": "a04ea67822689458",
+      "title": "暑运期间中国民航累计运送旅客超1.5亿人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688337.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-01T15:22:49.000Z",
+      "excerpt": "中新社北京9月1日电 (记者 刘文文)为期62天的中国民航暑运已于8月31日结束。记者9月1日从中国民航局获悉，7月1日至8月31日，全国民航累计运送旅客1.51亿人次，日均244.2万人次，同比增长2.9%；累计保障航班121.1万班，日均1.95万班，同比增长1%。(完)",
+      "section": "cn-news",
+      "rankScore": 0.627705
+    },
+    {
+      "id": "861414148bab6ce2",
+      "title": "官方通报“湖南一小学开学首日有学生无教室上课，席地而坐”：家校沟通不到位引发矛盾，向学生、家长致歉；教室已完成布置，明日正常开课",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6RHhwczdWdE40NnZDcDhad29YU2gtanZHSEpWc1hPSnZna1B2WHpqVU43Z3NLblFhMG1KelluTUFPeDZpVmJlcnVsNFVlb1BQdlJSaktKQnZBM0VtcWc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-01T13:39:00.000Z",
+      "excerpt": "官方通报“湖南一小学开学首日有学生无教室上课，席地而坐”：家校沟通不到位引发矛盾，向学生、家长致歉；教室已完成布置，明日正常开课",
+      "section": "cn-news",
+      "rankScore": 0.575797
+    },
+    {
+      "id": "368a2d80b5a614ce",
+      "title": "民航暑运收官，1.51亿人次客流里的新变化",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSG5QUFk3VHp6YlJnSWRmRFAtN0JQZE5yRGdkNGQ5VUR6aG00b0gzbmc2R2tCbXR5VTkwY1RmMEl1azFQMlpyX1FUbDZUOHhNSUdtdmFoZVhxbHBMYU1SU0NDaEpPeDB0YVVGRmFYcjY3SUk2dnFMa2REd1FXMWxaXzZGWlBudzZh?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-01T15:00:47.000Z",
+      "excerpt": "民航暑运收官，1.51亿人次客流里的新变化 新华网 暑运期间民航累计运送旅客超1.5亿人次 cj.sina.cn 中国北疆民航迎最繁忙暑运 多项指标创历史新高 Sohu 404.9万人次！济南机场暑运“热度”与“温度”并存 中国民航网 多项指标创新高！暑运收官，青岛航空承运旅客超121万人次 青岛日报",
+      "section": "cn-news",
+      "rankScore": 0.548168
+    },
+    {
+      "id": "6910a19f386179fe",
+      "title": "成都大學學院黨委書記被指涉嫌抄襲 校方展開調查稱零容忍",
+      "url": "https://www.cna.com.tw/news/acn/202609010353.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-01T12:47:17.000Z",
+      "excerpt": "（中央社台北1日電）中國成都大學音樂與舞蹈學院黨委書記、教授曾勤被指學術著作涉嫌抄襲。校方今天表示，對學術不端行為「零容忍」，已成立調查組。",
+      "section": "cn-news",
+      "rankScore": 0.488834
+    },
+    {
+      "id": "c914f859bd6c8927",
+      "title": "China, global trading partners watch closely as Trump takes on Canada",
+      "url": "https://www.scmp.com/news/us/article/3365998/china-global-trading-partners-watch-closely-trump-takes-canada?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-01T15:00:07.000Z",
+      "author": "Mark Magnier",
+      "excerpt": "The latest trade war between the United States and Canada marks a turning point with key lessons for China and other major US trading partners as well as risks, say analysts and former trade officials, as US President Donald Trump continues to put his blunt stamp on global institutions.",
+      "section": "cn-news",
+      "rankScore": 0.479387
+    },
+    {
+      "id": "c54386e529f570d1",
+      "title": "蔚来李斌：二季度整车毛利率保持在18.5%高位",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nejdJVkFMNGlHUmp5NUVPcXRoVU5aRFp5dldWa2R2c3k1d2VtTHhkSDBtc1JzV2pHWFBtLTExbTczcHQzdHRRaTFfcHZpTkhnYm4zNXQzSzdBdkZqLVF0X0pVOXpCUQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-01T13:35:20.000Z",
+      "excerpt": "蔚来李斌：二季度整车毛利率保持在18.5%高位 东方财富 蔚来2026 财年上半年营收576.7 亿元|蔚来|神玑|小米汽车|比亚迪_新浪新闻 新浪网 李斌：下半年单车成本至少再涨2000元，有信心保持毛利高速增长 thepaper.cn 蔚来二季度营收321.4亿元，同比增长69%，三季度营收指引332.9亿-340.5亿元 | 财报见闻 华尔街见闻 蔚来汽车曲玉：预计下半年单车成本将继续上涨2000-3000元 凤凰网科技",
+      "section": "cn-news",
+      "rankScore": 0.446416
+    },
+    {
+      "id": "c3a577d39f6c9d41",
+      "title": "《重案六组：消失的警号》导演李昂谈选角：李沐宸的勇敢和韧性让她成为季洁的人选",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NTHJvdjlBRTcteTVsV1p4SzFxS0NkODNyV2FXdERaLV90RHlDalpwR1NLRzZMbVFfMkdGX0ZucDRJLXpuZnlKMktpNV9ORGN2NElRVUFYWlQwR0RKeEE?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-01T12:14:55.000Z",
+      "excerpt": "《重案六组：消失的警号》导演李昂谈选角：李沐宸的勇敢和韧性让她成为季洁的人选 京报网 “还我季洁”吵上热搜！《重案六组》新作一开播就翻了个大的？ 观察者 新浪网· 新浪网 李诚儒回应重案六组翻拍：不贬低新版，不消费情怀 中华网 比短剧长比长剧短，江苏卫视首部中剧《重案六组：消失的警号》开播 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.355837
+    },
+    {
+      "id": "cb167c673b6ac96a",
+      "title": "海南：高风险地中海贫血基因携带家庭符合申请条件平均可获6万至10万元救助",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688327.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-01T15:24:59.000Z",
+      "excerpt": "中新网海口9月1日电 (记者 符宇群)海南省红十字会秘书长李金跃1日在海南省新闻办公室举行的发布会上说，“阳光宝贝基金”运行三年来，已累计救助80对地中海贫血(简称“地贫”)高风险夫妇，符合申请救助条件的家庭平均可获6万至10万元救助。",
+      "section": "cn-life",
+      "rankScore": 0.838385
+    },
+    {
+      "id": "b071f63e3925946f",
+      "title": "日本首都圈举行设想M8.2级地震的防灾训练",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2OExXZGNSSG5tR29nM2FzVjhGSF9qUjhrTTRyMDR6ZDNhdWNiWGhmaW5EdEVST2dEbVBnbU56R0s1RTh1bVpZZmNnVWozb0l3aWRXc3lwRQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-01T15:14:29.000Z",
+      "excerpt": "日本首都圈举行设想M8.2级地震的防灾训练 共同网",
+      "section": "cn-life",
+      "rankScore": 0.623539
+    },
+    {
+      "id": "e594b59ab427954a",
+      "title": "智库论见丨人工智能影响就业的两大规律：替代效应与扩容效应",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tTUhJUGNtQnhqWTFPLXVKeVFDeW1zZ2d1U0EzNEtkQVpIdDRTckpsaGFneDBoeTdTMW52VGZIWHJTamlnWUotTEhtdXdTTU12YnFGX1NFSkFGaGxrSnFLMkh6RDRXRnd1WjBmX1hYSzdTUQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-01T14:46:45.000Z",
+      "excerpt": "智库论见丨人工智能影响就业的两大规律：替代效应与扩容效应 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.609672
+    },
+    {
+      "id": "4c04bee9406443cc",
+      "title": "北京产权交易所",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3UWNWeTFRMjR4XzNVc2Y0RXEzeGFBWGlVMDUwVERKZWdUR0FmN2JqQVJVeFMwYUxYc054STBPMDdMZmhEZW4wR19aVkQzNmpLYmNJRXkzM1pvdlM1N3BEQnlXSGlDOGJEdk9naVVaWUk5QQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-01T14:11:48.000Z",
+      "excerpt": "北京产权交易所 ggzyfw.beijing.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.526397
+    },
+    {
+      "id": "1591225af76ef513",
+      "title": "佐力药业：关于公司药品生产许可证变更的公告",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nOUFFYURGUVNPcS0ycks1V1JiNk1oR1pZeXVYU1dRY0s2ZEZiZ25pcENNUS1hRjkzdjJDWHQ1ODhVcmt2ZGE0QUVmUlFSVVd6dWozd3Ywc01PWmlJRkQ4NVVzY1ltQQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-01T13:35:31.000Z",
+      "excerpt": "佐力药业：关于公司药品生产许可证变更的公告 东方财富",
+      "section": "cn-life",
+      "rankScore": 0.446487
+    },
+    {
+      "id": "414dec1344fb467d",
+      "title": "开学首日学生没有教室上课，席地而坐，当地教育局及学校致歉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3U3RzTW84UTd1SmJpRDhNOGk5c3FNSjhrWXA1SFBYMWtaZjVadGZaWjF0VW1zZm9XWmlBNDJwMU9NMmhIaWZ0cFZmaGtuR2ZLejQ0di00T0FHYnp3ZUNHVVNoWXp5QQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-01T14:35:00.000Z",
+      "excerpt": "开学首日学生没有教室上课，席地而坐，当地教育局及学校致歉 观察者",
+      "section": "cn-life",
+      "rankScore": 0.402531
+    },
+    {
+      "id": "714167f4d0aef84f",
+      "title": "每天量血压五六次、5个月记满一厚本！武汉45岁男子“血压保卫战”太硬核，医生看完都惊叹",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQ0JoNUdZQThKSHFmNTNkTkpDOFdEVFVCc0hOMU1Wd2VsbnYyTlJ4VVhqSFllamRWMDJhdk5jdHlSVHFNTTlkWE83alVsUVMxVlVIbHQ1ZzhYMWM?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-01T10:59:27.000Z",
+      "excerpt": "每天量血压五六次、5个月记满一厚本！武汉45岁男子“血压保卫战”太硬核，医生看完都惊叹 极目新闻",
+      "section": "cn-life",
+      "rankScore": 0.385795
+    },
+    {
+      "id": "9f694f027b4f36be",
+      "title": "南大教授：没有token的CS学生应该立即退学",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95eWFRUVhPOGtXMFNZTEpWeTQ1VVA5OUtFc3IwYlhiZzljVFBrS0FPZjBUaXVZaHVzRk5kSWVaa1FpLVc4WDYwQ1BOUTFsSE02NHJMeHd0NDRRUjMwbDlEeDJYNWI?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-01T04:54:00.000Z",
+      "excerpt": "南大教授：没有token的CS学生应该立即退学",
+      "section": "cn-life",
+      "rankScore": 0.174054
+    }
+  ],
+  "warnings": [
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
