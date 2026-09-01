@@ -1,6 +1,6 @@
 import type { Item } from '../config/schema'
 import { truncate } from '../core/normalize'
-import { localDate, nonEmptySections, type Brief } from '../core/brief'
+import { editionName, localDate, nonEmptySections, type Brief } from '../core/brief'
 
 /** Escape the markdown control characters that appear in real headlines. */
 export function escapeMarkdown(text: string): string {
@@ -104,7 +104,7 @@ export function renderMarkdownBlocks(brief: Brief, options: RenderOptions = {}):
   const esc = options.escape ?? escapeMarkdown
   const blocks: string[] = []
   const sections = nonEmptySections(brief)
-  blocks.push(`# ${brief.title} · ${brief.date}`)
+  blocks.push(`# ${editionName(brief)} · ${brief.date}`)
 
   const digest = digestBlock(brief, options)
   if (digest && options.digestPosition !== 'bottom') blocks.push(digest)

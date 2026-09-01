@@ -1,5 +1,5 @@
 import type { Item } from '../config/schema'
-import { nonEmptySections, type Brief } from '../core/brief'
+import { editionName, nonEmptySections, type Brief } from '../core/brief'
 import { bodyFor, DIGEST_TITLE, type RenderOptions } from './markdown'
 
 /** Plain-text rendering — also the multipart/alternative fallback for the HTML mail. */
@@ -17,7 +17,7 @@ function renderItem(item: Item, index: number, options: RenderOptions): string {
 }
 
 export function renderTextBlocks(brief: Brief, options: RenderOptions = {}): string[] {
-  const blocks: string[] = [`${brief.title} · ${brief.date}`]
+  const blocks: string[] = [`${editionName(brief)} · ${brief.date}`]
   const digest = brief.digest
     ? `【${options.digestTitle ?? DIGEST_TITLE}】\n${brief.digest.text}`
     : null

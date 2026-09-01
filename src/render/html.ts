@@ -1,5 +1,5 @@
 import type { Item } from '../config/schema'
-import { nonEmptySections, type Brief } from '../core/brief'
+import { editionName, nonEmptySections, type Brief } from '../core/brief'
 import { bodyFor, DIGEST_TITLE, type RenderOptions } from './markdown'
 
 /**
@@ -123,10 +123,10 @@ export function renderHtml(brief: Brief, options: RenderOptions = {}): string {
   return [
     '<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">',
     '<meta name="viewport" content="width=device-width,initial-scale=1">',
-    `<title>${escapeHtml(brief.title)} · ${escapeHtml(brief.date)}</title></head>`,
+    `<title>${escapeHtml(editionName(brief))} · ${escapeHtml(brief.date)}</title></head>`,
     `<body style="margin:0;padding:0;background:#f6f8fa">`,
     `<div style="max-width:680px;margin:0 auto;padding:24px 20px 40px;font-family:${FONT};color:#1f2328">`,
-    `<h1 style="margin:0;font-size:22px;letter-spacing:-0.2px">${escapeHtml(brief.title)}</h1>`,
+    `<h1 style="margin:0;font-size:22px;letter-spacing:-0.2px">${escapeHtml(editionName(brief))}</h1>`,
     `<div style="margin:6px 0 0;color:#8c959f;font-size:13px">${escapeHtml(brief.date)} · ${escapeHtml(brief.scheduleId)} · 回溯 ${brief.lookbackHours}h</div>`,
     options.digestPosition === 'bottom' ? '' : renderDigest(brief, options),
     body || '<p style="color:#57606a">今天没有达标内容。</p>',

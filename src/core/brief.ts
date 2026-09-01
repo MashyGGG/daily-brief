@@ -40,8 +40,8 @@ export function restrictSections(brief: Brief, sectionIds: string[]): Brief {
 }
 
 /**
- * The line a reader sees FIRST — the mail subject, the WeCom card title, the ServerChan
- * heading. It has to name the edition, not the publication.
+ * The line a reader sees FIRST — the mail subject, the mail body's <h1>, the WeCom card
+ * title, the ServerChan heading. It has to name the edition, not the publication.
  *
  * `title` alone did not: the four daily issues all inherit the one global `title`, so an
  * inbox held four identical `每日早报 · 2026-08-28` lines a day and Gmail threaded them
@@ -55,9 +55,12 @@ export function restrictSections(brief: Brief, sectionIds: string[]): Brief {
  *
  * The distinguishing word goes first so it survives an inbox that truncates.
  */
+export function editionName(brief: Pick<Brief, 'title' | 'slot'>): string {
+  return brief.slot && brief.slot !== WEEKLY_SLOT ? slotLabel(brief.slot) : brief.title
+}
+
 export function editionSubject(brief: Pick<Brief, 'title' | 'slot' | 'date'>): string {
-  const name = brief.slot && brief.slot !== WEEKLY_SLOT ? slotLabel(brief.slot) : brief.title
-  return `${name} · ${brief.date}`
+  return `${editionName(brief)} · ${brief.date}`
 }
 
 /** Local `YYYY-MM-DD` for a timezone, without pulling in a date library. */

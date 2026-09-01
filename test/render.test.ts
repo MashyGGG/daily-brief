@@ -496,3 +496,26 @@ describe('the injectable escaper (PUBLISH.md §3.2)', () => {
     expect(out).not.toContain('\\')
   })
 })
+
+describe('edition-named body headings', () => {
+  // The subject already says 早间要闻; the body heading must name the same edition,
+  // not fall back to the publication title (每日早报).
+  it('html <h1> and <title> carry the slot label when a slot is set', () => {
+    const out = renderHtml(brief({ scheduleId: 'news-am', slot: 'news-am' }))
+    expect(out).toContain('>早间要闻</h1>')
+    expect(out).toContain('<title>早间要闻 · 2026-08-20</title>')
+    expect(out).not.toContain('<h1 style="margin:0;font-size:22px;letter-spacing:-0.2px">每日早报')
+  })
+
+  it('markdown # heading and text first line carry the slot label', () => {
+    expect(renderMarkdownBlocks(brief({ slot: 'evening' }))[0]).toBe('# 晚报 · 2026-08-20')
+    expect(renderText(brief({ slot: 'evening' }))).toMatch(/^晚报 · 2026-08-20/)
+  })
+
+  it('falls back to the publication title with a null slot, and keeps weekly.title for weekly', () => {
+    expect(renderHtml(brief())).toContain('>每日早报</h1>')
+    const weekly = brief({ slot: 'weekly', title: '每周回顾' })
+    expect(renderHtml(weekly)).toContain('>每周回顾</h1>')
+    expect(renderMarkdownBlocks(weekly)[0]).toBe('# 每周回顾 · 2026-08-20')
+  })
+})
