@@ -1,0 +1,321 @@
+{
+  "date": "2026-09-01",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-01T02:01:42.510Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "969da37bf1c25192",
+      "title": "星巴克咖啡就算了吧——Z世代喜歡喝冰飲",
+      "url": "https://www.bbc.com/zhongwen/articles/c15897j72vno/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-01T01:19:55.000Z",
+      "excerpt": "年輕消費者偏好冷飲和客製化飲品，到星巴克買熱咖啡不是他們的第一選擇。",
+      "section": "news",
+      "rankScore": 0.826069
+    },
+    {
+      "id": "402be2d3d0191797",
+      "title": "为什么西藏边境山洪令准备充分的中国措手不及？",
+      "url": "https://cn.nytimes.com/china/20260901/china-nepal-tibet-flood-himalayas-risk/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-01T00:59:17.000Z",
+      "author": "郭莉莉,PEI-LIN WU",
+      "excerpt": "14个月前，吉隆口岸附近的冰川湖决堤引发山体滑坡，当局随后要求更新应急预案并建设新的防洪系统。但此次灾难与他们准备应对的情况截然不同，监测系统也无法预测。 Cnsphoto, via Reuters 周日，救援人员沿着通往中国吉隆港的道路搜寻失踪人员。上周三，一股由冰块、巨石和水组成的、宛如海啸般的巨浪席卷了该港口区域。",
+      "section": "news",
+      "rankScore": 0.750926
+    },
+    {
+      "id": "69b7575012616359",
+      "title": "一场泥石流灾害暴露了习近平喜马拉雅战略的最大弱点",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260831-%E4%B8%80%E5%9C%BA%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E6%9A%B4%E9%9C%B2%E4%BA%86%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%88%98%E7%95%A5%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BC%B1%E7%82%B9",
+      "source": "rfi-zh",
+      "publishedAt": "2026-08-31T23:44:43.000Z",
+      "author": "阿曼亭",
+      "section": "news",
+      "rankScore": 0.661947
+    },
+    {
+      "id": "7d3383290ddd81e3",
+      "title": "US army secretary resigns after months of tension",
+      "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-01T01:01:03.000Z",
+      "excerpt": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
+      "section": "news",
+      "rankScore": 0.614835
+    },
+    {
+      "id": "8ec34c86b6274941",
+      "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-01T01:56:02.000Z",
+      "author": "Edward Wong, Rebecca F. Elliott and Anatoly Kurmanaev",
+      "excerpt": "The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.",
+      "section": "news",
+      "rankScore": 0.558739
+    },
+    {
+      "id": "4a3172e5cd756e75",
+      "title": "Australia news live: police locate parents of toddler found wandering Sydney street alone at 2am",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-01T01:45:05.000Z",
+      "author": "Nick Visser",
+      "excerpt": "Follow updates live 43 Australians still missing, with concerns growing ‘every day, every hour’ that goes by, Wong says The foreign affairs minister, Penny Wong, says there are still 43 Australian missing after the flooding in Nepal, saying the government holds grave concerns for their safety that…",
+      "section": "news",
+      "rankScore": 0.556306
+    },
+    {
+      "id": "8fb44d742ca9c2a0",
+      "title": "African NGOs demand probe into six bodies found in Guinea mass grave",
+      "url": "https://www.aljazeera.com/news/2026/9/1/african-ngos-demand-probe-into-six-bodies-found-in-guinea-mass-grave?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-01T01:17:59.000Z",
+      "excerpt": "The bodies were found bound and blindfolded in the Forecariah administrative prefecture on August 24.",
+      "section": "news",
+      "rankScore": 0.550283
+    },
+    {
+      "id": "2524f67137975ad3",
+      "title": "Shein’s Lackluster Debut Shows a Fast-Fashion Model Left Behind",
+      "url": "https://www.nytimes.com/2026/08/31/business/shein-ipo-china.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-01T01:40:53.000Z",
+      "author": "Sui-Lee Wee",
+      "excerpt": "Squeezed by new trade rules, shrinking market share and labor concerns, Shein’s share decline in Hong Kong on Tuesday is a sign investors have moved on.",
+      "section": "news",
+      "rankScore": 0.485951
+    },
+    {
+      "id": "48a632c4e5ed88c7",
+      "title": "Number of UK pensioners paying highest tax rates doubles in five years",
+      "url": "https://www.ft.com/content/3dc98731-c523-4d5e-bc06-a148cc40269c?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-08-31T23:01:06.000Z",
+      "excerpt": "More than 1mn will pay extra on their retirement income, according to HMRC figures, as thresholds remain frozen",
+      "section": "news",
+      "rankScore": 0.454882
+    },
+    {
+      "id": "1f56b221ab16517e",
+      "title": "Trump officials cut political interference ban after unusual Census Bureau report",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
+      "source": "npr-news",
+      "publishedAt": "2026-08-31T22:24:12.000Z",
+      "author": "Hansi Lo Wang",
+      "excerpt": "After the Census Bureau issued a report tied to a Trump-aligned think tank, the bureau's parent agency cut language banning political interference from its scientific integrity policy, NPR learned.",
+      "section": "news",
+      "rankScore": 0.447707
+    },
+    {
+      "id": "7fb85651556e0fae",
+      "title": "以军称打死哈马斯一名后勤指挥官",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TTXBpQnRmb3poM19UTl9jSzNHQUpxdVdZeHpzc2VpTGRlOTl2YmZOS3ZfNlR2M0pMQ2ZJUUQyWUxKejVnNlVyeE1KM0dnZEh2TzNwYlBZLTZib0RvSHc?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-01T00:36:07.000Z",
+      "excerpt": "以军称打死哈马斯一名后勤指挥官 同花顺 以军空袭加沙地带中部造成两人死亡|巴勒斯坦伊斯兰抵抗运动|以色列国防军|代尔拜拉赫|哈马斯|拉赫 新浪财经 以色列，突然发动空袭！拜塔维身亡 每日经济新闻 以军：奥马尔·萨拉杰被打死 sohu.com 哈马斯吁穆斯林国家动起来 结束加沙“种族灭绝” news.seehua.com",
+      "section": "news",
+      "rankScore": 0.405735
+    },
+    {
+      "id": "026a95c33a4171d8",
+      "title": "Nepal flooding deaths surpass 900 as needs climb",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168233",
+      "source": "un-news-en",
+      "publishedAt": "2026-08-31T12:00:00.000Z",
+      "excerpt": "The confirmed death toll from Nepal’s catastrophic floods has surged to 903, with more than 4,200 still missing as rescue crews and humanitarian workers battle blocked highways to reach the hardest-hit areas, UN Spokesperson Stéphane Dujarric said on Monday.",
+      "section": "news",
+      "rankScore": 0.279715
+    },
+    {
+      "id": "939bc969df27a0e2",
+      "title": "第23届中国—东盟博览会将在广西南宁举办",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-01/10687649.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-01T01:38:53.000Z",
+      "excerpt": "中新网9月1日电 国新办9月1日上午举行发布会，商务部副部长鄢东介绍第23届中国—东盟博览会筹备的有关情况。",
+      "section": "cn-news",
+      "rankScore": 0.832392
+    },
+    {
+      "id": "607be224ec9003e5",
+      "title": "独家V观｜你好 埃及",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687669.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-01T01:53:44.000Z",
+      "excerpt": "视频：独家V观丨你好 埃及来源：央视新闻客户端",
+      "section": "cn-news",
+      "rankScore": 0.767563
+    },
+    {
+      "id": "6d39f685d3f69ae6",
+      "title": "吉伦泰研制的靶向整合素αvβ3治疗核药获得国家药监局临床试验批件",
+      "url": "https://www.jiemian.com/article/15038371.html",
+      "source": "jiemian",
+      "publishedAt": "2026-09-01T01:52:11.000Z",
+      "author": "jianli@jiemian.com(李科文)",
+      "section": "cn-news",
+      "rankScore": 0.697354
+    },
+    {
+      "id": "a35d8b3d88eb8ad5",
+      "title": "“医院勾结代孕机构，安排代妈持她人身份住院生产”，青海西宁深夜通报：该机构已停业，专项排查整治已启动",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XN3ZuU2xaUU1QcmJpYlJuUzdhVHN2VWcySWZNRFo0WV85NmRyZ3k5Q1J6bmwyOWxlZ0dOb3JEbTlHZXhGSEZqR3RuNUhFa1k2R0N5Sm01NG5OdDR0S1E?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-01T01:47:36.000Z",
+      "excerpt": "“医院勾结代孕机构，安排代妈持她人身份住院生产”，青海西宁深夜通报：该机构已停业，专项排查整治已启动",
+      "section": "cn-news",
+      "rankScore": 0.626473
+    },
+    {
+      "id": "2764397a27154415",
+      "title": "9月1日人民币对美元中间价报6.7809 上调19个基点",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687652.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-01T01:44:53.000Z",
+      "excerpt": "中新网9月1日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月1日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7809元，上调19个基点。",
+      "section": "cn-news",
+      "rankScore": 0.625794
+    },
+    {
+      "id": "b242a75e6d5efad8",
+      "title": "记者手记丨在红海与沙漠间感受中埃合作热火朝天",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnVDVXBNNllwR2xtZkJ4RWFIX1dhN0RkUC1mMnJEMGFia0oyaUFuN2NQSlJPZmJCUjlhankzR0FYUEtOS09GVGRqR2xjZEFnZU1ocUw1V1BKOHpGbGZobEQ0SFhycVNUcjNyMmw2UkoyUjQ3ZTFsWGdPOFNuRnZaRXdOZ21sWTZ4UjllR1JCTU53ZDJzdXRFWTZ3?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-01T01:44:24.000Z",
+      "excerpt": "记者手记丨在红海与沙漠间感受中埃合作热火朝天 新华网客户端 赓续传统友谊加强交流合作--国际 人民网 为中埃关系深入发展擘画新蓝图——埃及各界期待习近平主席对埃进行国事访问 新华网 心相近丨“习近平主席鼓励我们做中埃友好使者” 光明网 “埃中在制造业领域的合作日益深化” t.cj.sina.cn",
+      "section": "cn-news",
+      "rankScore": 0.556154
+    },
+    {
+      "id": "ede7047308609136",
+      "title": "新疆再有小學冠名左宗棠 港媒：強化中華民族意識",
+      "url": "https://www.cna.com.tw/news/acn/202609010024.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-01T01:19:31.000Z",
+      "excerpt": "（中央社記者張謙香港1日電）中國新疆近日又有小學加冠「左宗棠」名稱，港媒分析，此舉反映出北京當局正加強對「收復新疆」的左宗棠的宣傳和紀念，以強化「中華民族共同體意識」。",
+      "section": "cn-news",
+      "rankScore": 0.550624
+    },
+    {
+      "id": "bd18b707558fb2ec",
+      "title": "美伊再度交火 布伦特油价站上每桶90美元",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTFTUzM0cHo2emg5cVUtcmplQmVCYUlOenVDZHRRNG1sQkZEUk5MMHNBeGNYc3RSZGRRRTJUWWFqZFhCdWZpdDF4S0QwbXlHaHlTMmR6VnJNb250akd0RTIyYklzSTFfRmR3RmNybXcxV0NuN25HT2h2dlVtekFua0dERjRZZTJDeU9xZXJfR1p3VjJpT0hlYk1B?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-01T01:49:25.000Z",
+      "excerpt": "美伊再度交火 布伦特油价站上每桶90美元 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.48761
+    },
+    {
+      "id": "b1381267cdda7914",
+      "title": "US university to pay US$2.1 million settlement over claims it didn’t disclose China ties",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3365909/us-university-pay-us21-million-settlement-over-claims-it-didnt-disclose-china-ties?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-01T01:14:55.000Z",
+      "author": "Lucy Quaggin",
+      "excerpt": "A prominent American university has agreed to pay a US$2.1 million settlement to resolve allegations that it failed to disclose employees’ ties to China when applying for federal grant funding, the Department of Justice announced on Monday.",
+      "section": "cn-news",
+      "rankScore": 0.480902
+    },
+    {
+      "id": "fbd432424956a9ca",
+      "title": "《后西游记》上线芒果TV！短剧概念大幅高开 芒果超媒等多股竞价涨停",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uTzlmd0UtUV9MNVhPdU5RekRiblozVHZnS29FVVdyZjNpWUczek5qOUdaREt2T1cwb3Q5QnVoNzk5ZURWZG92alhmS1F1b1JFeWptQjR0U2pLQ25pZm9ubA?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-01T01:31:06.000Z",
+      "excerpt": "《后西游记》上线芒果TV！短剧概念大幅高开 芒果超媒等多股竞价涨停 同花顺 突然引爆！A股这一板块，涨停潮！|联讯仪器|上证指数|深证成指|创业板指|科创综指 新浪财经 AI长剧后西游记收视第一 引发行业关注 中华网 A股短剧互动游戏概念股集体拉升，中文在线、芒果超媒、荣信文化20CM涨停 凤凰网 AI电视剧登上卫视黄金档，是内容生产革命的开端，还是被资本与流量裹挟狂欢？ 风闻",
+      "section": "cn-news",
+      "rankScore": 0.414899
+    },
+    {
+      "id": "c75f1e092b2f154a",
+      "title": "四川一中学收220元“入校门禁费”？官方通报",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687662.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-01T01:53:06.000Z",
+      "excerpt": "中新网9月1日电 据“平昌县教科局”微信公众号消息，四川巴中市平昌县教育科技局31日发布情况通报称，8月30日，有网友反映平昌县响滩中学收取220元入校门禁费有关问题，平昌县教科局已于当日成立调查组，对相关问题进行调查。",
+      "section": "cn-life",
+      "rankScore": 0.837131
+    },
+    {
+      "id": "993bc5fb9ad2c1e8",
+      "title": "日本“防灾日”设想海沟地震实施演练 高市呼吁勿散布假消息",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaRGIwalN0bmdTWnRDeGR6cW9mclJCWDNxeHlodHVqREJ5Y1BwREw4Y2dMYkQ1dGVQZ1VjeVFaMzhLdXltSXBoYk1OcU5qb0psd0RoUlViMA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-01T01:49:25.000Z",
+      "excerpt": "日本“防灾日”设想海沟地震实施演练 高市呼吁勿散布假消息 共同网",
+      "section": "cn-life",
+      "rankScore": 0.626927
+    },
+    {
+      "id": "c0a2c4dab1b33fa3",
+      "title": "新版公积金条例彰显“投资于人”理念",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1waGlHajlIVTZjX0F3UktkRnRvdF94NUhseDdZQzRTLXN0aWRpQ05DUDAtQkNfY2FfRV9RdGNzSTVORzhqLXZBal9uVzlaWkhuVk16LVk2bUotMHVzU0ZXUWVQUQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-01T01:46:12.000Z",
+      "excerpt": "新版公积金条例彰显“投资于人”理念 湖南红网",
+      "section": "cn-life",
+      "rankScore": 0.626123
+    },
+    {
+      "id": "c954f07841134bb8",
+      "title": "高校院所企业资源涌入 机器人智能体“加盟” 新学期中小学人工智能通识课升级",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxQlptNnpkbHlHVXRwOXRqLTlMdm9ocE03N1hjWTBZNVNteUptQlJxSkNWU3VwN1FzQXBTTEI3MUdLMWF6T3JFdHpqdTNNQzVEMzZ0VHNVYlJEeDI2X25hUkpFQVNYUE5pVndjOWNZazdneDBi?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-01T01:06:00.000Z",
+      "excerpt": "高校院所企业资源涌入 机器人智能体“加盟” 新学期中小学人工智能通识课升级 beijing.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.54762
+    },
+    {
+      "id": "c5f3120d16825ecf",
+      "title": "【汽车人】大规模召回为哪般？",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGNuaVRQXy03T1hsSUpVWVQ4b2pwMEQyRXdWeXhSYnlrT1pfaDFock5lUC1JWmRKeTAtbXRHMWJkbC1ZNTNsN1RVTVRkNTM3Mi1qeVpDTHJ5bkhEeVBLZEZ0VkJyYzFTNzJfcVBVYWJsTlJtNms2UkZBVDYzTzg4aUREei1fSkxK?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-01T01:47:07.000Z",
+      "excerpt": "【汽车人】大规模召回为哪般？ sohu.com",
+      "section": "cn-life",
+      "rankScore": 0.487163
+    },
+    {
+      "id": "6fe8a24e7f559cfe",
+      "title": "带状疱疹疫苗可能降低心脏病风险",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GaEY0c21LbF80Ui1ILWc2SnZKM08tVEFkTGIxSGJENVY5QlBxQWwzYjJJREFqeGxPeXhpOHk4bDBuOGt1bW01azY2VjBjSUk2VWN0UjZVTEc2WXBfYURyVA?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-01T01:28:00.000Z",
+      "excerpt": "带状疱疹疫苗可能降低心脏病风险 光明网 带状疱疹疫苗可能降低心脏病风险|心血管疾病|欣安立适|水痘|感染性疾病|病毒 手机新浪网 研究结果表明,为了预防引发严重的神经痛和皮肤斑疹的带状疱疹,注射的\"重组疫苗\"可以降低心脏麻痹、心力衰竭、脑中风等发生危险。不仅仅是单纯地防止病毒感染,还确认了保护心血管健康的追加保护效果,引起了学界.. 매일경제 这种疫苗大降中风与心臟病风险 效果堪比降血压药 文学城 Shingrix疫苗与降低心脏病风险相关联——STAT News UA.NEWS",
+      "section": "cn-life",
+      "rankScore": 0.483446
+    },
+    {
+      "id": "fc159bbf6ced54fb",
+      "title": "这家英国教育科技公司获800万美元种子投资，用AI导师提供个性化备考",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sMzk5TTduNkllZWtOVlA5Ym1VUzB5WllZZVRrVXYtVnZ2Ul9Ia056bGZhMndYQnlRaDdzcmFvUjdiRENzSS1RNDhBa0JqNHl0T2hVeGhsVmpUazRxaFJ2MzBZR1dpaHVBRWc?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-01T01:53:18.000Z",
+      "excerpt": "这家英国教育科技公司获800万美元种子投资，用AI导师提供个性化备考 多知网",
+      "section": "cn-life",
+      "rankScore": 0.418599
+    },
+    {
+      "id": "c4e90721436201b0",
+      "title": "从东大跳槽香港科技大的科学家如是说",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjFPTTRwa1FmdEZPdy1QSmpoUlhVZWJ5V09HR1dnX3ZzdFdzUG1md0VtanZwSlZLbS1kM29QR1pXVV9pVS1BcEM4b3JhRTROcmVHellZY0w5NlBLdkJYSGtFSnBGMC1BS0duajlYZzdOdmxfblhpQm1pY2tLZ2xncy1vakY?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-08-31T21:00:32.000Z",
+      "excerpt": "从东大跳槽香港科技大的科学家如是说 日经中文网",
+      "section": "cn-life",
+      "rankScore": 0.30817
+    }
+  ],
+  "warnings": [
+    "source \"mingpao\" failed: Error: HTTP 403"
+  ]
+}
