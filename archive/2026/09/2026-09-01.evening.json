@@ -1,0 +1,199 @@
+{
+  "date": "2026-09-01",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-01T16:36:15.655Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "ca5bbb424d82cbd8",
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "source": "hn-front",
+      "publishedAt": "2026-09-01T10:11:02.000Z",
+      "score": 582,
+      "author": "hexa555",
+      "excerpt": "582 points · 154 comments · https://news.ycombinator.com/item?id=49520022",
+      "section": "tech",
+      "rankScore": 0.848182
+    },
+    {
+      "id": "8084b252fb3d516d",
+      "title": "How to Shrink a Language Model Without Making it Too Dumb",
+      "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-01T15:30:41.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Models have grown roughly 100-fold in a few years, while consumer graphics memory has roughly doubled. It’s not just a matter of tightening things up to make them fit.",
+      "section": "tech",
+      "rankScore": 0.733008
+    },
+    {
+      "id": "3a88589446e05e85",
+      "title": "A Crash Course in Predicate Logic",
+      "url": "https://www.hillelwayne.com/post/predicate-logic/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-01T16:08:25.000Z",
+      "author": "hillelwayne.com by hwayne",
+      "section": "tech",
+      "rankScore": 0.617149
+    },
+    {
+      "id": "e5ebaae1ee19f452",
+      "title": "mahdidavoodi7/react-native-continued-task",
+      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
+      "source": "gh-trending-ts",
+      "publishedAt": "2026-09-01T11:04:18.000Z",
+      "score": 65,
+      "author": "mahdidavoodi7",
+      "excerpt": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules. — ★65 · TypeScript",
+      "section": "tech",
+      "rankScore": 0.529764
+    },
+    {
+      "id": "2c5170ed3860690c",
+      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "source": "cloudflare",
+      "publishedAt": "2026-09-01T12:59:00.000Z",
+      "author": "Aashi Patel",
+      "excerpt": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+      "section": "tech",
+      "rankScore": 0.529726
+    },
+    {
+      "id": "01f6e8daa8495ebe",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "source": "verge",
+      "publishedAt": "2026-09-01T16:00:52.000Z",
+      "author": "Stevie Bonifield",
+      "excerpt": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data.",
+      "section": "tech",
+      "rankScore": 0.477294
+    },
+    {
+      "id": "6e15d9939ba39d43",
+      "title": "Python 3.15.0 candidate 2 is here!",
+      "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-01T14:59:18.000Z",
+      "excerpt": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between…",
+      "section": "ai",
+      "rankScore": 0.780332
+    },
+    {
+      "id": "9a02b39c344cd6d9",
+      "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+      "url": "https://www.latent.space/p/pr-not-welcome",
+      "source": "latent-space",
+      "publishedAt": "2026-09-01T16:17:15.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "Vercel’s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
+      "section": "ai",
+      "rankScore": 0.759276
+    },
+    {
+      "id": "a4d29a407fbde800",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "author": "Meg Whittenberger",
+      "excerpt": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "section": "ai",
+      "rankScore": 0.681405
+    },
+    {
+      "id": "929f597a15820e89",
+      "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
+      "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+      "source": "latent-space",
+      "publishedAt": "2026-09-01T04:36:54.000Z",
+      "excerpt": "You can now create decent video faster than you watch it. This is the start of... something. We’re not sure what.",
+      "section": "ai",
+      "rankScore": 0.364207
+    },
+    {
+      "id": "f681f59028b8fd23",
+      "title": "小规模民调显示七成韩国民众支持限制青少年使用社交网络",
+      "url": "https://www.solidot.org/story?sid=85257",
+      "source": "solidot",
+      "publishedAt": "2026-09-01T15:37:06.000Z",
+      "excerpt": "周二公布的一项民调显示，七成韩国民众表示支持出台限制青少年使用社媒的政策。这项民意调查访问了 1000 名年龄在 14-58 岁之间的受访者。调查结果显示，70.7% 的受访者支持，29.3% 的受访者反对。占总调查人数五分之一的青少年受访者中，59% 反对，41% 支持。当被问及实施此类限制的合适年龄时，16.8% 选择了 15 岁，14.9% 选择了 18 岁，13.1% 选择了 11 岁及以下。",
+      "section": "cn-tech",
+      "rankScore": 0.736627
+    },
+    {
+      "id": "2f6da1cb79058d12",
+      "title": "AWS 发布 Aws-Bench，用于评估云任务中的智能代理",
+      "url": "https://www.infoq.cn/article/rs9FOZsLBIJPwWbeYNHO?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-01T16:22:00.000Z",
+      "author": "作者：Gianmarco Nalin",
+      "section": "cn-tech",
+      "rankScore": 0.692687
+    },
+    {
+      "id": "babaec66bd827906",
+      "title": "多事之秋，科大讯飞半年报难托底",
+      "url": "https://www.36kr.com/p/3964701322909316",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-01T13:19:10.000Z",
+      "author": "市值水晶",
+      "excerpt": "9月1日，科大讯飞旗下词元星火开源了X2.5的两个端侧模型。4B和1.7B模型主打1M上下文、代码、Agent和端侧部署。9月7日，公司还计划发布293B版本。 一大一小，分别部署在云端和终端。 新模型发布前，科大讯飞也进入了一个多事之秋。 8月21日，董事长刘庆峰在业绩说明会上承认，受国产算力限制，科大讯飞在这一轮以代码和智能体为主的大模型热潮中“有所缺位”。 8月31日，公司公关线换人。内部通知显示，韩煜尘不再担任品牌市场中心副总经理，相关职责由总经理吴骏华负责。7月份时，前者还以科大讯飞副总裁身份出席会议并介绍星火大模型。",
+      "section": "cn-tech",
+      "rankScore": 0.539033
+    },
+    {
+      "id": "374b663984d9b7f4",
+      "title": "中国游戏创业者向 DHH 的 Omacom 基金会捐赠 100 万美元",
+      "url": "https://www.oschina.net/news/502257",
+      "source": "oschina",
+      "publishedAt": "2026-09-01T11:30:18.000Z",
+      "excerpt": "Omacom Foundation 又募到了 200 万美元。这次的钱来自 Brian Armstrong 和 Yunjie Dai，两人各出 100 万，把基金会的资金池推到了 1200 万美元。 Brian Armstrong 是 Coinbase 的联合创始人兼 CEO。DHH 在公告里提到，Coinbase 本身就是用 Ruby on Rails 起家的，后来做到上亿用户。DHH 还特别提到 Armstrong 2020 年那...",
+      "section": "cn-tech",
+      "rankScore": 0.488787
+    },
+    {
+      "id": "77cfd7caa39aec37",
+      "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
+      "url": "https://sspai.com/post/114078",
+      "source": "sspai",
+      "publishedAt": "2026-09-01T09:00:00.000Z",
+      "author": "Matrix机器人",
+      "excerpt": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...",
+      "section": "cn-tech",
+      "rankScore": 0.372816
+    },
+    {
+      "id": "375c1bfb97adc82b",
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-01T14:07:20.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices.",
+      "section": "security",
+      "rankScore": 0.623627
+    },
+    {
+      "id": "64b044b0866e93ea",
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-01T13:08:58.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs)…",
+      "section": "security",
+      "rankScore": 0.593695
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 190 days old (budget 180d)",
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
