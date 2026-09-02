@@ -1,5 +1,5 @@
 import { describe, expect, it, vi } from 'vitest'
-import { run, slotFor } from '../src/core/pipeline'
+import { plannedArchive, run, slotFor } from '../src/core/pipeline'
 import { editionSubject } from '../src/core/brief'
 import { parseConfig } from '../src/config/schema'
 import { memoryFs } from '../src/archive/fs'
@@ -480,6 +480,59 @@ describe('cli argument parsing', () => {
 
   it('rejects a flag with no value', () => {
     expect(() => parseArgs(['--schedule'])).toThrow(/needs a value/)
+  })
+
+  it('parses --skip-if-archived, off by default', () => {
+    expect(parseArgs([]).skipIfArchived).toBe(false)
+    expect(parseArgs(['--skip-if-archived']).skipIfArchived).toBe(true)
+  })
+
+  /** A re-send exists to send an already-archived issue; skipping it would be a no-op run. */
+  it('rejects --skip-if-archived together with --from-archive', () => {
+    expect(() => parseArgs(['--skip-if-archived', '--from-archive', '2026-08-20'])).toThrow(
+      /--from-archive/,
+    )
+  })
+})
+
+/**
+ * The two-trigger setup (docs/SCHEDULE-DRIFT.md §5): an external timer that is punctual
+ * plus GitHub's own cron as a fallback. `plannedArchive` is what lets the second one know
+ * the first already ran, so it must name the same file the run would write.
+ */
+describe('plannedArchive', () => {
+  const base = {
+    config,
+    configHash: 'hash',
+    now: NOW,
+    env: {},
+    dryRun: false,
+    fetchImpl: okFetch,
+    channelContext: channelContext(),
+  }
+
+  it('names the file this run would write', () => {
+    const planned = plannedArchive(base)
+    expect(planned.date).toBe('2026-08-20')
+    expect(planned.names.json).toBe('archive/2026/08/2026-08-20.json')
+  })
+
+  /**
+   * The whole reason the check cannot compute its own date: a cron dispatched 10 hours
+   * late belongs to the day it was DUE, and must find the file that run wrote.
+   */
+  it('dates by the cron occurrence, not the wall clock, when one anchored the run', () => {
+    const planned = plannedArchive({
+      ...base,
+      now: new Date('2026-08-21T06:00:00.000Z'),
+      scheduledAt: new Date('2026-08-20T00:00:00.000Z'),
+    })
+    expect(planned.date).toBe('2026-08-20')
+  })
+
+  it('honours weeklyEnding over both', () => {
+    const planned = plannedArchive({ ...base, weekly: true, weeklyEnding: '2026-08-17' })
+    expect(planned.date).toBe('2026-08-17')
   })
 })
 

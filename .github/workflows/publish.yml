@@ -19,6 +19,12 @@ on:
         description: 发布线 id（daily / weekly）
         type: string
         default: daily
+      cron:
+        # 同 daily-brief.yml 的 cron input：外部定时器传 cron 串而不是 id，让这次运行和一次
+        # 准点的 schedule 事件完全同构（反查发布线 + lastCronOccurrence 锚定发布日）。
+        description: 'cron string from an external timer, e.g. "30 13 * * *"（留空=墙上时钟）'
+        type: string
+        default: ''
       date:
         description: 'YYYY-MM-DD 发布日（留空=今天）'
         type: string
@@ -106,6 +112,10 @@ jobs:
             # GitHub reports which cron fired; the CLI reverse-looks-up the publishing
             # line from it — the same mechanism daily-brief.yml uses.
             args+=(--cron "${{ github.event.schedule }}")
+          elif [ -n "${{ inputs.cron }}" ]; then
+            # 外部定时器。这里不需要 daily-brief 那个 --skip-if-archived：发布侧本来就按
+            # contentHash 判定，同一份内容第二次跑会自己判成 unchanged 而不重发。
+            args+=(--cron "${{ inputs.cron }}")
           else
             args+=(--schedule "${{ inputs.schedule || 'daily' }}")
           fi

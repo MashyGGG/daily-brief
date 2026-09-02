@@ -2,7 +2,8 @@ import { parseArgs, USAGE } from './cli'
 import { loadConfig } from './config/load'
 import { ConfigError } from './config/schema'
 import { findRunByCron, lastCronOccurrence, ScheduleError } from './schedule/cron'
-import { run } from './core/pipeline'
+import { plannedArchive, run, type RunOptions } from './core/pipeline'
+import { nodeFs } from './archive/fs'
 import { renderRunSummary, writeStepOutputs, writeStepSummary } from './summary'
 import { collectSecretValues, safeErrorMessage } from './core/redact'
 import type { ChannelContext, HttpFetch } from './channels'
@@ -73,7 +74,7 @@ async function main(argv: string[]): Promise<number> {
     )
   }
 
-  const result = await run({
+  const options: RunOptions = {
     config,
     configHash,
     now,
@@ -94,7 +95,33 @@ async function main(argv: string[]): Promise<number> {
     llmDryRun: args.llmDryRun,
     channelContext,
     log: (message: string) => console.log(`[brief] ${message}`),
-  })
+  }
+
+  // Two triggers, one edition: an external timer that is punctual and GitHub's own cron
+  // kept as a fallback. Whichever runs first writes the archive; the other finds it here
+  // and stops before a single source is fetched. Checked against the FILE rather than a
+  // lock, because the file is what the next run's dedupe and the site already read.
+  if (args.skipIfArchived) {
+    if (!config.archive.enabled) {
+      console.warn(
+        '[brief] --skip-if-archived does nothing while archive.enabled is false — ' +
+          'there is no file for it to find, so every trigger will send.',
+      )
+    } else {
+      const planned = plannedArchive(options)
+      if (nodeFs.exists(planned.names.json)) {
+        const label = `${planned.date}${planned.slot ? `.${planned.slot}` : ''}`
+        console.log(`[brief] ${label} is already archived (${planned.names.json}) — skipping`)
+        writeStepOutputs(
+          { 'archive-commit': 'false', 'archive-date': planned.date, 'archive-label': label },
+          env,
+        )
+        return 0
+      }
+    }
+  }
+
+  const result = await run(options)
 
   const summary = renderRunSummary(result, { dryRun: args.dryRun })
   writeStepSummary(summary, env)

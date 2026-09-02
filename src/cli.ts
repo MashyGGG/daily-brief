@@ -8,6 +8,15 @@ export interface CliArgs {
   dryRun: boolean
   noCommit: boolean
   validateOnly: boolean
+  /**
+   * Exit 0 without fetching when this run's (date, slot) is already archived.
+   *
+   * Only meaningful with two triggers on the same edition: an external timer that is
+   * punctual and GitHub's own cron kept as a fallback. Whichever arrives first does the
+   * work; the other one finds the file and stops. The workflow passes it on the
+   * `schedule` path only — the fallback is the one that must yield.
+   */
+  skipIfArchived: boolean
   /** §9 M3 — the weekly review: aggregate the archived issues, send, fetch nothing. */
   weekly: boolean
   /** `YYYY-MM-DD` the weekly window ends on; today in the config timezone when unset. */
@@ -39,6 +48,7 @@ usage: pnpm brief [options]
                            under the "weekly" slot
   --dry-run                render to stdout only: no push, no archive, no network to channels
   --no-commit              archive normally but tell the workflow not to commit
+  --skip-if-archived       exit 0 without fetching if this (date, slot) is already archived
   --validate-only          load and validate the config, then exit
   --no-llm                 skip the LLM stage; every item keeps its source excerpt
   --llm-dry-run            list the items that would be summarized (+ token estimate), call nothing
@@ -62,6 +72,7 @@ export function parseArgs(argv: string[]): CliArgs {
     dryRun: false,
     noCommit: false,
     validateOnly: false,
+    skipIfArchived: false,
     weekly: false,
     noLlm: false,
     llmDryRun: false,
@@ -115,6 +126,9 @@ export function parseArgs(argv: string[]): CliArgs {
       case '--validate-only':
         args.validateOnly = true
         break
+      case '--skip-if-archived':
+        args.skipIfArchived = true
+        break
       case '--no-llm':
         args.noLlm = true
         break
@@ -146,6 +160,10 @@ export function parseArgs(argv: string[]): CliArgs {
   if (args.diff && !args.reEnrich) throw new Error('--diff only means something with --re-enrich')
   if (args.weekly && args.fromArchive) {
     throw new Error('--weekly and --from-archive both replay the archive; pick one')
+  }
+  // A re-send exists to send an issue that is already archived; the two cancel out.
+  if (args.skipIfArchived && args.fromArchive) {
+    throw new Error('--skip-if-archived would always skip a --from-archive re-send')
   }
   return args
 }

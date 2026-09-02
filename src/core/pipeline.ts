@@ -11,7 +11,7 @@ import { collectSecretValues, safeErrorMessage } from './redact'
 import { readRecentItems, readRecord } from '../archive/read'
 import { writeArchive } from '../archive/write'
 import { nodeFs, type FsLike } from '../archive/fs'
-import { WEEKLY_SLOT } from '../archive/paths'
+import { archiveNames, WEEKLY_SLOT, type ArchiveNames } from '../archive/paths'
 import { renderForRecipients } from '../render'
 import { deliver, type ChannelContext, type DeliveryResult } from '../channels'
 import { enrichSections, type EnrichStats } from '../enrich'
@@ -146,6 +146,30 @@ function briefFromArchive(options: RunOptions, schedule: Schedule, sections: Sec
 /** Archive filenames only carry a slot suffix once more than one schedule is live (§3.6). */
 export function slotFor(config: BriefConfig, schedule: Schedule): string | null {
   return config.schedules.filter((s) => s.enabled).length > 1 ? schedule.id : null
+}
+
+export interface PlannedArchive {
+  schedule: Schedule
+  date: string
+  slot: string | null
+  names: ArchiveNames
+}
+
+/**
+ * Which files this run WOULD write, decided before anything is fetched.
+ *
+ * It exists for `--skip-if-archived`, and it derives the date the same way `run()` does —
+ * from `scheduledAt` when a cron anchored the run, from the wall clock otherwise, with
+ * `weeklyEnding` winning over both. Sharing that one expression is the point: a skip
+ * check that computed the date its own way would eventually disagree with the run and
+ * either skip a missing issue or re-send an existing one.
+ */
+export function plannedArchive(options: RunOptions): PlannedArchive {
+  const schedule = resolveSchedule(options)
+  const editionAt = options.scheduledAt ?? options.now
+  const date = options.weeklyEnding ?? localDate(editionAt, options.config.timezone)
+  const slot = slotFor(options.config, schedule)
+  return { schedule, date, slot, names: archiveNames(options.config.archive.dir, date, slot) }
 }
 
 export async function run(options: RunOptions): Promise<RunResult> {

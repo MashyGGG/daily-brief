@@ -16,6 +16,16 @@ on:
         description: which schedule id to run
         type: string
         default: morning
+      cron:
+        # docs/SCHEDULE-DRIFT.md §5 — the punctual trigger. GitHub dispatches `schedule`
+        # events hours late; an external timer calling this workflow is dispatched at once.
+        # It passes the cron STRING, not the schedule id, so the run behaves exactly like a
+        # `schedule` event that happened to be on time: same reverse lookup, same weekly
+        # detection, and — the part that matters — the same `lastCronOccurrence` anchoring,
+        # so a timer that is itself late still dates the issue by its intended firing.
+        description: 'cron string from an external timer, e.g. "10 23 * * *" (empty = wall clock)'
+        type: string
+        default: ''
       dry-run:
         description: render only — no push, no archive, no commit
         type: boolean
@@ -55,9 +65,15 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # fetch-depth 1 is enough: cross-day dedupe reads archive FILES, not git history.
+      # `ref: main` on purpose, same reason publish.yml pins it: a `schedule` event's
+      # `github.sha` is the default branch as of when the RUN WAS CREATED, and `concurrency`
+      # queues a second run behind the first — so the queued run would check out a tree from
+      # before the first run's archive commit. `--skip-if-archived` would then miss the file
+      # it is looking for and send a duplicate. Cross-day dedupe reads fresher archives too.
+      # fetch-depth 1 is enough: both read archive FILES, not git history.
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 1
 
       - uses: pnpm/action-setup@v4
@@ -114,8 +130,16 @@ jobs:
           args=()
           if [ -n "${{ github.event.schedule }}" ]; then
             # GitHub reports which cron fired; the CLI reverse-looks-up the schedule id from it.
-            args+=(--cron "${{ github.event.schedule }}")
+            # --skip-if-archived because THIS trigger is the fallback: when the external timer
+            # already produced this edition hours ago, this run must exit rather than send a
+            # second copy. Whichever trigger arrives first does the work.
+            args+=(--cron "${{ github.event.schedule }}" --skip-if-archived)
+          elif [ -n "${{ inputs.cron }}" ]; then
+            # The external timer. No --skip-if-archived: it is the primary and runs for real.
+            args+=(--cron "${{ inputs.cron }}")
           else
+            # A human pressing Run workflow. No cron means no intended time, so the edition
+            # keeps the wall clock — see the `cron` input above.
             args+=(--schedule "${{ inputs.schedule || 'morning' }}")
           fi
           [ "${{ inputs.dry-run }}" = "true" ] && args+=(--dry-run)
@@ -171,6 +195,6 @@ jobs:
           # is the failure mode the subject lines themselves had. The alert resolves the
           # cron the same way the brief step does, and falls back to a generic wording if
           # the config will not load — a broken config being one plausible reason it failed.
-          ALERT_CRON: ${{ github.event.schedule }}
+          ALERT_CRON: ${{ github.event.schedule || inputs.cron }}
           ALERT_SCHEDULE: ${{ inputs.schedule }}
         run: pnpm tsx src/alert.ts
