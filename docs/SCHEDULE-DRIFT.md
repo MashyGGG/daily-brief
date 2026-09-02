@@ -1,7 +1,8 @@
 # 定时不准：实测、成因、以及能修的那部分
 
-> 测量日期 2026-08-28。数据来自 GitHub REST `GET /repos/MashyGGG/daily-brief/actions/runs`，
-> 覆盖建仓（2026-08-20）以来全部 130 次运行、其中 28 次 `schedule` 事件。
+> 测量日期 2026-08-28，**复测 2026-09-02（见 §3.1）**。数据来自 GitHub REST
+> `GET /repos/MashyGGG/daily-brief/actions/runs`，首测覆盖建仓（2026-08-20）以来 130 次
+> 运行、其中 28 次 `schedule` 事件；复测覆盖 182 次运行、55 次 `schedule` 事件。
 > 复现方式见本文末尾 §6。
 
 ## 1. 结论先说
@@ -66,6 +67,28 @@ githubstatus.com 的记录对得上（时间已转 CST）：
 08-27 publish  → 08-28 07:00 (+9h30)
 ```
 
+### 3.1 复测 2026-09-02：事故过去了，延迟没有回去
+
+事故后又跑了 5 天（08-29 ~ 09-02，44 次 `schedule` 事件，全部 `success`，一次没丢）。
+**延迟没有回到常态期的水平，而是停在常态的 4–8 倍**：
+
+| 档期          | cron (UTC)    | 常态期中位  | 事故后中位 | 倍数 |
+| ------------- | ------------- | ----------- | ---------- | ---- |
+| `news-am`     | `40 23 * * *` | —（旧档期） | 1h57       | —    |
+| `morning`     | `10 23 * * *` | 24m         | **2h12**   | 5.5× |
+| `news-pm`     | `10 11 * * *` | 36m         | **4h25**   | 7.4× |
+| `evening`     | `10 12 * * *` | 59m         | **4h31**   | 4.6× |
+| publish daily | `30 13 * * *` | 40m         | **4h09**   | 6.2× |
+
+「UTC 小时是主导变量」这个判断依然成立，而且被放大了：23:xx 那两档在 2h 上下，
+11:xx–13:xx 那三档在 4h 以上。实际后果是 **`evening` 现在每一期都跨到第二天凌晨**
+（实测送达 00:36–03:06 CST），§4 那个期号锚定因此从「保险」变成了「刚需」。
+
+两次调整的事后验证：`news-am` 09:10 → 07:40 **有效**（从全档期最差变成和 `morning` 同级）；
+`weekly` 08:00 → 08:20 改动前后各只有 1 个样本，**判断不了**。
+
+所以 §5 那条「离开 GitHub 调度器」不再是「哪天真的在意准点再做」——它是现在就该做的事。
+
 ## 4. 这次暴走暴露的真 bug：迟到会静默吃掉一期归档
 
 期号日期原本取自 `new Date()`，即**运行时**而不是**应触发时**。于是 08-27 那两期迟到
@@ -92,30 +115,91 @@ githubstatus.com 的记录对得上（时间已转 CST）：
 真要准时，唯一可靠的路是**不用 GitHub 的 cron，改成外部定时器调 `workflow_dispatch`**。
 本仓的数据支持这条路：事件驱动的运行即使在事故期间排队也是 `0.0m`。
 
-做法（尚未实施，等哪天真的在意准点再做）：
+### 5.1 仓库侧：已实施（2026-09-02）
 
-1. 建一个 fine-grained PAT，只授本仓 `actions: write`。
-2. 把 `daily-brief.yml` 现有的 `schedule:` 全部注释掉，只留 `workflow_dispatch`
-   （`workflow_dispatch` 已经支持 `schedule` 入参，反查逻辑不用改）。
-3. 外部定时器（cron-job.org / Cloudflare Worker Cron / 自己机器的 crontab）按 CST 时间
-   逐档调用：
+两个 workflow 现在**同时接受两个触发源**，谁先到谁干活：
 
-   ```sh
-   curl -sf -X POST \
-     -H "Accept: application/vnd.github+json" \
-     -H "Authorization: Bearer $GH_PAT" \
-     https://api.github.com/repos/MashyGGG/daily-brief/actions/workflows/daily-brief.yml/dispatches \
-     -d '{"ref":"main","inputs":{"schedule":"morning"}}'
-   ```
+| 触发源                    | 传给 CLI                           | 说明                                         |
+| ------------------------- | ---------------------------------- | -------------------------------------------- |
+| 外部定时器（主）          | `--cron "<串>"`                    | 走 `workflow_dispatch` 的 `cron` input，准点 |
+| GitHub `schedule`（兜底） | `--cron "<串>" --skip-if-archived` | 迟到几小时，发现已归档就退出                 |
+| 人手点 Run workflow       | `--schedule <id>`                  | 无 cron ⇒ 无「应触发时刻」，沿用墙上时钟     |
 
-4. 代价，三条，别忽略：
-   - PAT 会过期，过期那天所有档期一起哑掉，而且**没有任何告警**——GitHub 那边看不到
-     「本该有一次运行」。需要自己给外部定时器配失败通知。
-   - 少了 cron 就少了「每次 push 到默认分支重置 60 天不活动计时」这层关系里的另一半；
-     归档提交仍然照常，所以这条其实不受影响，但换方案时要记得确认。
-   - `schedule` 事件的 `github.event.schedule` 没有了，走的是 `inputs.schedule` 分支，
-     于是 §4 那个 `lastCronOccurrence` 锚点也不再生效——外部触发是准时的，本来也不需要它，
-     但如果外部定时器自己迟到了，期号会重新跟着墙上时钟走。
+三处改动，每一处都有它必须存在的理由：
+
+**① `workflow_dispatch` 多一个 `cron` input。**
+外部定时器传的是 **cron 串**而不是 schedule id。这样这次运行和一次准点的 `schedule`
+事件完全同构：同一套档期反查、同一套 weekly 判定，以及最要紧的——同一套
+`lastCronOccurrence` 期号锚定（§4）。只传 id 会走墙上时钟分支，等于把 §4 修好的
+bug 重新打开：外部定时器自己迟到时，晚间那期又会写成第二天的期号。
+
+**② `--skip-if-archived`（只加在 `schedule` 那条分支上）。**
+`plannedArchive()`（`src/core/pipeline.ts`）在抓取任何源之前先算出这次运行**会写哪个文件**，
+文件已存在就 exit 0。日期用的是 `run()` 那一个表达式，不是另写一份——两份实现迟早会分歧，
+届时要么漏发要么重发。方向不能反：外部定时器是主、永远真跑，GitHub cron 是兜底、只补位。
+
+**③ checkout 加 `ref: main`。**
+这条最容易漏。`schedule` 事件的 `github.sha` 是**这次 run 被创建那一刻**的默认分支，而
+`concurrency` 会把并发的第二次运行排队——排队那次仍然 checkout 它自己创建时的旧 SHA，
+**看不到前一次刚推上去的归档**，②的检查就会失效并重复出报。`publish.yml` 早就为同一
+个原因钉了 `ref: main`。顺带让跨天去重读到更新的归档，是净收益。
+
+发布侧（`publish.yml`）只加了 `cron` input，不需要 `--skip-if-archived`：它本来就按
+`contentHash` 判定，同一份内容第二次跑会自己判成 unchanged 而不重发。
+
+### 5.2 外部侧：待配置
+
+**第 1 步 · PAT**
+
+GitHub → Settings → Developer settings → Personal access tokens → **Fine-grained tokens**
+→ Generate new token：
+
+- Repository access：**Only select repositories** → `MashyGGG/daily-brief`
+- Permissions → Repository permissions：**只勾 `Actions: Read and write`**
+  （`Metadata: Read` 会自动带上）。`Contents` 保持 **No access** —— 推归档用的是
+  workflow 里的 `GITHUB_TOKEN`，不是这把 PAT
+- Expiration：90 天，**记进日历**
+
+**第 2 步 · 七条时间表**
+
+`cron` 那一列是 **UTC**（它只是个标签，用来反查档期和应触发时刻）；
+**定时器本身按 CST 那一列设时间**。
+
+| 档期           | CST        | `cron` 值     | workflow          |
+| -------------- | ---------- | ------------- | ----------------- |
+| `morning`      | 07:10      | `10 23 * * *` | `daily-brief.yml` |
+| `news-am`      | 07:40      | `40 23 * * *` | `daily-brief.yml` |
+| `news-pm`      | 19:10      | `10 11 * * *` | `daily-brief.yml` |
+| `evening`      | 20:10      | `10 12 * * *` | `daily-brief.yml` |
+| `weekly`       | 周一 08:20 | `20 0 * * 1`  | `daily-brief.yml` |
+| publish daily  | 21:30      | `30 13 * * *` | `publish.yml`     |
+| publish weekly | 周一 10:30 | `30 2 * * 1`  | `publish.yml`     |
+
+**第 3 步 · 调用**
+
+```sh
+curl -sf -X POST   -H "Authorization: Bearer $GH_PAT"   -H "Accept: application/vnd.github+json"   https://api.github.com/repos/MashyGGG/daily-brief/actions/workflows/daily-brief.yml/dispatches   -d '{"ref":"main","inputs":{"cron":"10 23 * * *"}}'
+```
+
+`-f` 不能省：不带它 curl 对非 2xx 也返回 0，定时器判不出失败。成功是 **204 No Content**。
+
+### 5.3 三个代价，别忽略
+
+1. **PAT 过期那天七条一起哑，而且没有任何告警** —— GitHub 那边看不到「本该有一次运行」。
+   两道防线：定时器自己的失败通知（cron-job.org 的 Notify on failure / Worker 里 `throw`），
+   以及 5.1 那条兜底 —— 最坏结果是**退回今天这个迟到几小时的状态，不是断更**。
+2. **dispatches API 返回 204 不代表 run 真建起来了**（`ref` 写错、input 名不匹配都会静默
+   不建）。上线当天必须回查一次 `gh run list --workflow=daily-brief.yml`。
+3. `schedule:` 块**不要删**。它是兜底，也和归档提交一起维持那个 60 天不活动计时。
+
+### 5.4 怎么验证它真的生效了
+
+```sh
+gh run list --workflow=daily-brief.yml --limit 10 --json event,createdAt,conclusion
+```
+
+`event` 应从 `schedule` 变成 `workflow_dispatch`，`createdAt` 贴着设定时间（分钟级）。
+每档期会看到 **2 次运行**：1 次真跑 + 1 次几秒钟结束的跳过 —— 那是设计如此。
 
 ## 6. 复现这份测量
 
