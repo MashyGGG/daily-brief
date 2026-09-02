@@ -2,7 +2,9 @@ import { describe, expect, it } from 'vitest'
 import type { Source } from '../src/config/schema'
 import {
   describeStale,
+  describeUndated,
   findStaleSources,
+  findUndatedSources,
   healthWarnings,
   staleAfterDaysOf,
 } from '../src/core/health'
@@ -113,10 +115,57 @@ describe('describeStale', () => {
   })
 })
 
+/** `normalize()` stamps an undated entry with the run clock, to the millisecond. */
+function undatedOutcome(source: string, count: number): SourceOutcome {
+  const items = Array.from({ length: count }, () =>
+    rawItem({ source, publishedAt: NOW.toISOString() }),
+  )
+  return { source, items, latestPublishedAt: latestPublishedAt(items), durationMs: 8 }
+}
+
+describe('findUndatedSources', () => {
+  it('flags a feed whose every item carries the run clock', () => {
+    expect(findUndatedSources([undatedOutcome('meituan-tech', 10)], NOW)).toEqual(['meituan-tech'])
+  })
+
+  /** One real date is enough: the feed dates its entries, this batch is just fresh. */
+  it('stays quiet when a single item has a date of its own', () => {
+    const undated = undatedOutcome('mixed', 3)
+    undated.items[1]!.publishedAt = daysAgo(2)
+    expect(findUndatedSources([undated], NOW)).toEqual([])
+  })
+
+  it('stays quiet about a normal feed, however fresh', () => {
+    expect(findUndatedSources([outcome('fresh', [0.01, 0.5])], NOW)).toEqual([])
+  })
+
+  /** Both already carry their own warning; a second line for one fault is noise. */
+  it('ignores empty and failed batches', () => {
+    expect(findUndatedSources([{ source: 'empty', items: [], durationMs: 3 }], NOW)).toEqual([])
+    expect(findUndatedSources([outcome('dead', [], 'HTTP 503')], NOW)).toEqual([])
+  })
+})
+
+describe('describeUndated', () => {
+  it('says the check is blind rather than that the source is stale', () => {
+    const line = describeUndated('meituan-tech')
+    expect(line).toContain('ships no per-item dates')
+    expect(line).not.toContain('looks stale')
+  })
+})
+
 describe('healthWarnings', () => {
   it('returns one line per unhealthy source and nothing for a clean run', () => {
     const sources = [rssSource('a'), rssSource('b')]
     expect(healthWarnings([outcome('a', [1]), outcome('b', [2])], sources, NOW)).toEqual([])
     expect(healthWarnings([outcome('a', [1]), outcome('b', [400])], sources, NOW)).toHaveLength(1)
+  })
+
+  it('reports staleness and datelessness as separate lines', () => {
+    const sources = [rssSource('a'), rssSource('b')]
+    const lines = healthWarnings([outcome('a', [400]), undatedOutcome('b', 4)], sources, NOW)
+    expect(lines).toHaveLength(2)
+    expect(lines[0]).toContain('looks stale')
+    expect(lines[1]).toContain('ships no per-item dates')
   })
 })

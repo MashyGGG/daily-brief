@@ -16,9 +16,10 @@ import type { SourceOutcome } from '../sources'
  *
  * Both are warnings, never failures: a stale source must not take the brief down with it.
  *
- * Caveat worth knowing before you trust a green run: `normalize()` stamps undated entries
- * with `now`, so a feed that ships no per-item dates at all can never look stale here.
- * Every source we track does ship dates (probed 2026-08-20) — re-check that when adding one.
+ * The third signal exists because the first two share a blind spot: `normalize()` stamps
+ * undated entries with `now`, so a feed shipping no per-item dates at all reports "newest
+ * item 0h old" forever and can never look stale. That was a theoretical caveat until
+ * `meituan-tech` walked into it — see `findUndatedSources`.
  */
 
 export interface StaleFinding {
@@ -69,6 +70,37 @@ export function findStaleSources(
   return findings
 }
 
+/**
+ * A feed that ships no per-item date at all — the blind spot in the two checks above.
+ *
+ * Measured 2026-09-02 on `meituan-tech`: 10 `<item>`, exactly one channel-level `<pubDate>`
+ * and zero per-item ones. Every run stamped all 10 with the run clock, so the feed looked
+ * brand-new every single time while the blog had in fact not published since 2026-08-27.
+ * The archive could not have told you either: the only reason its items stopped appearing
+ * was cross-day dedupe quietly dropping them as already-seen.
+ *
+ * Detection is exact rather than heuristic: `toIsoDate` falls back to `now.toISOString()`,
+ * so an undated batch carries the run clock to the millisecond. A real feed cannot do that
+ * — not for one item, let alone for all of them.
+ *
+ * Reported as its own line, not as staleness: the source is not known to be stale, it is
+ * *unmonitorable*. The fix is to replace the feed or to accept it has no health signal.
+ */
+export function findUndatedSources(outcomes: SourceOutcome[], now: Date): string[] {
+  const stamp = now.toISOString()
+  return outcomes
+    .filter((o) => !o.error && o.items.length > 0)
+    .filter((o) => o.items.every((item) => item.publishedAt === stamp))
+    .map((o) => o.source)
+}
+
+export function describeUndated(source: string): string {
+  return (
+    `source "${source}" ships no per-item dates: all items were stamped with the run clock, ` +
+    `so the staleness check is blind to it`
+  )
+}
+
 /** One line per finding, in the same voice as the fetch-failure warnings. */
 export function describeStale(finding: StaleFinding): string {
   if (finding.ageDays === null) {
@@ -81,5 +113,8 @@ export function describeStale(finding: StaleFinding): string {
 }
 
 export function healthWarnings(outcomes: SourceOutcome[], sources: Source[], now: Date): string[] {
-  return findStaleSources(outcomes, sources, now).map(describeStale)
+  return [
+    ...findStaleSources(outcomes, sources, now).map(describeStale),
+    ...findUndatedSources(outcomes, now).map(describeUndated),
+  ]
 }
