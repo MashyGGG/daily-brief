@@ -179,11 +179,6 @@ sources:
     weight: 0.9
     params: { url: https://css-tricks.com/feed/ }
 
-  - name: smashing
-    type: rss
-    weight: 0.9
-    params: { url: https://www.smashingmagazine.com/feed/ }
-
   # ── 运维 / 云 / 平台 ─────────────────────────────────────────────────
   - name: github-changelog
     type: rss
@@ -334,23 +329,38 @@ sources:
   # Vite 没接：本仓库不用，日常也是 Next.js 自带的构建链，接了只会稀释 releases 栏。
 
   # ── 中文技术 ────────────────────────────────────────────────────────
-  # 掘金有官方 RSS，就是这个；`?cate=frontend` 之类的参数是假的（实测乱写的分类
-  # 也返回同一批文章），所以只能拿全站流，靠 weight 压权重。
-  # 另注意：这 20 条只覆盖最近约 4 小时 —— 掘金发文密度太高，日更一次必然漏掉大半。
+  # 掘金官方 RSS（https://juejin.cn/rss）在 runner 上不可用：2026-08-21→09-02 的 25 期里
+  # **15 期返回 HTTP 200 + 0 条**（本机同一时刻能抓到 20 条、日期齐全）——是掘金按 IP 段
+  # 对海外机房返回空壳，不是 feed 变形。改走 Google News 站内检索，理由是同一个 runner 上
+  # 所有 `gn-*` 源 19/19 全勤，这条路径本身已经被证明可达。
+  # 标题会被缀上「 - 稀土掘金」，必须去掉（理由同 thepaper 那段注释）。这里没有复用
+  # `*gn-strip` 锚点：它定义在下面 news 栏，YAML 锚点必须先定义后引用。
   - name: juejin
     type: rss
     weight: 0.7
-    params: { url: https://juejin.cn/rss }
+    stripPatterns:
+      [
+        '\s*[-–—]\s*[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)+\s*$',
+        '\s*[-–—]\s*[一-龥][一-龥A-Za-z0-9·]{1,14}( [A-Za-z][A-Za-z0-9.]{0,14}){0,2}\s*$',
+        '\s*在\s*Google\s*新闻上查看更多头条新闻和观点\s*$',
+      ]
+    params:
+      url: 'https://news.google.com/rss/search?q=when:24h+site:juejin.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
 
   # 36氪：官方 /feed 早已停更（现在返回 SPA 的 HTML 壳，不是 XML），走第三方 RSSHub
   # 镜像试运行。这是**别人的服务器**，随时可能关停 —— 挂了只会留一条抓取告警，不影响出报。
   # 走「人工智能·AI」专题而不是 /newsflashes：快讯是财经通稿（三大股指、ETF 成交额），
   # 且 20 条只覆盖 1.5 小时；这个专题是深度报道，跨度 16.7 小时，基本覆盖得住日更窗口。
   # 试运行结论和备选路由见 docs/CN-SOURCES.md。
+  # 2026-09-02 换实例：原来的 rss.injahow.cn 在 25 期里挂了 5 次（20%，AbortError 超时为主），
+  # 本机连测 4 次也有 1 次直接连不上。改指 rsshub.bestblogs.dev —— 本仓 `anthropic` 已经在用
+  # 它，同期 25 期 0 失败；实测同一路由返回 20 条、内容就是原来那个「人工智能·AI」专题。
+  # 风险模型不变：仍然是别人的服务器，只是换了一台被本仓验证过的。
   - name: 36kr-ai
     type: rss
     weight: 0.9
-    params: { url: https://rss.injahow.cn/36kr/motif/327686782977 }
+    params: { url: https://rsshub.bestblogs.dev/36kr/motif/327686782977 }
 
   # 微信公众号：没有任何官方开放接口，现有第三方方案在集体死亡。见 docs/CN-SOURCES.md §3。
 
@@ -511,10 +521,18 @@ sources:
     weight: 1.1
     params: { url: https://www.chinanews.com.cn/rss/china.xml }
 
+  # 界面新闻。官方 RSS（a.jiemian.com/index.php?m=article&a=rss）在 runner 上 19 期挂了 7 期
+  # （37%，全是 `TypeError: fetch failed` —— 连接层直接断，本机同一时刻正常）。同 juejin，
+  # 改走 Google News 站内检索：实测 100 条、标题就是界面自己的稿子。
   - name: jiemian
     type: rss
-    weight: 1.0
-    params: { url: 'https://a.jiemian.com/index.php?m=article&a=rss' } # 界面新闻
+    # 1.0 -> 0.9：换成 Google News 转发之后，它的条目 URL 指向 news.google.com 跳转链接，
+    # 跟直连源对不上 id、无法自动去重。本文件里所有 gn-* 源压在 <= 0.9 就是这个原因。
+    weight: 0.9
+    stripPatterns: *gn-strip
+    params:
+      url: 'https://news.google.com/rss/search?q=when:24h+site:jiemian.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+      limit: 40
 
   - name: thepaper
     type: rss
@@ -547,11 +565,6 @@ sources:
     params:
       url: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNR1F3TlhjekVnVjZhQzFEVGlnQVAB?hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
       limit: 40
-
-  - name: mingpao
-    type: rss
-    weight: 0.8
-    params: { url: https://news.mingpao.com/rss/pns/s00001.xml } # 明报港闻
 
   - name: scmp-china
     type: rss
@@ -678,7 +691,6 @@ sections:
         web-dev,
         ts-devblog,
         css-tricks,
-        smashing,
         github-changelog,
         cloudflare,
         kubernetes,
@@ -784,7 +796,6 @@ sections:
         chinanews-finance,
         cna-zh,
         gn-nation-zh,
-        mingpao,
         scmp-china,
         gn-business-zh,
         yahoo-hk,

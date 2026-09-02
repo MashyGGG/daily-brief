@@ -169,6 +169,11 @@ Google News 把「同题相关报道列表」塞进了 `description`。两个后
 
 ### 2.2 `cn-news` 国内要闻（12 源 / limit 10）
 
+> 这张表是 **2026-08-24 建栏时的探测快照**，保留原样。2026-09-02 的健康复核之后本栏变成
+> **11 源**：`mingpao` 已删（runner 上 19/19 期 HTTP 403），`jiemian` 改走 Google News
+> `site:jiemian.com` 且权重 1.0 → 0.9。为什么、以及依据的 45 期数据，见
+> [`docs/SOURCES.md` §7 与 §9.4](./SOURCES.md)。
+
 | 源                    | 端点                                         |   w |   n | 龄期 | 备注                      |
 | --------------------- | -------------------------------------------- | --: | --: | ---- | ------------------------- |
 | `chinanews-import` ★  | `www.chinanews.com.cn/rss/importnews.xml`    | 1.2 |  30 | 0d   | **主源**                  |

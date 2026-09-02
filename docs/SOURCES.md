@@ -6,8 +6,9 @@
 本文是它的可读版本 —— 逐源列出抓取端点、权重、栏目归属和「为什么是这个值」，
 外加一份**没有接入的源**及其原因，免得下次重新踩一遍坑。
 
-- 快照时间：**2026-08-24**（技术栏的数据仍是 2026-08-20 那次快照）
-- 规模：**80 个源 / 3 种适配器 / 8 个栏目**，分两组跑：
+- 快照时间：**2026-09-02**（端点与源数）；栏内实测数据仍是 2026-08-20 / 08-24 那两次快照
+- 最近一次健康复核：**2026-09-02**，口径是归档里 45 期真实运行的告警统计，见 §9.4
+- 规模：**78 个源 / 3 种适配器 / 8 个栏目**，分两组跑：
   - 技术早晚报（`morning` / `evening`）四栏，每期最多 **17 条**
   - 要闻期（`news-am` / `news-pm`）三栏，每期最多 **30 条**，编排理由见
     [`docs/NEWS-EDITION.md`](./NEWS-EDITION.md)
@@ -21,20 +22,20 @@
 
 | 栏目 id    | 标题      | 源数 | 每日 limit | 过滤规则                                                |
 | ---------- | --------- | ---: | ---------: | ------------------------------------------------------- |
-| `tech`     | 国际技术  |   18 |          6 | 排除 crypto / NFT / web3 / memecoin                     |
+| `tech`     | 国际技术  |   17 |          6 | 排除 crypto / NFT / web3 / memecoin                     |
 | `ai`       | AI 工程   |    7 |          4 | 无（`anthropic` 试运行期间从 3 提到 4）                 |
 | `cn-tech`  | 中文技术  |    9 |          5 | 无（`36kr-ai` 试运行期间从 4 提到 5）                   |
 | `security` | 安全公告  |    3 |          2 | 排除 ICS / 工控 / PLC / SCADA / Siemens / …             |
 | `releases` | 依赖发版  |    8 |          3 | 排除 canary / nightly / -rc / -alpha / -beta / SNAPSHOT |
 | `news`     | 国际要闻  |   14 |         12 | 无                                                      |
-| `cn-news`  | 国内要闻  |   12 |         10 | 无                                                      |
+| `cn-news`  | 国内要闻  |   11 |         10 | 无                                                      |
 | `cn-life`  | 民生·社会 |    9 |          8 | 无                                                      |
 
 上面前五栏（`tech` … `releases`）属于**技术早晚报**，后三栏属于**要闻期** ——
 两组由 `schedules[].sections` 的白名单分开跑，互不抢席位。哪一期跑哪几栏是配置，
 不是代码：见 [`docs/NEWS-EDITION.md` §1](./NEWS-EDITION.md)。
 
-按适配器分：`rss` 78 个、`hackernews` 1 个、`github` 1 个。
+按适配器分：`rss` 76 个、`hackernews` 1 个、`github` 1 个。
 每个源都恰好属于一个栏目，没有孤儿源，也没有被两个栏目共用的源。
 
 各栏 `limit` 相加：技术早晚报 **17**、要闻期 **30**（`releases` 已关，它的 3 席不计），
@@ -75,7 +76,7 @@ rankScore = weight × (0.6 × normScore + 0.4 × recency)
 
 ---
 
-## 2. `tech` 国际技术（18 源 / limit 6）
+## 2. `tech` 国际技术（17 源 / limit 6）
 
 排除关键词：`crypto`、`NFT`、`web3`、`memecoin`。
 
@@ -98,16 +99,24 @@ rankScore = weight × (0.6 × normScore + 0.4 × recency)
 
 ### 前端本行
 
-低频高相关，靠 `weight` 保住席位。若长期被日更源挤掉，把这几个拆成独立 section（`limit: 2`）即可。
+低频高相关，靠 `weight` 保住席位。
 
-| 源           | 端点                                                |   w |
-| ------------ | --------------------------------------------------- | --: |
-| `react-blog` | `https://react.dev/rss.xml`                         | 1.2 |
-| `chrome-dev` | `https://developer.chrome.com/static/blog/feed.xml` | 1.2 |
-| `web-dev`    | `https://web.dev/static/blog/feed.xml`              | 1.1 |
-| `ts-devblog` | `https://devblogs.microsoft.com/typescript/feed/`   | 1.1 |
-| `css-tricks` | `https://css-tricks.com/feed/`                      | 0.9 |
-| `smashing`   | `https://www.smashingmagazine.com/feed/`            | 0.9 |
+| 源           | 端点                                                |   w | 2026-09-02 最新条目 |
+| ------------ | --------------------------------------------------- | --: | ------------------: |
+| `react-blog` | `https://react.dev/rss.xml`                         | 1.2 |               190 d |
+| `web-dev`    | `https://web.dev/static/blog/feed.xml`              | 1.1 |                96 d |
+| `chrome-dev` | `https://developer.chrome.com/static/blog/feed.xml` | 1.2 |                72 d |
+| `ts-devblog` | `https://devblogs.microsoft.com/typescript/feed/`   | 1.1 |                55 d |
+| `css-tricks` | `https://css-tricks.com/feed/`                      | 0.9 |                36 h |
+
+**这四个源在 25 期里 0 上榜，但它们没有坏** —— 抓取每期都 200。挤掉它们的不是日更源，
+是 `lookbackHours: 24`：一篇 55 天前的文章根本进不了时间窗，谈不上参与排序。所以
+「拆成独立 section（`limit: 2`）」这个老结论是错的，独立栏目也救不了它们；真要让它们
+稳定露面，需要的是**按栏目覆写 lookback**（现在没有这个能力），不是加席位。
+在那之前它们的正确读法是「一年响几次的高相关源」，留着不占成本 —— 每期多一次 HTTP 请求而已。
+
+`smashing` 已删（2026-09-02）：25 期里 5 期抓取失败（20%）且 0 上榜，同一个 beat 有
+`css-tricks` 顶着。理由见 §7。
 
 ### 运维 / 云 / 平台
 
@@ -150,25 +159,33 @@ rankScore = weight × (0.6 × normScore + 0.4 × recency)
 
 ## 4. `cn-tech` 中文技术（9 源 / limit 5）
 
-| 源             | 端点                                             |   w | 备注                                          |
-| -------------- | ------------------------------------------------ | --: | --------------------------------------------- |
-| `solidot`      | `https://www.solidot.org/index.rss`              | 1.1 |                                               |
-| `oschina`      | `https://www.oschina.net/news/rss`               | 0.9 |                                               |
-| `infoq-cn`     | `https://www.infoq.cn/feed`                      | 1.0 |                                               |
-| `ruanyifeng`   | `http://www.ruanyifeng.com/blog/atom.xml`        | 1.3 | 周更，所以权重给满；注意是 **http**           |
-| `meituan-tech` | `https://tech.meituan.com/feed/`                 | 1.2 |                                               |
-| `zhangxinxu`   | `https://www.zhangxinxu.com/wordpress/feed/`     | 1.2 | 前端 CSS                                      |
-| `juejin`       | `https://juejin.cn/rss`                          | 0.7 | 官方 RSS；分类参数是假的，只有全站流（见下）  |
-| `36kr-ai`      | `https://rss.injahow.cn/36kr/motif/327686782977` | 0.9 | **第三方 RSSHub 镜像**，试运行中（见下 + §7） |
-| `sspai`        | `https://sspai.com/feed`                         | 0.8 |                                               |
+| 源             | 端点                                                   |   w | 备注                                                   |
+| -------------- | ------------------------------------------------------ | --: | ------------------------------------------------------ |
+| `solidot`      | `https://www.solidot.org/index.rss`                    | 1.1 |                                                        |
+| `oschina`      | `https://www.oschina.net/news/rss`                     | 0.9 |                                                        |
+| `infoq-cn`     | `https://www.infoq.cn/feed`                            | 1.0 |                                                        |
+| `ruanyifeng`   | `http://www.ruanyifeng.com/blog/atom.xml`              | 1.3 | 周更，所以权重给满；注意是 **http**                    |
+| `meituan-tech` | `https://tech.meituan.com/feed/`                       | 1.2 |                                                        |
+| `zhangxinxu`   | `https://www.zhangxinxu.com/wordpress/feed/`           | 1.2 | 前端 CSS                                               |
+| `juejin`       | Google News `site:juejin.cn`（`when:24h`，`limit:40`） | 0.7 | 官方 RSS 在 runner 上被挡，2026-09-02 改道（见下）     |
+| `36kr-ai`      | `https://rsshub.bestblogs.dev/36kr/motif/327686782977` | 0.9 | **第三方 RSSHub 镜像**，2026-09-02 换实例（见下 + §7） |
+| `sspai`        | `https://sspai.com/feed`                               | 0.8 |                                                        |
 
 两个必须知道的坑，细节见 [`docs/CN-SOURCES.md`](./CN-SOURCES.md)：
 
-- **掘金的分类参数是假的。** `?cate=frontend` / `?category=backend` 都返回 200 却给同一批文章
-  （实测 frontend vs backend 重合 100%）。只能拿全站流，靠低 `weight`(0.7) 压权重。
-  另外它的 feed 窗口只有约 4 小时 —— 发文密度太高，日更一次必然漏掉大半。
-- **36氪 官方 feed 已死**（`/feed` 现在返回 SPA 的 HTML 壳）。当前走第三方 RSSHub 镜像的
+- **掘金官方 RSS 在 runner 上不可用（2026-09-02 改道）。** `https://juejin.cn/rss` 从本机抓
+  一切正常（20 条、日期齐全、最新 0 小时），但在 GitHub Actions 上 25 期里 **15 期返回
+  200 + 0 条**（60%）—— 是掘金按 IP 段给海外机房发空壳，不是 feed 变形。现改走 Google News
+  站内检索：同一个 runner 上所有 `gn-*` 源 19/19 全勤，这条路径本身已经被证明可达；
+  实测标题就是掘金原文（「Android 17 + OkHttp 5.5.0…」「现在网页都能提供 MCP 了？！」）。
+  历史结论仍然成立、只是不再用得上：官方 feed 的 `?cate=frontend` 之类分类参数是假的
+  （frontend vs backend 重合 100%），窗口也只有约 4 小时。
+- **36氪 官方 feed 已死**（`/feed` 现在返回 SPA 的 HTML 壳）。走第三方 RSSHub 镜像的
   「人工智能·AI」专题路由，而不是 `/newsflashes`（那是财经通稿，且 20 条只覆盖 1.5 小时）。
+  **2026-09-02 换实例**：原来的 `rss.injahow.cn` 在 25 期里挂了 5 期（20%，主要是 20s
+  `AbortError` 超时），本机连测 4 次也有 1 次直接连不上；改指 `rsshub.bestblogs.dev` ——
+  本仓 `anthropic` 已经在用它、同期 25 期 0 失败，实测同一路由返回 20 条同样的专题内容。
+  风险模型没变，只是换了一台**被本仓验证过**的别人的服务器。
   试运行不留就把 `cn-tech` 的 `limit` 调回 4 并删掉这个源。
 
 ---
@@ -238,22 +255,25 @@ Next.js 自带的构建链，接了只会稀释这一栏。
 英文源进邮件就是原样英文 excerpt。**配上 key 之后回来把权重调平** —— 这是整份配置里
 唯一一处「将来要回滚的临时值」。
 
-### `cn-news` 国内要闻（12 源 / limit 10）
+### `cn-news` 国内要闻（11 源 / limit 10）
 
 | 源                  | 端点                                                     |   w |   n | 备注                         |
 | ------------------- | -------------------------------------------------------- | --: | --: | ---------------------------- |
 | `chinanews-import`  | `https://www.chinanews.com.cn/rss/importnews.xml`        | 1.2 |  30 | 主源                         |
 | `chinanews-china`   | `https://www.chinanews.com.cn/rss/china.xml`             | 1.1 |  30 |                              |
-| `jiemian`           | `https://a.jiemian.com/index.php?m=article&a=rss`        | 1.0 |  30 | 界面新闻                     |
+| `jiemian`           | Google News `site:jiemian.com`（`when:24h`，`limit:40`） | 0.9 |   — | 界面新闻，2026-09-02 改道    |
 | `thepaper`          | Google News `site:thepaper.cn`（`when:24h`，`limit:40`） | 0.9 |   — | 澎湃无官方 feed              |
 | `chinanews-finance` | `https://www.chinanews.com.cn/rss/finance.xml`           | 0.9 |  30 | 站内那个 `rss/cj.xml` 是 404 |
 | `cna-zh`            | `https://feeds.feedburner.com/rsscna/mainland`           | 0.8 |  20 | 中央社，第三方中转           |
 | `gn-nation-zh`      | Google News 国内（中文，`limit:40`）                     | 0.8 |  43 | 兜底                         |
-| `mingpao`           | `https://news.mingpao.com/rss/pns/s00001.xml`            | 0.8 |  12 | 明报港闻                     |
 | `scmp-china`        | `https://www.scmp.com/rss/4/feed`                        | 0.7 |  50 | 英文写中国，视角互补         |
 | `gn-business-zh`    | Google News 财经（中文，`limit:40`）                     | 0.7 |  32 | 兜底                         |
 | `yahoo-hk`          | `https://hk.news.yahoo.com/rss/hong-kong`                | 0.7 |  30 | 港闻                         |
 | `gnews-cn`          | Google News 中文头条（`limit:40`）                       | 0.6 |   — | 0.8 → 0.6 降权，见下         |
+
+`jiemian` 从 1.0 降到 0.9，不是内容变差了：换成 Google News 转发之后它的条目 URL 指向
+`news.google.com` 跳转链接，跟直连源对不上 id、无法自动去重 —— 本节末尾那条「Google News
+类源权重一律 ≤ 0.9」的规则对它同样适用。`mingpao` 已删，理由见 §7。
 
 `gnews-cn` 降权的原因不是它不新，而是它的 `description` 被 Google 塞进了「同题相关报道
 列表」：实测 excerpt 长这样 ——「中农批宿迁市场：…东方财富 …观察者 …新浪财经」。
@@ -340,6 +360,30 @@ ASCII 域名后缀、中文来源名后缀，外加 excerpt 末尾那句「在 G
 | 36氪 `/newsflashes` 路由 | 评估后否决   | 财经通稿线（三大股指、ETF 成交额），且 20 条只覆盖 1.5 小时                                       |
 | 微信公众号               | **建议放弃** | 官方从未开放订阅他人公众号的接口；wewe-rss 已 archived、RSSHub `/wechat/*` 503、feeddd 域名已失效 |
 | 官方 `rsshub.app`        | 不可用       | 被 Cloudflare 挡住（403 "Just a moment..."）                                                      |
+| 明报港闻                 | **已退役**   | runner 上 19/19 全部 HTTP 403（见下）                                                             |
+| Smashing Magazine        | **已退役**   | 20% 抓取失败且 25 期 0 上榜（见下）                                                               |
+| 掘金官方 RSS             | 已改道       | runner 上 60% 返回 200 + 0 条；现走 Google News 站内检索                                          |
+| 界面新闻官方 RSS         | 已改道       | runner 上 37% `fetch failed`；现走 Google News 站内检索                                           |
+| `rss.injahow.cn`         | 已换实例     | 20% 超时；36kr 改指 `rsshub.bestblogs.dev`                                                        |
+
+### 2026-09-02 健康复核：退役与改道
+
+口径是 `archive/` 里 45 期真实运行的告警统计（§9.4 是完整的表），这里只记「因此动了什么」。
+**所有结论都用 runner 的行为，不是本机的**：这一轮里本机对全部 80 个源探测 80/80 全绿，
+包括下面这些在 CI 上从没成功过的 —— 再次印证 §7 末尾那条「runner 在美国」的前提。
+
+| 源         | 归档证据                            | 处置                          | 为什么是这个处置                                                                                                   |
+| ---------- | ----------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| `mingpao`  | 19/19 期 `HTTP 403`，一次都没成功过 | **删源**                      | Google News `site:mingpao.com` 实测回的是招聘/生活广告，不是港闻，没有可用替代；港闻已有 `yahoo-hk` + `scmp-china` |
+| `smashing` | 5/25 期抓取失败 + 25 期 0 上榜      | **删源**                      | 同 beat 有 `css-tricks`；留着只是每期多一次会挂的请求                                                              |
+| `juejin`   | 15/25 期 `200 + 0 条`               | 改道 Google News `site:` 检索 | `gn-*` 在同一 runner 上 19/19 全勤，是已被证明可达的路径                                                           |
+| `jiemian`  | 7/19 期 `TypeError: fetch failed`   | 改道 Google News `site:` 检索 | 同上；权重同步 1.0 → 0.9（Google News 类源无法与直连源去重）                                                       |
+| `36kr-ai`  | 5/25 期失败（`AbortError` 为主）    | 换 RSSHub 实例                | `rsshub.bestblogs.dev` 同期 0 失败，本仓 `anthropic` 已在用                                                        |
+
+**没有动、且是故意的**：`react-blog` / `web-dev` / `chrome-dev` / `ts-devblog` 25 期 0 上榜，
+但抓取每期都成功 —— 它们是发布节奏本来就以月/季计的源，被 24 小时时间窗挡在外面，
+不是坏源（§2「前端本行」那段讲了为什么独立栏目也救不了）。`meituan-tech` 同理留下，
+但它的问题不一样，见 §9.3。
 
 ### 2026-08-20 批量评估：一份「看起来很像」的推荐清单
 
@@ -398,8 +442,12 @@ ASCII 域名后缀、中文来源名后缀，外加 excerpt 末尾那句「在 G
 
 ### 第三方依赖的风险，说清楚
 
-目前只有 `36kr-ai` 依赖**别人的服务器**（`rss.injahow.cn`）。它随时可能关停、限流或改变行为，
-你的抓取行为对该实例运营者可见。挂掉时只会留一条抓取告警，不影响出报 —— 但要知道它会挂。
+有两个源依赖**别人的服务器**，2026-09-02 起它们指向同一台：`36kr-ai` 和 `anthropic`
+都走 `rsshub.bestblogs.dev`。它随时可能关停、限流或改变行为，你的抓取行为对该实例运营者可见。
+挂掉时只会留一条抓取告警，不影响出报 —— 但要知道它会挂，而且现在**一挂会挂两个源**。
+
+选它不是因为它一定更可靠，而是因为它是本仓唯一有运行数据的那台：`anthropic` 在它上面
+跑了 25 期 0 失败，而原来的 `rss.injahow.cn` 同期 20% 失败。这是可测量的差别，不是偏好。
 备选路线（自写 36kr adapter ≈80 行 / 自建 RSSHub）见 `docs/CN-SOURCES.md` §2 的方案 B、C。
 
 ### 还有一个前提：runner 在美国
@@ -442,7 +490,7 @@ gh workflow run daily-brief.yml -f dry-run=true -f schedule=news-am   # 要闻�
 
 ## 9. 源健康检查
 
-### 为什么 HTTP 200 不够
+### 9.1 为什么 HTTP 200 不够
 
 `fetchAll` 已经会在源**抛错**时留告警。但真正常见的失效不长这样 —— 它长这样：
 feed 返回 200、XML 结构完好、条目齐全，只是最新一条是几个月前的。
@@ -457,10 +505,11 @@ feed 返回 200、XML 结构完好、条目齐全，只是最新一条是几个�
 | ----------------------------------- | ------------------------------------------ |
 | 200 但解析出 0 条                   | 正常的源不会这样，多半是 feed 变形或被换掉 |
 | 最新条目超过该源的 `staleAfterDays` | 疑似停更                                   |
+| 整批条目都不带日期                  | 前两个信号对它失效，见 §9.3                |
 
-两者都只出**告警**，绝不让运行失败 —— 一个停更的源不该把整份早报带下水。
+三者都只出**告警**，绝不让运行失败 —— 一个停更的源不该把整份早报带下水。
 
-### `staleAfterDays` 怎么取值
+### 9.2 `staleAfterDays` 怎么取值
 
 读作「多久没更新算**可疑**」，不是「多久没更新算失败」。默认 30 天
 （`DEFAULT_STALE_AFTER_DAYS`），只有实测发布节奏本来就慢于此的源才需要写这个字段。
@@ -489,14 +538,122 @@ feed 返回 200、XML 结构完好、条目齐全，只是最新一条是几个�
 
 最后两行是重点：**阈值要按这个源的历史节奏定，不是按它今天碰巧多新。**
 
-### 每次运行都能看见
+### 9.3 第三个信号：feed 完全不带 per-item 日期
+
+这一条原本记在这里是「一个已知盲点」，前提是「目前所有 RSS 源都带日期（2026-08-20 实测）」。
+**这个前提在 2026-09-02 被推翻了**，所以它现在是一个真正的检查，而不是一段注意事项。
+
+盲点的机制：`normalize()` 会给没有日期的条目盖上**当前时间**（`toIsoDate` 的 fallback）。
+于是一个完全不带 `pubDate` / `published` 的 feed，每一期都显示「最新条目 0 小时前」，
+`staleAfterDays` 永远不可能被触发，运行摘要那列「最新」也永远是绿的。
+
+踩中它的是 `meituan-tech`：
+
+```bash
+$ curl -s https://tech.meituan.com/feed/ | grep -c '<item'      # 10
+$ curl -s https://tech.meituan.com/feed/ | grep -c '<pubDate'   #  1  ← 只有 channel 级
+```
+
+10 个条目、0 个条目级日期。它在 25 期里只有 9 期出过内容，而且集中在前段 —— 但**没有任何
+告警**，因为它每期都「刚发布」。真正让它安静下来的是跨天去重把重复条目当成已见丢掉，
+那是个副作用，不是监控。美团技术团队最后一篇实际上停在 2026-08-27。
+
+检测方式是**精确判定而不是启发式**：fallback 用的是 `now.toISOString()`，所以一批无日期条目
+会带上运行时钟、精确到毫秒。真实 feed 做不到这件事 —— 一条都做不到，何况全部。
+实现见 [`findUndatedSources`](../src/core/health.ts)，告警文案是
+
+```
+source "meituan-tech" ships no per-item dates: all items were stamped with the run clock,
+so the staleness check is blind to it
+```
+
+它**单独成一行、不算作停更**：这个源不是「已知停更」，是「无法监控」。收到这条告警的正确
+反应只有两个 —— 换掉这个 feed，或者明确接受它没有健康信号。`meituan-tech` 选了后者：
+Google News `site:tech.meituan.com` 实测回的是「历史文章」「美团 BERT 的探索和实践」这类
+陈年归档页，比原 feed 更差。
+
+### 9.4 45 期归档实测（2026-08-20 → 2026-09-02）
+
+数据源是 `archive/**.json` 的 `warnings` 与 `items` 两个字段，覆盖 45 次真实运行
+（morning 14 / evening 12 / news-am 10 / news-pm 9）。期间 `brief.config.yaml` 改过 6 版，
+所以统计按**每期当时那版 config** 还原「这一期到底该抓哪些源」，不是拿今天的配置倒推。
+
+读这张表之前必须先分开两个指标，否则会得出完全错误的结论：
+
+| 指标           | 怎么算                                    | 说明                                                       |
+| -------------- | ----------------------------------------- | ---------------------------------------------------------- |
+| **抓取成功率** | `warnings` 里有没有这个源的失败/空/停更行 | 硬证据，这才是「抓没抓到」                                 |
+| **上榜率**     | 这个源有几条进了最终 `items`              | 受 `limit` 席位、时间窗、跨天去重三重挤压，**低 ≠ 抓不到** |
+
+`tech` 栏 17 个源抢 6 席，所以那一栏的上榜率天然就低。把上榜率当健康指标会误杀低频源。
+
+**① 稳定抓取（45 期 0 告警，且几乎每期都有产出）—— 26 个源**
+
+新闻侧是最健康的一块，Google News 系（`gn-*`）和中新网系（`chinanews-*`）全部满勤：
+
+| 栏目      | 源                                                                                           | 命中/尝试 |
+| --------- | -------------------------------------------------------------------------------------------- | --------- |
+| `news`    | `bbc-world`                                                                                  | 27/27     |
+| `news`    | `aljazeera` `guardian-world`                                                                 | 26/26     |
+| `news`    | `ft-world` `gn-world-zh` `npr-news` `nyt-home` `nyt-world` `rfi-zh`                          | 19/19     |
+| `cn-news` | `chinanews-china` `chinanews-finance` `cna-zh` `gn-business-zh` `gn-nation-zh` `scmp-china`  | 19/19     |
+| `cn-news` | `chinanews-import` 18/19 · `gnews-cn` 25/26                                                  | ≥ 95%     |
+| `cn-life` | `chinanews-society` `gn-disaster` `gn-edu` `gn-food` `gn-govcn` `gn-health-zh` `gn-minsheng` | 19/19     |
+| `tech`    | `lobsters` 26/26 · `hn-front` 25/26                                                          | ≥ 96%     |
+
+次一档（同样 0 告警，上榜 50–90%，掉的是席位不是抓取）：`solidot` 23/25 · `bbc-zhongwen` 23/26
+· `thepaper` 22/26 · `infoq-cn` 21/25 · `verge` 21/26 · `oschina` 20/25 · `hacker-news-sec` 19/25
+· `infoq-arch` 18/25 · `sspai` 14/25 · `gn-science-zh` 13/19 · `ars-technica` 13/26 · `nyt-cn` 12/19
+· `simonwillison` 11/25。
+
+**② 偶尔抓不到（抓取本身会间歇失败）**
+
+| 源        | 失败      | 错误                                           | 失败分布                   |
+| --------- | --------- | ---------------------------------------------- | -------------------------- |
+| `jiemian` | 7/19 =37% | 全是 `TypeError: fetch failed`（连接层）       | 集中在 news-am（UTC 凌晨） |
+| `36kr-ai` | 5/25 =20% | `AbortError` ×4（20s 超时）、`fetch failed` ×1 | 分散                       |
+
+两个都已处置（§7）。`jiemian` 的关键证据是：同一时刻本机抓得到 —— 所以不是源坏了。
+
+**③ 经常抓不到**
+
+| 源         | 症状                                         | 频率                 |
+| ---------- | -------------------------------------------- | -------------------- |
+| `juejin`   | `200 + 0 条`（HTTP 正常，body 是空壳）       | 15/25 =60%           |
+| `smashing` | `fetch failed` / `terminated` / `AbortError` | 5/25 =20%，且 0 上榜 |
+
+`juejin` 是「假活」的教科书例子：传输层完全正常，内容为空。它触发的正是 §9.1 表里第一个信号。
+
+**④ 从没抓到过**
+
+真正 45 期一次都没成功的只有 **1 个**：
+
+| 源        | 情况                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| `mingpao` | 19/19 期 `HTTP 403`。本机同一时刻正常（11 条、最新 6.8 小时）→ 明报按 IP 段封机房，runner 上无解 |
+
+另有 5 个源**抓取一直成功、但从没产出过内容**，观感和「抓不到」一样，成因完全不同 ——
+它们的最新条目一直在 24 小时窗口之外：
+
+| 源           | 抓取 | 最新条目 | 为什么不上榜                                               |
+| ------------ | ---- | -------: | ---------------------------------------------------------- |
+| `react-blog` | 200  |    190 d | 超 `staleAfterDays: 180`，**20/25 期报停更 —— 这是真阳性** |
+| `web-dev`    | 200  |     96 d | 预算 180 d，够不到阈值 → 静默                              |
+| `chrome-dev` | 200  |     72 d | 预算 120 d → 静默                                          |
+| `ts-devblog` | 200  |     55 d | 预算 120 d → 静默                                          |
+| `anthropic`  | 200  |     35 h | 周级更新，35 h 已经出了 24 h 窗口                          |
+
+`react-blog` 那 20 条告警**不要靠调大 `staleAfterDays` 消掉**（§9.2 的规矩）：react.dev 确实
+从 2026-02-24 起没发过东西，告警是对的。等它超过一年再重新决定留不留。
+
+**⑤ 一个统计口径的坑**
+
+`releases` 栏 `enabled: false`，所以那 8 个 GitHub releases 源在这 45 期里**一次都没被抓过**。
+按栏目展开源清单时若不过滤 `section.enabled`，会把它们统计成「8 个源 100% 抓不到」。
+盘源健康时记得先看这个开关。
+
+### 9.5 每次运行都能看见
 
 运行摘要的「抓取」表多了一列 **最新**，是该源本次返回的最新条目的年龄（`8h` / `30d`）。
 它的作用是让一个正在滑向停更的源在触发告警之前就被看见 —— 一整列 ✅
 只说明请求成功了，不说明内容还活着。
-
-### 一个已知盲点
-
-`normalize()` 会给**没有日期的条目**盖上当前时间。所以一个完全不带 `pubDate` /
-`published` 的 feed，在这里永远不会显示为停更。目前 49 个 RSS 源全部带日期
-（2026-08-20 实测），加新源时值得顺手确认一下这一点。
