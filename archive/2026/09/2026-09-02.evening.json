@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-02",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-02T16:31:43.132Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "948004808308934d",
+      "title": "A Note from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-02T13:17:12.000Z",
+      "score": 458,
+      "author": "rwky",
+      "excerpt": "458 points · 95 comments · https://news.ycombinator.com/item?id=49535752",
+      "section": "tech",
+      "rankScore": 1.126987
+    },
+    {
+      "id": "bb38f65aae8391e0",
+      "title": "An Accidental Blackboard",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-09-02T14:45:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Giles Edwards-Alexander reports that during an experiment to see how productive a team could be using fully agentic engineering practices, the team accidentally prompted the agents into creating a blackboard coordination system inside the git repository.",
+      "section": "tech",
+      "rankScore": 0.774327
+    },
+    {
+      "id": "b3c9608eaf17b929",
+      "title": "Why Your RAG System Is Only as Good as Its Translator Model",
+      "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-02T15:31:12.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we’re going to look at how this embedding model works in an RAG setup and what makes it such a critical part of the system.",
+      "section": "tech",
+      "rankScore": 0.735861
+    },
+    {
+      "id": "1d797e5640d10118",
+      "title": "Implementing FMA and finding bugs in C and Rust standard libraries",
+      "url": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-02T16:19:44.000Z",
+      "author": "shnatsel.github.io via itamarst",
+      "section": "tech",
+      "rankScore": 0.624468
+    },
+    {
+      "id": "83ded7fbeb9559d9",
+      "title": "Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value",
+      "url": "https://www.infoq.com/news/2026/09/swiggy-pltv-multitask-mlp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-02T13:55:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Swiggy developed an in house predicted lifetime value model using more than 350 pre order features and a multi task MLP for Food and Instamart. Adding order count as an auxiliary task reduced model parameters by 63% while improving predictive performance.",
+      "section": "tech",
+      "rankScore": 0.619631
+    },
+    {
+      "id": "fbfebbfdd24b4bac",
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "source": "verge",
+      "publishedAt": "2026-09-02T15:47:03.000Z",
+      "author": "Stevie Bonifield",
+      "excerpt": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast…",
+      "section": "tech",
+      "rankScore": 0.473965
+    },
+    {
+      "id": "a2698093f50f185a",
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-02T14:16:42.000Z",
+      "excerpt": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes to their prompts as well.",
+      "section": "ai",
+      "rankScore": 0.756911
+    },
+    {
+      "id": "48ed31ae781de170",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-02T15:40:00.000Z",
+      "author": "Four Flynn",
+      "excerpt": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "section": "ai",
+      "rankScore": 0.673478
+    },
+    {
+      "id": "d6a027f6f63a9b12",
+      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+      "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "source": "latent-space",
+      "publishedAt": "2026-09-02T07:46:08.000Z",
+      "excerpt": "Queue the usual rush of model launches...",
+      "section": "ai",
+      "rankScore": 0.473516
+    },
+    {
+      "id": "6c29e314eee2b8f8",
+      "title": "优化平台工程规模，构建组织真正需要的平台",
+      "url": "https://www.infoq.cn/article/PybEXW1fiP1O5vfteYdL?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-02T14:22:00.000Z",
+      "author": "作者：John Keates",
+      "section": "cn-tech",
+      "rankScore": 0.633478
+    },
+    {
+      "id": "f8e500da9c30b00f",
+      "title": "联合国报告警告全球气温升幅数年内将超过 1.5 度",
+      "url": "https://www.solidot.org/story?sid=85264",
+      "source": "solidot",
+      "publishedAt": "2026-09-02T10:26:44.000Z",
+      "excerpt": "联合国环境规划署（UNEP）2 日发布报告，警告称地球变暖导致全球平均气温较工业革命前上升的幅度将在数年内超过 1.5 度，灾害、健康危害等风险将上升至危机水平。报告指出若要减轻负面影响，重要的是将超过 1.5 度的持续时间缩至最短。报告称，若保持当前的气候变暖对策，到 2100 年全球平均气温将上升约 2.6 度。即使《巴黎协定》框架下各国自主设定的温室气体减排目标全部达成，排放量和森林等吸收量相抵达到净零，预计气温仍将上升约 1.8 度，估计 10 年内将超过 1.5 度。一旦超过 1.5 度，极端的气象现象将增多，小岛被淹没的可能性升高。",
+      "section": "cn-tech",
+      "rankScore": 0.564111
+    },
+    {
+      "id": "6b6e6a1344b02ec9",
+      "title": "从40亿到130亿美元，中国大模型这波增长，可能和你想得不一样",
+      "url": "https://www.36kr.com/p/3966171226447107",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-02T13:10:45.000Z",
+      "author": "硅基观察Pro",
+      "excerpt": "过去半年，国内大模型商业化开始突然爆发。 2025年12月，中国主要AI模型公司的年化收入还只有40亿美元，而如今已经接近130亿美元。尤其6月以后，增长明显提速。 更反常识的是，这波增长并不是靠价格战换来的。 智谱今年API平均价格上涨101%，Token使用量却增长40多倍； DeepSeek 也大幅提价，但使用量并没有明显下滑。 另一边，出海开始成为重要增量。 MiniMax 六成以上收入来自海外， Kimi 海外收入已经超过国内，智谱海外收入占比估算也接近40%。这意味着，中国AI第一次跑出了真正有规模的软件出口。 在收入增长的同时，模型公司的估值也在出现分化。",
+      "section": "cn-tech",
+      "rankScore": 0.537245
+    },
+    {
+      "id": "07d3ea4a7bf6396b",
+      "title": "李飞飞旗下 AI 实验室 World Labs 发布 Atlas：从几张照片重建 3D 世界",
+      "url": "https://www.oschina.net/news/502277/worldlabs-ai-atlas",
+      "source": "oschina",
+      "publishedAt": "2026-09-02T11:24:32.000Z",
+      "excerpt": "李飞飞创立的 World Labs 发布了 Atlas，一个从零预训练的多模态空间智能大模型。你可以给它几张照片，它能生成从任意角度观看的连续视频；给它一段手机拍摄的视频，它能重建出完整的 3D 场景，让机器人在里面模拟导航。 核心架构是「multimodal autoregressive diffusion transformer」——这个术语拆开来看，autoregre...",
+      "section": "cn-tech",
+      "rankScore": 0.488222
+    },
+    {
+      "id": "7859f91a7f14c828",
+      "title": "折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？",
+      "url": "https://sspai.com/post/114084",
+      "source": "sspai",
+      "publishedAt": "2026-09-02T09:40:56.000Z",
+      "author": "Vanilla",
+      "excerpt": "上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...",
+      "section": "cn-tech",
+      "rankScore": 0.391473
+    },
+    {
+      "id": "ab5cc03260362b7a",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-02T14:06:59.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication.",
+      "section": "security",
+      "rankScore": 0.625777
+    },
+    {
+      "id": "8a340fd9085a1c51",
+      "title": "Communicating Under Pressure: Best Practices for Service Providers",
+      "url": "https://www.cisa.gov/resources-tools/resources/communicating-under-pressure-best-practices-service-providers",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "Developed by CISA, the Federal Bureau of Investigation, and international partners, this guidance describes how organizations can plan and execute clear, timely, accurate, and audience-appropriate communications during IT and operational technology (OT) outages.",
+      "section": "security",
+      "rankScore": 0.560657
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 191 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
