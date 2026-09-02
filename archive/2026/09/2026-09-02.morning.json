@@ -1,0 +1,197 @@
+{
+  "date": "2026-09-02",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-02T01:00:29.320Z",
+  "configHash": "a0e79462e348",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "9ab7348ad1a6028e",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source": "hn-front",
+      "publishedAt": "2026-09-01T17:53:53.000Z",
+      "score": 897,
+      "author": "denysvitali",
+      "excerpt": "897 points · 853 comments · https://news.ycombinator.com/item?id=49525378",
+      "section": "tech",
+      "rankScore": 1.113448
+    },
+    {
+      "id": "e4195551372cffd3",
+      "title": "Fragments: September 1",
+      "url": "https://martinfowler.com/fragments/2026-09-01.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-09-01T19:50:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs.",
+      "section": "tech",
+      "rankScore": 0.736504
+    },
+    {
+      "id": "59a83f592255a357",
+      "title": "The Pragmatic Engineer: Five years",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-09-01T17:14:34.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "As the newsletter reaches its fifth birthday, we reflect on how the publication has changed, and what to expect. Also: the launch of the ‘How Software Engineering is Changing’ essay contest",
+      "section": "tech",
+      "rankScore": 0.627635
+    },
+    {
+      "id": "47d636028ba05d4a",
+      "title": "Set an expiration date for individual user budgets",
+      "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-01T20:23:13.000Z",
+      "author": "Allison",
+      "excerpt": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls…",
+      "section": "tech",
+      "rankScore": 0.62298
+    },
+    {
+      "id": "a304f726cb138262",
+      "title": "Flat vs segmented memory -- it's recursive",
+      "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+      "source": "lobsters",
+      "publishedAt": "2026-09-02T00:01:33.000Z",
+      "author": "humprog.org via fanf",
+      "section": "tech",
+      "rankScore": 0.615265
+    },
+    {
+      "id": "ac8c96cb2342c497",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "source": "verge",
+      "publishedAt": "2026-09-01T22:50:29.000Z",
+      "author": "Charles Pulliam-Moore",
+      "excerpt": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash.",
+      "section": "tech",
+      "rankScore": 0.464721
+    },
+    {
+      "id": "0d8c6cf02066a5c4",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-01T23:57:28.000Z",
+      "excerpt": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new…",
+      "section": "ai",
+      "rankScore": 0.818993
+    },
+    {
+      "id": "b62b0d54a2081285",
+      "title": "GeoJSON Map Viewer",
+      "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-01T18:05:45.000Z",
+      "excerpt": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council and found a need to display some GeoJSON files on a map and export that as a PNG.",
+      "section": "ai",
+      "rankScore": 0.701754
+    },
+    {
+      "id": "12ede9a73fb54b35",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-01T20:45:00.000Z",
+      "author": "News from Google Team",
+      "excerpt": "Here are Google’s latest AI updates from August 2026",
+      "section": "ai",
+      "rankScore": 0.629031
+    },
+    {
+      "id": "e41a1d8f08adad22",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "source": "openai",
+      "publishedAt": "2026-09-01T17:00:00.000Z",
+      "excerpt": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "section": "ai",
+      "rankScore": 0.623184
+    },
+    {
+      "id": "10345455d42527e0",
+      "title": "云原生弹性的能力，迁移成为 Agent 时代的数据基座能力之一？",
+      "url": "https://www.infoq.cn/video/QflJXpVJK5DqeoOgsY3D?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-01T21:24:38.000Z",
+      "author": "凌敏",
+      "section": "cn-tech",
+      "rankScore": 0.64004
+    },
+    {
+      "id": "0ad7a695c6307a39",
+      "title": "AI办公，上演大厂通吃？",
+      "url": "https://www.36kr.com/p/3964661585172105",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-02T00:58:13.000Z",
+      "author": "惊蛰研究所",
+      "excerpt": "8月25日，飞书与 豆包 整合成立新的 豆包 产品团队还不到一个月，定位AI办公场景统一产品入口的“ 豆包工作 ”正式官宣。8月27日，百度搭子宣布个人版、企业版、专业套件及工作台能力一揽子升级。 一个月前，阿里才刚刚将 Qoder Work、悟空、MuleRun三款智能体产品整合升级为“ 千问 办公”，金山办公在上海发布AI办公智能体“灵犀专业版”。再往前数一个月，腾讯在6月5日正式发布了 WorkBuddy 企业版以及办公智能体套件Agent Suite，原生接入腾讯文档、腾讯网盘、腾讯乐享三大协同办公产品。至此，从科技大厂到办公软件公司，全都挤进了AI办公这条赛道。",
+      "section": "cn-tech",
+      "rankScore": 0.629432
+    },
+    {
+      "id": "9a954d187730c99e",
+      "title": "Softaculous 遭遇长达 33 小时的 BGP 路由劫持",
+      "url": "https://www.solidot.org/story?sid=85256",
+      "source": "solidot",
+      "publishedAt": "2026-09-01T14:35:00.000Z",
+      "excerpt": "8 月 28 日 20:57 UTC 左右，一个不相关网络 BGP 路由通告了 Softaculous 使用的 Hetzner IP 段，将部分原本发送到 Softaculous 系统的流量劫持到攻击者控制的服务器。Hetzner 是 Softaculous 的上游基础设施供应商，而 Softaculous 则是一家为 Web 托管服务商提供软件的公司，它的 Virtualizor 控制面板被管理员用于部署和管理 VPS。这次 BGP 路由劫持影响了 Virtualizo 更新服务器以及客户和计费网站。",
+      "section": "cn-tech",
+      "rankScore": 0.578878
+    },
+    {
+      "id": "21cb03513542e68b",
+      "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+      "url": "https://sspai.com/post/114093",
+      "source": "sspai",
+      "publishedAt": "2026-09-01T23:58:40.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。",
+      "section": "cn-tech",
+      "rankScore": 0.546262
+    },
+    {
+      "id": "e0a34abd7aa0539e",
+      "title": "每周一天，关掉 AI 写代码",
+      "url": "https://www.oschina.net/news/502256/no-ai-fridays",
+      "source": "oschina",
+      "publishedAt": "2026-09-01T11:22:14.000Z",
+      "excerpt": "Carson Gross 决定每周五不写代码。 不是不工作，是不用 AI 辅助写代码。他是 htmx 的创造者，一个以「用 HTML 搞定一切」出名的人，现在他想用一天不碰 AI 来证明另一件事。 这个倡议叫 No AI Fridays。规则很简单：每周挑一天，团队里所有人关掉 AI 编程助手，纯手写代码。你可以用搜索引擎、Stack Overflow、文档——...",
+      "section": "cn-tech",
+      "rankScore": 0.425436
+    },
+    {
+      "id": "ed52b11b9a18d14a",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "krebs",
+      "publishedAt": "2026-09-01T22:40:28.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada.",
+      "section": "security",
+      "rankScore": 0.727216
+    },
+    {
+      "id": "a6572c759e1cfb27",
+      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-01T17:53:11.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.",
+      "section": "security",
+      "rankScore": 0.581304
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 190 days old (budget 180d)",
+    "source \"juejin\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)"
+  ]
+}
