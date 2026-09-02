@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-02",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-02T15:04:18.476Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "5f1fcef59986da14",
+      "title": "黃之鋒：從學運領袖到國安法囚犯，重獲自由未有期",
+      "url": "https://www.bbc.com/zhongwen/articles/cj4j8n42r51o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-02T14:11:34.000Z",
+      "excerpt": "自2020年11月被關押以來，香港民主派活動人士黃之鋒被控多宗罪名，至今已身在獄中接近六年。",
+      "section": "news",
+      "rankScore": 0.804839
+    },
+    {
+      "id": "82c67e0c671f0242",
+      "title": "美商务部长证实准备对半导体加征新关税：所有相关企业都知道即将到来",
+      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260902-%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E8%AF%81%E5%AE%9E%E5%87%86%E5%A4%87%E5%AF%B9%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8A%A0%E5%BE%81%E6%96%B0%E5%85%B3%E7%A8%8E-%E6%89%80%E6%9C%89%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E9%83%BD%E7%9F%A5%E9%81%93%E5%8D%B3%E5%B0%86%E5%88%B0%E6%9D%A5",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-02T14:33:18.000Z",
+      "author": "弗林",
+      "excerpt": "尽管面临科技行业警告，美国商务部长卢特尼克（Howard Lutnick）证实，特朗普政府正在酝酿针对半导体的新一轮关税措施，旨在抑制外国市场并促进国内生产与投资。",
+      "section": "news",
+      "rankScore": 0.682773
+    },
+    {
+      "id": "fbeca05a1494360d",
+      "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-02T14:40:20.000Z",
+      "excerpt": "The golfer will accept a five-year driving ban and $1,000 fine as part of a plea agreement.",
+      "section": "news",
+      "rankScore": 0.618013
+    },
+    {
+      "id": "12a2768cba0746d2",
+      "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
+      "url": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-02T15:01:41.000Z",
+      "author": "Yeganeh Torbati",
+      "excerpt": "The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed.",
+      "section": "news",
+      "rankScore": 0.558834
+    },
+    {
+      "id": "6074f7026bb4bea4",
+      "title": "Russia increasingly reckless, says Nato’s Rutte as Germany blames Moscow for Leipzig drone incident – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-02T14:47:00.000Z",
+      "author": "Jakub Krupa (now and earlier) and Martin Belam (earlier)",
+      "excerpt": "Nato’s Mark Rutte’s comments come as EU ministers meet to consider their response to drone attack last month German police have opened a investigation into yesterday’s attempt to disrupt the operation of a power substation near Brandenburg.",
+      "section": "news",
+      "rankScore": 0.552308
+    },
+    {
+      "id": "43a6abe9bdbd7fa8",
+      "title": "Summer transfers 2026: All to know as Premier League signings break records",
+      "url": "https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-02T13:58:49.000Z",
+      "excerpt": "Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window.",
+      "section": "news",
+      "rankScore": 0.530893
+    },
+    {
+      "id": "544135990ebaf6ea",
+      "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
+      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-02T14:47:31.000Z",
+      "author": "Adam Liptak",
+      "excerpt": "In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.",
+      "section": "news",
+      "rankScore": 0.48347
+    },
+    {
+      "id": "a08c68cf4dc3e886",
+      "title": "Greetings from the Royal Pavilion, a stunning reminder of India in southern England",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5952243/royal-pavilion-brighton-england-architecture-india",
+      "source": "npr-news",
+      "publishedAt": "2026-09-02T14:30:36.000Z",
+      "author": "Lauren Frayer",
+      "excerpt": "Looking up at this 18th century building, it became clear the British didn't only bring their architectural style to India. They also took some of India's style home.",
+      "section": "news",
+      "rankScore": 0.476891
+    },
+    {
+      "id": "653b08409037b32c",
+      "title": "Uber to axe 10% of its workforce in biggest cuts since pandemic",
+      "url": "https://www.ft.com/content/5eda86fe-1d2c-4a4e-9563-24a50aa734a4?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-02T14:25:07.000Z",
+      "excerpt": "Ride-hailing group to eliminate 3,300 jobs as competition rises in food delivery sector and robotaxi race intensifies",
+      "section": "news",
+      "rankScore": 0.474759
+    },
+    {
+      "id": "34647eb96a0d49d6",
+      "title": "韩情报机构称：朝美首脑会谈随时可能举行",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pSmhWMjh4RExpRVV6Y2JLOHJRendEVzlhLWV4dFV0ZVU1c2Q2Wnd6dzJuR1R6aEhkLWxYaERpV2xXX2Rvd3diQUJDSmo5c1k3TUhKTVdYaWNVNjlaR1R1WmN0SnVOSTJtUGc?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-02T14:43:00.000Z",
+      "excerpt": "韩情报机构称：朝美首脑会谈随时可能举行 观察者 金主爱被指接班在望 美朝峰会或随时举行 亚洲电视新闻 博尔顿：特朗普或推动在平壤举行朝美首脑会谈……他需要一张“戏剧性”照片 : 中国·国际 韩民族日报 美国与北韩现对话迹象 南韩情资：随时可能办峰会 SWI swissinfo.ch 国情院：朝美首脑会谈随时可能举行…存在对话征兆 朝鮮日報中文版",
+      "section": "news",
+      "rankScore": 0.412897
+    },
+    {
+      "id": "cb0a8260a8ac718c",
+      "title": "特纳斯正式接棒库克，苹果新CEO面临平衡考验",
+      "url": "https://cn.nytimes.com/technology/20260902/apple-tim-cook-john-ternus/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-02T04:57:06.000Z",
+      "author": "KALLEY HUANG",
+      "excerpt": "约翰·特纳斯将带领苹果面对重大的技术和管理变革，既要展现出库克时代标志性的财务可预测性和纪律性，又要证明苹果依然能够创造出令消费者心驰神往的新产品。 Brendan McDermid/Reuters 周二就任苹果公司首席执行官的约翰·特纳斯（右）与担任该职位长达15年的蒂姆·库克，摄于7月在爱达荷州举行的太阳谷会议上。",
+      "section": "news",
+      "rankScore": 0.398928
+    },
+    {
+      "id": "0f20b0c5b94ddd93",
+      "title": "Sudan: Air attack destroys food aid for families in South Kordofan",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168251",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "excerpt": "Two truckloads of food aid destined for hungry families in South Kordofan state, Sudan, were destroyed in an aerial attack over the weekend, the World Food Progamme (WFP) said on Wednesday.",
+      "section": "news",
+      "rankScore": 0.358564
+    },
+    {
+      "id": "7fcc24ef40cebfde",
+      "title": "习言道｜谈及中东局势，习近平提出四点倡议",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689116.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-02T14:56:16.000Z",
+      "excerpt": "当地时间9月2日，埃及总统塞西同中国国家主席习近平在开罗太阳宫举行会谈。两国元首就中东局势深入沟通。习近平指出——",
+      "section": "cn-news",
+      "rankScore": 0.765086
+    },
+    {
+      "id": "2132fb13399002a5",
+      "title": "东西问丨姚喜双：2006条成语与它有关，邯郸何以成为“中华成语库”？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/09-02/10688979.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-02T11:54:28.000Z",
+      "excerpt": "中新社石家庄9月2日电 题：2006条成语与它有关，邯郸何以成为“中华成语库”？",
+      "section": "cn-news",
+      "rankScore": 0.713439
+    },
+    {
+      "id": "aa9101db02ea130e",
+      "title": "从1.4亿人“全球购”看中国机遇2.0",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689153.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-02T14:52:51.000Z",
+      "excerpt": "从1.4亿人“全球购”看中国机遇2.0(新视窗)",
+      "section": "cn-news",
+      "rankScore": 0.624271
+    },
+    {
+      "id": "622786dd8e8cd559",
+      "title": "温州暴雨致多地严重内涝，多家鞋厂被淹，当地居民：很多村民在捞鞋，还有老板在积水中开直播卖鞋",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwYTRIQjBqYThERDI3LTd6eEZLbmQ1cmFuZ3czcW9mcWEzTG1YeEpJcFRRLXNQc1M3NDNBWVNwai1SU2lYNHZRX3RweFl3NDQzQktXUk1KR3VOODNIQWc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-02T14:31:00.000Z",
+      "excerpt": "温州暴雨致多地严重内涝，多家鞋厂被淹，当地居民：很多村民在捞鞋，还有老板在积水中开直播卖鞋",
+      "section": "cn-news",
+      "rankScore": 0.613346
+    },
+    {
+      "id": "84e9976f66deb98b",
+      "title": "尼泊尔泥石流灾害遇难人数升至1204人",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JNzl1X3JJRzdSS0M1X0FCZlY3cDg2NkVweC04ZGtIT2FpOWVDaFNSV0tGaFNac2ZJZjlWdEVLcnZnczh0eXF1Njl4Y2xEY0Fua2k4azJvZkE?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-02T14:15:59.000Z",
+      "excerpt": "尼泊尔泥石流灾害遇难人数升至1204人 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.605838
+    },
+    {
+      "id": "03bf2df378a6ce25",
+      "title": "西安放寬建商開價免送審 房市大鬆綁消化庫存",
+      "url": "https://www.cna.com.tw/news/acn/202609020350.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-02T13:02:06.000Z",
+      "excerpt": "（中央社記者馮昭上海2日電）中國大陸在房市狂飆階段，「限價」曾是政府調控的重要工具。陝西西安日前公布房市新政，開放建商自主定價，只需要在網簽銷售平台填報「一房一價」，住建部門不再審核價格。",
+      "section": "cn-news",
+      "rankScore": 0.505685
+    },
+    {
+      "id": "83b591442a975be0",
+      "title": "国家气候中心：全球山地冰川呈加速消融态势",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFA4M0V5YzVRYU5YZThib21IMElHT29wTExiNWtTaHlscGV1SGNQbEJJNWxRYS1rQm9xQzR2VnlvYUhpZldlWEVlZFllNjNydWFnY0c3a1pCSGF6V0RfdzUya3F1VjJuSHlHdzZmXzVjTHVEYmplaDNKZkVfZFhUTkk0VGlqcmdjQTZFN1ZpRzhmVUE4WWgyOWp3?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-02T12:58:53.000Z",
+      "excerpt": "国家气候中心：全球山地冰川呈加速消融态势 新华网客户端 国家气候中心专家：全球变暖背景下未来冰崩频次将进一步上升 新浪财经 视频丨原普热普强藏布堰塞湖下游仍存在形成新堰塞湖风险 Sohu 水利部：尼泊尔错坚河冲击坑周边冰川仍有崩落可能 中国日报网 外交部谈喜马拉雅地区冰川退缩危机影响：任何一国都无法独善其身 thepaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.504256
+    },
+    {
+      "id": "67744b3dce626818",
+      "title": "SCO takes landmark stand on nuclear security as Iran comes under renewed attack",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3366108/sco-takes-landmark-stand-nuclear-security-iran-comes-under-renewed-attack?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-02T15:00:08.000Z",
+      "author": "Shi Jiangtao",
+      "excerpt": "The Shanghai Cooperation Organisation has issued its first dedicated declaration on nuclear safety and security, condemning attacks on peaceful nuclear facilities and outlining practical cooperation, amid tensions over Iran’s nuclear programme and wider questions of global nuclear governance.",
+      "section": "cn-news",
+      "rankScore": 0.488377
+    },
+    {
+      "id": "98cc628b9cd89a4e",
+      "title": "合规体系下，中国汽车出海增长曲线如何改写？",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wYW50ckt1T05EVDBHUFJYRWxFS1dlal8xSkt3Sm9acm5qbUs4LTNjSy1iZktIZGhpdWVodTRqTGlZUGUyaVdHNWZRZ0Y3YzlNTHMxN0o2ZEoxd0pxanhTZ0FpR3Q?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-02T14:16:00.000Z",
+      "excerpt": "合规体系下，中国汽车出海增长曲线如何改写？ 新京报 从“走出去”到“走进去”，三部门引导车企规范海外竞争 新浪财经 比亚迪：积极响应合规指引，将规范海外价格管理体系、严守公平竞争底线 新浪财经 商务部、工业和信息化部、市场监管总局，发布重要指引 凤凰网 【社论】推动汽车产业长远健康国际化发展 thepaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.471214
+    },
+    {
+      "id": "e910c791b818d282",
+      "title": "芒果超媒：AI长剧《后西游记》依托芒果灵创AIGC平台制作",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3cWNieFpKdlU1cDQtd0dNYVJXVzBXLVV0bHZYZnRhV1FkU3AtV0NMZXFqTEp6UklKOGJ5TTNIQjRaTVU5SzJHR1VtMzJnUWNUMzdrNkhkem5OQ0dUZFh0d2pNVDg?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-02T13:53:00.000Z",
+      "excerpt": "芒果超媒：AI长剧《后西游记》依托芒果灵创AIGC平台制作 新京报 芒果超媒：AI长剧《后西游记》制作总成本较同类剧集显著降低 新浪财经 平台更倾向分账，资本仍不敢出手 《后西游记》之后，AI长剧怎么赚钱？ 凤凰网 AI长剧首登卫视黄金档，影视新拐点已到来？ 风闻 国内首部AIGC长剧《后西游记》上线：首播实时收视居省级卫视第一 驱动之家",
+      "section": "cn-news",
+      "rankScore": 0.396231
+    },
+    {
+      "id": "aee6a3b6eff1401e",
+      "title": "千年茶乡再添新茶缘 两岸茶人云南昌宁共建“同心茶园”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689139.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-02T14:39:07.000Z",
+      "excerpt": "中新网保山9月2日电 (陆希成)“茶是两岸共同的文化记忆，也是连接彼此情感的媒介。接过树苗的瞬间，我明白种下的不仅是生机，更是未来加深合作的契机。”台湾原生山茶文化学会学术顾问陈国任2日如是说。",
+      "section": "cn-life",
+      "rankScore": 0.823206
+    },
+    {
+      "id": "625b2484249f39f1",
+      "title": "台风、暴雨等五预警齐发：今日20时至明日20时，广东东部有大到暴雨，东南部有局部特大暴雨",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNelNvRTlYdVozbHlVTFkzdkFueEdweEJKWUo1azhCX3NjMGtEX0tzOGdJZklXTlBXNUR2Uk1EdGNyVDJ2bl9HdkwtazRDY2hteU10SDM1cFJNdDhZNWFLVVV1SmFUaXBJVXQyYjJwWHJVQ1FtUndBUkJHa24xRVZaTlBhcHJmTHpzTDFwRThScVZ6VGZaekVMVzVMOU9wWjRwTlU5ZDdVb3VidWZwdDM5NVlpbXBGcWR3eXMwNnl0UlZYaWFJcHVWcm51UVFmWngwODlFZmt3?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-02T13:47:36.000Z",
+      "excerpt": "台风、暴雨等五预警齐发：今日20时至明日20时，广东东部有大到暴雨，东南部有局部特大暴雨 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.591646
+    },
+    {
+      "id": "fe97a572fd9fb097",
+      "title": "DRG/DIP 3.0版正式印发，医保支付改革向纵深推进 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY192eUxkUk05VjE4OGlSQnd5LVUxTFAzT3FTTkJhX0tOanF5SVdNRWhCQmZja0pobnpmNmxhWS1tMllSdHdLMGpVR1BKX3UtYTFCeWtZd2ltV09KbVRwQVMxY09OZ1ZZX3ZLVElRQzRqa2psemxwMHg2RGQ3OXhsZHBjWWc3UGRsU2JUTg?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-02T13:27:00.000Z",
+      "excerpt": "DRG/DIP 3.0版正式印发，医保支付改革向纵深推进 21财经",
+      "section": "cn-life",
+      "rankScore": 0.581346
+    },
+    {
+      "id": "27a3951b7ef2a6c3",
+      "title": "建设地点 ：北京市 怀柔区",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3YWM0YnNIVHBiVGhLODZzdTB3bHlDUU5Ja2VaY3gtTllhZlRHMjRzUE02cy1xR2tpaVE2Y1cyNjVPOU1YaU5wRmtydlh0MWZCV3cwRWhFMnFFWTQyeEtDWFdjQmFKQXpQZmsxWDluLWVqQQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-02T13:28:20.000Z",
+      "excerpt": "建设地点 ：北京市 怀柔区 北京市公共资源交易服务平台",
+      "section": "cn-life",
+      "rankScore": 0.517345
+    },
+    {
+      "id": "59e61fa125445554",
+      "title": "一件毛衣开衫拆成两半卖 女装店新奇售卖方式引热议",
+      "url": "https://www.chinanews.com.cn/life/2026/09-02/10688797.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-02T08:03:30.000Z",
+      "excerpt": "“你见过衣服做成左右两片、分开卖的吗？”近日，有网友发现，某电商平台一家女装店推出的一款毛衣，被拆分为左右两片单独售卖，相关内容引发热议。",
+      "section": "cn-life",
+      "rankScore": 0.466218
+    },
+    {
+      "id": "5d9cce9261cbcfa7",
+      "title": "总理跟进各医院药品和医疗用品供应情况 - الهيئة العامة للاستعلامات",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQOHZkVzFnREgta2pvMVBEd1haUWs3bFRBeUNzaS1YQWlEYWFBR0EyWGdNX0N6RElmNG1vWFd1b0tmcmx2Qndwd1VjSVhNbUVMSlk5WC1IS0MxanYySXZVdXF2VGlja1pSZnRUOEhmT1R6RDBVVFJNOTE3el9BSjBFM05nc2E1NVZJTzRQM0lPOUFUVjgwS1J6RzVfUzlvVWlFU0hwMk5tazRXakMtakc2S3MtU1lrTHVFOTZrNHAtalVFSGd3YnhhSHA2dm14OV9GSC1la2xaZ3piVVh6RVF5VUNRQmZWV3pLTWxsSWszdjhsd19MLXZ1b1BQbHV5dkVxQXNPanpIRHNQZklYbnAtSTBaUWlhLXZtZWxlV2F1QUdkOUpTdHdIRGp1MzhhLWtLR3lMaWlCZXN4dm1tSzQwU0JaTGxfWDlnV1FMVmYxb25YY2pGUUg1WVFHN0dvUQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-02T13:27:16.000Z",
+      "excerpt": "总理跟进各医院药品和医疗用品供应情况 الهيئة العامة للاستعلامات",
+      "section": "cn-life",
+      "rankScore": 0.452262
+    },
+    {
+      "id": "07d7ae843ca99998",
+      "title": "六十载风雨铸匠心——著名英语教育家邓子钦教授做客《作者面对面》第1628期",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9va210cFdwQzdmQ0dIdHNiY3Ezb0c4WDJ2MnRBZF9haEl2TTVEZ2VzbTZkNWZWNlRsSlpFc29ZSXAzalVKTUJ1eXpEcFB0SGk4dnFDTDVCaVlsZjRJQ042eG9sbGNvWVhoVTIwYzllTDdHdG8?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-02T14:25:38.000Z",
+      "excerpt": "六十载风雨铸匠心——著名英语教育家邓子钦教授做客《作者面对面》第1628期 潮新闻客户端",
+      "section": "cn-life",
+      "rankScore": 0.407108
+    },
+    {
+      "id": "d931008397d3bd42",
+      "title": "女性运动三大流言缺乏科学依据：空腹运动无害、脱水无性别差异、蛋白窗口期非必需",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PWFdJQUpnUWIwNnFSWWphZExwUUE2TzhxajhqWWNobk14eUdLeEhyemNyVXZ6R1NOVWRXeFo1a3M5OVJueGVVWWpKMVpoMEJhWlRFMQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-02T08:07:22.000Z",
+      "excerpt": "女性运动三大流言缺乏科学依据：空腹运动无害、脱水无性别差异、蛋白窗口期非必需 虎嗅",
+      "section": "cn-life",
+      "rankScore": 0.327856
+    }
+  ],
+  "warnings": []
+}
