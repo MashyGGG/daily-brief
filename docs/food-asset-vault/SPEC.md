@@ -154,7 +154,7 @@ files:                              # 校验清单；verify 子命令据此比�
 - [ ] **食材词表**：自由文本，不做同义词合并；靠 `vault ingredients` 人工统一拼写。
 - [ ] **project/export 子目录**：脚本只创建，不校验、不哈希、不去重。
 - [ ] **云备份**：本期不做，但目录规范已保证可整目录同步。
-- [ ] **项目位置**：新仓库 `C:\other-files\food-asset-vault\`，与 daily-brief / others 无代码关系。
+- [ ] **项目位置**：本 SPEC 暂存于 daily-brief 仓库 `docs/food-asset-vault/`；实现时新建独立仓库 `food-asset-vault`，与 daily-brief / others 无代码关系。
 
 ## 附录 A：NAS 选型建议（非验收项）
 
