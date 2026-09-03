@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-03",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-03T16:22:55.230Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "c6240ca88eed5b23",
+      "title": "ChatGPT Is Throwing 404",
+      "url": "https://chatgpt.com/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-03T14:46:47.000Z",
+      "score": 342,
+      "author": "stacktrace",
+      "excerpt": "342 points · 259 comments · https://news.ycombinator.com/item?id=49550614",
+      "section": "tech",
+      "rankScore": 1.040909
+    },
+    {
+      "id": "9b6b06921f8174ac",
+      "title": "How Databases Keep Their Sanity with Concurrency Control",
+      "url": "https://blog.bytebytego.com/p/how-databases-keep-their-sanity-with",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-03T15:31:17.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "So how do we handle such bugs? This is what we are going to try to answer in this article.",
+      "section": "tech",
+      "rankScore": 0.740871
+    },
+    {
+      "id": "1a7d80f65ccf3deb",
+      "title": "CodeQL 2.26.4 improves GitHub actions security detections",
+      "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-03T14:04:59.000Z",
+      "author": "Allison",
+      "excerpt": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.4, which adds support for Go 1.27,…",
+      "section": "tech",
+      "rankScore": 0.629263
+    },
+    {
+      "id": "94102fe9e0a06ae4",
+      "title": "What do you do when your favorite programming language has a fascism problem?",
+      "url": "https://codeandcake.dev/posts/2026-09-03-what-do-you-do",
+      "source": "lobsters",
+      "publishedAt": "2026-09-03T15:10:16.000Z",
+      "author": "codeandcake.dev by nick4",
+      "section": "tech",
+      "rankScore": 0.596467
+    },
+    {
+      "id": "fe21eb2bb395a7ba",
+      "title": "podsfamily/pods",
+      "url": "https://github.com/podsfamily/pods",
+      "source": "gh-trending-ts",
+      "publishedAt": "2026-09-03T11:32:48.000Z",
+      "score": 73,
+      "author": "podsfamily",
+      "excerpt": "Rent out your idle GPU, get paid in tokenized NVDA on Robinhood Chain. — ★73 · TypeScript",
+      "section": "tech",
+      "rankScore": 0.55122
+    },
+    {
+      "id": "11bbdb7b4a60d4a9",
+      "title": "This 14-inch laptop has a screen that unrolls to 17 inches",
+      "url": "https://www.theverge.com/tech/989477/lenovo-thinkbook-project-swan-concept-laptop-14-17-rollable-ifa-announcement",
+      "source": "verge",
+      "publishedAt": "2026-09-03T16:00:00.000Z",
+      "author": "Antonio G. Di Benedetto",
+      "excerpt": "Lenovo's latest rollable concept, announced at IFA 2026, is the ThinkBook Project Swan: a business laptop with a screen that expands horizontally from 14 to 17 inches. Rollable screens are nothing new for Lenovo.",
+      "section": "tech",
+      "rankScore": 0.481772
+    },
+    {
+      "id": "808997cb1b9c5199",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "deepmind",
+      "publishedAt": "2026-09-03T15:02:08.000Z",
+      "section": "ai",
+      "rankScore": 0.592714
+    },
+    {
+      "id": "b7e59fda5215fa32",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "huggingface",
+      "publishedAt": "2026-09-03T13:13:48.000Z",
+      "section": "ai",
+      "rankScore": 0.542714
+    },
+    {
+      "id": "06ebf8c94f88a89f",
+      "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
+      "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+      "source": "latent-space",
+      "publishedAt": "2026-09-03T04:38:33.000Z",
+      "excerpt": "an epic comeback story for Meta",
+      "section": "ai",
+      "rankScore": 0.372663
+    },
+    {
+      "id": "40afc56873f59675",
+      "title": "美团智播——数字人直播技术创新与实践",
+      "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-03T16:22:55.230Z",
+      "excerpt": "美团智播围绕 AI 主播「长得真→动得准→演得活→卖得好」构建了完整技术闭环：真人 1:1 复刻、换装换背景身份不跑偏；动作自然流畅，告别「木偶戏」；边说边动、音画一致；背后还有推理加速技术支撑万路并发开播，让普惠落地成为可能。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "5d3d6abb750e2414",
+      "title": "衰老的大脑会混淆扭曲记忆",
+      "url": "https://www.solidot.org/story?sid=85282",
+      "source": "solidot",
+      "publishedAt": "2026-09-03T16:01:41.000Z",
+      "excerpt": "根据发表在《Cerebral Cortex》期刊上的一项研究，科学家招募了 18-74 岁的成年人，最后的参与者包括 17 名青年人（18-30 岁）、21 名中年人（50-60 岁）和 23 名老年人（61-74 岁）。每一位参与者都躺在 MRI 扫描仪中完成了一项多步骤的记忆任务。参与者首先接受静息扫描，闭上眼睛保持静止不动；接着在学习阶段观看一张脸与一物体或一场景配对出现，被要求想象此人互动的情景以帮助记住配对信息；最后进行记忆测试。结果显示年龄是记忆表现的重要预测因素。年轻参与者正确识别配对的频率远高于中年或老年参与者，而中年和老年人的表现则相近。老年人表现出更多的混淆错误。",
+      "section": "cn-tech",
+      "rankScore": 0.75802
+    },
+    {
+      "id": "b6591375b5af402f",
+      "title": "AI窗口期只剩3-4年，98%的企业却高估了自身的技术成熟度",
+      "url": "https://www.infoq.cn/article/Gz4w1NVNIJjs8fZOaQZD?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-03T16:20:38.000Z",
+      "author": "青和",
+      "section": "cn-tech",
+      "rankScore": 0.698827
+    },
+    {
+      "id": "a242c5ecc9c25376",
+      "title": "别再使用IndexedDB，大文件读写就用OPFS",
+      "url": "https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/",
+      "source": "zhangxinxu",
+      "publishedAt": "2026-09-03T09:39:07.000Z",
+      "author": "张 鑫旭",
+      "excerpt": "今天才发现，文件本地持久化存储，最好的技术选型原来是OPFS，而不是IndexedDB，前者性能极好、代码极少，比IndexedDB强的不是一点两点。",
+      "section": "cn-tech",
+      "rankScore": 0.591505
+    },
+    {
+      "id": "174da8ab8d463c00",
+      "title": "一部AI剧带飞芒果超媒，两天涨40%，《后西游记》凭什么？",
+      "url": "https://www.36kr.com/p/3967621539639812",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-03T13:49:14.000Z",
+      "author": "IT时报",
+      "excerpt": "8月31日18点整，国内首部上星的AIGC长剧《后西游记》上线芒果TV，并于20点登陆湖南卫视黄金档，8月31日和9月1日，芒果超媒连续两个交易日“20cm”涨停。 社交媒体上，有人夸画面好，有人吐槽“AI脸”，但一个事实是，随着这部作品进入大众视野，AI开始尝试进入影视生产最核心的环节：长内容制作，AI长剧正在从“概念”变成“作品”，而灵魂拷问是，芒果超媒会从此进入上涨通道吗？真人剧真要成非遗了吗？ 在此之前，AI短剧以摧枯拉朽之势，几乎击垮了真人短剧赛道。DataEye-ADX《2026上半年AI剧漫剧数据报告》显示，2026年上半年全网新上线AI短剧超22.19万部。",
+      "section": "cn-tech",
+      "rankScore": 0.559067
+    },
+    {
+      "id": "32387b5f7d1a3c8b",
+      "title": "Preparing for the Post-Quantum Era: A Call to Action",
+      "url": "https://www.cisa.gov/resources-tools/resources/preparing-post-quantum-era-call-action",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "CISA and the Group of Seven (G7) Cyber Security Working Group released Preparing for the Post-Quantum Era: A Call to Action highlighting the urgent need for organizations and governments to begin transitioning to post-quantum cryptography (PQC) to protect sensitive data, authentication systems,…",
+      "section": "security",
+      "rankScore": 0.565169
+    },
+    {
+      "id": "093971f418a2e446",
+      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-03T11:58:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries.",
+      "section": "security",
+      "rankScore": 0.564143
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 192 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
