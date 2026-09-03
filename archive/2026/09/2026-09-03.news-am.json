@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-03",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-03T01:25:36.146Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "30ad2d53b6efad85",
+      "title": "莫迪敦促普京結束烏克蘭戰爭，他能勸得動嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-03T00:24:54.000Z",
+      "excerpt": "印度經濟高度依賴自俄羅斯進口的折扣石油。自2022年普京發動對烏克蘭的全面入侵以來，莫迪已多次向普京提出過類似的呼籲。",
+      "section": "news",
+      "rankScore": 0.819766
+    },
+    {
+      "id": "9f1f0984f6bbadc3",
+      "title": "习近平访问埃及，挑战美国在中东影响力",
+      "url": "https://cn.nytimes.com/china/20260903/china-egypt-xi-jinping-el-sisi/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-03T00:35:13.000Z",
+      "author": "郭莉莉,ERIKA SOLOMON",
+      "excerpt": "习近平寻求深化与这个美国长期安全伙伴的关系。他称赞中埃两国是“亲密兄弟”，有共同抗击帝国主义的历史，试图将北京塑造成一种有别于西方的全球大国。 Pool photo by Khaled Desouki 周二，开罗总统塞西夫妇在机场迎接到访的习近平和彭丽媛。",
+      "section": "news",
+      "rankScore": 0.754604
+    },
+    {
+      "id": "fc0e9e3d7e35a22a",
+      "title": "习近平的外交马拉松：从中亚到白宫，“既要反美帝国主义，也要与美搞好关系”",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260902-%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%A4%96%E4%BA%A4%E9%A9%AC%E6%8B%89%E6%9D%BE-%E4%BB%8E%E4%B8%AD%E4%BA%9A%E5%88%B0%E7%99%BD%E5%AE%AB%EF%BC%8C-%E6%97%A2%E8%A6%81%E5%8F%8D%E7%BE%8E%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89%EF%BC%8C%E4%B9%9F%E8%A6%81%E4%B8%8E%E7%BE%8E%E6%90%9E%E5%A5%BD%E5%85%B3%E7%B3%BB",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-02T22:47:13.000Z",
+      "author": "呢喃",
+      "excerpt": "9月3日出刊的法国世界报有两则与中国相关的报道。第一则关注了中国国家主席习近平的外交马拉松：从敌视西方的国家，一路走向华盛顿。世界报在这篇报道当中回顾了本周初在吉尔吉斯斯坦举行的上合组织峰会，认为该峰会如今已经成为了“敌视西方之于世界的主导地位”的国家之间，彼此表达认同感的一个大型平台。中国，处在这些国家的中心。",
+      "section": "news",
+      "rankScore": 0.656004
+    },
+    {
+      "id": "58b792961c12e4f8",
+      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-02T21:34:27.000Z",
+      "excerpt": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+      "section": "news",
+      "rankScore": 0.572212
+    },
+    {
+      "id": "bafe144f4b4a36d7",
+      "title": "Australia news live: Marles says US relationship ‘transcends governments of the day’; Sydney to get new ferry stop",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-03T01:19:23.000Z",
+      "author": "Nick Visser",
+      "excerpt": "Meanwhile investors fret that soaring oil prices will reignite inflationary pressures. Follow the day’s news live. Shadow treasurer says tobacco plans would bring in extra billions and stop people buying from the ‘black market’ Tim Wilson, the shadow treasurer, said the tobacco proposal would…",
+      "section": "news",
+      "rankScore": 0.558618
+    },
+    {
+      "id": "6f7da6b4bee1021f",
+      "title": "Inside the Fight Against a Flesh-Eating Fly in Mexico",
+      "url": "https://www.nytimes.com/2026/09/02/world/americas/screwworm-facility-mexico.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-03T01:14:05.000Z",
+      "author": "James Wagner and Luis Antonio Rojas",
+      "excerpt": "For the first time in a year, the U.S.-Mexico border partly reopened to cattle imports following a screwworm infestation across the region. The battle against the flesh-eating fly has only just begun deep in Mexico.",
+      "section": "news",
+      "rankScore": 0.55744
+    },
+    {
+      "id": "6e9bf76ebb2dcad0",
+      "title": "Morocco’s ruling allies turn on each other before election campaign begins",
+      "url": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-03T00:52:49.000Z",
+      "excerpt": "Political tensions rise as Moroccans prepare for the polls, with the official campaign start still days away.",
+      "section": "news",
+      "rankScore": 0.552714
+    },
+    {
+      "id": "3c4bde436b4d83f5",
+      "title": "2 People Are Killed and 2 Officers Are Hurt in Minneapolis Shooting",
+      "url": "https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-03T01:19:26.000Z",
+      "author": "Ernesto Londoño, Tim Arango and Christina Morales",
+      "excerpt": "The authorities said the suspect was also dead. Residents were warned to stay away from the downtown apartment building where the violence erupted.",
+      "section": "news",
+      "rankScore": 0.4888
+    },
+    {
+      "id": "cf194d66ffc39399",
+      "title": "Steve Ballmer banned by NBA over improper payment to basketball star",
+      "url": "https://www.ft.com/content/6b74303c-0190-4e86-8a7b-feaf3dd29658?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-02T22:25:18.000Z",
+      "excerpt": "LA Clippers team funnelled millions of dollars to star Kawhi Leonard to circumvent league salary cap, league investigation finds",
+      "section": "news",
+      "rankScore": 0.454941
+    },
+    {
+      "id": "b7978289a4012f9f",
+      "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case",
+      "source": "npr-news",
+      "publishedAt": "2026-09-02T21:59:14.000Z",
+      "author": "The Associated Press",
+      "excerpt": "Los Angeles Clippers owner Steve Ballmer was suspended for one year by the NBA, and the team was ordered to pay $30 million for violating salary cap circumvention rules in a case involving Kawhi Leonard.",
+      "section": "news",
+      "rankScore": 0.449873
+    },
+    {
+      "id": "04709972986bbd93",
+      "title": "人工智能网络对亚太地区数字基础设施提出新要求",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142730",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "excerpt": "人工智能正在重塑亚太地区数字格局，并融入网络、基础设施和日常应用，但速度、可靠性和计算能力方面长期存在的差距，可能导致一些国家“掉队”。",
+      "section": "news",
+      "rankScore": 0.428599
+    },
+    {
+      "id": "2deb3856d1c0bc15",
+      "title": "俄外交部：就德国反俄举动召见德国驻俄临时代办--国际",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GYWJMT2szdVkwS3JSaFlBY0NicU11bmhqcWRQeTdNZFpTT2swU09UeXFHWUdDMDc2TXRiQ3ctVW5ZWEEwaFhycVNYYWpnS2hIYkR3bkEyWS1yTXNrMDROTFpfQ2o1cWxLOEdV?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-03T00:30:00.000Z",
+      "excerpt": "俄外交部：就德国反俄举动召见德国驻俄临时代办--国际 人民网 德国正式指控：炸弹无人机事件就是俄罗斯干的 guancha.cn 俄外交部：将对德国关闭俄驻波恩总领事馆作出回应 央视网 莱比锡机场事件：欧盟考虑对俄罗斯实施新的制裁 RFI 梅德韦杰夫在大规模新制裁后威胁直接攻击德国 手机网易网",
+      "section": "news",
+      "rankScore": 0.410733
+    },
+    {
+      "id": "564affb5d0337741",
+      "title": "（近观中国）聚焦长治久安，习近平提构建中东安全新架构",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689217.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-03T01:08:45.000Z",
+      "excerpt": "中新社北京9月2日电 (记者 李京泽)“中方支持地区国家发展睦邻友好关系，秉持共同、综合、合作、可持续的安全观，构建中东安全新架构。”当地时间9月2日，正对埃及进行国事访问的中国国家主席习近平同埃及总统塞西举行会谈时如是指出。",
+      "section": "cn-news",
+      "rankScore": 0.764851
+    },
+    {
+      "id": "7f46e19e4df92b9a",
+      "title": "华夏银行总资产4.98万亿，重新超过北京银行",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUbG1qcEh2ZHZRZUZoVnpITWxVWFRJVV9saGlvWmpOVU1hcDk4Y1BDUEozMF94QndiMzZ0WExCSjg2MDB3RVUyMWJXX040d1hGUnd3SmFndW02UzhjekE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-03T01:02:00.000Z",
+      "excerpt": "华夏银行总资产4.98万亿，重新超过北京银行",
+      "section": "cn-news",
+      "rankScore": 0.624099
+    },
+    {
+      "id": "5c89cef6cbf3945e",
+      "title": "华泰证券：建议优先关注业绩能见度较高的方向",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GRW1KaEZydGRGdTdtX0lNZ3A0bGdOY3gyZkdQWWN0Z1IxamZ6WWtfcEo0Mjd5MFRQemU5QXpMOEFsNnhTczdYUDQyZV9PeHpEV0pnTjJQTnA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-03T00:19:41.000Z",
+      "excerpt": "华泰证券：建议优先关注业绩能见度较高的方向 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.61352
+    },
+    {
+      "id": "992d4268a19aecfc",
+      "title": "光伏超越煤电只是新起点",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689192.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-02T23:47:41.000Z",
+      "excerpt": "中国电力版图再次被改写。国家能源局最新数据显示，截至今年7月底，全国光伏发电装机规模达12.86亿千瓦，首次超越煤电12.85亿千瓦的装机规模。此次装机位次更迭，是我国能源绿色低碳转型路上的重要里程碑，标志着新能源从过去能源体系里的“后来者”，一步步站上电源规模的中心位置。但里程碑不等于终点，光伏装机规模超越煤电，只是能源转型中的一个新起点。",
+      "section": "cn-news",
+      "rankScore": 0.60552
+    },
+    {
+      "id": "cae90cbca070d708",
+      "title": "外资银行看好中国A股：年内有望延续稳步反弹势头",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688982.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-02T11:41:03.000Z",
+      "excerpt": "中新社上海9月2日电 (记者 姜煜)瑞银证券中国股票策略分析师孟磊2日发表分析报告称，在上市公司盈利复苏，交易型开放式指数证券投资基金(ETF)、保险资金与私募基金等增量资金持续净流入以及全球科技发展的推动下，年内中国A股有望延续稳步反弹势头。",
+      "section": "cn-news",
+      "rankScore": 0.565149
+    },
+    {
+      "id": "202c260c0c9fc56e",
+      "title": "开学“第一餐”，校长坐到我对面——“五张清单”这样管好校园食堂",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxRFJ0UEFTUGtmMEQxVmJlN1JvSWVDem1ySG10NWtpdWFmTmp2bDFkRkV2d3V0VWp4TTRvay1lYlEtWFJhXzdEbThkWkdJWlItZ3g5ZWxuS1czWGRkOGpNS0FKcVpNOEh0Z0J6Ujg1WlNzZTVTU3lhS29CaV9rYnM?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-03T00:42:39.000Z",
+      "excerpt": "开学“第一餐”，校长坐到我对面——“五张清单”这样管好校园食堂 新华网 超五成中小学实现食堂供餐 700个校园食堂完成智能化改造 北京市人民政府门户网站 厦门市湖里区市场监管局暑期“抢跑”护航校园餐 新浪财经 新学期，从“吃好”开始 凤凰网 后厨看得见，营养算得清 校园餐品质从安全升级至美味 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.550455
+    },
+    {
+      "id": "eaf4278452ad46ff",
+      "title": "国内商品期货早盘开盘 主力合约涨跌不一",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yT3RSNGhFS1ZBSS1IZExKU1hLOG9LQWUzNUh0c3RPcXhYbmszeXc2dm5ORjlrT1VQZG1ObC1XbUwyOVBubzBaZndJcEtrYy0yYldXdUgzNVZTRDFzZWdPVEN1WHZ4dw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-03T01:03:18.000Z",
+      "excerpt": "国内商品期货早盘开盘 主力合约涨跌不一 东方财富 开盘|国内期货主力合约涨多跌少，SC原油涨近10% 新浪财经 期货收评：美伊冲突引爆能化系！原油暴涨超8% 甲醇大涨近5% 同花顺 商品期货开盘多品种大涨 原油主力涨超4% Sohu 【9月1日期货收评】化工板块飘红 乙二醇领涨 新浪财经",
+      "section": "cn-news",
+      "rankScore": 0.485663
+    },
+    {
+      "id": "cc06e96885ba45e8",
+      "title": "China launches largest-ever academic misconduct crackdown after ‘Student Geng’ scrutiny",
+      "url": "https://www.scmp.com/news/china/science/article/3366106/china-launches-largest-ever-academic-misconduct-crackdown-after-student-geng-scandal?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-03T01:00:08.000Z",
+      "author": "Shi Huang",
+      "excerpt": "Four Chinese academics who lost posts at leading universities after a high-profile blogger flagged their research for misconduct have come under official investigation by China’s leading funder of basic research.",
+      "section": "cn-news",
+      "rankScore": 0.485048
+    },
+    {
+      "id": "29a6d17470dda12b",
+      "title": "专访《后西游记》主创团队：AI长剧“上星”开创影视创作新范式",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nb2lCUjdCckREOGtlZmxTdURxd1hhbUF2TEVjeENtSG5mNDU4andDdTNqQXJNU3Zjd0JlU2c2QWhlM3BoSHBQNVg3MFg1RmpUMm9GMnI1TWpPNlZwR1lOdQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-03T00:22:00.000Z",
+      "excerpt": "专访《后西游记》主创团队：AI长剧“上星”开创影视创作新范式 thepaper.cn 芒果TV《猴来》，也想重写影视股叙事线？ 新浪财经 平台更倾向分账，资本仍不敢出手 《后西游记》之后，AI长剧怎么赚钱？ 凤凰网 《后西游记》背后 AIGC创作工具芒果灵创提供技术支撑 Sohu 两天狂揽117亿市值，芒果超媒能否靠AI长剧突围？ 中华网财经",
+      "section": "cn-news",
+      "rankScore": 0.4094
+    },
+    {
+      "id": "3d3c7a798d881560",
+      "title": "灣仔私家車切線不果 司機竟伸手開的士車門逼讓路 網民：馬路惡霸",
+      "url": "https://hk.news.yahoo.com/%E7%81%A3%E4%BB%94%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%88%87%E7%B7%9A%E4%B8%8D%E6%9E%9C-%E5%8F%B8%E6%A9%9F%E7%AB%9F%E4%BC%B8%E6%89%8B%E9%96%8B%E7%9A%84%E5%A3%AB%E8%BB%8A%E9%96%80%E9%80%BC%E8%AE%93%E8%B7%AF-%E7%B6%B2%E6%B0%91%EF%BC%9A%E9%A6%AC%E8%B7%AF%E6%83%A1%E9%9C%B8-011509065.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-09-02T17:15:09.000Z",
+      "excerpt": "網上流傳一段灣仔私家車切線不果，司機竟然做出驚人舉動的車Cam影片。據報事發地點在灣仔駱克道近杜老誌道往銅鑼灣方向，當時路面交通相當繁忙且稍顯擠塞。片首見該輛私家車沿左線行駛，司機在沒有亮起轉向燈的情況下擬切入右線，此時，右線一輛俗稱「小露寶」之的士拒絕相讓，未有讓出空位，雙方互不相讓，私家車騎住兩條行車線中間行駛，數度加油緊貼前行以「爭奪身位」，兩車慢駛僵持了近10秒，場面一度相當驚險。",
+      "section": "cn-news",
+      "rankScore": 0.394634
+    },
+    {
+      "id": "3713d6a27deef075",
+      "title": "西藏吉隆泥石流灾害累计投入救援力量2300余人",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689232.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-03T01:20:31.000Z",
+      "excerpt": "记者9月2日从西藏自治区政府新闻办召开的新闻发布会上获悉，为千方百计搜救失联人员，在道路未打通前，当地“水陆空”三线并进，水路利用冲锋舟、橡皮艇等多种方式向核心区域挺进，空中飞行直升机24架次向核心区域投送救援人员和物资装备，陆路绕行山路12余小时挺进核心区域。截至目前，累计投入救援力量2300余人、搜救车辆400余台次、搜救设备8000余台套、无人机飞行800余架次、空投物资装备5.43吨，在核心区域布设照明灯具4台、低压发电车1台、充电方舱1台，已有12座基站恢复通信，为搜救工作提供坚强保障。",
+      "section": "cn-life",
+      "rankScore": 0.838305
+    },
+    {
+      "id": "ffdae8d9ffa05240",
+      "title": "秋果上架满目新，哪些品类正在成为消费市场的新宠？",
+      "url": "https://www.chinanews.com.cn/life/2026/09-03/10689194.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-02T23:50:27.000Z",
+      "excerpt": "秋果上架满目新",
+      "section": "cn-life",
+      "rankScore": 0.673569
+    },
+    {
+      "id": "18153bb8ceffae67",
+      "title": "驶出30米后掉头！吉安装维员暴雨中两次折返，送摔倒老人回家",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1TzhNdFNfaXd4UkwzcTMxX0VkZ1Q3Y0dsdkFpU0ptMVhOM2dnTkk5VVRQTERIOXY4eEQ0THlnWUFRd3FaRlVUcE1R?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-03T01:18:48.000Z",
+      "excerpt": "驶出30米后掉头！吉安装维员暴雨中两次折返，送摔倒老人回家 凤凰网江西",
+      "section": "cn-life",
+      "rankScore": 0.628299
+    },
+    {
+      "id": "71f0b69103eef475",
+      "title": "按病种付费3.0版发布！国家医保局：158个基层病种“同病同付”，突出“一老一小”和创新支持 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2MzR2dnZk0ycHBjYTJXNUpPYlZ2d0FZd0tnZkpCQjNTUmVOVXNPV01CREliM0t6NVN2bGlmR3ExWHUzRWFJTFBVQkswRGNoNXhPYmR0VXJROGN4UXYtc1BWQ0l0aDdxLXloX2VjaXdLbks4dUxxOTBZNFNjN3hnY25aS19feUV5?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-03T01:04:49.000Z",
+      "excerpt": "按病种付费3.0版发布！国家医保局：158个基层病种“同病同付”，突出“一老一小”和创新支持 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.624804
+    },
+    {
+      "id": "de0089c12297211a",
+      "title": "福建晋江：“小标善执”化解中小微企业三角债",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vMWJYZjVFM2dJVTRnX1hHbV8yMV85ckVmcmpYcnRmOEFuSjRYQXl4UDk2MXBlLWNyaUNMWmR2SW5FbURyT1MyX3RqaHFrZFVxYTFsMDZkODJ0eFJwOHlGUjhn?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-03T01:03:03.000Z",
+      "excerpt": "福建晋江：“小标善执”化解中小微企业三角债 court.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.554988
+    },
+    {
+      "id": "436586a3503cd1ef",
+      "title": "开学季腮腺炎高发！家长注意不要自行给孩子吃抗生素",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CTkhVaFQ3YnFwSkRGWHdrWkpMT0NMZWpRTXBnYm55QzVPOTRLcmUwZ3NMY1lydHhGQU9sTnA0UmdpYTMwRXdsOE9uYUxKN0dCWUhGRUdkNlFqTWFBLXgweXdlUjE3b1ZiVVE5OVRNRFFILWxWVVhVRg?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-03T01:02:45.000Z",
+      "excerpt": "开学季腮腺炎高发！家长注意不要自行给孩子吃抗生素 央广网",
+      "section": "cn-life",
+      "rankScore": 0.485556
+    },
+    {
+      "id": "ad7ef516415ce9a8",
+      "title": "科尔沁原切牛肉卷检出瓜尔胶，内蒙古通报",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MTjJ5V3FRbS1OX1lwT2hSVHQ0UDhRamZ4Rm13b0lORms2Sngzd1FfdWlOdnM5ZkwtaW8xang1VmhBdEhSQXAxTnV4WVBXUEpqazI4cDVTaWUzVmYwX253Qld5YnczQQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-03T00:24:00.000Z",
+      "excerpt": "科尔沁原切牛肉卷检出瓜尔胶，内蒙古通报 guancha.cn",
+      "section": "cn-life",
+      "rankScore": 0.478022
+    },
+    {
+      "id": "bb70f638e808f510",
+      "title": "今起报名！云南省2026年成人高校和成人中专招生考试报名须知→ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmM3SmRGM1FHcFYwQjhLYnFOdzdUak9TTjFMd1EzcklxQnF6bnhlY1Q4LXNobDZqVUpQdGxGTDRGbzNDUFNGNS0wTWpEeURhQ1k0N1ktWThGNlo5eVBxbzNLSUtZZi1CZzhuSHpzYmxKRXdydVBsd2Vic2huZG5ZTzhRSzVzengwOHhNNg?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-03T00:55:27.000Z",
+      "excerpt": "今起报名！云南省2026年成人高校和成人中专招生考试报名须知→ Sohu",
+      "section": "cn-life",
+      "rankScore": 0.414975
+    }
+  ],
+  "warnings": []
+}
