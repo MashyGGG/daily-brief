@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-03",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-03T01:06:15.292Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "752c6df261305ca1",
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-02T19:35:04.000Z",
+      "score": 373,
+      "author": "bvaldivielso",
+      "excerpt": "373 points · 244 comments · https://news.ycombinator.com/item?id=49541256",
+      "section": "tech",
+      "rankScore": 1.074041
+    },
+    {
+      "id": "cbcea9bc3a651f3e",
+      "title": "Bliki: Paracelsus Maxim",
+      "url": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-09-02T22:03:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "The difference between a medicine and a poison is dosage. Often we talk about certain habits, in programming or life, are good or bad. But few things are simple binaries. Some vary with context: reading a book is a good thing sitting in my garden, but not while driving my car.",
+      "section": "tech",
+      "rankScore": 0.778915
+    },
+    {
+      "id": "545a8a8ef1b53349",
+      "title": "CTTI is Exponential, RTTI is Linear",
+      "url": "https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-02T21:35:21.000Z",
+      "author": "gingerbill.org via clerno",
+      "section": "tech",
+      "rankScore": 0.577274
+    },
+    {
+      "id": "f4f3d0969c88a8e3",
+      "title": "OpenAI Details GPT-Live’s Architecture for Continuous Stateful Voice Interaction",
+      "url": "https://www.infoq.com/news/2026/09/openai-gpt-live/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-02T12:20:00.000Z",
+      "author": "Eran Stiller",
+      "excerpt": "OpenAI recently published an engineering account of GPT-Live. It described how they designed the system to maintain continuous voice interaction while separating latency-sensitive media processing from broader application work.",
+      "section": "tech",
+      "rankScore": 0.487151
+    },
+    {
+      "id": "328cc2b8820a0091",
+      "title": "Uber beats Waymo as first to launch robotaxis in London",
+      "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+      "source": "verge",
+      "publishedAt": "2026-09-02T23:00:00.000Z",
+      "author": "Andrew J. Hawkins",
+      "excerpt": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel.",
+      "section": "tech",
+      "rankScore": 0.46545
+    },
+    {
+      "id": "d67bf8230f4798c2",
+      "title": "Spending deal comes with a bonus: Blocking political control of grants",
+      "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-02T21:20:03.000Z",
+      "author": "John Timmer",
+      "excerpt": "Congress pauses the OMB's attempt to rewrite how research is funded.",
+      "section": "tech",
+      "rankScore": 0.446016
+    },
+    {
+      "id": "05b5454664e81456",
+      "title": "llm-gemini 0.34",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-02T16:39:38.000Z",
+      "excerpt": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version.",
+      "section": "ai",
+      "rankScore": 0.671126
+    },
+    {
+      "id": "c441a9be31075dcb",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "source": "openai",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "excerpt": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "section": "ai",
+      "rankScore": 0.529755
+    },
+    {
+      "id": "4001380a3653ea9b",
+      "title": "Quoting Rick Brewster",
+      "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-02T05:50:57.000Z",
+      "excerpt": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D.",
+      "section": "ai",
+      "rankScore": 0.454898
+    },
+    {
+      "id": "20251ce7b7037bc9",
+      "title": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
+      "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-03T01:06:15.292Z",
+      "excerpt": "本文精选了美团技术团队被 KDD 2026 收录的 8 篇论文进行分享，这些论文覆盖了推荐大模型、生成与奖励建模框架、智能体搜索、Transformer 框架、元泛化框架等技术领域。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "8fbda8bf47c635e5",
+      "title": "Nuxt 4.5：实验性 SSR 流式传输、Vite 8 以及基于 Rsbuild 的 Rspack 构建器",
+      "url": "https://www.infoq.cn/article/kggVXP7XclvALPskmSdq?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-02T23:44:21.000Z",
+      "author": "作者：Daniel Curtis",
+      "section": "cn-tech",
+      "rankScore": 0.677249
+    },
+    {
+      "id": "e091370f068f4933",
+      "title": "全世界快速发展太阳能",
+      "url": "https://www.solidot.org/story?sid=85268",
+      "source": "solidot",
+      "publishedAt": "2026-09-02T16:49:35.000Z",
+      "excerpt": "全世界正在快速发展太阳能这一廉价电力来源，但各地发展并不均衡。以欧洲为例，除了罗马尼亚，其它欧洲国家几乎没有增长，原因是欧洲大陆电网的局限性。发电高峰期间电网拥堵，储能不足，导致能源浪费、负电价，甚至出现电网故障和灾难性停电风险，欧洲各国正竞相增加电网储能容量以解决这些问题。罗马尼亚太阳能装机量在 2025 年增长了 45%，该国在太阳能建设早期就对电池储能进行了投资。除此之外，巴基斯坦的屋顶太阳能和电池安装速度超过了其他任何市场，巴西、智利、萨尔瓦多、摩洛哥、肯尼亚和纳米比亚在清洁能源转型方面都已超越了美国。",
+      "section": "cn-tech",
+      "rankScore": 0.618239
+    },
+    {
+      "id": "1ce9a9481101dc14",
+      "title": "Jujutsu 创造者离开 Google，加入创业公司做下一代版本控制平台",
+      "url": "https://www.oschina.net/news/502276/jujutsu-martin-joins-ersc",
+      "source": "oschina",
+      "publishedAt": "2026-09-02T11:18:49.000Z",
+      "excerpt": "Martin von Zweigbergk 加入了 ERSC（East River Source Control），担任 CTO。 Martin 于 2019 年底将 Jujutsu（简称 JJ）作为业余项目启动，后来发展成为他在谷歌的全职工作——从内部孵化出来的版本控制系统。该项目在 GitHub 上拥有超过 3 万 star，并以 Apache 2.0 许可证开源。 Jujutsu 的定位是 Git 的现代替代品...",
+      "section": "cn-tech",
+      "rankScore": 0.42314
+    },
+    {
+      "id": "c2fcfcfd32589e23",
+      "title": "AI 越来越强，普通人到底该怎么写Prompt？还记得去年年初刚开始学AI 的时候，我收藏过不少Prompt 模板",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02MTQwZ05nUlZwWFQtTF9YeTYxUjJGd2FLSlBudHQtU3RVaFRfeDNjemtGS3ladjR2MTc2SXk5Qm9oUUM0VkMxZGJ6djh5VzYwNGZpSw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-02T14:56:52.000Z",
+      "excerpt": "AI 越来越强，普通人到底该怎么写Prompt？还记得去年年初刚开始学AI 的时候，我收藏过不少Prompt 模板 掘金",
+      "section": "cn-tech",
+      "rankScore": 0.371508
+    },
+    {
+      "id": "90472f72c088abe3",
+      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-02T18:27:49.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program.",
+      "section": "security",
+      "rankScore": 0.589323
+    },
+    {
+      "id": "16e0b25aedc06635",
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-02T13:44:16.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and…",
+      "section": "security",
+      "rankScore": 0.510559
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"react-blog\" looks stale: newest item is 191 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
