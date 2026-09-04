@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-04",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-04T00:57:49.245Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "de70b107a0c900bc",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-03T18:41:05.000Z",
+      "score": 1262,
+      "author": "kibae",
+      "excerpt": "1262 points · 989 comments · https://news.ycombinator.com/item?id=49554643",
+      "section": "tech",
+      "rankScore": 1.128501
+    },
+    {
+      "id": "f9b85eb4214d1e49",
+      "title": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "source": "gh-trending-ts",
+      "publishedAt": "2026-09-03T15:55:54.000Z",
+      "score": 174,
+      "author": "Albert-Weasker",
+      "excerpt": "Open-source AI brand visibility and competitor reports — ★174 · TypeScript",
+      "section": "tech",
+      "rankScore": 0.749466
+    },
+    {
+      "id": "15e63940242dc603",
+      "title": "Multiple trusted publishing configurations for npm",
+      "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-03T20:34:34.000Z",
+      "author": "Allison",
+      "excerpt": "We’re continuing to make trusted publishing smoother for npm publishers, guided by maintainers feedback. Three updates to npm publishing are now generally available: Multiple trusted publishing configurations per package Staged…",
+      "section": "tech",
+      "rankScore": 0.626874
+    },
+    {
+      "id": "32de81d6fa65646a",
+      "title": "The Pulse: tech companies move to open AI models",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-09-03T17:00:14.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Cost-saving efforts reveal that moving simpler workloads to open AI models is the easiest way to save ~50% on AI bills. Also: automated software maintenance experience, and more",
+      "section": "tech",
+      "rankScore": 0.624071
+    },
+    {
+      "id": "690a2239ec6bfc62",
+      "title": "So, what happened to my Claude Code series?",
+      "url": "https://steveklabnik.com/writing/so-what-happened-to-my-claude-code-series/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-03T22:26:12.000Z",
+      "author": "steveklabnik.com via ucirello",
+      "section": "tech",
+      "rankScore": 0.592095
+    },
+    {
+      "id": "5569b2f4297a421b",
+      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+      "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+      "source": "cloudflare",
+      "publishedAt": "2026-09-03T21:03:02.000Z",
+      "excerpt": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.",
+      "section": "tech",
+      "rankScore": 0.571303
+    },
+    {
+      "id": "4a59b514b8c39936",
+      "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+      "url": "https://www.latent.space/p/astra",
+      "source": "latent-space",
+      "publishedAt": "2026-09-03T21:09:41.000Z",
+      "excerpt": "We spent 20B+ tokens of GPT-6 Astra to explore everything. Here’s our learnings.",
+      "section": "ai",
+      "rankScore": 0.700291
+    },
+    {
+      "id": "b80e56cd8ea4e1d3",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "openai",
+      "publishedAt": "2026-09-03T13:15:00.000Z",
+      "excerpt": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "section": "ai",
+      "rankScore": 0.555249
+    },
+    {
+      "id": "0bad41528ad453e5",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "openai",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "excerpt": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "section": "ai",
+      "rankScore": 0.532333
+    },
+    {
+      "id": "2c5b6083ff92d586",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "openai",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "excerpt": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "section": "ai",
+      "rankScore": 0.532333
+    },
+    {
+      "id": "01d0e0329037f799",
+      "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-09-03T23:59:05.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。...",
+      "section": "cn-tech",
+      "rankScore": 0.888789
+    },
+    {
+      "id": "1d47078a07bea6e9",
+      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+      "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-04T00:57:49.245Z",
+      "excerpt": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "3cc21fe70d62d72f",
+      "title": "当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长",
+      "url": "https://www.infoq.cn/article/vogOaCpOeNfe0hjAXfzy?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-03T21:19:20.000Z",
+      "author": "王玮",
+      "section": "cn-tech",
+      "rankScore": 0.639309
+    },
+    {
+      "id": "57b93144c52e578c",
+      "title": "纽约市禁止八年级以下公立学校学生使用生成式 AI",
+      "url": "https://www.solidot.org/story?sid=85281",
+      "source": "solidot",
+      "publishedAt": "2026-09-03T15:29:05.000Z",
+      "excerpt": "纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕使用时间，为高中生开设 AI 素养课程。禁令将于 2026-2027 学年生效，将影响近 60 万名学生，占全市公立学校学生总数的 2/3。Mamdani 表示，“这项禁令体现了我们对未来负责的承诺，我们将拥抱新技术，但前提是它必须服务于我们的学生。”新政策引入了新的屏幕时间指导方针，包括限制低年级学生一对一使用电子设备，建议 3-5 年级学生每日使用时间上限为 30 分钟，6-8 年级学生每日使用时间上限为 45 分钟。",
+      "section": "cn-tech",
+      "rankScore": 0.596219
+    },
+    {
+      "id": "827eabb48f05fbd5",
+      "title": "Termexo V0.7.0 发布：终端可见并切换 Claude / Codex 登录账号",
+      "url": "https://www.oschina.net/news/502303",
+      "source": "oschina",
+      "publishedAt": "2026-09-03T11:23:16.000Z",
+      "excerpt": "Termexo 于近日发布 V0.7.0 版本。该版本的主要方向是账号管理与窗口界面：把 Claude Code 与 Codex 的登录身份从隐藏在环境变量中的状态，变为终端上可见且可切换的属性，同时重做了窗口顶栏与终端渲染。 账号成为终端的可见属性 Claude Code 与 Codex CLI 的登录身份由配置目录决定，分别通过 CLAUDE_CONFIG_DIR 与 CO...",
+      "section": "cn-tech",
+      "rankScore": 0.426361
+    },
+    {
+      "id": "b60e28b2361ced6c",
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-03T18:02:47.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition.",
+      "section": "security",
+      "rankScore": 0.584712
+    },
+    {
+      "id": "0a91953d027e69d3",
+      "title": "Tycon Systems TPDIN-Monitor-WEB3",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-08",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of these vulnerabilities could allow for an attacker to perform a man-in-the-middle (MitM) attack, cause a factory reset, wipe credentials, or retrieve sensitive information.",
+      "section": "security",
+      "rankScore": 0.483939
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"react-blog\" looks stale: newest item is 192 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
