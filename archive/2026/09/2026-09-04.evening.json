@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-04",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-04T16:18:50.483Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "ed80a7fe31345258",
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-04T11:54:53.000Z",
+      "score": 715,
+      "author": "moultano",
+      "excerpt": "715 points · 496 comments · https://news.ycombinator.com/item?id=49563355",
+      "section": "tech",
+      "rankScore": 1.046028
+    },
+    {
+      "id": "e097d051c6998ca5",
+      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-04T06:47:51.000Z",
+      "score": 449,
+      "author": "beardyw",
+      "excerpt": "449 points · 185 comments · https://news.ycombinator.com/item?id=49561320",
+      "section": "tech",
+      "rankScore": 0.685339
+    },
+    {
+      "id": "c0812a5e5bcd886b",
+      "title": "Airbnb Cuts Authentication Code by 60% with Server Driven Architecture",
+      "url": "https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-04T14:30:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Airbnb redesigned its authentication architecture around server driven flows and policy based challenge selection. The new Flexible Authentication system reduced authentication related code by 60%, cut the web client bundle by 100 KB, improved successful authentication by 2.6%, reduced duplicate…",
+      "section": "tech",
+      "rankScore": 0.644184
+    },
+    {
+      "id": "adf18a59520a310a",
+      "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
+      "url": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-04T15:52:56.000Z",
+      "author": "lemire.me via weberc2",
+      "section": "tech",
+      "rankScore": 0.618042
+    },
+    {
+      "id": "48e2124c87d9eea9",
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "source": "verge",
+      "publishedAt": "2026-09-04T16:05:57.000Z",
+      "author": "Lauren Feiner",
+      "excerpt": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors.",
+      "section": "tech",
+      "rankScore": 0.485372
+    },
+    {
+      "id": "dde1b5a46b7368de",
+      "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
+      "url": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-04T12:48:36.000Z",
+      "author": "Stephen Clark",
+      "excerpt": "Two of Europe's leading launch startups announced new fundraising this week.",
+      "section": "tech",
+      "rankScore": 0.414529
+    },
+    {
+      "id": "aced34c7c1cda0b7",
+      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "source": "latent-space",
+      "publishedAt": "2026-09-04T05:18:11.000Z",
+      "excerpt": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI’s new frontier model class.",
+      "section": "ai",
+      "rankScore": 0.397321
+    },
+    {
+      "id": "302f4c470060e6d0",
+      "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+      "url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-04T16:18:50.483Z",
+      "excerpt": "美团 LongCat-2.0 总参数 1.6T，平均激活约 48B，为真实的 Agentic Coding 任务而生，架构上创新性引入 LongCat 稀疏注意力和 N-gram Embedding，提升长上下文处理效率与 Token 级表示能力的同时，结合动态激活进一步强化了代码理解、生成以及执行的表现。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "9a1cdb15e5386377",
+      "title": "Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
+      "url": "https://www.infoq.cn/article/B5bNUx3GzrUZGvDmBbFi?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-04T15:09:00.000Z",
+      "author": "作者： Steef-Jan Wiggers",
+      "section": "cn-tech",
+      "rankScore": 0.664184
+    },
+    {
+      "id": "c3f44233ca72527d",
+      "title": "美国犹他州要求 VPN 验证用户年龄",
+      "url": "https://www.solidot.org/story?sid=85290",
+      "source": "solidot",
+      "publishedAt": "2026-09-04T10:16:20.000Z",
+      "excerpt": "犹他州成为美国第一个要求 VPN 软件验证用户年龄的州。犹他州的年龄验证法律《Online Age Verification Amendments》明确将 VPN 软件纳入监管范围。这项法律规定，任何商业网站，如果逾三分之一内容被认为对未成年人有害，必须实施合理的年龄验证方法才能允许犹他州用户访问。只要用户的实际位置在犹他州内，不管是否使用 VPN 之类的方法隐藏地理位置，都需要验证年龄。违规网站将面临每次违规最高 2,500 美元的罚款。网站也被禁止发布如何使用 VPN 规避年龄验证要求的说明。EFF 认为这项法律可能迫使网站屏蔽所有已知的 VPN 地址流量，还可能违反了美国宪法第一修正案。",
+      "section": "cn-tech",
+      "rankScore": 0.565508
+    },
+    {
+      "id": "43fe09017c98a7dc",
+      "title": "Open Flow 开源：面向 AI Agent 的工作流自动化平台",
+      "url": "https://www.oschina.net/news/502325",
+      "source": "oschina",
+      "publishedAt": "2026-09-04T09:11:54.000Z",
+      "excerpt": "Open Flow 一个面向 AI Agent 的工作流自动化平台 OOMOL Lab 近日开源了 Open Flow，一个面向 AI Agent 的工作流自动化平台。项目提供可视化 Workbench、命令行接口和自托管运行时，让 Agent 直接参与完整的工作流生命周期。用户使用 ChatGPT/Codex、Claude Code、Qoder 等智能体配合 oo flow 直接创建节点、编排并运行 ...",
+      "section": "cn-tech",
+      "rankScore": 0.43295
+    },
+    {
+      "id": "61a9b693558fcadd",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/114175",
+      "source": "sspai",
+      "publishedAt": "2026-09-04T09:32:48.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...",
+      "section": "cn-tech",
+      "rankScore": 0.393419
+    },
+    {
+      "id": "74d13df246562acd",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-04T15:57:15.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as…",
+      "section": "security",
+      "rankScore": 0.688927
+    },
+    {
+      "id": "c48e4e61ab0ae497",
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-04T15:20:19.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.",
+      "section": "security",
+      "rankScore": 0.669987
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"react-blog\" looks stale: newest item is 193 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
