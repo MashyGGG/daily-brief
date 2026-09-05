@@ -1,0 +1,170 @@
+{
+  "date": "2026-09-05",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-05T15:09:55.162Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "246a1d4469010ca3",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "source": "hn-front",
+      "publishedAt": "2026-09-05T07:52:50.000Z",
+      "score": 259,
+      "author": "sylvainkalache",
+      "excerpt": "259 points · 225 comments · https://news.ycombinator.com/item?id=49574167",
+      "section": "tech",
+      "rankScore": 0.878609
+    },
+    {
+      "id": "77a6d6c3ee3f935f",
+      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+      "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+      "source": "hn-front",
+      "publishedAt": "2026-09-05T10:14:28.000Z",
+      "score": 197,
+      "author": "daniel_iversen",
+      "excerpt": "197 points · 122 comments · https://news.ycombinator.com/item?id=49575034",
+      "section": "tech",
+      "rankScore": 0.713032
+    },
+    {
+      "id": "c79e5559a6ec9ee0",
+      "title": "zopt: low-ceremony command line parsing for Zig",
+      "url": "https://codeberg.org/hgrsd/zopt",
+      "source": "lobsters",
+      "publishedAt": "2026-09-05T14:48:58.000Z",
+      "author": "codeberg.org by hgrsd",
+      "section": "tech",
+      "rankScore": 0.62033
+    },
+    {
+      "id": "d43a028252cd3613",
+      "title": "Presentation: A Few Predicted Talks From QConAI 2030",
+      "url": "https://www.infoq.com/presentations/ai-predictions-2030/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-05T11:00:00.000Z",
+      "author": "Meryem Arik",
+      "excerpt": "Meryem Arik discusses her predictions for software engineering in 2030. She explains how token spend management, parallel agent infrastructure, and non-technical builders will reshape IT.",
+      "section": "tech",
+      "rankScore": 0.571836
+    },
+    {
+      "id": "e6c33c3c2ff6a809",
+      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+      "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
+      "source": "verge",
+      "publishedAt": "2026-09-05T15:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the…",
+      "section": "tech",
+      "rankScore": 0.486439
+    },
+    {
+      "id": "be91fe623aadc309",
+      "title": "Appllama/liquid-glass-screens",
+      "url": "https://github.com/Appllama/liquid-glass-screens",
+      "source": "gh-trending-ts",
+      "publishedAt": "2026-09-05T06:38:46.000Z",
+      "score": 97,
+      "author": "Appllama",
+      "excerpt": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations. — ★97 · TypeScript",
+      "section": "tech",
+      "rankScore": 0.43787
+    },
+    {
+      "id": "2caca18fdbf79e62",
+      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+      "url": "https://www.latent.space/p/grok-bot",
+      "source": "latent-space",
+      "publishedAt": "2026-09-05T15:01:02.000Z",
+      "author": "Dan McAteer",
+      "excerpt": "SpaceXAI’s Grok Bot has the same level of programming power as OpenClaw, but it’s programmable at a different level of abstraction.",
+      "section": "ai",
+      "rankScore": 0.764987
+    },
+    {
+      "id": "5a12d0bb8db7026c",
+      "title": "直播回放·含 ACL'26 杰出论文 | 美团 AI 顶会论文 32 篇精讲",
+      "url": "https://tech.meituan.com/2026/07/11/2026-meituan-32-papers.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-05T15:09:55.162Z",
+      "excerpt": "如果你正在关注 AI 前沿，这篇内容值得收藏。2026 年，美团技术团队数十篇论文被 ACL、SIGIR、ICML、KDD 等顶会收录。我们精选 32 篇，进行了 5 大专场直播。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "f8245a967de0912f",
+      "title": "F-Droid 考虑采用与 Debian 相同的 AI 政策",
+      "url": "https://www.solidot.org/story?sid=85294",
+      "source": "solidot",
+      "publishedAt": "2026-09-05T12:59:25.000Z",
+      "excerpt": "一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。现在，Android 自由软件应用商店 F-Droid 考虑采用与 Debian 相同的 AI 政策，它的政策提议直接拷贝了 Debian 的政策全文，只是将 Debian 的名字替换为 F-Droid。",
+      "section": "cn-tech",
+      "rankScore": 0.696383
+    },
+    {
+      "id": "cff2bf8f8f46f004",
+      "title": "Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+      "url": "https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-05T11:17:00.000Z",
+      "author": "作者：Leela Kumili",
+      "section": "cn-tech",
+      "rankScore": 0.580554
+    },
+    {
+      "id": "2f0f7fd8d922f11c",
+      "title": "直击IFA 2026｜别谈具身和AI，欧洲不相信「黑科技」",
+      "url": "https://www.36kr.com/p/3970179970036225",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-05T11:00:00.000Z",
+      "author": "黄 楠",
+      "excerpt": "本文来自微信公众号 “硬氪” ，作者：黄楠，36氪经授权发布。 作者｜黄楠 编辑｜袁斯来 2026年9月，柏林的初秋被雨水浸透，展览中心灰色的建筑群在晨光里安静展开，像一台刚启动的精密设备。在这座信奉“工程师文化”的城市，习惯用确定性和流程感丈量一切。 想看点不同寻常产品的人，来IFA会非常失望。 你看不到会飞的扫地机，场馆里也没有人形机器人做家务。大门外，招牌最醒目的仍然是赞助商常客TCL。 科技记者、自媒体人大概率会有些无聊，但如果你是个经销商、或者想为新家添置一些新家电，来这里一定能找到解决方案。",
+      "section": "cn-tech",
+      "rankScore": 0.514653
+    },
+    {
+      "id": "0a34a2ea07a01bba",
+      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
+      "url": "https://sspai.com/post/114040",
+      "source": "sspai",
+      "publishedAt": "2026-09-05T08:00:01.000Z",
+      "author": "写小黑文的Alex",
+      "excerpt": "它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。",
+      "section": "cn-tech",
+      "rankScore": 0.38363
+    },
+    {
+      "id": "4e798bd6dd260b9d",
+      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+      "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-05T07:55:10.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of…",
+      "section": "security",
+      "rankScore": 0.47705
+    },
+    {
+      "id": "c0e3c9b3c9fb958c",
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-05T07:31:53.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.",
+      "section": "security",
+      "rankScore": 0.46511
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" failed: Error: HTTP 415",
+    "source \"react-blog\" looks stale: newest item is 194 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
