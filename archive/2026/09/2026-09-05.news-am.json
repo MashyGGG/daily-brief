@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-05",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-05T01:22:02.814Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "f810aef14042d99b",
+      "title": "欧盟希望禁止向经合组织以外的国家出口铝废料",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260904-%E6%AC%A7%E7%9B%9F%E5%B8%8C%E6%9C%9B%E7%A6%81%E6%AD%A2%E5%90%91%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E4%BB%A5%E5%A4%96%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%87%BA%E5%8F%A3%E9%93%9D%E5%BA%9F%E6%96%99",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-04T21:51:12.000Z",
+      "author": "阿曼亭",
+      "excerpt": "欧盟工业事务专员塞茹尔内的团队周五表示，塞茹尔内将在今年年底之前提出相关措施，限制将铝废料出口到欧洲以外的国家。铝废料是欧洲工业非常重要的资源之一。",
+      "section": "news",
+      "rankScore": 0.641431
+    },
+    {
+      "id": "e7107fecfc75cbec",
+      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "url": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-05T01:16:27.000Z",
+      "excerpt": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
+      "section": "news",
+      "rankScore": 0.628601
+    },
+    {
+      "id": "f69b9a6d624ec866",
+      "title": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as ‘small potatoes’ – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-05T01:09:52.000Z",
+      "author": "Dara Kerr (now); Christopher Hippensteel, Marina Dunbar and Tom Ambrose (earlier)",
+      "excerpt": "Thousands of Iranians have been killed and more than 750 US service members have been wounded during the ongoing conflict Sign up for US Breaking News emails President Trump threatened in a social media post on Friday to stop trade with some countries unless the US Federal Reserve moves to cut…",
+      "section": "news",
+      "rankScore": 0.557293
+    },
+    {
+      "id": "640296fc35717fcd",
+      "title": "9 Days After Flood, 2 Men Are Pulled Alive From Mud-Filled Tunnels in Nepal",
+      "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-05T01:05:16.000Z",
+      "author": "Anupreeta Das, Sajal Pradhan, Laura Chung and Thomas Fuller",
+      "excerpt": "One of two workers rescued from a hydroelectric plant said he had recited prayers over and over while trapped deep underground. “How many days has it been?” he asked.",
+      "section": "news",
+      "rankScore": 0.556271
+    },
+    {
+      "id": "394495800032a393",
+      "title": "韓國光州雙年展: 中國退展，「台灣館」風波透露什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cz6zd7j8nn0o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-04T10:56:52.000Z",
+      "excerpt": "韓國舉行的光州雙年展因「台灣館」名稱遭改動陷入爭議，中國週四（9月3日）宣布退出展覽。",
+      "section": "news",
+      "rankScore": 0.551607
+    },
+    {
+      "id": "135d92e1933d07bb",
+      "title": "EU official Marta Kos cancels Serbia trip over planned Mladic tribute",
+      "url": "https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-05T00:19:17.000Z",
+      "excerpt": "EU enlargement chief condemns Ratko Mladic ‘glorification’ as incompatible with European values.",
+      "section": "news",
+      "rankScore": 0.546053
+    },
+    {
+      "id": "c042cb1879606793",
+      "title": "Pentagon Subjects Roughly 50 Members of the Joint Staff to Polygraph Tests in Expanded Leak Hunt",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-05T00:06:10.000Z",
+      "author": "Jonathan Swan, Adam Entous and Maggie Haberman",
+      "excerpt": "The aggressive effort comes in the wake of news reports about the military’s diminished stocks of crucial munitions as the U.S. fights Iran.",
+      "section": "news",
+      "rankScore": 0.475246
+    },
+    {
+      "id": "a4638a59f830a865",
+      "title": "Reform in hot water … again",
+      "url": "https://www.ft.com/content/298476d0-c280-4804-bcb1-14192f06c1e1?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "excerpt": "Plus, the FT sits down with chancellor John Healey",
+      "section": "news",
+      "rankScore": 0.462574
+    },
+    {
+      "id": "318f3b8fcc327f46",
+      "title": "4 things investigators learned about the dysfunction at Trump's Labor Department",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
+      "source": "npr-news",
+      "publishedAt": "2026-09-04T21:47:19.000Z",
+      "author": "Andrea Hsu",
+      "excerpt": "A report from Labor Department investigators found former Labor Secretary Lori Chavez-DeRemer violated her own department's policy prohibiting harassment. She resigned in April.",
+      "section": "news",
+      "rankScore": 0.448247
+    },
+    {
+      "id": "625b05acd3e9ce9a",
+      "title": "玻利维亚一军营爆炸致至少2人死亡",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcGtacUZRWTJvQ2FqSnkzOFhxVTRDTi1qb2lZS1lxaWVORVR2LVdhVjg1SzFNYnk2X2NoNEcxcTI5SzlaektaYlVvZkZ4SElYanNaMnNCaExUZTVjSGMyUUQ3ZGVXOTA1bFhYRlFrek5YRnVBQU9jdmNHbHI5WTBTZ3UtOWE4VThLT2k5YzJmZWVyMTBMLVZvUG9B?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-05T01:08:21.000Z",
+      "excerpt": "玻利维亚一军营爆炸致至少2人死亡 新华网客户端",
+      "section": "news",
+      "rankScore": 0.417717
+    },
+    {
+      "id": "b0fd38738c6115bb",
+      "title": "肾病患者靠移植猪肾生活九个月，直到接受人类肾脏移植",
+      "url": "https://cn.nytimes.com/health/20260904/pig-kidney-bridge-transplant/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-04T03:34:40.000Z",
+      "author": "RONI CARYN RABIN",
+      "excerpt": "这是已知首例在猪肾移植后接受人类供体肾脏的病例，为移植医学中一个引人关注的概念提供了初步证据：猪肾虽尚非永久性解决方案，但可以作为通往人类器官移植的“桥梁”。 Cheryle St. Onge for The New York Times 蒂姆·安德鲁斯体内移植了一颗转基因猪的肾脏，并依靠它生活了九个月。这颗猪肾使他暂时免于接受透析治疗。",
+      "section": "news",
+      "rankScore": 0.370523
+    },
+    {
+      "id": "0cc1e43098834032",
+      "title": "UN aims to raise nearly $50 million for Nepal flood response",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168281",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-04T12:00:00.000Z",
+      "excerpt": "The UN and its humanitarian partners launched a $49.6 million flash appeal on Friday to deliver emergency assistance to more than 84,000 people affected by last week’s catastrophic floods in Nepal.",
+      "section": "news",
+      "rankScore": 0.286326
+    },
+    {
+      "id": "afdc5bc87088488c",
+      "title": "安徽滁州回应上空传来震响：初步判定为高空音爆",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690762.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-05T01:13:02.000Z",
+      "excerpt": "中新网9月5日电 据“滁州应急”微信公众号消息，9月4日晚8:10分左右，滁州上空传来震响，经排查，已排除地震、矿爆和其他生产安全事故。经了解，初步判定为高空音爆，请广大市民不要惊慌，不造谣，不信谣，不传谣。",
+      "section": "cn-news",
+      "rankScore": 0.836995
+    },
+    {
+      "id": "fb9b371b9de95784",
+      "title": "在孩子们心中播撒真善美的种子——习近平总书记的贺信激励广大少儿文艺工作者耕耘不辍奋发有为",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690766.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-05T01:07:24.000Z",
+      "excerpt": "新华社北京9月4日电 题：在孩子们心中播撒真善美的种子——习近平总书记的贺信激励广大少儿文艺工作者耕耘不辍奋发有为",
+      "section": "cn-news",
+      "rankScore": 0.765525
+    },
+    {
+      "id": "e050a6c986c346ce",
+      "title": "“买一赠一”要缴纳增值税吗？专家解读",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690763.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-05T00:56:33.000Z",
+      "excerpt": "我国增值税法自今年1月1日起施行以来，“视同应税交易”规则的调整持续引发纳税人关注。针对“买一赠一”是否仍需按无偿赠送计税、总分机构货物调拨要不要缴税等高频问题，记者采访了财税专家。",
+      "section": "cn-news",
+      "rankScore": 0.623626
+    },
+    {
+      "id": "03756f01bf6261cf",
+      "title": "萎缩性胃炎，吃多了顶堵胃胀？医生忠言：这2个“根源”不可忽视",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84MUZJOGM2WTFPYmZIelc5ell0T2J3enhWYUtVUHBEQ2dtUmF6WVphbElVQ0lqYWx3QlptaGNEdEh6em1KNDk1aEUtNlA1TnlkVlVheThEdEFGVkZidFE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-04T23:20:00.000Z",
+      "excerpt": "萎缩性胃炎，吃多了顶堵胃胀？医生忠言：这2个“根源”不可忽视",
+      "section": "cn-news",
+      "rankScore": 0.599488
+    },
+    {
+      "id": "3e9bd639b378c7b1",
+      "title": "购买消暑、智能产品，游览“宝藏小城”——暑期入境消费为啥这么火？",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajdHTVpUOWxQWWpCdXRoS1duM2QwZmdsaGRMdHc0Mk8zR180cnpTNnZTcWlpVTJWbjZQOFc1MDh5T3pnbUt6T2tJS1hLNDc3cDRhaGtTYU1oOENxVGFpdTFSUExGMVZ4MEtxY1JnNGMtalY4OEhndzFHOU1qQk1aREVsMk5WUEtNT18yLXNyWDdtNEU4RFU5dWNn?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-05T01:13:21.000Z",
+      "excerpt": "购买消暑、智能产品，游览“宝藏小城”——暑期入境消费为啥这么火？ 新华网客户端 购好物、品美食、观展演 多元支付让外国游客“丝滑”享受“中国游”“中国购”独特魅力 上海热线 前7个月境外人员在华消费增长27.8% 新浪财经 暑期入境消费为啥这么火？（锐财经） --经济·科技 人民网财经 2636亿元账单出炉 “中国游”带火这门“新生意”→ China Daily",
+      "section": "cn-news",
+      "rankScore": 0.558067
+    },
+    {
+      "id": "8a30488cc7b6aaea",
+      "title": "如果最后证明爱错了人，那之前的爱是否值得？听听埃彭贝克的回答",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZHBNMVBkODhTSC1Nc0JTOUxxSl9FYV82bFZnc1B6aE9mS1N4RFJaVWF0YTN1STRiaDk0NUxBaGhKSHo5TEpZQmlPMV9RN0pzNWVQT2FUZXA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-04T18:21:07.000Z",
+      "excerpt": "如果最后证明爱错了人，那之前的爱是否值得？听听埃彭贝克的回答 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.524767
+    },
+    {
+      "id": "81cb3e17643033e6",
+      "title": "证监会就私募基金募集监管办法公开征求意见--经济·科技",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oYjJocDZpMVJRNzYzdl9CVjM0ajZjMnd4WTltMnVYeXFfeU5scU9QNk5NQU92V0NLLXBKbGdJLUlEUlBKM1NHeVZOREFWVnVrTzFJdDFSbko4SGlTcTk5ODNWTFV6VkdDQVpDVDBB?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-05T00:56:00.000Z",
+      "excerpt": "证监会就私募基金募集监管办法公开征求意见--经济·科技 人民网财经 首个针对私募募集的行业规范出台，让违规成本大幅提升 财联社 中国证监会就《私募投资基金募集监督管理办法（征求意见稿）》公开征求意见 新浪新闻_手机新浪网 私募业迎监管新规：强化募集监管、完善差异化合格投资者标准 凤凰网财经 证监会：加强私募管理人合规风控及财务内控制度建设，明确“卖者尽责、买者自负”基本原则 wallstreetcn.com",
+      "section": "cn-news",
+      "rankScore": 0.484935
+    },
+    {
+      "id": "c90a51858a74f09c",
+      "title": "初心不改 虽远不怠",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zNlItaXhuYmRsUlVLSzJxOUxTR3BScENxVHhzdVNvVFBMVHhYS2JFcG15anZkWUJReGRmV3NNRWE5SGozdThtUXhrWHlxVjBLaElaTlJZT2g2bmRQYVVYOEhMSE9zcGdQc2c?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-05T00:06:00.000Z",
+      "excerpt": "初心不改 虽远不怠 中国共产党新闻网",
+      "section": "cn-news",
+      "rankScore": 0.407326
+    },
+    {
+      "id": "88a8056ca1aca04b",
+      "title": "教育局：審視「常居香港」會考慮教師不在港原因及次數",
+      "url": "https://hk.news.yahoo.com/%E6%95%99%E8%82%B2%E5%B1%80-%E5%AF%A9%E8%A6%96-%E5%B8%B8%E5%B1%85%E9%A6%99%E6%B8%AF-%E6%9C%83%E8%80%83%E6%85%AE%E6%95%99%E5%B8%AB%E4%B8%8D%E5%9C%A8%E6%B8%AF%E5%8E%9F%E5%9B%A0%E5%8F%8A%E6%AC%A1%E6%95%B8-000426791.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-09-04T16:04:26.000Z",
+      "excerpt": "【Now新聞台】教育局回覆查詢指，教師必須符合申請執業證書的六個要求，才可獲發執業證書。就申請人是否符合「通常居於香港」的要求，局方會考慮不在香港的原因、期間及次數等；又鼓勵教師參與網上或實體的持續專業發展活動，同時正與師資培訓大學探討開辦培訓課程，讓有意申請執業證書而尚未符合持續專業發展要求的人士報讀，會平衡兼顧要求及實際運作需要，訂定具體執行細節。 #要聞",
+      "section": "cn-news",
+      "rankScore": 0.381575
+    },
+    {
+      "id": "a4aab97d397b9a34",
+      "title": "香港保安局人員參加延安幹部學院國情培訓班",
+      "url": "https://www.cna.com.tw/news/acn/202609040265.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-04T10:17:23.000Z",
+      "excerpt": "（中央社記者張謙香港4日電）香港當局今天公布，中國陝西延安幹部學院為香港保安人員開辦了國情培訓班，保安局局長鄧炳強明天將會前往延安，參加開班儀式並進行考察。",
+      "section": "cn-news",
+      "rankScore": 0.358964
+    },
+    {
+      "id": "74bec9af9c4da9cf",
+      "title": "中央气象台继续发布台风蓝色预警",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690757.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-05T00:24:51.000Z",
+      "excerpt": "中新网9月5日电 据中央气象台网站消息，今年第24号台风“科罗旺”(热带风暴级)的中心今天(5日)早晨5点钟位于琉球群岛那霸市北偏西方向大约240公里的东海东部海面上，就是北纬28.1度、东经126.5度，中心附近最大风力有9级(23米/秒)，中心最低气压为990百帕，七级风圈半径200-350公里。",
+      "section": "cn-life",
+      "rankScore": 0.820934
+    },
+    {
+      "id": "1d656593a881f2b1",
+      "title": "台风“杜鹃”或将生成！周末广东天气平稳，“秋高气爽”能保持多久？",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMk1ZbnFCazJzQW84WG9QNGE3MWVyWVlucmZOek93YzBUUHRzNF9yY3NKSVdpZi1TbEFMR0ROUkxrNUNVSEZycnN2WUgzbjBJNzJvVWF0YmFHUVMzeEg5U2w0SVU1NllIS1Z6LVVTYV9tSWFhaUMwSzNUNElwaFpKRG5paWQ3XzlJY3RkVEJ5SmVEN291WmFDcmFPU0xrY202WXlEbjRjNDFVMmdlSWo4WklVZDhzZTdJZHI0aUpNZDZGaUtOQUkySU8ybmhha2x2YVU3TS15bw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-05T01:19:59.000Z",
+      "excerpt": "台风“杜鹃”或将生成！周末广东天气平稳，“秋高气爽”能保持多久？ 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.629484
+    },
+    {
+      "id": "f02b4eb27e7512c6",
+      "title": "国家医保局：去年灵活就业等其他人员参加职工医保6982.18万人",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSlg0UFZfSnNVRnhOUU1sNkRJb0tobHFKRC1GSDdSOExsWnhqbFFEQVFNeUFIcDl1REtLWW0tZDlFVU12RUxaYUlEU05uTnpJNWdaZkZLMlhWNzhiNVAyR1Ata1QtRlFwTjVvUDhoNk9Nb3lLM0xxdHA0NE9wLWxJTkV0b3NmdDBRXzljTGVNX0xhaFZnU0xJMA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-05T00:43:06.000Z",
+      "excerpt": "国家医保局：去年灵活就业等其他人员参加职工医保6982.18万人 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.620263
+    },
+    {
+      "id": "b10db91b57d98cd5",
+      "title": "六十二载薪火相传，江苏三支援外医疗队即将出征",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45eE5Qa2dseUgtUWZ1eUhHLTEtREZGLXBWZTRsb2xDcy13bjBFRDNzS2ZkLWN0VDMxaE1ObzQ3V2dZMV91UC1RSUhUd1VrRmF3SXFKOGhOZkYxa3FBS2R3SkNpR094ZEZZa0dCcHlfU0s?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-04T23:17:00.000Z",
+      "excerpt": "六十二载薪火相传，江苏三支援外医疗队即将出征 jiangsu.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.532212
+    },
+    {
+      "id": "6b8d83bc656fdddf",
+      "title": "综述：沉默感染负荷：终身无症状感染如何作为长寿的进化权衡促进炎症衰老（Inflammaging）",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sd2tqcllzTVJEakd6Zmg4YkZ6ZXlVa1JWSzJSMTBWYzVPNldpSjBIcmh1UjcyOXdtZEh1MHFMdEdlU0RQOFVfdTRBT1NDWE4wT1l1cjNLRTU2SHB4bzlmWWFVaWdIb2pmaHNzMg?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-05T00:41:55.000Z",
+      "excerpt": "综述：沉默感染负荷：终身无症状感染如何作为长寿的进化权衡促进炎症衰老（Inflammaging） 生物通",
+      "section": "cn-life",
+      "rankScore": 0.482197
+    },
+    {
+      "id": "09cb153b46213213",
+      "title": "新疆乌苏市开展秋季“开学第一餐”校园食品安全检查",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbW9sTHBfUHJTQXhKYk9wdkpTS25iM2czME5pZmVfUE9pRzZIOGlWZkJCM1VTOXkxVG15WnE5aktsdG40bTQzeVdTUW04b1ZodkZMSlkxdFd2bms4MmpxVmcwaG4xSnRFQmc5WUZHOUtqR0xxaEN4dHRieU9xTnZ5T1g3bnZUVTJnakhkUVdOTU5hY2NPQk40NA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-05T00:31:03.000Z",
+      "excerpt": "新疆乌苏市开展秋季“开学第一餐”校园食品安全检查 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.480084
+    },
+    {
+      "id": "ff7247a21d4ab06b",
+      "title": "我校召开党的建设工作领导小组（扩大）会议",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcVRabmlZb3o5T3hyZnoyOXNFakR2bUExc0I2WTlOWlZuQ2toS1NydVR1N25EZGJidC13eTE3TWdqblU1WlVmc0dHakJuTi1pM1pXVU9LYnRsdw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-05T01:20:12.000Z",
+      "excerpt": "我校召开党的建设工作领导小组（扩大）会议 南京信息工程大学",
+      "section": "cn-life",
+      "rankScore": 0.419692
+    },
+    {
+      "id": "2ee934d8d40c9bbc",
+      "title": "秋天第一口鲜来了！挑蟹“摁一摁”就知道肉肥不肥",
+      "url": "https://www.chinanews.com.cn/life/2026/09-04/10690092.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-04T02:15:15.000Z",
+      "excerpt": "9月1日，为期四个月的渤海伏季休渔正式结束。这两天，首批出海渔船陆续归港。一网网鲜活海产上岸，秋天的第一口鲜扑面而来，在尽享海味的同时，也要讲究合理、健康食用。",
+      "section": "cn-life",
+      "rankScore": 0.314779
+    }
+  ],
+  "warnings": []
+}
