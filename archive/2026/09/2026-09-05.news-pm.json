@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-05",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-05T13:50:48.424Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "57e75125d5bfa79f",
+      "title": "喜马拉雅洪灾 尼泊尔灾区一名中国籍男子和一名妇女获救",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260905-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B4%AA%E7%81%BE-%E5%B0%BC%E6%B3%8A%E5%B0%94%E7%81%BE%E5%8C%BA%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E5%AD%90%E5%92%8C%E4%B8%80%E5%90%8D%E5%A6%87%E5%A5%B3%E8%8E%B7%E6%95%91",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-05T13:11:52.000Z",
+      "author": "古莉",
+      "excerpt": "喜马拉雅洪灾：周六，救援人员成功从尼泊尔北部被掩埋的隧道中救出第三名幸存者，是一名中国公民。自8月26日喜马拉雅致命洪灾发生以来，救援人员一直不间断地在这些隧道中搜救。",
+      "section": "news",
+      "rankScore": 0.678366
+    },
+    {
+      "id": "52eb15bf89971aab",
+      "title": "移民：丹麦等欧盟五国推境外设立“遣返中心” 最早明年或可启用",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260905-%E7%A7%BB%E6%B0%91-%E6%AC%A7%E7%9B%9F%E4%BA%94%E5%9B%BD%E5%8A%9B%E6%8E%A8%E5%A2%83%E5%A4%96%E8%AE%BE%E7%AB%8B-%E9%81%A3%E8%BF%94%E4%B8%AD%E5%BF%83-%E6%9C%80%E6%97%A9%E6%98%8E%E5%B9%B4%E5%90%AF%E7%94%A8-1",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-05T12:29:21.000Z",
+      "author": "林兰",
+      "excerpt": "欧盟是否很快在欧盟之外建立首个移民“遣返中心”？ 本周五（9月5日），五个欧盟成员国丹麦、奥地利、德国、荷兰和希腊在哥本哈根举行会议，就设立此类中心迈出第一步，五国计划与欧盟以外的第三国展开协商，将部分寻求庇护被拒、但暂时无法返回原籍国的移民安置在当地，计划最快于明年开始实施。",
+      "section": "news",
+      "rankScore": 0.654746
+    },
+    {
+      "id": "783eace4eb30725d",
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-05T12:23:00.000Z",
+      "excerpt": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "section": "news",
+      "rankScore": 0.586096
+    },
+    {
+      "id": "0c101b665e62ac8d",
+      "title": "Protester attacked at Reform conference considering coming forward after police appeal – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-05T13:40:51.000Z",
+      "author": "Taz Ali and Hamish Mackay",
+      "excerpt": "Activist group behind protests says individual shown in widely-circulated video is considering police appeal for her to come forward No real mention by Anderson of the problems that overshadowed events yesterday. He ended his opening speech saying: \"Yesterday was great.",
+      "section": "news",
+      "rankScore": 0.555575
+    },
+    {
+      "id": "85154ce97646cdf2",
+      "title": "Arsenal vs Chelsea: Premier League – prediction, teams, lineups",
+      "url": "https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-05T13:20:42.000Z",
+      "excerpt": "Arsenal manager Mikel Arteta and Chelsea boss Xabi Alonso do battle in the Premier League for the first time on Sunday.",
+      "section": "news",
+      "rankScore": 0.546619
+    },
+    {
+      "id": "ada2e9353c08b20f",
+      "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+      "url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-05T13:07:36.000Z",
+      "excerpt": "Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest.",
+      "section": "news",
+      "rankScore": 0.540797
+    },
+    {
+      "id": "47a0167cd705239e",
+      "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
+      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-05T12:54:15.000Z",
+      "excerpt": "The attack on a crowded road comes amid fierce clashes across Taiz and Hodeidah and rapid civilian displacement.",
+      "section": "news",
+      "rankScore": 0.534864
+    },
+    {
+      "id": "72b7b5e6fea2a7c6",
+      "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
+      "url": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-05T12:47:41.000Z",
+      "author": "Aurelien Breeden",
+      "excerpt": "A deadly campaign of Russian and Ukrainian airstrikes has escalated since the last U.S.-brokered negotiations stalled in February.",
+      "section": "news",
+      "rankScore": 0.531945
+    },
+    {
+      "id": "86bb4595d88d88b1",
+      "title": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
+      "url": "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-05T13:40:11.000Z",
+      "author": "Mitch Smith and Ann E. Marimow",
+      "excerpt": "Missouri’s Supreme Court said a map redrawn to help Republicans could not be used in November and said voters should decide on the new boundaries.",
+      "section": "news",
+      "rankScore": 0.485869
+    },
+    {
+      "id": "983ad12f92f186d6",
+      "title": "‘Sowing doubt’: Trump’s attempt to overhaul voting causes headaches for state officials",
+      "url": "https://www.ft.com/content/47ac914f-ab0e-441b-9152-9ef06dc17741?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-05T13:00:05.000Z",
+      "excerpt": "The US president has tried to impose new rules just weeks before election day",
+      "section": "news",
+      "rankScore": 0.470274
+    },
+    {
+      "id": "5cb3a618325764c7",
+      "title": "Opinion: A sculpture in perpetual motion, removed",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
+      "source": "npr-news",
+      "publishedAt": "2026-09-05T12:00:00.000Z",
+      "author": "Scott Simon",
+      "excerpt": "\"Blue,\" a statue that's been on the grounds of the Kennedy Center in Washington, D.C. for 7 years has been dismantled and removed.",
+      "section": "news",
+      "rankScore": 0.446908
+    },
+    {
+      "id": "e33df828e7ba5c2f",
+      "title": "第三届兰花奖外籍评委“走读”北京：在历史深处读懂中国",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SVlRzM0hOLVo1STdhRjhZcGZhRUxzN2JweUxlYjB1UFg3RU1Ick04UnZHLVVsQkRpOUxTQ3ktdExXVUp2NlFFYkNWZEU5dWxaMnU1cS15eHJUZkxNTVU2QnoyVkk3YVBDaFpEMGs3WQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-05T13:09:00.000Z",
+      "excerpt": "第三届兰花奖外籍评委“走读”北京：在历史深处读懂中国 china.com.cn 第三届兰花奖入围名单在京发布 Sohu 第三届兰花奖信息发布会议程来了！ rmhb.com.cn 第三届兰花奖公布入围名单 华龙网 第三届兰花奖公布30人入围名单，新加坡学者马凯硕在列 京报网",
+      "section": "news",
+      "rankScore": 0.406064
+    },
+    {
+      "id": "e592c2f4ad0903d4",
+      "title": "开局之年看中国·日新江淮丨量子科技如何从实验室飞向“寻常百姓家”？",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691124.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-05T12:54:54.000Z",
+      "excerpt": "中新网合肥9月5日电 (记者 张强)一台白色桶状设备矗立在实验室中央，墙后一台形似空调室外机的辅助设备持续运转。这台正在安装调试的设备，正是“祖冲之三号”同款系列超导量子计算机。",
+      "section": "cn-news",
+      "rankScore": 0.802729
+    },
+    {
+      "id": "dd471ebf0ac29eab",
+      "title": "一图了解《构建更加繁荣的亚太共同体》智库报告",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691135.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-05T13:33:12.000Z",
+      "excerpt": "思维导图丨一图了解《开放、创新、合作——构建更加繁荣的亚太共同体》智库报告",
+      "section": "cn-news",
+      "rankScore": 0.75924
+    },
+    {
+      "id": "9942aa519cc16e4c",
+      "title": "CFA协会中国区总经理：中国绿色金融人才需求现三大结构性转变",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691121.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-05T13:01:07.000Z",
+      "excerpt": "中新网北京9月5日电 (邸子瀛)由全球投资专业人士组成的机构CFA(特许金融分析师)协会近日发布《2026中国绿色金融与ESG投资调研报告》称，当前中国绿色金融人才供需矛盾已经从数量缺口转向质量缺口，行业人才需求呈现新的结构性特征。",
+      "section": "cn-news",
+      "rankScore": 0.605155
+    },
+    {
+      "id": "7e2c6ddd45b9d3e5",
+      "title": "多地精神病院更名",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PMGJjWEEzclFOZ3BLblZWeURCcll0ako5UkZQXzFfZzJPWWZremRhNjlXcXJyY3FQcExtc1VEUk41dmF1MkVIQlhGN2J0aVhjY191RlJ3REFiREdPWFE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-05T12:36:00.000Z",
+      "excerpt": "多地精神病院更名",
+      "section": "cn-news",
+      "rankScore": 0.592596
+    },
+    {
+      "id": "3f5d7dd8ba2194c6",
+      "title": "江西遂川通报泥石流灾害情况：失联11人身份基本确认",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2NkZwQWtoVE9ZUGZSSnE1UzgxRy11NEdpUGNkUmp5cGRMb0djSGx1bzU4bnJYeTJIT2tDYlN3QVJrc1RDSkc3OW1LekpVSVg3eUFKbkxMajk?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-05T11:33:44.000Z",
+      "excerpt": "江西遂川通报泥石流灾害情况：失联11人身份基本确认 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.561463
+    },
+    {
+      "id": "5621469d8327b9e0",
+      "title": "北京交通大学校长刘攀寄语新生：做“六边形”交大新青年",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00c1VxaDRzM1c3S0RzR3lvUFhwc0xUZFhRZEQzczk3enZ3bGZTYmNRTVZ3ZGNEaG4xeUY5cXU0clhyODVmMGhFc2xkRWUyeWRiUERZYldmYjZRZkMwUXFYVDlKYjQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-05T13:28:00.000Z",
+      "excerpt": "北京交通大学校长刘攀寄语新生：做“六边形”交大新青年 新京报 直播预告|中国科学院大学2026级新生开学典礼 news.sciencenet.cn 少些精神内耗、熬夜疲惫！北京交大校长新生寄语太接地气了！ Sohu 金秋赴惠 研海扬帆：贸大2026级研究生新生报到 对外经济贸易大学新闻网 “开开心心送我女儿去贸大”，这位新生家长有点萌 对外经济贸易大学新闻网",
+      "section": "cn-news",
+      "rankScore": 0.549864
+    },
+    {
+      "id": "921bfaec84154955",
+      "title": "China launches plan for 3D satellite network to monitor sun and cosmic explosions",
+      "url": "https://www.scmp.com/news/china/science/article/3366483/china-launches-plan-3d-satellite-network-monitor-sun-and-cosmic-explosions?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-05T13:00:06.000Z",
+      "author": "Ling Xin",
+      "excerpt": "China has started an international project to build a three-dimensional satellite network between Earth and the moon that will track solar activity and study some of the universe’s most powerful explosions.",
+      "section": "cn-news",
+      "rankScore": 0.470281
+    },
+    {
+      "id": "842974cdc5ec5c40",
+      "title": "外賣騎手休息站裝跑步機？ 中國體育總局被黑",
+      "url": "https://www.cna.com.tw/news/acn/202609050157.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-05T10:05:20.000Z",
+      "excerpt": "（中央社台北5日電）中國國家體育總局3日在「十五五」（第15個五年經建計畫）發布會上提出，將新就業群體納入全民健身服務範圍，此一「外賣騎手休息站裝跑步機」消息經新京報報導後，迅速引爆對體育總局官員「不食人間煙火」的批評。",
+      "section": "cn-news",
+      "rankScore": 0.459789
+    },
+    {
+      "id": "b2e642e73934fc0a",
+      "title": "扎波罗热核电站局部实施临时停火以保障电力线路抢修",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kQUVEcXNjeGk3XzFYcWE2aVNzQ0lfSzQ0TnVnUlZJUmEwbmlUcU5EN2NtUVl1SzhYeU1jYWxyMlFMT2lPa0djNWc2VE5GaFlGU0lta1ViWHJVQ1dzYWxzclZkOUhlN1l3OUh2OXZOUlBHMzQzZHlGX2ZxYjFvUzA?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-05T12:05:32.000Z",
+      "excerpt": "扎波罗热核电站局部实施临时停火以保障电力线路抢修 新华网 俄称扎波罗热核电站连续16天失去外部供电 局势“极度紧张” 新浪财经 扎波罗热核电站周边实施临时停火 新京报 俄乌局部停火 抢修扎波罗热核电站外部电网 联合早报 国际原子能机构促成局部停火，扎波罗热核电站将维修外部供电线路| 乌克兰新闻 Межа. Новини України.",
+      "section": "cn-news",
+      "rankScore": 0.44906
+    },
+    {
+      "id": "3032f7ab69e3ee7b",
+      "title": "2026中国环东湖国际桨板公开赛在武汉举行",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WU2NjSWRxeGNMTlRncm1nR0ZJVnJjYTJRUTdkZ3p6UUtZaG9wSFNuNzlCTG5fdDJYVTVGblRIZDJHTzRTVXpxc2lWRVlUSklRZlpTUnVkMVlhM2QwMlhPX29Gd2VwdHps?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-05T12:58:48.000Z",
+      "excerpt": "2026中国环东湖国际桨板公开赛在武汉举行 chinanews.com.cn 本周末，东湖部分区域临时封闭，部分项目临时停运 Sohu 2026 中国环东湖国际桨板公开赛赛程与赛道_新浪新闻 新浪网 中国桨板国际公开赛邵阳站收官 中国日报网 环东湖国际桨板公开赛在武汉启幕 chinanews.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.402664
+    },
+    {
+      "id": "be44f8cb3b8cb6ea",
+      "title": "中国红十字会总会向福建调拨救灾物资",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691133.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-05T13:30:10.000Z",
+      "excerpt": "9月5日，针对台风及强降雨对福建造成的严重影响，中国红十字会总会启动三级响应，结合当地救灾救助需求，紧急向福建受灾地区调拨赈济家庭包6000个，毛巾被6000条，支持受灾地区做好群众转移安置和生活保障工作。",
+      "section": "cn-life",
+      "rankScore": 0.82624
+    },
+    {
+      "id": "47922f1d17fe34d2",
+      "title": "赤壁入选全国高质量充分就业示范创建地区",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTUtVVlIcGRKdjUzOGhpazFfc2tFMEFrWC1VcU50WlB3RE9DNzlWT0oxQ3o1Sm1zcFBaNU5CVlVPTHU5RUhpTEhpZV9MWGF2VW9Rb09IeGVnazdlZjgtZ2FGWWx5VDhZS2dpNWlwS3JKUS1GVU9tY3cxWUlXNDhxdDFEb0pzNmpoRERxdnpJTE5hTXNua0JLdQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-05T13:41:24.000Z",
+      "excerpt": "赤壁入选全国高质量充分就业示范创建地区 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.625296
+    },
+    {
+      "id": "f0128dcfbfac4d66",
+      "title": "受台风“沙德尔”影响 湖南桂东遭遇持续强降雨 已致2人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tNk9rWkFITVZtY29YNXd3dnY3NTFJMnJ5cGlPaEJra2ZXblZZU0ZneVdqc3B2SnoxdjJqbjNPVlRpRkRGRE1PekVLelM4QmZlYkpoOUVCZUd0UlM2a1k3VDN0VUE?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-05T13:02:00.000Z",
+      "excerpt": "受台风“沙德尔”影响 湖南桂东遭遇持续强降雨 已致2人死亡 新京报",
+      "section": "cn-life",
+      "rankScore": 0.605596
+    },
+    {
+      "id": "892c99dbef3d968a",
+      "title": "俞敏洪：创立东方甄选时思考的核心痛点就是食品安全",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeFFwNWk4ai1vWUFIb0RiUDZpVHhnMC11WWMya0ViaDZWNndHRVFqRHV2S2ZqbkZJYU5pYmJKOXZMRFhqLXV0VGlJbmZFLW84OWRQcHNveDNfcERkQ0tEZVRyVXNEUl9OSjJlcVVfMnBNLWpNRGFuS19YbzM?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-05T11:40:27.000Z",
+      "excerpt": "俞敏洪：创立东方甄选时思考的核心痛点就是食品安全 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.439306
+    },
+    {
+      "id": "8b89eaa5ef894bc6",
+      "title": "【一图读懂】一图读懂16届131次市政府常务会议",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52anN1cG43RDVyV0hXVl9xRTZTVmo1NDNqRzRIY3Z6cXI0UjhQRFh2dlU2X2ZTOHExajhwZHJRSkNvcW95VjgwWUFZRUJxbkg5Zk5hUTVPY3lfd3V5TUN4TzlyNGY5aHU1SDFzbEpHNGhvRmM?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-05T08:30:29.000Z",
+      "excerpt": "【一图读懂】一图读懂16届131次市政府常务会议 广州市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.417634
+    },
+    {
+      "id": "8e99fd759b5fe5d1",
+      "title": "教育部白名单赛事“鲁迅青少年文学大赛”成绩揭晓，13名江苏学子斩获特等奖",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IMzRYZVZTTjR6R2l6NllVQXRndENRaFQ0bk9KM2FQTjlRQTFLNzE2cWx0NUZ5TUpPenlybl9kdHNVZWRTbzBPeE15RXRsR1JqYy11aW9LTkRINnh3Ty1hSzFUQVVHczNXMUhj?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-05T13:34:00.000Z",
+      "excerpt": "教育部白名单赛事“鲁迅青少年文学大赛”成绩揭晓，13名江苏学子斩获特等奖 新华报业网",
+      "section": "cn-life",
+      "rankScore": 0.414398
+    },
+    {
+      "id": "df133b6cc614c5a6",
+      "title": "哈佛大学研究发现：晒太阳与死亡率的关系，长期晒太阳更长寿吗？",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CYjBIaEVDWmlaNWh6OE1wQURUMUtFNGstZmxYMnJxRlo4YjZWUjRRQmpITnA1a3JwS0haSkZVMWp4R21ncGdhZm9DcEtCQlpJcUY4b2RhNFhzWnlPQ0RvMzZtYmpHWTRja0QybUQ2QzBFRThkQm9jbmttVkM?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-05T10:10:14.000Z",
+      "excerpt": "哈佛大学研究发现：晒太阳与死亡率的关系，长期晒太阳更长寿吗？ 手机网易网",
+      "section": "cn-life",
+      "rankScore": 0.404221
+    },
+    {
+      "id": "0f3d45b7735304db",
+      "title": "中国科研团队火速公布吉隆泥石流初步研究成果，里面藏着哪些问题的答案？",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yTFZQTU1tb1lqZncwYlRNNThuT0diZVFncHZkUXZVWmlPU0tWLTlkQm1WSlRDSUNFRE02a04xaUNrN3BROF9rNVoyZXA3cGhFb2pOdGFOSlpkWDA?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-05T10:17:46.000Z",
+      "excerpt": "中国科研团队火速公布吉隆泥石流初步研究成果，里面藏着哪些问题的答案？ 风闻",
+      "section": "cn-life",
+      "rankScore": 0.290822
+    }
+  ],
+  "warnings": []
+}
