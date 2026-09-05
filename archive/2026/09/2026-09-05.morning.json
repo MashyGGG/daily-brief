@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-05",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-05T00:55:37.951Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "636e21bc389bb10c",
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "hn-front",
+      "publishedAt": "2026-09-04T18:42:56.000Z",
+      "score": 460,
+      "author": "jlebar",
+      "excerpt": "460 points · 304 comments · https://news.ycombinator.com/item?id=49568506",
+      "section": "tech",
+      "rankScore": 1.12996
+    },
+    {
+      "id": "c9b1be7523737351",
+      "title": "GitHub Copilot weekly releases — August 31",
+      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-04T21:05:01.000Z",
+      "author": "Allison",
+      "excerpt": "This week, GitHub Copilot expands model choice and content protections, while VS Code adds new ways to manage agent sessions and get pull requests merge-ready. GitHub Copilot, general Claude Fable…",
+      "section": "tech",
+      "rankScore": 0.63594
+    },
+    {
+      "id": "62841eaaff3bfec6",
+      "title": "Mongotar: Files to prompt, and back",
+      "url": "https://github.com/sebastiancarlos/mongotar",
+      "source": "lobsters",
+      "publishedAt": "2026-09-04T22:14:35.000Z",
+      "author": "github.com by sebastiancarlos",
+      "excerpt": "My custom take on this sort of tool. Exploring how much this \"deserialize\" approach helps compared to projects like files-to-prompt . Comments",
+      "section": "tech",
+      "rankScore": 0.589738
+    },
+    {
+      "id": "51bb0fe3a749554a",
+      "title": "Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era",
+      "url": "https://www.infoq.com/minibooks/next-gen-architecture-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-04T11:00:00.000Z",
+      "author": "InfoQ",
+      "excerpt": "This eMag examines how architects can lead with clarity in a rapidly evolving engineering world, distilling industry insights into field-tested practices for teams.",
+      "section": "tech",
+      "rankScore": 0.46788
+    },
+    {
+      "id": "e1a144db368d888e",
+      "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+      "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-04T22:49:17.000Z",
+      "author": "Stephen Clark",
+      "excerpt": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+      "section": "tech",
+      "rankScore": 0.465432
+    },
+    {
+      "id": "f9bba140a701448c",
+      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+      "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+      "source": "verge",
+      "publishedAt": "2026-09-04T21:23:50.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October.",
+      "section": "tech",
+      "rankScore": 0.448817
+    },
+    {
+      "id": "2e85c7152fe15cdc",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-04T23:59:05.000Z",
+      "excerpt": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and…",
+      "section": "ai",
+      "rankScore": 0.82115
+    },
+    {
+      "id": "51da0b3a4e3e4715",
+      "title": "OpenAI's rogue agents were caught communicating via public wikis",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-04T17:38:48.000Z",
+      "excerpt": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI.",
+      "section": "ai",
+      "rankScore": 0.694389
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-05T00:55:37.951Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "c41f01b3633bc22b",
+      "title": "阿根廷人抗议 Peter Thiel",
+      "url": "https://www.solidot.org/story?sid=85292",
+      "source": "solidot",
+      "publishedAt": "2026-09-04T16:54:05.000Z",
+      "excerpt": "硅谷亿万富翁、Palantir 联合创始人 Peter Thiel 前不久携家人移居了阿根廷，并斥资 1200 万美元购买了一栋豪宅。许多人猜测他可能是为了躲避可能的三次世界大战，阿根廷地处南半球深处，农业资源丰富，是末日避难的理想之地。然而 Peter Thiel 在阿根廷深入参与了当地的政治活动。他与阿根廷总统 Javier Milei 及其亲密顾问进行了多次闭门会谈，之后 Milei 的政府提出了一系列符合 Peter Thiel 利益的提案，其中一项提案要求政府民事部门与国家情报机构共享阿根廷公民个人数据。",
+      "section": "cn-tech",
+      "rankScore": 0.62286
+    },
+    {
+      "id": "7c6b391b62c4ff8a",
+      "title": "Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
+      "url": "https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-04T17:23:00.000Z",
+      "author": "作者： Pankaj Sharma",
+      "section": "cn-tech",
+      "rankScore": 0.574269
+    },
+    {
+      "id": "77a1dc1e9558e9a7",
+      "title": "智谱与MiniMax专家纪要：ARR爆发式增长，国产算力商业化提速",
+      "url": "https://www.36kr.com/p/3968837441171714",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-04T13:44:45.000Z",
+      "author": "格隆汇",
+      "excerpt": "专家会议核心摘要 智谱AI与 MiniMax 的MaaS业务均呈爆发式增长，智谱8月底ARR达16-20亿美金， MiniMax 8月ARR达8亿美金且B端贡献超80%。 智谱AI毛利率由负转正至26.5%,得益于规模效应及模型迭代使推理成本降低80%,预计未来1-1.5年毛利率有望翻倍。 MiniMax 收入结构向MaaS转型，占比升至63%,虽因模型切换及补偿计划导致毛利率降至18%,但随M3Pro定价提升预计将回升。 国产算力进入经济性验证期，智谱“算力乘数”同比提升14倍，计划年底实现1元算力投入产出1元MaaS收入。",
+      "section": "cn-tech",
+      "rankScore": 0.462279
+    },
+    {
+      "id": "bfb2ba5811b04ba4",
+      "title": "【转载】中美洲蝰蛇科毒液在抗血栓治疗中的生物技术应用潜力 | MDPI Toxins",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vdXpJTTJXR2F5ZjU0WDA0QlQ3VWVZQXJPaUVleFVDWl9VTWdPOUFhM1NvSm1MdzBBY3U4aGs2YjI2ZXVra2pMNkZUdGJwS0lUTWh0MQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-04T16:46:00.000Z",
+      "excerpt": "【转载】中美洲蝰蛇科毒液在抗血栓治疗中的生物技术应用潜力 | MDPI Toxins 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.394794
+    },
+    {
+      "id": "533de80c00f50677",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-04T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-85046 Google Chromium V8 Type Confusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses…",
+      "section": "security",
+      "rankScore": 0.484547
+    },
+    {
+      "id": "600cd92e5be6a44b",
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-04T08:48:45.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms – Drag & Drop Form…",
+      "section": "security",
+      "rankScore": 0.431422
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 193 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
