@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-06",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-06T01:19:06.041Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "f2dde038f517e6e1",
+      "title": "美特使与普京长谈3小时10分钟: 谈停战, 谈合作, 承诺把俄方主张带到基辅, 俄乌“三日不袭首都”",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260905-%E7%BE%8E%E7%89%B9%E4%BD%BF%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%95%BF%E8%B0%883%E5%B0%8F%E6%97%B610%E5%88%86%E9%92%9F-%E8%B0%88%E5%81%9C%E6%88%98-%E8%B0%88%E5%90%88%E4%BD%9C-%E6%89%BF%E8%AF%BA%E6%8A%8A%E4%BF%84%E6%96%B9%E4%B8%BB%E5%BC%A0%E5%B8%A6%E5%88%B0%E5%9F%BA%E8%BE%85-%E4%BF%84%E4%B9%8C-%E4%B8%89%E6%97%A5%E4%B8%8D%E8%A2%AD%E9%A6%96%E9%83%BD",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-05T22:23:56.000Z",
+      "author": "呢喃",
+      "excerpt": "9月5日星期六，俄罗斯总统普京在克里姆林宫会见了到访的美国总统特使史蒂夫·维特科夫和贾里德·库什纳，会谈持续了3小时10分钟。二人将在次日造访乌克兰首都基辅。俄方在俄美会谈后指出，本次会面，双方并未局限于谈乌克兰战争，还详细讨论了经济话题，以及双边大型互惠互利的项目。",
+      "section": "news",
+      "rankScore": 0.651342
+    },
+    {
+      "id": "d9e34933e490f8ff",
+      "title": "埃博拉:染疫医务人员近30%殉职",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260905-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%9F%83%E5%8D%9A%E6%8B%89-%E6%9F%93%E7%96%AB%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E8%BF%9130-%E6%AE%89%E8%81%8C",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-05T21:28:50.000Z",
+      "author": "尼古拉",
+      "excerpt": "在非洲国家刚果民主共和国（la RD Congo），埃博拉疫情（Ebola）现已导致3072人死亡，累计确诊病例高达6342宗。这是本台法广非洲组（RFI Afrique）今天2026年09月05日星期六法文报导有关非洲的关注焦点之一。自疫情爆发以来，至少已有45名医务人员因染疫殉职，占感染医护人员总数近30%。在金沙萨（Kinshasa），刚果(金)政府于昨天09月04日星期五启动一项新的应对计划，目标旨在遏制本迪布焦型（Bundibugyo）病毒的传播，尤其是要致力于减少与第17轮疫情相关的死亡人数。",
+      "section": "news",
+      "rankScore": 0.636037
+    },
+    {
+      "id": "84b49b4e0d74ae46",
+      "title": "约旦河西岸以色列定居者打死巴勒斯坦裔美国人，美大使谴责“恐怖行径”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260905-%E7%BA%A6%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B8%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9A%E5%B1%85%E8%80%85%E6%89%93%E6%AD%BB%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%A3%94%E7%BE%8E%E5%9B%BD%E4%BA%BA%EF%BC%8C%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%B0%B4%E8%B4%A3-%E6%81%90%E6%80%96%E8%A1%8C%E5%BE%84",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-05T21:26:04.000Z",
+      "author": "呢喃",
+      "excerpt": "9月5日星期六，美国驻以色列大使麦克·哈卡比访问约旦河西岸土尔姆斯·阿亚村，公开谴责以色列定居者对巴勒斯坦人制造的暴力，将相关暴力行为称为“犯罪”和“恐怖行径”。",
+      "section": "news",
+      "rankScore": 0.635268
+    },
+    {
+      "id": "7df47c1e7e2fa8b8",
+      "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
+      "url": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-06T00:17:05.000Z",
+      "excerpt": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
+      "section": "news",
+      "rankScore": 0.614496
+    },
+    {
+      "id": "0a4c3c0de4e7a07e",
+      "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
+      "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-06T01:02:08.000Z",
+      "excerpt": "Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies.",
+      "section": "news",
+      "rankScore": 0.556229
+    },
+    {
+      "id": "df29e9fece5b91c5",
+      "title": "After Months at War, Brief Solace in a Party Town Far From Home",
+      "url": "https://www.nytimes.com/2026/09/05/world/asia/uss-abraham-lincoln-thailand-pattaya.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-06T00:43:32.000Z",
+      "author": "Hannah Beech and Muktita Suhartono",
+      "excerpt": "A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve.",
+      "section": "news",
+      "rankScore": 0.552096
+    },
+    {
+      "id": "5e02ec44c325a361",
+      "title": "Manhunt after alleged axe attack in Victoria leaves three people with serious injuries",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-06T00:22:11.000Z",
+      "author": "Andrew Messenger",
+      "excerpt": "Police search for alleged attacker, in his 50s, after incident in Gippsland town of Tyers Three people have been taken to hospital with life-threatening injuries after an alleged axe attack in Victoria, with police still searching for the suspect.",
+      "section": "news",
+      "rankScore": 0.547352
+    },
+    {
+      "id": "a436b3a67dc02c4b",
+      "title": "A Sympathetic Defendant and Well-Crafted Defense Dominated Clancy Trial",
+      "url": "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-05T23:51:47.000Z",
+      "author": "Richard Fausset",
+      "excerpt": "The defense lawyer for Lindsay Clancy showed empathy for his client in showcasing her mental health problems. That may have made all the difference.",
+      "section": "news",
+      "rankScore": 0.473022
+    },
+    {
+      "id": "b6dec197bfb449bd",
+      "title": "US regulator sues ISS as it steps up scrutiny of proxy advisers",
+      "url": "https://www.ft.com/content/ecab45a4-6786-4151-a998-f64279457435?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-05T21:35:17.000Z",
+      "excerpt": "The SEC accuses the firm of ignoring a subpoena as part of its ‘fact-finding investigation’",
+      "section": "news",
+      "rankScore": 0.44648
+    },
+    {
+      "id": "e0085eaa24c93ca8",
+      "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
+      "source": "npr-news",
+      "publishedAt": "2026-09-05T21:01:10.000Z",
+      "author": "Daniel Ofman",
+      "excerpt": "On the centennial of father's birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space.",
+      "section": "news",
+      "rankScore": 0.439846
+    },
+    {
+      "id": "031a14a8089c7af8",
+      "title": "法国遭遇9月罕见高温 气温再度逼近40℃",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45c1V3RWloRVBQUHBJTGlPbXdoTkpUX0V0NUZxbDVrWlU2Ukc4dk91RkNuV0Zna1U2ZDNzcHdiemJYajdfdVZCMlV6TkE1elM1WExDbmVaenRnLUg2MmRURQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-06T00:19:32.000Z",
+      "excerpt": "法国遭遇9月罕见高温 气温再度逼近40℃ 东方财富 法国遭遇9月罕见高温 多地气温再度逼近40摄氏度 新浪财经 法国拨逾10亿欧元援助农民 应对热浪干旱冲击 联合早报 2026年夏季成为法国有记录以来最热夏季 Sohu 巴黎周末天气：9月5日和6日会不会晴朗？ Sortir à Paris",
+      "section": "news",
+      "rankScore": 0.410072
+    },
+    {
+      "id": "255b44c34741876c",
+      "title": "As wildfires spread north, UN agencies race to help Europe adapt",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168273",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-05T12:00:00.000Z",
+      "excerpt": "As the climate warms, the threat of wildfires is spreading in Europe. How can historically cooler and wetter countries prepare?",
+      "section": "news",
+      "rankScore": 0.286817
+    },
+    {
+      "id": "a3ed853fc625d9e6",
+      "title": "会见超3小时 俄方介绍普京与美总统特使会谈成果",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691239.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-06T00:55:33.000Z",
+      "excerpt": "中新网9月6日电 据俄罗斯卫星通讯社及塔斯社报道，当地时间6日，俄罗斯总统助理乌沙科夫表示，俄总统普京5日晚在克里姆林宫会见美国总统特使威特科夫和美总统特朗普的女婿库什纳，“会谈内容充实，具有建设性、极其坦诚且相互信任”。",
+      "section": "cn-news",
+      "rankScore": 0.83215
+    },
+    {
+      "id": "5815573af0ffb1bf",
+      "title": "印太？亚太！",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691241.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-06T01:04:20.000Z",
+      "section": "cn-news",
+      "rankScore": 0.626308
+    },
+    {
+      "id": "cf834f849c04cbad",
+      "title": "火山喷发致印尼首都机场临时关闭",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Cd2NiVDIweVozWUlMOFdjTW9VU0txODhlZFVaMWQxaEhVSUJZSFRqX0hyRS12RTRaTFdqaU12WmtXbEN6VHhNT3dyUGVyUHRMS3M3S2tDQnc?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-06T00:40:35.000Z",
+      "excerpt": "火山喷发致印尼首都机场临时关闭 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.620371
+    },
+    {
+      "id": "27480d70eb5b4dd5",
+      "title": "“患者锦旗里藏刀刺伤医生”，警方通报",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rWjRXQXRjbncwWnViaWl3eF9oTWJFS1l5Tk1uS3FiRHB0T0JaS1dPZGhvVDNfTmF0WEpkd0tMWENhVmNvbmhoTjkxNjhwSUFTTWM0VWxXZFF3d0xjRFE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-06T00:34:00.000Z",
+      "excerpt": "“患者锦旗里藏刀刺伤医生”，警方通报",
+      "section": "cn-news",
+      "rankScore": 0.618725
+    },
+    {
+      "id": "d88088534634c273",
+      "title": "台湾鲜果“朝摘夕至” 岛内文旦柚登陆南京",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691222.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-05T16:07:34.000Z",
+      "excerpt": "中新社南京9月5日电 (记者 朱晓颖)依托宁台直航定班全货机空中通道，来自台湾花莲的文旦柚5日在南京开柜上架。该批文旦柚从台湾果园采摘、完成报关清关，到运达南京农副产品物流中心，全程不到24小时，较传统方式节省了近一周时间。",
+      "section": "cn-news",
+      "rankScore": 0.601476
+    },
+    {
+      "id": "20a837852e857859",
+      "title": "北方降雨降温来袭秋凉突出 南方雨水收敛热意再度回归",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWtZR0VaSEM3ajhibi1uVEFzbWFrZEoxYUk5N3podTA3elVZeXJGaGFqS3JueDg3eGwyYzNxOFpQNW1jYmxrNmpXM1BCSl9RUHJQNENyZXFEckM5SHdBaDZ2X0RKMHZSMGJQN0kyNkJlenNDWG1MbXl1dzgxR243YUNNUTVZZ2RoOF9wTThaVktXZm1yWVFFaS13?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-06T00:38:51.000Z",
+      "excerpt": "北方降雨降温来袭秋凉突出 南方雨水收敛热意再度回归 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.551055
+    },
+    {
+      "id": "e0026202cb621377",
+      "title": "光伏装机超越煤电，如何看待这一里程碑意义？",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TWkxaODVLMC01NUMxbThOQVJIQ2VDV2J4cG5oZVAwWGNENktjSG83bzlyZlBVS0p3WGRLa2tldlRJR2pGQXYzejU4RGw3NFdUN0RBcWdzclR3eDdMTzdwak9SSzFPbC0tNHpFR3NMNFM?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-06T00:33:27.000Z",
+      "excerpt": "光伏装机超越煤电，如何看待这一里程碑意义？ 中国科技网 山东：从地下挖煤，到抬头看天 凤凰网山东 浙江达成“人人光伏”目标 新浪财经 追光蓄能 中国经济网 中国电力系统锻造出更强韧性",
+      "section": "cn-news",
+      "rankScore": 0.481123
+    },
+    {
+      "id": "df9676c76fe83547",
+      "title": "天津下大气力盘活城市存量资源",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtOGpDaFJfdWtOLVRKSGFwUjB4ODl3OTFyWGpqYlo5WHl0SldHZG8yYlQydWU5bldDd3FSdEduUzlYaTY1Y24tSUNDYkl4b3A1LV9mX2JfZ1VzekRtN1VEMGRuWDRtYmw2YWc?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-06T00:22:00.000Z",
+      "excerpt": "天津下大气力盘活城市存量资源 中国共产党新闻网",
+      "section": "cn-news",
+      "rankScore": 0.410483
+    },
+    {
+      "id": "3d8b2d652da72373",
+      "title": "銅鑼灣閃燈警察電單車逆行遭Tesla攔腰撞 車Cam片曝光",
+      "url": "https://hk.news.yahoo.com/%E9%8A%85%E9%91%BC%E7%81%A3%E9%96%83%E7%87%88%E8%AD%A6%E5%AF%9F%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%80%86%E8%A1%8C%E9%81%ADtesla%E6%94%94%E8%85%B0%E6%92%9E-%E8%BB%8Acam%E7%89%87%E6%9B%9D%E5%85%89-003536618.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-09-05T16:35:36.000Z",
+      "excerpt": "前日(4日)傍晚約6時，一輛Tesla電動車在銅鑼灣與一輛警察電單車發生碰撞，男警受傷送院救治。",
+      "section": "cn-news",
+      "rankScore": 0.388208
+    },
+    {
+      "id": "f90819aaf06e1501",
+      "title": "地鐵站外持花喊口號 香港3人涉煽動罪被捕",
+      "url": "https://www.cna.com.tw/news/acn/202609050154.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-05T09:50:13.000Z",
+      "excerpt": "（中央社台北5日電）香港警方表示，8月31日有人在港鐵太子站外手持花束站立並叫喊口號，警方國安處9月3日在港島及九龍，以涉嫌違反「維護國安條例」的「出於煽動意圖作出具煽動意圖的作為」罪，拘捕3名本地人。據指出，所有被捕人仍被扣查，而拘捕行動仍繼續。",
+      "section": "cn-news",
+      "rankScore": 0.353581
+    },
+    {
+      "id": "45f4267eb2da8623",
+      "title": "无需送检500元就能网购检测报告？独家直击首次质量督察",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691247.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-06T01:11:13.000Z",
+      "excerpt": "记者今天(5日)从市场监管总局获悉，国家质量强国建设协调推进领导小组办公室近日会同工业和信息化部、住房城乡建设部等部门，首次启动质量督察工作，四个督察组于7月下旬赴广东、江苏、浙江、山东。目前，督察工作排查出的153项问题线索已全部移交属地处置。",
+      "section": "cn-life",
+      "rankScore": 0.837372
+    },
+    {
+      "id": "01d5f54aea420647",
+      "title": "很多人用错！这6种居家健身器械的使用误区一定要避开",
+      "url": "https://www.chinanews.com.cn/life/2026/09-06/10691236.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-06T00:46:15.000Z",
+      "excerpt": "很多人会用一些健身器械",
+      "section": "cn-life",
+      "rankScore": 0.690875
+    },
+    {
+      "id": "b93475a2ed0d9384",
+      "title": "降雨量突破历史极值，苍南何以打赢这场防汛战？",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBicTJRZVhIQXV4NERUaGg5WnRHYkpRQkpZMXdxRHljMTNKZENTZzIxYmhTMUJEXzdkcWlsc1NJbDB4V2R5VmxlcE90WHVSOThHdG1KWkpwRGNiM1JJMjgzbjlYM045dw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-06T01:06:00.000Z",
+      "excerpt": "降雨量突破历史极值，苍南何以打赢这场防汛战？ 温州新闻",
+      "section": "cn-life",
+      "rankScore": 0.626725
+    },
+    {
+      "id": "f4a22648f82f6a96",
+      "title": "唐山一人入选！2026年第三批“中国好人榜”候选人事迹展示评议开始",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWc3c4ZkdyalVIZ19NQU5QRFBpX2RjNVh3ZlpvdGpLVktheGs4ODFOMFQtN3dyV3IxN0dTc1ZYNDhILU1sTHhJQkRZaVNQdEhlVXBrQVJLQ3FBdWxjMGJuRTBlNUktVVNkanNncEpEN21xT2plYzJiUk93?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-06T00:59:19.000Z",
+      "excerpt": "唐山一人入选！2026年第三批“中国好人榜”候选人事迹展示评议开始 环渤海新闻网",
+      "section": "cn-life",
+      "rankScore": 0.625054
+    },
+    {
+      "id": "f55b2a5052073ac8",
+      "title": "罗湖区2026年1-7月份主要统计指标-统计月报",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uTG5JZllSb3lMN1BRYXRadlFKWmhuTkFWaG00OElNNWRBYkFyWHh4RDVuV3puQUFFV21fbGlNS2lTVTdiNy1Jb25jWHNaY0pJRGF3b3lwY0JfX0xiUmtTalQyc0J6QjhvalduNnVUQ2l1MDg?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-06T01:08:05.000Z",
+      "excerpt": "罗湖区2026年1-7月份主要统计指标-统计月报 深圳市罗湖区人民政府",
+      "section": "cn-life",
+      "rankScore": 0.557552
+    },
+    {
+      "id": "1461d070333ab26e",
+      "title": "皖G车主注意！最新召回",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZkxkeENIRFBJMS0xSmNKbHVQa0Zwcm0wWXpWdXRxV1Z6STYyWmQ4WWhMd1dndFVhdXhEa214Nzk3bHZGZV9JS3NzTnNUdEZzS2ZSME13d1pBZmsyUGN4eTc4dkNuUTYzVmlER2laRXJmN0FSV3FtMHY5T3JTQ2REVjdrdkRXUmhPbW85TkQyYWlxRjY1cGpUZA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-06T01:02:55.000Z",
+      "excerpt": "皖G车主注意！最新召回 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.486853
+    },
+    {
+      "id": "93f52c59663f5c5e",
+      "title": "综述：阿尔茨海默病及其他神经退行性疾病中的空间导航与基底前脑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1idkVnUFI1NDYwNmNFMVprazllY1RuendXWnd5UElpVlRjZDV6NUNabHBETXR4VGJfbVhZUERmX01VSUJuTmV1YnRzSWt3S1czV2N4UGlPbWdOUlJ5NTI0Z0dEbkF2bEcwUnUtNg?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-06T00:34:13.000Z",
+      "excerpt": "综述：阿尔茨海默病及其他神经退行性疾病中的空间导航与基底前脑 生物通",
+      "section": "cn-life",
+      "rankScore": 0.481273
+    },
+    {
+      "id": "e7a4441db2b84c8f",
+      "title": "中小学一定要买校服吗？教育部回应",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sSFdHa3drQkw3ZVpiRTRqMENqYmQxTFBrb1dXVkRCYUNfZ1J0TXBXXzlZSDFWS2N2aTI0MlVFaHZmRTNBeER0eGZCVXFadzVUcUxrYlVuQWRIa0ttNnd5V1c4Mkg?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-06T01:17:00.000Z",
+      "excerpt": "中小学一定要买校服吗？教育部回应 新京报",
+      "section": "cn-life",
+      "rankScore": 0.41965
+    }
+  ],
+  "warnings": []
+}
