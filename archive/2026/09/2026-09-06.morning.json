@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-06",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-06T00:53:54.753Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "109d658054868b59",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "source": "hn-front",
+      "publishedAt": "2026-09-05T20:31:38.000Z",
+      "score": 340,
+      "author": "bookmtn",
+      "excerpt": "340 points · 175 comments · https://news.ycombinator.com/item?id=49580369",
+      "section": "tech",
+      "rankScore": 1.140288
+    },
+    {
+      "id": "5a050401ef666e67",
+      "title": "EP224: MCP vs RAG vs AI Agents",
+      "url": "https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-05T15:30:58.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "An AI agent is kind of an AI system where the agent performs the task autonomously and takes the decisions.",
+      "section": "tech",
+      "rankScore": 0.597989
+    },
+    {
+      "id": "58ead9998919cf32",
+      "title": "Controlling when CSS custom property values are computed",
+      "url": "https://jakearchibald.com/2026/css-custom-property-compute-time/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-05T22:23:45.000Z",
+      "author": "jakearchibald.com via typesanitizer",
+      "section": "tech",
+      "rankScore": 0.592459
+    },
+    {
+      "id": "fd69459b58017f8a",
+      "title": "Beyond Zero: Google Publishes Successor to BeyondCorp",
+      "url": "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-05T10:40:00.000Z",
+      "author": "Renato Losio",
+      "excerpt": "In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents. The new approach moves access decisions from the application level to individual resources and actions, combining static authorization controls with dynamic…",
+      "section": "tech",
+      "rankScore": 0.462802
+    },
+    {
+      "id": "150f8fad25909011",
+      "title": "AndranikFutureLabs/VoiceTransleter_V3",
+      "url": "https://github.com/AndranikFutureLabs/VoiceTransleter_V3",
+      "source": "gh-trending-ts",
+      "publishedAt": "2026-09-05T10:35:27.000Z",
+      "score": 86,
+      "author": "AndranikFutureLabs",
+      "excerpt": "VoiceTransleter V3 — ★86 · TypeScript",
+      "section": "tech",
+      "rankScore": 0.461538
+    },
+    {
+      "id": "72fc30ebb3008f32",
+      "title": "Explore the globe in field recordings",
+      "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+      "source": "verge",
+      "publishedAt": "2026-09-05T21:31:34.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos.",
+      "section": "tech",
+      "rankScore": 0.450655
+    },
+    {
+      "id": "6a3ed91bc8626094",
+      "title": "Introducing GPT-6 Astra for developers",
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-05T23:27:48.000Z",
+      "excerpt": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models.",
+      "section": "ai",
+      "rankScore": 0.811296
+    },
+    {
+      "id": "bd94f97e6b70b1ef",
+      "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-06T00:53:54.753Z",
+      "excerpt": "美团 LongCat 团队构建了 MineExplorer —— 首个在开放世界中做到分钟级长程任务的评测基准，系统性地评测多模态大模型在需要长程规划、并包含隐藏前置条件的任务中的真实能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "13dc705e399e5989",
+      "title": "食用加工肉增加肺癌食道癌风险",
+      "url": "https://www.solidot.org/story?sid=85297",
+      "source": "solidot",
+      "publishedAt": "2026-09-05T15:36:59.000Z",
+      "excerpt": "科学家利用欧洲 450,112 名参与者（131,426 名男性 和 318,686 名女性）的数据，评估了红肉、加工肉和白肉与胃腺癌和食管腺癌之间的关联。研究人员对红肉、加工肉和白肉的定义是：红肉包括猪肉、牛肉、小牛肉、羊肉等；加工肉包括火腿、培根、香肠、加工肉块、汉堡包、肉丸、肉酱等；白肉包括鸡肉、鸭肉、鹅肉、兔肉以及其它禽肉。结果显示，每天每摄入 30 克加工肉，胃癌风险增加 9%，食管癌风险增加 13%；每天每摄入 20 克白肉，非贲门胃癌风险增加 12%。",
+      "section": "cn-tech",
+      "rankScore": 0.599827
+    },
+    {
+      "id": "b94740d8b6b62dae",
+      "title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+      "url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-05T17:00:00.000Z",
+      "author": "作者：Olimpiu Pop",
+      "section": "cn-tech",
+      "rankScore": 0.568358
+    },
+    {
+      "id": "2d591d8d005a56d2",
+      "title": "SSE 到了浏览器会怎样：解析、重连与中止（第105篇）先交代真实状态。我在本机跑了两样东西：一是这套SDK 自己的单",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uQ0JISE4yZVNKNm9jR245RExfTjlnX0diZTRTaG1pempGaHBSLVl6MnBSOVN6eThEZzZRVnd2X1FtcDJWYkRmUkdFcWUtM1ppeXFBSw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-06T00:32:03.000Z",
+      "excerpt": "SSE 到了浏览器会怎样：解析、重连与中止（第105篇）先交代真实状态。我在本机跑了两样东西：一是这套SDK 自己的单 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.485749
+    },
+    {
+      "id": "8117479ab7da2744",
+      "title": "中国开源模型，正成为全球 AI 的“度量衡”",
+      "url": "https://www.36kr.com/p/3970014644295303",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-05T09:00:00.000Z",
+      "author": "象先志",
+      "excerpt": "沙特把本国阿拉伯语大模型的开发任务，交给了 MiniMax 。 9月3日，沙特公共投资基金 PIF 旗下的 HUMAIN 发布阿拉伯语模型 HUMAIN-M3。它有4280亿总参数，每个 token 激活230亿参数，使用超过1万亿阿拉伯语 tokens 继续训练。模型部署在 HUMAIN Node 上，未来还计划开放权重。HUMAIN 的董事长，是沙特王储小萨勒曼。 你品，你细品。 HUMAIN倒不像某些国家的公司，魔改deepssek然后说是自研，官方新闻稿写得很清楚：模型经委托，由中国公司 MiniMax 开发，底座是 MiniMax -M3。",
+      "section": "cn-tech",
+      "rankScore": 0.391522
+    },
+    {
+      "id": "0bbfd4b6f23a5d74",
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-05T20:14:47.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5. Sansec, which discovered the…",
+      "section": "security",
+      "rankScore": 0.622464
+    },
+    {
+      "id": "e9d57a3b40a941fd",
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-05T16:52:33.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment.",
+      "section": "security",
+      "rankScore": 0.566288
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 194 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
