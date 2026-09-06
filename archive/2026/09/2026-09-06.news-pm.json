@@ -1,0 +1,321 @@
+{
+  "date": "2026-09-06",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-06T14:07:51.177Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "cbb4f902b18aeed5",
+      "title": "印度洋蔥「政治敏感」得要坐上鐵路快車",
+      "url": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-06T13:17:31.000Z",
+      "excerpt": "印度洋蔥價格急劇飆升，這種家家戶戶必備食材正被運往主要城市。這個國家生產和消費大量洋蔥，而其價格波動歷來具有政治影響。",
+      "section": "news",
+      "rankScore": 0.806442
+    },
+    {
+      "id": "ef10fba7d464ce5d",
+      "title": "中国公布西藏洪灾遇难人数升至43人失踪519人 外媒不得自由进入西藏",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260906-%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%B8%83%E8%A5%BF%E8%97%8F%E6%B4%AA%E7%81%BE%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B343%E4%BA%BA%E5%A4%B1%E8%B8%AA519%E4%BA%BA-%E5%A4%96%E5%AA%92%E4%B8%8D%E5%BE%97%E8%87%AA%E7%94%B1%E8%BF%9B%E5%85%A5%E8%A5%BF%E8%97%8F",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-06T12:49:56.000Z",
+      "author": "古莉",
+      "excerpt": "法新社9月6日引述中国官媒周日宣布，8月底发生在中国与尼泊尔边境喜马拉雅山脉的毁灭性洪灾，中国一侧的死亡人数已从31人上升至43人。",
+      "section": "news",
+      "rankScore": 0.656711
+    },
+    {
+      "id": "c27bb217eb9ed3cc",
+      "title": "日本首相等强烈要求俄罗斯撤除毁损象征日本的菊花纹章的铜像",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260906-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E7%AD%89%E5%BC%BA%E7%83%88%E8%A6%81%E6%B1%82%E4%BF%84%E7%BD%97%E6%96%AF%E6%92%A4%E9%99%A4%E6%AF%81%E6%8D%9F%E8%B1%A1%E5%BE%81%E6%97%A5%E6%9C%AC%E7%9A%84%E8%8F%8A%E8%8A%B1%E7%BA%B9%E7%AB%A0%E7%9A%84%E9%93%9C%E5%83%8F",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-06T12:36:42.000Z",
+      "author": "东京特约记者 楚良一",
+      "excerpt": "日本首相高市早苗9月5日在个人社交媒体X上用日语和俄语发文，就俄罗斯远东地区设置了一座描绘苏联士兵破坏刻有菊花纹章标石的雕像一事表示，这是“涉及日本国民感情的问题”，并透露“日本政府已强烈要求俄方撤除该雕像”。",
+      "section": "news",
+      "rankScore": 0.649359
+    },
+    {
+      "id": "82085fa13b10943c",
+      "title": "德黑兰在美军袭三艘伊朗油轮后宣布袭击了一艘美国海军无人艇",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260906-%E5%BE%B7%E9%BB%91%E5%85%B0%E5%9C%A8%E7%BE%8E%E5%86%9B%E8%A2%AD%E4%B8%89%E8%89%98%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E5%90%8E%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BA%86%E4%B8%80%E8%89%98%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E6%97%A0%E4%BA%BA%E8%89%87",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-06T12:15:35.000Z",
+      "author": "古莉",
+      "excerpt": "在美国周六对海湾地区三艘伊朗油轮发动打击后，伊朗革命卫队于周日凌晨宣称“袭击了一艘企图进入霍尔木兹海峡保护区的美军无人艇”。",
+      "section": "news",
+      "rankScore": 0.637628
+    },
+    {
+      "id": "e9794e6ff5f6b6a6",
+      "title": "What different world maps get right - and what they get wrong",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-06T12:09:54.000Z",
+      "excerpt": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "section": "news",
+      "rankScore": 0.571024
+    },
+    {
+      "id": "4d0332f453208d5e",
+      "title": "How significant are the Yemeni government’s military gains against Houthis?",
+      "url": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-06T13:41:25.000Z",
+      "excerpt": "Government forces make gains as fighting escalates, raising fears of a return to full-scale war.",
+      "section": "news",
+      "rankScore": 0.548251
+    },
+    {
+      "id": "057ec466c83cb0c5",
+      "title": "Families Turn to Symbolic Cremation After Nepal Floods",
+      "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-06T13:38:26.000Z",
+      "author": "Mujib Mashal and Binod Ghimire",
+      "excerpt": "Thousands are missing, and some families have lost hope of recovering their bodies. To carry out his sacred duty, a son lights the funeral pyre for a straw effigy of his father.",
+      "section": "news",
+      "rankScore": 0.546925
+    },
+    {
+      "id": "7e7f030f1ff1f470",
+      "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+      "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-06T13:00:07.000Z",
+      "author": "Natricia Duncan Caribbean correspondent",
+      "excerpt": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage former…",
+      "section": "news",
+      "rankScore": 0.529895
+    },
+    {
+      "id": "cd4be858b3e65fd8",
+      "title": "Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate",
+      "url": "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-06T13:28:53.000Z",
+      "author": "Peter Eavis and Jenny Gross",
+      "excerpt": "The U.S. military is helping oil get out of the Persian Gulf on tankers, but Iran is still attacking the ships and scaring operators away.",
+      "section": "news",
+      "rankScore": 0.474845
+    },
+    {
+      "id": "9693dc0284d4728c",
+      "title": "Hostility to Reform UK leaves Farage with a dilemma",
+      "url": "https://www.ft.com/content/cbe3766f-68f1-4167-8cf2-e89cf380ff43",
+      "source": "ft-world",
+      "publishedAt": "2026-09-06T12:04:02.000Z",
+      "excerpt": "Toning down its positions in pursuit of wider appeal would risk an exit of supporters on the right",
+      "section": "news",
+      "rankScore": 0.441848
+    },
+    {
+      "id": "fb6439f3efbcc128",
+      "title": "美特使会晤普京后抵达基辅 俄乌暂停空袭三日",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbjA4dlJhRHhEYTY0eWN0Zmhod3YxSkRfSkdMRWtNYl90eThxN3dQLUVfaFJSQm1uRW9TSEZWZTRKWXE3ZVFzOFMzUHJaUmZuckdwVFYtNWI0dWwxbUc5enlFT1hTcF9IOXNFczl4d3lfTUNRbGdCVnVfZ1FCZ1lueE8yUWlKWHE0NDZTeTdrdUtETF9FXzd1U0FMZVlySUhucHRPT29TNEV6X3gyQTM4T3dpWnBnVElNZmJWeFNVTGkwMnh6SzhEQmJMTWVVbmhHZ3FzV0dGOUpxRUFVUUJObFJRQTU3dWlQc2VNWWd0R1FOXzB0YV91NGgtY0wya2s3My1wNnhudDZzVWN5dVlfRmlzdnJoeElVYjZRTTBOSmp4NHVaVmgzUzh0eEY0UDZJeUZ2RjM4Ylc3Z9IBugJBVV95cUxNaHlfZWNlSVFDaHYzT3NOc1QxT3pnMmFaZ3RYSks5ZGtxT0I5NjlIaFZtS242dnd4bTNUbE1kS1hvelhXQ2RZUUJfeTI0WnNVRHdvMTVMWk5NVDdsRkdseDBpVkdKSWFSZ1ZSaExJc1U3UWdYNXJwcWJrZXdvZ0RBVzA3RDc3MjAzakhpSFU0VVJBZXg5aXpBUjF0ek5Ob1R6SDJqZXZSTU5ZX3JZRlNQbjU4VE9vdXFja0pWZWhDX3B6Q0JEeno4eFVJb1IxU2xHSW93SWpINXcxR0lBa2h1SmM0X3g3MEVKUEhTMVRVR0o1UmxuNVNENU5OOE9GSjdsUkJITllmOXhYSmRuanN2WmlvczJCSU1PX3pCYjJrNEVfUkxoZ2wyVjRrR0QwMDZmaFJuR0U5TVNTUQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-06T13:07:30.000Z",
+      "excerpt": "美特使会晤普京后抵达基辅 俄乌暂停空袭三日 DW.com 泽连斯基：即刻起至9月7日停止袭击莫斯科 新浪网 普京：俄方将努力确保美乌谈判进程和调解人员安全 央视网 普京会见特朗普特使，3小时闭门谈完双方均未发声明 观察者 普京与美特使会见超3小时，谈话内容曝光 新浪网",
+      "section": "news",
+      "rankScore": 0.399882
+    },
+    {
+      "id": "b73f2c63cd2d9014",
+      "title": "American Muslims are giving Texas barbecue a halal makeover",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+      "source": "npr-news",
+      "publishedAt": "2026-09-06T10:00:00.000Z",
+      "author": "Ulaa Kuziez",
+      "excerpt": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions.",
+      "section": "news",
+      "rankScore": 0.393613
+    },
+    {
+      "id": "96a78835060dbcd0",
+      "title": "青春华章丨“时代楷模”王戟：只要大脑还能思考，我就是科研战场上的战士",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691597.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-06T14:01:03.000Z",
+      "excerpt": "中新网合肥9月6日电(记者 任帅 张强 储玮玮) 9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。“时代楷模”、国防科技大学计算机学院研究员王戟感慨道：“如今，我坐着轮椅，继续追逐前沿科技，继续为科技强军努力工作。只要大脑还能思考，我就是科研战场上的战士，只要双手还能敲键盘，我就可以继续冲锋！”王戟感慨道，何其有幸，他能把个人奋斗和国家命运紧紧相连。祖国不会辜负每一个实干者，“同学们，请你们珍惜现在这个伟大的时代。未来你们无论去往何方，请记住四个字‘同频共振’。把自己安放于国家需要之处，路自然越走越宽。”",
+      "section": "cn-news",
+      "rankScore": 0.765843
+    },
+    {
+      "id": "6652226bcbeee1f3",
+      "title": "以色列袭击黎巴嫩南部致4死20伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691534.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-06T11:17:21.000Z",
+      "excerpt": "中新社北京9月6日电 据黎巴嫩国家通讯社报道，黎卫生部当地时间6日发表声明说，以色列当天对黎巴嫩南部奈拜提耶地区多个城镇发动空袭，造成4人死亡、20人受伤。",
+      "section": "cn-news",
+      "rankScore": 0.726331
+    },
+    {
+      "id": "5c1a070dcc070bb9",
+      "title": "印尼火山持续喷发，中使馆发布安全提醒",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92UkFyVzEzWVNKczZRLW1Xa1MtMmNlNU1JczZqRWNabHNoaDVLajRybXpQaVppbkREV1lWNXhXRVlmb19nSVJvdHFMZ1gwUHRzeTYtanotWGY?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-06T13:52:30.000Z",
+      "excerpt": "印尼火山持续喷发，中使馆发布安全提醒 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.622324
+    },
+    {
+      "id": "5538469f38643683",
+      "title": "5岁女孩病历被标注“刁蛮”！涉事医生被立案调查，病历已修正",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkaktSc1R3TUdrVkMzN05uak5od2RpNU1TWl9sNzVXRzdXMUhYcGdMdkdRbXYxVWE4OEhzZGZNSy1oTTFfMFVFaG50ZmNmbGgxVjJuQ0tsMFYxRURiLVE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-06T12:07:00.000Z",
+      "excerpt": "5岁女孩病历被标注“刁蛮”！涉事医生被立案调查，病历已修正",
+      "section": "cn-news",
+      "rankScore": 0.569574
+    },
+    {
+      "id": "0ae1dec3bc83136b",
+      "title": "（乡村行·看振兴）浙江庆元“创客带乡亲”：“一条大鲵”游出共富新路",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691561.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-06T12:00:04.000Z",
+      "excerpt": "中新网丽水9月6日电(傅飞扬 沈雅慧)连日来，走进浙江省丽水市庆元县贤良镇大鲵仿生态繁殖基地，山涧溪水潺潺，一个个仿生态养殖池沿溪而建，工作人员忙着巡查水质、管护幼鲵，一派繁忙景象。",
+      "section": "cn-news",
+      "rankScore": 0.566107
+    },
+    {
+      "id": "20f9170cf184c55b",
+      "title": "2026中国文化旅游产业博览会项目签约115亿元",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdVhBOEM2NUFVSTFmbmZ4cXhneTBjM1VoTEZhZjl5N2ZsdnVqRzl0Y3lLaDN6YkNkTDdzaTUwXzNnTlowR1ozZnFjYmJZekNuWG11VF9DRi1MZEdzOFZlX0xKbXFHUDRWbkJMY3YyNGNLZl9DTFVxY3BzVEZsYjUtWUhB?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-06T13:48:17.000Z",
+      "excerpt": "2026中国文化旅游产业博览会项目签约115亿元 news.cn 全球旅游机构瞄准“中国游”新蓝海--国际 人民网 “文旅+”破圈赋能 激活消费新场景 光明网 从“游山水”到“游时空”，数字科技解锁“诗和远方”新体验 news.cn 中国创新文旅玩法“圈粉”海外游客 新浪网",
+      "section": "cn-news",
+      "rankScore": 0.551302
+    },
+    {
+      "id": "99deb3f05a97698f",
+      "title": "What China’s Lop Nur desert base expansion means for PLA stealth jets in race with US",
+      "url": "https://www.scmp.com/news/china/military/article/3366531/what-chinas-lop-nur-desert-base-expansion-means-pla-stealth-jets-race-us?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-06T14:00:10.000Z",
+      "author": "Gabriel Dominguez",
+      "excerpt": "China is rapidly expanding a flight-test facility deep in its western desert, satellite imagery has revealed, a push that analysts say could help fast track the development of its next-generation military aircraft as air-power rivalry with the United States intensifies.",
+      "section": "cn-news",
+      "rankScore": 0.487011
+    },
+    {
+      "id": "551cc5256ea03b41",
+      "title": "西藏吉隆土石流增至43死、519人失聯",
+      "url": "https://www.cna.com.tw/news/acn/202609060168.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-06T11:23:16.000Z",
+      "excerpt": "（中央社台北6日電）據央視新聞報導，西藏自治區吉隆縣「8．26」土石流災害應急救援前方指揮部消息，截至5日晚間6時，災害造成43人遇難，519人失聯。",
+      "section": "cn-news",
+      "rankScore": 0.486851
+    },
+    {
+      "id": "03244211f29b30d1",
+      "title": "两连板爱仕达披露具身智能业务进展：合作项目仍处起步阶段 已形成销售收入仅13.72万元",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CajlrU1ZuUkRwN1RlNEFiaFQ5emFSOEpIZExVZGs5d2lvQmdJZ3BIZnBQUnNEWXhXcjlSRUVTT21QUDZjU3JabzJqWVBiX2tsSlo4V0dQS3N2M3Y2RDBPT3R1bFdiRVlTcXNDeWQxVQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-06T13:41:22.000Z",
+      "excerpt": "两连板爱仕达披露具身智能业务进展：合作项目仍处起步阶段 已形成销售收入仅13.72万元 央广财经 连续涨停！002403，提示风险 新浪网 2连板机器人概念股，提示风险：具身智能业务收入仅13.72万元 同花顺财经 V观财报｜2连板爱仕达：具身智能机器人业务处起步阶段 新浪网 爱仕达：连续2个交易日收盘价涨幅偏离值累超20% 东方财富",
+      "section": "cn-news",
+      "rankScore": 0.4797
+    },
+    {
+      "id": "b3c005e30801f56d",
+      "title": "财政部将向中国太平保险集团有限责任公司注资70亿元",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QUWhXSV9RUXdaV1N2ejUzckRzakRTLVFxa3piYVJ2WUpqcUUwV0k1NG12U1JNd0JEbmhVYnc5WE9veXYtdzJ1ODVDRmRHVE5mQkFMelRyb0w4SUlraGJ3V3NIcjlxdw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-06T13:16:05.000Z",
+      "excerpt": "财政部将向中国太平保险集团有限责任公司注资70亿元 东方财富 财政部大手笔注资银行、险企，总量达数千亿！ wallstreetcn.com 未雨绸缪：中央财政3000亿注资8家金融央企 新浪网 工行、农行拟分别募资不超过1000亿元、1600亿元用于补充资本 凤凰网 财政部将发行特别国债支持8家中央金融企业补充资本 中国日报网",
+      "section": "cn-news",
+      "rankScore": 0.402743
+    },
+    {
+      "id": "90ebc9b59289bdff",
+      "title": "哈尔滨医科大学迎百年校庆 《发现伍连德》一书重印",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691589.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-06T13:08:50.000Z",
+      "excerpt": "中新网北京9月6日电 在哈尔滨医科大学迎来建校100周年之际，中国科学技术出版社近日对16年前出版的《发现伍连德——诺贝尔奖候选人华人第一人》一书首版进行了二次印刷。",
+      "section": "cn-life",
+      "rankScore": 0.800654
+    },
+    {
+      "id": "464673bc0026bf6d",
+      "title": "张强围绕“七有”“五性”调研保障和改善民生工作，要求认真践行以人民为中心的发展思想，不断提升公共服务品质 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUm9lNG5KZnJQM1Y0RVZSZjdHRVBLX093QmtmMldqTzItU001V19peWVvNXZEeXFVTTJwaFY4alAzUkQ3OGJBZjhTODlDd0tVUmVjVjhpYjRZRTBjOVJWUnhXVVpxYUtFeDVtbWVueEVDXzJxM0Q2MjFEekR4Z2YxbjVPWnNuXzFHQjdSMg?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-06T14:01:12.000Z",
+      "excerpt": "张强围绕“七有”“五性”调研保障和改善民生工作，要求认真践行以人民为中心的发展思想，不断提升公共服务品质 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.626674
+    },
+    {
+      "id": "d209e2b6186dc0d9",
+      "title": "通讯丨中国“妈祖”系统助力巴基斯坦提升防灾能力",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSjY3OWozbE9ZaHhMZ21SOGlfMGVRaFFhNkswUW1vLWlfVjQ0R0pxRV9QYWF0R215T0lxOERZc2JUQTZDZXBWUnF1NG1mUnF5QkxjRVR2NEZoUFZvWlBUSVNRUC00dHBrcGNtTnFZTEhMa1lPc0VMT01hZzlYcDA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-06T13:17:30.000Z",
+      "excerpt": "通讯丨中国“妈祖”系统助力巴基斯坦提升防灾能力 央广网",
+      "section": "cn-life",
+      "rankScore": 0.604824
+    },
+    {
+      "id": "16cefa1da0789e76",
+      "title": "单一缺陷最大规模召回，贴个贴纸而已？",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBaU5Uc1FFOW1BSkV0WXFKNV9URlc2eHYxb2xXTG1UX2pEc0NVT3hVVzY5dU5CcHZlRHZUWVpOS1pSYzNENHpubW92WVlERU03N2lCTEdNNl91elhIYnJhVVJPNlVHdEptM3pGaDJnN0NWUk80UUE?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-06T13:32:06.000Z",
+      "excerpt": "单一缺陷最大规模召回，贴个贴纸而已？ 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.476096
+    },
+    {
+      "id": "b2f00e203df72533",
+      "title": "武汉市体育局",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nY090ZVVSajFJcXNCOW03eWhYYTcwZEdfbEtSZlNldDlqaXVqMW5vYy1yMW4wbENLNmRuTjhZTG9wbVRkdEk5RHdNUFNGTWtmcDVsdFJRdlRQUEN2ZFkwemNIT1NWWHhvMWo4Z2RKNmt5VGtJbHhGZXY4SDM?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-06T10:57:00.000Z",
+      "excerpt": "武汉市体育局 武汉市体育局",
+      "section": "cn-life",
+      "rankScore": 0.475176
+    },
+    {
+      "id": "0314e03b09c80f74",
+      "title": "分子分型重塑mCRC治疗格局：免疫、靶向与新型药物前沿进展 - ByDrug",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nNkI5SldLM2lmNXkxekVNcFNGbW5FS1FmeEtHLThCWmxLOWxzcExRaG1jdUJwRmZ6dUotcDJsTkxDSm5fd2c0cEF4MDR3ajVNa2tWR2prMFFTcmMyb1VRNXJGYkxVSUQteTZBT08yTDl0d2RuMGJwOTVhUnZkUQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-06T12:00:00.000Z",
+      "excerpt": "分子分型重塑mCRC治疗格局：免疫、靶向与新型药物前沿进展 ByDrug",
+      "section": "cn-life",
+      "rankScore": 0.440279
+    },
+    {
+      "id": "45ca55aa02214cfc",
+      "title": "“全民国防教育月”活动开展形式多样的群众性国防教育 同心共筑强大国防",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QM0dJNi1iS1NPQmkxR0xSNDBlUzhCLXBvc1RNdHhWMVJxQi1WWVVaOG5Mamh2U193ajlUS0gtSzNGbFJKTVRMWVI2QUtxUG9IRW5CaXctUUo3cEpUUXAyd0U2dmdieVZwdzNZemhkRnp0Q0dhOXJkVg?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-06T13:18:00.000Z",
+      "excerpt": "“全民国防教育月”活动开展形式多样的群众性国防教育 同心共筑强大国防 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.403382
+    },
+    {
+      "id": "59ff7805fb0048f6",
+      "title": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBqR2hSNzRlYjRObnhDemdXTE83cjQtRlFVVEpWRldnejBhME9SakdISnI4bURqRDk1SWE4M1diX0p0MEE?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-06T08:41:04.000Z",
+      "excerpt": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍 爱范儿",
+      "section": "cn-life",
+      "rankScore": 0.259226
+    }
+  ],
+  "warnings": []
+}
