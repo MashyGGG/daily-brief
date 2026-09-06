@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-06",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-06T15:25:48.749Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "14206d859c4d6cb5",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "source": "hn-front",
+      "publishedAt": "2026-09-06T07:21:06.000Z",
+      "score": 386,
+      "author": "mpweiher",
+      "excerpt": "386 points · 108 comments · https://news.ycombinator.com/item?id=49584083",
+      "section": "tech",
+      "rankScore": 0.879358
+    },
+    {
+      "id": "8b2bd4a998652b5e",
+      "title": "Intellectual Fly Is Open (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-06T11:56:43.000Z",
+      "score": 231,
+      "author": "cyb0rg0",
+      "excerpt": "231 points · 130 comments · https://news.ycombinator.com/item?id=49585644",
+      "section": "tech",
+      "rankScore": 0.868103
+    },
+    {
+      "id": "d4d5f3c836d14987",
+      "title": "\"Simple Made Easy\" (2011)",
+      "url": "https://www.youtube.com/watch?v=SxdOUGdseq4",
+      "source": "lobsters",
+      "publishedAt": "2026-09-06T14:25:59.000Z",
+      "author": "youtube.com via datboi",
+      "section": "tech",
+      "rankScore": 0.602387
+    },
+    {
+      "id": "dd14d3b59a7106cc",
+      "title": "Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives",
+      "url": "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-06T12:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "Google has open-sourced Mantis, an AI-agent framework designed to automate the software vulnerability lifecycle, from identifying and validating vulnerabilities to reproducing and fixing them.",
+      "section": "tech",
+      "rankScore": 0.594455
+    },
+    {
+      "id": "ef2fd92cfca99fb5",
+      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+      "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+      "source": "verge",
+      "publishedAt": "2026-09-06T13:00:00.000Z",
+      "author": "Allison Johnson",
+      "excerpt": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices.",
+      "section": "tech",
+      "rankScore": 0.437657
+    },
+    {
+      "id": "056f863ef31e1d2d",
+      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-06T11:55:26.000Z",
+      "author": "Stephen Clark",
+      "excerpt": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+      "section": "tech",
+      "rankScore": 0.414479
+    },
+    {
+      "id": "d0db7dd8ad345e4c",
+      "title": "The purpose of DNS is to spread scams",
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-06T14:40:07.000Z",
+      "excerpt": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\". On this Interisle report ( via Andrew Campling ), Terence says:…",
+      "section": "ai",
+      "rankScore": 0.811879
+    },
+    {
+      "id": "5de6b4af1ffc9238",
+      "title": "养殖三文鱼的 Omega-3 脂肪酸含量大幅下降",
+      "url": "https://www.solidot.org/story?sid=85299",
+      "source": "solidot",
+      "publishedAt": "2026-09-06T14:49:02.000Z",
+      "excerpt": "《美国膳食指南》建议每周至少食用 8 盎司鱼，推荐人们选择三文鱼（salmon）等富含 Omega-3 脂肪酸的鱼类，Omega-3 脂肪酸被认为有益心脏健康。这一推荐导致三文鱼产量大增，而人类消费的近七成三文鱼如今都来自养殖渔场。根据一项新研究，养殖三文鱼的 Omega-3 脂肪酸含量大幅下降，意味着相关推荐数据已经过时。Omega-3 脂肪酸含量下降的原因是三文鱼的食物结构发生巨大转变，从肉食转变为以大豆和菜籽油为主食。世界最大的养殖三文鱼生产国挪威，1990 年九成的饲料原料来自海洋，但到 2020 年这一比例降至约 23%。挪威养殖三文鱼饲料中九成的大豆来自三家巴西公司。",
+      "section": "cn-tech",
+      "rankScore": 0.749253
+    },
+    {
+      "id": "72996e46c5ee811e",
+      "title": "微软 Foundry 模型路由扩容：覆盖区域增至 28 个，更新模型池",
+      "url": "https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-06T15:10:00.000Z",
+      "author": "作者：Steef-Jan Wiggers",
+      "section": "cn-tech",
+      "rankScore": 0.691891
+    },
+    {
+      "id": "ed11476d72c9cea3",
+      "title": "30 天 AI 编程入门总结： 接下来应该学什么",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UY0R0X2dadFNjWGR0Qm5GMEJHbzZVX0laa3hPaENoNDdoSlE2dWZMY1I4Q3FhM29kZ0FIWkpCV2Z5VC1fRVpZTFdpSTV1Z2dDTXhFYQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-06T13:49:45.000Z",
+      "excerpt": "30 天 AI 编程入门总结： 接下来应该学什么 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.455516
+    },
+    {
+      "id": "28f8216d80cd64e7",
+      "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+      "url": "https://www.36kr.com/p/3971642393686535",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-06T08:50:07.000Z",
+      "excerpt": "一只果蝇，在Minecraft里飞。 在一个用玻璃方块搭出的密室里，四壁全透明，灰色石砖铺地，墙外是Minecraft标志性的蓝天。 一只红褐色的小果蝇悬在半空，扇动翅膀，飞几格，拐个弯，翻个身，一会儿头朝左，一会儿肚子朝上，像一只刚被放进罐子里还没搞清状况的真实果蝇。 推动它飞的不是游戏脚本，而是一整套雄性果蝇中枢神经系统的连接组。 166700个神经元在模拟中放电，神经活动直接决定了这只虚拟果蝇的每一次转向。",
+      "section": "cn-tech",
+      "rankScore": 0.447371
+    },
+    {
+      "id": "f2344bfd497f2a1f",
+      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
+      "url": "https://sspai.com/post/114076",
+      "source": "sspai",
+      "publishedAt": "2026-09-06T07:00:00.000Z",
+      "author": "ElijahLee",
+      "excerpt": "对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...",
+      "section": "cn-tech",
+      "rankScore": 0.352487
+    },
+    {
+      "id": "05ae1024286beb21",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-06T09:32:38.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5. Successful attacks date to at least…",
+      "section": "security",
+      "rankScore": 0.518882
+    },
+    {
+      "id": "2039011ec317710d",
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-06T08:34:20.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.",
+      "section": "security",
+      "rankScore": 0.488985
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 195 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
