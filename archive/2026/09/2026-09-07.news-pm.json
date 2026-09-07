@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-07",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-07T16:25:45.841Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "942d83460ff68607",
+      "title": "印尼火山爆發 27萬人滯留機場",
+      "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-07T16:24:31.000Z",
+      "excerpt": "印尼喀拉喀托之子火山（Anak Krakatau）爆發，多個機場連續第二天停運，數以十萬計旅客滯留。該局警告火山「未來一段時間再次爆發的可能性仍然很高」。",
+      "section": "news",
+      "rankScore": 0.839168
+    },
+    {
+      "id": "0ed093c66708c06b",
+      "title": "贝尔格莱德数千人为姆拉迪奇送葬 欧盟谴责美化战犯",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260907-%E8%B4%9D%E5%B0%94%E6%A0%BC%E8%8E%B1%E5%BE%B7%E6%95%B0%E5%8D%83%E4%BA%BA%E4%B8%BA%E5%A7%86%E6%8B%89%E8%BF%AA%E5%A5%87%E9%80%81%E8%91%AC-%E6%AC%A7%E7%9B%9F%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%8C%96%E6%88%98%E7%8A%AF",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-07T14:56:43.000Z",
+      "author": "古莉",
+      "excerpt": "法新社报道，周一，数千人聚集在贝尔格莱德，参加波斯尼亚塞族前军事首脑拉特科·姆拉迪奇的隆重葬礼。布鲁塞尔方面再次谴责任何“美化”因在1990年代波斯尼亚战争期间犯有种族灭绝罪而被定罪之人。",
+      "section": "news",
+      "rankScore": 0.650529
+    },
+    {
+      "id": "e62a6d568b907d17",
+      "title": "Tanzanian President Samia's husband dies in hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-07T16:23:02.000Z",
+      "excerpt": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
+      "section": "news",
+      "rankScore": 0.628635
+    },
+    {
+      "id": "bb177313f556131e",
+      "title": "Europe’s centre fears nationalist wave after AfD victory but only has itself to blame",
+      "url": "https://www.theguardian.com/world/2026/sep/07/afd-germany-far-right-saxony-anhalt-nationalist-wave-europe-analysis",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-07T16:13:05.000Z",
+      "author": "Jon Henley Europe correspondent",
+      "excerpt": "Saxony-Anhalt win part of wider trend driven by mainstream policy failures and gradual normalisation of far right ideas Europe live – latest updates The numbers speak for themselves: Alternative für Deutschland (AfD), a party that dabbles in Nazi imagery, distinguishes between “biological” and…",
+      "section": "news",
+      "rankScore": 0.554364
+    },
+    {
+      "id": "1d6e15a875c203a9",
+      "title": "Lights, camera, action: Irksome influencers at the US Open are here to stay",
+      "url": "https://www.aljazeera.com/sports/2026/9/7/irksome-influencers-at-the-us-open-are-here-to-stay?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-07T15:48:03.000Z",
+      "excerpt": "Experts say influencers likely to remain a feature of major sports events, despite the anger and irritation they cause.",
+      "section": "news",
+      "rankScore": 0.543238
+    },
+    {
+      "id": "8edafcec3db7b9ff",
+      "title": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
+      "url": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-07T15:14:48.000Z",
+      "author": "Christina Goldbaum",
+      "excerpt": "The bombardment killed 11 people, Lebanese officials said, after days of attacks that have spurred worries that Israel is looking to push deeper into Lebanese territory.",
+      "section": "news",
+      "rankScore": 0.52846
+    },
+    {
+      "id": "ace643c7876ca62c",
+      "title": "Why Amy Klobuchar Wants to Run a State Beleaguered by Trump",
+      "url": "https://www.nytimes.com/2026/09/07/us/amy-klobuchar-governor-minnesota.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-07T16:18:16.000Z",
+      "author": "Ernesto Londoño",
+      "excerpt": "The senator opted to run for governor, having concluded that many Minnesotans lost faith in state government under fellow Democrats. But some wonder: Would she be a fighter in the role, or a conciliator?",
+      "section": "news",
+      "rankScore": 0.487084
+    },
+    {
+      "id": "84dabc6b24161f53",
+      "title": "Merz in ‘shock’ as far-right AfD celebrates ‘dream result’",
+      "url": "https://www.ft.com/content/ec1396b9-185e-4a55-86d6-36a560b549fb?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-07T16:08:02.000Z",
+      "excerpt": "German chancellor under severe pressure as rival party aims for 40% of vote in country’s next federal polls",
+      "section": "news",
+      "rankScore": 0.483105
+    },
+    {
+      "id": "c9efd629c6a59bcf",
+      "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
+      "source": "npr-news",
+      "publishedAt": "2026-09-07T13:31:16.000Z",
+      "author": "Jennifer Pak",
+      "excerpt": "One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal.",
+      "section": "news",
+      "rankScore": 0.42214
+    },
+    {
+      "id": "60cefaef6afdda5c",
+      "title": "胡塞武装称沙特战机空袭也门焦夫省哈兹姆地区",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sNXpMU2VBeVhmLTBIOWI3RDFDcDc5UmVUZ0U3cmktZUhWcFhQZ3RtN1lLcHBxYThsa3Q3UTFMYkR0d2pfamlUamJwR0FXRW5NbHQzUVpfd3dGeWlvQ1N1WjllNmJpdDNV?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-07T16:01:27.000Z",
+      "excerpt": "胡塞武装称沙特战机空袭也门焦夫省哈兹姆地区 chinanews.com.cn 也门政府军与胡塞武装交火 造成至少117人死亡 央视网 联合国特使警告也门局势面临升级风险 新浪财经 也门冲突让人担忧伊朗支持的胡塞武装可能进一步威胁曼德海峡航运 voachinese.com 胡塞武装称对与沙特阿拉伯有关联的车辆发动导弹袭击 UA.NEWS",
+      "section": "news",
+      "rankScore": 0.411895
+    },
+    {
+      "id": "4a814f4eb2c04c68",
+      "title": "Coordinated action on clean air and climate change can net $15 for every dollar spent",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168283",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-07T12:00:00.000Z",
+      "excerpt": "Tackling air pollution and climate change together can save millions of lives, reduce global warming and generate roughly $15 in economic benefits for every $1 spent, a new UN-backed report has revealed.",
+      "section": "news",
+      "rankScore": 0.331412
+    },
+    {
+      "id": "a8661c7d1d96dd0c",
+      "title": "美国企业界日渐青睐开放人工智能模型",
+      "url": "https://cn.nytimes.com/technology/20260907/open-source-ai-anthropic-openai/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-07T04:27:13.000Z",
+      "author": "ELI TAN",
+      "excerpt": "许多最流行的开源人工智能模型都出自中国公司，其中有些性能已经接近OpenAI和Anthropic的领先模型，价格却更为低廉。不过，中国模型在监管和数据隐私方面仍存在争议。 Josie Norton",
+      "section": "news",
+      "rankScore": 0.330888
+    },
+    {
+      "id": "dcb1f29e42173529",
+      "title": "平陆运河通航在即：解码西南出海与向海发展关键",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692264.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-07T14:06:40.000Z",
+      "excerpt": "中新网南宁9月7日电(记者 杨陈)9月7日，广西官方在南宁举行新闻发布会宣布，新中国成立以来首条国家层面统筹建设的通江达海运河——平陆运河，将于9月16日正式通航。",
+      "section": "cn-news",
+      "rankScore": 0.747268
+    },
+    {
+      "id": "e175cf08bd454484",
+      "title": "驻华使节沪苏行活动在上海启幕",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692288.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-07T15:36:30.000Z",
+      "excerpt": "中新社上海9月7日电 （许婧 娄瀚锟 张亨伟）“走进人民城市：中国之治与全球互鉴”驻华使节沪苏行活动启动仪式7日在上海举行。来自白俄罗斯、西班牙、孟加拉国、塞浦路斯、纳米比亚等20个国家的30位驻华使节及外交官，将赴沪苏两地实地参访，共享城市发展先进理念和成功经验。",
+      "section": "cn-news",
+      "rankScore": 0.739894
+    },
+    {
+      "id": "73aab72249a5e80d",
+      "title": "空客8月交付57架飞机",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53eHhCOUFldUkyQm9qeXBzRlQ3WmR0QkJQSzgzTm4zc0k4ckhBQ1RpdlpVaUFPeHc3VXgwdm1pY3pJZ3hyVGI4SzZ5WE01Z212VWVKZk5lVWs?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-07T15:58:16.000Z",
+      "excerpt": "空客8月交付57架飞机 jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.616251
+    },
+    {
+      "id": "e7bccdffecfc3c69",
+      "title": "市委常委会召开会议 赵宏宇主持并讲话",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3TjV0Q0tCbHVUZ3RSeGx2R01PcGJjb29Ja1VfV0h3T1FFdThqcXlCczNDd2RsdUc2RTV0R0FGVDNGZVNaYktsTUdxRFZNVjU1QnVhSl9HQk5YeEdkLWc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-07T14:29:00.000Z",
+      "excerpt": "市委常委会召开会议 赵宏宇主持并讲话",
+      "section": "cn-news",
+      "rankScore": 0.571618
+    },
+    {
+      "id": "f711230c771b5955",
+      "title": "中国央行连续22个月增持黄金 储备规模升至7673万盎司",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692283.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-07T14:26:59.000Z",
+      "excerpt": "中新社北京9月7日电 (陶思阅)据中国央行7日公布的数据，8月末黄金储备报7673万盎司，环比增加65万盎司。",
+      "section": "cn-news",
+      "rankScore": 0.57061
+    },
+    {
+      "id": "50f574dee9beaec1",
+      "title": "坚守文化底色 共绘文明图景——中外学者热议巩固文化主体性的世界意义",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Vb3VvWkFYamRCdFFPcnZJRV9zamhabkdUdl9JaE1UcEJJbTJVR0p3S2xXbzFUM2Z1S3UzZmVCTzBWR3ZrY2xXWEo0ZWIzU1E1VkZmYmRJNzYxV3B5b2s3ckw1WV9SZG40c2Z5M3pwLUR2SVlaRk1Hb05jRHFHekk?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-07T15:26:47.000Z",
+      "excerpt": "坚守文化底色 共绘文明图景——中外学者热议巩固文化主体性的世界意义 新华网",
+      "section": "cn-news",
+      "rankScore": 0.533786
+    },
+    {
+      "id": "cd295b7597f71575",
+      "title": "As clock counts down to Trump summit, Xi boosts global clout with diplomatic blitz",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3366643/clock-counts-down-trump-summit-xi-boosts-global-clout-diplomatic-blitz?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-07T15:00:11.000Z",
+      "author": "Fan Chen",
+      "excerpt": "His summit with Donald Trump is just over two weeks away, but already this month Xi Jinping has had one of his busiest stretches of diplomatic travel in recent years.",
+      "section": "cn-news",
+      "rankScore": 0.456719
+    },
+    {
+      "id": "7cccf5c41169bf95",
+      "title": "郭德綱踩到紅線 中國官方通報：歪曲篡改抗戰歌曲",
+      "url": "https://www.cna.com.tw/news/acn/202609070273.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-07T11:52:24.000Z",
+      "excerpt": "（中央社記者馮昭上海7日電）中國相聲演員郭德綱在一場演出中改編「紅歌」踩到紅線。武漢官方今天通報，指郭德剛歪曲篡改抗戰歌曲，給予演出主辦公司和演出場所警告及罰款處分，對涉事人員「嚴肅處理」。",
+      "section": "cn-news",
+      "rankScore": 0.438505
+    },
+    {
+      "id": "b7af3b9abd56bf8e",
+      "title": "“光”又回来了！CPO飙涨，通信ETF集体爆发，谁是“真龙头”？",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UZm1nQmM1YUJQLUkwLUl2azdoSGdwYVVWdkx6cmdxd2pZY1NpaGV0aTRLT1k3cXVtZVJ3dUg3LWpJOXdGRDJpMzExSkNlNXlyYllvY25ySFlPbnVTbWFVNC0zamlrZzJaRVd6SnItZ1ZIVWJMUHdwNUFn?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-07T14:08:00.000Z",
+      "excerpt": "“光”又回来了！CPO飙涨，通信ETF集体爆发，谁是“真龙头”？ chnfund.com",
+      "section": "cn-news",
+      "rankScore": 0.436425
+    },
+    {
+      "id": "ace6cf7559b72fdf",
+      "title": "特稿｜携手推进平等有序的世界多极化——习近平主席中亚中东之行推动全球治理倡议走深走实",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTNyN0lpdm1iSmRkM3Qydkg3Yi02ZkR0OGtyM3h5eG56ejlFX2ZVWE9qYl9HeXdrS0h0Zy0yazM0OVlfM3hoTks4Vmw2VXJiampTMEExVDl0YVRFWDVUYTg0NkdwTXZCWllSeVZjQlp5NmkySElNNHNiazVBQ0haUmNCMzR5QWI3LWJjTC1B?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-07T15:01:50.000Z",
+      "excerpt": "特稿｜携手推进平等有序的世界多极化——习近平主席中亚中东之行推动全球治理倡议走深走实 新华网 时代·人民·文明——中国元首外交的思想启迪 新浪新闻_手机新浪网 拾光纪·习主席中亚中东行的三点启示 央视网 众行致远丨上合组织怎样担当时代责任？习近平主席这样破题- 中国日报网 China Daily 习近平主席中亚、中东之旅难忘瞬间 news.china.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.392023
+    },
+    {
+      "id": "af0d7b8fa5a0012f",
+      "title": "“无糖”≠零糖零卡！含甜味剂饮料喝多也伤身",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692297.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-07T16:00:17.000Z",
+      "excerpt": "现在大家都很注意饮食健康，市面上也有不少所谓的无糖饮料打着零糖、零卡的旗号。很多人认为，既然是“无糖”饮料，那就意味着完全不含糖和热量，更健康，可以随意喝。",
+      "section": "cn-life",
+      "rankScore": 0.823013
+    },
+    {
+      "id": "9dfd6e28ec0a7aca",
+      "title": "千叶一处国道下穿通道因暴雨实施预防性交通管制",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hSHVnMGdQczN6bFRHcE9hSHJSbkZ5Z3R3dXlBNFg0a2NzdWpwSlhsTUhkN1hxWDNoaUJHMHNXTkNaTENnX0tXLUtQbzNVTTliWTVlNkR6dw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-07T15:42:05.000Z",
+      "excerpt": "千叶一处国道下穿通道因暴雨实施预防性交通管制 china.kyodonews.net",
+      "section": "cn-life",
+      "rankScore": 0.60816
+    },
+    {
+      "id": "999643663244d075",
+      "title": "就业结构性矛盾如何破解？就业服务将有什么变化？四川“十五五”期间这样干",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWZBM016TnFkbXJpRkRGZWR2SjJMcHIzdGhoZXp2LVU5MmxPSGRyUmRMQU1KbTlzUnNaRnlVOUw1ekFXX3RTNjhJVi1BdnI5ZU4zbEY4aUcwcWxEMTBfNGNmVHgyLUtaZm1KMGFfOGR6b2h4ZTJnNWhTWjdwdXdrUnRXSUg3TUFVX2o2akczUDZwNG1QamE5bw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-07T14:44:22.000Z",
+      "excerpt": "就业结构性矛盾如何破解？就业服务将有什么变化？四川“十五五”期间这样干 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.579301
+    },
+    {
+      "id": "37f3d28fb82ef3a8",
+      "title": "只换零件、尚未召回！Model Y L“后轮塌陷”事件追踪调查：悬架弹簧零件版本已悄然“迭代”",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03bU5IMXZNbnFDaG9XZk9HQ1o0bFpzQzc1bXA5dGNvaGc3YURqNThxVkdXb3cwb2JWZVROdko0NEwyME1CbHVzWVFCNGtEazZjUjlCZHk0MkFRZ2Z6R0dfV0ppVG5WUQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-07T15:19:00.000Z",
+      "excerpt": "只换零件、尚未召回！Model Y L“后轮塌陷”事件追踪调查：悬架弹簧零件版本已悄然“迭代” 每日经济新闻",
+      "section": "cn-life",
+      "rankScore": 0.464036
+    },
+    {
+      "id": "7d704221a0e128cc",
+      "title": "“有力人生不将就”重症肌无力医患深度交流会举行",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GTnlEbUt5a3NpUHRjQk9aT3A3Vkw2RW9GVHdhOXdtZzRuQ2pib1RrSWZJT2JUN1F1TlVmUDFjU2NuN1R1MDJGazdCTWRDVFFCSlpzTS1TQ3lPV0tCdDJfRk5kaFFQZkI4NGltMk5Rbw?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-07T14:44:00.000Z",
+      "excerpt": "“有力人生不将就”重症肌无力医患深度交流会举行 中国经济网",
+      "section": "cn-life",
+      "rankScore": 0.450425
+    },
+    {
+      "id": "b00e81e6348c40d2",
+      "title": "文化中国行·人间好时节｜白露：人间清秋 露华正浓",
+      "url": "https://www.chinanews.com.cn/life/2026/09-07/10691995.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-07T08:20:18.000Z",
+      "excerpt": "视频：文化中国行·人间好时节｜白露：人间清秋 露华正浓来源：央视新闻客户端",
+      "section": "cn-life",
+      "rankScore": 0.430298
+    },
+    {
+      "id": "2bf127147e16aa22",
+      "title": "“爱心援疆”浇灌特克斯教育之花！“祖国情·中华行”活动获家长赞誉",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMZTlCbGNzV1Q5Uy16OUQ3RnpsOTlfVmRzd2xHZVRoQ2JuNC1aRGFkSkd0Sy1jN25pTzdtOVpNVlRpRlVPOFpnZDBJay1Pb3dNTHFxamM1RlViMDkzRzhMQmVmQ2RYTU9CaWZPSG9XbFhDTGx4Q1hQbg?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-07T15:48:00.000Z",
+      "excerpt": "“爱心援疆”浇灌特克斯教育之花！“祖国情·中华行”活动获家长赞誉 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.407412
+    },
+    {
+      "id": "6817d52772645a70",
+      "title": "【文字解读】《烟台市经济技术开发区雪茄烟零售点布局规定》政策解读",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzRzbjVCUFlZa2U2cUkzMkJzcDZsMFl5VlR5VzhJbEp2WHM5LUF3bUlEZ0FPR2hNZTByUnZBVDlWSE5Pb0hNTldSV3lGM0FKMTN3OGpmQXVlOVpzbHMwX1RHVDNWS3dlZUN5azUyZnBqNUFLUUVfWlB3NEpuaG1YWE03cUtVSmJyUnA0ZmRvTTd0bE5rMFJCV0ctX283NWduYURPYVgtOHJqUmI0UnNNTVRVclI?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-07T09:40:38.000Z",
+      "excerpt": "【文字解读】《烟台市经济技术开发区雪茄烟零售点布局规定》政策解读 yeda.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.379942
+    }
+  ],
+  "warnings": []
+}
