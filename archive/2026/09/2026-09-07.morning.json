@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-07",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-07T00:59:26.296Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "13f94b5f080b550c",
+      "title": "A/I shuts down – Stay human",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-06T14:34:34.000Z",
+      "score": 514,
+      "author": "captainmuon",
+      "excerpt": "514 points · 370 comments · https://news.ycombinator.com/item?id=49586898",
+      "section": "tech",
+      "rankScore": 1.025602
+    },
+    {
+      "id": "a1662b042ee6e0f9",
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "source": "hn-front",
+      "publishedAt": "2026-09-06T17:49:47.000Z",
+      "score": 434,
+      "author": "zImPatrick",
+      "excerpt": "434 points · 232 comments · https://news.ycombinator.com/item?id=49588988",
+      "section": "tech",
+      "rankScore": 0.998597
+    },
+    {
+      "id": "f36b7f56aa96d18e",
+      "title": "Doomscrolling Ourselves to Death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "source": "hn-front",
+      "publishedAt": "2026-09-06T11:53:40.000Z",
+      "score": 362,
+      "author": "shubhamjain",
+      "excerpt": "362 points · 259 comments · https://news.ycombinator.com/item?id=49585627",
+      "section": "tech",
+      "rankScore": 0.772499
+    },
+    {
+      "id": "9ecac61b2d7b9d73",
+      "title": "Data races and the limits of ThreadSanitizer in C and Go",
+      "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+      "source": "lobsters",
+      "publishedAt": "2026-09-06T22:13:09.000Z",
+      "author": "theconsensus.dev via ucirello",
+      "section": "tech",
+      "rankScore": 0.588428
+    },
+    {
+      "id": "c5ab958109cd9269",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "verge",
+      "publishedAt": "2026-09-06T23:36:04.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user…",
+      "section": "tech",
+      "rankScore": 0.473789
+    },
+    {
+      "id": "13cda4804413edfa",
+      "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
+      "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-06T10:00:35.000Z",
+      "author": "Georgina Gustin, Inside Climate News",
+      "excerpt": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
+      "section": "tech",
+      "rankScore": 0.315223
+    },
+    {
+      "id": "f6cb987dc8ce0444",
+      "title": "There's No Limit to How Bad Code Can Get",
+      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-06T09:08:06.000Z",
+      "excerpt": "My comment on There's No Limit to How Bad Code Can Get — Lobste.rs. [In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] In my experience it's so rare for that to work. You announce the old thing is irrecoverably drowning in tech debt.",
+      "section": "ai",
+      "rankScore": 0.522887
+    },
+    {
+      "id": "4425eeb9e5c3809f",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "openai",
+      "publishedAt": "2026-09-06T09:00:00.000Z",
+      "excerpt": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "section": "ai",
+      "rankScore": 0.476838
+    },
+    {
+      "id": "d0a2feb9c81480ce",
+      "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+      "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-07T00:59:26.296Z",
+      "excerpt": "搭载美团 LongCat 2.0 的全场景 AI Agent 平台 CatPaw 正式上线，我们将模型能力从“跑得动”推向“用得好”。CatPaw 提供开箱即用的 AI 智能工作台与企业级 Agent 开发托管能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "dfd7067758c5ba27",
+      "title": "AMD想让人人“Token自由”？",
+      "url": "https://www.36kr.com/p/3972462870114823",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-07T00:54:02.000Z",
+      "author": "36氪的朋友们",
+      "excerpt": "“AI PC是个人计算的基础设施，而非云端AI的替代品。” 1月份，苏姿丰在CES展上说要押注AI个人计算，当时AMD拿出的解决方案是128GB的Ryzen AI Halo。 8个月之后，AMD决定为个人计算基础设施的配置进一步加码，正式拿出新一代Gorgon Halo芯片，把统一内存从128GB拉到192GB，允许用户在本地部署3000亿参数模型。 AMD的升级策略直指英伟达，后者针对个人AI计算推出的DGX Spark芯片，统一内存为128GB，本地部署的模型也仅能支持到2000亿参数规模。",
+      "section": "cn-tech",
+      "rankScore": 0.628649
+    },
+    {
+      "id": "ecf21248205c8f75",
+      "title": "美国最大汽车业协会促国会永久禁止中国汽车进入美国市场",
+      "url": "https://www.solidot.org/story?sid=85301",
+      "source": "solidot",
+      "publishedAt": "2026-09-06T15:05:02.000Z",
+      "excerpt": "美国最大的汽车行业协会致函国会参众两院两党领袖，敦促国会在年底前立法，永久禁止中国汽车及相关网联软件和硬件进入美国市场，理由是这些产品威胁美国经济和国家安全。美国汽车创新联盟在信中呼吁国会迅速采取行动。联盟成员包括通用汽车、福特、丰田、大众、现代、本田和斯泰兰蒂斯等主要车企。联盟首席执行官博泽拉称，中国汽车制造商目前正在全球倾销获得补贴并搭载联网软硬件的汽车。这种情况尚未在美国发生，“但鉴于这一威胁的规模和紧迫性，我们敦促国会在今年休会前，通过禁止中国汽车、软件和硬件的法案，使这项政策正式成为美国法律”。",
+      "section": "cn-tech",
+      "rankScore": 0.588376
+    },
+    {
+      "id": "789a658c7f6ac35d",
+      "title": "FlexGanttFX 正式开源",
+      "url": "https://www.infoq.cn/article/BLyA80LXfvGII85FGmw8?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-06T11:24:00.000Z",
+      "author": "作者：Erik Costlow",
+      "section": "cn-tech",
+      "rankScore": 0.473489
+    },
+    {
+      "id": "a4b8fbbe70d58000",
+      "title": "袋鼠数据库工具 v9.8.1 版已上线",
+      "url": "https://www.oschina.net/news/502332",
+      "source": "oschina",
+      "publishedAt": "2026-09-06T02:24:29.000Z",
+      "excerpt": "袋鼠数据库工具 是一款 AI 驱动的热门数据库系统客户端(MariaDB / MongoDB / MySQL / Oracle / PostgreSQL / Redis / SQLite / SQLServer / …) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，致力于打造一款好用、好玩、开发友好的开发者工具。 新特性或修复的缺陷列表 增加云...",
+      "section": "cn-tech",
+      "rankScore": 0.291261
+    }
+  ],
+  "warnings": [
+    "source \"juejin\" failed: Error: HTTP 503",
+    "source \"react-blog\" looks stale: newest item is 195 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
