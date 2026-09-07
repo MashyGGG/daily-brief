@@ -1,0 +1,61 @@
+{
+  "publishDate": "2026-09-07",
+  "lines": {
+    "weekly": {
+      "sources": [
+        {
+          "date": "2026-09-07",
+          "slot": "weekly"
+        }
+      ],
+      "itemCount": 20,
+      "itemIds": [
+        "a9801b051e1906b6",
+        "109d658054868b59",
+        "636e21bc389bb10c",
+        "de70b107a0c900bc",
+        "948004808308934d",
+        "01d0e0329037f799",
+        "d0a2feb9c81480ce",
+        "bd94f97e6b70b1ef",
+        "5a12d0bb8db7026c",
+        "332dded855b98d30",
+        "2e85c7152fe15cdc",
+        "0d8c6cf02066a5c4",
+        "d0db7dd8ad345e4c",
+        "6a3ed91bc8626094",
+        "6e15d9939ba39d43",
+        "ed52b11b9a18d14a",
+        "74d13df246562acd",
+        "c48e4e61ab0ae497",
+        "ab5cc03260362b7a",
+        "375c1bfb97adc82b"
+      ],
+      "contentHash": "6a222e442bda7558",
+      "targets": {
+        "notion-archive": {
+          "platform": "notion",
+          "status": "published",
+          "postId": "3d49696e-9c08-8130-96b9-f08438068630",
+          "url": "https://app.notion.com/p/2026-09-07-3d49696e9c08813096b9f08438068630",
+          "contentHash": "6a222e442bda7558",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-09-07T07:26:32.672Z",
+          "lastError": null
+        },
+        "juejin": {
+          "platform": "juejin",
+          "status": "draft",
+          "postId": "7682599816510275610",
+          "url": "https://juejin.cn/editor/drafts/7682599816510275610",
+          "contentHash": "6a222e442bda7558",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-09-07T07:26:32.672Z",
+          "lastError": null
+        }
+      }
+    }
+  }
+}
