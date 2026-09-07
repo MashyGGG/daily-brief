@@ -1,0 +1,155 @@
+{
+  "date": "2026-09-07",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-07T17:44:00.897Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "4e77ecd56f72eb34",
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-07T13:00:48.000Z",
+      "score": 393,
+      "author": "DanielVZ",
+      "excerpt": "393 points · 164 comments · https://news.ycombinator.com/item?id=49597907",
+      "section": "tech",
+      "rankScore": 0.98119
+    },
+    {
+      "id": "3b5cde68296c160a",
+      "title": "How to Deal With Errors and Failures in LLM-Powered Applications",
+      "url": "https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-07T15:31:35.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Apart from normal processing, the application also sends data to a large language model (LLM). It then uses the model’s response to carry out a task.",
+      "section": "tech",
+      "rankScore": 0.695295
+    },
+    {
+      "id": "cc44a2347518d1ee",
+      "title": "Rust debugging survey 2026 results",
+      "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-07T17:00:42.000Z",
+      "author": "blog.rust-lang.org via ettolrach",
+      "section": "tech",
+      "rankScore": 0.610008
+    },
+    {
+      "id": "4cee8cd81919452b",
+      "title": "Netflix Moves Toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs",
+      "url": "https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-07T14:06:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Netflix is moving toward the open-source Apache Flink Autoscaler for more than 30,000 streaming jobs across multiple AWS regions. The operator-level approach addresses limitations of Netflix’s cluster level autoscaler for complex, stateful pipelines.",
+      "section": "tech",
+      "rankScore": 0.588197
+    },
+    {
+      "id": "bb53c0aa30d0501a",
+      "title": "Six years later, Sony revisits its legendary XM4 headphones",
+      "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+      "source": "verge",
+      "publishedAt": "2026-09-07T16:00:00.000Z",
+      "author": "John.Higgins",
+      "excerpt": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim.",
+      "section": "tech",
+      "rankScore": 0.452661
+    },
+    {
+      "id": "4f4ef23206bf10ca",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-07T11:00:03.000Z",
+      "author": "Petala Ironcloud",
+      "excerpt": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "section": "tech",
+      "rankScore": 0.344987
+    },
+    {
+      "id": "dd9a7a2ec902a567",
+      "title": "下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-07T17:44:00.897Z",
+      "excerpt": "过去一年，我们见证了 Search Agent 能力的显著演进。在 BrowseComp 等评测上，顶尖模型准确率从最初的 30% 区间迅速攀升至 90% 以上。然而，当基准迅速饱和，其区分模型能力的价值也随之递减。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "734b278694b7583b",
+      "title": "Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
+      "url": "https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-07T17:34:00.000Z",
+      "author": "作者： Sergio De Simone",
+      "section": "cn-tech",
+      "rankScore": 0.694864
+    },
+    {
+      "id": "581924f4def6a2cd",
+      "title": "泰国暂停所有数据中心项目建设",
+      "url": "https://www.solidot.org/story?sid=85312",
+      "source": "solidot",
+      "publishedAt": "2026-09-07T14:17:15.000Z",
+      "excerpt": "泰国经济和社会发展委员会上周下令暂停所有数据中心项目的建设，给予数据中心运营商和投资者一周时间提交运营信息，以帮助政府加快制定统一的数据中心监管框架。经济和社会发展委员会考虑将所有用电量超过 2 MW 的数据中心视为工业企业，考虑引入“资源利用费”，以避免数据中心建设产生的间接成本增加公众负担，并建立一套针对未来数据中心建设的评估流程，以确保新建数据中心为泰国创造最大效益。",
+      "section": "cn-tech",
+      "rankScore": 0.653363
+    },
+    {
+      "id": "74508d18be089ea2",
+      "title": "“订阅个API救不了平庸的管理！”黄仁勋直言：AGI就像刚毕业的天才博士，翘二郎腿坐等效率翻倍是做梦",
+      "url": "https://www.36kr.com/p/3973247298515207",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-07T12:56:19.000Z",
+      "author": "CSDN",
+      "excerpt": "在刚结束的 G20 创新部长级会议上，英伟达 CEO 黄仁勋受邀做了一场炉边对话。台下坐着的不是普通科技发烧友，而是来自全球各经济体的产业决策者和官员。面对这群人，老黄没有推销芯片，而是直奔主题： 算力这门生意，到底怎么给一个国家、一家企业算清经济账？ 对话一开始，黄仁勋就点破了一个惯性认知：很多人总习惯把芯片和计算机当成手机、PC 这样的消费硬件，但如今它早已蜕变为 工业基础设施 。现代数据中心的本质其实是一座“炼油厂”——把输入进去的电力能源，加工提纯成全社会可变现的高价值智能。",
+      "section": "cn-tech",
+      "rankScore": 0.497216
+    },
+    {
+      "id": "a861efb1a20585e1",
+      "title": "在 1024 字节里塞进一个 Python 解释器",
+      "url": "https://www.oschina.net/news/502364/python-1024",
+      "source": "oschina",
+      "publishedAt": "2026-09-07T11:40:19.000Z",
+      "excerpt": "为了感受自己还活着，Austin Z. Henley 在周末手写代码。 他的最新挑战：用 1024 字节的 C 代码写一个 Python 解释器。不用宏花招，不用库诡计。 目标很明确——能让这段代码跑起来： def buzz(): for n in range(101): if n % 15 == 0: print(\"FizzBuzz\") else: if...",
+      "section": "cn-tech",
+      "rankScore": 0.462139
+    },
+    {
+      "id": "d009c4b1d29b1b46",
+      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-07T14:36:07.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on.",
+      "section": "security",
+      "rankScore": 0.603642
+    },
+    {
+      "id": "2589bf0561242caf",
+      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "url": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-07T11:45:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and found that risk profiles across providers have…",
+      "section": "security",
+      "rankScore": 0.51589
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 196 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
