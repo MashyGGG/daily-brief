@@ -1,0 +1,229 @@
+{
+  "date": "2026-09-07",
+  "slot": "weekly",
+  "scheduleId": "weekly",
+  "generatedAt": "2026-09-07T04:45:13.866Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 168,
+  "itemCount": 20,
+  "items": [
+    {
+      "id": "a9801b051e1906b6",
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "source": "hn-front",
+      "publishedAt": "2026-08-31T21:10:58.000Z",
+      "score": 505,
+      "author": "twapi",
+      "excerpt": "505 points · 402 comments · https://news.ycombinator.com/item?id=49514878",
+      "section": "tech",
+      "rankScore": 1.156384
+    },
+    {
+      "id": "109d658054868b59",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "source": "hn-front",
+      "publishedAt": "2026-09-05T20:31:38.000Z",
+      "score": 340,
+      "author": "bookmtn",
+      "excerpt": "340 points · 175 comments · https://news.ycombinator.com/item?id=49580369",
+      "section": "tech",
+      "rankScore": 1.140288
+    },
+    {
+      "id": "636e21bc389bb10c",
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "hn-front",
+      "publishedAt": "2026-09-04T18:42:56.000Z",
+      "score": 460,
+      "author": "jlebar",
+      "excerpt": "460 points · 304 comments · https://news.ycombinator.com/item?id=49568506",
+      "section": "tech",
+      "rankScore": 1.12996
+    },
+    {
+      "id": "de70b107a0c900bc",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-03T18:41:05.000Z",
+      "score": 1262,
+      "author": "kibae",
+      "excerpt": "1262 points · 989 comments · https://news.ycombinator.com/item?id=49554643",
+      "section": "tech",
+      "rankScore": 1.128501
+    },
+    {
+      "id": "948004808308934d",
+      "title": "A Note from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-02T13:17:12.000Z",
+      "score": 458,
+      "author": "rwky",
+      "excerpt": "458 points · 95 comments · https://news.ycombinator.com/item?id=49535752",
+      "section": "tech",
+      "rankScore": 1.126987
+    },
+    {
+      "id": "2e85c7152fe15cdc",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-04T23:59:05.000Z",
+      "excerpt": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and…",
+      "section": "ai",
+      "rankScore": 0.82115
+    },
+    {
+      "id": "0d8c6cf02066a5c4",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-01T23:57:28.000Z",
+      "excerpt": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new…",
+      "section": "ai",
+      "rankScore": 0.818993
+    },
+    {
+      "id": "d0db7dd8ad345e4c",
+      "title": "The purpose of DNS is to spread scams",
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-06T14:40:07.000Z",
+      "excerpt": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\". On this Interisle report ( via Andrew Campling ), Terence says:…",
+      "section": "ai",
+      "rankScore": 0.811879
+    },
+    {
+      "id": "6a3ed91bc8626094",
+      "title": "Introducing GPT-6 Astra for developers",
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-05T23:27:48.000Z",
+      "excerpt": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models.",
+      "section": "ai",
+      "rankScore": 0.811296
+    },
+    {
+      "id": "6e15d9939ba39d43",
+      "title": "Python 3.15.0 candidate 2 is here!",
+      "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-01T14:59:18.000Z",
+      "excerpt": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between…",
+      "section": "ai",
+      "rankScore": 0.780332
+    },
+    {
+      "id": "01d0e0329037f799",
+      "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-09-03T23:59:05.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。...",
+      "section": "cn-tech",
+      "rankScore": 0.888789
+    },
+    {
+      "id": "d0a2feb9c81480ce",
+      "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+      "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-07T00:59:26.296Z",
+      "excerpt": "搭载美团 LongCat 2.0 的全场景 AI Agent 平台 CatPaw 正式上线，我们将模型能力从“跑得动”推向“用得好”。CatPaw 提供开箱即用的 AI 智能工作台与企业级 Agent 开发托管能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "bd94f97e6b70b1ef",
+      "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-06T00:53:54.753Z",
+      "excerpt": "美团 LongCat 团队构建了 MineExplorer —— 首个在开放世界中做到分钟级长程任务的评测基准，系统性地评测多模态大模型在需要长程规划、并包含隐藏前置条件的任务中的真实能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "5a12d0bb8db7026c",
+      "title": "直播回放·含 ACL'26 杰出论文 | 美团 AI 顶会论文 32 篇精讲",
+      "url": "https://tech.meituan.com/2026/07/11/2026-meituan-32-papers.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-05T15:09:55.162Z",
+      "excerpt": "如果你正在关注 AI 前沿，这篇内容值得收藏。2026 年，美团技术团队数十篇论文被 ACL、SIGIR、ICML、KDD 等顶会收录。我们精选 32 篇，进行了 5 大专场直播。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-05T00:55:37.951Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "ed52b11b9a18d14a",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "krebs",
+      "publishedAt": "2026-09-01T22:40:28.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada.",
+      "section": "security",
+      "rankScore": 0.727216
+    },
+    {
+      "id": "74d13df246562acd",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-04T15:57:15.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as…",
+      "section": "security",
+      "rankScore": 0.688927
+    },
+    {
+      "id": "c48e4e61ab0ae497",
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-04T15:20:19.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.",
+      "section": "security",
+      "rankScore": 0.669987
+    },
+    {
+      "id": "ab5cc03260362b7a",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-02T14:06:59.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication.",
+      "section": "security",
+      "rankScore": 0.625777
+    },
+    {
+      "id": "375c1bfb97adc82b",
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-01T14:07:20.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices.",
+      "section": "security",
+      "rankScore": 0.623627
+    }
+  ],
+  "warnings": []
+}
