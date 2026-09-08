@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-08",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-08T15:03:54.450Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "d5579aed8e41b449",
+      "title": "朝俄首座跨境公路橋通車 烏克蘭團體擔心加快軍援物流",
+      "url": "https://www.bbc.com/zhongwen/articles/c36ljn4e8k1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-08T13:37:15.000Z",
+      "excerpt": "自俄羅斯入侵烏克蘭以來，莫斯科與平壤的關係明顯加強。",
+      "section": "news",
+      "rankScore": 0.782228
+    },
+    {
+      "id": "e9fd45b103104029",
+      "title": "匈牙利驱逐俄罗斯外交使团10名成员 莫斯科威胁严厉报复",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260908-%E5%8C%88%E7%89%99%E5%88%A9%E9%A9%B1%E9%80%90%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E4%BA%A4%E4%BD%BF%E5%9B%A210%E5%90%8D%E6%88%90%E5%91%98-%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A8%81%E8%83%81%E4%B8%A5%E5%8E%89%E6%8A%A5%E5%A4%8D",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-08T14:59:37.000Z",
+      "author": "古莉",
+      "excerpt": "匈牙利新一届亲欧政府周二宣布驱逐10名俄罗斯外交使团成员，理由是他们从事了“不可接受的活动”。对于这个此前在民族主义者欧尔班（Viktor Orbán）领导下一直奉行亲俄立场的国家而言，这是自2018年以来的首次此类行动。",
+      "section": "news",
+      "rankScore": 0.697616
+    },
+    {
+      "id": "a0e3332a189c4f21",
+      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-08T14:46:16.000Z",
+      "excerpt": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
+      "section": "news",
+      "rankScore": 0.62118
+    },
+    {
+      "id": "77ab8281c7a618b5",
+      "title": "UK bans goods from Israeli West Bank settlements: What that really means",
+      "url": "https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-08T14:52:00.000Z",
+      "excerpt": "Foreign Minister Ed Miliband said the ban represents a 'comprehensive reset' of UK's policy on Israel.",
+      "section": "news",
+      "rankScore": 0.554708
+    },
+    {
+      "id": "1832a0421700ecd3",
+      "title": "UK flights disrupted by technical problem; Bank of England governor warns oil price ‘could be higher’ – business live",
+      "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-08T14:43:31.000Z",
+      "author": "Graeme Wearden",
+      "excerpt": "National Air Traffic Services apologise for technical issue disrupting departutres today, as MPs grill Bank of England Gas prices are rising this morning, putting pressure on European countries who need to stock up their storage levels before the winter.",
+      "section": "news",
+      "rankScore": 0.550937
+    },
+    {
+      "id": "4cdb8f1f94876749",
+      "title": "Rubio to Push Colombia’s New Leader to Tackle Cocaine Trade",
+      "url": "https://www.nytimes.com/2026/09/08/world/americas/rubio-colombia-cocaine.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-08T13:31:46.000Z",
+      "author": "Annie Correal",
+      "excerpt": "Targeting traffickers will be at the top of the agenda as Secretary of State Marco Rubio visits Colombia, according to people familiar with his plans.",
+      "section": "news",
+      "rankScore": 0.519049
+    },
+    {
+      "id": "464ac6f14d9c189f",
+      "title": "The counterfeit cigarettes made inside the EU",
+      "url": "https://www.ft.com/content/a5092cb2-1625-47b8-b0b2-7bafefdd05da?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-08T15:00:30.000Z",
+      "excerpt": "Criminal gangs have switched to home production after crackdowns on cross-border smugglers",
+      "section": "news",
+      "rankScore": 0.488675
+    },
+    {
+      "id": "8b3f95cda0c2abfd",
+      "title": "Near the Border, Americans Fear Losing Ties With Canadians",
+      "url": "https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-08T14:56:09.000Z",
+      "author": "Lauren McGaughy",
+      "excerpt": "Americans in border regions have had symbiotic relationships with Canadians, but the trade war is testing their bonds.",
+      "section": "news",
+      "rankScore": 0.486983
+    },
+    {
+      "id": "a5cc80dcfaa9e608",
+      "title": "伊朗军方称捕获一艘美国无人潜艇",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80dnhhZWxoZDJEUE9CeEU1b003RnhNdDRad1RIRi1XM05PVEtrZlZ1SDZfOG1teXE3V0VITEpaSFdHWnNqRmZhRzh4SG5hMnh0UjFYNGJITDg1OHA5R01za3dB?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-08T14:57:29.000Z",
+      "excerpt": "伊朗军方称捕获一艘美国无人潜艇 news.10jqka.com.cn 美媒：伊朗婚礼遭袭或因美军炸弹“偏离目标” 新华网 伊朗婚礼遭美军空袭致4死90伤，知情人士：可能打偏了 观察者 伊朗议长谴责美国袭击造成大量儿童死亡 bjnews.com.cn 伊朗一婚礼变葬礼，致4死50伤；知情人：美军投6枚炸弹1枚疑似飞偏，击中距目标134米民宅；专家：情况较为罕见 thepaper.cn",
+      "section": "news",
+      "rankScore": 0.417859
+    },
+    {
+      "id": "0c2174c243d1bd7a",
+      "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
+      "source": "npr-news",
+      "publishedAt": "2026-09-08T10:46:03.000Z",
+      "author": "Steve Inskeep",
+      "excerpt": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now.",
+      "section": "news",
+      "rankScore": 0.389722
+    },
+    {
+      "id": "351c38b14dacb6f3",
+      "title": "Tobacco use can undermine fertility, UN health agency warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168290",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "excerpt": "Smoking very likely makes it harder to have a baby, the UN World Health Organization (WHO) warned in a new publication issued on Tuesday, highlighting that women who smoke have a 40 per cent higher risk of infertility compared to non-smokers.",
+      "section": "news",
+      "rankScore": 0.358697
+    },
+    {
+      "id": "4920e4cc5b9bc3e7",
+      "title": "欧洲政治地震：德国极右翼政党州选举胜利预示着什么？",
+      "url": "https://cn.nytimes.com/world/20260908/afd-germany-europe-far-right-saxony-anhalt/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-08T03:45:27.000Z",
+      "author": "MARK LANDLER",
+      "excerpt": "这一结果清楚揭示出欧洲人对民主未来的分歧。明年欧洲各国将相继举行选举，分析人士表示，德国选择党的成功可能预示着极右翼将取得更多胜利，并提供了可资借鉴的范本。 Matthias Schrader/Associated Press 周日投票结束后，德国极右翼政党德国选择党首席候选人乌尔里希·西格蒙德（中）在庆祝。",
+      "section": "news",
+      "rankScore": 0.355387
+    },
+    {
+      "id": "c1e74a6a3dbde980",
+      "title": "江西遂川高坪镇泥石流已致12人遇难 仍有1人失联",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692924.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-08T13:59:20.000Z",
+      "excerpt": "中新网江西遂川9月8日电 (记者 李韵涵 吴鹏泉 刘力鑫)遂川前线救援指挥部8日通报，截至当日18时，遂川县高坪镇明坑村泥石流灾害累计搜寻发现11名遇难者遗体，其中当日搜寻发现7名。",
+      "section": "cn-news",
+      "rankScore": 0.796951
+    },
+    {
+      "id": "aebc0788a96d0f8c",
+      "title": "40个国家和地区代表齐聚连云港 共商国际警察教育合作新路径",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692944.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-08T14:05:51.000Z",
+      "excerpt": "中新网连云港9月8日电 (刘梦青)全球公共安全合作论坛(连云港)2026年大会国际警察教育合作分论坛8日在江苏省连云港市举办，来自40个国家和地区的执法人员、警察院校负责人、专家学者，以及相关国际组织代表等120余人参加。分论坛由中国人民公安大学主办。",
+      "section": "cn-news",
+      "rankScore": 0.73452
+    },
+    {
+      "id": "aad71ec527178073",
+      "title": "（活力中国调研行）无人驾驶拖拉机能在耕地上“绣花”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692961.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-08T14:42:35.000Z",
+      "excerpt": "中新网洛阳9月8日电(卢岩 赵梦阳)当下，无人机乃至无人驾驶汽车正在越来越多地走入普通百姓生活，而无人驾驶拖拉机这种大型专业装备，却依然带着不少神秘色彩。8日，在洛阳国家农机装备创新中心暨洛阳智能农业装备研究院有限公司院内，记者们见到了这头高科技“铁牛”的硬核实力。",
+      "section": "cn-news",
+      "rankScore": 0.619338
+    },
+    {
+      "id": "e0e1cc85c46a7b2e",
+      "title": "纪念｜陈长芬：“艺术，本来就该是生活的赞美诗”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50c2hIbGFOQ1pxX2I4WW9zV1pkbE16ZlJJd0M3eHFWQXBQZjExalpkckgtQmpXdlRoZE5VUC1HZWNrVHpPenQwME9QZV9DQVVXaVpWMzZ5WlZvUFRiUEZ0aQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-08T14:00:00.000Z",
+      "excerpt": "纪念｜陈长芬：“艺术，本来就该是生活的赞美诗”",
+      "section": "cn-news",
+      "rankScore": 0.598046
+    },
+    {
+      "id": "1bb04d1b2f3bf66c",
+      "title": "“耿同学”已落户杭州，获聘为浙传特聘讲师，已有多所高校对其反映的学术不端问题作出处理",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jcW02c1RGRkZwMksyb1JNVjBMdFFuSi1BNTJteHdnUkg5WF9yLTJXNzkwa1R2dTVucmJsTjF0Q1A4RWxSQUdjNUZTY2FscklHVS04UWc4Q2pQb3NROTVqTw?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-08T13:21:21.000Z",
+      "excerpt": "“耿同学”已落户杭州，获聘为浙传特聘讲师，已有多所高校对其反映的学术不端问题作出处理 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.578721
+    },
+    {
+      "id": "afbed69c09c51186",
+      "title": "中國加強教材管理 「習思想」從小學教起",
+      "url": "https://www.cna.com.tw/news/acn/202609080336.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-08T13:58:22.000Z",
+      "excerpt": "（中央社台北8日電）中國正編寫並使用多套以「習近平新時代中國特色社會主義思想」為核心內容的課程教材，供中小學使用。中國國務院副總理丁薛祥今天說，要加強黨對教材工作的全面領導，「牢牢把握正確政治方向和價值導向」。",
+      "section": "cn-news",
+      "rankScore": 0.530871
+    },
+    {
+      "id": "55b350c3d916ce86",
+      "title": "暑期海南离岛免税购物金额38.2亿元",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zbTFJZHpnZ2ZiMldGVFUzX24yZlVUMTMxd2NwTHZNRkFsXzcybUpVNHhBUTU3OWdsbk12YnhmNU5YY21LRmppVXdBWENjejJ0VlowMl9RUQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-08T12:08:51.000Z",
+      "excerpt": "暑期海南离岛免税购物金额38.2亿元 中国一带一路网",
+      "section": "cn-news",
+      "rankScore": 0.482197
+    },
+    {
+      "id": "5f7b23833d145e81",
+      "title": "China’s Xi Jinping urges deeper UK ties in first call with Andy Burnham",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3366819/chinas-xi-jinping-urges-deeper-uk-ties-first-call-andy-burnham?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-08T14:12:21.000Z",
+      "author": "Dewey Sim",
+      "excerpt": "President Xi Jinping on Tuesday called for deeper cooperation between “major technological powers” China and the UK as he held his first official call with Prime Minister Andy Burnham.",
+      "section": "cn-news",
+      "rankScore": 0.46995
+    },
+    {
+      "id": "e665feaca7625f12",
+      "title": "资金涌入，粮食ETF霸榜！超强厄尔尼诺之下，气候主题成新共识？",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5wcndKdHZ4TFFDbTBZTnlaNHJHdkY3aWRtTEZCRTRaN3NIV3V3SG9nN0xBVDBlc0U1RFJucmcxSk91REpjTHc?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-08T13:35:54.000Z",
+      "excerpt": "资金涌入，粮食ETF霸榜！超强厄尔尼诺之下，气候主题成新共识？ 财联社 资金涌入，粮食ETF霸榜 新浪财经 涨超20%！资金追捧能源、农业 同花顺财经 ETF今日收评 | 粮食ETF涨超4%，港股通信息技术ETF跌超3% 凤凰网 李昌金：粮价涨了，希望别只停在K线上 user.guancha.cn",
+      "section": "cn-news",
+      "rankScore": 0.455775
+    },
+    {
+      "id": "1873d8e1bd7a9271",
+      "title": "伊朗：与阿曼磋商荷莫兹航行安排 取得重大进展",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPbEZkZjNlXzdwd3hnT28zRV9QdTdnRTh2c3J4ZVVka3kxNExFQ0YwMmd2bC1MSU10SGFUb1dJUVphS2JmcmpMUXo3a3pLYkcxZU40R3ZjNktvOXQ1MXdodWxfQjYzOWNPcldZbnpKNHV4WG5abzhZVjhycllrMTlFNm9mcVZuQWxBWkliTGNoeFdLLWJEYzU4NDFmbGdxb3hlaTdXbUdCZTVFTjk4X1gyNTREaVpfQVNiWlg2OWd2V2NTSTZwdFZLZm5mN0lfbXowalJHMWp3QV9GcG5pNFdUSXFwUHNlYjhZaDNPWFJOSHNkTGJUWm1jc2t4WGhvbzNPRjVlM3J2dmt1emM5ZjhiNkhKOEpqajhsMEZmcmFHZGNPVVRTOGltQkEtSHNCTVB0YXY0RkNrVlZKMVFUMGFFenlCWDlkVGpTTG1KOUc1NUxwdzhWbm9PcTFjbFZKUEh5U0EycFNQU0sxZw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-08T14:32:09.000Z",
+      "excerpt": "伊朗：与阿曼磋商荷莫兹航行安排 取得重大进展 rfi.fr 伊朗正审议霍尔木兹海峡管理事项 多国就海峡通航表态 新浪财经 霍尔木兹海峡通航量降至5月来最低 新华网 石油收入日渐枯竭令伊朗陷入更深危机 华尔街日报中文网 伊朗拟在霍尔木兹海峡外设禁区，与阿曼协议即将达成 华尔街见闻",
+      "section": "cn-news",
+      "rankScore": 0.409414
+    },
+    {
+      "id": "b1b4c293cc45809d",
+      "title": "申军良盼“梅姨”供述全部拐卖线索 给所有破碎家庭一个交代",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692957.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-08T14:42:55.000Z",
+      "excerpt": "中新网济南9月8日电 (记者 孙婷婷 祁建月)“如果你还知道其他孩子的下落，请你向警方交代清楚。因为，依然还有一些家庭，在苦苦等待自己的孩子，请给这些家庭，这些父母，以及不知道自己人生会发生什么的‘申聪’们一个交代。”“梅姨案”被拐孩子父亲申军良给“梅姨”谢家梅写了一封信，盼望能够唤醒她心底残存的人性，主动交代更多被拐孩子的线索，帮助更多支离破碎的家庭得以团圆。",
+      "section": "cn-life",
+      "rankScore": 0.826006
+    },
+    {
+      "id": "1a7f2b4fe039c8f7",
+      "title": "工商银行宁德分行：台风过境 金融阵地的硬核守护",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02cG1yb0NlNlhXRlBmWGplMWVGZFhfZGl3LVVSMUY2MVo0d0dwdjNQZmxRSUNndVd5YlpQLXh2R01VekVmZE1EU1NpZ1NQSHpCcTRjY2lPTjM3N2ZfTFhmLQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-08T14:08:19.000Z",
+      "excerpt": "工商银行宁德分行：台风过境 金融阵地的硬核守护 东南网",
+      "section": "cn-life",
+      "rankScore": 0.602205
+    },
+    {
+      "id": "6f18f5dfd0d1d72d",
+      "title": "灵活就业人员等重点人群参加基本医保将有哪些新变化",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GRjNzMDFHNFNpSVVOVXJEZlhrUE8xT2p5MXVYVEo0dmRZTUtKeG0tX05Jak5lM0JwRlRkM0hsSTA4bjByTncyNXFENFM1ek5Sa21FRERMSXVvNmJQQkZOTjNXUFRiWGJXVTMyWVZfYw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-08T13:53:00.000Z",
+      "excerpt": "灵活就业人员等重点人群参加基本医保将有哪些新变化 中国经济网",
+      "section": "cn-life",
+      "rankScore": 0.594546
+    },
+    {
+      "id": "9c8310085899d145",
+      "title": "选购面包，无需过于纠结“现烤”",
+      "url": "https://www.chinanews.com.cn/life/2026/09-08/10692632.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-08T08:07:26.000Z",
+      "excerpt": "选购面包，无需过于纠结“现烤”",
+      "section": "cn-life",
+      "rankScore": 0.468625
+    },
+    {
+      "id": "211d02962e03ecff",
+      "title": "【安全生产在行动】市市场监管局开展高校食堂食品安全专项检查",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGM3FuRkRPbkhWbC1xZXFNVW01bTZhSUpLNE1FSWk5QnRJbXVVOTBvYVB3REZnRkg5cDhuNDlzWUUtTHR0ZHlORnR3Nkc2bVFzeWdub04ydVgzUjQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-08T13:51:20.000Z",
+      "excerpt": "【安全生产在行动】市市场监管局开展高校食堂食品安全专项检查 gzastv.cn",
+      "section": "cn-life",
+      "rankScore": 0.461777
+    },
+    {
+      "id": "09d1ac31379ceb5b",
+      "title": "关于湖南省2026年第三批拟入库科技型中小企业名单的公示-政企通",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lWWZIMVlBM0lCSzJYX1ZGamJyenU2dzl6X1ZpRHR0a1dPTGpxREZFRjc4VEMtNUEzTk9Dbnh2Q1Z6YkpoNEx1NVB3OHdPcDJ1UXdoZkdxLXlTYTl3NjhHcXZvRVNQYlBsd2tYVg?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-08T10:27:44.000Z",
+      "excerpt": "关于湖南省2026年第三批拟入库科技型中小企业名单的公示-政企通 湖南省人民政府",
+      "section": "cn-life",
+      "rankScore": 0.437256
+    },
+    {
+      "id": "edb5c958c85e2367",
+      "title": "重症肌无力专家：实现治疗的早期与持续双达标，成为新的难题",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1ZHRuUE9FV2pBSHNkcXdSRXFwMzVEdTNQUWdaWEZjUkN4RUxHMjNCR2puOF9EOEZBSHQwZ0o2bDFMUVNDTXY3YzFQNmIzM0l3dG9lc19aYVQ0dGc3a2xWZQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-08T11:40:00.000Z",
+      "excerpt": "重症肌无力专家：实现治疗的早期与持续双达标，成为新的难题 thepaper.cn “有力人生不将就”重症肌无力医患深度交流会在广州举行 新华网 专家：重症肌无力治疗要实现疗效与安全双达标 新浪财经 多方共话重症肌无力长期管理：让更多患者拥有“不将就”的有力人生- 中国日报网 China Daily 别把“还行”当答案，重症肌无力治疗应追求早期、持续双达标 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.410703
+    },
+    {
+      "id": "9b38f659330377b3",
+      "title": "黄坤明到深圳走访学校并看望慰问教师大力弘扬教育家精神以强师优师筑牢教育强省建设根基",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94YW5wNzZsbHoyMWpfV3hCaDVOLXl3MUt1NHFtMXFsLUs1bnY5dHo0R0Q5VGJVQU0tNmJEYlRfTXNVbENHRTN5VEpLLWF3ME5mOUd1dEVaVmxNeUE2WXdRUlZTX1lzVzhy?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-08T13:48:41.000Z",
+      "excerpt": "黄坤明到深圳走访学校并看望慰问教师大力弘扬教育家精神以强师优师筑牢教育强省建设根基 南粤清风网",
+      "section": "cn-life",
+      "rankScore": 0.394925
+    }
+  ],
+  "warnings": []
+}
