@@ -1,0 +1,198 @@
+{
+  "date": "2026-09-08",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-08T01:10:20.287Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "a216c2e490cfb58c",
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "source": "hn-front",
+      "publishedAt": "2026-09-07T13:35:13.000Z",
+      "score": 375,
+      "author": "tosh",
+      "excerpt": "375 points · 106 comments · https://news.ycombinator.com/item?id=49598291",
+      "section": "tech",
+      "rankScore": 0.853984
+    },
+    {
+      "id": "f05dc253606fcecf",
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-07T03:29:51.000Z",
+      "score": 947,
+      "author": "sonicrocketman",
+      "excerpt": "947 points · 245 comments · https://news.ycombinator.com/item?id=49593563",
+      "section": "tech",
+      "rankScore": 0.765379
+    },
+    {
+      "id": "87c8f0227917f115",
+      "title": "What are you using as a task manager and as a people manager?",
+      "url": "https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as",
+      "source": "lobsters",
+      "publishedAt": "2026-09-08T00:50:16.000Z",
+      "author": "by oceanhaiyang",
+      "excerpt": "What’s your tool or method for your daily and then more open tasks? How do you stay on top of everything at work and at home? A program, pen and paper, just your head like Aristotle? How do you keep up with your work contacts and friends?",
+      "section": "tech",
+      "rankScore": 0.624982
+    },
+    {
+      "id": "347eef3648ad3a51",
+      "title": "dingbo3603-ui/ming-official-atlas",
+      "url": "https://github.com/dingbo3603-ui/ming-official-atlas",
+      "source": "gh-trending-ts",
+      "publishedAt": "2026-09-07T07:12:07.000Z",
+      "score": 79,
+      "author": "dingbo3603-ui",
+      "excerpt": "大明职官图：明代官署、人物履历、年号检索与府州县交互图谱 — ★79 · TypeScript",
+      "section": "tech",
+      "rankScore": 0.550494
+    },
+    {
+      "id": "ea876e8e69c8e048",
+      "title": "Zone Redundancy Comes to API Management Standard v2",
+      "url": "https://www.infoq.com/news/2026/09/apim-standard-v2-zone-redundancy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-07T10:09:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "Microsoft has enabled zone redundancy on the Standard v2 tier of Azure API Management, following its arrival on Premium v2 in December. Standard v2 starts at $700 per month against $2,801 for Premium v2, but carries a 99.95% SLA rather than 99.99%. Zone redundancy can only be configured when…",
+      "section": "tech",
+      "rankScore": 0.449628
+    },
+    {
+      "id": "84f81d0826dae994",
+      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+      "source": "verge",
+      "publishedAt": "2026-09-07T20:03:41.000Z",
+      "author": "Andrew J. Hawkins",
+      "excerpt": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance?",
+      "section": "tech",
+      "rankScore": 0.430373
+    },
+    {
+      "id": "14c78cdae9f92f2c",
+      "title": "llm 0.35",
+      "url": "https://simonwillison.net/2026/Sep/7/llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-07T23:54:54.000Z",
+      "excerpt": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm , gpt-6-astra",
+      "section": "ai",
+      "rankScore": 0.814854
+    },
+    {
+      "id": "21e5bf56e0380823",
+      "title": "Video compressor",
+      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-07T18:29:07.000Z",
+      "excerpt": "Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build of FFMPEG.",
+      "section": "ai",
+      "rankScore": 0.70626
+    },
+    {
+      "id": "1f74782cdd068f32",
+      "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
+      "url": "https://www.latent.space/p/aeo",
+      "source": "latent-space",
+      "publishedAt": "2026-09-07T21:32:37.000Z",
+      "excerpt": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to.",
+      "section": "ai",
+      "rankScore": 0.703474
+    },
+    {
+      "id": "a1398413c3de175a",
+      "title": "Mercator ↔ Equal Earth",
+      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-07T16:24:16.000Z",
+      "excerpt": "Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3. Tags: geospatial , d3 , vibe-coding , gpt-6-astra",
+      "section": "ai",
+      "rankScore": 0.664643
+    },
+    {
+      "id": "0f67fc4cd04355d1",
+      "title": "DeepSeek一口气扩招150人，0个AI研究岗",
+      "url": "https://www.36kr.com/p/3974040294388232",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-08T00:54:01.000Z",
+      "excerpt": "DeepSeek ，一口气扩招150人！ 啥玩意他们总共也就才300-500人规模，这是要搞大动作啊。 而且这150个HC并非AI研究方向，全部集中到两个岗位： 服务端开发工程师、Agent弹性计算研发工程师 ，重点面向2到10年经验的资深后端开发。 负责人崔添翼解释到，规模大了产生复杂度，复杂度又反过来要求扩大规模。 这是……团队人数的Scaling Law？ DeepSeek弹性计算从论文走向大规模工程化 这次的Agent弹性计算研发工程师又分两个方向，平台开发和底层系统。",
+      "section": "cn-tech",
+      "rankScore": 0.62592
+    },
+    {
+      "id": "2511aba0d7cb111d",
+      "title": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+      "url": "https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-07T19:33:00.000Z",
+      "author": "作者：Craig Risi",
+      "section": "cn-tech",
+      "rankScore": 0.606295
+    },
+    {
+      "id": "78291b9b05573a83",
+      "title": "LG 智能电视会在待机状态下扫描家庭网络和记录麦克风音频",
+      "url": "https://www.solidot.org/story?sid=85311",
+      "source": "solidot",
+      "publishedAt": "2026-09-07T14:04:27.000Z",
+      "excerpt": "根据 YouTube 主播 Gamers Nexus、Level1Techs 以及独立安全研究员合作展开的调查，测试了包括 G5 在内的零售 LG OLED 电视机，发现 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。",
+      "section": "cn-tech",
+      "rankScore": 0.566534
+    },
+    {
+      "id": "6924f777137b44ee",
+      "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
+      "url": "https://sspai.com/post/114307",
+      "source": "sspai",
+      "publishedAt": "2026-09-08T00:07:33.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...",
+      "section": "cn-tech",
+      "rankScore": 0.546047
+    },
+    {
+      "id": "a561f71ed16ff7af",
+      "title": "改坏了，在合并前就被拦住——AI 回归门禁实战（E04）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1VVRCSng5VG9Vc0UwYkV3SGp4LWRPV054SjdSVWM3QmFqNTZzUndHTXVaVWdXOUN0ZmVJbDV2cVRpNUNXeEZ0RFpLcmx2VnVkYVRjMw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-08T00:51:22.000Z",
+      "excerpt": "改坏了，在合并前就被拦住——AI 回归门禁实战（E04） 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.486311
+    },
+    {
+      "id": "de380fbb3dfacb7b",
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-07T18:12:09.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.",
+      "section": "security",
+      "rankScore": 0.583837
+    },
+    {
+      "id": "02d3702fb2dd34b0",
+      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+      "url": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-07T11:36:39.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems.",
+      "section": "security",
+      "rankScore": 0.473976
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 196 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
