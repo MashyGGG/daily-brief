@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-08",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-08T01:22:01.902Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "6b7613580da1dc32",
+      "title": "偏頭痛女性比男性慘痛太多 這裏舒緩有方",
+      "url": "https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-08T00:17:44.000Z",
+      "excerpt": "荷爾蒙、睡眠不足和壓力，都能解釋為何女性更容易受到這種令人衰弱的神經系統疾病所困擾。",
+      "section": "news",
+      "rankScore": 0.818567
+    },
+    {
+      "id": "1ed69fee958dc86e",
+      "title": "悲观、沮丧与黑色幽默：中国社交媒体上的“负能量”",
+      "url": "https://cn.nytimes.com/china/20260908/china-social-media-pessimism/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-08T00:09:23.000Z",
+      "author": "袁莉",
+      "excerpt": "中共一直试图让“正能量”成为互联网的主导情绪，但如今社交媒体上充斥着悲观的贴文。人们用反讽和嘲弄来表达自己的痛苦与不满，有时甚至会触及禁忌领域。 Dongyan Xu",
+      "section": "news",
+      "rankScore": 0.747802
+    },
+    {
+      "id": "ce8dd39f1e15a687",
+      "title": "尼日尔:未遂兵变后军内清洗持续",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260907-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%B0%BC%E6%97%A5%E5%B0%94-%E6%9C%AA%E9%81%82%E5%85%B5%E5%8F%98%E5%90%8E%E5%86%9B%E5%86%85%E6%B8%85%E6%B4%97%E6%8C%81%E7%BB%AD",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-07T23:22:47.000Z",
+      "author": "尼古拉",
+      "excerpt": "在非洲内陆国尼日尔（le Niger）,08月29日星期六的未遂兵变过去十天后，针对军方人员及同谋嫌疑人的逮捕行动仍在继续之中。这是本台法广非洲组（RFI Afrique）于2026年09月07星期一刊出的法文消息话题之一。据地区安全消息渠道透露，被捕者人数众多。尼日尔的中文国名也有译作[尼日共和国](Republic of Niger)。",
+      "section": "news",
+      "rankScore": 0.666875
+    },
+    {
+      "id": "b722ecd90fa80c91",
+      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-08T01:07:47.000Z",
+      "excerpt": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+      "section": "news",
+      "rankScore": 0.626438
+    },
+    {
+      "id": "f94d8509df222aa4",
+      "title": "Australia politics live: Hastie attacks One Nation bid to unseat him, calling ‘time on cowards’ and rejecting ‘slander’ for Ben Roberts-Smith evidence",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-08T01:12:54.000Z",
+      "author": "Krishani Dhanji",
+      "excerpt": "Follow the day’s news live One Nation policy will leave people $25k worse off at retirement, Mulino says Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage.",
+      "section": "news",
+      "rankScore": 0.557971
+    },
+    {
+      "id": "e574150560e213fd",
+      "title": "‘Flamingo Revolution’ enters 100th day against Kushner-linked resort",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/flamingo-revolution-enters-100th-day-against-kushner-linked-resort?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-08T00:59:23.000Z",
+      "excerpt": "Albania’s Flamingo Revolution marks 100 days of protests over a luxury resort project backed by Jared Kushner.",
+      "section": "news",
+      "rankScore": 0.554967
+    },
+    {
+      "id": "7ae4ae1e01b67889",
+      "title": "After 9/11, Documents Suggest New Yorkers Were Misled About Air Quality",
+      "url": "https://www.nytimes.com/2026/09/07/nyregion/sept-11-air-quality-cancer.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-08T00:30:08.000Z",
+      "author": "Sally Goldenberg and Nina Agrawal",
+      "excerpt": "New York City officials are making public more than 170,000 pages of documents related to the air quality around the World Trade Center site in the months after the Sept. 11 attacks.",
+      "section": "news",
+      "rankScore": 0.479909
+    },
+    {
+      "id": "4bbea87cc44b7063",
+      "title": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before",
+      "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-07T18:35:45.000Z",
+      "author": "Jim Tankersley",
+      "excerpt": "A blowout win by the far-right Alternative for Germany party in a state election has revealed a split among voters about whether to uphold a decades-old strategy for sidelining extremists.",
+      "section": "news",
+      "rankScore": 0.469715
+    },
+    {
+      "id": "5a0b3748ac9e65b5",
+      "title": "British voters oppose welfare cuts for disabled people, survey finds",
+      "url": "https://www.ft.com/content/1a0d5293-d764-4e2f-82c4-10fdb15e0a70?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-07T23:01:05.000Z",
+      "excerpt": "Only 7% favour lower government spending on those who cannot work",
+      "section": "news",
+      "rankScore": 0.462593
+    },
+    {
+      "id": "9f4e57be7ae755c8",
+      "title": "伊朗警告勿当美国“帮凶” 韩国对是否派兵转谨慎",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQzBJS3BqYU5BMmFIa3dOWGJqUmVBTGM0MFY5VkNZZVlDVm1MeU5uWkdwY183WW40UmZSUHR0YzFVcTU1NDdSenlmR0xBNG9WUUloSklTenpBNzdHUlZrM1RXTW40QjIyOHIzNktCaXlBclVmaE1GRnJ4VVFBdm5XRmpFYld5Qmk5eHdXQmc3VGpvNDhpVDJZSERR?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-08T01:10:39.000Z",
+      "excerpt": "伊朗警告勿当美国“帮凶” 韩国对是否派兵转谨慎 新华网客户端 伊朗警告韩国勿当美国“帮凶”|韩国政府|霍尔木兹海峡|国家安全|外交部|新华社_手机新浪网 finance.sina.cn 伊朗警告韩国勿介入霍尔木兹海峡 首尔宣布放缓派兵筹备 RFI 伊朗警告韩国 观察者 伊朗警告递到青瓦台，给李在明提前打预防针，胆敢出兵中东后果自负，美方施压架在火上烤他根本进退两难！ Sohu",
+      "section": "news",
+      "rankScore": 0.418103
+    },
+    {
+      "id": "cf4c69cfab06549e",
+      "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+      "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+      "source": "npr-news",
+      "publishedAt": "2026-09-07T11:11:51.000Z",
+      "author": "Brittney Melton",
+      "excerpt": "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany's far-right AfD party achieves an electoral victory in a key state election.",
+      "section": "news",
+      "rankScore": 0.324687
+    },
+    {
+      "id": "d21a16b2941bb72c",
+      "title": "AI: Türk urges action before it becomes an ‘existential risk to humanity’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168288",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-07T12:00:00.000Z",
+      "excerpt": "UN human rights chief Volker Türk added his voice on Monday to growing calls for greater AI controls, warning that the revolutionary technology could become an “existential risk to humanity” if left unchecked.",
+      "section": "news",
+      "rankScore": 0.286328
+    },
+    {
+      "id": "348c57599d79f858",
+      "title": "手足口病进入高发期 孩子出现这些症状家长别忽视",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-08/10692342.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-08T01:11:42.000Z",
+      "excerpt": "夏秋换季是儿童传染病高发时段，手足口病更是困扰家长和幼儿园、中小学的常见问题。很多家长误以为手足口病只是“手脚长小疹子”的轻微小病，无需过度重视，实则该病由肠道病毒感染引发，传染性极强、传播途径多样，低龄儿童普遍易感，少数重症病例还可能引发并发症，危及孩子健康安全。",
+      "section": "cn-news",
+      "rankScore": 0.836556
+    },
+    {
+      "id": "72d71662f84a1c0a",
+      "title": "“为什么越来越多的外国人要去中国看看？”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692327.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-08T00:31:17.000Z",
+      "excerpt": "“为什么越来越多的外国人要去中国看看？”(外国网友趣问中国#9323;)",
+      "section": "cn-news",
+      "rankScore": 0.754494
+    },
+    {
+      "id": "3a353202fc4dc38c",
+      "title": "告别回款难！汽车行业“账期新规”落地 破解产业链资金难题",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692338.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-08T01:06:20.000Z",
+      "excerpt": "在汽车行业，不少中小供应商都吃过账款拖欠的苦头。整车产品实现销售，上游零部件企业的货款却迟迟无法回笼，大量流动资金被长期占用，不少企业现金流承压举步维艰。这一产业链上的突出堵点，一定程度上也制约着产业链整体效能的释放。工业和信息化部、市场监管总局近日联合发布《关于推动汽车企业规范供应商账款支付 优化账期管理的通知》，明确进一步规范汽车企业供应商账款支付、零件验收等行为，缩短账期。这份被称作汽车行业“账期新规”的文件，划出了怎样的硬性约束？又能否破解链条顽疾，让汽车产业链各个环节运转更加通畅？",
+      "section": "cn-news",
+      "rankScore": 0.626075
+    },
+    {
+      "id": "9cfaf472c4f50796",
+      "title": "大学堂｜盛宣怀与北洋大学堂的创办",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IZjgzMENOM2otWjdRc1gtQ0tKSG94LVFnMWpKWmV4THo2d3RmR1RwYTZXb1V2VnBpRF9Ebmc0Y2poQmZTZ0ltLWVETDFWRkhjeEVGRHdycmRfdkFMZ2RSTw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-07T23:54:00.000Z",
+      "excerpt": "大学堂｜盛宣怀与北洋大学堂的创办",
+      "section": "cn-news",
+      "rankScore": 0.607992
+    },
+    {
+      "id": "ca9d384fee4f8070",
+      "title": "女篮世界杯小组赛：中国队战胜意大利队",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBdmZLUTUtUkRvMGxjVU9kaVUwN3RvZlpyc1dLbGpNR3k2TFlXVVFVckdSOUhjMFRfQk83VlFxbVpoRGdxRUJqdS1hRGlvcnpSTXZGTzN3R04?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-07T23:29:46.000Z",
+      "excerpt": "女篮世界杯小组赛：中国队战胜意大利队 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.601934
+    },
+    {
+      "id": "9a7e1edb44fd7af9",
+      "title": "赓续伟大长征精神 涵养新时代正确政绩观 - 人民网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sVEhocExrWmkxbWdwR2tscEdhWEpTSFIya3htdkt3d19oR3NxaUt4V0JQUUQza09TVUYwcFBDcjgyU2xJbzFtbzZ5dVJ3Q2NqZVJ5aUtYTlRsRzNGdk04aURtWElHNUNvenpRVzRn?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-08T00:47:00.000Z",
+      "excerpt": "赓续伟大长征精神 涵养新时代正确政绩观 人民网-理论频道 【青春华章·长征路上山河新】在红色热土上读懂“再出发” 光明网 外国友人同走长征路：长征精神引发跨国界共鸣 中国日报网 （长征胜利90周年）四川金川“老街”：一条石板路，从迎红军到迎游客 finance.sina.cn 弘扬长征精神 走好新时代长征路 新京报",
+      "section": "cn-news",
+      "rankScore": 0.552215
+    },
+    {
+      "id": "f5e1ce5a1f41dbaf",
+      "title": "日元兑美元升值至153日元区间，半年来新高",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTjA4eEJqT01CREtlSmtjVmNieEJWd0k3cWNwdDdFcHBPc3lYWmJOM2xteVloeWVKNWdTVlZwWS1NWktjQnZlbmdhQ0ROOXJNajNRS2lOQTBoWmVneEVHdHd4b3FQVnRtT0JJT1pmaWNpSVNsOXVleEtQZXZMdmtVUGZUMWZtQzA?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-08T01:06:00.000Z",
+      "excerpt": "日元兑美元升值至153日元区间，半年来新高 日经中文网 日元创6个月新高，日本外汇储备消耗刷新历史纪录 凤凰网财经 日元周二一度上涨0......._7x24快讯_新浪财经 cj.sina.cn 日元对美元升值超1%，创2月以来最高 thepaper.cn 154.06！日元升至2月来最高，超越日美联合干预峰值 华尔街见闻",
+      "section": "cn-news",
+      "rankScore": 0.486883
+    },
+    {
+      "id": "cb2a4eefe45ebb25",
+      "title": "Should Chinese schools demote English as a core subject?",
+      "url": "https://www.scmp.com/news/china/politics/article/3366668/should-chinese-schools-demote-english-core-subject-discuss?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-08T01:00:12.000Z",
+      "author": "Meredith Chen",
+      "excerpt": "Calls to reduce English’s status as a core subject in China’s education system have resurfaced after an internet-famous maths teacher urged the country to end “worshipping foreign things”. The controversy has revived a long-running debate over the role of English in Chinese schools.",
+      "section": "cn-news",
+      "rankScore": 0.485755
+    },
+    {
+      "id": "5c8a88b675f7b03d",
+      "title": "长情为王，破局制胜——2026年电影暑期档综述",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rbkNDX2tnNy1qTDJzTm1SZXk5Ul8yV0JIdlBCVV8xUV9LRlR2OFFQbkxWRzhWOE4tRXlfNWZsX3AxU3lubERVR3Fmc2tuNXQ0NTR3VjRwcjRtSk5odHc?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-07T23:36:15.000Z",
+      "excerpt": "长情为王，破局制胜——2026年电影暑期档综述 京报网 银幕内外热力涌动 finance.sina.cn 长情为王，破局制胜 Sohu 暑期档，怎么成了“撤退档” 新京报 一周票房丨告别“日进亿金”，影市迎来“开学综合症” 上观新闻",
+      "section": "cn-news",
+      "rankScore": 0.40237
+    },
+    {
+      "id": "095f69047c1d4f24",
+      "title": "東華三院黃笏南中學有學生涉偷拍被捕 校方：警方調查完成後會向家長學生交代",
+      "url": "https://hk.news.yahoo.com/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E9%BB%83%E7%AC%8F%E5%8D%97%E4%B8%AD%E5%AD%B8%E6%9C%89%E5%AD%B8%E7%94%9F%E6%B6%89%E5%81%B7%E6%8B%8D%E8%A2%AB%E6%8D%95-%E6%A0%A1%E6%96%B9-%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5%E5%AE%8C%E6%88%90%E5%BE%8C%E6%9C%83%E5%90%91%E5%AE%B6%E9%95%B7%E5%AD%B8%E7%94%9F%E4%BA%A4%E4%BB%A3-010323446.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-09-07T17:03:23.000Z",
+      "excerpt": "【Now新聞台】東華三院黃笏南中學有學生涉嫌偷拍裙底被捕，教育局稱已接獲學校通報，並知悉學校啟動危機處理小組跟進。 警方四月底接獲報案，經調查後以涉嫌非法拍攝或觀察私密部位拘捕一名17歲男童，他獲准保釋候查。黃笏南中學回覆查詢表示，會全力配合警方調查，並為學生提供適切輔導支援，待調查完成後，會向家長及師生交代。有學生則表示擔心，期望校方盡快交代。東華三院黃笏南中學學生：「學校沒有公開向同學交代，所以都是會有些擔心，以及很多受害者都是在不知情情況下被偷拍，學校都應該要嚴厲處理。」東華三院黃笏南中學學生：「我不需要因為該位男同學的錯，而令我自己的行為需要有各種擔憂。",
+      "section": "cn-news",
+      "rankScore": 0.393041
+    },
+    {
+      "id": "c7e4cec6e1435ba8",
+      "title": "内蒙古阿拉善左旗两车相撞 造成5人死亡",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692344.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-08T01:15:16.000Z",
+      "excerpt": "记者8日从内蒙古自治区阿拉善盟阿拉善左旗有关部门获悉，9月7日19时左右，阿拉善左旗一场区内一上坡测试卡车因制动失控溜车，与跟车收集数据的商务车相撞。截至7日23时左右，事故造成商务车内5人死亡。目前，当地已启动善后处置工作，事故详细原因正在调查中。",
+      "section": "cn-life",
+      "rankScore": 0.837745
+    },
+    {
+      "id": "b9a538cf05cfe498",
+      "title": "打造1000个“家门口”就业服务站",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdHFEMUlsbzVidHdfLXBZQ2ZSSXVqdUJjQW5ncS1XOFFIWEl3bXFMazBkQkNFQzN6R3VJNUdaNVRWMGMwcTNqeG10LU0zdjBncXNVRm5lMExKcnV5aXItREFHQUthWnpkRk4ySDhDVnRDSHE5R1ZYdzI5TTJSaWpOTEJYRWdSbDJITzVlVi1kVi1Na011RDE5eg?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-08T01:20:51.000Z",
+      "excerpt": "打造1000个“家门口”就业服务站 finance.sina.cn",
+      "section": "cn-life",
+      "rankScore": 0.629705
+    },
+    {
+      "id": "2f8f2578400d586e",
+      "title": "安全科普丨工厂企业消防安全必知→",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeEh3WF9ncXpVMDdqYmo0a0RtNlNzYXNLS0pHQkVjWnlNSkxDT0ZGVW5JaGlha0VPRWxVdHZLN1NiUDdOU2xsdVE4ZGhZUUJTckp5UXdwV2V1M0tyQnhNYmNUUUl6RkMtSk5vUm9URjVMNUN3Wmt3T0lkeWJxaFl5akdWY3gySi1pN0YwbmxxRkg4T21acHloYg?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-08T01:07:51.000Z",
+      "excerpt": "安全科普丨工厂企业消防安全必知→ finance.sina.cn",
+      "section": "cn-life",
+      "rankScore": 0.626455
+    },
+    {
+      "id": "c782803a0d9d297e",
+      "title": "全县卫生健康系统医养健康工作调度会召开",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1ZoZnpwQUctLW42amptX01jVXhnRXc2Q205Sldpd25rdy10UVpyZHRZN2ZRQlhfUGtJNldqR2Q1WWZqRGp4bDlCZHd6NEkxWnVqeXN0Y2hpZlZCZEtuaWI5MW9IMzlONG54NXRHcXVQTm5ZRWV2Rk1Od2FjUjVtRnkwSWpaSmFFYmY3Vm9sdkZDeWc?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-08T00:49:00.000Z",
+      "excerpt": "全县卫生健康系统医养健康工作调度会召开 shanghe.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.55266
+    },
+    {
+      "id": "6922a87c64c0f2b1",
+      "title": "8月，燃油泵模块故障又被多位车主吐槽",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XVC1Od2QzcTJScE9xOFNyMU10bjdiZ3J1Y0ZielpDaWc2eGUya1dyR0RwaUN0R2NiM2otT1lFWnN5bnRqNVNraFlqczlycXdMbnBGUHJxRDBQZk00SlYwS1BnbENlb3ZjbTZaVXlR?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-08T01:00:40.000Z",
+      "excerpt": "8月，燃油泵模块故障又被多位车主吐槽 新浪汽车",
+      "section": "cn-life",
+      "rankScore": 0.485846
+    },
+    {
+      "id": "5d58b1ba7b239d50",
+      "title": "肠源性高草酸尿在SAMP1/YitFc自发性回肠炎小鼠模型中的决定因素",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50VmRpd1lQX0dlZ0JrdUk4eVVCVU1wYVNJbzYxV19yOXotbU9iVjBxRmpCYlJwZHRwcm12VzBFUTJXcFdlMW1BVWlWTHcyaGtnX2FnQWJtWEd0Y2s4RXhuc3V4QVpNZWRLbzJlSg?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-08T00:32:00.000Z",
+      "excerpt": "肠源性高草酸尿在SAMP1/YitFc自发性回肠炎小鼠模型中的决定因素 生物通",
+      "section": "cn-life",
+      "rankScore": 0.480272
+    },
+    {
+      "id": "306c8dab106f364e",
+      "title": "昆明成考报考条件有哪些难度解析",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RRzZ3VG5aanA5VEY4WW91eU1fbk9mcHBfV3RTWktZa1QxR0pSU0YtbExPdkItdldjUHhVaFFvRV9zVjJXdnl3bkRPSy1JQkJGSkZBczB3ZzRuUmRZeUpZbmln?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-08T01:16:04.000Z",
+      "excerpt": "昆明成考报考条件有哪些难度解析 教育在线",
+      "section": "cn-life",
+      "rankScore": 0.419006
+    },
+    {
+      "id": "bad1c7846d5374a2",
+      "title": "白露时节如何科学养生？民谚里早有答案",
+      "url": "https://www.chinanews.com.cn/life/2026/09-07/10691978.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-07T08:10:00.000Z",
+      "excerpt": "古人以四时配五行，秋属金，金色白，故以白形容秋露，称之为白露。民间流传着“白露秋风夜，一夜冷一夜”“白露的花，有一搭无一搭”“白露身不露，寒露脚不露”“白露采白露，煮茶润秋腑”等众多民谚。透过这些谚语，我们一起来解读白露的露珠中隐藏的科学密码与生活智慧。",
+      "section": "cn-life",
+      "rankScore": 0.413325
+    }
+  ],
+  "warnings": []
+}
