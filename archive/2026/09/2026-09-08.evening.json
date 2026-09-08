@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-08",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-08T16:35:40.316Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "a8b0cd3dc9773046",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-08T14:05:57.000Z",
+      "score": 514,
+      "author": "rpgbr",
+      "excerpt": "514 points · 157 comments · https://news.ycombinator.com/item?id=49610538",
+      "section": "tech",
+      "rankScore": 1.070185
+    },
+    {
+      "id": "44edb746aaa34dcc",
+      "title": "Fragments: September 8",
+      "url": "https://martinfowler.com/fragments/2026-09-08.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-09-08T15:22:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them: . This explains why the first major AI products appeared in chat, image generation, and code assistance.",
+      "section": "tech",
+      "rankScore": 0.794663
+    },
+    {
+      "id": "ac38b8a1565cf83d",
+      "title": "What is happening with code reviews?",
+      "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-09-08T16:32:01.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "AI generates more code than devs can track in 2026, so will the code review process have to adapt – or is it doomed? A look into this decades-old practice and the approaches that could replace it",
+      "section": "tech",
+      "rankScore": 0.767938
+    },
+    {
+      "id": "8f839bc10e9efb38",
+      "title": "The Depths of JavaScript: Minesweeper in 247 Bytes",
+      "url": "https://yui.dev/blog/minesweeper-in-247-bytes",
+      "source": "lobsters",
+      "publishedAt": "2026-09-08T14:33:25.000Z",
+      "author": "yui.dev via rrampage",
+      "section": "tech",
+      "rankScore": 0.573574
+    },
+    {
+      "id": "75868871dc87c7c4",
+      "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "source": "cloudflare",
+      "publishedAt": "2026-09-08T13:10:00.000Z",
+      "excerpt": "Automatic Key Exchange probes TLS 1.3-capable customer origins to learn which key agreement algorithms they support. We then lead with the most secure algorithm when connecting to the origin, preferring post-quantum connections wherever the origin supports it.",
+      "section": "tech",
+      "rankScore": 0.535074
+    },
+    {
+      "id": "837ae7ab67d61a97",
+      "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
+      "url": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
+      "source": "verge",
+      "publishedAt": "2026-09-08T16:06:56.000Z",
+      "author": "Andrew J. Hawkins",
+      "excerpt": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought.",
+      "section": "tech",
+      "rankScore": 0.479684
+    },
+    {
+      "id": "29d92f60178d31ab",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "openai",
+      "publishedAt": "2026-09-08T13:00:00.000Z",
+      "excerpt": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "section": "ai",
+      "rankScore": 0.648339
+    },
+    {
+      "id": "d0197291b814f363",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "huggingface",
+      "publishedAt": "2026-09-08T14:23:07.000Z",
+      "section": "ai",
+      "rankScore": 0.568821
+    },
+    {
+      "id": "f04298f2a685ff46",
+      "title": "Brave 声称其比竞争对手使用的系统资源更少页面加载速度更快",
+      "url": "https://www.solidot.org/story?sid=85324",
+      "source": "solidot",
+      "publishedAt": "2026-09-08T15:39:28.000Z",
+      "excerpt": "基于 Chromium 的浏览器 Brave 公布了一份测试结果，称其桌面版比竞争对手 Chrome、Microsoft Edge 和 Firefox 占用更少的系统资源，页面加载速度更快。测试使用的 Firefox 不是最新版本 v155，而是旧版本 v146.0.1。结果显示，Brave 的平均 CPU 占用率为 33%，Chrome 为 47%，Edge 为 53%，Firefox 为 78%；Brave 使用了约 1.2 GB 内存，而 Chrome 为 1.75 GB，Edge 为 1.62 GB，Firefox 为 1.65 GB；Brave 完成网页加载约需要 4.4…",
+      "section": "cn-tech",
+      "rankScore": 0.738294
+    },
+    {
+      "id": "0f187fd3aa1184c3",
+      "title": "Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+      "url": "https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-08T16:31:12.000Z",
+      "author": "蔡芳芳",
+      "section": "cn-tech",
+      "rankScore": 0.697707
+    },
+    {
+      "id": "f31a8fc32489426d",
+      "title": "一杯咖啡，AI+具身智能的新落点",
+      "url": "https://www.36kr.com/p/3974703494557959",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-08T13:41:52.000Z",
+      "author": "碧根果",
+      "excerpt": "8月16日，北京银河SOHO，一家新开业的咖啡店门口，不少人排队。 店里没有吧台，也看不到咖啡师。一杯饮品做好后，由具身机器人抓取并送入取餐柜。人们拿到饮品后隔着玻璃举着手机，拍机器工作。 这家店叫七鲜咖啡，24小时营业。 开业当天，它在一小时内完成202杯咖啡的供应，成功挑战“一小时内机器人咖啡店供应最多杯咖啡”的吉尼斯世界纪录。 很快，围观从北京延伸到海外。美国CBS、澳大利亚7NEWS等媒体报道了这家无人店，关注点大致相似：30秒内制作一杯饮品、24小时营业，以及机器人如何把咖啡送到消费者手里。具身机器人只是这家店最容易被看见的部分。",
+      "section": "cn-tech",
+      "rankScore": 0.549782
+    },
+    {
+      "id": "5732de662d18303d",
+      "title": "开源不止代码，2026北京开源创新赛AIGC赛道全民可参与",
+      "url": "https://www.oschina.net/news/502384",
+      "source": "oschina",
+      "publishedAt": "2026-09-08T09:56:56.000Z",
+      "excerpt": "过去，开源的定义很清晰，交出源代码，让所有人查看、修改、分发。如今，越来越多的开发者把精力从“写代码”转向“怎么让 AI 写出好代码”。他们调试提示词，打磨工作流，把与 AI 协作的一整套方法整理成文档，公开分享。分享的东西变了，开源的内核没变，把创造的过程分享出来，让后来的人少走弯路。 这正是 2026 北京...",
+      "section": "cn-tech",
+      "rankScore": 0.445967
+    },
+    {
+      "id": "82f94387a3749b4a",
+      "title": "一文搞懂 Text2SQL： 用大模型让自然语言直接查数据库",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vWFVoeGkweXFpSnZfMkQzeFEybmRHQ09oM3Boc2R6dlRiakNwbExyS0g4MVBpbGJxVFVHT2RLQktkLXJ0RGhmSzlla3I2VVlUWU5ZMA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-08T13:48:39.000Z",
+      "excerpt": "一文搞懂 Text2SQL： 用大模型让自然语言直接查数据库 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.430043
+    },
+    {
+      "id": "eb5e7c6d35389aee",
+      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+      "url": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-08T14:54:30.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sidechain that holds real bitcoin to back a token called L-BTC.",
+      "section": "security",
+      "rankScore": 0.648117
+    },
+    {
+      "id": "a7f02dcb587891cd",
+      "title": "CareCam Pro IP Cameras",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-251-01",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take full control of the device. The following versions of CareCam Pro IP Cameras are affected: ANJIA AJL33PC0801 Firmware linux_linux_202008261138_svn13796_/_Bootloader_U-Boot_2010.06_compiled_2020-08-26…",
+      "section": "security",
+      "rankScore": 0.55863
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 197 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
