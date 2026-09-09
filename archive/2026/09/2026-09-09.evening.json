@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-09",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-09T16:35:29.289Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "3fb10f028cc00fd4",
+      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "url": "https://opusfived.dev/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-09T09:39:46.000Z",
+      "score": 605,
+      "author": "matthieu_bl",
+      "excerpt": "605 points · 231 comments · https://news.ycombinator.com/item?id=49623754",
+      "section": "tech",
+      "rankScore": 0.944852
+    },
+    {
+      "id": "ae047741aa144211",
+      "title": "Social Media Engagement: summer 2026",
+      "url": "https://martinfowler.com/articles/2026-social-traffic.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-09-09T16:21:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "A quick survey of recent engagement of my posts on social media, indicating which service has by far the most engagement, and which service has seen a precipitous decline since early 2025.",
+      "section": "tech",
+      "rankScore": 0.831084
+    },
+    {
+      "id": "55d184ab9fb4bbda",
+      "title": "Building Codex with Tibo Sottiaux",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-09-09T15:57:24.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "OpenAI’s Tibo Sottiaux shares how Codex was built and how it’s reshaping software development.",
+      "section": "tech",
+      "rankScore": 0.748514
+    },
+    {
+      "id": "a4f76aee8dcce2fb",
+      "title": "How Smart Model Routing Can Cut LLM Costs by 10X",
+      "url": "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-09T15:30:26.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Cost reduction isn’t a given. It also depends on the types of requests the application receives, the price difference between models, and how well the routing system performs. In this article, we are going to look at various aspects",
+      "section": "tech",
+      "rankScore": 0.733302
+    },
+    {
+      "id": "7fb53736d094151b",
+      "title": "Every Millisecond Counts",
+      "url": "https://jordivillar.com/blog/every-millisecond-counts",
+      "source": "lobsters",
+      "publishedAt": "2026-09-09T16:06:05.000Z",
+      "author": "jordivillar.com by jordi",
+      "section": "tech",
+      "rankScore": 0.616429
+    },
+    {
+      "id": "be17b46aec1870eb",
+      "title": "Remediate Code Quality findings with agentic autofix",
+      "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-09T12:21:01.000Z",
+      "author": "Allison",
+      "excerpt": "Agentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the…",
+      "section": "tech",
+      "rankScore": 0.569502
+    },
+    {
+      "id": "59cf78fa4765f0ac",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "author": "Denise Ho",
+      "excerpt": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "section": "ai",
+      "rankScore": 0.681801
+    },
+    {
+      "id": "a71bb558651755d7",
+      "title": "Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "author": "Michael Chang",
+      "excerpt": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "section": "ai",
+      "rankScore": 0.681801
+    },
+    {
+      "id": "b6435afb48d02a76",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "huggingface",
+      "publishedAt": "2026-09-09T15:36:24.000Z",
+      "section": "ai",
+      "rankScore": 0.602729
+    },
+    {
+      "id": "34f4aaa39336cdc9",
+      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+      "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "source": "latent-space",
+      "publishedAt": "2026-09-09T05:04:51.000Z",
+      "excerpt": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
+      "section": "ai",
+      "rankScore": 0.380409
+    },
+    {
+      "id": "d427ea60bcac24a6",
+      "title": "Google 将“降级”欧洲搜索服务",
+      "url": "https://www.solidot.org/story?sid=85332",
+      "source": "solidot",
+      "publishedAt": "2026-09-09T16:17:25.000Z",
+      "excerpt": "为遵守欧洲的数字市场法律《Digital Markets Act（DMA）》，Google 宣布将调整欧洲的搜索服务，提升 Expedia 和 Hotels.com 等竞争对手比价服务的权重，移除酒店、航空公司和餐厅搜索结果中的部分实时信息功能。Google 高级副总裁 Nick Fox 表示，“这些改变降低（degrade）了欧洲用户的体验——以牺牲本地企业为代价提升了在线中介平台的地位，移除了用户每天依赖的实用功能。”DMA 禁止科技巨头在排名中给予自家服务高于第三方服务的待遇。搜索排名仍然由 Google 的算法决定，这意味着搜索巨人在搜索结果的展示方式上仍掌握着很大程度的控制权。",
+      "section": "cn-tech",
+      "rankScore": 0.759806
+    },
+    {
+      "id": "1e51c188b7c4c1b7",
+      "title": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
+      "url": "https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-09T16:30:00.000Z",
+      "author": "作者：Sergio De Simone",
+      "section": "cn-tech",
+      "rankScore": 0.697186
+    },
+    {
+      "id": "3e08932cb3261a20",
+      "title": "DeepSeek想赚钱，最大的对手却是自己",
+      "url": "https://www.36kr.com/p/3975963520833158",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-09T13:04:35.000Z",
+      "author": "蓝字计划",
+      "excerpt": "DeepSeek 史上最声势浩大的一次全面涨价， 只持续了23天。 8月17日， DeepSeek 正式调整V4系列的API价格。无论是主打性价比的Flash，还是能力更强的Pro，输入和输出价格都明显上涨。 有的媒体甚至在精打细算之下，算出了高达1100% 的涨幅。 当时不少人都觉得，那个靠低价震惊世界的 DeepSeek ，终于也准备认真赚钱了。 结果新价格还没满月， DeepSeek 又突然宣布降价。价格松动的，是负责走量、主打性价比的Flash模型。 从9月10日12点开始， Flash系列的缓存命中输入最高降价60%，缓存未命中输入降价约33%，输出价格也有所下调 。",
+      "section": "cn-tech",
+      "rankScore": 0.532659
+    },
+    {
+      "id": "ad447d739f761daf",
+      "title": "DeepSeek 把 V4 Pro 静默路由到费用更低、性能更好的 Flash，但用户表示拒绝",
+      "url": "https://www.oschina.net/news/502395",
+      "source": "oschina",
+      "publishedAt": "2026-09-09T10:49:15.000Z",
+      "excerpt": "\"请不要这样做。\" 这是 DeepSeek 决定把 V4 Pro 的请求静默路由到 V4.1 Flash 之后，开源社区第一时间的反应。 9 月 9 日下午，DeepSeek 的 Tianyi Cui 在 X 上发帖，宣布了一个决定：V4.1 Flash 正式上线之后、V4.1 Pro 上线之前，所有打到 V4 Pro 的请求都会被路由到 V4.1 Flash，并按 Flash 的价格计费。 理由是技术上...",
+      "section": "cn-tech",
+      "rankScore": 0.470198
+    },
+    {
+      "id": "2c4413315d7ce0ff",
+      "title": "1.1 Java语言的特点和优势Java白皮书发布关键特点：简单性、面向对象、稳健性、安全性、可移植性、高性能、多线索性",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KbXVFSzJkUFVqc3Y1eEMtUVZrUzVCU2VXX0hTNm90SWJaY0tnUE92UjJzVjM1d2x0UlFUbkU1Q0FVWEJzcElIV1MzSjRreWRDaU9EUg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-09T12:56:19.000Z",
+      "excerpt": "1.1 Java语言的特点和优势Java白皮书发布关键特点：简单性、面向对象、稳健性、安全性、可移植性、高性能、多线索性 juejin.cn",
+      "section": "cn-tech",
+      "rankScore": 0.411323
+    },
+    {
+      "id": "b6b7f089f2f502be",
+      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+      "url": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-09T14:23:55.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others.",
+      "section": "security",
+      "rankScore": 0.632527
+    },
+    {
+      "id": "f967046a9b775994",
+      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
+      "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-09T11:57:36.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build…",
+      "section": "security",
+      "rankScore": 0.557493
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 198 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
