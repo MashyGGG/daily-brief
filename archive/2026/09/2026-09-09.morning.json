@@ -1,0 +1,186 @@
+{
+  "date": "2026-09-09",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-09T01:14:01.430Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "bfe855dbd324a85e",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-08T14:55:45.000Z",
+      "score": 487,
+      "author": "utiiiD",
+      "excerpt": "487 points · 115 comments · https://news.ycombinator.com/item?id=49611251",
+      "section": "tech",
+      "rankScore": 0.986734
+    },
+    {
+      "id": "798df261c0fa0833",
+      "title": "Built for Reliability: How American Express Processes Payments at Scale",
+      "url": "https://blog.bytebytego.com/p/built-for-reliability-how-american",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-08T18:31:03.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we will try to understand how the transaction runs through such a cell-based architecture and how the payments are processed even when some services are failing.",
+      "section": "tech",
+      "rankScore": 0.646869
+    },
+    {
+      "id": "41d6da15bb172ef7",
+      "title": "GitHub Enterprise Server 3.22 is now generally available",
+      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-08T21:52:42.000Z",
+      "author": "Allison",
+      "excerpt": "GitHub Enterprise Server (GHES) 3.22 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.22 release: Administrators can configure Copilot CLI to…",
+      "section": "tech",
+      "rankScore": 0.644077
+    },
+    {
+      "id": "573c4331055f9253",
+      "title": "Do you even need a presentation?",
+      "url": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-09-08T13:42:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Like me, Sumeet Gayathri Moghe is tired of poor presentations with bad slide decks. He's started to write a series of posts on how to avoid these calamities, beginning with a post that questions whether a presentation is needed at all.",
+      "section": "tech",
+      "rankScore": 0.609325
+    },
+    {
+      "id": "d312fad10857bc8d",
+      "title": "Rust: When Empty Isn't Bottom",
+      "url": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
+      "source": "lobsters",
+      "publishedAt": "2026-09-08T21:23:18.000Z",
+      "author": "ettolrach.com by ettolrach",
+      "section": "tech",
+      "rankScore": 0.572319
+    },
+    {
+      "id": "97050db2c1510a15",
+      "title": "LG TV shown scanning LAN for third-party phones and other devices",
+      "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-08T21:52:29.000Z",
+      "author": "Scharon Harding",
+      "excerpt": "“It doesn’t cost a lot to store text forever.”",
+      "section": "tech",
+      "rankScore": 0.450812
+    },
+    {
+      "id": "d4555f4c69fef5c2",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-08T22:46:33.000Z",
+      "excerpt": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability across multiple turns, responds faster, and \"is better at…",
+      "section": "ai",
+      "rankScore": 0.790842
+    },
+    {
+      "id": "ffd2efbd08b1b855",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "openai",
+      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "excerpt": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "section": "ai",
+      "rankScore": 0.619048
+    },
+    {
+      "id": "2f08ec719562367a",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "source": "openai",
+      "publishedAt": "2026-09-08T09:00:00.000Z",
+      "excerpt": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "section": "ai",
+      "rankScore": 0.472382
+    },
+    {
+      "id": "66a5e0e8094c6fc1",
+      "title": "从告警风暴到一句话诊断：HCF 全息编码框架科普",
+      "url": "https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-08T20:59:09.000Z",
+      "author": "刘翔宇",
+      "section": "cn-tech",
+      "rankScore": 0.629202
+    },
+    {
+      "id": "5d15896f1f66d2e4",
+      "title": "硬氪首发丨无问智科完成数亿元A轮融资，具身智能业务订单已达数亿元",
+      "url": "https://www.36kr.com/p/3974793522344197",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-09T00:30:00.000Z",
+      "author": "时氪分享",
+      "excerpt": "硬氪获悉，近日，无问智科宣布完成数亿元A轮融资。本轮融资由洪泰基金领投，洪山资本、中电数融、狮城资本跟投，架桥资本、力合金融、力合中科、澄凯灵澄未来基金等老股东超额追投。 本轮融资完成后，无问智科将继续围绕Physical AI基础设施加大研发和规模化投入。 一是加大世界模型研发投入，进一步提升对空间、时间、物体交互、运动及物理规律的理解与因果推理能力，为数据生成、世界重建、RL环境和世界生成提供统一的技术底座。 二是进一步扩大高质量真实物理交互数据生产规模，持续升级自动化数据工厂，提高数据生产效率与模型有效性。",
+      "section": "cn-tech",
+      "rankScore": 0.618994
+    },
+    {
+      "id": "68abc002b4f41a9b",
+      "title": "科学家建议冲马桶合盖以减少气凝胶",
+      "url": "https://www.solidot.org/story?sid=85323",
+      "source": "solidot",
+      "publishedAt": "2026-09-08T15:16:05.000Z",
+      "excerpt": "Flinders 大学的研究人员发现，冲马桶会向周围空气释放气溶胶和生物气溶胶，气溶胶颗粒甚至会进入到成年人的呼吸区，而冲水后气溶胶会在空气中悬浮至少 20 秒。这些发现是基于对 22 项马桶气溶胶研究的分析。结果表明，保持良好的厕所卫生，包括定期清洁马桶及其周围表面，以及使用后洗手，有助于最大限度减少微生物污染和潜在的微生物疾病风险。使用马桶的低冲水模式也有助于最大限度减少气溶胶的产生。充足的通风有助于扩散和清除悬浮的空气颗粒，关闭马桶盖会改变气溶胶的扩散方向，气溶胶会从马桶盖和马桶座之间的缝隙逸出，而不是向上扩散。研究人员建议保持卫生间通风良好，在冲水前盖上马桶盖。",
+      "section": "cn-tech",
+      "rankScore": 0.587296
+    },
+    {
+      "id": "fc7c99b2c5bfcb17",
+      "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
+      "url": "https://sspai.com/post/114352",
+      "source": "sspai",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。",
+      "section": "cn-tech",
+      "rankScore": 0.54355
+    },
+    {
+      "id": "8cf89859179e5cfa",
+      "title": "编程凌晨告警：AI 选品功能批量返回null，原因是LLM 输出了合法JSON 但值全是空字符串。三层防线（格式守",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ib0p5RThxNkZzVnh0NmJ5S2hqQU5HWmNEdU9RZ0RIZm9qSmx0dEhfWjF4ajVPS291cmp5dFBOdnFzZnBIT0puMlRUbVdzWkhXUnRJYw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-09T00:36:43.000Z",
+      "excerpt": "编程凌晨告警：AI 选品功能批量返回null，原因是LLM 输出了合法JSON 但值全是空字符串。三层防线（格式守 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.482746
+    },
+    {
+      "id": "43118413085d98a1",
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "source": "krebs",
+      "publishedAt": "2026-09-08T21:44:22.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever.",
+      "section": "security",
+      "rankScore": 0.705938
+    },
+    {
+      "id": "1a4d13386ef0e9bd",
+      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+      "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-08T16:20:23.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim Spider.",
+      "section": "security",
+      "rankScore": 0.551767
+    }
+  ],
+  "warnings": [
+    "source \"react-blog\" looks stale: newest item is 197 days old (budget 180d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
