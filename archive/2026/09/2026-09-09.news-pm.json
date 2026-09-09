@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-09",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-09T15:05:14.987Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "46055c9c0b29746a",
+      "title": "英國制裁約旦河西岸：對以色列關係跌至數十年谷底",
+      "url": "https://www.bbc.com/zhongwen/articles/c804dd0de8no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-09T12:15:39.000Z",
+      "excerpt": "以色列針對倫敦禁止與被佔領約旦河西岸以色列定居點進行貿易所作出的反應，凸顯了這一刻的重要性。",
+      "section": "news",
+      "rankScore": 0.726933
+    },
+    {
+      "id": "e09823e2df5ecfb8",
+      "title": "被美交通部长要求切断与中国伙伴企业联系 福特汽车硬刚指“博取头条新闻的错误尝试”",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260909-%E8%A2%AB%E7%BE%8E%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%BF%E8%A6%81%E6%B1%82%E5%88%87%E6%96%AD%E4%B8%8E%E4%B8%AD%E5%9B%BD%E4%BC%99%E4%BC%B4%E4%BC%81%E4%B8%9A%E8%81%94%E7%B3%BB-%E7%A6%8F%E7%89%B9%E6%B1%BD%E8%BD%A6%E7%A1%AC%E5%88%9A%E6%8C%87-%E5%8D%9A%E5%8F%96%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB%E7%9A%84%E9%94%99%E8%AF%AF%E5%B0%9D%E8%AF%95",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-09T14:27:08.000Z",
+      "author": "弗林",
+      "excerpt": "美国特朗普政府周二猛烈抨击了福特汽车（Ford Motor）与中国企业的业务合作，称这些合作引发了国家安全方面的关切。",
+      "section": "news",
+      "rankScore": 0.678824
+    },
+    {
+      "id": "45f34f958924888b",
+      "title": "The Theme Park at the Heart of France’s Culture War",
+      "url": "https://www.nytimes.com/2026/09/09/world/europe/theme-park-france-right-culture-war.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-09T15:00:15.000Z",
+      "author": "Catherine Porter, Giulia Imbert and William Daniels",
+      "excerpt": "The Puy du Fou is one of France’s most visited theme parks. Its founder says it gives the French a “founding narrative,” but critics say it peddles “far-right propaganda.”",
+      "section": "news",
+      "rankScore": 0.557778
+    },
+    {
+      "id": "46a22542021fc50b",
+      "title": "The RBA hoped this year’s three interest rate rises would tame inflation – but nothing is going their way",
+      "url": "https://www.theguardian.com/business/2026/sep/10/the-rba-hoped-this-years-three-interest-rate-rises-would-tame-inflation",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-09T15:00:04.000Z",
+      "author": "Patrick Commins Economics editor",
+      "excerpt": "The breakdown of the US-Iran ceasefire, rising oil prices and the explosion in data centre investment are making the central bank’s task harder For five years the Reserve Bank has been trying to wrangle inflation back to its 2.5% target, and for years it has essentially failed.",
+      "section": "news",
+      "rankScore": 0.557696
+    },
+    {
+      "id": "10c41ecc5480714a",
+      "title": "Hutu and Tutsi: The history behind the divide",
+      "url": "https://www.aljazeera.com/news/2026/9/9/hutu-and-tutsi-the-history-behind-the-divide?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-09T14:22:28.000Z",
+      "excerpt": "How a colonial legacy continues to shape conflict and identity.",
+      "section": "news",
+      "rankScore": 0.540985
+    },
+    {
+      "id": "cdb36c41dea81bce",
+      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-09T12:06:40.000Z",
+      "excerpt": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
+      "section": "news",
+      "rankScore": 0.540708
+    },
+    {
+      "id": "ec1faee5027675fd",
+      "title": "Trump’s Super PAC Starts to Unload Its War Chest, With New Group Booking $47 Million",
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-09T14:52:10.000Z",
+      "author": "Theodore Schleifer, Shane Goldmacher and Maggie Haberman",
+      "excerpt": "A recently created Republican group tied to the president’s super PAC is pumping cash into half a dozen key midterm races, with the largest amounts going toward Senate contests in Michigan and Ohio.",
+      "section": "news",
+      "rankScore": 0.484912
+    },
+    {
+      "id": "d6ee81cacb7eec15",
+      "title": "Serbian leader Vučić calls snap elections",
+      "url": "https://www.ft.com/content/06c80195-c7b7-4423-a4ef-90056d1864f9?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-09T14:41:51.000Z",
+      "excerpt": "President plans to step down and run for prime minister despite long-running protests against his rule",
+      "section": "news",
+      "rankScore": 0.4809
+    },
+    {
+      "id": "0947f56be5cf71c6",
+      "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
+      "source": "npr-news",
+      "publishedAt": "2026-09-09T13:56:23.000Z",
+      "author": "Hannah Bloch",
+      "excerpt": "The floating Olympic cauldron, held aloft by a giant glowing balloon, is still making regular appearances two years after the 2024 Paris Games, showing up all summer long in the nighttime Paris sky.",
+      "section": "news",
+      "rankScore": 0.463219
+    },
+    {
+      "id": "5ecd4f0fb27371a7",
+      "title": "默茨继续硬刚选择党：你是一股破坏性力量",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZGg0cWV6bzV4czZMYm5oQjV6Z0VMbXZmUjF0MjhHdFYxQ0lSdVhPd1QwRFdQcDBtdFp5Uk56TlhIOUVjbDBUelhuTE40RVFXV0NiYkQxTnZvWkhxTnhBcE9tZk5JUEhqVU9CckIxa04ySXhjbEMydWNpVDE5SDM5R2dwUUp3Q2ViSy12YnBzR0RhSW13bUhnZkhUQ3NCanRPOXk2M3lTTy1BSE9RdHUyU1F3d0RWNU5tVUNqek9STng3WWZqQ2RjZUN2VnFRcTZmOGg4MDVFaHNmZzY4VlBBSHYyVWdQb0F0Tm9VM1JHUkVLUkZSajlGVmlhdmhrNVhFWFFwVzF6ZWpaZGFxandvb29ya2RVRlNwYWpOMlhNQmzSAaACQVVfeXFMTzAtY3pCWEVFMGNRVkpCZU0yMVp5b2xBR2NMWHo4VzNrR1pkWk1SSVg3WEhvRFZwYU5TMzE2LV9nLWxpTXcyOG91RF9URjFBdWQtclpkRGUtUkxWQjlXXzNjQlhqb1QxVXA1YThaRHhJNjBjNEZmWEstWTFZTGpMQUpjSkRIcVlZNmxUZU5NN3l4T005bkZFY1lYOW1uTkY1LXFrNmNwZng0b3RhMk5DMXM0ZVFneTlJeDRIdFBiTkVIQlBJczF1LXVuRnpCY1EyWmhJb0gwTnljMjlUbnN6RFRrQ3EzQXBnTHRVTDVrQXl5WVJqMnM1Qm1qdk9Cc2xsUHZ2Y19YQ1hsMFBLUXF6eU9oa29Zcy1MVnBHeDd4emh4?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-09T14:14:35.000Z",
+      "excerpt": "默茨继续硬刚选择党：你是一股破坏性力量 dw.com 魏德尔和勒庞都正冲击本国政治权利中心，但两党政治主张并非完全一致 观察者 默茨：德国选择党无法赢得绝对多数支持 finance.sina.cn 德国右翼民粹政党离主政一州仅一步之遥 头面旗手魏德尔如何崛起 财新 德国选择党领导人回应是否驱逐移民 强调法治与安全 中华网",
+      "section": "news",
+      "rankScore": 0.403111
+    },
+    {
+      "id": "3688b53d571cd7a1",
+      "title": "零点击微信蠕虫：人工智能将令黑客攻击更危险？",
+      "url": "https://cn.nytimes.com/technology/20260909/calif-ai-worm-wechat-hack/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-09T04:57:44.000Z",
+      "author": "DUSTIN VOLZ",
+      "excerpt": "一个研究团队利用先进模型快速构建了一个无需用户点击即可入侵微信的蠕虫，微信官方证实了该漏洞的存在并表示已修复。此事引发了对AI将为恶意黑客提供巨大优势的担忧。 Dado Ruvic/Reuters 安全公司Calif的研究人员最近仅用一周多时间就构建了一个黑客工具，能够在微信上横行肆虐。",
+      "section": "news",
+      "rankScore": 0.39874
+    },
+    {
+      "id": "73d00e19f1f2e860",
+      "title": "Guterres urges leaders to invest in peace as conflicts deepen",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168301",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-09T12:00:00.000Z",
+      "excerpt": "The UN Secretary-General appealed on Wednesday for world leaders to invest in peace as violence, division and conflict exacerbate suffering worldwide.",
+      "section": "news",
+      "rankScore": 0.35825
+    },
+    {
+      "id": "ef8222ddc94bc319",
+      "title": "中国海警结束45天赴北太平洋公海渔业执法巡航",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693552.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-09T13:23:02.000Z",
+      "excerpt": "中新社北京9月9日电 (记者 阮煜琳)据中国海警局9日消息，由中国海警长山舰和五虎舰组成的舰艇编队当日圆满完成2026年北太平洋公海渔业执法巡航任务，顺利返港。",
+      "section": "cn-news",
+      "rankScore": 0.771856
+    },
+    {
+      "id": "dc8847aaf6f6ab5d",
+      "title": "中新“海上合作-2026”联合演习结束",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693633.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-09T14:08:03.000Z",
+      "excerpt": "中新社北京9月9日电 据中国海军社交平台账号“人民海军”9日消息，中国和新加坡“海上合作-2026”联合演习当天落下帷幕。",
+      "section": "cn-news",
+      "rankScore": 0.735045
+    },
+    {
+      "id": "f42d24da923c6696",
+      "title": "全国首款干细胞药品落地宁夏 西北患者就近用上国产创新药",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693605.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-09T14:09:01.000Z",
+      "excerpt": "中新网银川9月9日电 (记者 于晶)9月9日，我国首款、目前唯一获批上市的干细胞药品艾米迈托赛注射液正式落地银川苏银产业园。这一国产生物医药创新成果落地西北，意味着宁夏及周边地区患者，在家门口就能够获得前沿的干细胞药物治疗新选择。",
+      "section": "cn-news",
+      "rankScore": 0.601883
+    },
+    {
+      "id": "a3d862338e7f3e41",
+      "title": "一高校开学考，高考数学132分同学只考了12分，同宿舍最高的33分，位次在404名",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VS0oxbjFrdzVfeGhfb0RUYXZ2MTBveWpseVVXWTkySlhiSUZONUdzTmhsWFA4ankwX0hoUXQ2LWVGM19aNWRrSGc4VE14WWhTa0tCdE4zbzBZRjdXdEE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-09T13:27:00.000Z",
+      "excerpt": "一高校开学考，高考数学132分同学只考了12分，同宿舍最高的33分，位次在404名",
+      "section": "cn-news",
+      "rankScore": 0.580875
+    },
+    {
+      "id": "7815e940b17be447",
+      "title": "张小泉AI视频被疑虚假营销，剪刀丝滑剪开排骨、鸡腿等，经销店铺：为展示顺滑体验，但筒骨硬骨勿强行操作",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5odlMtZDlLbGtlLUlWdU43ZXRiZ3hmMzBRMDV5Ti1tTTRqT190ZDZyX2dMQnZlNEhRSHJxRk1lYnBTMHJuQmdNMUF3ZExSOFYzNTNBYlVQbU1XREk3NHdyVw?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-09T13:25:08.000Z",
+      "excerpt": "张小泉AI视频被疑虚假营销，剪刀丝滑剪开排骨、鸡腿等，经销店铺：为展示顺滑体验，但筒骨硬骨勿强行操作 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.579942
+    },
+    {
+      "id": "899408ae41f47eff",
+      "title": "大批跨国企业参加投洽会 持续加码中国市场",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFRZaDFobktXbF9VWmlIMGlGR096Qk05SFhGNFg0Z1hycnR4Z0JMZjR2enRNVmNyUi14bm5BTlNYZmNMRS1nVlhMUDlqYlJCaWFJY0dIZkhEZG5MMzNwbm1SVmNhMUVBdUhMYVg2SHR6NWtHaGxjWTJKZDBRVjVuMU1n?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-09T13:55:56.000Z",
+      "excerpt": "大批跨国企业参加投洽会 持续加码中国市场 news.cn 时隔一年，这一重要会议在福建开幕 凤凰网 有福之州链动全球双向投资合作对接会赋能闽都开放新局- 中国日报网 China Daily 支付护航投洽会 便利服务迎嘉宾 finance.sina.cn 世界投资促进机构协会总干事：中国创新速度之快让我印象深刻 光明网",
+      "section": "cn-news",
+      "rankScore": 0.529193
+    },
+    {
+      "id": "5afe331eb282db5f",
+      "title": "第十一届“一带一路”高峰论坛在港开幕",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tRTZIUGZwRHlBbjNUcFc0MlMxbkE2UXVpM05kQXVlSjZzTjRNSlNKLVJFUUl3aEw1S25aR250Qm0wU0NlXzJ5WnktZHEtLXBDMl9ZMzR0MWRydnhQUV9RcS0xb1ctRFQ5ODVZcTZIR3NlUGViSzVrZjZlWXVaZ0U?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-09T14:20:18.000Z",
+      "excerpt": "第十一届“一带一路”高峰论坛在港开幕 xinhuanet.com 李家超：“一带一路”不仅是连接各大洲的桥梁，也是通向更光明未来的桥梁｜第十一届“一带一路”高峰论坛 finance.sina.cn 李家超与出席“一带一路高峰论坛”国家政府高层官员会面 Sohu 蔡彤娟：“一带一路”倡议新阶段，香港定位升级 人大重阳网 李镇：期望香港成为长期资本、耐心资本「会客厅」 gbcode.rthk.hk",
+      "section": "cn-news",
+      "rankScore": 0.47252
+    },
+    {
+      "id": "fa45653a9cbe7a07",
+      "title": "US scrambles to match China’s air-breathing hypersonic missiles with Darpa programme",
+      "url": "https://www.scmp.com/news/china/science/article/3366908/us-scrambles-match-chinas-air-breathing-hypersonic-missiles-darpa-programme?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-09T14:00:09.000Z",
+      "author": "Ling Xin",
+      "excerpt": "A year after China unveiled the world’s first operational air-breathing hypersonic missiles, the United States is launching a programme to double down on developing similar weapons.",
+      "section": "cn-news",
+      "rankScore": 0.464683
+    },
+    {
+      "id": "e42ef2c7ee912093",
+      "title": "中共老調重彈 陸委會：聯大2758號決議未提台灣",
+      "url": "https://www.cna.com.tw/news/acn/202609090280.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-09T10:21:06.000Z",
+      "excerpt": "（中央社記者李雅雯台北9日電）中國大陸國台辦今天指稱，聯大2758號決議「解決包括台灣在內全中國在聯合國的代表權問題」。陸委會回應，聯大2758號決議未提及台灣，中共老調重彈、毫無新意。",
+      "section": "cn-news",
+      "rankScore": 0.433711
+    },
+    {
+      "id": "94be2ff377cc77b0",
+      "title": "第六届上海杯象棋大师公开赛开幕",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44NUh6dlhVd2sxUXNlODJrWHktSjFaaHNJV1kxWEdRRmRvRFdRdXRnbnc0QU1XTnpNSG9MUEl2TFJBNUlRNnZsY0xKTFlBb1lqUDJhSjlLNFFQV3hjODFmWlg5aWg5OWZI?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-09T13:43:09.000Z",
+      "excerpt": "第六届上海杯象棋大师公开赛开幕 chinanews.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.392633
+    },
+    {
+      "id": "2a3a13696dcf4637",
+      "title": "24岁吃播博主离世：流量的尽头不是爆款，是身体的极限",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693641.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-09T14:32:23.000Z",
+      "excerpt": "中新网北京9月9日电(记者 王诗尧)24岁，百万粉丝，低钾住院，不幸离世——当这些关键词汇集在“干饭莹莹”身上时，我们看到的不仅是一位年轻生命的猝然凋零，更是一个畸形行业积弊已久的又一次血腥爆发。",
+      "section": "cn-life",
+      "rankScore": 0.818089
+    },
+    {
+      "id": "2c4a78770f1c5beb",
+      "title": "韩国8月同比新增就业18.4万人",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTbDhNa2VfbVJnMkRrMW1GZkZRMTk0aVpTbFkycF8yTVJGS1ltN1JKa0tjQ284YlBnX3Rsd1dUQnNpTTg4SGo4SllGZXU3eENQMl9qbWJhSHh4Q3pvZWp2aEZadjlqSDVJ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-09T13:58:20.000Z",
+      "excerpt": "韩国8月同比新增就业18.4万人 chinanews.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.596542
+    },
+    {
+      "id": "7284e028ed940ce4",
+      "title": "2026中国国际应急管理展览会在北京开幕 400余家企业参展",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xblU1al8xMi1jX0dvaFZkTldYdTJOdGhKT3NhdFZmQVhnR2NaN2Nqa1VMZ3dXV25SNWMzMkRDLW1FNk0yVXdfTzh3TDVGVzl4cEgxM0NrcGJLWkRQWTJiT2NB?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-09T13:49:26.000Z",
+      "excerpt": "2026中国国际应急管理展览会在北京开幕 400余家企业参展 观点网",
+      "section": "cn-life",
+      "rankScore": 0.592092
+    },
+    {
+      "id": "5fd689d8c59cf463",
+      "title": "北京市经济和信息化局关于公开遴选“创赢未来”成长计划财政资金受托管理机构的通知_政策文件",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NTklmbThlWjdJQmRkQ2hnT2NnRlNMX1hwSjBFeGVhUGdPSXpsMDg2RHYyY2NJMk9rdVFGb2lKa0NTQ01mRXAwS0NxR3pfTExRRUNTWGMxNkYweVhVYnppLVlPNjZsVllxbWZhY3UzVFVmUVZFZkRPZTVR?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-09T14:25:46.000Z",
+      "excerpt": "北京市经济和信息化局关于公开遴选“创赢未来”成长计划财政资金受托管理机构的通知_政策文件 北京市经济和信息化局",
+      "section": "cn-life",
+      "rankScore": 0.542452
+    },
+    {
+      "id": "60b0d53f58333225",
+      "title": "品胜客服回应召回两款充电宝",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdW1ha2J3c1hfMUhnWmEtWGxHRVlOSDRCTThqTlFmOFVwQ1pEcVVlSUZHMnJCaHpOeVlldDhTM2xXVk43N2kwdk5XdTRMdXBwX2wwREpPdTJ4SzRrRENhWWhobEhkWXNFWkV0UmRGWnFlc2tzcUVYMUNQUURwYmhoV3JjMi0zUFZCNHRJX0ZPVXl5b1ZBQjFGYzdTQXQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-09T13:52:31.000Z",
+      "excerpt": "品胜客服回应召回两款充电宝 finance.sina.cn",
+      "section": "cn-life",
+      "rankScore": 0.461715
+    },
+    {
+      "id": "49e90ee240913c16",
+      "title": "航空总医院疼痛科王永主任口碑如何",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KdjRwUzExR1o4akwwOGpFaFRpTkRfREoyVDhHVnJQNmo3WjVXZktIT2Y0clItME1KaVNmZzk1VnBkY2VSblljU3JnZ2hodDBDU250UEh3c1pBcndnS3RLM2NXdGR4Q1Vnb01reDJB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-09T11:51:17.000Z",
+      "excerpt": "航空总医院疼痛科王永主任口碑如何 中华网 带状疱疹怎么治最规范？中西医结合诊疗专家共识划出这4大重点 thepaper.cn 宁波83岁奶奶痛到半年睡不好觉，靠止痛药硬扛：“坐也不是、站也不是，眼巴巴地等天亮……”医生：这种神经痛越早干预越好 Sohu 「皮蛇」最怕后遗症？高危险群外用药膏对神经痛完全无效！72 小时内就医是关键 茉莉花新闻网 “疼痛难忍还让人变呆！”这个病三分之一新西兰人会中招 yeeyi",
+      "section": "cn-life",
+      "rankScore": 0.414569
+    },
+    {
+      "id": "d32d902a1825f2ba",
+      "title": "小时候常跟爸爸去华工漫步，高考657分考上华工与爸爸成为校友",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcElJT0NiYmRXSlZlZEdKc1BVNVhXeGJTQTZJSVFKcVRlNmpHeVRRRWs3UDg3bzRkZXpJZUlBU1psVm9FYlBoNVBHUHBfQjdCOFBueFBmU2FCczFMVmU2cmQxRDJFNGpnZVBqaWJacXlfV2VkRGRNOUkzaFZja2FtQUx4NUlkTXVDcXc?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-09T14:48:24.000Z",
+      "excerpt": "小时候常跟爸爸去华工漫步，高考657分考上华工与爸爸成为校友 广州日报新花城",
+      "section": "cn-life",
+      "rankScore": 0.414383
+    },
+    {
+      "id": "3c355b8750ec4adc",
+      "title": "全国各地的肥美螃蟹都在这里 今年你打算尝哪一只？",
+      "url": "https://www.chinanews.com.cn/life/2026/09-09/10693195.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-09T05:39:09.000Z",
+      "excerpt": "据蟹农介绍",
+      "section": "cn-life",
+      "rankScore": 0.3855
+    }
+  ],
+  "warnings": []
+}
