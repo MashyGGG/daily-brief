@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-10",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-10T01:25:28.541Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "4efea5e43c41b944",
+      "title": "911事件25週年：震驚世界的襲擊如何發生，造成多少人死亡？",
+      "url": "https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-10T00:14:46.000Z",
+      "excerpt": "2001年的襲擊造成數千名美國人喪生，並對全球產生了深遠影響。",
+      "section": "news",
+      "rankScore": 0.81643
+    },
+    {
+      "id": "d33e40ff9640125c",
+      "title": "9·11恐袭25年后，纽约的“归零”与重生",
+      "url": "https://cn.nytimes.com/opinion/20260910/911-twin-towers-life-death/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-10T00:30:01.000Z",
+      "author": "BRET STEPHENS",
+      "excerpt": "25年前的那天，曼哈顿遭受重创，造成了可怕而无法弥补的代价。如今，归零地周围的社区正焕发生机，生命的力量远比恐袭和死亡更强大。 Adam Gray/Getty Images",
+      "section": "news",
+      "rankScore": 0.753054
+    },
+    {
+      "id": "644a13ecc0c3ef98",
+      "title": "毛泽东, 沉重的遗产: 昔日的红卫兵：苦涩、悔恨、道歉---\"我们被愚弄了\"",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260909-%E6%AF%9B%E6%B3%BD%E4%B8%9C-%E6%B2%89%E9%87%8D%E7%9A%84%E9%81%97%E4%BA%A7-%E6%98%94%E6%97%A5%E7%9A%84%E7%BA%A2%E5%8D%AB%E5%85%B5-%E8%8B%A6%E6%B6%A9-%E6%82%94%E6%81%A8-%E9%81%93%E6%AD%89-%E6%88%91%E4%BB%AC%E8%A2%AB%E6%84%9A%E5%BC%84%E4%BA%86",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-09T22:32:04.000Z",
+      "author": "呢喃",
+      "excerpt": "从1966年毛泽东开始倡导文化大革命，到2026年的今天，60年过去后，法国是如何看待当年发生在中国、对世界产生影响的这个故事呢？在本期法国世界报专栏节目中，我们继续随着该报特辑的脚步，回溯这段过往。",
+      "section": "news",
+      "rankScore": 0.651831
+    },
+    {
+      "id": "babaeb5500ee7a3a",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-09T21:23:45.000Z",
+      "excerpt": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+      "section": "news",
+      "rankScore": 0.569569
+    },
+    {
+      "id": "4258f62000828453",
+      "title": "Australian politics live: Taylor says Hanson should delete One Nation ‘traitor’ cartoon; Moira Deeming joins Family First",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-10T01:09:16.000Z",
+      "author": "Krishani Dhanji",
+      "excerpt": "Follow the day’s news live Labor introducing new laws to crack down on illegal tobacco Labor will introduce new laws to make it easier to prosecute criminals involved in the illicit tobacco trade, as the government fights an uphill battle against the exploding black market.",
+      "section": "news",
+      "rankScore": 0.556398
+    },
+    {
+      "id": "35aaea86898fd72c",
+      "title": "US states sue Trump over weakening of endangered species protections",
+      "url": "https://www.aljazeera.com/news/2026/9/10/us-states-sue-trump-over-weakening-of-endangered-species-protections?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-10T00:52:05.000Z",
+      "excerpt": "Attorneys general from 20 states and Washington, DC, say the US government illegally rolled back landmark protections.",
+      "section": "news",
+      "rankScore": 0.552579
+    },
+    {
+      "id": "d6b65e6854b7cb2e",
+      "title": "In England — Yes, England — Tea and Cantaloupe Grow as the Climate Warms",
+      "url": "https://www.nytimes.com/2026/09/09/world/europe/england-climate-tea-cantaloupe.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-09T22:35:41.000Z",
+      "author": "Stephen Castle",
+      "excerpt": "As British farmers confront intense heat waves tied to climate change, some are cultivating new crops rarely grown in their country.",
+      "section": "news",
+      "rankScore": 0.522268
+    },
+    {
+      "id": "14291c7a96a09850",
+      "title": "Election Officials Grapple With Uncertainty as Supreme Court Considers Mail Ballot Plan",
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/election-officials-confusion-mail-ballots.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-10T00:56:53.000Z",
+      "author": "Eileen Sullivan and Adam Sella",
+      "excerpt": "As they wait for word on whether the Trump administration’s new system to screen ballots can move forward, local officials say they are running out of time.",
+      "section": "news",
+      "rankScore": 0.48444
+    },
+    {
+      "id": "8c8f1c734b215e82",
+      "title": "Union boss says Burnham should raise taxes on wealthy to fund lower energy bills",
+      "url": "https://www.ft.com/content/423f30fc-9bd7-477e-83d3-9d9eb9eb5ceb?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-09T23:01:05.000Z",
+      "excerpt": "TUC general secretary Paul Nowak says ‘no evidence’ this would drive rich investors to leave UK",
+      "section": "news",
+      "rankScore": 0.461924
+    },
+    {
+      "id": "2c2aaf99981bf24e",
+      "title": "阿富汗民众面临“令人窒息的沉默”，人权高专呼吁加大施压力度",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142764",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-09T12:00:00.000Z",
+      "excerpt": "联合国人权事务高级专员蒂尔克周三谴责阿富汗实施的一系列压迫性限制措施，特别是针对女童和妇女的措施，并呼吁重新加大力度，敦促该国事实上的当局履行国际法义务。",
+      "section": "news",
+      "rankScore": 0.428631
+    },
+    {
+      "id": "9ccb680226eed19b",
+      "title": "默茨：德国选择党无法赢得绝对多数支持--国际",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yOFE1T0Y0d3BvZUhSMm9QRFJnVVZ6b0pDeWlQUlp6dDBUaUtLT3dtdm91dmxZVjU0a2hwQ2NPZW8zTlZsVzQ1cnhuVHI1Rm1SeFRFRXhhbGVYWlRzVzNkZHF6Nzl2b3E0QkFz?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-10T00:38:00.000Z",
+      "excerpt": "默茨：德国选择党无法赢得绝对多数支持--国际 人民网 默克尔发声：震惊，心碎 观察者 默茨：德国选择党无法赢得绝对多数支持 央视网 德国右翼民粹政党离主政一州仅一步之遥 头面旗手魏德尔如何崛起 财新 视频 | 曾在中国银行工作的女博士有望成为德国总理 欧洲多国感到“面临挑战”现任总理默茨紧急取消法国行程 新浪网",
+      "section": "news",
+      "rankScore": 0.412087
+    },
+    {
+      "id": "a8a533141b003aa1",
+      "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
+      "source": "npr-news",
+      "publishedAt": "2026-09-09T18:39:57.000Z",
+      "author": "John Ruwitch",
+      "excerpt": "New Apple CEO John Ternus announces the iPhone Duo, which folds like a passport and is the most radical iPhone design update in nearly 20 years.",
+      "section": "news",
+      "rankScore": 0.411148
+    },
+    {
+      "id": "0ba0c6d7e983f52d",
+      "title": "中央气象台：西南地区海南岛等地有中到大雨",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10693690.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-10T00:44:41.000Z",
+      "excerpt": "中新网9月10日电 据中央气象台网站消息，国内方面，昨日，四川、云南、海南等地出现强降雨。预计未来三天，华西地区多阴雨天气，需关注持续性降雨影响。",
+      "section": "cn-news",
+      "rankScore": 0.826403
+    },
+    {
+      "id": "b156047586a5768a",
+      "title": "习言道｜习近平忆老师严格要求：现在回想起来，终生受益",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10693717.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-10T01:19:17.000Z",
+      "excerpt": "中新网9月10日电 题：习近平忆老师严格要求：现在回想起来，终生受益",
+      "section": "cn-news",
+      "rankScore": 0.768108
+    },
+    {
+      "id": "5aa1aef5b7ffe371",
+      "title": "11月起新规实施 这七类服务费用由付款企业代扣代缴增值税",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693700.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-10T00:43:31.000Z",
+      "excerpt": "财政部、税务总局近期发布《境内单位代扣代缴自然人增值税管理办法》，从今年11月1日起施行。《办法》明确，今后企业或机构向个人支付研发、软件、设计、咨询、影视制作、文化、教育这七类服务费用时，要代扣代缴这笔业务对应的增值税。",
+      "section": "cn-news",
+      "rankScore": 0.61951
+    },
+    {
+      "id": "f18b236682d0c8e5",
+      "title": "世界插画奖揭晓：成年人其实不会真正长大",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81TjlfV1R6Xy1xMlVUaEJHbTBDQWdZOHZncWRoUTlVa1VCYTI5VERoQTBZdzZSc1R4QS0zd0VIMDFWUERFYmZURF8ydW5MYVBKbkxobW51RHZiU25reGZVLQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-10T00:25:00.000Z",
+      "excerpt": "世界插画奖揭晓：成年人其实不会真正长大",
+      "section": "cn-news",
+      "rankScore": 0.614881
+    },
+    {
+      "id": "e5e30107d5ab1a0a",
+      "title": "苹果新任CEO 特努斯发布会首秀！前任CEO库克到场出席",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTZ2Z4OXJ4NnNDN3gyeUx6R0lzRFRON0cwUWpkaXJBV005WUp5MEE4ZjNyWE95blAtQzFpVWVoeWlkSlZ1ZG9FbFBtS2VPMFNRdGM1Y1BCckR5eUphelJnVw?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-09T23:32:16.000Z",
+      "excerpt": "苹果新任CEO 特努斯发布会首秀！前任CEO库克到场出席 jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.601698
+    },
+    {
+      "id": "334cd1694ed4f40f",
+      "title": "解读青春期的成长“法”则 —",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5id1VwWXJuZXg5ektUeEhQQ3hZRXhfVnljLS1NNDhoMmJ0R210aEFpNWdtVlRVMG5mb0E2UWlSYWZwV0l4OUpqX00xNDYtYmtRcWQ4NHFDNGFGcC1rUUdZUnFn?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-10T00:43:53.000Z",
+      "excerpt": "解读青春期的成长“法”则 ——走进北京二中开学法治第一课 court.gov.cn 与法同行 护航成长 央视网 新学期守护“依旧” 新浪网 武陵区法院：法治护航伴成长 童心筑梦启新程 凤凰网 北京司法行政系统上好开学第一课 北京市人民政府门户网站",
+      "section": "cn-news",
+      "rankScore": 0.550757
+    },
+    {
+      "id": "bf6e1f0c141d49f1",
+      "title": "俄官员：欧洲天然气价格未来将再创新高--国际",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HLXNneXUwaHBYRzJLa19sRzhqbDFlRFFSRjBBYU5ReGVNb3MxTTUxVjJqQWl0cXUtNHliUl85YlhGNzdZdzNTR0hPVEhEQ1FpWlM2X1l3RlRLQ2pjdjQxRHJVVVdyR2tnRUR3?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-10T00:38:00.000Z",
+      "excerpt": "俄官员：欧洲天然气价格未来将再创新高--国际 人民网 欧洲能源市场供应压力犹存（国际视点） --国际 人民网 俄官员：欧洲天然气价格未来将再创新高 央视网 美伊互轰油轮，国际油价冲破100美元！欧洲天然气价格创3年新高？ 新浪网 欧洲天然气豪赌：十五年最低库存，宁赌暖冬也不高位接盘天然气 wallstreetcn.com",
+      "section": "cn-news",
+      "rankScore": 0.480769
+    },
+    {
+      "id": "dc3e4b37f32099b9",
+      "title": "US says China ‘on track’ to fulfil farm purchases ahead of Xi’s Washington visit",
+      "url": "https://www.scmp.com/news/us/economy-trade-business/article/3366979/us-says-china-track-fulfil-farm-purchases-ahead-xis-washington-visit?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-09T23:09:49.000Z",
+      "author": "Nayan Seth",
+      "excerpt": "The Trump administration on Wednesday said that China is on track to meet its agricultural purchase commitments, with the sector expected to feature prominently in the deliverables for US President Donald Trump and Chinese President Xi Jinping’s talks in Washington later this month.",
+      "section": "cn-news",
+      "rankScore": 0.463622
+    },
+    {
+      "id": "3340886099b7ad97",
+      "title": "美指責中國AI模型蒸餾 中國商務部：商業問題政治化",
+      "url": "https://www.cna.com.tw/news/acn/202609090342.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-09T15:02:26.000Z",
+      "excerpt": "（中央社台北9日電）針對美國國家安全局等單位聯合指責中國人工智慧（AI）對美國開展「工業規模」蒸餾一事，中國商務部今天在官網以答問形式回覆，美方此舉是將蒸餾這一業內正常的技術和商業問題政治化、工具化，並在實踐中搞雙重標準。",
+      "section": "cn-news",
+      "rankScore": 0.421546
+    },
+    {
+      "id": "c2cc6585ba289496",
+      "title": "华语电影全球推广系列活动威尼斯启幕 五部佳作同台推介",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51TEl5c2JpTm1wOFFiNnZONlEwVWpJSU02ZWI1OC1TSGM0NTRHWTc2b21uSVpCVWJmSVpfZ1FNMFVrNzA0Q0NKS0hzYjlESDJ1RThjZG13Yzh3QUZGdTZxVg?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-10T01:07:00.000Z",
+      "excerpt": "华语电影全球推广系列活动威尼斯启幕 五部佳作同台推介 华声在线 王晓慧威尼斯生图惊艳全网，无滤镜淡颜太抗打 新浪网 深圳原创出品电影《给阿嬷的情书》亮相威尼斯电影节 ，三位主演首次集体亮相国际影展 Sohu 给阿嬷的情书从潮汕走到威尼斯 侨批故事感动国际观众 中华网娱乐 电影《给阿嬷的情书》在意大利威尼斯举行专场放映会(5) 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.416921
+    },
+    {
+      "id": "6d643143c3a2bdd3",
+      "title": "遇到“抵押”合同，请大胆说“不”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10693718.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-10T01:18:41.000Z",
+      "excerpt": "【人社日课·9月10日】遇到“抵押”合同，请大胆说“不”",
+      "section": "cn-life",
+      "rankScore": 0.837736
+    },
+    {
+      "id": "ff20533e5f5a2d32",
+      "title": "适合泡水喝的“神仙果”！秋季养生别错过",
+      "url": "https://www.chinanews.com.cn/life/2026/09-10/10693713.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-10T01:04:47.000Z",
+      "excerpt": "进入秋季",
+      "section": "cn-life",
+      "rankScore": 0.694252
+    },
+    {
+      "id": "0affa47fc94f2b5f",
+      "title": "广信区罗桥街道的民生“幸福清单”",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83ZExqN3ZfQnFWNzNyZG5Ea004bjczS3ZmbmpqTlctV280RkxCT3NlSTZZOG1oQndTM3lGRjBmVV9rMTVvNmFjY1BOVnRXWUFlanVBeDhYemhKTW1TbmgxbFpLdWVhR0h2ZS1zOQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-10T01:21:00.000Z",
+      "excerpt": "广信区罗桥街道的民生“幸福清单” 大江网",
+      "section": "cn-life",
+      "rankScore": 0.628881
+    },
+    {
+      "id": "64e4e3a67c39b217",
+      "title": "黑龙江大庆开展废旧金属熔炼领域辐射事故应急演习",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtU1U3Uk9HNkJ4andndDZQdVI1WXByTF9jX0thUThVTzdmSVhlZXhFSWFHQS1WcHVQQk5VaDllelp5VHZoT2xnTFRPbV9oTmdVRlE?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-10T00:43:00.000Z",
+      "excerpt": "黑龙江大庆开展废旧金属熔炼领域辐射事故应急演习 深圳核博会",
+      "section": "cn-life",
+      "rankScore": 0.619381
+    },
+    {
+      "id": "8f366d67a9782427",
+      "title": "APEC北京能源会议周期间发布《从产业实践到区域协同—亚太能源协同共治的实践与展望》报告",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CNGVhU2hKVU56c0pBbEZLUm90bjI3SzFXY1ByNE9KVXNla0E2bkF0RXdBSS00WE9xaVN1QWhKSmpIbWhGQWdjSnU2Zy1KSkdt?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-10T01:19:03.000Z",
+      "excerpt": "APEC北京能源会议周期间发布《从产业实践到区域协同—亚太能源协同共治的实践与展望》报告 prpq.nea.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.558572
+    },
+    {
+      "id": "80ba03a10b2d4ca3",
+      "title": "云顶新耀与海森订立战略合作框架协议",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmlXTTE4dEU1ZTl0VzI3SkdsdU5qR2M2aWhndUpES0wzeURVb3NOc0hLb0N1Vjlzb0JjYW5YTTZZS1hrWm9hS2VLSGxKbGpwd3pZdklfTm0tOTlRVnlQSGlTMnhqcGtNMmhsN0xZVVFmc0x0RWM4amdOY1NJRTJDTGFZempTY3d1N2JXWTluR25nSGo4b3lLQUpvTXgxalcxZ0pUeGFEVzV5UQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-10T01:00:36.000Z",
+      "excerpt": "云顶新耀与海森订立战略合作框架协议 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.485163
+    },
+    {
+      "id": "971bf9eadaee087a",
+      "title": "基于安全水疱性口炎病毒（VSV）载体的高效鼻内H5N1疫苗",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GeWtsbjdrVV9xelVLemc4b0toN0NwWk9UT0NwRER5dmNfcUthbXFFazE1dEc5SWkweVQ2Vk01cC1kQXVJZTM4VGdlYnRhRGZXRnJlWlFFUXRkNnR4c2FId2NTY1pFY294TWo1aA?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-09T23:57:44.000Z",
+      "excerpt": "基于安全水疱性口炎病毒（VSV）载体的高效鼻内H5N1疫苗 生物通",
+      "section": "cn-life",
+      "rankScore": 0.472939
+    },
+    {
+      "id": "73bec54c0dd092ce",
+      "title": "江阴：“三聚焦”推动公立医院领域党员教育走深走实",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmZUakIzdmduN2t5a2x3Rk01bTA4dkU4NDRXNUlheEdkcE9sakVUWC1RY042RUg5N1ZNSkJxdXNHci1EOFVjcU91aEMxT1NIeGg3VVRBR2ljaVVMOUVRUXp1MWZmeTRlUnIzd3o4U0ExS0MtMjAzM2otdGpfLVcwUVNEOUliM18wX1ZqaXJ3?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-10T01:12:22.000Z",
+      "excerpt": "江阴：“三聚焦”推动公立医院领域党员教育走深走实 江苏先锋",
+      "section": "cn-life",
+      "rankScore": 0.417815
+    }
+  ],
+  "warnings": []
+}
