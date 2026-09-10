@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-10",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-10T01:02:24.794Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "0917aab78d8f32ee",
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-09T18:15:43.000Z",
+      "score": 844,
+      "author": "thecosmicfrog",
+      "excerpt": "844 points · 1648 comments · https://news.ycombinator.com/item?id=49630931",
+      "section": "tech",
+      "rankScore": 1.069566
+    },
+    {
+      "id": "31f433b26cec235b",
+      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-09T21:45:06.000Z",
+      "author": "Allison",
+      "excerpt": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is…",
+      "section": "tech",
+      "rankScore": 0.645191
+    },
+    {
+      "id": "f72d455d48292d5d",
+      "title": "Meta's Recipe for Building Agents as \"Organizational Second Brains\"",
+      "url": "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-09T18:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "Meta describes how an AI agent can be designed to capture the logic and expertise of domain experts, rather than simply storing documents or retrieving relevant information.",
+      "section": "tech",
+      "rankScore": 0.582663
+    },
+    {
+      "id": "40721fe127510781",
+      "title": "Efficient and accurate systems for querying unstructured data",
+      "url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+      "source": "lobsters",
+      "publishedAt": "2026-09-09T20:38:35.000Z",
+      "author": "stacks.stanford.edu via typesanitizer",
+      "excerpt": "Abstract: (shortened) In recent years, automatic analysis over this unstructured data has become possible via machine learning (ML). Analysts can use ML to extract structured information from these unstructured sources, such as object types and location from a video.",
+      "section": "tech",
+      "rankScore": 0.564043
+    },
+    {
+      "id": "b1c16f84ee1092d3",
+      "title": "ashelygierisch/ChatGPT-i18n",
+      "url": "https://github.com/ashelygierisch/ChatGPT-i18n",
+      "source": "gh-trending-ts",
+      "publishedAt": "2026-09-09T15:15:53.000Z",
+      "score": 60,
+      "author": "ashelygierisch",
+      "excerpt": "(no description) — ★60 · TypeScript",
+      "section": "tech",
+      "rankScore": 0.537075
+    },
+    {
+      "id": "9867af72d80a85ec",
+      "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+      "url": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+      "source": "verge",
+      "publishedAt": "2026-09-09T23:00:04.000Z",
+      "author": "John.Higgins",
+      "excerpt": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a…",
+      "section": "tech",
+      "rankScore": 0.46621
+    },
+    {
+      "id": "e45e0d5b136aa655",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "openai",
+      "publishedAt": "2026-09-09T17:00:00.000Z",
+      "excerpt": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "section": "ai",
+      "rankScore": 0.622596
+    },
+    {
+      "id": "53e371fd888a81c7",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "source": "openai",
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "excerpt": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "section": "ai",
+      "rankScore": 0.549263
+    },
+    {
+      "id": "df0d35eb9fdc0737",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "openai",
+      "publishedAt": "2026-09-09T11:00:00.000Z",
+      "excerpt": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "section": "ai",
+      "rankScore": 0.512596
+    },
+    {
+      "id": "64b6bf3056567bd7",
+      "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+      "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-10T01:02:24.794Z",
+      "excerpt": "ACL 2026杰出论文奖（Outstanding Paper）揭晓，全球共 18 篇入选，其中包含美团履约技术团队的1篇论文。本文介绍了一种专为 RLVR 设计的低秩训练方法，以及它在业务 Agentic RL 中的落地经验。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "01f52c3bbd36c83d",
+      "title": "屏幕使用时长导致学生阅读得分大幅下降",
+      "url": "https://www.solidot.org/story?sid=85333",
+      "source": "solidot",
+      "publishedAt": "2026-09-09T17:13:04.000Z",
+      "excerpt": "青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任务的学生，其科学成绩平均低了 20分，相当于一年的学习差距。PISA 阅读成绩指数于 2012 年达到 501 分的最高值，到去年降至了 466 分。OECD 秘书长 Mathias Cormann 表示：“在阅读上，屏幕使用时长的增加和兴趣阅读的减少，与成绩下滑有着密切联系。",
+      "section": "cn-tech",
+      "rankScore": 0.626589
+    },
+    {
+      "id": "fcc42d798352f3c5",
+      "title": "GPT 88小时速通千禧年难题，数学家以后干什么？",
+      "url": "https://www.36kr.com/p/3976856757711360",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-10T00:41:09.000Z",
+      "author": "差评",
+      "excerpt": "什么叫 88 小时速通千禧年大奖难题？ 今天凌晨，OpenAI 又整了个大的。他们宣称，一个比 Astra 更牛逼的内部新模型，只用了 88 小时，就攻克了著名的纳维–斯托克斯方程存在性与光滑性问题。 听不懂没关系，你只需要知道，它和黎曼猜想一起，都位列七大千禧年大奖难题，解决一道，就发 100 万美元。 上一个也是之前唯一一个解决的是庞加莱猜想，作者是下面这位不拘一格的俄罗斯老神仙佩雷尔曼，后面还斩获了菲尔兹奖。（ 虽然没去领。。。） 本来又是一场酣畅淋漓的震惊瘫坐，但有两位数学家 Buckmaster 和 Alpöge 站了出来。",
+      "section": "cn-tech",
+      "rankScore": 0.624684
+    },
+    {
+      "id": "b76b83c1fe3a7f58",
+      "title": "技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码",
+      "url": "https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-09T18:39:47.000Z",
+      "author": "模力工厂",
+      "section": "cn-tech",
+      "rankScore": 0.593714
+    },
+    {
+      "id": "69fe00234d056e23",
+      "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
+      "url": "https://sspai.com/post/114393",
+      "source": "sspai",
+      "publishedAt": "2026-09-09T21:30:34.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。",
+      "section": "cn-tech",
+      "rankScore": 0.512923
+    },
+    {
+      "id": "32c5fc7bf67ef414",
+      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "url": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-09T18:26:05.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam…",
+      "section": "security",
+      "rankScore": 0.589908
+    },
+    {
+      "id": "b64c894289840afc",
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-09T16:34:05.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome.",
+      "section": "security",
+      "rankScore": 0.558797
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
