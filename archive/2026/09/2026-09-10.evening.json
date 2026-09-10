@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-10",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-10T16:21:33.423Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "79c471ac50b31a68",
+      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+      "url": "https://news.ycombinator.com/item?id=49643556",
+      "source": "hn-front",
+      "publishedAt": "2026-09-10T13:39:53.000Z",
+      "score": 342,
+      "author": "jacquesm",
+      "excerpt": "342 points · 133 comments · https://news.ycombinator.com/item?id=49643556",
+      "section": "tech",
+      "rankScore": 0.997218
+    },
+    {
+      "id": "0eb6aab5619e464a",
+      "title": "A Guide to Application Networking Basics",
+      "url": "https://blog.bytebytego.com/p/a-guide-to-application-networking",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-10T15:31:28.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we will look at the various aspects of networking in detail.",
+      "section": "tech",
+      "rankScore": 0.741744
+    },
+    {
+      "id": "b1684788260c6413",
+      "title": "Xcode 27 runner image now runs on macOS 27",
+      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-10T15:15:36.000Z",
+      "author": "Allison",
+      "excerpt": "You can now validate your Apple apps against macOS 27 using the Xcode 27 runner image for GitHub-hosted macOS runners, available in public preview. The image previously ran on macOS…",
+      "section": "tech",
+      "rankScore": 0.666176
+    },
+    {
+      "id": "073e8095c30aabc6",
+      "title": "My HTML Boilerplate",
+      "url": "https://vale.rocks/posts/html-boilerplate",
+      "source": "lobsters",
+      "publishedAt": "2026-09-10T16:13:28.000Z",
+      "author": "vale.rocks via FedericoSchonborn",
+      "section": "tech",
+      "rankScore": 0.626266
+    },
+    {
+      "id": "c47382dade6ff1d5",
+      "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+      "source": "cloudflare",
+      "publishedAt": "2026-09-10T13:00:00.000Z",
+      "excerpt": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
+      "section": "tech",
+      "rankScore": 0.536974
+    },
+    {
+      "id": "747a064887eca750",
+      "title": "Electric air taxis get the green light for test flights in Texas",
+      "url": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
+      "source": "verge",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "author": "Andrew J. Hawkins",
+      "excerpt": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized.",
+      "section": "tech",
+      "rankScore": 0.482262
+    },
+    {
+      "id": "f573d24d7db581a6",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "openai",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "excerpt": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "section": "ai",
+      "rankScore": 0.75784
+    },
+    {
+      "id": "6091ce9533eee549",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "openai",
+      "publishedAt": "2026-09-10T15:00:00.000Z",
+      "excerpt": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "section": "ai",
+      "rankScore": 0.723993
+    },
+    {
+      "id": "aad9764b96040bf2",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "author": "Peter Schottenfels",
+      "excerpt": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "section": "ai",
+      "rankScore": 0.688945
+    },
+    {
+      "id": "036f14f75460f2ba",
+      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-10T16:21:33.423Z",
+      "excerpt": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "1e371bf6113bc9cb",
+      "title": "多人同时改地图、标数据，JupyterGIS 正在重做 GIS 工作流",
+      "url": "https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-10T14:21:00.000Z",
+      "author": "作者：Olimpiu Pop",
+      "section": "cn-tech",
+      "rankScore": 0.638176
+    },
+    {
+      "id": "6b4fd1e7997b80e5",
+      "title": "关键时刻可以救命的Web Locks API",
+      "url": "https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/",
+      "source": "zhangxinxu",
+      "publishedAt": "2026-09-10T10:37:44.000Z",
+      "author": "张 鑫旭",
+      "excerpt": "书到用时方恨少，没想到，多个浏览器页面同时操作同一个资源的时候，原来有原生的API可以进行“排它锁”一样的管控，关键时刻可真是救命了。",
+      "section": "cn-tech",
+      "rankScore": 0.628416
+    },
+    {
+      "id": "e147b735392a1079",
+      "title": "微软九月例行更新修复近千个 Bug",
+      "url": "https://www.solidot.org/story?sid=85338",
+      "source": "solidot",
+      "publishedAt": "2026-09-10T11:42:20.000Z",
+      "excerpt": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113 个 bug 被列为高危，438 个提权 bug，19 个安全功能绕过 bug，258 个远程代码执行 bug，173 个信息泄露 bug，56 个拒绝服务 bug，16 个欺骗 bug。",
+      "section": "cn-tech",
+      "rankScore": 0.612489
+    },
+    {
+      "id": "dded015ef13e1215",
+      "title": "50%都在赔钱，算力中心大量吃灰",
+      "url": "https://www.36kr.com/p/3977503000509447",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-10T13:07:28.000Z",
+      "author": "铅笔道",
+      "excerpt": "半年卖出近9亿元算力服务，净利润增长7倍。 这是2026年上半年并行科技的“收成”。同样，几家AI巨头厂商，也“几乎没有一张GPU是闲置的”。 另一边，西部某城一座千卡级智算中心，上架率不足50%，已经上架的服务器实际利用率不足30%，每年运营成本却超过3000万元。行业人士估算，全国智算中心利用率大约只有20%—30%。 一边抢卡，一边空转。 头部AI公司需要的高性能、大规模、稳定集群仍然紧张；一些地方提前建好的算力，却没有找到匹配的客户和应用。",
+      "section": "cn-tech",
+      "rankScore": 0.54042
+    },
+    {
+      "id": "1ea23a3080cd161e",
+      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+      "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-10T14:36:47.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the official Android app marketplace.",
+      "section": "security",
+      "rankScore": 0.64627
+    },
+    {
+      "id": "105f7a9df487440d",
+      "title": "AVEVA Pipeline Integrity Monitor",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-253-01",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose information, brute-force hashes, or run arbitrary code in a browser session.",
+      "section": "security",
+      "rankScore": 0.565868
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
