@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-11",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-11T14:58:24.454Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "bee1a1cd54b6b606",
+      "title": "專訪鄧燕娥：與李卓人相伴四十年「互相撐著」",
+      "url": "https://www.bbc.com/zhongwen/articles/cj4jyk29dq7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-11T13:23:26.000Z",
+      "excerpt": "已解散的香港市民支援愛國民主運動聯合會（支聯會）被控「煽動他人顛覆國家政權」案正式宣判，前主席李卓人被定罪判刑7年。",
+      "section": "news",
+      "rankScore": 0.776684
+    },
+    {
+      "id": "e797a943e3060b2b",
+      "title": "9-11袭击事件25年后重看地缘政治格局重组中的美国",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260911-9-11%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B625%E5%B9%B4%E5%90%8E%E9%87%8D%E7%9C%8B%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E6%A0%BC%E5%B1%80%E9%87%8D%E7%BB%84%E4%B8%AD%E7%9A%84%E7%BE%8E%E5%9B%BD",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-11T14:38:18.000Z",
+      "author": "瑞迪",
+      "excerpt": "25年前的9月11日当地时间上午8点40，两架被劫持的飞机撞向美国纽约的地标性建筑世贸中心两座大楼，紧接着另一架飞机冲向美国国防部五角大楼，第四架可能原本计划冲向国会山或白宫的飞机则因机上乘客奋起与劫机者搏斗，而最终在宾夕法尼亚州某地坠毁。短短两个小时，世界第一大强国本土的几处极具象征意义的建筑遭遇袭击，近三千人瞬间殒命，超过六千人受伤。这起事件震惊了美国，也震惊了世界，深刻影响了美国此后数年以反恐为中心的国内国际政策，也为此后二十多年间的国际地缘政治格局重组埋下伏笔。",
+      "section": "news",
+      "rankScore": 0.688829
+    },
+    {
+      "id": "a9775b96e66dde13",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-11T14:46:28.000Z",
+      "excerpt": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "section": "news",
+      "rankScore": 0.62403
+    },
+    {
+      "id": "03ce9b63bfaacc42",
+      "title": "U.S. allies in Europe recall trans-Atlantic bonds after the 9/11 attacks.",
+      "url": "https://www.nytimes.com/live/2026/09/11/nyregion/9-11-anniversary-25th/europe-us-allies-sept-11",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-11T14:46:28.000Z",
+      "author": "Lara Jakes",
+      "excerpt": "As Europe grapples with an era of American retren",
+      "section": "news",
+      "rankScore": 0.554693
+    },
+    {
+      "id": "c373cff0fcf543b6",
+      "title": "Trump uses 9/11 memorial speech to defend Iran war as families commemorate victims of attack – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-11T14:45:58.000Z",
+      "author": "Shrai Popat (now) and Tom Ambrose (earlier)",
+      "excerpt": "President uses moment for political speech as victims killed in September 11 attacks honored at memorials across the US On 11 September, 25 years ago, Osama bin Laden drove with a small number of al-Qaida retainers and aides to a remote location in eastern Afghanistan.",
+      "section": "news",
+      "rankScore": 0.554471
+    },
+    {
+      "id": "496c46477fb021c9",
+      "title": "Ebola case detected in seventh DR Congo province",
+      "url": "https://www.aljazeera.com/news/2026/9/11/ebola-case-detected-in-seventh-dr-congo-province?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-11T14:32:15.000Z",
+      "excerpt": "Case found in northwestern province of South-Ubangi bordering the Central African Republic and Congo-Brazzaville.",
+      "section": "news",
+      "rankScore": 0.548374
+    },
+    {
+      "id": "e04b0b0217ce9c46",
+      "title": "Warsh under mounting pressure to raise rates as US inflation persists",
+      "url": "https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-11T14:44:33.000Z",
+      "excerpt": "Inflation remained stubbornly elevated at 3.4% in August at the end of a week of surging oil prices",
+      "section": "news",
+      "rankScore": 0.484611
+    },
+    {
+      "id": "63112ddc0a1be01f",
+      "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
+      "source": "npr-news",
+      "publishedAt": "2026-09-11T14:16:35.000Z",
+      "author": "Cooper Katz McKim",
+      "excerpt": "Why Patagonia might become a new data center hub",
+      "section": "news",
+      "rankScore": 0.473735
+    },
+    {
+      "id": "d204fc08a5e524bb",
+      "title": "A Promising Heart Drug Failed. What Went So Wrong?",
+      "url": "https://www.nytimes.com/2026/09/11/science/heart-drug-failed-novartis.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-11T13:54:20.000Z",
+      "author": "Gina Kolata",
+      "excerpt": "Cardiologists are struggling to figure out why a drug that should have prevented heart attacks didn’t work at all.",
+      "section": "news",
+      "rankScore": 0.465082
+    },
+    {
+      "id": "b3fe4b56f31cd824",
+      "title": "哈马斯下属卡桑旅证实其高级成员被以军打死",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyM2g4Mi0zQjlyMFc1YVpHWWtuVmJ5TTZZb29aemlmUFE1RWFWaFlSQ2Z5MV9uS0tLXzZjSTM1eFFjU3pVZ3YtYjQ4OG9zTjY1NUpHMnIydU9vRlZGVWRONHpaWGRpamhjUmJDcldSeHVURDJPTWxHOFJkb0p4dFU?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-11T14:22:07.000Z",
+      "excerpt": "哈马斯下属卡桑旅证实其高级成员被以军打死 新华网 以军袭击加沙多地 造成至少4人死亡 新浪财经 以军称摧毁加沙多处武器储存设施和火箭弹发射阵地 Sohu 优素福·阿基拉，遇袭身亡 光明网 哈马斯军委成员被以色列斩首，当年以色列用他和辛瓦尔等1027人换1名以军 c.m.163.com",
+      "section": "news",
+      "rankScore": 0.407903
+    },
+    {
+      "id": "9cc1225f7f0b2407",
+      "title": "美国在阿富汗的“永久战争”：25年影像全记录",
+      "url": "https://cn.nytimes.com/world/20260911/afghanistan-war-photojournalism/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-11T04:46:19.000Z",
+      "author": "《纽约时报》",
+      "excerpt": "阿富汗战争始于9·11袭击仅数周后，持续近20年，最终在2021年8月15日的混乱中结束。时报记者全程报道了这场战争，并在战争结束后继续记录阿富汗人民的生活。 Jim Huylebroek for The New York Times",
+      "section": "news",
+      "rankScore": 0.395944
+    },
+    {
+      "id": "cdb63b5bd749bc57",
+      "title": "Surge in displacement following fighting in southwest Yemen",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168314",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-11T12:00:00.000Z",
+      "excerpt": "At least 46,000 people have been displaced since renewed fighting last week between Houthi rebels and pro-government forces in southwestern Yemen, the International Organization for Migration (IOM) reported on Friday.",
+      "section": "news",
+      "rankScore": 0.360531
+    },
+    {
+      "id": "365c586ec7b64a3d",
+      "title": "话剧《寻味》：两岸戏剧人共述“回家”故事",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695082.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-11T14:52:45.000Z",
+      "excerpt": "中新社北京9月11日电 (记者 张杨彬)上海话、温州话、四川话、广东话……话剧《寻味》11日在北京上演。舞台上各地方言交织，台湾演员李志希对此并不陌生——他幼时曾到二伯居住的眷村玩耍，他说，真实的眷村就是这样，方言、食物与乡愁融在一起。",
+      "section": "cn-news",
+      "rankScore": 0.766543
+    },
+    {
+      "id": "62cddbfc8e40efd1",
+      "title": "男子虚构伪造“停止资助某学生后遭对方威胁” 警方通报",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694968.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-11T12:57:50.000Z",
+      "excerpt": "中新网9月11日电 据“嘉峪关公安”微信公众号消息，甘肃省#8204;嘉峪关市公安局发布警情通报称，近日，网传“男子停止资助某学生后遭对方威胁”相关信息及聊天截图、视频，引发网络关注。嘉峪关市公安局迅速联合相关部门开展核查。",
+      "section": "cn-news",
+      "rankScore": 0.759617
+    },
+    {
+      "id": "d5adbefe29dd5f17",
+      "title": "服务消费如何高质量发展？多方共探新路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695074.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-11T14:31:12.000Z",
+      "excerpt": "中新网北京9月11日电 (钟余)2026年中国国际服务贸易交易会主题论坛——2026国际消费趋势大会暨服务消费高质量发展论坛日前在首钢园举行，本次论坛以“开放合作共赢 创新服务消费”为主题，围绕内外市场融通、服务消费创新等议题展开研讨，探寻服务消费高质量发展新路径。",
+      "section": "cn-news",
+      "rankScore": 0.616396
+    },
+    {
+      "id": "890e01c0da22a0d9",
+      "title": "国家药监局局长黄果在西藏调研藏药高质量发展工作",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hZlV0TVJWY1N0TnE2UHU5ajEtbHZ6WGRUNnNJazg3ZjRwS3dtZHJhZmFOV2hKOXFCN1JTNy1jd1NGT3BnR2dxc2xiVDNuMUtVVDFKVzNfOFk?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-11T14:19:37.000Z",
+      "excerpt": "国家药监局局长黄果在西藏调研藏药高质量发展工作 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.610605
+    },
+    {
+      "id": "533e3243883222d7",
+      "title": "金砖国家工商论坛在新德里举行",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84MzJuUFhBNzFvMFpwSnNkRTdSVV9xU2ZOYWpzNm9kMWk3TmpqRllROXFwdm54cllMaWJkeFg3MWVvUm01RlVkYkxmd1BZQkxGSVZ4c19VU3pMMWlMVkFIY2xCMktlelRW?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-11T14:42:12.000Z",
+      "excerpt": "金砖国家工商论坛在新德里举行 央广网",
+      "section": "cn-news",
+      "rankScore": 0.552797
+    },
+    {
+      "id": "7cd3c4baafebd3b8",
+      "title": "澎湃漫评｜新学期“吃作业”？别被猎奇食品带歪",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aWFRXa3hXQjNkU19qR1NpOHZhcFBWbVI1UWtNbDl6a3JKZkp6SElGY1ZwaUFmQWZzYk9KMjZhVEVtQ2VmWWxpWDlYX0NSdHNoakJTNHYyVkFVdUYxaTNGVw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-11T11:33:00.000Z",
+      "excerpt": "澎湃漫评｜新学期“吃作业”？别被猎奇食品带歪",
+      "section": "cn-news",
+      "rankScore": 0.527296
+    },
+    {
+      "id": "217ff3e46241721f",
+      "title": "新华GEO智能体平台发布海外生成式引擎营销服务 助力工业企业拓展全球市场",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS19vSnZJYUl5dGFTa2Z2S3FTenpjdFk4TlFyVTZ3SmhJbjNFa3JUYlhqSm1uQ0Zmd1ZOdjVHLWtQVkgwbThNTlFtcTZYNFJnT2pGQkFXdzhUdVFlaFBLVjQ2UFFOOWVMNlJLQzVpTHVPekVmYTIyNnBTUG8zM0ZrMDVhOXRWTlY2?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-11T14:33:48.000Z",
+      "excerpt": "新华GEO智能体平台发布海外生成式引擎营销服务 助力工业企业拓展全球市场 新华网 考考你，这场大会上的“热词”你都了解吗？-思客 新华网 2026全球工业互联网大会在沈阳闭幕 新浪财经 替工厂“动脑筋”，AI让工业互联更智能 china.com.cn 聚焦“智改数转 AI兴工” 听听专家怎么说 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.48043
+    },
+    {
+      "id": "b474c18663ca816c",
+      "title": "新官不理舊債 貴州畢節市委書記被通報追責",
+      "url": "https://www.cna.com.tw/news/acn/202609110289.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-11T11:33:05.000Z",
+      "excerpt": "（中央社台北11日電）據中共中央紀委、國家監委網站消息，中紀委公開通報6起地方政府隱性債務追責問責典型案例，其中包括貴州省委原常委、畢節市委原書記吳勝華政績觀嚴重偏差，新官不理舊帳，多次在公開場合發表「債都是前面欠的，憑什麼讓我還」的言論。",
+      "section": "cn-news",
+      "rankScore": 0.468745
+    },
+    {
+      "id": "02429a66cfaf513e",
+      "title": "Study reveals link between Tibetan Plateau heat and record rain in California",
+      "url": "https://www.scmp.com/news/china/science/article/3367230/study-reveals-link-between-tibetan-plateau-heat-and-record-rain-california?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-11T14:00:08.000Z",
+      "author": "Victoria Bela",
+      "excerpt": "Abnormally high temperatures across the Tibetan Plateau in early winter can trigger catastrophic rainstorms in California, according to a new study revealing a previously unidentified climate connection.",
+      "section": "cn-news",
+      "rankScore": 0.467338
+    },
+    {
+      "id": "982d063fb8f979d7",
+      "title": "专访易中天：AI时代，创作者更需坚持创造力与审美品位",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iNTlLT2ZTUFUwX05hRlpvWkE1M2dEbnJyNnoyUENvVWcxZE1laVFQc2pubUFYdFhSVVd5NDM5OFFjd1pnNFd5Nlo3RTZIS3ZiMWtsaUFSSDlQMDJnUzlWU1gteWl5cGdyV0E?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-11T12:53:08.000Z",
+      "excerpt": "专访易中天：AI时代，创作者更需坚持创造力与审美品位 chinanews.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.378242
+    },
+    {
+      "id": "334674fdd3cf4963",
+      "title": "广西船员培训教师教学能力竞赛举办",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10695044.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-11T14:04:36.000Z",
+      "excerpt": "中新网钦州9月11日电(黄艳梅 蒋瑞卿 黄镁光)广西船员培训教师教学能力竞赛11日在钦州市举办。广西各航海院校、职业院校及船员培训机构的教师代表同台竞技、相互交流，集中展示广西船员培训教学水平。",
+      "section": "cn-life",
+      "rankScore": 0.804128
+    },
+    {
+      "id": "240549effaaa98f3",
+      "title": "陕西山阳县天竺山镇就近搭建就业平台",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTItWmFuQjZHUFhtTU9lQzVWd0V6dk5sbE1LM296Q1hKZF8tS3hDNHB3dDA2MjJkTmFHZGthdUY5WENaeDMtdFNBNW1SS2s3X3VpUy1MTlNaVFAzdk5oX0RPR09zQ2FOZGg0ZUxCMktVQ0FLMmxQcmlzZEpyamdIZU9aTTRhSTh3cVpHTVhyMEN0OWdSclEzaA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-11T14:51:34.000Z",
+      "excerpt": "陕西山阳县天竺山镇就近搭建就业平台 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.62658
+    },
+    {
+      "id": "5cad1983bd8663ca",
+      "title": "大雨！暴雨！即将抵达福建",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb0M3eXJJMm9hRUtZVDRnU001SFdCNVRIc2NGdVpSckdQZHJGbC1TakVxbEFtTzhuUm1TTXZjQ3lwWnpMYkNaa1NkRGR0TW80RVJEaUhSUHljczREWDFvYUx6QmxNallQOUF4Tkg5SGJ5MEI4N0RBNTdqTlBOM1RndHVhMC1aRHowLXozNWNnVkRiY3U1WF81amk1RE50Y290R0NXdG1odkZGX0w3ei1EaVFmU2ljQVYxVmN3VFQwbUNTTmh1WnZVSUVjRGJoNlIxQWJ0eFh3?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-11T14:32:40.000Z",
+      "excerpt": "大雨！暴雨！即将抵达福建 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.61713
+    },
+    {
+      "id": "83ef3b93be966a2d",
+      "title": "生态环境部党组书记孙金龙赴黑龙江省调研生态环境保护工作",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EUk5saUxsUUlaRzFkVU42WmFGNzZ3dHl1azRkZVY0bVVhOTR2d2xVYmEtX0xnVUMzaDMxWm00eElhbmM4OXoyMkJEQ1loTlZUclVqdEtod19PdUxlcFVFd1ZEWndUdnk3RVQ2amxOTWs2RWhsR3c?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-11T14:22:13.000Z",
+      "excerpt": "生态环境部党组书记孙金龙赴黑龙江省调研生态环境保护工作 中华人民共和国生态环境部",
+      "section": "cn-life",
+      "rankScore": 0.543915
+    },
+    {
+      "id": "d8cf67816d301113",
+      "title": "【安全行】阳光汾河湾社区 ：检查小饭桌 守护食品安全",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3UzTVM2TTNzZXcwc3JnbTlUTmVtWUlwaFd5R21qY1VDUzVRa1lXR2hEYTRtSGZNc05ZN1Y2UVBjQUs2UTNteWlOQTlVQUpnWU9IX2dUeWRkZDhaWHNoeFlwOFRQQXROcklRcDZ2V0c2WHU4dHVSa2paMTJWbnVudDZUM0JHajh6dzBKMzlmeXhJd2FLN094Sw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-11T14:32:12.000Z",
+      "excerpt": "【安全行】阳光汾河湾社区 ：检查小饭桌 守护食品安全 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.479808
+    },
+    {
+      "id": "180b265afbb05c4c",
+      "title": "以为只是上火发炎，宁波男子半年后确诊肿瘤晚期！医生：并不少见，这些警报别忽视 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrNmhudi1aOVk0cmtFQ0tNdjNMZ0JLdWhHc0Fsd2tKcjl0elVxSDNqWlJJRUZXT21fbmJyRTl5Y0RQMmZSaHV2ekl1QnR6LW9JYVE?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-11T12:12:59.000Z",
+      "excerpt": "以为只是上火发炎，宁波男子半年后确诊肿瘤晚期！医生：并不少见，这些警报别忽视 Sohu 这种恶性肿瘤，一开始像得了感冒，很多人发现的时候，错过了“救命时间”… 光明网 盗汗皮肤痒一查淋巴癌末 医生：3部位长肿块要注意 chinapress.com.my 9 月 15 日世界淋巴癌日 / 淋巴癌新诊断人数 20 年增逾 1 倍！医提醒注意 6 警讯 molihua.org 以为啤酒肚 33岁男肚子长肿瘤 医：注意6警讯 aboluowang.com",
+      "section": "cn-life",
+      "rankScore": 0.425668
+    },
+    {
+      "id": "96e3e320cebfcc1d",
+      "title": "致敬特殊教育教师群体——点亮星星的人",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xOEU1eTB6aE5GUGZIOHVUeHBKQ3ZBb0ROQnlZTWYtWlUtM2ZvM3pESG9iazRETTZYSnAzYmVad3R6bmhOTDFIQlFYT0tUT25IUFV2ZmFFX1ZidndjWUFJX2twamx4NFY5YUVQQkh2aEJwV0t0anYyREE0bw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-11T14:25:09.000Z",
+      "excerpt": "致敬特殊教育教师群体——点亮星星的人 中国日报网",
+      "section": "cn-life",
+      "rankScore": 0.408914
+    },
+    {
+      "id": "ffc7d1553e3c2bbd",
+      "title": "秋燥综合征，典型五大表现都有啥？",
+      "url": "https://www.chinanews.com.cn/life/2026/09-11/10694585.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-11T06:07:24.000Z",
+      "excerpt": "认清秋燥综合征 科学防护护黏膜",
+      "section": "cn-life",
+      "rankScore": 0.404996
+    }
+  ],
+  "warnings": []
+}
