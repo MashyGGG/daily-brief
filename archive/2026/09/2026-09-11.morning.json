@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-11",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-11T01:02:42.503Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "4bc17172ea398962",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "source": "hn-front",
+      "publishedAt": "2026-09-10T14:09:31.000Z",
+      "score": 751,
+      "author": "fnthawar2",
+      "excerpt": "751 points · 507 comments · https://news.ycombinator.com/item?id=49643982",
+      "section": "tech",
+      "rankScore": 1.034125
+    },
+    {
+      "id": "7f187ab0dd54c45d",
+      "title": "Refreshed repository pull requests page in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-10T21:27:17.000Z",
+      "author": "Allison",
+      "excerpt": "A refreshed repository-level pull request listing page is now in public preview for all GitHub users. It brings powerful filtering, compact presentation mode, and more. Highlights The new page makes…",
+      "section": "tech",
+      "rankScore": 0.64016
+    },
+    {
+      "id": "0ea433b0dadccdd0",
+      "title": "The Pulse #191: a new trend of CPU shortages",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-09-10T17:13:44.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "For compute-intensive services: it’s worth reserving more compute now. Also: growth dreams end for more COVID-era unicorns, engineers losing touch with systems when AI handles incidents, and more",
+      "section": "tech",
+      "rankScore": 0.626702
+    },
+    {
+      "id": "876ab10ec3060b0b",
+      "title": "Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)",
+      "url": "https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/",
+      "source": "kubernetes",
+      "publishedAt": "2026-09-10T18:30:00.000Z",
+      "excerpt": "In Kubernetes, resource allocation has historically been a static decision made during a Pod's initial scheduling and placement. With the graduation of the core in-Place Pod resize feature to General Availability in v1.35, application developers and cluster operators gained the powerful ability to…",
+      "section": "tech",
+      "rankScore": 0.590914
+    },
+    {
+      "id": "9cc3c179998f9237",
+      "title": "Soft-deprecating re.match()",
+      "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-10T21:59:16.000Z",
+      "author": "hugovk.dev via ubernostrum",
+      "section": "tech",
+      "rankScore": 0.58414
+    },
+    {
+      "id": "d7195ed7d246142b",
+      "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+      "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-10T22:16:05.000Z",
+      "author": "Beth Mole",
+      "excerpt": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+      "section": "tech",
+      "rankScore": 0.457601
+    },
+    {
+      "id": "498848c0e18ca097",
+      "title": "Any Nix package, live in your browser",
+      "url": "https://simonwillison.net/2026/Sep/10/trynix/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-10T23:44:15.000Z",
+      "excerpt": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly.",
+      "section": "ai",
+      "rankScore": 0.813847
+    },
+    {
+      "id": "7809e445deb87fd6",
+      "title": "Native is now the future of mobile at Shopify",
+      "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-10T21:11:15.000Z",
+      "excerpt": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features…",
+      "section": "ai",
+      "rankScore": 0.762847
+    },
+    {
+      "id": "e901189a7cd411da",
+      "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-09-11T00:11:50.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。...",
+      "section": "cn-tech",
+      "rankScore": 0.891628
+    },
+    {
+      "id": "e6929ffe89953f3b",
+      "title": "2026 腾讯云大数据年度精选技术实践指南",
+      "url": "https://www.infoq.cn/minibook/W2lxNULd8rJGsXWjEgMX?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-10T20:26:52.000Z",
+      "author": "腾讯云大数据",
+      "section": "cn-tech",
+      "rankScore": 0.623377
+    },
+    {
+      "id": "fe36ce57bde13274",
+      "title": "OpenAI宣布：ChatGPT Pro 20X停止订阅",
+      "url": "https://www.36kr.com/p/3978220011928576",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-11T00:09:34.000Z",
+      "author": "机器之心",
+      "excerpt": "Astra 太好用，连 OpenAI 也扛不住了。 本周五凌晨，OpenAI 宣布暂停 ChatGPT Pro $200（Pro 20X）套餐的新订阅和升级，现有用户不受影响。 正如 Tibo（OpenAI 核心产品与平台负责人、原 Codex 主管 Thibault Sottiaux）所说，Astra 模型性能优异，引发的需求前所未有，现在保证用户体验的算力不够用了。 新的供需关系是无法预测的，OpenAI 没有给出恢复销售的具体时间，只是表示正在尽快增加容量。 这件事已经得到 OpenAI 帮助中心确认。不得不说，最近大模型公司的临时公告发得飞起，让人有点应接不暇。",
+      "section": "cn-tech",
+      "rankScore": 0.616715
+    },
+    {
+      "id": "49dacea4a5ee1687",
+      "title": "LG 强烈否认其监视电视用户",
+      "url": "https://www.solidot.org/story?sid=85341",
+      "source": "solidot",
+      "publishedAt": "2026-09-10T16:33:09.000Z",
+      "excerpt": "本周早期时候，YouTube 主播 Gamers Nexus 与独立安全研究人员合作，发现 LG 的智能电视机即便在离线或待机模式下也会持续记录并上传用户数据。LG 电视还会扫描 Wi-Fi 网络、记录音频日志，采样音视频输入内容以识别用户正在观看的节目。LG 在一则声明中称视频内容不实，“LG 电视仅在用户按住遥控器上的语音按钮，或在激活 Far-Field 功能后识别出‘Hi LG’等唤醒词时，才会处理语音数据。”LG 表示除此之外其智能电视不会收集或记录环境中的对话。如果未识别出唤醒词，电视不会向服务器传输任何语音数据，针对唤醒词的音频处理是在设备本地完成的。",
+      "section": "cn-tech",
+      "rankScore": 0.614302
+    },
+    {
+      "id": "4657ed8f299d5fd7",
+      "title": "派早报：商务部回应美国 AI 蒸馏指控",
+      "url": "https://sspai.com/post/114439",
+      "source": "sspai",
+      "publishedAt": "2026-09-10T22:58:54.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "商务部回应美国 AI 蒸馏指控 谷歌声称为了合规将「降级」欧盟搜索服务 Apple 智能将有用量限制 OpenAI 将与三星合作开发芯片 小岛秀夫新游戏被索尼取消，转由微软发行 DeepSeek V4.1 发布 看看就行的简讯 少数派的近期动态 你可能错过的好文章",
+      "section": "cn-tech",
+      "rankScore": 0.532487
+    },
+    {
+      "id": "0a10cb63d4ad60b5",
+      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-10T17:47:38.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed.",
+      "section": "security",
+      "rankScore": 0.579146
+    },
+    {
+      "id": "a21a847a4dcb2715",
+      "title": "Orthanc DICOM Server",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-02",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated remote attacker to write past the end of a heap allocation when Orthanc decodes an attacker-supplied PNG or JPEG image, resulting in a crash of the Orthanc process and a denial-of-service condition.",
+      "section": "security",
+      "rankScore": 0.482581
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
