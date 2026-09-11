@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-11",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-11T16:25:18.892Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "03e287b23c993240",
+      "title": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "source": "hn-front",
+      "publishedAt": "2026-09-11T10:48:00.000Z",
+      "score": 317,
+      "author": "Muhammad523",
+      "excerpt": "317 points · 388 comments · https://news.ycombinator.com/item?id=49656225",
+      "section": "tech",
+      "rankScore": 0.977623
+    },
+    {
+      "id": "de8829faf705bc56",
+      "title": "Learn Claude Code, evals, AI systems, and more: ByteByteGo Live is here",
+      "url": "https://blog.bytebytego.com/p/learn-claude-code-evals-ai-systems",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-11T15:32:16.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Most online courses never get finished (~4% completion). Live cohorts get ~40%, roughly 10x higher. Live courses are the only courses people actually finish. So we’re launching ByteByteGo Live.",
+      "section": "tech",
+      "rankScore": 0.740075
+    },
+    {
+      "id": "100b41427d28164c",
+      "title": "NVIDIA Personal AI Router Distributes AI Tasks Across Local Compute",
+      "url": "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-11T15:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "NVIDIA Personal AI Router (PAIR), now available in beta, lets you combine the inference capacity of multiple computers on your local network and automatically distribute AI requests among them.",
+      "section": "tech",
+      "rankScore": 0.656249
+    },
+    {
+      "id": "d22519c63631d7c8",
+      "title": "Everything is a Trust Decision",
+      "url": "https://nrd.sh/blog/everything-is-a-trust-decision.html",
+      "source": "lobsters",
+      "publishedAt": "2026-09-11T15:41:04.000Z",
+      "author": "nrd.sh by nrdxp",
+      "excerpt": "A machine checked proof of the exhaustive boundaries of trust. I'll let the text carry the rest. Comments",
+      "section": "tech",
+      "rankScore": 0.609578
+    },
+    {
+      "id": "c1988ad0cd5bcf5b",
+      "title": "The White House calls Truth Social the ‘most powerful and popular’ social media platform",
+      "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+      "source": "verge",
+      "publishedAt": "2026-09-11T16:21:19.000Z",
+      "author": "Emma Roth",
+      "excerpt": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms…",
+      "section": "tech",
+      "rankScore": 0.488565
+    },
+    {
+      "id": "d16257f064602dc8",
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-11T13:02:35.000Z",
+      "author": "Zehra Munir, Financial Times",
+      "excerpt": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "section": "tech",
+      "rankScore": 0.417225
+    },
+    {
+      "id": "a2eea69610d38e51",
+      "title": "Don't sleep on wrapture",
+      "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-11T13:51:32.000Z",
+      "excerpt": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it almost daily since the initial release on August 31st.",
+      "section": "ai",
+      "rankScore": 0.745365
+    },
+    {
+      "id": "c46b265f0991db9c",
+      "title": "Datasette 1.0a39 and 0.65.4 security releases",
+      "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-11T03:27:16.000Z",
+      "excerpt": "Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family.",
+      "section": "ai",
+      "rankScore": 0.361201
+    },
+    {
+      "id": "70ce20866daa8b0f",
+      "title": "当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察",
+      "url": "https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-11T16:10:31.000Z",
+      "author": "凌敏",
+      "section": "cn-tech",
+      "rankScore": 0.692411
+    },
+    {
+      "id": "4eb182941eb182b4",
+      "title": "“AI写的代码「惨不忍睹」！”Linux内核开发者吐槽：Bug找得挺准，23个补丁最高提速90%，但代码都是我重写的",
+      "url": "https://www.36kr.com/p/3978950516636674",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-11T13:21:26.000Z",
+      "author": "CSDN",
+      "excerpt": "你让 AI 帮忙找 Bug，可能找得挺准；但你要让它自己修 Bug，代码可能“惨不忍睹”——最近，Arm 工程师、长期参与 Linux 内核开发的 Lorenzo Stoakes 就碰上了这么一件事。 为了加快 Linux 内核编译，他找来了大模型帮忙排查问题，结果 AI 还真没让他失望：隐藏在庞大构建流程中的 多个性能瓶颈被揪了出来 ，连后续的构建、测试、调试和分析也一起包办了。但轮到 AI 写修复代码时，Stoakes 的评价却非常直接： “它生成了很多代码，其中很多都惨不忍睹。”",
+      "section": "cn-tech",
+      "rankScore": 0.545132
+    },
+    {
+      "id": "a495a456f9eee0d7",
+      "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1，解决鸡尾酒会难题",
+      "url": "https://www.oschina.net/news/502427/xiaomi-cocktailasr-1",
+      "source": "oschina",
+      "publishedAt": "2026-09-11T09:00:25.000Z",
+      "excerpt": "把一个人声从嘈杂的人群中剥离出来，人类的听觉系统做这件事毫不费力。但对 ASR 模型来说，多人同时讲话的场景至今是一个未被充分解决的难题。小米刚刚开源的 CocktailASR-1，做出了一个有意思的尝试：不是做\"更好的降噪\"，而是从根本上改变任务的输入——先告诉模型你要听谁说话，再让模型只输出那个人的话。 这就是目标...",
+      "section": "cn-tech",
+      "rankScore": 0.424662
+    },
+    {
+      "id": "cf9670615995f5fc",
+      "title": "本周看什么 | 最近值得一看的 7 部作品",
+      "url": "https://sspai.com/post/114458",
+      "source": "sspai",
+      "publishedAt": "2026-09-11T10:02:49.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演， ...",
+      "section": "cn-tech",
+      "rankScore": 0.403078
+    },
+    {
+      "id": "6c9d364289f5b3e0",
+      "title": "【deepseek 实战·22】把键盘变成钢琴：五声音阶保底，怎么按都不难听## 开篇回顾程序员这双手，每天在键盘上",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOMTltam15Qy1vb1ByZTVVNkJVVmwyLTh1UVMtOXBhbXREbkR0eU5jVURHdGtUanIwZm04UlN3TVVtTlRDNzU5SzQ4d2FMYXdWNlBvWQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-11T12:17:00.000Z",
+      "excerpt": "【deepseek 实战·22】把键盘变成钢琴：五声音阶保底，怎么按都不难听## 开篇回顾程序员这双手，每天在键盘上 juejin.cn",
+      "section": "cn-tech",
+      "rankScore": 0.400861
+    },
+    {
+      "id": "980c6eb3465caa23",
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-11T14:29:47.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.",
+      "section": "security",
+      "rankScore": 0.640753
+    },
+    {
+      "id": "93045cbfe5fc6b11",
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-11T14:10:20.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.",
+      "section": "security",
+      "rankScore": 0.630779
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" failed: Error: HTTP 415",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
