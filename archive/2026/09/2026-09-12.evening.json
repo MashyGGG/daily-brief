@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-12",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-12T15:29:17.013Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "44fb23065e485c2a",
+      "title": "Fuck it, make it anyway",
+      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-12T11:42:32.000Z",
+      "score": 330,
+      "author": "JayOtter",
+      "excerpt": "330 points · 282 comments · https://news.ycombinator.com/item?id=49671329",
+      "section": "tech",
+      "rankScore": 0.914833
+    },
+    {
+      "id": "0a60c967556901ca",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "source": "hn-front",
+      "publishedAt": "2026-09-12T03:14:20.000Z",
+      "score": 519,
+      "author": "1e1a",
+      "excerpt": "519 points · 417 comments · https://news.ycombinator.com/item?id=49668386",
+      "section": "tech",
+      "rankScore": 0.732033
+    },
+    {
+      "id": "3e653d33045a5286",
+      "title": "Why do companies stop using Haskell?",
+      "url": "https://www.youtube.com/watch?v=2PebXEak24M",
+      "source": "lobsters",
+      "publishedAt": "2026-09-12T15:18:31.000Z",
+      "author": "youtube.com by vaibhavsagar",
+      "section": "tech",
+      "rankScore": 0.625031
+    },
+    {
+      "id": "e75c5cfa0f19bb43",
+      "title": "Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs",
+      "url": "https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-12T11:00:00.000Z",
+      "author": "Cassie Shum",
+      "excerpt": "Cassie Shum discusses why knowledge graphs serve as a critical foundation for agentic systems. Moving beyond basic RAG, she explains 4 practical architectural patterns: context bundling, decision provenance, code as truth, and agent visibility.",
+      "section": "tech",
+      "rankScore": 0.561906
+    },
+    {
+      "id": "b2468d77c2eae516",
+      "title": "LG responds to TV spying allegations",
+      "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+      "source": "verge",
+      "publishedAt": "2026-09-12T15:19:44.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users.",
+      "section": "tech",
+      "rankScore": 0.486572
+    },
+    {
+      "id": "38408472af9be76c",
+      "title": "I spent $4,000 on a robot dog from China",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-12T11:00:53.000Z",
+      "author": "Timothy B. Lee",
+      "excerpt": "Unitree might be the world’s most important robotics company.",
+      "section": "tech",
+      "rankScore": 0.393651
+    },
+    {
+      "id": "06abb4017a5d3526",
+      "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
+      "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+      "source": "latent-space",
+      "publishedAt": "2026-09-12T15:01:19.000Z",
+      "author": "Vinoo Ganesh",
+      "excerpt": "Before co-founding Kepler, Vinoo Ganesh led compute at Palantir and built Project Frontline — a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs.",
+      "section": "ai",
+      "rankScore": 0.754224
+    },
+    {
+      "id": "3f97471b66d418e9",
+      "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+      "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+      "source": "latent-space",
+      "publishedAt": "2026-09-12T05:56:05.000Z",
+      "excerpt": "We agree with Sebastian: this should have been DeepSeek v5",
+      "section": "ai",
+      "rankScore": 0.446656
+    },
+    {
+      "id": "f5d6d91885062dc3",
+      "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
+      "url": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-12T10:19:25.000Z",
+      "author": "傅宇琪,Tina",
+      "section": "cn-tech",
+      "rankScore": 0.541094
+    },
+    {
+      "id": "040f9905f9a4f521",
+      "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
+      "url": "https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-12T10:13:44.000Z",
+      "author": "Janakiram MSV",
+      "section": "cn-tech",
+      "rankScore": 0.538179
+    },
+    {
+      "id": "9080961baba82b11",
+      "title": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
+      "url": "https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-12T10:08:50.000Z",
+      "author": "Tina",
+      "section": "cn-tech",
+      "rankScore": 0.535667
+    },
+    {
+      "id": "aed9ef453971f976",
+      "title": "最近那个4岁大汉，摸35岁女孩屁股，被告性骚扰。真是把我整无语了，什么抽象的人都有。真是想红想疯了吧。。。。。。",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XTnVYV1hmOTIzUWRfRTF0ZW8wREYwem8xaUp6dE9DTm1CWTcyeks0N2xsdGxrN2xTVGZCSWJ1bTlYUndEWWlHSTJQZ3lkOTZRc09z?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-12T10:38:19.000Z",
+      "excerpt": "最近那个4岁大汉，摸35岁女孩屁股，被告性骚扰。真是把我整无语了，什么抽象的人都有。真是想红想疯了吧。。。。。。 juejin.cn",
+      "section": "cn-tech",
+      "rankScore": 0.38555
+    },
+    {
+      "id": "88ad751b67a13ac2",
+      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+      "url": "https://sspai.com/post/114461",
+      "source": "sspai",
+      "publishedAt": "2026-09-12T07:00:00.000Z",
+      "author": "程天冲",
+      "excerpt": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+      "section": "cn-tech",
+      "rankScore": 0.351063
+    },
+    {
+      "id": "af92b2ae4283af9a",
+      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-12T10:24:44.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents.",
+      "section": "security",
+      "rankScore": 0.54382
+    },
+    {
+      "id": "2d2de855f2a58752",
+      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-12T09:07:56.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.",
+      "section": "security",
+      "rankScore": 0.504436
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
