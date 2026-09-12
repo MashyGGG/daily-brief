@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-12",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-12T01:31:02.027Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "c4c8064b9068ea37",
+      "title": "从“枫桥经验”到大规模基层监控：习近平如何翻新并重新利用毛泽东时代的治理方式",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260911-%E4%BB%8E-%E6%9E%AB%E6%A1%A5%E7%BB%8F%E9%AA%8C-%E5%88%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9F%BA%E5%B1%82%E7%9B%91%E6%8E%A7-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A6%82%E4%BD%95%E7%BF%BB%E6%96%B0%E5%B9%B6%E9%87%8D%E6%96%B0%E5%88%A9%E7%94%A8%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%97%B6%E4%BB%A3%E7%9A%84%E6%B2%BB%E7%90%86%E6%96%B9%E5%BC%8F",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-11T22:54:36.000Z",
+      "author": "阿曼亭",
+      "excerpt": "法国世界报周五继续刊登“毛泽东：沉重的遗产”系列文章。这一期的文章着重关注毛泽东时期的“枫桥经验”在习近平时代如何重生。",
+      "section": "news",
+      "rankScore": 0.656546
+    },
+    {
+      "id": "67d60f647898f436",
+      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-12T00:31:16.000Z",
+      "excerpt": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+      "section": "news",
+      "rankScore": 0.615058
+    },
+    {
+      "id": "fec6aa3c5d21ae62",
+      "title": "香港支聯會「煽動顛覆」案：被告們的伴侶與戰友",
+      "url": "https://www.bbc.com/zhongwen/articles/cq63868gq5qo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-11T13:23:08.000Z",
+      "excerpt": "香港支聯會「煽顛」案歷經五年，三名核心人物的判刑結果塵埃落定。BBC中文訪問李卓人的妻子鄧燕娥及鄒幸彤戰友劉家儀，講述他們如何面對香港的變遷和怎樣陪伴在牆內的人。",
+      "section": "news",
+      "rankScore": 0.597367
+    },
+    {
+      "id": "e219fcc954b9abc4",
+      "title": "Toyohiro Akiyama, Japan’s Chain-Smoking ‘Space Antihero,’ Dies at 84",
+      "url": "https://www.nytimes.com/2026/09/10/world/asia/toyohiro-akiyama-dead.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-12T00:59:23.000Z",
+      "author": "Javier C. Hernández and Hisako Ueno",
+      "excerpt": "A journalist, he was the first Japanese person to enter space, joining a Soviet crew as part of a spectacular $35 million ratings stunt in 1990.",
+      "section": "news",
+      "rankScore": 0.552967
+    },
+    {
+      "id": "9883124675b098cb",
+      "title": "California woman charged with murder after allegedly killing husband with flagpole",
+      "url": "https://www.theguardian.com/us-news/2026/sep/11/california-woman-murder-charge-flagpole",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-12T00:56:57.000Z",
+      "author": "Uwa Ede-Osifo",
+      "excerpt": "SF Gate reports bond for Vicky Kyung Mi Kim, 65, set at $10m after man found dead at couple’s Palm Desert home A 65-year-old California woman has been arrested on suspicion of murder after allegedly fatally wounding her husband with a flagpole, according to SF Gate.",
+      "section": "news",
+      "rankScore": 0.552426
+    },
+    {
+      "id": "f343513c73473a35",
+      "title": "How Canadians are bracing for the impact of Trump’s trade war",
+      "url": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-12T00:52:00.000Z",
+      "excerpt": "Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.",
+      "section": "news",
+      "rankScore": 0.551326
+    },
+    {
+      "id": "731b1104a7f83065",
+      "title": "Trump Heads to Ireland for the Irish Open at His Golf Course",
+      "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-ireland-irish-open.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-12T01:25:33.000Z",
+      "author": "Luke Broadwater and Zolan Kanno-Youngs",
+      "excerpt": "President Trump’s trip comes after a two-day Republican rally in Dallas, where he tried to energize voters amid fears that the party could face losses in the midterms.",
+      "section": "news",
+      "rankScore": 0.488934
+    },
+    {
+      "id": "6936a0babce5970c",
+      "title": "Larry Ellison to sell up to $7.5bn worth of Oracle stock",
+      "url": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-12T01:06:54.000Z",
+      "excerpt": "Founder to offload as many as 50mn shares as company posts higher revenue from data centres but faces investor fears it is overcommitted to AI",
+      "section": "news",
+      "rankScore": 0.485307
+    },
+    {
+      "id": "3b3eb23ebf895746",
+      "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah",
+      "source": "npr-news",
+      "publishedAt": "2026-09-11T20:29:31.000Z",
+      "author": "Deena Prichep",
+      "excerpt": "Rosh Hashanah, the Jewish New Year, begins at sunset Friday. For many Jews around the world, a highlight of the holiday will be hearing the shofar: an animal's horn blown like a trumpet.",
+      "section": "news",
+      "rankScore": 0.431372
+    },
+    {
+      "id": "c26b971cd657d2d6",
+      "title": "美军称对伊海上封锁已使99艘商船改变航向",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KNEZwX3UxZExtUFliZUUwTThzeDEtMlcwVTZ0VFBJSjBSby1KZDUtc0NOUjQ4WjVJNnE2R3E5dUw3RVB5NUU4TG1ydHk2dWZRRG5V?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-12T00:11:46.000Z",
+      "excerpt": "美军称对伊海上封锁已使99艘商船改变航向 第一财经",
+      "section": "news",
+      "rankScore": 0.406789
+    },
+    {
+      "id": "6153ebc94cea4fae",
+      "title": "人工智能末日论：人类为何会如此担忧？",
+      "url": "https://cn.nytimes.com/technology/20260911/ai-humanity-risk/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-11T03:54:25.000Z",
+      "author": "WILLIAM J. BROAD,CADE METZ",
+      "excerpt": "目前人工智能的风险仍是假设性的担忧。这项技术远非人类面临的唯一生存风险，但它尚未得到充分理解，也不在人类自认为能控制的范围之内，因而引发恐惧。 Andrew Harnik/Associated Press 从大流行病到致命小行星，再到生态崩溃，人类面临诸多灭顶之灾。人工智能超智能不过是最近一个引发人们无限想象的话题。",
+      "section": "news",
+      "rankScore": 0.373811
+    },
+    {
+      "id": "b147af9ff0efbc23",
+      "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168318",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-11T12:00:00.000Z",
+      "excerpt": "The Security Council met to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001.",
+      "section": "news",
+      "rankScore": 0.284828
+    },
+    {
+      "id": "b73b874ee3b74e98",
+      "title": "【讲习所·中国与世界】习近平：把金砖打造成推动全球治理变革的先锋力量",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695119.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-12T01:07:34.000Z",
+      "excerpt": "【本期导读】",
+      "section": "cn-news",
+      "rankScore": 0.762829
+    },
+    {
+      "id": "246b146332242312",
+      "title": "现场｜一部延续五千年的“琮谱”——中国首次玉琮专题展",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxY2F3YTVBWHFoV21IeFdqQlgwdXNPc0s1aFRoY252VlF5WnU3V29RNmZtc25Vb0F2YTJuMDBqd0dvdWg1Z0lyWU5xeWtQWFBzMHZiWGZ1VFpfSHdKcXBGMg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-12T00:03:00.000Z",
+      "excerpt": "现场｜一部延续五千年的“琮谱”——中国首次玉琮专题展",
+      "section": "cn-news",
+      "rankScore": 0.607992
+    },
+    {
+      "id": "d254b6a54bb5d7df",
+      "title": "黑龙江鸡西丰源矿业水害事故调查报告公布 30人被追责",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694912.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-11T12:50:21.000Z",
+      "excerpt": "中新网9月11日电 据国家矿山安全监察局黑龙江局网站消息，黑龙江鸡西丰源矿业大通沟煤矿“12·21”较大水害事故调查报告发布。",
+      "section": "cn-news",
+      "rankScore": 0.586439
+    },
+    {
+      "id": "64809161f4a44c1b",
+      "title": "风口",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55MjdPbzA2eDJsYVc3MnZlS2ZOa3dOOGlwWnRpRllMR0RNMTJrVXRXTV9OMmtyWUc3eWtGZ3JSTXYxSnVNRUR2ZC1nbzZIQ0JKMEE?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-11T20:50:54.000Z",
+      "excerpt": "风口 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.559967
+    },
+    {
+      "id": "cf2826af6e772040",
+      "title": "尹力、殷勇走进亦庄综保区、跨国药企、出海基地，调研“两区”建设工作，要求不断增强北京开放发展新动能",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FMi14TlVzTkhDS2Zkdk5kakNWaC1ZZG5IREZBWXd4WHdGN0NLRWZPRG05SUgzamt3WGNadWlPTjl5VTFid2dkVWlKZE9XUGRDSEpYT0VGd09SMHQ3NzZaVEJiUW8?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-11T23:43:00.000Z",
+      "excerpt": "尹力、殷勇走进亦庄综保区、跨国药企、出海基地，调研“两区”建设工作，要求不断增强北京开放发展新动能 新京报 服贸观澜｜六年落地121项制度创新 北京海淀“两区”建设交出1.88万亿外贸成绩单 新浪网 亮相服贸会｜朝阳联动发展区落地，打造首都开放创新高地 中国经济网 北京朝阳力争到2028年创建超10家市级及以上中试平台 人民网 北京朝阳：释放首都国际金融聚集区开放活力 中国科技网",
+      "section": "cn-news",
+      "rankScore": 0.535992
+    },
+    {
+      "id": "bdedbb726436f32d",
+      "title": "个人消费贷贴息政策提额扩围",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xdHZQSWdkWld5YkZFeWo0ZDRPd1d3dUkyTlJkSDJiMnAyVTNPa0F3Vl9OaV8zTVlLMUNhVXJEMm0yRmxYMThlak55UEpxbGtiVmZLNnVPcWJTVlBrQ2toTDE2S3F6SDR4cjVKbDRn?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-12T00:45:00.000Z",
+      "excerpt": "个人消费贷贴息政策提额扩围 人民网财经",
+      "section": "cn-news",
+      "rankScore": 0.481049
+    },
+    {
+      "id": "6ec0309f0a75e39b",
+      "title": "百公里11.5度电！2030年新能源汽车什么样？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695088.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-11T15:21:17.000Z",
+      "excerpt": "工业和信息化部等九部门今天(11日)发布了《智能网联新能源汽车产业发展“十五五”规划》。规划中提到“纯电动乘用车平均电能消耗量达到每百公里11.5千瓦时左右”、“高速公路、城市快速路、部分城市道路等场景实现高度自动驾驶”、国内市场新能源乘用车新车总销量占比达到70%……可以说目标相当明确。",
+      "section": "cn-news",
+      "rankScore": 0.477562
+    },
+    {
+      "id": "299e4e12e940277c",
+      "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
+      "url": "https://www.scmp.com/news/us/article/3367269/chinese-ai-firms-shunned-us-delegation-over-sanctions-fears-commission-says?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-11T22:36:20.000Z",
+      "author": "Nayan Seth",
+      "excerpt": "A US congressional advisory body on China said on Friday that leading Chinese artificial intelligence firms declined to meet its members during a recent Beijing visit over concerns that doing so could expose the firms to US sanctions.",
+      "section": "cn-news",
+      "rankScore": 0.45603
+    },
+    {
+      "id": "0c0c0e7c33ca83fb",
+      "title": "体坛联播｜丁俊晖重返排名赛四强，兹维列夫再进美网决赛",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5a21EbFBHZllyZ0t5YnlLTEYySWQ3TzFJdGVIZUc2anR5eWhUNEtZbzFxZ3p4OFpqSG5PLUhqdFdMUDUwbEtaUzVPM3o2dUU4d2oybTZwU1dnWlhOSE82NzR5Z09lM1VsNWF2ZnVyVGc2dw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-12T00:42:57.000Z",
+      "excerpt": "体坛联播｜丁俊晖重返排名赛四强，兹维列夫再进美网决赛 新浪网",
+      "section": "cn-news",
+      "rankScore": 0.411986
+    },
+    {
+      "id": "f2d64ef23303303f",
+      "title": "鼓勵生育｜議員倡政府向兩子女以上家庭發「子女幸福卡」",
+      "url": "https://hk.news.yahoo.com/%E9%BC%93%E5%8B%B5%E7%94%9F%E8%82%B2-%E8%AD%B0%E5%93%A1%E5%80%A1%E6%94%BF%E5%BA%9C%E5%90%91%E5%85%A9%E5%AD%90%E5%A5%B3%E4%BB%A5%E4%B8%8A%E5%AE%B6%E5%BA%AD%E7%99%BC-%E5%AD%90%E5%A5%B3%E5%B9%B8%E7%A6%8F%E5%8D%A1-011726697.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-09-11T17:17:26.000Z",
+      "excerpt": "【Now新聞台】本港首份五年規劃及新一份施政報告下周三發布，有立法會議員建議政府制訂長遠人口政策，同時提供誘因鼓勵生育。 立法會議員(工程界)卜國明：「兩個子女以上的家庭發一張『子女幸福卡』，免費讓他們使用公共設施，乘公交是會有折扣，變了會有些刺激作用。他們有部分地方可節省，整個家庭一起外出玩，到圖書館、去游泳、打球等。希望政府成立一個中產事務委員會，特別是訂立一個中產人口目標，向這個方向是要協助中產，因為現在中產是最吃力的一班，我們一定要向他們提供協助。」#要聞",
+      "section": "cn-news",
+      "rankScore": 0.394022
+    },
+    {
+      "id": "d5b18b7df3f0872f",
+      "title": "“男子称停止资助遭女生威胁”事件反转，姚某某已涉嫌寻衅滋事罪丨法律顾问在身边",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695107.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-12T00:19:43.000Z",
+      "excerpt": "中新网9月12日电 (记者 范丰辉)9月11日，嘉峪关市公安局发布警情通报，通报“男子姚某某编造女生催资助”一事。通报指出，37岁男子姚某某为博取网络关注、吸粉引流，自编自导、虚构伪造“停止资助某学生后遭对方威胁”不实内容。",
+      "section": "cn-life",
+      "rankScore": 0.816228
+    },
+    {
+      "id": "08ecb96dc3d10115",
+      "title": "“水光针”不是万能美容针，你真的需要吗？",
+      "url": "https://www.chinanews.com.cn/life/2026/09-12/10695110.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-12T00:36:18.000Z",
+      "excerpt": "你真的需要打水光针吗",
+      "section": "cn-life",
+      "rankScore": 0.684796
+    },
+    {
+      "id": "2f1486bee54e577c",
+      "title": "周末海南广东等地有暴雨局地大暴雨 北方多地秋高气爽",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdE1PYzRNZVNlTWVvS1BIQTVFdGhmOWw0OHdsSGZ3TmMyZHdBLWZnd3F3Um5uTFY0ZHplTGQ5TTFFc0dldzVkLXdJaTdmNG1BazhLTFFHVU1ZdGQ0M0V1Z2NROVBWdi1vMFJDbTBYV2tDa0phclR6enpjT2p5bFoxTWxB?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-12T01:21:59.000Z",
+      "excerpt": "周末海南广东等地有暴雨局地大暴雨 北方多地秋高气爽 新华网",
+      "section": "cn-life",
+      "rankScore": 0.627737
+    },
+    {
+      "id": "d31a31db9ec82405",
+      "title": "小阵地大民生，四团邵厂居民区重塑社区休闲空间",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10WlBlZURzT3JjYWYwbjl6NVdDVlJlVm10UHdRZEk1YzQzakxlclNiYXB4OG5ZNGZwQ01Qei1ITmpZTDkwVmtpcDlBWXNlTUEwdWl1TWJ6OHR6Slp5X1ZMUVJVY3lwT0l5Y2czTnlmbjQtd1FxTWRUbA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-12T01:00:00.000Z",
+      "excerpt": "小阵地大民生，四团邵厂居民区重塑社区休闲空间 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.622242
+    },
+    {
+      "id": "2a2cc62788a65c30",
+      "title": "“武汉之心” 现栾树花海",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vc2FnMDNPTGJiTnRqa1RKemF3Vk90V2xFZGxkem1TWTJwb2xtbjloZ095NlBSWHpmTTZZT0VWV25obkw0QmJwVFJTRlkwWHNTUDJxVkN5eWZlRV9RX18tclRnNDU5VGRzQnlBTEk4c1VCZzg?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-12T00:36:00.000Z",
+      "excerpt": "“武汉之心” 现栾树花海 hubei.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.54777
+    },
+    {
+      "id": "333faec242b5a8c1",
+      "title": "综述：多病因痴呆的治疗路径：结合血管风险控制与疾病修饰神经退行性疗法",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mWUxxTjJjZEhvbThna0RlbkJmSU12eHhwT2pkamo4Nm1OTWp0bkt0NFRpV3NlcXlDZHIwY1VpbGN3WjkwTjh3a1dNcTRrMHhUUGlTQ3Jkb0dtenFSX184ZkE0RlNWdVoyRlotWQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-12T00:51:02.000Z",
+      "excerpt": "综述：多病因痴呆的治疗路径：结合血管风险控制与疾病修饰神经退行性疗法 生物通",
+      "section": "cn-life",
+      "rankScore": 0.482222
+    },
+    {
+      "id": "8ed5d6e7a70f0602",
+      "title": "人福医药集团股份公司关于间苯三酚口崩片获得药品注册证书的公告",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHNjJ0WmE0Ry12WERJS1dmRGowekVVa1FNbXJFR3pyTmlvRTZLMGtXdkw2Sk9jWDlXNFhvOFJ4RHZRYWZzeEFXenBOTjhlTVB1VVBVd01QVEdTXzZEdGNGUzdhM2xoRzJhYm54RUhzbDNrck5FZ2FzTA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-11T23:37:30.000Z",
+      "excerpt": "人福医药集团股份公司关于间苯三酚口崩片获得药品注册证书的公告 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.467924
+    },
+    {
+      "id": "3cb8639edb2fbc2f",
+      "title": "2026年杭州市“全民国防教育日”主题活动举行",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RQ3hfQjNGbThXc1FBUEQ3TWdwVjRneXhXNUs3b29GN0ZxYXpuZDdYanY5V3ZZRGpBUG5ydnVQRzk1ZTJMU2tOa1M1TkozRFRWOEFKNy1SMzA5ZjA3U2dCcS02U29Vc3JkWW1yVFNB?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-12T01:23:31.000Z",
+      "excerpt": "2026年杭州市“全民国防教育日”主题活动举行 pic.hangzhou.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.418747
+    }
+  ],
+  "warnings": []
+}
