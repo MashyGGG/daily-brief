@@ -1,0 +1,322 @@
+{
+  "date": "2026-09-12",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-12T14:04:00.156Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "e08266730fe9efc8",
+      "title": "涉嫌在肯尼迪航天中心禁飞区操控无人机 一中国游客被起诉",
+      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260912-%E6%B6%89%E5%AB%8C%E5%9C%A8%E8%82%AF%E5%B0%BC%E8%BF%AA%E8%88%AA%E5%A4%A9%E4%B8%AD%E5%BF%83%E7%A6%81%E9%A3%9E%E5%8C%BA%E6%93%8D%E6%8E%A7%E6%97%A0%E4%BA%BA%E6%9C%BA-%E4%B8%80%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E8%B5%B7%E8%AF%89",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-12T13:39:00.000Z",
+      "author": "弗林",
+      "excerpt": "联邦检察官称，一名中国游客无视肯尼迪航天中心附近的禁飞规定，目前面临刑事指控。调查人员称，此人操作一架无人机飞越受保护的空域，并拍摄了美国国家航空航天局（NASA）重要设施的视频。",
+      "section": "news",
+      "rankScore": 0.68611
+    },
+    {
+      "id": "2423d09d2b52b771",
+      "title": "韩国非洲为建人工智能枢纽签约",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260912-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9F%A9%E5%9B%BD%E9%9D%9E%E6%B4%B2%E4%B8%BA%E5%BB%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9E%A2%E7%BA%BD%E7%AD%BE%E7%BA%A6",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-12T12:40:00.000Z",
+      "author": "尼古拉",
+      "excerpt": "在首尔（Séoul）召开的第八届韩国与非洲经济合作部长级会议(Sommet KOAFEC 2026)已于09月11日周五落下帷幕。这是本台法广非洲组（RFI Afrique）今天09月12日星期六刊出的最新法文消息之一。来自会议现场的消息说，韩国与非洲大陆就建立人工智能（AI）专用枢纽签署了一系列的协议。法国国际广播电台的法语通讯员发回了对[非洲开发银行]（AfDB / BAD）一名与会部门主管的实地采访录音片段。这位出自塞内加尔（le Sénégal）的金融界人士为非洲开发与基础设施融资领域资深专家。",
+      "section": "news",
+      "rankScore": 0.653332
+    },
+    {
+      "id": "5f670fd3cddbfcb2",
+      "title": "韩国海警、海军行动打击中国渔船非法捕捞 查扣1艘渔船 驱离91艘",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260912-%E9%9F%A9%E5%9B%BD%E6%B5%B7%E8%AD%A6-%E6%B5%B7%E5%86%9B%E8%A1%8C%E5%8A%A8%E6%89%93%E5%87%BB%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E9%9D%9E%E6%B3%95%E6%8D%95%E6%8D%9E-%E6%9F%A5%E6%89%A31%E8%89%98%E6%B8%94%E8%88%B9-%E9%A9%B1%E7%A6%BB91%E8%89%98",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-12T12:34:28.000Z",
+      "author": "弗林",
+      "excerpt": "韩国中部地方海洋警察厅周六（12日）宣布，海警10日在仁川市瓮津郡大青岛近海打击中国渔船的非法捕捞，查扣一艘70吨级中国渔船A号，并驱离91艘渔船。",
+      "section": "news",
+      "rankScore": 0.650258
+    },
+    {
+      "id": "338024f5b40e3267",
+      "title": "澳门将举行首场依据《国安法》的审判",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260912-%E6%BE%B3%E9%97%A8%E5%B0%86%E4%B8%BE%E8%A1%8C%E9%A6%96%E5%9C%BA%E4%BE%9D%E6%8D%AE-%E5%9B%BD%E5%AE%89%E6%B3%95-%E7%9A%84%E5%AE%A1%E5%88%A4",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-12T12:08:31.000Z",
+      "author": "艾娃",
+      "excerpt": "澳门法院周五宣布，将在下周闭门审理首起依据国家安全法提起的诉讼，被告是一位被控犯有“颠覆国家”罪的前民主派议员。",
+      "section": "news",
+      "rankScore": 0.635841
+    },
+    {
+      "id": "c385f7132a4fa2c8",
+      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-12T13:56:20.000Z",
+      "excerpt": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+      "section": "news",
+      "rankScore": 0.626165
+    },
+    {
+      "id": "bff8dc29a9a8e74b",
+      "title": "In Flood-Stricken Nepal, a Cool Gust Carries Hopes of a Miracle Rescue",
+      "url": "https://www.nytimes.com/2026/09/12/world/asia/nepal-floods-himalayas-hydropower-tunnel.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-12T13:53:18.000Z",
+      "author": "Hannah Beech and Sajal Pradhan",
+      "excerpt": "Rescuers clawing through a hydropower tunnel clogged with mud, water and rock have found a pocket of air near where six workers are believed to be trapped.",
+      "section": "news",
+      "rankScore": 0.555243
+    },
+    {
+      "id": "45eac255d07d113f",
+      "title": "IDF soldier filmed shooting Palestinian in leg amid West Bank settler standoff",
+      "url": "https://www.theguardian.com/world/2026/sep/12/idf-soldier-filmed-shooting-palestinian-in-leg-amid-west-bank-settler-standoff",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-12T13:44:10.000Z",
+      "author": "Lorenzo Tondo in Jerusalem",
+      "excerpt": "Incident is latest to raise questions over Israel’s ability or willingness to stop violent settlers in occupied territory An Israeli soldier shot a Palestinian man, wounding him in the leg, as settlers confronted villagers by grazing livestock on Palestinian-owned land in the town of Faqqua in the…",
+      "section": "news",
+      "rankScore": 0.551184
+    },
+    {
+      "id": "7597649fa3fb6d2c",
+      "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
+      "url": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-12T11:43:28.000Z",
+      "excerpt": "Israel's destruction of homes and infrastructure in Gaza has forced Palestinians to rent generators by the hour.",
+      "section": "news",
+      "rankScore": 0.49754
+    },
+    {
+      "id": "e47d16baf4f574e9",
+      "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
+      "url": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
+      "source": "npr-news",
+      "publishedAt": "2026-09-12T13:03:20.000Z",
+      "author": "David Cox",
+      "excerpt": "That's a quote from former rugby star Gareth Thomas, who is HIV positive. At the International AIDS Conference in Rio this year, he spoke out about the isolation and discrimination tied to the virus.",
+      "section": "news",
+      "rankScore": 0.466406
+    },
+    {
+      "id": "c21d730c035e3a5a",
+      "title": "Reform UK receives two record £36mn donations",
+      "url": "https://www.ft.com/content/936ac952-43a6-44d5-be69-afa344e042f5?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-12T12:25:10.000Z",
+      "excerpt": "The combined £72mn gifts from crypto billionaires Ben Delo and Christopher Harborne are the largest donations in British political history",
+      "section": "news",
+      "rankScore": 0.451564
+    },
+    {
+      "id": "613a7bcf2ad6277a",
+      "title": "How Trump Is Wielding Power to Stifle Speech",
+      "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-12T12:19:28.000Z",
+      "author": "Jim Rutenberg and Maggie Haberman",
+      "excerpt": "President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects.",
+      "section": "news",
+      "rankScore": 0.449347
+    },
+    {
+      "id": "9e7bbba905f7e396",
+      "title": "菲律宾客船起火事故已致76人死亡 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWU5hVE9rVDJLd1Rhbm1GdVlGZFFhNmEyVU8tdkFoUVVreWY3cWdvMHJKVE9XTEtDTWNiSnNhZUpqYU9xNTNUSVVJV2hvMDk2NjA1MDRfYTVoWFpDSlZsMEtkTHpwTFlLb2hFRmJqT0NVOFVUS0tTVlBVRE44b2JwZFE3eVhsZDNDMnZXcA?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-12T13:25:00.000Z",
+      "excerpt": "菲律宾客船起火事故已致76人死亡 21财经",
+      "section": "news",
+      "rankScore": 0.406999
+    },
+    {
+      "id": "2a463c25971625ee",
+      "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695479.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-12T13:46:41.000Z",
+      "excerpt": "新华社新德里9月12日电(记者孙承斌 杨依军)当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
+      "section": "cn-news",
+      "rankScore": 0.759416
+    },
+    {
+      "id": "22f47a283d8d26b7",
+      "title": "“红通人员”曾能贵被引渡回国",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695301.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-12T09:02:18.000Z",
+      "excerpt": "中新网9月12日电 据中央纪委国家监委网站消息，近日，在中央反腐败协调小组国际追逃追赃工作办公室统筹协调下，经国际执法司法合作，“红通人员”、外逃职务犯罪嫌疑人曾能贵被引渡回国。",
+      "section": "cn-news",
+      "rankScore": 0.638865
+    },
+    {
+      "id": "5e159bd91738e62d",
+      "title": "多国好物跨越疆界 服贸会联通中外互惠共享",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695445.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-12T13:22:14.000Z",
+      "excerpt": "中新社北京9月12日电 (记者 周兆军 陈杭)埃塞俄比亚咖啡、斯里兰卡红茶、叙利亚阿勒颇古皂……正在北京举行的2026年中国国际服务贸易交易会上，第十一届“炫彩世界”文化展示交流活动集中展示环球风物，将不同国家的风味、工艺与文化带到前来参观的各国观众身边。",
+      "section": "cn-news",
+      "rankScore": 0.609115
+    },
+    {
+      "id": "949f7e32ed68b72e",
+      "title": "我国最北城市漠河今日开栓供暖，比计划提前13天，预计持续到明年5月中旬；当地最低温曾达-53℃",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pWEVLc3lrWUlkVnJxUHd6a2V5UFFsd194X25TNmhkbTJKQm9XZlFLaUhTeGpmZmstU1hVTTE1SHZMMll2N1VXSVdReFA2eGRzNGtkN25Fa0RuUHc3QUE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-12T11:37:00.000Z",
+      "excerpt": "我国最北城市漠河今日开栓供暖，比计划提前13天，预计持续到明年5月中旬；当地最低温曾达-53℃",
+      "section": "cn-news",
+      "rankScore": 0.556499
+    },
+    {
+      "id": "9cf85c83359aa387",
+      "title": "太合音乐赴港上市收到证监会备案反馈意见",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tUjEtVW5rYlF0OVlqQlhzQWpfbWx6VmJlTDU3ZXhQdkplNi1tbGJ6MVRqRklNRmd6Sk1yRGRTeTk5MzMxNXU2NzBpYkpiclVTNktVa05xU2M?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-12T10:59:53.000Z",
+      "excerpt": "太合音乐赴港上市收到证监会备案反馈意见 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.53794
+    },
+    {
+      "id": "6bd75ab35cc5fecf",
+      "title": "中国最北城市漠河正式开栓供暖",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY0lTRHZ2R1FNVmt4MWFtTUFNSzZrcUJJR3Z5amh4dUlzT3h2VnhkRGxQM2ZMSUhpcWRJT2pfS1JoYklINDlXSFcwVTlfcEhyZGxsMkVFcEZVaFZneEpjTUhzblU2ZHhUbDZaSGRZcjVKdlpDUkZpSFZiSlV0d0xRZ2dxX1pFcXVyWGo1Mkw3ajJjd3BnXzBDOFln?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-12T12:40:55.000Z",
+      "excerpt": "中国最北城市漠河正式开栓供暖 app.xinhuanet.com",
+      "section": "cn-news",
+      "rankScore": 0.523073
+    },
+    {
+      "id": "064f2bef15930575",
+      "title": "金磚峰會講話 習近平：抵制一切形式保護主義",
+      "url": "https://www.cna.com.tw/news/acn/202609120191.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-12T11:38:18.000Z",
+      "excerpt": "（中央社記者呂佳蓉北京12日電）中國國家主席習近平今天在印度新德里出席金磚國家領導人第18次會晤第一階段會議。他表示，要反對侵犯別國主權、干涉別國內政，並要抵制一切形式的保護主義。",
+      "section": "cn-news",
+      "rankScore": 0.495243
+    },
+    {
+      "id": "56d653e858f9e9a9",
+      "title": "Why PLA’s laser-equipped Type 19 vehicle could matter in a Taiwan conflict",
+      "url": "https://www.scmp.com/news/china/military/article/3367305/why-plas-laser-equipped-type-19-vehicle-could-matter-taiwan-conflict?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-12T14:00:05.000Z",
+      "author": "Gabriel Dominguez",
+      "excerpt": "The People’s Liberation Army may be seeking to give its frontline mechanised units mobile protection against the kind of drone-saturated battlefield that could emerge in a Taiwan conflict.",
+      "section": "cn-news",
+      "rankScore": 0.488476
+    },
+    {
+      "id": "fb1a1419821202c1",
+      "title": "市场最前沿丨数据有了“身份证” 将迎多重利好",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcThIcXVYMDJaQ1VLM1pudWYxeUtoZW1PWWx4N01HOG1FX1hnb25xUkVrY285VldZY3ptZ18zSWpWenZZN0FBSzh5UTRfQWFjMU4xRmd0a202eTZZZWVDWmFFNnpSRGgzeEwweFdhSHdudUo1OEVMYmhoMjB6X0tZak93?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-12T11:56:37.000Z",
+      "excerpt": "市场最前沿丨数据有了“身份证” 将迎多重利好 新华网 数据也有“身份证”了 我国正式推行数据产权登记制度 川观新闻 一次登记全国通用，国家数据产权登记服务系统上线试运行 大河财立方 三家数据交易所入选全国数据产权登记机构_财经_24H快讯 bihainews.com 数据也有了身份证！我国正式推行统一数据产权登记制度 京报网",
+      "section": "cn-news",
+      "rankScore": 0.440461
+    },
+    {
+      "id": "35870210bf17792c",
+      "title": "菲律宾客船起火事故死亡人数升至76人",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oenJ4b1BxYXFZVU1Sa2lXZGtqQ0ZoS090WHo2Q2ZTNFpyVUNmTGhoa1FqTmxFTXlMNU5hU0FsT3dYRDJNemhEVmxETktRcmVrRE4zNE5KRDJzdEk4bGE4anVtc3VyT3U1RXc1TWNrQmhRUXBmN1NicG5OYlEyc2M?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-12T13:46:17.000Z",
+      "excerpt": "菲律宾客船起火事故死亡人数升至76人 新华网",
+      "section": "cn-news",
+      "rankScore": 0.414094
+    },
+    {
+      "id": "e5191f4a136e8ed2",
+      "title": "广西合浦中秋国庆非遗系列活动启幕 168斤的大月饼免费吃",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695429.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-12T12:58:22.000Z",
+      "excerpt": "中新网北海9月12日电(翟李强 罗虹莉 林启波)9月12日，2026年合浦县中秋国庆非遗系列活动在广西合浦月饼小镇启动。活动以非遗月饼为核心纽带，串联千年海丝文脉、本土民俗风情与文旅特色产业，为民众打造一场沉浸式、多样化的非遗盛宴，系列活动将持续开展至10月3日。",
+      "section": "cn-life",
+      "rankScore": 0.796243
+    },
+    {
+      "id": "16a67f9802ee28b3",
+      "title": "即日起，静安看牙“一步到位”：医保、商保、自付三费同步结算",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11UVo0S0VPTU1NdUlZQzUtd3d2dWFZMXJpV0lBMEFMcDhhQktOLVFUXzBTRWdrc0gzTThvN0J6VVlfNHVaOUhGbEdYcVdtaURDWjlPblJUUGRzOFgzZk93bkpiWUdWdXdlTk9XRVhSMUNRVTVHNFNzSFdpSXNLMnM?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-12T13:37:58.000Z",
+      "excerpt": "即日起，静安看牙“一步到位”：医保、商保、自付三费同步结算 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.616982
+    },
+    {
+      "id": "8092116ae7ffb61e",
+      "title": "北京启动“4分钟社会应急救援圈”",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CallMbE9TNVAyT3ZHUG8xQVJDY1pWYXZpOGJjNndpT2JkamtxUVhWNTJ5SkdZcnE2bmZJTmlkVVBMWmh6RFdiX2JuQUUteUlsX2ZUV2tYVnczbF9OaWExTGdjcmtuS0F0TXhzQk0wa1Q?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-12T12:52:18.000Z",
+      "excerpt": "北京启动“4分钟社会应急救援圈” 中国科技网",
+      "section": "cn-life",
+      "rankScore": 0.594149
+    },
+    {
+      "id": "ff4fcda6dc6b3da9",
+      "title": "中华人民共和国主席 习近平",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CN2VtMGdMQWtzVGJpVldxTXFtZjFRbVFfakpVY1p5SUMzYi1wai1IemRUSGFkVlR5T1ZubTNwd2dndjhDM3NNWk05TjNfTkVvb1dVMC0xTkZnYWljQUhfVUQtRHVIaG5uYnJzcEhqZkR5bzg1?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-12T13:37:00.000Z",
+      "excerpt": "中华人民共和国主席 习近平 驻菲律宾使馆",
+      "section": "cn-life",
+      "rankScore": 0.547999
+    },
+    {
+      "id": "ab21e2b2aecf9cf5",
+      "title": "聚焦卫生检疫和食品安全 琴澳新签两项合作协议",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pbEEyZ2gzTkdKT04ySzVHRVM0SlFVWGZnaVkxeHFSRFptUWtPTkkyT0pTZ19vS1hrbWU5N3VaNE5aajFEcVlVWnBlTXhzY2E1cDlmMWZzbExjUWQtbnNaYm12WEM4RVVuclNFOXYtRmZhanRuSmln?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-12T13:03:00.000Z",
+      "excerpt": "聚焦卫生检疫和食品安全 琴澳新签两项合作协议 珠海网",
+      "section": "cn-life",
+      "rankScore": 0.466277
+    },
+    {
+      "id": "9d3d7e6e3b6b52a3",
+      "title": "叶定伟教授：CSCO指南持续深耕中国临床实践，驱动前列腺癌诊疗从\"经验驱动\"迈向\"循证规范\"新纪元",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YNG9CdG11WDRrQ3pKaHF1eVNTUmdhOFdxclVkUmVxUEtIZ0p0YUZXWUhQSk0tb0txWXhoQ2ZveDNKamp0VFZkQ2RSbW9ROG5pY2kxX2hxY3Vmd29LZVVnTFJZUXc0bEh1bkFtbkJLODV2cHpULTJhQVVIQVhOdw?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-12T12:00:00.000Z",
+      "excerpt": "叶定伟教授：CSCO指南持续深耕中国临床实践，驱动前列腺癌诊疗从\"经验驱动\"迈向\"循证规范\"新纪元 bydrug.pharmcube.com",
+      "section": "cn-life",
+      "rankScore": 0.441777
+    },
+    {
+      "id": "cc71f40816c8e0a6",
+      "title": "多地小学改为养老院",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjMwSVRaWVF6bWZiS3VWcGRMblJlajRGdG1PSzhNbGEyRUJodmwzYUhCbzRrRWJPSnpCQTJUZFlQbU1DSmNoeFI1TFRaV2lpb0dxSEU4UzhwT19BODJKQlRhUjQxWWJ5LWk4aE8tbmRENzd5MWtaRC10N0VMRVZCSXN2RmJBd2NDUzFwRjdiRUJqcHJkbWZyZw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-12T13:16:29.000Z",
+      "excerpt": "多地小学改为养老院 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.40416
+    },
+    {
+      "id": "296d9fbc486a4fd1",
+      "title": "孩子为什么会有出生缺陷？做好预防很关键",
+      "url": "https://www.chinanews.com.cn/life/2026/09-12/10695147.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-12T03:23:57.000Z",
+      "excerpt": "朝“问”健康丨孩子为什么会有出生缺陷？做好预防很关键",
+      "section": "cn-life",
+      "rankScore": 0.344415
+    }
+  ],
+  "warnings": []
+}
