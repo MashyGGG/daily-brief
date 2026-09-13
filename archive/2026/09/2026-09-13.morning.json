@@ -1,0 +1,153 @@
+{
+  "date": "2026-09-13",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-13T00:57:49.997Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "92d1ed98bf301347",
+      "title": "We must pace the frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "source": "hn-front",
+      "publishedAt": "2026-09-12T14:10:49.000Z",
+      "score": 527,
+      "author": "apsec112",
+      "excerpt": "527 points · 740 comments · https://news.ycombinator.com/item?id=49672510",
+      "section": "tech",
+      "rankScore": 1.010641
+    },
+    {
+      "id": "8ece4d69dc0cf55f",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "hn-front",
+      "publishedAt": "2026-09-12T15:08:27.000Z",
+      "score": 380,
+      "author": "tolugenius",
+      "excerpt": "380 points · 261 comments · https://news.ycombinator.com/item?id=49673098",
+      "section": "tech",
+      "rankScore": 0.920024
+    },
+    {
+      "id": "255cdd9a8c81ca94",
+      "title": "EP225: Why Does Git Revert Cause Conflicts?",
+      "url": "https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-12T15:30:46.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "git revert looks straightforward until it throws a conflict",
+      "section": "tech",
+      "rankScore": 0.59673
+    },
+    {
+      "id": "eace12b78541ebc1",
+      "title": "Optimizing a single Rust Clippy lint by 3133X",
+      "url": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-12T20:29:09.000Z",
+      "author": "blog.goose.love via lsh",
+      "section": "tech",
+      "rankScore": 0.562829
+    },
+    {
+      "id": "e26f559320c4ea0a",
+      "title": "Lambda SnapStart Comes to Container Images, Ending a Packaging Tradeoff",
+      "url": "https://www.infoq.com/news/2026/09/lambda-snapstart-container-image/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-12T10:09:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "AWS has extended Lambda SnapStart to container image functions, which hold up to 10 GB against 250 MB for zip archives. Teams previously chose between dependency headroom and sub-second startup.",
+      "section": "tech",
+      "rankScore": 0.453102
+    },
+    {
+      "id": "b17d1363a0444feb",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "source": "verge",
+      "publishedAt": "2026-09-12T21:16:28.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was…",
+      "section": "tech",
+      "rankScore": 0.446956
+    },
+    {
+      "id": "062b842593dcc6b0",
+      "title": "California Brown Pelican",
+      "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-12T21:16:09.000Z",
+      "excerpt": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelicans! Tags: wildlife",
+      "section": "ai",
+      "rankScore": 0.766106
+    },
+    {
+      "id": "4f745123ae1fdf2e",
+      "title": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+      "url": "https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-12T20:35:26.000Z",
+      "author": "蚂蚁集团",
+      "section": "cn-tech",
+      "rankScore": 0.627111
+    },
+    {
+      "id": "f3fcfb024905d45f",
+      "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
+      "url": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-12T16:06:00.000Z",
+      "author": "作者：Sergio De Simone",
+      "section": "cn-tech",
+      "rankScore": 0.552269
+    },
+    {
+      "id": "4ed309a29e19a763",
+      "title": "从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海",
+      "url": "https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-12T10:00:00.000Z",
+      "author": "QCon全球软件开发大会",
+      "section": "cn-tech",
+      "rankScore": 0.450602
+    },
+    {
+      "id": "cc0fc45e10004577",
+      "title": "Liunx",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wSXBXZVJFZ3Bwb3NDcnF2eE41dWh5SzNaUC1MQ3kzY2VMZ25BZkVNZDZQYnpzZks0ZkVEM0pqWVNjM0l0azRsMnZNaWMzZUxFelBKa0F5QQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-12T20:04:32.000Z",
+      "excerpt": "Liunx 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.432969
+    },
+    {
+      "id": "59fe9e0b05c07545",
+      "title": "我让豆包工作统计了466次融资，顺便告诉我哪家具身智能不能投",
+      "url": "https://www.36kr.com/p/3980263622818822",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-12T10:41:49.000Z",
+      "excerpt": "最近， 豆包工作 刷屏了。 8月底， 豆包 正式发布面向生产力场景的“ 豆包工作 ”。 官方给它的定义，是围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流程。 而在“民间”，讨论声量最高、出现得最频繁的说法，是“ 豆包 有Agent了”。 坦白说，我最开始其实没太大感觉。过去一年，Agent已经快被AI行业说烂了：能联网搜索叫Agent；能操作浏览器也叫Agent。很多Demo都很惊艳，可一旦塞进真实工作流，体验是真不行：任务只要稍微复杂一点，人还是得一直盯着。",
+      "section": "cn-tech",
+      "rankScore": 0.415996
+    },
+    {
+      "id": "0668cb326c66ddce",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-12T15:54:45.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.",
+      "section": "security",
+      "rankScore": 0.549144
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
