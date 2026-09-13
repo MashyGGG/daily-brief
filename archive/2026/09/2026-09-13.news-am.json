@@ -1,0 +1,322 @@
+{
+  "date": "2026-09-13",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-13T01:23:29.702Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "067b990f3cce08ea",
+      "title": "非洲:埃博拉攻入刚果(金)第七省",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260912-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%9F%83%E5%8D%9A%E6%8B%89%E6%94%BB%E5%85%A5%E5%88%9A%E6%9E%9C-%E9%87%91-%E7%AC%AC%E4%B8%83%E7%9C%81",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-12T23:37:47.000Z",
+      "author": "尼古拉",
+      "excerpt": "在非洲，始于刚果民主共和国（RD Congo）伊图里省（Province de l'Ituri）的第17轮埃博拉疫情的确诊患者人数于本周末突破7000人大关。与此同时，本轮疫情在刚果（金）的蔓延范围也刚刚在两天前的09月10日周四扩散至与中非共和国（la Centrafrique）相接壤的南乌班吉省或后南乌班吉省（Province du South Ubangi）。不过，本台法广非洲组（RFI Afrique）于2026年09月12日周六晚19点后刊出的最新法文消息之一是在距离本轮埃博拉疫情宣布爆发四个月之后，刚果（金）卫生当局宣布疫情有所下降。",
+      "section": "news",
+      "rankScore": 0.670636
+    },
+    {
+      "id": "589bda2e3e6fe46c",
+      "title": "也门政府军袭击红海沿岸胡塞武装，自7月来数万平民逃离家园",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260912-%E4%B9%9F%E9%97%A8%E6%94%BF%E5%BA%9C%E5%86%9B%E8%A2%AD%E5%87%BB%E7%BA%A2%E6%B5%B7%E6%B2%BF%E5%B2%B8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%EF%BC%8C%E8%87%AA7%E6%9C%88%E6%9D%A5%E6%95%B0%E4%B8%87%E5%B9%B3%E6%B0%91%E9%80%83%E7%A6%BB%E5%AE%B6%E5%9B%AD",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-12T21:29:11.000Z",
+      "author": "左依",
+      "excerpt": "周六（9月12日），也门政府军在沙特阿拉伯支持下表示，他们对红海沿岸地区的胡塞武装发动了袭击。此前控制也门北部大片地区，包括首都萨那以及西部港口城市荷台达的胡塞武装，在短短数天内向海岸推进，并于周四夺取港口城市摩卡（Mokha）。随后，他们控制了红海沿岸及附近岛屿，并于次日进一步巩固了对具有重要战略意义的曼德海峡的控制。",
+      "section": "news",
+      "rankScore": 0.634913
+    },
+    {
+      "id": "9a35e08a51dec93e",
+      "title": "金砖峰会发布呼吁中东最大程度保持克制",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260912-%E9%87%91%E7%A0%96%E5%B3%B0%E4%BC%9A%E5%8F%91%E5%B8%83%E5%91%BC%E5%90%81%E4%B8%AD%E4%B8%9C%E6%9C%80%E5%A4%A7%E7%A8%8B%E5%BA%A6%E4%BF%9D%E6%8C%81%E5%85%8B%E5%88%B6",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-12T20:33:25.000Z",
+      "author": "安东尼",
+      "excerpt": "包括中国、俄罗斯、伊朗和印度在内的金砖国家（BRICS）11国集团成员，周六在新德里举行的峰会上发表联合声明，呼吁中东局势保持克制。",
+      "section": "news",
+      "rankScore": 0.619423
+    },
+    {
+      "id": "630186e2542730cd",
+      "title": "歌坛天后席琳·迪翁时隔六年重返舞台，情绪激动泪洒现场",
+      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260912-%E6%AD%8C%E5%9D%9B%E5%A4%A9%E5%90%8E%E5%B8%AD%E7%90%B3%C2%B7%E8%BF%AA%E7%BF%81%E6%97%B6%E9%9A%94%E5%85%AD%E5%B9%B4%E9%87%8D%E8%BF%94%E8%88%9E%E5%8F%B0%EF%BC%8C%E6%83%85%E7%BB%AA%E6%BF%80%E5%8A%A8%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-12T19:59:20.000Z",
+      "author": "左依",
+      "excerpt": "周六（9月12日）晚，席琳·迪翁在巴黎西郊重返舞台。距离她上一次举办演唱会已经过去6年多了。2022年，她被诊断出患有一种无法治愈的神经系统疾病，迫使她暂时放下自己的演艺事业。在今晚的舞台上，这位唱片销量超过2.6亿张的魁北克歌坛天后，以《On ne change pas》（“人不会改变”）这首歌作为开场，演唱时她一度因情绪过于激动而落泪，不得不暂时停唱。但她说：“这是喜悦的泪水。”",
+      "section": "news",
+      "rankScore": 0.609955
+    },
+    {
+      "id": "637d5ce548798cdf",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-12T21:16:47.000Z",
+      "excerpt": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "section": "news",
+      "rankScore": 0.568322
+    },
+    {
+      "id": "5f612981eb9f795e",
+      "title": "Australia news live: Hanson ‘not the person I thought she was’, Hastie says; Labor defends ‘opt out’ push for social media algorithms",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-13T01:14:55.000Z",
+      "author": "Cait Kelly",
+      "excerpt": "Andrew Hastie says he “feels sorry” for Barnaby Joyce and that he and One Nation MP David Farley probably have “buyers remorse” after joining the rightwing party.",
+      "section": "news",
+      "rankScore": 0.558094
+    },
+    {
+      "id": "c488eb84a98bebf7",
+      "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
+      "url": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-13T00:24:29.000Z",
+      "excerpt": "The Houthis claim their attack targeted a Saudi military base in Sharurah.",
+      "section": "news",
+      "rankScore": 0.546886
+    },
+    {
+      "id": "92844eab48c5c18e",
+      "title": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
+      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-12T22:28:44.000Z",
+      "author": "Saeed Al-Batati, Shuaib Almosawa and Somini Sengupta",
+      "excerpt": "Hunger and disease have tormented Yemen for years. Now, fighting between the Saudi-backed government and Iran-backed Houthis is pushing it to the brink.",
+      "section": "news",
+      "rankScore": 0.521164
+    },
+    {
+      "id": "d28ae03ad1fc9106",
+      "title": "Celine Dion returns to the stage after battling rare illness",
+      "url": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
+      "source": "npr-news",
+      "publishedAt": "2026-09-12T23:54:06.000Z",
+      "author": "Chandelis Duster",
+      "excerpt": "The Canadian singer opened up her 16-show residency in Paris at the Plenitude Arena. The entire series is sold out.",
+      "section": "news",
+      "rankScore": 0.472618
+    },
+    {
+      "id": "9d954b927b9003d2",
+      "title": "Burnham resists calls to reform student loans in Budget",
+      "url": "https://www.ft.com/content/8d8b5195-e16f-457e-ae77-f6e843934058?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-12T23:01:09.000Z",
+      "excerpt": "Treasury select committee argues the repayment threshold should rise in line with inflation",
+      "section": "news",
+      "rankScore": 0.462322
+    },
+    {
+      "id": "388ea466c8bc2845",
+      "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
+      "url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-12T22:57:38.000Z",
+      "author": "Mike Isaac and Kate Conger",
+      "excerpt": "Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.",
+      "section": "news",
+      "rankScore": 0.461638
+    },
+    {
+      "id": "88892b7d5732272d",
+      "title": "加拿大总理将出访欧洲 加强伙伴关系",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hel9zd3BMTlA5cDhYcXRXNU9xa0VRaWZIVVhXWENyODdBSy0zQ2p4ZFFXRkpETkIxcVNERTlvZjVqbF9ZdzF1MVFFaUE0NGt3R2c0?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-13T00:05:56.000Z",
+      "excerpt": "加拿大总理将出访欧洲 加强伙伴关系 第一财经",
+      "section": "news",
+      "rankScore": 0.407073
+    },
+    {
+      "id": "2d5aa459b427ef80",
+      "title": "（近观中国）风雨兼程二十载，习近平谈到金砖“力量之源”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695515.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-13T01:13:37.000Z",
+      "excerpt": "中新社北京9月12日电 (记者 张素)“二十年风雨兼程，团结合作始终是金砖事业发展的力量之源。”",
+      "section": "cn-news",
+      "rankScore": 0.766982
+    },
+    {
+      "id": "18e6d377158b3693",
+      "title": "外国选手“窜稀”完赛夺冠？Hyrox北京站被指裁定不公，观众：有选手踩到异物打滑，赛事方：将更换地毯、深度消杀",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ia1gtZkl4MzVZSzV3c2VuS2ZHeVRrZEx0QU9pSko0cW5OVFdOeUNWbmRiVl9hVmFkNHo1WXlUbWFvVHV5Ym95S2Y2UFA4c3JZNVAyci1aeUtxZXdJZlcyVA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-13T01:18:14.000Z",
+      "excerpt": "外国选手“窜稀”完赛夺冠？Hyrox北京站被指裁定不公，观众：有选手踩到异物打滑，赛事方：将更换地毯、深度消杀 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.628685
+    },
+    {
+      "id": "3759f7d4d2f3a36d",
+      "title": "李大霄：SpaceX上市后股价已经腰斩，新股太贵不利于保护散户",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBISElyNWgtS3h2djFrTWIwaFhSNnZPanhxcGcwdjZRQl80X1BMY2VxajJTU01XZUVldE1Fa3JrSFR5LUlFU3BNWVJzamxZSzBvZi1mYkppSlU3RWtpTHc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-12T23:32:00.000Z",
+      "excerpt": "李大霄：SpaceX上市后股价已经腰斩，新股太贵不利于保护散户",
+      "section": "cn-news",
+      "rankScore": 0.602126
+    },
+    {
+      "id": "3f3ac89b2724f557",
+      "title": "新大众文艺，如何走进“猜你喜欢”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695510.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-12T23:24:48.000Z",
+      "excerpt": "算法推荐、观众反馈与创作者的选择，共同参与作品传播",
+      "section": "cn-news",
+      "rankScore": 0.600326
+    },
+    {
+      "id": "6ae6239dd0db12c7",
+      "title": "宗教界及学界在沪共探我国佛教中国化新实践",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695438.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-12T13:20:22.000Z",
+      "excerpt": "中新网上海9月12日电(范宇斌)“海上论道·觉群论坛”暨第三届“人间佛教的理论与实践”论坛12日在上海玉佛禅寺举行，探索佛教如何在奉法守规、礼仪戒律、日常行持、道德建设等方面同中华优秀传统文化相融合、与社会主义社会相适应。论坛现场发布新一辑《觉群佛学译丛》。",
+      "section": "cn-news",
+      "rankScore": 0.598957
+    },
+    {
+      "id": "ee4cb93f3f97e3d5",
+      "title": "服贸会中拉人士共探贸易合作增长新潜力",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0wtZmVmLVlIUUIzUFhSMlFpTVdaMENoanVXZkRuR0lHNWhOOC1USkUyeUVCdlk2bWdLaDFOMnVxeklNbUdKaDY3dk9VVmRRREp6WnJoR1JWcl9QWFRHNFRPd3Y4cDJxU2VDS05lTEhCekdhSE9WSUJKdmpheGUyZXpBaHN2TGN1?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-13T01:12:19.000Z",
+      "excerpt": "服贸会中拉人士共探贸易合作增长新潜力 新华网 北京首钢园：中国传统老工业基地转型的生动缩影 新华网 人工智能技术升级迭代、算力服务加速涌现 服贸会上新亮点打开服务贸易发展新空间 上海热线 从展台炫技到场景落地 AI开启服务贸易数智新范式 中国青年网 从服贸会看服务设计如何赋能中国制造 新浪财经",
+      "section": "cn-news",
+      "rankScore": 0.557516
+    },
+    {
+      "id": "1e8eeaff25ec4e1d",
+      "title": "中国智能技术助力全球南方矿业发展",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmpQemFxSjl1RVRReWc3ZUhrRkMtN3J0T3hEUHd2UWx4SElsZUtMYlFZN3NRUzUyT29Oc25OQjZ6R21feTBUWW1DWmY2NGVjQ2Nlem1yWU51dENGd2gxNHc3cVJlcUVPMFVjNkhSb0c5S3hLQjBrZTRuZ0R5TXJyVEdfT0s5djNw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-13T01:11:37.000Z",
+      "excerpt": "中国智能技术助力全球南方矿业发展 新华网",
+      "section": "cn-news",
+      "rankScore": 0.48769
+    },
+    {
+      "id": "878486c40a3c9cba",
+      "title": "China’s anti-corruption law is going global. What does it mean for overseas firms?",
+      "url": "https://www.scmp.com/news/china/politics/article/3367286/chinas-anti-corruption-law-going-global-what-does-it-mean-overseas-firms?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-13T00:00:16.000Z",
+      "author": "Xinlu Liang",
+      "excerpt": "China’s new draft law on combating cross-border corruption is as much a weapon against foreign interference as it is a tool against illicit financial flows, analysts say.",
+      "section": "cn-news",
+      "rankScore": 0.473817
+    },
+    {
+      "id": "646c9c8d23663529",
+      "title": "莫習會晤 中媒稱：雙方坦誠深入交換意見",
+      "url": "https://www.cna.com.tw/news/acn/202609120216.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-12T15:11:20.000Z",
+      "excerpt": "（中央社記者呂佳蓉北京12日電）中國國家主席習近平12日在印度新德里出席金磚國家領導人會晤期間會見印度總理莫迪。根據中方報導，習近平稱，要以客觀理性的戰略認知校準方向，中印是合作夥伴而非對手；報導並形容，兩國領導人坦誠深入交換意見，就中印要做夥伴達成重要共識。",
+      "section": "cn-news",
+      "rankScore": 0.423964
+    },
+    {
+      "id": "25bb4d5eeabdbe53",
+      "title": "亚运会｜男篮综合：中国队提前晋级伊朗险胜中国台北- 即时新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSFlwX1dQUlRCa0lvS2d6RmpFQ0RmcHVmbnpnT2RpNFJaT2cxVC03dHliTTdLZ0tMdDNENVp1UEJpWW1MZ3BEaTg0Nm1hVGZCb0ZqYWVfRlc5a1psSjhjdHEtNA?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-13T01:02:00.000Z",
+      "excerpt": "亚运会｜男篮综合：中国队提前晋级伊朗险胜中国台北- 即时新闻 东南网 中国男篮46分大胜巴林队取得亚运会两连胜 中国网新闻中心 亚运会｜男篮综合：中国队提前晋级 伊朗险胜中国台北 Sohu 2026亚运会男篮小组赛 中国队战胜对手迎开门红 中国日报网 中国男篮：半场领先17分，廖三宁表现出色，李悦州小将闪耀 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.416417
+    },
+    {
+      "id": "b71767d73c45bf16",
+      "title": "让书“找到”人：大学图书馆如何破圈",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695511.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-12T23:35:29.000Z",
+      "excerpt": "开学季，各大高校图书馆人头攒动。一排排座位上，电脑、习题册占据桌面，而在自习区之外，层层书架静静伫立，不少大学生穿行其间，在取书、翻书、借书的过程中，完成一场相遇。",
+      "section": "cn-life",
+      "rankScore": 0.803996
+    },
+    {
+      "id": "cec208aa326883d2",
+      "title": "“就业难”的根本原因在哪里？",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZDNucXgtbnlveE9JTnkwekthQUVtYWszS2ZXOUozVEFIRjkwamVPSVdhU2VYbHN2aGd6c0lwV1FwcDM2dEE1Y3NSRXpKQ2tYOGhTdjlmSjFSUy1sb3dQNlYyTU5YZjA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-13T01:19:20.000Z",
+      "excerpt": "“就业难”的根本原因在哪里？ 乌有之乡网刊",
+      "section": "cn-life",
+      "rankScore": 0.62896
+    },
+    {
+      "id": "9d3102399d5296ba",
+      "title": "应急演练 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVzZMNzBKZWMwdDU2c2t5Mzh6enpvMVlUdGFPSWFhaUc4X09LU2VpN3F3dXpTTzRlWnhkUm9UeFQzUGhqS09GYnlWWUlOd0RCWTFublRiclRSNURZc05BNjYyR3hEa1NkRDdDX2lVSk5oZXREWElwV0ZjdUVySFYtckkxUjd4MFEw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-13T01:01:00.000Z",
+      "excerpt": "应急演练 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.624376
+    },
+    {
+      "id": "73d114b9223e80cb",
+      "title": "辽宁省人民政府",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmxVWmM5S21MSjhfeFZsRkpVdVBWeWU0M2ZSOW9IMVhsMy1mb19EZTVUOGRxM2k1Mk9FbUstcFRYUGZ5UmFiMTFzbUFnVHBzd240aDJTam96QkN2WVB3N0FRaXZyVU9HaEZvUkw4WUJCekdUdC1xbXFWSVVSQ3hid3Zn?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-13T00:57:40.000Z",
+      "excerpt": "辽宁省人民政府 ln.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.55426
+    },
+    {
+      "id": "74287d0e57ea4d1c",
+      "title": "福特在美国召回超22万辆汽车",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rMDZqcE81WjhwcWZXYkN6bzRQRHZDbHc3VjBVTTB0MXY5ek02cHpCck5qWS1DSVpjSVdBeGh0ZDdVUmdFeTJuOHFXUE9KVnpxMGpERGxEQ1p5M29jSzVIYQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-13T01:17:52.000Z",
+      "excerpt": "福特在美国召回超22万辆汽车 东方财富",
+      "section": "cn-life",
+      "rankScore": 0.488906
+    },
+    {
+      "id": "e536535656b82d5b",
+      "title": "阻止阿尔茨海默病新方向！《自然》子刊：研究锁定了一个脑外“帮凶” - ByDrug",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xelBZNzNpSzgzYWJDTGQyQnFCdHRTZzJVNnFNU2k4djBJZno3RnYtSG1ad210VkJ3NTUtWlZGYUJLQjZCUlgwWmRpUDFiY3FRNERKNXU2eS1yQW5SMUFrY1ZRSmkzNThpZXhkXzdmNjR3M3drNFQ2NS1KZjQxUQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-13T01:08:12.000Z",
+      "excerpt": "阻止阿尔茨海默病新方向！《自然》子刊：研究锁定了一个脑外“帮凶” ByDrug Nat Neurosci：免疫系统的“叛徒”，树突状细胞如何为大脑损伤打开大门？ 生物谷 Nature Neuroscience：外周免疫细胞参与了阿尔茨海默病 生物通",
+      "section": "cn-life",
+      "rankScore": 0.487026
+    },
+    {
+      "id": "5fc2c1218a3f6327",
+      "title": "20省本科投档线公布，深大投档线平均超五成“双一流”大学",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hSFZ1ZWFpZUxYUUxkVjdmUHIyb24yZnpidk9zUHRmdTZXblN1MmVCZ2lkMnVybEpqMHN2S1hjRU10NFNLQVBYR0tsek52Tjlna2FtVmR0eXFMdnBTUFYxNDdVd1JEdw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-13T01:08:13.000Z",
+      "excerpt": "20省本科投档线公布，深大投档线平均超五成“双一流”大学 奥一网",
+      "section": "cn-life",
+      "rankScore": 0.417454
+    },
+    {
+      "id": "5cf2c7ba91028a60",
+      "title": "刚刚，谷歌DeepMind破解人类生命天书，90亿种基因突变全部算穿 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45NDRpUDhBNzhhOGtaVTROM3hBbDlIM0toWGgza1VNMmpwNlk5VE1RVU5ZUUpJNWI2RHAxZFJYVmZLNlpjX0JiZTFyZXF6Zw?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-12T23:25:48.000Z",
+      "excerpt": "刚刚，谷歌DeepMind破解人类生命天书，90亿种基因突变全部算穿 36 Kr",
+      "section": "cn-life",
+      "rankScore": 0.333653
+    }
+  ],
+  "warnings": []
+}
