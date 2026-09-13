@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-13",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-13T16:13:43.760Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 12,
+  "items": [
+    {
+      "id": "8e60985c95de075a",
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-13T08:41:17.000Z",
+      "score": 352,
+      "author": "mikemcquaid",
+      "excerpt": "352 points · 141 comments · https://news.ycombinator.com/item?id=49681545",
+      "section": "tech",
+      "rankScore": 0.803369
+    },
+    {
+      "id": "2e80dd2b945cf371",
+      "title": "JetKVM Mini",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "source": "hn-front",
+      "publishedAt": "2026-09-13T07:49:46.000Z",
+      "score": 352,
+      "author": "taubek",
+      "excerpt": "352 points · 135 comments · https://news.ycombinator.com/item?id=49681152",
+      "section": "tech",
+      "rankScore": 0.769025
+    },
+    {
+      "id": "96f619de47efaf30",
+      "title": "Session Context — what a web page knows about you",
+      "url": "https://sessioncontext.org",
+      "source": "lobsters",
+      "publishedAt": "2026-09-13T13:36:10.000Z",
+      "author": "sessioncontext.org via kaeruct",
+      "section": "tech",
+      "rankScore": 0.557279
+    },
+    {
+      "id": "7d55c98520043175",
+      "title": "The Esdac Film (1951, 1976)",
+      "url": "https://www.youtube.com/watch?v=DjhRRj6WYcs",
+      "source": "lobsters",
+      "publishedAt": "2026-09-13T13:20:01.000Z",
+      "author": "youtube.com via pushcx",
+      "section": "tech",
+      "rankScore": 0.549825
+    },
+    {
+      "id": "a39d1bbb8bd722a8",
+      "title": "Cloudflare Tests Cache Transcoding to Reduce Storage Requirements",
+      "url": "https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-13T10:35:00.000Z",
+      "author": "Renato Losio",
+      "excerpt": "Cloudflare recently described a prototype called Cache Transcoding that compresses eligible cache content, mainly uncompressed text such as HTML, JSON, CSS, and JavaScript, using Zstandard before storing it on disk.",
+      "section": "tech",
+      "rankScore": 0.526293
+    },
+    {
+      "id": "fc54cd0fc20143a6",
+      "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+      "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+      "source": "verge",
+      "publishedAt": "2026-09-13T14:28:12.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall.",
+      "section": "tech",
+      "rankScore": 0.452118
+    },
+    {
+      "id": "c8bb2a199c68435f",
+      "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "url": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-13T16:00:00.000Z",
+      "author": "作者：Olimpiu Pop",
+      "section": "cn-tech",
+      "rankScore": 0.692959
+    },
+    {
+      "id": "2823b7d371848947",
+      "title": "Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+      "url": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-13T10:00:00.000Z",
+      "author": "QCon全球软件开发大会",
+      "section": "cn-tech",
+      "rankScore": 0.508344
+    },
+    {
+      "id": "f4dddd75231adc30",
+      "title": "Figma 如何利用 AI 代理提升安全性",
+      "url": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-13T10:00:00.000Z",
+      "author": "作者：Renato Losio",
+      "section": "cn-tech",
+      "rankScore": 0.508344
+    },
+    {
+      "id": "a9e093cbea22b38b",
+      "title": "一文搞懂LangGraph 分支、循环与状态持久化一、条件分支：让工作流\"会思考\" 为什么需要分支？ 线性流程只能A",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pMW1BQVpCMmFORnV0UFc4N1pvaG9oOTNrazBmWDJzbXA3cC1mQ3ZKa19mV1FhQ1VmLUtnWFJldzJ2SDA0VjVzOEcxSTBnb0czRFlKXw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-13T10:20:03.000Z",
+      "excerpt": "一文搞懂LangGraph 分支、循环与状态持久化一、条件分支：让工作流\"会思考\" 为什么需要分支？ 线性流程只能A 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.363038
+    },
+    {
+      "id": "ae4fdda4835637ee",
+      "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+      "url": "https://sspai.com/post/113880",
+      "source": "sspai",
+      "publishedAt": "2026-09-13T07:51:55.000Z",
+      "author": "dong4j",
+      "excerpt": "作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。",
+      "section": "cn-tech",
+      "rankScore": 0.354128
+    },
+    {
+      "id": "81d54512c2c61234",
+      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-13T10:11:48.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.",
+      "section": "security",
+      "rankScore": 0.514395
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
