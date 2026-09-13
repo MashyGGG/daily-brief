@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-13",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-13T14:54:15.540Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "5cf324f2d21e6399",
+      "title": "AI巨頭前僱員：同業「真誠恐懼」人類遭滅絕，西方必須與中國協調",
+      "url": "https://www.bbc.com/zhongwen/articles/c0qxpyw20q7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-13T12:25:11.000Z",
+      "excerpt": "雅各布·考克森（Jacob Coxon）向BBC表示，如果不遏制人工智能的發展速度，人工智能有很大機會導致人類滅絕。",
+      "section": "news",
+      "rankScore": 0.740616
+    },
+    {
+      "id": "8e32a8fd114b5982",
+      "title": "俄袭击基辅至华沙客运列车 波兰外长指普京正升级事态 特朗普促乌方停止打击俄柴油",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260913-%E4%BF%84%E8%A2%AD%E5%87%BB%E5%9F%BA%E8%BE%85%E8%87%B3%E5%8D%8E%E6%B2%99%E5%AE%A2%E8%BF%90%E5%88%97%E8%BD%A6-%E6%B3%A2%E5%85%B0%E5%A4%96%E9%95%BF%E6%8C%87%E6%99%AE%E4%BA%AC%E6%AD%A3%E5%8D%87%E7%BA%A7%E4%BA%8B%E6%80%81-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%83%E4%B9%8C%E6%96%B9%E5%81%9C%E6%AD%A2%E6%89%93%E5%87%BB%E4%BF%84%E6%9F%B4%E6%B2%B9",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-13T14:27:34.000Z",
+      "author": "弗林",
+      "excerpt": "乌克兰和波兰方面表示，周日，一架俄罗斯无人机在靠近波兰边境的基辅至华沙客运列车上空袭击了该列车，但未造成人员伤亡。与此同时，俄罗斯在全面入侵乌克兰的第五年加大了袭击力度。此次袭击地点距离波兰边境仅两公里。几天前，特朗普政府特使访问了基辅和莫斯科，希望重启由华盛顿推动的、旨在结束这场二战以来欧洲最血腥冲突的谈判，但未能取得突破。",
+      "section": "news",
+      "rankScore": 0.685171
+    },
+    {
+      "id": "e7073a53b0f86555",
+      "title": "習近平七年再訪印度：金磚峰會握手背後，中印關係破冰？",
+      "url": "https://www.bbc.com/zhongwen/articles/cg7knkpjr39o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-13T10:56:43.000Z",
+      "excerpt": "金磚峰會《新德里宣言》呼籲對伊朗戰爭「最大克制」卻不點名美國。而習近平七年首訪印度，中印關係解凍了嗎？",
+      "section": "news",
+      "rankScore": 0.681638
+    },
+    {
+      "id": "166473958616cdfa",
+      "title": "冲绳县知事选举：自民党等6党支持的新人古谢玄太击败现任知事获胜",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260913-%E5%86%B2%E7%BB%B3%E5%8E%BF%E7%9F%A5%E4%BA%8B%E9%80%89%E4%B8%BE-%E8%87%AA%E6%B0%91%E5%85%9A%E6%94%AF%E6%8C%81%E7%9A%84%E6%96%B0%E4%BA%BA%E5%8F%A4%E8%B0%A2%E7%8E%84%E5%A4%AA%E5%87%BB%E8%B4%A5%E7%8E%B0%E4%BB%BB%E7%9F%A5%E4%BA%8B%E8%8E%B7%E8%83%9C",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-13T13:21:36.000Z",
+      "author": "弗林",
+      "excerpt": "据日本放送协会（NHK）报导，在周日举行的冲绳县知事选举中，获得包括自民党、日本革新会和国民民主党在内的六个政党支持的新人、42岁的古谢玄太取得了他的首次胜利，击败了寻求连任第三届的现任知事玉城丹尼等候选人。",
+      "section": "news",
+      "rankScore": 0.648523
+    },
+    {
+      "id": "bd2cef5428454e1c",
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-13T14:53:40.000Z",
+      "excerpt": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "section": "news",
+      "rankScore": 0.629704
+    },
+    {
+      "id": "0aa5cb2f8ae1f60e",
+      "title": "Reform’s Robert Jenrick ‘very confident’ £72m donations are ‘perfectly legal’ – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/13/reform-uk-nigel-farage-robert-jenrick-christopher-harborne-ben-delo-donations-funding-anthropic-ai-uk-politics-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-13T14:47:42.000Z",
+      "author": "Frances Mao(now) and Fran Singh (earlier)",
+      "excerpt": "Party’s economic spokesperson says donations are a ‘breakthrough moment’ as Labour’s Angela Rayner warns of possible retrospective action Reform UK’s £72m donations may be caught by new bill, Rayner suggests Christopher Harborne matches £36m Reform donation of Ben Delo Analysis: Donations of £72m…",
+      "section": "news",
+      "rankScore": 0.557085
+    },
+    {
+      "id": "2376ea29d882c2a0",
+      "title": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
+      "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-13T14:44:37.000Z",
+      "author": "Aaron Boxerman",
+      "excerpt": "Talks are expected tomorrow, officials said, as a ship was targeted in the Strait of Hormuz and Iranian allies in Yemen said they had launched a new attack on Saudi Arabia.",
+      "section": "news",
+      "rankScore": 0.555715
+    },
+    {
+      "id": "4dadedaf830f5e46",
+      "title": "US Open men’s singles final live: Alexander Zverev vs Ben Shelton",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/us-open-mens-singles-final-live-alexander-zverev-vs-ben-shelton?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-13T14:35:21.000Z",
+      "excerpt": "Follow our live build-up, predictions, score, match photos and text commentary stream of the men's final in New York.",
+      "section": "news",
+      "rankScore": 0.551596
+    },
+    {
+      "id": "581541be5494d8b7",
+      "title": "How Candidates Have Addressed Affordability in the Midterm Campaigns",
+      "url": "https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-13T14:49:28.000Z",
+      "author": "Audra D. S. Burch",
+      "excerpt": "Inflation and the cost of living have been the biggest drivers of campaigns this year, but the broad term “affordability” breaks down into specific issues, from housing to health care.",
+      "section": "news",
+      "rankScore": 0.488136
+    },
+    {
+      "id": "85a08e3fef143ac6",
+      "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
+      "source": "npr-news",
+      "publishedAt": "2026-09-13T14:00:00.000Z",
+      "author": "Kristin Wright",
+      "excerpt": "Actor Tatyana Ali says her healing journey after a traumatic childbirth has inspired her advocacy for Black maternal health, including support for midwives, doulas and other birth workers.",
+      "section": "news",
+      "rankScore": 0.468899
+    },
+    {
+      "id": "0b1a81a166c8f288",
+      "title": "Iraq’s militias grow bolder in Iran war",
+      "url": "https://www.ft.com/content/b60624fb-0a09-45e6-b148-b7a5ca38f83e?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-13T12:39:59.000Z",
+      "excerpt": "Baghdad is seeking to reduce the power of Tehran-linked forces accused of striking a Saudi oil pipeline",
+      "section": "news",
+      "rankScore": 0.437782
+    },
+    {
+      "id": "2f3d205775b0f509",
+      "title": "特朗普重申伊朗战事将在中期选举后结束",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWk2UWIxVHl4eU1vclNxdTBGa2pvN2ZBaGxqdTZIYlBPZmFlM1NSVzZYdDAxeFlVbjI4VVNCUVVBNmE5M2hJaEJua3NJWDJWdkNEbHhuX1NERzZkc21Za1BCamNITDhpaERVYmNycE9ZSVFlb3dtMnlmZDQweUlfM3AtWHB4TlZiSkM0R2ZsdmRfR1BZNzFfS19n?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-13T14:48:26.000Z",
+      "excerpt": "特朗普重申伊朗战事将在中期选举后结束 新华网客户端 特朗普称“不后悔”发动伊朗战争 新浪财经 特朗普：不后悔对伊朗开战 战争将在中期选举后立即停止 财联社 美伊战事冲击中期选举，特朗普：我的字典里没“后悔”这个词 thepaper.cn 一财主播说 | 油价刚破百 特朗普又甩停战时间表 打的什么算盘？ 第一财经",
+      "section": "news",
+      "rankScore": 0.418058
+    },
+    {
+      "id": "8561b8e13633deb4",
+      "title": "北京立法促进民族团结进步 以首善标准建设示范城市",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695800.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-13T12:39:02.000Z",
+      "excerpt": "中新网北京9月13日电 (记者 陈杭)北京市第十六届人民代表大会常务委员会第二十六次会议近日通过《北京市人民代表大会常务委员会关于进一步促进民族团结进步的决定》(下称决定)。决定自公布之日起施行。",
+      "section": "cn-news",
+      "rankScore": 0.74985
+    },
+    {
+      "id": "46139eb9e6387765",
+      "title": "习言道｜金砖峰会，习近平为何强调“坚定站在历史正确一边”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695841.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-13T13:48:36.000Z",
+      "excerpt": "中新网9月13日电 题：金砖峰会，习近平为何强调“坚定站在历史正确一边”",
+      "section": "cn-news",
+      "rankScore": 0.729875
+    },
+    {
+      "id": "b14f347f3dbed427",
+      "title": "服贸会多个 “首次”，助中企出海走出深水区",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695844.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-13T14:27:17.000Z",
+      "excerpt": "中新网9月13日电(戴悦)一家中国公司在中东做了五年生意。销售跑起来了，服务也跑起来了，总部觉得这块业务稳了，于是派了个新经理去接手。",
+      "section": "cn-news",
+      "rankScore": 0.616512
+    },
+    {
+      "id": "ca9827cec23f92a1",
+      "title": "深交所终止安徽久易农业股份有限公司创业板IPO审核",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kRnFYaS1oYVFFUlRiSzlDcEJySlg0cDREejIxZFBQVXBrd3dFX3BMbGU2dGQ4MHZ5ejZiNWpnTTBqeWd1ZldsdVFETEJOb3ZKTUpUNVJaQkY?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-13T14:06:03.000Z",
+      "excerpt": "深交所终止安徽久易农业股份有限公司创业板IPO审核 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.605896
+    },
+    {
+      "id": "c3138748e47bb28a",
+      "title": "印尼失联客轮确认倾覆，已致6人死亡，仍百余人失踪",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5veVY3dExoYzJCRi1qcWVsb2R2SDhpUFBjRWpHQVhVeTNKcXJfY3dnc2tEdGZid1hUVTZ5bzRxY0c4T3lzNDV0eDFraHoxLWQ1SFFSdTN0UW5RTXVDVmc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-13T13:11:00.000Z",
+      "excerpt": "印尼失联客轮确认倾覆，已致6人死亡，仍百余人失踪",
+      "section": "cn-news",
+      "rankScore": 0.578371
+    },
+    {
+      "id": "d3f77ba0b162c8f4",
+      "title": "数智赋能 全链向新——“全国种子双交会”现场扫描",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNnpfRjhjSlR6SFJQOWQ2ZXppZ1A3bFltLVdQRVhSQlZqTWs3dGdlemoxYTc5WkR1RHkyUE5ld2E1TzJ3X3dRUkFueHBiYV9HQXExNS1WMHczdTR0WjZ6azl3Y1pzNDV2VUVvaFFmVXVJWndhMzIxVEVkZ3MxTXpHZ3pMbnpVdnl1?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-13T14:17:02.000Z",
+      "excerpt": "数智赋能 全链向新——“全国种子双交会”现场扫描 新华网",
+      "section": "cn-news",
+      "rankScore": 0.543455
+    },
+    {
+      "id": "198c278f6c874326",
+      "title": "For China, H-6N bomber enhances nuclear deterrence and second-strike capability",
+      "url": "https://www.scmp.com/news/china/military/article/3367350/china-h-6n-bomber-enhances-nuclear-deterrence-and-second-strike-capability?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-13T14:00:07.000Z",
+      "author": "Seong Hyeon Choi",
+      "excerpt": "Last month, the People’s Liberation Army (PLA) released footage showing its H-6N bomber flying with a nuclear-capable Jing Lei-1 (JL-1) air-launched ballistic missile (ALBM), offering a rare look at China’s airborne nuclear strike capability.",
+      "section": "cn-news",
+      "rankScore": 0.468945
+    },
+    {
+      "id": "154f3b25f681ee74",
+      "title": "人口結構改變 中國多地鄉村小學改成養老院",
+      "url": "https://www.cna.com.tw/news/acn/202609130160.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-13T10:42:28.000Z",
+      "excerpt": "（中央社記者馮昭上海13日電）中國出生人口下降，農村人口持續向城鎮流動，近5年累積減少將近3萬間小學，陸媒報導，已有不少閒置鄉村小學校舍改建為養老院、養老中心、長者食堂等。",
+      "section": "cn-news",
+      "rankScore": 0.448092
+    },
+    {
+      "id": "5258a40ae7688c21",
+      "title": "IPO周报：下周一年内最便宜新股启动打新",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYVG5oQmZ0UV92MXNRUzFpbEZyV3d1SGh2aGxXdW9ySUstSjB2dklvZndDSEJmTlVxTVJfNUFNem9TZzJZMF93NlBhZGZ4cmd1?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-13T12:21:25.000Z",
+      "excerpt": "IPO周报：下周一年内最便宜新股启动打新 第一财经",
+      "section": "cn-news",
+      "rankScore": 0.430561
+    },
+    {
+      "id": "65ff9c24730c0a90",
+      "title": "“奥跑中国”系列赛繁峙站开跑 800余选手角逐滹沱河畔",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXOUJsSWJsd3lnVzMtQ1haX2RaTnNMOVhPbDNLNDFNTDNiaTdiWlU1UC0tT0ZSQUFha3Y5b3RqRW9OUzhhaTdfYmR4MDBtZWh4WGhwM01faEtwTTRNcmNoaFdWa3RFMDRZ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-13T13:07:34.000Z",
+      "excerpt": "“奥跑中国”系列赛繁峙站开跑 800余选手角逐滹沱河畔 chinanews.com.cn 山西繁峙：884名跑者滹沱河畔竞速 体育帮扶赋能县域发展 新浪财经 2026年″奥跑中国″大众路跑全国系列赛繁峙站激情开跑 Sina Sports",
+      "section": "cn-news",
+      "rankScore": 0.384436
+    },
+    {
+      "id": "b6f0afc309524093",
+      "title": "（乡村行·看振兴）广西乡村秋种香葱忙 小葱成富民“金钥匙”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695831.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-13T13:07:40.000Z",
+      "excerpt": "中新网柳州9月13日电(韦莹芸 周晓玉)近日，在广西柳州市柳江区三都镇里贡村，村民们手持葱苗俯身定植、覆土稳苗、浇水定根，整套农事动作娴熟流畅，新栽的葱苗整齐排布、青翠鲜嫩，在暖阳映衬下焕发出勃勃生机。",
+      "section": "cn-life",
+      "rankScore": 0.768938
+    },
+    {
+      "id": "5d242991206cee85",
+      "title": "注意！福建局部大雨到暴雨！福州昼夜温差近10℃！入秋要等到……",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FMUNrMVQtUEs3Z2plZFZLRVJ5YnFEMXpRMi14OGN6R2xrbVQzM2N6NnBuaXpOVk91ZWhtRzZFWGF6dVAwREVPLWEwa29jTmlCXzZWS2xaSlRqRXQyZURuLWloZDA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-13T14:38:10.000Z",
+      "excerpt": "注意！福建局部大雨到暴雨！福州昼夜温差近10℃！入秋要等到…… fznews.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.621954
+    },
+    {
+      "id": "61e1e6112915addc",
+      "title": "关爱新就业群体电影公益放映交流活动在北京启动",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PZXFhS0tWRUZnTFlVdllNdEdOTTlxQ3owbmVIX1NVQjZXSnA0WGxJQXhZSnkwWjhCRV9ZbEtRc29BdXctR3AtSzE2X3hMWEtObXM4NkFsSnBadWw4ZVNINzd2bUd1M1pEdDZKYzZRRXA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-13T14:07:05.000Z",
+      "excerpt": "关爱新就业群体电影公益放映交流活动在北京启动 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.606412
+    },
+    {
+      "id": "e00ee4c97bb34dbf",
+      "title": "急性脑出血为何凶险？出现5大症状一定要小心",
+      "url": "https://www.chinanews.com.cn/life/2026/09-13/10695725.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-13T10:30:36.000Z",
+      "excerpt": "急性脑出血，俗称“脑溢血”，是指非外伤性的脑血管破裂，血液溢出压迫脑组织。它起病急骤，常表现为剧烈头痛、呕吐、意识障碍，致死致残率极高。因此应学会早期识别、正确急救、提前预防，尽量降低脑出血的损害。",
+      "section": "cn-life",
+      "rankScore": 0.553523
+    },
+    {
+      "id": "bd6537b108655707",
+      "title": "腹型肥胖+维D缺乏，死亡风险大幅攀升？",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yYklvaGgwSG1telh4Sk9CTm1MVy1VVXJrckxya245YmNGem1najZOQ1Bqekk2aGxMUVBZTG9qQjIzaldYZHlnVkxyU0RPUkhhdGttbDdSSGZnN3h5bnFXVWhjVlY3Z3Vz?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-13T13:37:00.000Z",
+      "excerpt": "腹型肥胖+维D缺乏，死亡风险大幅攀升？ 紫牛新闻",
+      "section": "cn-life",
+      "rankScore": 0.459955
+    },
+    {
+      "id": "be162660c285b07e",
+      "title": "三地市场监管部门抽检：多家大润发门店食用农产品不合格",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLdFl1LTJwV2ZrM0lWOEJZSExwQ3BRVWdZbDRrU2UySlpWQ1Vxc21xb2FfYy02UVZYSkJMcVFrdjdZd0UzYkxpMHlwcHY5WVlEZWpHeE1TMlJWRFNoSVBLdEpn?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-13T13:16:41.000Z",
+      "excerpt": "三地市场监管部门抽检：多家大润发门店食用农产品不合格 guandian.cn",
+      "section": "cn-life",
+      "rankScore": 0.452054
+    },
+    {
+      "id": "dfc3eb0d58088bbe",
+      "title": "多地辟谣：所谓“安全健康教育网”培训活动并非由官方组织",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EaXJ3dmNLWlJLeGtGa2YxWGgzUTBkeDZtUG14VFFybjNiN3ByX09Tanc5SHBmR20tSEJFdm1RbnMzMGpXTk5rTA?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-13T14:31:29.000Z",
+      "excerpt": "多地辟谣：所谓“安全健康教育网”培训活动并非由官方组织 凤凰网",
+      "section": "cn-life",
+      "rankScore": 0.412408
+    },
+    {
+      "id": "2d2c760aa4d9a19a",
+      "title": "2026年9月13日16时长江水位",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZVF0eTFYR3d3UjRfVUFYMEpmenlZRFY1TkVscGNYM0dXamFZVkh2TXBDTU5QYWhnS2NMQzV4Wi1YeGQwbzA2bFFxY0xNTUtaWl9QWEQ4Z2NIdWM4ZUs4eFpqbnBrWUt6cDJBbngtbE9OVDZBeHAweWk2dGc2LUtXMFBsVk1iRjBhbFpUVW9ZRQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-13T08:22:00.000Z",
+      "excerpt": "2026年9月13日16时长江水位 mot.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.385663
+    }
+  ],
+  "warnings": []
+}
