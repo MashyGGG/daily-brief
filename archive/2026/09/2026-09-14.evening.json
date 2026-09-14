@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-14",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-14T18:04:12.824Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "5b28e6fac959d198",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-14T08:25:47.000Z",
+      "score": 192,
+      "author": "NKosmatos",
+      "excerpt": "192 points · 53 comments · https://news.ycombinator.com/item?id=49693610",
+      "section": "tech",
+      "rankScore": 0.78438
+    },
+    {
+      "id": "d17d73d1c23d6ae4",
+      "title": "LLMs as a Judge: How to Know if Your LLM is Healthy",
+      "url": "https://blog.bytebytego.com/p/llms-as-a-judge-how-to-know-if-your",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-14T15:31:02.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we are going to look at the process of LLM evaluation in detail.",
+      "section": "tech",
+      "rankScore": 0.683591
+    },
+    {
+      "id": "c0bea310ba956eea",
+      "title": "Configure cost and quality in Copilot auto model selection",
+      "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-14T16:05:27.000Z",
+      "author": "Allison",
+      "excerpt": "GitHub Copilot auto model selection now offers three tiers: efficiency, balance, and intelligence. Choose the tier that reflects how you want auto to weigh cost, quality, and response time for…",
+      "section": "tech",
+      "rankScore": 0.639096
+    },
+    {
+      "id": "c4b2591403cba964",
+      "title": "SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging",
+      "url": "https://ramalagappan.github.io/pdfs/papers/splitft.pdf",
+      "source": "lobsters",
+      "publishedAt": "2026-09-14T18:02:00.000Z",
+      "author": "ramalagappan.github.io via typesanitizer",
+      "section": "tech",
+      "rankScore": 0.628978
+    },
+    {
+      "id": "1b6141f6cc794767",
+      "title": "Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB",
+      "url": "https://www.infoq.com/news/2026/09/agoda-price-cache-dragonflydb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-14T13:48:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Agoda migrated its 1.5 TB hotel Price Cache from 72 SQL Server shards to DragonflyDB to handle growing read and write volumes. The migration used staged dual reads, parity validation, gradual traffic shifting, and decentralized failover detection.",
+      "section": "tech",
+      "rankScore": 0.568608
+    },
+    {
+      "id": "85ad56d341d2d8e7",
+      "title": "TIFF 2026: the latest movie reviews from Toronto",
+      "url": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
+      "source": "verge",
+      "publishedAt": "2026-09-14T17:30:00.000Z",
+      "author": "Andrew Webster",
+      "excerpt": "If you want an idea of what’s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards contenders; the 2025 edition, for instance, included the […]",
+      "section": "tech",
+      "rankScore": 0.477718
+    },
+    {
+      "id": "2999d569b1df91d5",
+      "title": "Humanity’s Last Invention — Richard Socher of Recursive",
+      "url": "https://www.latent.space/p/recursive",
+      "source": "latent-space",
+      "publishedAt": "2026-09-14T16:04:16.000Z",
+      "excerpt": "Richard Socher is an NLP OG and CEO of You.com, who has now spun out an even more ambitious startup focused on RSI — already worth $5B!",
+      "section": "ai",
+      "rankScore": 0.702338
+    },
+    {
+      "id": "a80320d3b2f8b308",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "excerpt": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "section": "ai",
+      "rankScore": 0.636301
+    },
+    {
+      "id": "9797903aa20acb1c",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "source": "openai",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "excerpt": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "section": "ai",
+      "rankScore": 0.564546
+    },
+    {
+      "id": "66553d8e967afeaa",
+      "title": "非洲野犬完成了横跨大陆的 4000 公里之旅",
+      "url": "https://www.solidot.org/story?sid=85376",
+      "source": "solidot",
+      "publishedAt": "2026-09-14T15:51:58.000Z",
+      "excerpt": "根据发表在《Ecology》期刊上的一项研究，一群非洲野犬完成了横跨大陆、创纪录的 4000 公里之旅。科学家表示这是有记录以来非洲陆生哺乳动物为寻找配偶而行进的最远距离。三只雄犬行进的直线距离大约为 418 公里，但为了绕过人类活动区域它们迂回走了 4000 公里路。非洲野犬是非洲最稀有的捕食者之一，目前野外仅存约 6000 只。它们生活在高度社会化的家族群中，集体狩猎，四处游荡、寻找新领地以及与其它群体进行繁殖机会而闻名。它们无法在自己出生的家族群内繁衍，因此要么等待可能最终继承该家族群，要么在两三岁时出发寻找配偶。在这次寻找配偶而进行的迁徙中，三只雌性犬因落入人类陷阱而有两只死亡。",
+      "section": "cn-tech",
+      "rankScore": 0.695399
+    },
+    {
+      "id": "05fd4969b707c8ba",
+      "title": "Azure 虚拟桌面混合版正式可用，许可细则尚未公布",
+      "url": "https://www.infoq.cn/article/MMD3SrhB1HuUh5Rv9Fmw?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-14T17:29:00.000Z",
+      "author": "作者：Steef-Jan Wiggers",
+      "section": "cn-tech",
+      "rankScore": 0.681942
+    },
+    {
+      "id": "25958c4d882adb76",
+      "title": "恩格斯停顿的本质是“社会肌少性肥胖”",
+      "url": "https://www.36kr.com/p/3983000847645442",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-14T14:27:02.000Z",
+      "author": "腾讯研究院",
+      "excerpt": "近几年，随着人工智能的爆发，一个沉寂多年的经济史概念重新热了起来——“恩格斯停顿”。 弗雷在《技术陷阱》里重提它，阿西莫格鲁和约翰逊在《权力与进步》里再提一次，不少经济学家由此担心：AI可能让历史重演，机器创造的财富滚滚而来，劳动的报酬却原地踏步。 但坦率地说，目前关于“新恩格斯停顿”的讨论，大多停留在分配层面：蛋糕做大了，没有分好。这个理解不够深。恩格斯停顿的本质不是分配失衡，而是一种更深层的病变——经济在长胖，社会在萎缩。用医学的话说，是“社会肌少性肥胖”。",
+      "section": "cn-tech",
+      "rankScore": 0.529763
+    },
+    {
+      "id": "660b5c161d45d0f7",
+      "title": "微软史上最大号周二补丁日 —— 共计修复 974 个漏洞",
+      "url": "https://www.oschina.net/news/502471/microsoft-plugs-nearly-1000-security-holes",
+      "source": "oschina",
+      "publishedAt": "2026-09-14T11:18:01.000Z",
+      "excerpt": "微软 9 月的补丁星期二修复了至少 974 个安全漏洞，史上最大的一批。之前纪录是今年 7 月的 570 个——这次近乎翻倍。 其中 113 个是严重级别，意味着攻击者在没有用户交互的情况下可能远程接管系统。 2 个零日漏洞正在被积极利用，都是 Windows 本地权限提升。另外有两个严重漏洞值得关注： CVE-2026-69730 是 Windows ...",
+      "section": "cn-tech",
+      "rankScore": 0.442524
+    },
+    {
+      "id": "44135f85e5eff40c",
+      "title": "派评｜近期值得关注的 App",
+      "url": "https://sspai.com/post/114577",
+      "source": "sspai",
+      "publishedAt": "2026-09-14T09:24:02.000Z",
+      "author": "少数派编辑部",
+      "excerpt": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀",
+      "section": "cn-tech",
+      "rankScore": 0.346593
+    },
+    {
+      "id": "3ad588bd6b9c71f8",
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-14T16:58:42.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current.",
+      "section": "security",
+      "rankScore": 0.666403
+    },
+    {
+      "id": "1064a6570f81ebcd",
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-14T16:56:30.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign.",
+      "section": "security",
+      "rankScore": 0.665275
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
