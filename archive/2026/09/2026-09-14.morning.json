@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-14",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-14T01:00:50.113Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "ed4eaf9d6a740ccd",
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "source": "hn-front",
+      "publishedAt": "2026-09-13T17:37:44.000Z",
+      "score": 555,
+      "author": "iamflimflam1",
+      "excerpt": "555 points · 263 comments · https://news.ycombinator.com/item?id=49686445",
+      "section": "tech",
+      "rankScore": 1.100991
+    },
+    {
+      "id": "99b3f459e60348b1",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "hn-front",
+      "publishedAt": "2026-09-13T21:06:13.000Z",
+      "score": 410,
+      "author": "u1hcw9nx",
+      "excerpt": "410 points · 162 comments · https://news.ycombinator.com/item?id=49688695",
+      "section": "tech",
+      "rankScore": 1.098277
+    },
+    {
+      "id": "faf3ea3894dd8ef5",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "source": "hn-front",
+      "publishedAt": "2026-09-13T14:28:36.000Z",
+      "score": 366,
+      "author": "Levitating",
+      "excerpt": "366 points · 174 comments · https://news.ycombinator.com/item?id=49684393",
+      "section": "tech",
+      "rankScore": 0.876693
+    },
+    {
+      "id": "93ae9e28db407987",
+      "title": "Purely Functional Operating Systems",
+      "url": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
+      "source": "lobsters",
+      "publishedAt": "2026-09-14T00:03:38.000Z",
+      "author": "eighty-twenty.org via andyc",
+      "section": "tech",
+      "rankScore": 0.6157
+    },
+    {
+      "id": "cdab0e57a7f277fe",
+      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+      "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-13T21:56:52.000Z",
+      "author": "Beth Mole",
+      "excerpt": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+      "section": "tech",
+      "rankScore": 0.454228
+    },
+    {
+      "id": "d2fd6a03255708eb",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "verge",
+      "publishedAt": "2026-09-13T19:41:48.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's…",
+      "section": "tech",
+      "rankScore": 0.427965
+    },
+    {
+      "id": "001f89fef05c5ea1",
+      "title": "commit-rewriter 0.1",
+      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-14T00:28:10.000Z",
+      "excerpt": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for publication.",
+      "section": "ai",
+      "rankScore": 0.82911
+    },
+    {
+      "id": "3598ae4e38c5e9b2",
+      "title": "shot-scraper 1.12",
+      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-13T23:58:14.000Z",
+      "excerpt": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --quality 80 The --quality option sets the quality - without that option the WebP…",
+      "section": "ai",
+      "rankScore": 0.819133
+    },
+    {
+      "id": "41c3135da3bb86d7",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "openai",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "excerpt": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "section": "ai",
+      "rankScore": 0.751411
+    },
+    {
+      "id": "6fef8b74f591faa7",
+      "title": "AI制药的基建大赛开始了",
+      "url": "https://www.36kr.com/p/3981789068065544",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-14T00:24:48.000Z",
+      "author": "氨基观察",
+      "excerpt": "当AI把药物设计推向“分钟级”，同样稀缺的是验证它的实验室。 这股趋势正在全球同步发生。大洋彼岸的Chai Discovery成立不到两年半、估值冲到38亿美元，其CEO有个反直觉判断——AI不会让湿实验变少，反而可能变多，正如程序员效率提升后需求反而上涨。 瑞士初创Adaptyv Bio为Anthropic的Claude完成1320条蛋白序列的湿实验验证，过去一年收入增长近10倍、刚完成4000万美元A轮。这更是向外界宣告着，模型越聪明，验证需求越爆炸。",
+      "section": "cn-tech",
+      "rankScore": 0.620991
+    },
+    {
+      "id": "2f716ee2d06a255e",
+      "title": "突发，Dario提全球AI限速三步计划，奥特曼马斯克第一时间支持",
+      "url": "https://www.36kr.com/p/3981056866597638",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-14T00:24:36.000Z",
+      "author": "新智元",
+      "excerpt": "13日，Anthropic CEO Dario Amodei发布了一篇罕见长文—— We Must Pace the Frontier（我们必须控制前沿AI的发展节奏） 这一次，他直接把矛头对准了前沿模型的研发速度，核心观点就一句话： 最顶尖的AI，真得主动踩刹车了。 这篇长文中，Dario亲口承认，「递归自我改进（RSI）已经在全行业出现了」。 更让人后背发凉的是，他预测未来6—12个月，AI Agent集群可能会接管整个互联网。",
+      "section": "cn-tech",
+      "rankScore": 0.620941
+    },
+    {
+      "id": "4fecf43608c86c8a",
+      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+      "url": "https://sspai.com/post/114539",
+      "source": "sspai",
+      "publishedAt": "2026-09-13T22:55:34.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "美国 AI 高管呼吁放缓研发，特朗普反对 苹果解释 Apple Watch 不会持续录音 LG 否认智能电视监控用户 暴雪公布《魔兽世界》怀旧服 儿童贴身使用笔记本电脑导致皮肤灼伤 Android 开始支持密码管理器迁移 看看就行的简讯 少数派的近期动态 你可能错过的好文章",
+      "section": "cn-tech",
+      "rankScore": 0.532163
+    },
+    {
+      "id": "299010641834a244",
+      "title": "AI",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPSmpuZGtnY3BKZGlVTFA3Nk5EY2loQW55Sk1Ka0pTa2lFQjhuT1luTXBoY0pqcndiLS1NNGNDQlp6QWhXemZDYy1LRjhObUlhcHZFTVZOcS14MXV4?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-13T21:32:51.000Z",
+      "excerpt": "AI 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.449558
+    },
+    {
+      "id": "1f2465e11f481656",
+      "title": "暴雪宣布 FPS 版《星际争霸》",
+      "url": "https://www.solidot.org/story?sid=85362",
+      "source": "solidot",
+      "publishedAt": "2026-09-13T03:10:07.000Z",
+      "excerpt": "暴雪宣布了 FPS 版《星际争霸》，游戏仍然处于早期开发阶段，目标发售时间是在 2030 年。暴雪称，新作是一款开放世界、剧情驱动的科幻射击游戏，故事背景设定在《星际争霸 II》事件发生后数十年，是《星际争霸》宇宙中的一款全新作品。RTS 版《星际争霸》于 1998 年发布，2015 年发布了《星际争霸II》三部曲中的第三部《虚空之遗》，时隔 11 年之后宣布的正统续作不再属于 RTS。FPS 版《星际争霸》游戏设定在 Koprulu 星区（Koprulu Sector），时间位于《虚空之遗》剧情结束后的 70 年。",
+      "section": "cn-tech",
+      "rankScore": 0.369503
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
