@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-14",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-14T01:36:30.504Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "bdf5f833d94af590",
+      "title": "中國強勢下，歐洲電池工業謀求「重新充電」",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8ex870p05o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-14T00:19:18.000Z",
+      "excerpt": "歐洲擁有一些前景可期的電池技術，但它能否追回被中國電池巨頭拉開的差距？",
+      "section": "news",
+      "rankScore": 0.814264
+    },
+    {
+      "id": "d1c4d9fa75c76a83",
+      "title": "金砖峰会：各国营造团结景象，但难掩内部分歧",
+      "url": "https://cn.nytimes.com/world/20260914/brics-summit-china-india-russia-iran/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-14T01:03:28.000Z",
+      "author": "DAVID PIERSON,ALEX TRAVELLI",
+      "excerpt": "参加峰会的中、印、俄等国努力营造团结形象，但各国在伊朗战争等问题上存在分歧。该集团在联合声明中呼吁中东地区保持“最大限度的克制”，但没有指责任何特定国家。 Francis Mascarenhas/Reuters 新德里街头的金砖国家标识，摄于周五。印度首都为这次峰会基本处于全城布防状态。",
+      "section": "news",
+      "rankScore": 0.759904
+    },
+    {
+      "id": "c30e2cfef099d1ac",
+      "title": "非洲:塞内加尔喜迎青年奥运圣火",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260913-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%E5%96%9C%E8%BF%8E%E9%9D%92%E5%B9%B4%E5%A5%A5%E8%BF%90%E5%9C%A3%E7%81%AB",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-13T23:30:59.000Z",
+      "author": "尼古拉",
+      "excerpt": "西非国家塞内加尔(le Sénégal)将于一个月后的2026年10月31日至11月13日在首都达喀尔(Dakar)举办第四届夏季青年奥林匹克运动会(JOJ)。当地于2026年09月12日星期六迎来了奥林匹克圣火。这是本台法广非洲组（RFI Afrique）今天（2026年09月13号星期日）上网的法文最新体育消息之一。2026年达喀尔第四届夏季青奥会将是非洲土地上举行的首次奥运会体育赛事。",
+      "section": "news",
+      "rankScore": 0.665132
+    },
+    {
+      "id": "9d9905164adaaa20",
+      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-13T22:27:54.000Z",
+      "excerpt": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+      "section": "news",
+      "rankScore": 0.582848
+    },
+    {
+      "id": "a1ee85e1686e10fe",
+      "title": "Protests erupt across Syria over sharp fuel price hikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-14T01:08:01.000Z",
+      "excerpt": "Protests have erupted in Syria after the government raised fuel prices.",
+      "section": "news",
+      "rankScore": 0.553669
+    },
+    {
+      "id": "91b120233d13682c",
+      "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
+      "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-14T00:54:05.000Z",
+      "author": "Sian Cain and agencies",
+      "excerpt": "Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Israel’s culture minister has called for the Oscar-winning…",
+      "section": "news",
+      "rankScore": 0.550572
+    },
+    {
+      "id": "84af1202d7517225",
+      "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+      "url": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-13T23:48:49.000Z",
+      "author": "Ian Fisher and Maria Varenikova",
+      "excerpt": "David Petraeus was at a rail station when a drone hit. Another train, with former Prime Minister Boris Johnson of Britain and other dignitaries, had just left, Ukrainian officials said.",
+      "section": "news",
+      "rankScore": 0.536069
+    },
+    {
+      "id": "7da6930fce88313d",
+      "title": "Kennedy Center Warns of Bankruptcy Unless Trump’s Name Is Added",
+      "url": "https://www.nytimes.com/2026/09/13/arts/design/trump-kennedy-center-bankruptcy-closure.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-14T01:09:11.000Z",
+      "author": "Julia Jacobs",
+      "excerpt": "The caution, contained in a draft resolution to the center’s board, comes as a federal judge decides whether President Trump’s name should remain off the building.",
+      "section": "news",
+      "rankScore": 0.484687
+    },
+    {
+      "id": "582519de5a22efcc",
+      "title": "Michael Dell’s family office leads $7.7bn deal to take insurance broker private",
+      "url": "https://www.ft.com/content/5495d88b-b457-498a-bedd-64a954b538cd?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-14T00:45:21.000Z",
+      "excerpt": "DFO Management and Sequence near acquisition of Baldwin Group as industry undergoes wave of consolidation",
+      "section": "news",
+      "rankScore": 0.480053
+    },
+    {
+      "id": "29d5b3fd16cef12a",
+      "title": "古特雷斯出席金砖国家峰会，呼吁塑造包容性的全球增长",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142781",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-13T12:00:00.000Z",
+      "excerpt": "秘书长古特雷斯周日出席了于印度新德里举行的第18届金砖国家峰会，并发表讲话指出， 必须致力于韧性、创新、合作和可持续发展，这对塑造包容性的全球增长至关重要。",
+      "section": "news",
+      "rankScore": 0.425873
+    },
+    {
+      "id": "272f5626519c6adf",
+      "title": "日本自民党支持的候选人当选冲绳县知事--国际",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pQ28yUUNPMDIxVWcxRTJjY0pZVmpWVloxVDdYY2hHU0EzSlpxT0pNZGJyYXlscndKZUxES2JhRXBtTFM0Q2IwOUhqVmZvaS04X0FpanN6azg2WFZzckp3T2M2X2VEUkJtekdv?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-14T01:00:00.000Z",
+      "excerpt": "日本自民党支持的候选人当选冲绳县知事--国际 人民网 冲绳变天了 新浪财经 冲绳县知事选举：自民党等6党支持的新人古谢玄太击败现任知事获胜 RFI 日本自民党支持的候选人当选冲绳县知事 新京报 详讯2：认同美军机场县内搬迁的古谢当选冲绳知事 共同网",
+      "section": "news",
+      "rankScore": 0.413915
+    },
+    {
+      "id": "7d469eaf4bc9622a",
+      "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
+      "source": "npr-news",
+      "publishedAt": "2026-09-13T12:04:27.000Z",
+      "author": "Ayesha Rascoe",
+      "excerpt": "Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists.",
+      "section": "news",
+      "rankScore": 0.3321
+    },
+    {
+      "id": "b80673c4bced7c6f",
+      "title": "受天气影响 三亚涉山、涉海、涉空旅游项目暂停经营",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695919.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-14T01:29:41.000Z",
+      "excerpt": "中新网9月14日电 据“三亚旅文”微信公众号消息，9月13日晚，海南省三亚市旅游和文化广电体育局发布《关于涉山、涉海、涉空旅游项目暂停经营的通知》，根据《三亚市防灾减灾救灾和安全生产委员会lt;关于将防汛防风Ⅳ级应急响应提升至防汛防风Ⅲ级应急响应的通知gt;》要求，为切实保障广大游客人身安全，请三亚全市涉山景区、涉山涉海涉空旅游项目经营企业于9月13日22:00前暂停经营。各涉山景区、涉山项目、涉海项目、涉空项目等经营企业，根据现场防汛情况适时关闭，在危险区域设立安全警示标识，做好游客和现场工作人员安全管理工作。",
+      "section": "cn-news",
+      "rankScore": 0.837725
+    },
+    {
+      "id": "004f34c0192b07f2",
+      "title": "最新、最强、最大 盘点平陆运河多重硬核实力",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-14/10695909.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-14T01:16:00.000Z",
+      "excerpt": "9月16日",
+      "section": "cn-news",
+      "rankScore": 0.763734
+    },
+    {
+      "id": "0354e2d19e706ac6",
+      "title": "A股开盘：超3600只个股飘绿，三大指数集体低开",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695930.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-14T01:33:29.000Z",
+      "excerpt": "A股周一开盘：超3600只个股飘绿，三大指数集体低开；通信设备、半导体、贵金属下跌，油气、海运上涨",
+      "section": "cn-news",
+      "rankScore": 0.629244
+    },
+    {
+      "id": "99cacf7e72199db2",
+      "title": "守中医之瑰宝，促健康老龄化——第七届国际长寿论坛暨《抗衰老》报告发布会圆满召开！",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5WllYdExOdzBUYmd2Mk8ydG1ZWEwwb2RPTnFTUVdpQmNBbkFDdElsUHhaaXNaNmRGU2hJQnVIcHFaRlhaNlI1S3dnaDFDbzJ4VnBKZnpPNU1VWDlWQmc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-14T01:30:00.000Z",
+      "excerpt": "守中医之瑰宝，促健康老龄化——第七届国际长寿论坛暨《抗衰老》报告发布会圆满召开！",
+      "section": "cn-news",
+      "rankScore": 0.628373
+    },
+    {
+      "id": "6b16a844618fad0d",
+      "title": "富时中国A50指数期货盘初跌0.45%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QckRzRGNHRm00OUJiOXU3MVlTd1gySjZpRkdTbXZpNGY2QXROSDZfRmhmYU43Y3dpRlR6R3VYMmhGUXNXMmVNdVZwcUtfUVU4ZWQwd0tLVlc?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-14T01:07:24.000Z",
+      "excerpt": "富时中国A50指数期货盘初跌0.45% Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.622723
+    },
+    {
+      "id": "76e2c250076dbfca",
+      "title": "东博会公众开放日门票购买攻略来了",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOVRTRVVzZGZSX1JsNTh0alR3YXZtLXBvWV9iQzJzdEZBVldla1F2TWZJTy15UTlrQ21LTGM3YTdHWHVfd2dwUzFVdnlLVUFxVXJkSXNwZUJSSmoyRDdRR1hoODF6TnN5YkRhX0dJbHI4cUM4dFZrMkR3bmZqZE1mNmNB?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-14T00:51:50.000Z",
+      "excerpt": "东博会公众开放日门票购买攻略来了 新华网 第23届东博会“魅力之城”全数出炉 Sohu 精彩东博将至 绿城靓丽迎客 新华网 中国-东盟博览会秘书长王继才：AI化身“贸易红娘”助力成交8000对 chinanews.com.cn 广西公安升级六项出入境服务措施护航“东博会和峰会” 中国长安网",
+      "section": "cn-news",
+      "rankScore": 0.550072
+    },
+    {
+      "id": "4de069b33eb6a5ac",
+      "title": "How the five-year plan can serve the nation and deliver for Hong Kong",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3367335/how-five-year-plan-can-serve-nation-and-deliver-hong-kong?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-14T01:30:05.000Z",
+      "author": "John Lee Ka-chiu",
+      "excerpt": "This year marks the opening year of the national 15th five-year plan. Faced with accelerating change globally and significant opportunities brought by national development, Hong Kong must better integrate into and serve the overall national development, enabling our economic progress to reach new…",
+      "section": "cn-news",
+      "rankScore": 0.488751
+    },
+    {
+      "id": "552c97be423255b3",
+      "title": "向高向智 煤博会展现煤化工产业转型新风向",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nRXNtYy1sNjdXOGpSNzl6SWwyVU9XRFhCVU02WFZXbWxXSnpiVFRYQ1pzMDFGX1JkZURxek1JQlZsa1VueHdzTl90ZW1oVVkycFE2UUFBNmh2S19zak5GNklvQVpaOE5XRHY5V0RSZEw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-14T01:19:50.000Z",
+      "excerpt": "向高向智 煤博会展现煤化工产业转型新风向 中国科技网 新华鲜报丨向高向智 煤博会展现煤化工产业转型新风向 新华网 从蓄势启航到聚链成势——西部氢能博览会发展回眸 Sohu 国家能源集团召开贯彻落实习近平总书记视察榆林化工重要讲话精神座谈会暨化工产业“十五五”高质量发展推进部署会 ceic.com 第二十届榆林国际煤博会开幕 华商网",
+      "section": "cn-news",
+      "rankScore": 0.486758
+    },
+    {
+      "id": "05f7d2811191c52a",
+      "title": "學者吳國光：習近平會連任第4任期 不期待中共21大有巨大變化",
+      "url": "https://www.cna.com.tw/news/acn/202609130203.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-13T15:34:11.000Z",
+      "excerpt": "（中央社記者陳鎧妤台北13日電）美國史丹佛大學中國經濟與制度研究中心高級研究員吳國光今天表示，中共總書記習近平會在明年中共21大連任第4個任期是沒有懸念，「不要盼望21大會出現一個巨大的變化」。",
+      "section": "cn-news",
+      "rankScore": 0.42615
+    },
+    {
+      "id": "d936e45aa2ee5013",
+      "title": "中国VR短片《鸽环》获威尼斯电影节沉浸大奖 - Nweon",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9tcW5WUzhueEtpUUs0Qks0YlQ2V2wySWluekZETkk0cFoxYWNQazZtRWpqVDNMczdONmI5OE11VkZKN2s?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-14T01:08:13.000Z",
+      "excerpt": "中国VR短片《鸽环》获威尼斯电影节沉浸大奖 Nweon 第83届威尼斯电影闭幕，一部中国VR短片获沉浸单元大奖 新浪财经 中国VR短片《鸽环》获威尼斯电影节沉浸单元大奖(2) 凤凰网 三百台相机、六头驴与三千只猫｜ANFFF威尼斯论坛探析科技改写影像制作 中华网 中国VR短片《鸽环》获威尼斯电影节沉浸单元大奖 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.415285
+    },
+    {
+      "id": "bc34543872643e64",
+      "title": "“红灯停表”让外卖骑手等得起红灯",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-14/10695920.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-14T01:26:52.000Z",
+      "excerpt": "“红灯停表”让外卖骑手等得起红灯(基层治理新实践)",
+      "section": "cn-life",
+      "rankScore": 0.836786
+    },
+    {
+      "id": "7d19170f702d8299",
+      "title": "群众的事再小也是大事",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YaWtFZ0kxdW42QmVCOTJuandhN1IwNjVMT2dibDB2NF9pbXVNYXhESVFRaEh5S0hIemp5Q3Y0N2kxYzdmeDNMMHh4WGxsNjFId2x3TmV5RFUwV0QtUkhQMmM3OXNiZw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-14T01:19:37.000Z",
+      "excerpt": "群众的事再小也是大事 hebcdi.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.625777
+    },
+    {
+      "id": "315af790b0c031ce",
+      "title": "中国地震台网中心正与苹果公司沟通 推进地震预警接入iOS",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qQXNtb2ZhV1RmUEt2NmU5M3lhbTVKcDRRSDFnV1kxalJVMU03aEVVOTNrejZnMWcxTktTRVQ4Q0UyNUxJaTlvcVBnTk9fV1dEMld5b0o5Sk5sbTNJN0Fycm9n?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-14T01:06:45.000Z",
+      "excerpt": "中国地震台网中心正与苹果公司沟通 推进地震预警接入iOS 观点网",
+      "section": "cn-life",
+      "rankScore": 0.62256
+    },
+    {
+      "id": "bb8210babe0ae100",
+      "title": "行政处罚信息公示表（2026年9月7日—2026年9月11日）_通知公告",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQRTl0WFBSOG4wU2pIemllSTNxRU9ESDdJRE5taGQ1TllUTUxfSG5NQ2x6MUh3YnhldnJlU1VfRF9KcGxHSHRIcUx4Wll1cGJ1aS1YdmtDTHNaWkN4UW5jN2FUV0h0QmtaUjZFLUN3?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-14T01:23:25.000Z",
+      "excerpt": "行政处罚信息公示表（2026年9月7日—2026年9月11日）_通知公告 盘锦市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.557091
+    },
+    {
+      "id": "06bcc834e37b04f7",
+      "title": "油箱可能开着开着就掉了！福特召回22万辆美国最畅销的皮卡F-150",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRFRuQXlmX1plOURieUYwRWV2SFpwcC1SS2Jvb0ZRcld0VDVjbnRPaFNfT2NqM094MlNObHh6eHFScXdTQVBfSEVIZFN4bGQtV09LV0lWZGtfTjE0RXN6emhtVXNXemdTNmtUOE5CeWIyMmRDaEMyX1VLSkZBamtVYUFR?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-14T01:33:04.000Z",
+      "excerpt": "油箱可能开着开着就掉了！福特召回22万辆美国最畅销的皮卡F-150 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.489331
+    },
+    {
+      "id": "c1d521a41350778c",
+      "title": "36岁男子体重210斤，夜夜打鼾 被妻子催促减肥",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzltejNKeGRlU0dwS2psR1BFWUlkbkdHQUJIQjBnTlJ2TVI4VTNhR0FCR2laQllacTh2eWhvNE1CLVNwR2ZlMjRZMzVSV2lwd0Y0N0g0RFFIekI5cXRFT2VWVFpLMFlnNDZRNDhVSE50RGdoajBHeVdHRy1sRVZaV1Jn?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-14T01:11:00.000Z",
+      "excerpt": "36岁男子体重210斤，夜夜打鼾 被妻子催促减肥 hznews.hangzhou.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.48504
+    },
+    {
+      "id": "4c5a7820071d2f20",
+      "title": "山东济南：跨越山海 两代人接力教育援藏",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CRnk3VGRTQ0FfLW4wend6Nk5nSkxXcTJaeTBab2ZMaDBfNXpaaUpOUWUyNWw3VEhfSmlzeUFqQVVfSTM3YXM5cmZYUHR1amtTQXRfaVRrYjY0SEdwTm40cjJ6QVQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-14T01:28:00.000Z",
+      "excerpt": "山东济南：跨越山海 两代人接力教育援藏 sd.chinanews.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.418582
+    },
+    {
+      "id": "ce1468769f8d728c",
+      "title": "考上北大第二天就说要复读！再战一年 男生成功被北大图灵班录取",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52Sk9FMms5eWhhOGJ1cWVjeFFEcmxmbDYyMG5uYzEwbng0UGZFRXpnNE5fcXRqQjVHRDFJLThIeWs0SU9CaGdkbEg3T3ZjZUtLdnhnNXc4MW4?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-13T09:07:00.000Z",
+      "excerpt": "考上北大第二天就说要复读！再战一年 男生成功被北大图灵班录取 驱动之家",
+      "section": "cn-life",
+      "rankScore": 0.212568
+    }
+  ],
+  "warnings": []
+}
