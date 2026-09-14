@@ -56,6 +56,76 @@
           "lastError": null
         }
       }
+    },
+    "daily": {
+      "sources": [
+        {
+          "date": "2026-09-14",
+          "slot": "morning"
+        },
+        {
+          "date": "2026-09-14",
+          "slot": "evening"
+        }
+      ],
+      "itemCount": 30,
+      "itemIds": [
+        "ed4eaf9d6a740ccd",
+        "99b3f459e60348b1",
+        "faf3ea3894dd8ef5",
+        "001f89fef05c5ea1",
+        "3598ae4e38c5e9b2",
+        "5b28e6fac959d198",
+        "41c3135da3bb86d7",
+        "2999d569b1df91d5",
+        "66553d8e967afeaa",
+        "d17d73d1c23d6ae4",
+        "05fd4969b707c8ba",
+        "3ad588bd6b9c71f8",
+        "1064a6570f81ebcd",
+        "c0bea310ba956eea",
+        "a80320d3b2f8b308",
+        "c4b2591403cba964",
+        "6fef8b74f591faa7",
+        "2f716ee2d06a255e",
+        "93ae9e28db407987",
+        "1b6141f6cc794767",
+        "9797903aa20acb1c",
+        "4fecf43608c86c8a",
+        "25958c4d882adb76",
+        "85ad56d341d2d8e7",
+        "cdab0e57a7f277fe",
+        "299010641834a244",
+        "660b5c161d45d0f7",
+        "d2fd6a03255708eb",
+        "1f2465e11f481656",
+        "44135f85e5eff40c"
+      ],
+      "contentHash": "9dde0352ec6ea969",
+      "targets": {
+        "notion-archive": {
+          "platform": "notion",
+          "status": "published",
+          "postId": "3db9696e-9c08-81a7-aa64-c8542101f6b7",
+          "url": "https://app.notion.com/p/2026-09-14-3db9696e9c0881a7aa64c8542101f6b7",
+          "contentHash": "9dde0352ec6ea969",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-09-14T18:47:35.097Z",
+          "lastError": null
+        },
+        "juejin": {
+          "platform": "juejin",
+          "status": "draft",
+          "postId": "7685283059570327562",
+          "url": "https://juejin.cn/editor/drafts/7685283059570327562",
+          "contentHash": "9dde0352ec6ea969",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-09-14T18:47:35.097Z",
+          "lastError": null
+        }
+      }
     }
   }
 }
