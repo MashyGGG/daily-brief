@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-15",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-15T01:52:58.575Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "32cffeaa77c293ee",
+      "title": "喜馬拉雅山冰川融化加速，印度經濟面臨什麼風險？",
+      "url": "https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-15T00:17:23.000Z",
+      "excerpt": "最新研究警告，喜馬拉雅山冰川正在加速融化，威脅印度的水資源、經濟及社區。",
+      "section": "news",
+      "rankScore": 0.808136
+    },
+    {
+      "id": "58b2c1913d0b1a05",
+      "title": "中国国安部长：人工智能可能对中共执政构成直接威胁",
+      "url": "https://cn.nytimes.com/china/20260915/china-ai-security-risks-anthropic/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-15T00:43:27.000Z",
+      "author": "郭莉莉",
+      "excerpt": "陈一新呼吁中共加强对人工智能的控制，并实施更严格的政府监管。他表示，这是为了维护国内政治稳定、抵御“敌对势力”的攻击，以及在军事上与美国等国竞争。 Kenny Holston/The New York Times 北京的人民大会堂。中国情报部门负责人呼吁加强党对人工智能的管控，并加强对该行业的政府监管。",
+      "section": "news",
+      "rankScore": 0.748756
+    },
+    {
+      "id": "1b0428df42bc64f4",
+      "title": "金砖国家峰会见证了中印关系在谨慎地回暖",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260915-%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%B3%B0%E4%BC%9A%E8%A7%81%E8%AF%81%E4%BA%86%E4%B8%AD%E5%8D%B0%E5%85%B3%E7%B3%BB%E5%9C%A8%E8%B0%A8%E6%85%8E%E5%9C%B0%E5%9B%9E%E6%9A%96",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-15T00:29:04.000Z",
+      "author": "阿曼亭",
+      "excerpt": "法国世界报指出，上周末在新德里举行的金砖国家峰会见证了中印关系进一步谨慎地回暖，但是，两国关系中的深层矛盾仍然存在。",
+      "section": "news",
+      "rankScore": 0.676692
+    },
+    {
+      "id": "03431b960093ea09",
+      "title": "Australian politics live: Steggall condemns Sweeney gambling ad as ‘disgusting’; Labor has ‘no plans’ for further fuel excise cut",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/15/one-nation-pauline-hanson-immigration-coalition-andrew-hastie-angus-taylor-labor-anthony-albanese-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-15T01:48:41.000Z",
+      "author": "Krishani Dhanji",
+      "excerpt": "Follow the day’s news live The South Australian premier, Peter Malinauskas , says there is optimism that steel making will continue in his state, after the closure of a major blast furnace at Whyalla was announced yesterday.",
+      "section": "news",
+      "rankScore": 0.559046
+    },
+    {
+      "id": "6db839019ff4c0e3",
+      "title": "Russia resupplies military bases in Syria for first time under new deal",
+      "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-15T00:43:47.000Z",
+      "excerpt": "Moscow maintains military foothold in the Mediterranean following talks with Damascus",
+      "section": "news",
+      "rankScore": 0.544624
+    },
+    {
+      "id": "eab7521bf099f130",
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-14T16:48:10.000Z",
+      "excerpt": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+      "section": "news",
+      "rankScore": 0.493798
+    },
+    {
+      "id": "de6834c9bfe5008f",
+      "title": "What Do the Houthis Want?",
+      "url": "https://www.nytimes.com/2026/09/14/world/houthis-saudi-iran-jeff-koons.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-14T20:39:37.000Z",
+      "author": "Katrin Bennhold",
+      "excerpt": "The Iranian-backed militia has made strategic gains, becoming an unlikely power player in the Middle East.",
+      "section": "news",
+      "rankScore": 0.490365
+    },
+    {
+      "id": "61637c75f060908d",
+      "title": "Emmys Red Carpet Photos: Meg Stalter, Mariska Hargitay, Noah Wyle and More",
+      "url": "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-photos.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-15T01:31:47.000Z",
+      "author": "The Styles Desk",
+      "excerpt": "Stars are arriving at the 78th Emmy Awards in Los Angeles. See what they’re wearing to celebrate TV’s biggest night.",
+      "section": "news",
+      "rankScore": 0.485879
+    },
+    {
+      "id": "896d6f8736443682",
+      "title": "India rethinks newly implemented stock market pricing mechanism",
+      "url": "https://www.ft.com/content/20605850-6fe4-43ce-bc8a-fd6e95231350?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-15T01:30:06.000Z",
+      "excerpt": "Also in this newsletter, PwC consolidates its Indian operations",
+      "section": "news",
+      "rankScore": 0.485552
+    },
+    {
+      "id": "25f03e8acc94246c",
+      "title": "See who's won an Emmy Award so far",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners",
+      "source": "npr-news",
+      "publishedAt": "2026-09-14T23:55:49.000Z",
+      "author": "Beth Novey",
+      "excerpt": "Law & Order: SVU star Mariska Hargitay is hosting the Emmy Awards on Monday night. We'll be updating this list as winners are announced.",
+      "section": "news",
+      "rankScore": 0.467219
+    },
+    {
+      "id": "04c9a78a3bdc726f",
+      "title": "原子能机构：伊朗核监督形势恶化，必须重返外交谈判渠道",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142785",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "excerpt": "国际原子能机构总干事格罗西周一在国际原子能机构大会第70届常会上表示，国际原子能机构对伊朗核计划的监督形势在2026年恶化，伊朗核材料和核设施的监督问题引发严重核扩散担忧，亟需以最高优先级解决。",
+      "section": "news",
+      "rankScore": 0.421756
+    },
+    {
+      "id": "f7bd6bf566a7591f",
+      "title": "日本首相高市早苗将于17日改组内阁",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BU3hOdjFXTE0zejlGQlhua3AxbU4wakd3SVRZUXk4dkV2TWVFaFRMTFUzWlBjWHVSZjdpNzNkSGh0TnFrTWMwN1k2ci1jSW5RWlo5X3oyS042aWFyOFpsbQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-15T01:20:32.000Z",
+      "excerpt": "日本首相高市早苗将于17日改组内阁 四川在线",
+      "section": "news",
+      "rankScore": 0.414593
+    },
+    {
+      "id": "fe1a0792489ca4fa",
+      "title": "部分航司优化机上WiFi服务 网速咋样？收费吗？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696564.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-15T01:45:58.000Z",
+      "excerpt": "国内部分航司优化空中无线网络服务",
+      "section": "cn-news",
+      "rankScore": 0.837663
+    },
+    {
+      "id": "99c7d559d45ab081",
+      "title": "中法环境月启幕 歌手姚琛担任推广大使",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696533.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-15T01:30:47.000Z",
+      "excerpt": "中新网北京9月15日电 (记者 肖玉笛 实习生 何欣怿 余昭滢)“这不是法国的环境月，而是中法环境月。”法国驻华大使馆文化、教育与科学事务公使衔参赞艾文鸿14日在北京说。",
+      "section": "cn-news",
+      "rankScore": 0.763219
+    },
+    {
+      "id": "4dfde6cbeb95d35a",
+      "title": "A股开盘：超2900只个股飘绿，三大指数集体低开",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696567.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-15T01:48:12.000Z",
+      "excerpt": "A股开盘：超2900只个股飘绿，三大指数集体低开；通信设备、生物科技、农业、贵金属板块下跌，互联网、摩托车、煤炭上涨",
+      "section": "cn-news",
+      "rankScore": 0.628806
+    },
+    {
+      "id": "f8810171277fa577",
+      "title": "新疆中泰(集团)原党委副书记齐国庆接受审查调查",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PVnk0Rjh3MncyVE5OTUhkd29reThLQ0tLYmhUMzl0T2VBSTRrcHlYLW51YUYyZGNlTjhuc2I3dkpHc0RFUzVJWWdDT21xZmIxVXQzZWpOQXQ?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-15T01:40:46.000Z",
+      "excerpt": "新疆中泰(集团)原党委副书记齐国庆接受审查调查 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.626948
+    },
+    {
+      "id": "f481a22ea0b51ce7",
+      "title": "济南民企润华集团业绩曝光：前七个月净赚1.7亿，净资产超96亿",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvNkN6cVZWcGlkWGZkUER2SjRQUHlWbEdiZlh6TGRqNmpaM09TZkNjRGZVUlg5VGRXWU5ia3Q1Ry1xM2RMa3RESW5FcDJnREVqOWM2dGFSNXY4Z1hOWnc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-15T00:55:00.000Z",
+      "excerpt": "济南民企润华集团业绩曝光：前七个月净赚1.7亿，净资产超96亿",
+      "section": "cn-news",
+      "rankScore": 0.615506
+    },
+    {
+      "id": "10929656cf5203dd",
+      "title": "弘扬伟大长征精神 凝聚强国强军力量",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xWExnLXFyQ0hFNVc4bzY5amQyZWpPOWpSVGFDZk03UVFfU0VINFBFSmRzeENuZDN2UlY3TTdQd3ViRmtGeUoyT2NyU0FYQzVPdy1vek9WYVo?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-15T01:35:43.000Z",
+      "excerpt": "弘扬伟大长征精神 凝聚强国强军力量 国防部网 “记者再走长征路”主题采访走进赣州：探寻长征足迹，记录时代变迁 jx.ifeng.com 红色热土绘就乡村振兴新图景 新浪财经 一本为劳苦大众做主的“书” court.gov.cn 赓续长征精神 奋进复兴征程丨风展红旗物华新——福建长征出发地的故事与新章 新华网",
+      "section": "cn-news",
+      "rankScore": 0.556165
+    },
+    {
+      "id": "b7d6ea4be131e807",
+      "title": "一汽与广汽合作，或影响日本车企在华战略",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04Q2RSRUtUY2x0RFZaSXliLXRudE5TU0ZHUU9jay1UR0V2OFBORHRvcTV1MlJ3SHA5NmpnNW52VmxJNDlJS3JfMHdBWkVrRG1vVWhlbUJ4ZzM4dExURFlsQTI4SGhEZDJHbzRGR3pBRjNPQ19DWXc?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-15T01:30:49.000Z",
+      "excerpt": "一汽与广汽合作，或影响日本车企在华战略 日经中文网 广汽官宣：已与一汽签署意向协议！一汽有望成第二大股东 新浪财经 起底一汽广汽重组：不止用200亿合并南北丰田 凤凰网财经 广汽紧急停牌，重组传闻再起 华尔街见闻 汽车早报｜广汽集团筹划重大资产重组 特斯拉Cybercab将在北京、上海亮相 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.485691
+    },
+    {
+      "id": "887556a4d6e37e44",
+      "title": "Japanese delegations flock to China, but thaw hinges on Takaichi mending ties",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3367497/japanese-delegations-flock-china-thaw-hinges-takaichi-mending-ties?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-15T01:00:05.000Z",
+      "author": "Alyssa Chen",
+      "excerpt": "With bilateral ties in a deep freeze since late last year, a flurry of planned China visits by Japanese lawmakers and business leaders has been interpreted as an attempt to break the ice ahead of November’s Apec summit in China.",
+      "section": "cn-news",
+      "rankScore": 0.479715
+    },
+    {
+      "id": "f5b7cc16ec996b37",
+      "title": "电视剧《云雀叫天录》开播 演绎戏曲名家传奇人生",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWW9UbXBPcHNadmhTLUxvUXRXN3hLR203Z1NJOWRXNVFWUGdqbmJtdEg0U0diZW1xYzMxLXh0UTd5VGRXNGxsTDZVX0JzZEZsTllRYk5VS3ljUVRVcGVkS1l1RVlRa3YyYzkzMDBSTDJ4VGlSWnpKOUVUQTVIY3M1NGx1Yw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-15T01:26:46.000Z",
+      "excerpt": "电视剧《云雀叫天录》开播 演绎戏曲名家传奇人生 新华网",
+      "section": "cn-news",
+      "rankScore": 0.415632
+    },
+    {
+      "id": "0b65a08fbf85a931",
+      "title": "壽山村道豪宅菲傭擸財失聯 戶主失逾20萬元手錶現金",
+      "url": "https://hk.news.yahoo.com/%E5%A3%BD%E5%B1%B1%E6%9D%91%E9%81%93%E8%B1%AA%E5%AE%85%E8%8F%B2%E5%82%AD%E6%93%B8%E8%B2%A1%E5%A4%B1%E8%81%AF-%E6%88%B6%E4%B8%BB%E5%A4%B1%E9%80%BE20%E8%90%AC%E5%85%83%E6%89%8B%E9%8C%B6%E7%8F%BE%E9%87%91-013556122.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-09-14T17:35:56.000Z",
+      "excerpt": "港島南區發生盜竊案。昨午(14日)4時30分，壽山村道7號一單位，一名姓陳(47歲)男戶主報案，指其(42歲)菲律賓籍女傭失聯，單位內有財物不翼而飛，懷疑遭女傭盜去。",
+      "section": "cn-news",
+      "rankScore": 0.393353
+    },
+    {
+      "id": "4af9766c725b8f27",
+      "title": "脑机接口最新研究进展：脑植入装置实现言语和手势同步表达",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10696563.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-15T01:50:42.000Z",
+      "excerpt": "中新网北京9月15日电 (记者 孙自法)施普林格·自然旗下专业学术期刊《自然-神经科学》最新发表一篇脑机接口研究论文称，研究人员研发出单个脑植入装置，可同时解码瘫痪患者的言语和手势，这一研发成果推动了脑机接口的进步，有望帮助瘫痪患者以更自然的方式进行交流。",
+      "section": "cn-life",
+      "rankScore": 0.839241
+    },
+    {
+      "id": "3b65d21ab8d3a0e1",
+      "title": "直击海南五指山遭遇极端暴雨 洪水退去路面淤泥遍布",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vQS1vUDVodzN5eUpDeGYzZHVJNXZZd2hDQXZMYW5KVGhwaW5UTHFxOGtYSVBYNHQ4TTNfZEJtQUxzUWdXbXdoZnRhZ3Z2Y0RTSTF1VzZVckJLYmpXWG1iUF9lbEJ0S1A2dDZnMENKMA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-15T01:44:42.000Z",
+      "excerpt": "直击海南五指山遭遇极端暴雨 洪水退去路面淤泥遍布 chinanews.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.627931
+    },
+    {
+      "id": "6304c2f5c6bf94d1",
+      "title": "国家医保局修订印发2026版医保服务协议范本",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QY2JEemFXbU5aVXEwbnZfb1E0YXlpOGpaaTBHUXFvek9aejdLUFU3OW9ESXN0N1ctLXQ3c3JHblJiVXVOVXVDMHRfYjJzU2pfaGhaMzE0dlZ5YXpxeG1qZ2RnSlo0bDFaRGhZTXpGSHNJbE9KQk1pRg?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-15T01:41:15.000Z",
+      "excerpt": "国家医保局修订印发2026版医保服务协议范本 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.627068
+    },
+    {
+      "id": "35914f9d823b1a87",
+      "title": "激活科技和人才的源头活水——全国教育大会以来教育改革新成效系列述评之二",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwTkFCd1JCVDNrdU1Xc2YxdWd6MUI5RXZLZTRBYUZuNTZEU0xEdnljbjV1dlJZMmgwYjd1a1VFWTRxTW5xN3hFODRtVWhrSkFmcDlFeW03VGJJRVRid1VIeTN6bFNxS0c1M1B0Y0ZHWjRpNnJO?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-15T01:29:30.000Z",
+      "excerpt": "激活科技和人才的源头活水——全国教育大会以来教育改革新成效系列述评之二 moe.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.554783
+    },
+    {
+      "id": "25491396041a3acd",
+      "title": "美国麻疹疫情升至30多年最高，卫生部长应对引发质疑",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVR6Z0wxTVRZUGM1TGVsbXo1TG81Y3l1SXoyZzFWckJiZ003U0VNNjdhMjdSZHl2djVhLXRPb1lacGU4TEpjT3NrSjk3ekQzXzFBVWZYMmppR2J0ZnVKeXhCbmE3N3pZNjhKWHU4NEtDc2kyb3ZqRHptOFF3cXplTk1nLUVzNW9pUnc?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-15T01:11:43.000Z",
+      "excerpt": "美国麻疹疫情升至30多年最高，卫生部长应对引发质疑 jpchinapress.com 美国再现麻疹死亡病例 Sohu 美国CDC 改变麻疹死亡统计方式 UA.NEWS 宾夕法尼亚麻疹暴发再夺一命，病例升至676例 Межа. Новини України. 美國賓州一40歲女子死於麻疹併發症 大纪元",
+      "section": "cn-life",
+      "rankScore": 0.481977
+    },
+    {
+      "id": "29ffb0b162f4f8a8",
+      "title": "福特因燃油箱问题在美召回22万辆，美国市场合规壁垒再收紧",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RcEtfdHd3UnYtRWF3OGY1amR1dmRvdnpqNlgwdl9nT2RXUmtHSUdqNnZMc2o2a2s0OXBSRUR6ZmhKcjhMUXdUbzY4dEVpb212c2RLUk5zRGxmWEta?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-15T00:54:11.000Z",
+      "excerpt": "福特因燃油箱问题在美召回22万辆，美国市场合规壁垒再收紧 网通社",
+      "section": "cn-life",
+      "rankScore": 0.478568
+    },
+    {
+      "id": "c799cdd10ad46809",
+      "title": "南昌42名特教高考生圆梦大学后，收到了北京的来信",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XQXZQd3BzWlhtVFhuajR4TGh2dDVUeF9Wd0Q3M2NCZGtiREJScmpJSFAyTVl5R1c4OXpDOUM1VlRqVFRsOGVmVFFPb01FNWFCSG5qX2ZwVkRUS1lhOURB?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-15T01:44:24.000Z",
+      "excerpt": "南昌42名特教高考生圆梦大学后，收到了北京的来信 九江新闻网",
+      "section": "cn-life",
+      "rankScore": 0.418571
+    },
+    {
+      "id": "e43dde8ff02711dd",
+      "title": "“AI降速论”，没有回答一个根本性问题",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lNkhGRTFBa1JkOEZDVTRQaXpoNnZRdjhHQkxIVVlmUFMzeG5rTnI4YWlkOVJENHhjaTNSSk13alpNVzNtY0p0ZXRXa1VkWDdGSUNEUVVscFk2Q3Y0MWlmbzBXNXd0SzM2UUE?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-14T23:47:00.000Z",
+      "excerpt": "“AI降速论”，没有回答一个根本性问题 观察者网",
+      "section": "cn-life",
+      "rankScore": 0.332503
+    }
+  ],
+  "warnings": []
+}
