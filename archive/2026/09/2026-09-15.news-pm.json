@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-15",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-15T15:32:22.990Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "e828cd192f998c3c",
+      "title": "《匹茲堡醫魂》拿走了六個艾美獎，它的忠粉都是真醫生",
+      "url": "https://www.bbc.com/zhongwen/articles/cmvgyn5gywz1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-15T15:23:06.000Z",
+      "excerpt": "醫療專業人士表示，這部講述美國醫院急症室的 HBO Max 劇集，是迄今最真實的一部醫療劇。",
+      "section": "news",
+      "rankScore": 0.833811
+    },
+    {
+      "id": "4e38ea388d90661c",
+      "title": "华盛顿称在太空部署了武器 中国敦促美国“停止太空备战”",
+      "url": "http://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260915-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%A7%B0%E5%9C%A8%E5%A4%AA%E7%A9%BA%E9%83%A8%E7%BD%B2%E4%BA%86%E6%AD%A6%E5%99%A8-%E4%B8%AD%E5%9B%BD%E6%95%A6%E4%BF%83%E7%BE%8E%E5%9B%BD-%E5%81%9C%E6%AD%A2%E5%A4%AA%E7%A9%BA%E5%A4%87%E6%88%98",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-15T15:22:50.000Z",
+      "author": "古莉",
+      "excerpt": "法新社报道，美国太空军首次承认在太空部署了武器，但未透露具体细节。 美国太空军一名发言人在一份声明中表示：“美国在轨道上部署了武装太空监控系统，能够保护联合部队免受对手敌对行动的威胁”。",
+      "section": "news",
+      "rankScore": 0.694695
+    },
+    {
+      "id": "e7c692aa64b19695",
+      "title": "British woman abducted in Malawi, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-15T15:03:27.000Z",
+      "excerpt": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.",
+      "section": "news",
+      "rankScore": 0.615533
+    },
+    {
+      "id": "355156d01793045a",
+      "title": "Trump blasts decision that blocks mail-in voting executive orders: ‘This court has really let our country down’ – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/15/supreme-court-mail-ballot-restrictions-midterm-elections-trump-ai-politics-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-15T15:18:36.000Z",
+      "author": "Shrai Popat (now) and Tom Ambrose (earlier)",
+      "excerpt": "The president called mail-in voting – which he has used on several occasions to cast a ballot – ‘a laughing stock’ across the world Supreme court rejects Trump’s mail ballot restrictions for midterm elections Sign up for US Breaking News emails Kash Patel , the FBI director, is now testifying…",
+      "section": "news",
+      "rankScore": 0.553874
+    },
+    {
+      "id": "4f9c9faf299908f5",
+      "title": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+      "url": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-15T15:11:16.000Z",
+      "author": "Ian Austen",
+      "excerpt": "Prime Minister Mark Carney brought together about 100 money managers in Toronto to promote Canada as an ideal place to invest.",
+      "section": "news",
+      "rankScore": 0.550615
+    },
+    {
+      "id": "288d0d62283721de",
+      "title": "Russia warns Denmark after near miss in Baltic Sea",
+      "url": "https://www.aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-15T14:51:22.000Z",
+      "excerpt": "Russian frigate narrowly misses Danish helicopter with flares.",
+      "section": "news",
+      "rankScore": 0.54177
+    },
+    {
+      "id": "e4d78728ccc988a5",
+      "title": "【子午播报】2026年9月15日",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142790",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "excerpt": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，一场直播，一杯咖啡，开启南南合作的新旅程。",
+      "section": "news",
+      "rankScore": 0.523808
+    },
+    {
+      "id": "ccd3eb0e4c040c2d",
+      "title": "US manufacturers hit by fresh burst of supply chain cost inflation",
+      "url": "https://www.ft.com/content/e14542d9-2bc5-49c8-8e7e-c9656b0a2d36?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-15T15:26:00.000Z",
+      "excerpt": "Donald Trump’s war in Iran and tariffs push up input prices while AI boom squeezes availability of some components",
+      "section": "news",
+      "rankScore": 0.487518
+    },
+    {
+      "id": "6886b22030b18862",
+      "title": "Trump Has Untethered Himself From Reality",
+      "url": "https://www.nytimes.com/2026/09/15/opinion/trump-september-11-fantasy-reality.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-15T15:25:55.000Z",
+      "author": "Thomas B. Edsall",
+      "excerpt": "The president’s distortions have an impact on much more than belief in his claims about what he was doing on Sept. 11.",
+      "section": "news",
+      "rankScore": 0.487485
+    },
+    {
+      "id": "db3078478cd8a44e",
+      "title": "Geopolitics and grain don't mix, say these Montana farmers",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
+      "source": "npr-news",
+      "publishedAt": "2026-09-15T12:33:19.000Z",
+      "author": "Kirk Siegler",
+      "excerpt": "Farmers in states bordering Canada say they are reeling from President Trump's trade wars and resulting retaliatory tariffs. And it's just not neighborly.",
+      "section": "news",
+      "rankScore": 0.420363
+    },
+    {
+      "id": "42430dd11b1c86d2",
+      "title": "详讯：日政府敲定消费税减税大纲 食品饮料税率降至1%",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yYktibVp3Q0sxQVlzZENqSXFTN0xjYUQ5QldGeFQyUEdvZzM2Q29sQlJ3VnpCLUIzalFQZnhuWXhxZ3Z5UWxnNTFhVk9JTXBjOW1ma1VSQQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-15T14:20:20.000Z",
+      "excerpt": "详讯：日政府敲定消费税减税大纲 食品饮料税率降至1% 共同网 日本财务大臣：将在管控新政府债券发行的同时，兼顾市场公信力。 新浪财经 日政府傍晚敲定消费税减税大纲 食品饮料税率将降至1% 共同网 日本食品消費稅率 將降至1%、為期2年 ntdtv.com 日本政府就食品消费税限期减税敲定大纲| NHK WORLD-JAPAN News nhk.or.jp",
+      "section": "news",
+      "rankScore": 0.395983
+    },
+    {
+      "id": "18e271ad28ee53cd",
+      "title": "Ukraine: Attacks on education threaten an entire generation, UNICEF warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168336",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "excerpt": "In an underground classroom in Sumy, Ukraine, children sit quietly at their desks, busy with the day’s lessons. For the moment they are shielded from the horrors of nearly five years of war, but just barely.",
+      "section": "news",
+      "rankScore": 0.349206
+    },
+    {
+      "id": "9f38103b45dff924",
+      "title": "鸠山由纪夫：对日本防卫费急剧增加感到担忧",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10697091.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-15T13:20:08.000Z",
+      "excerpt": "中新社北京9月15日电 (刘梦青 李纯)第十三届北京香山论坛15日至17日在北京举行。日本前首相、日本东亚共同体研究所理事长鸠山由纪夫15日在参会期间接受采访时表示，对日本防卫费急剧增加感到担忧。",
+      "section": "cn-news",
+      "rankScore": 0.751833
+    },
+    {
+      "id": "5609c5f7efdcac35",
+      "title": "王毅会见东盟秘书长",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-15/10697130.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-15T14:49:42.000Z",
+      "excerpt": "中共中央政治局委员、外交部长王毅15日在北京会见东盟秘书长高金洪。",
+      "section": "cn-news",
+      "rankScore": 0.743916
+    },
+    {
+      "id": "514726ab2c5829f2",
+      "title": "美巨头喊AI“降速”，安全之外还在盘算什么",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697131.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-15T15:01:39.000Z",
+      "excerpt": "美国AI巨头，忽然不约而同地谈起“降速”。",
+      "section": "cn-news",
+      "rankScore": 0.614633
+    },
+    {
+      "id": "94e9af06e9c7f8e8",
+      "title": "广东茂名一中学通报“多名教师上班十余天离职拿不到工资”",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mSmtQSnRoa2d0TkJBN2wzbkc5ZlJ2c1RhZ0g0bmhLalpmaGNrelNTTUVjTDRWS0pOc3h3R2h5bVlRY3VuXzlXZTFnQ2hNWTVsc2xjUWo5ZF8?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-15T13:54:19.000Z",
+      "excerpt": "广东茂名一中学通报“多名教师上班十余天离职拿不到工资” Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.580967
+    },
+    {
+      "id": "305909b6f8e92f7b",
+      "title": "北京香山论坛丨美专家：AI对话应成为中美推进建设战略稳定的“好例子”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiR1NtbXcxZEJMVEZRTTdKNEJrM3pPSW82ZDRJLVJtYTVha3hLNVFaYTcxdlJKTjJBSG9yLWsxd2JVeGN0czNwaGZzeERuQk51dUZDNFE2bmNyTFVub0hyYw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-15T13:48:00.000Z",
+      "excerpt": "北京香山论坛丨美专家：AI对话应成为中美推进建设战略稳定的“好例子”",
+      "section": "cn-news",
+      "rankScore": 0.577808
+    },
+    {
+      "id": "f39652d8429a9919",
+      "title": "韩正出席第十三届北京香山论坛欢迎晚宴并致辞",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZS0zV1ptZm5wbUlTaGplYkhpRDF5NXVZcnNQRTdHSUFQdC1oY0JPYVpiV0V3Sm80Rkd3d0hqWGU4QlVQVGoxNUt4eEpjZTVNM0RQendRMVI3U0R3WXltRkNFRXFua0dNTlpwc2VpZ21VSU5NU3U3Zy11WXJyUGFrZWFhNA?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-15T15:11:34.000Z",
+      "excerpt": "韩正出席第十三届北京香山论坛欢迎晚宴并致辞 新华网 专题·第十三届北京香山论坛 QQ News 香山论坛｜北约退役少将：目前人工智能尚未在战争中得到全面检验 thepaper.cn 五角大楼证实中国事务主管将率团出席北京香山论坛 美国之音 董军同出席北京香山论坛客人举行会谈|穆卡姆别托夫|高金洪|阿塞拜疆|白俄罗斯|中国军队 新浪财经",
+      "section": "cn-news",
+      "rankScore": 0.550748
+    },
+    {
+      "id": "f61c80d9e9eaa541",
+      "title": "中國官方反內捲 點名美團、抖音、京東、攜程",
+      "url": "https://www.cna.com.tw/news/acn/202609150337.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-15T13:07:33.000Z",
+      "excerpt": "（中央社記者馮昭上海15日電）中國官媒今天報導，市場監管和文旅部門開會要求訂房平台「自覺防範化解」獨家合作、全網最低價等「內捲」（過度競爭）問題。美團、抖音、京東、攜程、同程、飛豬等知名平台都被點名。",
+      "section": "cn-news",
+      "rankScore": 0.49563
+    },
+    {
+      "id": "c252f5cd97722781",
+      "title": "凯撒旅业：全资孙公司疑遭2695万元合同诈骗 已获公安机关立案侦查",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ub1R5bkpzQnZBbE5mTXE0a0M5OWdISWRzWVFqMGVwZXJHUlFaTl9UV0ExaHFoLXFsTkR5UDZBQ19zMmxnTm5FX0tCWVVVZXJqSnBNRy12QnRJRlMydVJpSklmanFLQnNRVm9TYnY0OA?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-15T14:15:53.000Z",
+      "excerpt": "凯撒旅业：全资孙公司疑遭2695万元合同诈骗 已获公安机关立案侦查 finance.cnr.cn 凯撒旅业(000796.SZ)：全资孙公司凯撒文产被合同诈骗，公安机关已立案侦查 新浪财经 知名旅游公司报案！孙公司遭合同诈骗近2700万元 同花顺 签了2695万演艺合同，对方失联了！凯撒旅业孙公司疑遭诈骗 Jiemian.com 公告精选｜凯撒旅业称孙公司遭合同诈骗2695万元 启明信息回应一汽广汽合作 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.46025
+    },
+    {
+      "id": "f8055f02bc65ffc6",
+      "title": "How Okinawa’s political shift could make Japan more prepared for a Taiwan contingency",
+      "url": "https://www.scmp.com/news/china/military/article/3367624/how-okinawas-political-shift-could-make-japan-more-prepared-taiwan-contingency?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-15T14:00:20.000Z",
+      "author": "Gabriel Dominguez",
+      "excerpt": "Okinawa’s election on Sunday of a governor backed by Japan’s ruling party ended 12 years of local leadership opposed to the relocation of a US airbase and elements of Tokyo’s defence build-up plans.",
+      "section": "cn-news",
+      "rankScore": 0.454203
+    },
+    {
+      "id": "7305890e64745e2b",
+      "title": "中国乒协公布2026年亚洲亚锦赛国乒参赛运动员名单",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tcGxIRmNLV3J4VjBlei1pVUZEaWMtT3dTNDFHNDJJVXQ1a1RBSkJWVE95b0hIS25ObmFya21DVFNWTDBZTlpQTG5qa3I0SXJFeTUxYWJFZlFZTHk4TGFKbXFWcS10OFdMT29GU2VLRUZsLTJFczNv?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-15T13:44:00.000Z",
+      "excerpt": "中国乒协公布2026年亚洲亚锦赛国乒参赛运动员名单 珠海网 林诗栋、蒯曼领衔国乒亚锦赛参赛名单 新华网 中国乒乓球队亚锦赛名单出炉 新浪财经 中国乒乓球队2026年亚锦赛参赛运动员名单公布 新京报 国家乒乓球队亚锦赛名单出炉：林诗栋、温瑞博、周启豪、蒯曼、王艺迪、陈熠等入选，其中林诗栋、蒯曼、陈熠都身兼四项比赛 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.383872
+    },
+    {
+      "id": "7880d869f8915fa8",
+      "title": "西藏类乌齐县师生跨越千里，观礼天安门升旗",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-15/10697124.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-15T14:32:09.000Z",
+      "excerpt": "中新网北京9月15日电 (陶思阅)9月15日清晨，天安门广场。国旗护卫队铿锵步伐由远及近，广场上渐渐安静下来。人群中，一群来自西藏昌都类乌齐县的孩子仰起头，手里攥着小国旗。这是他们第一次在天安门广场看升旗。",
+      "section": "cn-life",
+      "rankScore": 0.799845
+    },
+    {
+      "id": "3b9d70771c275759",
+      "title": "京蒙就业“双选会”架起“双向奔赴”暖心桥",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVF9MempiVHF4Rk9OSWFwVWNHQjBrUzJkaHdhNnpsRmEtd1hHUTlxT2VMTW1ZczlJQ3kxcEc0bkN1b0NjS0hVQmZ5ZXltOXR2Yi1rclpVeW1hWGxpOUdHaDA3N1QzeTVxWWlOU093OEZ3M0RzOGRxcEZTMld4Q3VkdU5BTGx4TUN3SGhJUmxWbDRUZVZZdUl2UA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-15T15:28:42.000Z",
+      "excerpt": "京蒙就业“双选会”架起“双向奔赴”暖心桥 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.628158
+    },
+    {
+      "id": "5fdf3e2a00790ff0",
+      "title": "应急管理部：加强造修船、建筑施工、化工等行业外包业务安全监管",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52bUtYNkM2MkgxQnQzQVVyWFp4VE0ydmJsX1lGQ21vc0FXRm1kYUlmZVdBOE9uWlVzWERKT292Y0dqMGRiRFM5bkREUFBSeG93QjdKZkFLcnFxb1hDZjRoRjJlMTRzeWlwQjFXeV9TTGN2MFdkMzQ4ZQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-15T14:09:21.000Z",
+      "excerpt": "应急管理部：加强造修船、建筑施工、化工等行业外包业务安全监管 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.588483
+    },
+    {
+      "id": "d14270f39c10f95b",
+      "title": "红肉桃为啥“好看不好吃”？科学家破解其中奥秘",
+      "url": "https://www.chinanews.com.cn/life/2026/09-15/10696955.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-15T09:19:15.000Z",
+      "excerpt": "你吃过果肉是红色的桃子吗？这种红肉桃老百姓习惯叫它“血桃”，切开后果肉和汁水都红得像血。传统品种有中华血桃，也叫朱砂红桃。虽然红肉桃在桃子大家族中属于小众品种，但近年来，红肉桃品种不断发展，还衍生出油血桃、蟠血桃等新类型。",
+      "section": "cn-life",
+      "rankScore": 0.492704
+    },
+    {
+      "id": "1c5e78f6469c3a62",
+      "title": "强降雨过后，这些餐饮食品安全风险要注意",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGdOdEZVOGlKQWd3dExXWGc0RXJ4RzJKeWZpZ29ZMU9rZmpzdzJXLU10R1pkLWNadUl2OV9VQmdYUUZIOE1vN1lzV1RyUVBLajIwZmJvY0hYcm5GWVdWRVNMc0xkcWcyLVZaUXZGdTVZZ1ZEMnJBd3RiS2NYbERabW1kdDA2SWJsT2pHTDctOVpIOERNcXFHVA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-15T14:38:26.000Z",
+      "excerpt": "强降雨过后，这些餐饮食品安全风险要注意 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.46902
+    },
+    {
+      "id": "a6b832342b2bac5a",
+      "title": "喜报｜百诚医药助力浙江恒研医药“奥卡西平片”获批，为癫痫治疗提供更多用药选择！ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQk9aZmlSb211eGp5VEZwQTQzWk01bFFHSUF6czEycThLY0pQdGVBMjdIaHl2cV9MR3hkN0NSaERvVXJaVnVXWGUxaGdwTS10YlZ4cllqN05MX3NVZE1RVkFnZm1LXzZ0YkRMeGNaeW9ZclVlU3JpNEJUYWJBd0psMEE2NEhSRmxNRWF4Qg?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-15T14:26:33.000Z",
+      "excerpt": "喜报｜百诚医药助力浙江恒研医药“奥卡西平片”获批，为癫痫治疗提供更多用药选择！ Sohu",
+      "section": "cn-life",
+      "rankScore": 0.464398
+    },
+    {
+      "id": "38432a39461168c7",
+      "title": "郑栅洁主任主持召开民营企业座谈会 围绕优化发展环境、拓展投资空间听取意见建议",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1abnhpSmNpa245VnlpRFZCTVBVVW80Q1JrWjlDTU1Fd0txcWRwQ3FBaWZwQ25CNXFWNC1hTVBQNDZYSEk3Z0R5M0dRMkV5eU9mZnBLRmRzeXF0TGluWWtjVW80dHpCTzBmdy1EMVlKTVU?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-15T11:24:17.000Z",
+      "excerpt": "郑栅洁主任主持召开民营企业座谈会 围绕优化发展环境、拓展投资空间听取意见建议 ndrc.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.449733
+    },
+    {
+      "id": "cbe401ea90e56729",
+      "title": "汇聚智库力量，守护少年心灵，江苏省中小学生心理健康工作咨询委员会成立",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUhMUDN6MlZBUDFVQi1haTFCaFFPZVp2bTdVaGJGRmVSZktzejBJM1VSTEpTRE1HaFlJMFJOLXdmN0U4b1lDVmRxbnZPTWxPVzl0V2NqQW9HVkJ3YlptZWFkcjlkQWprTjNiRWk3YUNDci1xWDRINUR2THU1TEFqbnl6QkZnUC1PeTRR?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-15T14:07:00.000Z",
+      "excerpt": "汇聚智库力量，守护少年心灵，江苏省中小学生心理健康工作咨询委员会成立 中国江苏网",
+      "section": "cn-life",
+      "rankScore": 0.391539
+    }
+  ],
+  "warnings": []
+}
