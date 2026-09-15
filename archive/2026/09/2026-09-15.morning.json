@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-15",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-15T01:25:17.245Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "d1487b0a00a31131",
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "source": "hn-front",
+      "publishedAt": "2026-09-14T17:27:55.000Z",
+      "score": 489,
+      "author": "bsimpson",
+      "excerpt": "489 points · 363 comments · https://news.ycombinator.com/item?id=49700661",
+      "section": "tech",
+      "rankScore": 1.097616
+    },
+    {
+      "id": "962f19fb0172ab67",
+      "title": "GDScript: The Good, Bad, and Ugly Parts",
+      "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-15T00:29:04.000Z",
+      "author": "azhdarchid.com via misty",
+      "section": "tech",
+      "rankScore": 0.615945
+    },
+    {
+      "id": "c55e4816ef417b87",
+      "title": "Java News Roundup: New OpenJDK JEPs, CDI 5.0, Spring, Open Liberty, RefactorFirst, ADK for Kotlin",
+      "url": "https://www.infoq.com/news/2026/09/java-news-roundup-sep07-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-14T20:15:00.000Z",
+      "author": "Michael Redlich",
+      "excerpt": "This week's Java roundup for September 7th, 2026, features news highlighting: new JEPs for ahead-of-time compilation and structured concurrency; GA releases of Jakarta CDI 5.0 and ADK for Kotlin 1.0; the September 2026 edition of Open Liberty; point releases of TornadoVM and RefactorFirst; a…",
+      "section": "tech",
+      "rankScore": 0.613809
+    },
+    {
+      "id": "747a53270bc9a9e3",
+      "title": "Kubernetes Changed Block Tracking API - Beta Differences",
+      "url": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/",
+      "source": "kubernetes",
+      "publishedAt": "2026-09-14T18:30:00.000Z",
+      "excerpt": "Changed Block Tracking (CBT) support for CSI drivers shipped as Alpha in September 2025. With the March 2026 v1.0.0 release of the external-snapshot-metadata project, the feature moved to Beta . If you aren't yet familiar with changed block tracking for storage in Kubernetes, the Alpha…",
+      "section": "tech",
+      "rankScore": 0.584642
+    },
+    {
+      "id": "4cf0d8c4d6859fba",
+      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+      "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+      "source": "verge",
+      "publishedAt": "2026-09-15T00:13:47.000Z",
+      "author": "Sean Hollister",
+      "excerpt": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet.",
+      "section": "tech",
+      "rankScore": 0.476096
+    },
+    {
+      "id": "6b09bcac6a450786",
+      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-14T22:06:24.000Z",
+      "author": "Beth Mole",
+      "excerpt": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+      "section": "tech",
+      "rankScore": 0.451327
+    },
+    {
+      "id": "c5faa350dc07da4e",
+      "title": "The contagion of fear",
+      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-14T21:18:13.000Z",
+      "excerpt": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story of his own youthful mistakes causing unjustified panic among less technical…",
+      "section": "ai",
+      "rankScore": 0.757643
+    },
+    {
+      "id": "df1b116421161551",
+      "title": "What blog posts influenced your thinking the most?",
+      "url": "https://simonwillison.net/2026/Sep/14/influences/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-14T20:21:48.000Z",
+      "excerpt": "My comment on What blog posts influenced your thinking the most? — Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career and it's encouraged me to always be looking for improved understanding of the layers under where I'm working,…",
+      "section": "ai",
+      "rankScore": 0.738838
+    },
+    {
+      "id": "61e16841fd278d0d",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-14T19:00:00.000Z",
+      "excerpt": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "section": "ai",
+      "rankScore": 0.592976
+    },
+    {
+      "id": "ffb0d4f75f8f65a2",
+      "title": "AI 负责创造，人来干脏活，这事儿能否停一下？",
+      "url": "https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-15T00:08:00.000Z",
+      "author": "付秋伟",
+      "section": "cn-tech",
+      "rankScore": 0.678531
+    },
+    {
+      "id": "979f33f022747222",
+      "title": "我们需要警惕一种情形：美国AI巨头的“减速论”，可能会对开源模型构成实质性绞杀",
+      "url": "https://www.36kr.com/p/3983901281729537",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-15T00:37:53.000Z",
+      "author": "锦缎",
+      "excerpt": "2024年8月 JRE #2190节目中，风投大师Peter Thiel与Joe Rogan这个著名的阴谋论者开始一本正经的讨论，掌握了曲率/超光速旅行的外星人社会是什么样的。 Thiel十分严谨推理道： It's not that they might be demons or angels, it's that they must be demons or angels, if you have faster than light travel. 掌握了超光速旅行的外星人，不是“有可能”成为魔鬼或天使，而是他们“必须同时”是魔鬼或天使。",
+      "section": "cn-tech",
+      "rankScore": 0.618149
+    },
+    {
+      "id": "df4ac2427155dbf5",
+      "title": "越南关联服务器泄漏了 2.2 亿条旅客信息",
+      "url": "https://www.solidot.org/story?sid=85375",
+      "source": "solidot",
+      "publishedAt": "2026-09-14T14:49:51.000Z",
+      "excerpt": "Kinryū Labs 发现了一个因错误配置而能被访问的数据库，该数据库 Advance Passenger Information 记录了过去九年进出越南的几乎所有旅客和机组人员的信息。在接到通知之后该数据库的访问于 2026 年 6 月关闭。Kinryu Labs 是在 6 月 3 日发现了名为 pax-info 的 Elasticsearch 集群，该数据库可使用默认凭证登陆，运营者没有改变默认的用户名和密码，它包含了 29 个索引和约 107 GB 的数据。",
+      "section": "cn-tech",
+      "rankScore": 0.575839
+    },
+    {
+      "id": "4601fa4cec2844ea",
+      "title": "派早报：豆包发布手机助手消费者版，绿联发布首款雷电 5 显卡坞等",
+      "url": "https://sspai.com/post/114593",
+      "source": "sspai",
+      "publishedAt": "2026-09-15T00:06:40.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "英伟达发布 RTX PRO 5500 Blackwell 专业显卡，阿凡途发布 AVENTHO Y 头戴式耳机等",
+      "section": "cn-tech",
+      "rankScore": 0.542529
+    },
+    {
+      "id": "fde8c40382e88d9c",
+      "title": "工程1分布式集群- 用户784320058105的收藏集",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aR3Z3M21UTDFVLUlvZThFd0hsd3oxczNNXzJ5aHVyNEFqZVNHWURCOTRyd01OMTdwd0NwRnY3Z0FfZlI5aXBHZG8zYjFYRUZTbHhiWFNPUXpfQ1NR?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-14T18:17:27.000Z",
+      "excerpt": "工程1分布式集群- 用户784320058105的收藏集 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.406809
+    },
+    {
+      "id": "9bf6ed0a8844b8d6",
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-14T18:01:49.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said.",
+      "section": "security",
+      "rankScore": 0.576814
+    },
+    {
+      "id": "c8685d52fd879fc3",
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-14T17:58:16.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12.",
+      "section": "security",
+      "rankScore": 0.575828
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
