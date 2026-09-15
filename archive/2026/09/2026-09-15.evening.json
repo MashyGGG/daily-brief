@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-15",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-15T16:55:48.783Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "ad2b2a9a899d65f2",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "source": "hn-front",
+      "publishedAt": "2026-09-15T12:31:10.000Z",
+      "score": 638,
+      "author": "arnemunthekaas",
+      "excerpt": "638 points · 102 comments · https://news.ycombinator.com/item?id=49711544",
+      "section": "tech",
+      "rankScore": 1.006569
+    },
+    {
+      "id": "bb6fd096d8039845",
+      "title": "Nail the Narrative",
+      "url": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-09-15T15:11:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Sumeet Gayathri Moghe finds many folks building presentations get tangled in building slides without a coherent narrative. He advises distilling the big idea, visualizing the audience, and building a structured storyline.",
+      "section": "tech",
+      "rankScore": 0.7755
+    },
+    {
+      "id": "c2882dea5c938eb6",
+      "title": "Inside OpenAI’s agentic software factory",
+      "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-09-15T15:41:25.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "A deepdive into how Codex has “taken over” OpenAI, how the frontier lab builds its agentic software factory, and the engineering challenges of one billion users. Details from inside OpenAI",
+      "section": "tech",
+      "rankScore": 0.728033
+    },
+    {
+      "id": "f0390865adced6bc",
+      "title": "Do LLMs Have the Memory of a Goldfish?",
+      "url": "https://blog.bytebytego.com/p/do-llms-have-the-memory-of-a-goldfish",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-15T15:31:12.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we will learn how LLMs handle memory so that they are useful to end users in performing complex tasks that require conversation and holding context.",
+      "section": "tech",
+      "rankScore": 0.72227
+    },
+    {
+      "id": "dcafee7f8dfc1205",
+      "title": "SHA-1 in HTTPS on GitHub sunset",
+      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-15T16:47:20.000Z",
+      "author": "Allison",
+      "excerpt": "Previously we announced we would be disabling SHA-1 in HTTPS for GitHub on September 15th, 2026. Following the planned schedule, GitHub has disabled SHA-1 in HTTPS for github.com and partner…",
+      "section": "tech",
+      "rankScore": 0.695651
+    },
+    {
+      "id": "e1dc1fb4d40c1b4e",
+      "title": "Interpreting Pangram",
+      "url": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-15T14:14:59.000Z",
+      "author": "lucumr.pocoo.org via carlana",
+      "section": "tech",
+      "rankScore": 0.555771
+    },
+    {
+      "id": "5830b1cf44c07afe",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "author": "James Manyika",
+      "excerpt": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "section": "ai",
+      "rankScore": 0.671378
+    },
+    {
+      "id": "d1f54f34604b162d",
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "excerpt": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "section": "ai",
+      "rankScore": 0.671378
+    },
+    {
+      "id": "9e1e6a898bac9ad8",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "huggingface",
+      "publishedAt": "2026-09-15T16:00:44.000Z",
+      "section": "ai",
+      "rankScore": 0.604579
+    },
+    {
+      "id": "21c642bf79312afb",
+      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "source": "latent-space",
+      "publishedAt": "2026-09-15T04:50:36.000Z",
+      "excerpt": "Pacing gathers pace.",
+      "section": "ai",
+      "rankScore": 0.360905
+    },
+    {
+      "id": "9e7fce034b9ddfbe",
+      "title": "出于兴趣阅读有助于促进终身的身心健康",
+      "url": "https://www.solidot.org/story?sid=85387",
+      "source": "solidot",
+      "publishedAt": "2026-09-15T16:03:18.000Z",
+      "excerpt": "WHO 的数据显示，全球逾 10 亿人有心理健康障碍，其中焦虑症和抑郁症等病症造成了巨大的个人痛苦和经济损失。全世界约有七分之一 10-19 岁青少年有心理障碍，占该年龄段疾病负担的 15%。抑郁症、焦虑症和行为障碍是导致疾病和残疾的主因，而自杀则是 15-29 岁人群的第三大死因，凸显了为青少年提供心理健康支持的迫切性。人们已经认识到，环境因素会影响大脑健康、认知能力、心理健康及身体健康，而这些因素可通过改变行为加以改善。因此通过改善生活方式，人们不仅能提升大脑健康和认知能力，还能降低患心理健康障碍和躯体疾病的风险。",
+      "section": "cn-tech",
+      "rankScore": 0.740377
+    },
+    {
+      "id": "fb42ba69557a1557",
+      "title": "京东上线“东东”购物助手：在原来的APP里长出了一个“更懂你”的Agent",
+      "url": "https://www.infoq.cn/video/UYi5ApclOl1ovCNtONTZ?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-15T16:42:41.000Z",
+      "author": "凌敏",
+      "section": "cn-tech",
+      "rankScore": 0.693267
+    },
+    {
+      "id": "4ac0f613e8a05d30",
+      "title": "豆包手机明日开卖，AI能帮你操作App了吗？",
+      "url": "https://www.36kr.com/p/3984764117007111",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-15T14:32:23.000Z",
+      "author": "李炤锋",
+      "excerpt": "文 | 李炤锋 编辑 | 张雨忻 昨日， 豆包 手机助手发布消费者版本。这款基于 豆包 App（应用）、与手机厂商在操作系统层合作的AI助手，首款落地机型为中兴通讯旗下努比亚NaviX Ultra，而这款手机将在 9 月 16 日正式公开发售。 去年底， 豆包 手机助手技术预览版曾落地努比亚M153工程样机，重点展示AI如何跨应用“操作手机”。不到一年时间， 全新推出的消费者版本更强调日常可用性 ：除屏幕问答、本地记忆和检索外，“操作手机”功能以Beta（测试版）形式开放； 豆包 同时推出SAEP（屏幕自动化操作声明协议），并设置30天公示期。",
+      "section": "cn-tech",
+      "rankScore": 0.563802
+    },
+    {
+      "id": "bfaf6090ee5e184f",
+      "title": "华为发布全球首个3D数据中心，携手产业共建AIDC新范式",
+      "url": "https://www.oschina.net/news/502507",
+      "source": "oschina",
+      "publishedAt": "2026-09-15T11:57:16.000Z",
+      "excerpt": "9月15日，2026 AIDC产业发展大会暨3D数据中心现场会在安徽芜湖举行。现场华为正式发布全球首个3D数据中心，发行《3D数据中心》专著书籍，并开放《3D数据中心概要设计图库》，携手产业共建AIDC（人工智能数据中心）新范式。 为解决大型AI算力中心的安全性和跨不同代际AI芯片的兼容性，华为通过系统架构创新，打造新一代3...",
+      "section": "cn-tech",
+      "rankScore": 0.492209
+    },
+    {
+      "id": "58952bd60a6a0a8d",
+      "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
+      "url": "https://sspai.com/post/114613",
+      "source": "sspai",
+      "publishedAt": "2026-09-15T09:00:00.000Z",
+      "author": "Matrix机器人",
+      "excerpt": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...",
+      "section": "cn-tech",
+      "rankScore": 0.364795
+    },
+    {
+      "id": "a5af480bf65df53a",
+      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-15T15:23:19.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.",
+      "section": "security",
+      "rankScore": 0.652566
+    },
+    {
+      "id": "bd15b3e5816ed304",
+      "title": "Protecting Tokens and Assertions from Forgery, Theft, and Misuse: Implementation Recommendations for Agencies and Cloud Service Providers",
+      "url": "https://www.cisa.gov/resources-tools/resources/protecting-tokens-and-assertions-forgery-theft-and-misuse-implementation-recommendations-agencies",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "Developed by the National Institute of Standards and Technology (NIST) and CISA, this interagency report provides federal agencies and cloud service providers with guidelines to protect the identity assertions, access tokens, and cryptographic mechanisms that support modern authentication and…",
+      "section": "security",
+      "rankScore": 0.548301
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" failed: Error: HTTP 415",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
