@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-16",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-16T15:24:37.069Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 12,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "29d63abce4602371",
+      "title": "美國能在外太空部署哪些武器？",
+      "url": "https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-16T14:57:03.000Z",
+      "excerpt": "美國的宣佈顯示，地球軌道上的嶄新現代戰爭領域正在發展。",
+      "section": "news",
+      "rankScore": 0.821621
+    },
+    {
+      "id": "8d521e770cfc6d13",
+      "title": "FT：中国力主釜山协议延至特朗普任满 美国因稀土问题坚持只延6个月",
+      "url": "http://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260916-ft-%E4%B8%AD%E5%9B%BD%E5%8A%9B%E4%B8%BB%E9%87%9C%E5%B1%B1%E5%8D%8F%E8%AE%AE%E5%BB%B6%E8%87%B3%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%BB%E6%BB%A1-%E7%BE%8E%E5%9B%BD%E5%9B%A0%E7%A8%80%E5%9C%9F%E9%97%AE%E9%A2%98%E5%9D%9A%E6%8C%81%E5%8F%AA%E5%BB%B66%E4%B8%AA%E6%9C%88",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-16T14:48:07.000Z",
+      "author": "古莉",
+      "excerpt": "特朗普与习近平峰会在即。双方去年10月在韩国达成的贸易战“休战协议”将于今年 11 月到期。据金融时报透露，中方主张将该协议延至两年后特朗普任满，但美方只想延长半年，部分原因是稀土。",
+      "section": "news",
+      "rankScore": 0.679722
+    },
+    {
+      "id": "16b43b3a2b178fd1",
+      "title": "Eight German state premiers back Merz amid speculation over future",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-16T14:50:26.000Z",
+      "excerpt": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
+      "section": "news",
+      "rankScore": 0.612908
+    },
+    {
+      "id": "ee8be519a72bdf5f",
+      "title": "Houthis and Saudis Trade Claims of Military Attacks as Conflict Escalates",
+      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-16T15:21:03.000Z",
+      "author": "Ismaeel Naar and Hari Raj",
+      "excerpt": "The Iran-backed militia in Yemen said it had downed a Saudi jet, while the Saudi-led military coalition accused it of firing a drone near Mecca. The Houthis denied doing so.",
+      "section": "news",
+      "rankScore": 0.558414
+    },
+    {
+      "id": "f944a54239adabac",
+      "title": "Burnham warns of ‘difficult decisions’ in budget as inflation rises to 3.1%",
+      "url": "https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-16T15:17:49.000Z",
+      "author": "Richard Partington Senior economics correspondent",
+      "excerpt": "PM rejects claim he leads a ‘tax-and-spend’ government, as Bank of England prepares for interest rates decision Andy Burnham has said “difficult decisions” will need to be taken in next month’s budget after a rise in energy prices triggered by the Iran war drove UK inflation above 3%. In a fresh…",
+      "section": "news",
+      "rankScore": 0.556977
+    },
+    {
+      "id": "5be4a9065bb632a8",
+      "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
+      "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-16T14:53:51.000Z",
+      "excerpt": "High energy costs at the pump and strategic setback for US in the Iran war will likely cost Trump in the midterms.",
+      "section": "news",
+      "rankScore": 0.546325
+    },
+    {
+      "id": "24f080891b11e0af",
+      "title": "Global Oil Prices Could Hit Highest Levels in Months After Saudi Pipeline Attacks",
+      "url": "https://www.nytimes.com/2026/09/16/business/saudi-pipeline-houthi-attacks.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-16T15:15:11.000Z",
+      "author": "Lisa Friedman",
+      "excerpt": "Prolonged restrictions on exports could push oil prices even higher.",
+      "section": "news",
+      "rankScore": 0.486331
+    },
+    {
+      "id": "5909982320f3c0a3",
+      "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
+      "source": "npr-news",
+      "publishedAt": "2026-09-16T15:00:16.000Z",
+      "author": "Pien Huang",
+      "excerpt": "Neuroscientists have made a major advance in modeling the human brain in mice, offering a new way to study conditions like cerebral palsy. Ethicists ask if it changes how these mice should be treated.",
+      "section": "news",
+      "rankScore": 0.48053
+    },
+    {
+      "id": "661694697d5e15db",
+      "title": "UK inflation rose to 3.1% in August",
+      "url": "https://www.ft.com/content/57c085c9-741e-4202-8be7-812ea7bd6d19?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-16T14:57:03.000Z",
+      "excerpt": "Figure worsens squeeze on households ahead of BoE meeting",
+      "section": "news",
+      "rankScore": 0.479279
+    },
+    {
+      "id": "fad78854d099b869",
+      "title": "俄外长：俄方愿进行双边或三边谈判，但不抱幻想",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xdDE4Zmt0ZGtCZDEzejdOV1pGSmdhRnQ2UkllNWNUTjB0aEItNW8wb0hNTFQwTU5kRkYwanpicy1aQzVLMDUzalB1bVF4REpvbEdLVnRMaXYtZF9GT0xOZHkxVmdmN3p4eUg3UnZ4aDNvSWs?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-16T14:56:00.000Z",
+      "excerpt": "俄外长：俄方愿进行双边或三边谈判，但不抱幻想 观察者网 俄外长：俄方从未拖延或复杂化乌克兰问题谈判 凤凰网 俄外长：俄方愿进行双边或三边谈判 但不抱幻想 sohu.com 拉夫罗夫：俄方愿在既定立场内就乌克兰问题达成折中方案 新浪财经 俄外长：西方发起的乌克兰问题特别法庭荒谬至极且最终将流于形式 风闻",
+      "section": "news",
+      "rankScore": 0.410461
+    },
+    {
+      "id": "6501fd385bcd2114",
+      "title": "全球顶尖高校“学位收割机”：他为何一直求学？",
+      "url": "https://cn.nytimes.com/education/20260916/he-might-end-up-the-worlds-most-educated-person/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-16T04:56:48.000Z",
+      "author": "SCOTT CACCIOLA",
+      "excerpt": "杰米·比顿拥有哈佛、耶鲁、牛津、清华和其他顶尖大学的12个学士和硕士学位，并且仍然在攻读更多学位。他可能会成为世界上受教育程度最高的人。他为何选择这样的人生？ Charlie Rubin for The New York Times",
+      "section": "news",
+      "rankScore": 0.386334
+    },
+    {
+      "id": "265626ff671abe67",
+      "title": "Report warns of reprisals against those who engage with the UN on human rights",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168345",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "excerpt": "Activists, lawyers and others who cooperate with the United Nations on human rights continue to face intimidation and reprisals, according to a new report issued on Wednesday by the Secretary-General that calls for greater protection and accountability.",
+      "section": "news",
+      "rankScore": 0.351794
+    },
+    {
+      "id": "f739f37bb429d190",
+      "title": "北京香山论坛与会中外代表：国家间冲突不应损害国际航道安全",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697934.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-16T14:43:46.000Z",
+      "excerpt": "中新社北京9月16日电 (李纯 刘梦青)第十三届北京香山论坛16日正在北京举行，海上通道安全话题受到各方广泛关注。多位与会中外代表表示，国家之间的冲突对抗不应该损害国际航道的安全。",
+      "section": "cn-news",
+      "rankScore": 0.745035
+    },
+    {
+      "id": "164039e462a57234",
+      "title": "南方医科大学通报学生坠楼事件",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697787.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-16T11:58:33.000Z",
+      "excerpt": "中新网9月16日电 9月16日，南方医科大学在官方微信公众号发布情况通报称，2026年9月15日凌晨1:55左右，南方医科大学高层公寓发生一学生坠楼事件。经警方现场勘查，确认为高坠身亡，排除他杀。",
+      "section": "cn-news",
+      "rankScore": 0.702621
+    },
+    {
+      "id": "19ddc9b5c79090a8",
+      "title": "受气候变暖影响，加拿大最后一座冰架湖彻底消亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TUm1VX3B2WUx0cEstN2VBZTJ0RFh3am04UXNmNmJ5a1N5N3VaVTZjQ3ZuWC1HczVubEt3am9FakN0T1pMd3R0eHV5WEJsdzc1ZjFUWktjdkE?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-16T15:16:02.000Z",
+      "excerpt": "受气候变暖影响，加拿大最后一座冰架湖彻底消亡 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.625708
+    },
+    {
+      "id": "21f497a1e21ab38c",
+      "title": "专家称，平陆运河通航将提升中国铝产业国际竞争力",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697923.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-16T13:56:31.000Z",
+      "excerpt": "中新社昆明9月16日电 (记者 韩帅南)新中国成立以来首条国家层面统筹建设的通江达海运河——平陆运河16日建成通航。昆明理工大学卓越工程师学院常务副院长、云南省铝工业工程研究中心主任田阳当日接受采访时说，平陆运河的开通将进一步提升中国铝在国际市场上的综合竞争力。",
+      "section": "cn-news",
+      "rankScore": 0.585949
+    },
+    {
+      "id": "a733ed8b299f2483",
+      "title": "定好闹钟！9月30日火车票今日开售 国庆节首日车票明日可买",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVT1RlRGpoaEhXc2J1RjBORDN4dU5CLWNyZjViU09lcFYwZ1VocVY2QkFvQ00yU0RYNkhlYnEtZ0o0cElMTmo3Q1lCMjdvQ0NLS2ExVGhMMFR2azhlQVE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-16T12:08:22.000Z",
+      "excerpt": "定好闹钟！9月30日火车票今日开售 国庆节首日车票明日可买",
+      "section": "cn-news",
+      "rankScore": 0.531874
+    },
+    {
+      "id": "0dcc382567d045aa",
+      "title": "推动长江文明与世界大河文明交流互鉴",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Yc09VZFVOUVNPNzdwOW0yYU9TWWxPOGdhbXFnX2diMFM0dXpxenoweWRNM3Y1d3M0Q2s0WktmcFZob1hVQnR6YUJBenhKWXFqYUdZTXowTFFxS3V3bmVwY3pTaXdLbmg4Vy1BOQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-16T14:03:45.000Z",
+      "excerpt": "推动长江文明与世界大河文明交流互鉴 中国社会科学网 2026长江文明论坛专场音乐会在重庆上演 新浪财经 大江流韵文脉焕新 从一场论坛看长江文化的时代力量 新华网重庆 2026长江文明论坛在渝举行 袁家军致辞并宣布开幕 高翔胡云高世名阎晶明马丁·雅克致辞 陈新武主持 王炯程丽华出席 China Daily 世界首部川江蜀道行纪文献集成在重庆发布 sohu.com",
+      "section": "cn-news",
+      "rankScore": 0.524059
+    },
+    {
+      "id": "f45b107d50dee343",
+      "title": "陸再提懲治台獨頑固分子 陸委會：恐嚇台灣人民",
+      "url": "https://www.cna.com.tw/news/acn/202609160353.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-16T13:01:26.000Z",
+      "excerpt": "（中央社記者李雅雯台北16日電）中國大陸國台辦今天回應台北市長參選人沈伯洋相關議題時重申，對於「台獨頑固分子」將採取一切必要措施依法懲治、終身追責；陸委會回應，這種說法是在恐嚇所有台灣人民。",
+      "section": "cn-news",
+      "rankScore": 0.496362
+    },
+    {
+      "id": "a37f77cab628c4e9",
+      "title": "China uses 100,000 home-grown AI chips to build leading weather forecast system",
+      "url": "https://www.scmp.com/news/china/science/article/3367747/china-uses-100000-home-grown-ai-chips-build-leading-weather-forecast-system?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-16T15:00:05.000Z",
+      "author": "Ling Xin",
+      "excerpt": "China said it can now predict weather 10 days in advance at a cutting-edge resolution of 5km (3.1 miles), finer than most major systems in routine use around the world.",
+      "section": "cn-news",
+      "rankScore": 0.480459
+    },
+    {
+      "id": "13924f8b99ad78ab",
+      "title": "明年将启动碳市场第二轮扩围准备工作，高排放行业均纳入管控 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWp0aW9oX2xnX2tzUTBFMVBjaWJrWHpYSEo5NTEyQlY2SG01dWg0WXQyUTFha1RLWXdsVjM5RklvSU81aWtONGtJSHlIODVxTGZGOVlueUhDTDgtRFpfTDFhelNIekpvZ1p6NXltZHhUNmVtV2l2MjZENER6NmpRMlFBRzkxOWVxTzRtQQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-16T13:36:00.000Z",
+      "excerpt": "明年将启动碳市场第二轮扩围准备工作，高排放行业均纳入管控 21财经 全球碳市场的尺子上终于有了中国刻度 光明网 全国碳排放配额累计成交超九亿吨 paper.people.com.cn 武汉一栋楼，放着全球最大“碳账本” 中华网 从林海碳汇到金融赋能，一线市场主体共话减排价值实现 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.44776
+    },
+    {
+      "id": "69ab57227eab8659",
+      "title": "四川省第十一届残疾人运动会暨第六届特殊奥林匹克运动会开幕",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wZmRIZVJLOE1tSUFQTnhxV0RjelpmRG9zN0xVUG1VcWZtdzBkNVZXQXBjblhYWHJuaU9LdWtKazJpRXdzMUF1Qm84VWZmejBFM1E4a2l6TnFaM1gwOWEybkpNSQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-16T14:29:01.000Z",
+      "excerpt": "四川省第十一届残疾人运动会暨第六届特殊奥林匹克运动会开幕 sichuan.scol.com.cn 四川省第十一届残运会暨第六届特奥会开幕 sohu.com 四川省残特奥会开幕：“刀锋舞者”谢海峰领衔，“中国唐氏川剧变脸第一人”登台 sohu.com 四川省残特奥会开幕：一曲《逐光破浪》唱响全场 歌词里藏着生命的力量 sohu.com “电”亮盛会！广安爱众电力公司全力护航省第十一届残运会暨第六届特奥会开幕式 sohu.com",
+      "section": "cn-news",
+      "rankScore": 0.401466
+    },
+    {
+      "id": "3a8aa87f826bc0ae",
+      "title": "陕西大熊猫，更像猫！",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697939.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-16T15:17:46.000Z",
+      "excerpt": "提到大熊猫，大众脑海里大多浮现的是四川大熊猫圆滚滚的黑白团子形象。很多人并不知晓，在陕西秦岭的深山之中，栖息着大熊猫的独立亚种——秦岭大熊猫。和头长吻尖、气质偏向熊类的四川大熊猫相比，秦岭大熊猫头骨圆润、吻部短缩、脸庞饱满，自带幼态柔和的猫系气质，也被大家称作“国宝里的美人”。",
+      "section": "cn-life",
+      "rankScore": 0.835433
+    },
+    {
+      "id": "be56a908b652423e",
+      "title": "杨洪峰调研安全生产、应急管理工作",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVJhUU9YY0lYd0V1Vnlqa1NnNktTeFhTN3YwMl8xWFhVcDNsd2NaUkhCRG1QWWhhMlVCZVMxaXJ4Y2htZlFtSm8yMWg5eXE2a2VsYTdQXzVVT0dUUk81SGhSdS1uZDBmVDhYcFV0SDk4dElfYzdEWWlFYW5pSmw3bVNlbzdVbHNL?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-16T15:06:00.000Z",
+      "excerpt": "杨洪峰调研安全生产、应急管理工作 永州市政府",
+      "section": "cn-life",
+      "rankScore": 0.620691
+    },
+    {
+      "id": "5d9dd5529e33ee05",
+      "title": "江苏无锡：五年奋进路，“民生之笔”绘就城市幸福画卷",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWVhndFFWUDVPYlJHNTdWRXJXa1cxcUE5VTRqTUwtZ1lwN0haTWRVUjdFN0pmcmVoVFY1QlRmNFMxSnFZejZfM0ZuVk4xN3FfbkZDdUdMYl94SUwwQXExMjctQzNWQzBYYlEtUVQ5bVdGRVV4VldjS3J2UGhwbHh5TlFNV25qekpwUlZDV0RTUFBVcE1pN0JSdA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-16T14:19:48.000Z",
+      "excerpt": "江苏无锡：五年奋进路，“民生之笔”绘就城市幸福画卷 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.597591
+    },
+    {
+      "id": "db99b974e4e8d3d1",
+      "title": "北京产权交易所",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HRVE0UERDbDBaN2ZmbXZ4NXhjbENOMW1OaGlIX3NPcXRZSXNNN1dacHZza0wwNDBjUTVDb2w3dkJreHZKdmpXc3VvS0ZuRHZXMTZQV2UyVC11bUcwRUdnTllmUGVTa0lfTE5pRXY2UzQ0dw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-16T14:23:29.000Z",
+      "excerpt": "北京产权交易所 北京市公共资源交易服务平台",
+      "section": "cn-life",
+      "rankScore": 0.532829
+    },
+    {
+      "id": "39579d152f2e769f",
+      "title": "全国入秋进程图出炉 秋天脚步已过黄河 京津冀等地跑步入秋",
+      "url": "https://www.chinanews.com.cn/life/2026/09-16/10697664.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-16T09:51:21.000Z",
+      "excerpt": "全国入秋进程图出炉 秋天脚步已过黄河京津冀等地跑步入秋",
+      "section": "cn-life",
+      "rankScore": 0.514851
+    },
+    {
+      "id": "300446c937cfbc11",
+      "title": "陕西平利：以“AI + 数字”赋能治理，筑牢食安智慧防护屏障",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYUk0RHYtMFo4VHBBdHhEV2tuQ2ZEZkZJaGs0c1o5MWVTWHpmZ0EzVnZndWV1WEpPLUtpLXVZWERWczhrNzNzOFVqQ2luSzhKUm5pVkJjUF8yd2c0NzF5djNhMU9tN002Rll3NmpWMnpNd3lYSk5LbXQ1d1BIYXh5Z0NuZ0RMeVRZSDgxaVJ1VG1VRGVzRUpZdw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-16T14:59:42.000Z",
+      "excerpt": "陕西平利：以“AI + 数字”赋能治理，筑牢食安智慧防护屏障 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.48031
+    },
+    {
+      "id": "3a1c42e6773d6a15",
+      "title": "多所师范院校增设养老专业",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ1hKcS1VVU1vQ1pRSWpwY0pDRVBJLU1tTVJ4cDRIb1lLVF8yNG16dHY5V3F3UURnTDFEdnBLX1FBWWxVS1ZNREJOdlFVbnU0X1BnZUU4ZWRBM05ZV1NSWVd2bDNxckwzcXdGV0tmX3NFVmxjM2t5QzVkYlFOZVNYeFlYcw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-16T15:04:20.000Z",
+      "excerpt": "多所师范院校增设养老专业 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.413239
+    },
+    {
+      "id": "40392eb668b2d415",
+      "title": "成人EB病毒脑炎：基于脑脊液宏基因组下一代测序(mNGS)诊断的回顾性病例系列报告",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EcU5kWlRNMEkxUFVac0dIR3RaSFkyXy1sXzBLSVdqNjdHcFBTNV9Yc0tMUmROM1kzTWJxd2dGY0laYnlLZWhXUWl3ZFppTjBuRV93RHp4M3ZVT2ctdU9TNEhnZGZFM2JwLWNuNQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-16T09:35:32.000Z",
+      "excerpt": "成人EB病毒脑炎：基于脑脊液宏基因组下一代测序(mNGS)诊断的回顾性病例系列报告 生物通",
+      "section": "cn-life",
+      "rankScore": 0.354245
+    }
+  ],
+  "warnings": []
+}
