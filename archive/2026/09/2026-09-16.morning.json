@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-16",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-16T01:23:07.192Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "afeaf3fa33e2c398",
+      "title": "An Update on Wayback Machine Access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-15T17:52:18.000Z",
+      "score": 377,
+      "author": "ChrisArchitect",
+      "excerpt": "377 points · 209 comments · https://news.ycombinator.com/item?id=49716176",
+      "section": "tech",
+      "rankScore": 1.015329
+    },
+    {
+      "id": "fef916b39e218263",
+      "title": "1Password's AI patching benchmark is misleading",
+      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-15T20:03:12.000Z",
+      "author": "blog.trailofbits.com via sarciszewski",
+      "section": "tech",
+      "rankScore": 0.55002
+    },
+    {
+      "id": "01b0230f7e0d5b4d",
+      "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+      "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+      "source": "verge",
+      "publishedAt": "2026-09-16T01:00:00.000Z",
+      "author": "Andrew Liszewski",
+      "excerpt": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6…",
+      "section": "tech",
+      "rankScore": 0.485504
+    },
+    {
+      "id": "03487f813c976ba7",
+      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+      "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-15T22:26:32.000Z",
+      "author": "Stephen Clark",
+      "excerpt": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
+      "section": "tech",
+      "rankScore": 0.455664
+    },
+    {
+      "id": "5e374daad0c8b9d6",
+      "title": "Give every teammate and agent the right level of access to your Workers",
+      "url": "https://blog.cloudflare.com/workers-granular-authorization/",
+      "source": "cloudflare",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "excerpt": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
+      "section": "tech",
+      "rankScore": 0.44422
+    },
+    {
+      "id": "5e1ddd7e9b3f2a62",
+      "title": "anmolkapil/plexo",
+      "url": "https://github.com/anmolkapil/plexo",
+      "source": "gh-trending-ts",
+      "publishedAt": "2026-09-15T09:41:57.000Z",
+      "score": 57,
+      "author": "anmolkapil",
+      "excerpt": "Speed up downloads by combining multiple network connections in parallel — ★57 · TypeScript",
+      "section": "tech",
+      "rankScore": 0.438564
+    },
+    {
+      "id": "6fc72163d37e3da9",
+      "title": "Gemini Live audio",
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-15T22:47:07.000Z",
+      "excerpt": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6 Astra Extra High at the documentation and had it build me this web UI for trying out the new models.",
+      "section": "ai",
+      "rankScore": 0.787999
+    },
+    {
+      "id": "ad50f14dd37361ae",
+      "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+      "url": "https://www.latent.space/p/good-start-labs",
+      "source": "latent-space",
+      "publishedAt": "2026-09-15T20:11:54.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
+      "section": "ai",
+      "rankScore": 0.674905
+    },
+    {
+      "id": "00d1973ed967b9ed",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "excerpt": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "section": "ai",
+      "rankScore": 0.493578
+    },
+    {
+      "id": "473087446597127b",
+      "title": "缓存不该困在一台服务器里",
+      "url": "https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-15T23:00:52.000Z",
+      "author": "李文朋",
+      "section": "cn-tech",
+      "rankScore": 0.660485
+    },
+    {
+      "id": "7a62b9929fa12bc9",
+      "title": "夜晚睡眠光照太亮可能会损伤心脏",
+      "url": "https://www.solidot.org/story?sid=85388",
+      "source": "solidot",
+      "publishedAt": "2026-09-15T16:45:24.000Z",
+      "excerpt": "研究人员分析了 英国生物样本库（UK Biobank）11,071 名参与者的数据，参与者在一周时间内手腕佩戴了光线和运动传感器。研究开始时参与者均未有心血管疾病。在几年之后他们接受了心脏 MRI 检查。研究人员主要针对两类人群，其一是夜间睡眠时几乎没有任何光；其二是接触至少 3 lux（照度单位）的光，这些光线可能来自透过窗帘射入的街灯，家用电器上的 LED 灯。在考虑个人背景、生活方式、健康状况和环境因素后，研究人员发现，夜间睡眠时的光照水平如果超过3 lux，每增加一点光照都与可测量的、细微的心脏损伤有关。",
+      "section": "cn-tech",
+      "rankScore": 0.611808
+    },
+    {
+      "id": "01a190c4cdf7519e",
+      "title": "GPT-6 Sol要来了？OpenAI本周或迎「发布狂潮」",
+      "url": "https://www.36kr.com/p/3985279522765832",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-16T00:03:50.000Z",
+      "author": "机器之心",
+      "excerpt": "OpenAI 可能正在酝酿一次大规模产品更新。 最早释放信号的是 OpenAI 产品负责人 Tibo Sottiaux。他在 X 上发文称，「 本周发布的产品和功能数量，会达到你原本可能期待在 DevDay 2025 上看到的那个级别。」 随后，OpenAI CEO Sam Altman 也是罕见地直接提前预告： 「这周会有一个大版本发布，DevDay 期间还会有更多重磅发布。」 此消息一出，大家纷纷猜测： 是不是 GPT-6 Sol 要来了？ 而一个日常更新 Codex 的非官网账号则直接称：「GPT-6 Sol 很有可能会在星期四发布。」 但目前这一消息没有得到 OpenAI 官方确认。",
+      "section": "cn-tech",
+      "rankScore": 0.610178
+    },
+    {
+      "id": "7b4dc997a58a481e",
+      "title": "6500 美元的双臂人形机械臂，OpenArm 把硬件开源做到能复现",
+      "url": "https://www.oschina.net/news/502506",
+      "source": "oschina",
+      "publishedAt": "2026-09-15T11:26:10.000Z",
+      "excerpt": "物理 AI 研究一直卡在一个尴尬的地方：软件栈开源得热火朝天，硬件却始终是实验室里那台没法复现的定制臂。OpenArm 想把这个口子撕开——一台 7 自由度的全开源人形臂，整套 bimanual 系统卖 6500 美元。 这个价格在同类里算激进。更激进的是它的定位：不是给你一台能拿东西的机械臂，而是给物理 AI 一个能全球复现实验条...",
+      "section": "cn-tech",
+      "rankScore": 0.420762
+    },
+    {
+      "id": "e4774f8094e1df35",
+      "title": "新时代下的tooltip提示效果的最佳实现",
+      "url": "https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/",
+      "source": "zhangxinxu",
+      "publishedAt": "2026-09-15T02:38:59.000Z",
+      "author": "张 鑫旭",
+      "excerpt": "不知道了吧，tooltip轻提示效果现在不需要任何JS代码的参与，纯CSS就能实现完整交互，包括演示和动画效果，赶快来大开眼界一番吧。",
+      "section": "cn-tech",
+      "rankScore": 0.385288
+    },
+    {
+      "id": "b0a5c193829277f3",
+      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+      "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-15T16:29:51.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world.",
+      "section": "security",
+      "rankScore": 0.551869
+    },
+    {
+      "id": "c85bf76096596bbd",
+      "title": "CareCam CM2507",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-08",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to access live video and sensitive device information, enable unauthorized services, execute arbitrary code, modify device operation, and recover stored credentials.",
+      "section": "security",
+      "rankScore": 0.476911
+    }
+  ],
+  "warnings": [
+    "source \"juejin\" failed: Error: HTTP 503",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
