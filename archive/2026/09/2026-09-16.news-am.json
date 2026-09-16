@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-16",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-16T01:37:08.511Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "23342467acd7fe16",
+      "title": "「我接受了11年化療，卻發現從未患癌」",
+      "url": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-16T00:18:50.000Z",
+      "excerpt": "貝姬·瓊斯（Becky Jones）21歲被告知患有末期腦癌，接受了長達11年的化療，近期才發現根本不是癌症。和她有類似經歷的，還有同一間醫院的另外40多名病患。",
+      "section": "news",
+      "rankScore": 0.813897
+    },
+    {
+      "id": "9876efc944038139",
+      "title": "中国实施出入境新规后会发生什么？",
+      "url": "http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260915-%E4%B8%AD%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%87%BA%E5%85%A5%E5%A2%83%E6%96%B0%E8%A7%84%E5%90%8E%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-15T22:36:09.000Z",
+      "author": "安德烈",
+      "excerpt": "中国国务院关于出境入境管理的新规定9月15日起正式实施。有不少人预感“未来出境将全面收紧，普通人出境变难”，更有人直指“国门正慢慢关上”，怀疑声浪之大，以至于中国国务院三部门负责人以答记者问形式出面释疑，称前述说法系“误读新规”。",
+      "section": "news",
+      "rankScore": 0.649724
+    },
+    {
+      "id": "feae7b808a36f19b",
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-16T01:29:20.000Z",
+      "excerpt": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+      "section": "news",
+      "rankScore": 0.628048
+    },
+    {
+      "id": "a1f2c8ce0bee4394",
+      "title": "Russia plotting to kill targets in US and Europe, federal officials say",
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-16T01:18:50.000Z",
+      "author": "Associated Press",
+      "excerpt": "Intelligence services allegedly attempted to pay people to surveil and kill people perceived to be aligned with Ukraine Russia’s intelligence services are plotting to carry out targeted killings in the United States and in European nations supporting Ukraine, federal authorities said Tuesday as…",
+      "section": "news",
+      "rankScore": 0.555931
+    },
+    {
+      "id": "f90b1496098d95c8",
+      "title": "Saudi-led coalition intercepts drone headed for Mecca",
+      "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-16T01:09:54.000Z",
+      "excerpt": "Saudi Arabia says it intercepted a drone before it entered Islam's holiest city, calling pilgrims' security a 'red line'",
+      "section": "news",
+      "rankScore": 0.553946
+    },
+    {
+      "id": "44cd4ddce9532d04",
+      "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+      "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-15T21:31:53.000Z",
+      "author": "Ephrat Livni, Abu Bakr Bashir and Natan Odenheimer",
+      "excerpt": "Two Israeli drone strikes hit a residential neighborhood, a civil defense official said. Israel is under international pressure to curtail its attacks.",
+      "section": "news",
+      "rankScore": 0.505498
+    },
+    {
+      "id": "46e768f2ad73d4ac",
+      "title": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back",
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-16T01:20:59.000Z",
+      "author": "Stuart A. Thompson",
+      "excerpt": "The president’s posts about artificial intelligence on the social media platform he founded were met with an unusual volume of criticism.",
+      "section": "news",
+      "rankScore": 0.486858
+    },
+    {
+      "id": "72cc2304827648d1",
+      "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
+      "url": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
+      "source": "npr-news",
+      "publishedAt": "2026-09-16T00:55:41.000Z",
+      "author": "Hadeel Al-Shalchi",
+      "excerpt": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy",
+      "section": "news",
+      "rankScore": 0.481939
+    },
+    {
+      "id": "7d8f0e2056e94449",
+      "title": "Nissan to invest £170mn to build a new hybrid SUV at Sunderland plant",
+      "url": "https://www.ft.com/content/cc6a47b8-2c37-4755-b63a-727565c50260?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-15T23:40:07.000Z",
+      "excerpt": "The addition of a fourth model comes as carmaker looks to boost factory’s utilisation rate, which is hovering at about 50%",
+      "section": "news",
+      "rankScore": 0.467245
+    },
+    {
+      "id": "7cf6fa87f6c62fbe",
+      "title": "也门胡塞武装：沙特战机一天内发动52次空袭",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmdBWHI4eXVscWRDMVNtM2t1VF9KZVpJM2VrOGg2RDBIaG1lT0E4bXJjeEVnM1NFeUdnZnBjdDRMXzFFN1hwWDFYcmRmenNBMzQyWjJXWnhDYkdhRElxWmdXMHZwaE5wWnBBcnZtRHJDckhqM3RiMFVfOGNBeXQ3NE03Vm14Q0RxZkpPQUhPb3MzUXZCUnc5QVh3?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-16T01:11:14.000Z",
+      "excerpt": "也门胡塞武装：沙特战机一天内发动52次空袭 新华网客户端 躲不开胡塞袭击，求不到美国介入，沙特夹在美伊之间“左右为难” 新浪财经 胡塞武装称也门24小时内遭沙特52次空袭 凤凰网 “接管”红海，胡塞有一个特定目标 风闻 也门人道主义危机加剧 民众生存陷入困境 Sohu",
+      "section": "news",
+      "rankScore": 0.415682
+    },
+    {
+      "id": "dd624c2b9b87f8ae",
+      "title": "伊朗多次袭击、美国不愿介入：沙特面临“最坏情况”",
+      "url": "https://cn.nytimes.com/world/20260915/saudi-iran-trump-yemen-houthis/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-15T03:47:40.000Z",
+      "author": "VIVIAN NEREIM",
+      "excerpt": "分析称，特朗普不愿对伊朗支持的胡塞武装采取行动，让沙特方面既恼火又失望。沙特试图与伊朗的外交接触也收效有限。沙特的困境凸显出战争给整个中东带来的沉重代价。 Vantor, via Reuters Vantor卫星照片显示上周遭袭后的沙特东西向输油管道。",
+      "section": "news",
+      "rankScore": 0.369883
+    },
+    {
+      "id": "59bf17c4fea1550e",
+      "title": "Security Council LIVE: Rising violence triggers emergency meeting on Yemen",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168343",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "excerpt": "Amid rising violence in Yemen, the Security Council has called an emergency meeting at 3pm (NY time) on Tuesday to discuss the situation in the critical Bab el-Mandeb Strait shipping route as UN agencies warn of rising displacement, including thousands of Yemenis fleeing to Djibouti.",
+      "section": "news",
+      "rankScore": 0.28381
+    },
+    {
+      "id": "e2fca74c38f18cb0",
+      "title": "各地纪检监察机关加强农村集体“三资”管理",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697181.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-16T01:10:09.000Z",
+      "excerpt": "各地纪检监察机关加强农村集体“三资”管理",
+      "section": "cn-news",
+      "rankScore": 0.831003
+    },
+    {
+      "id": "f9badf2e440f4d27",
+      "title": "习近平致吉林大学建校80周年的贺信",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697194.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-16T01:34:58.000Z",
+      "excerpt": "新华社北京9月16日电",
+      "section": "cn-news",
+      "rankScore": 0.769335
+    },
+    {
+      "id": "2f02dfba925a2cc3",
+      "title": "《天然钻石与可持续发展北京倡议》签署",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697171.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-16T01:07:49.000Z",
+      "excerpt": "中新网北京9月16日电 (记者 刘文文)《天然钻石与可持续发展北京倡议》(简称《北京倡议》)签署仪式15日在北京举行，标志着中非天然钻石产业合作开启新篇章。",
+      "section": "cn-news",
+      "rankScore": 0.622669
+    },
+    {
+      "id": "77b079ae0b011d2f",
+      "title": "汽车早报｜问界将由赛力斯主导 吉利内部正对电池板块进行新一轮整理",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kZjhwNjhodVdFRFNhM3ZraWRaLWRHaFRkOGxiWXRrTEpUYnlORDhCNG5QQ2k0Wm94Q3YtMVNpbWMtMVdJN3M5ZVVWdnNMV2ZJVG9fOGNidlk?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-16T00:40:47.000Z",
+      "excerpt": "汽车早报｜问界将由赛力斯主导 吉利内部正对电池板块进行新一轮整理 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.61591
+    },
+    {
+      "id": "0f3df8c4e75c7a74",
+      "title": "专访｜彼得·施尼曼：人类是生态系统的一部分，艺术也是",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5ZGNiUVRPZEh3TTExa0luNTdkZWYxQmZjUExrbE9VUW9pbl8xSTNkUjB2cUF3M0FxVG03STJveTN5MkNka1dfZDRNS1V6M2ZXbXB3dTJ0enFRWlJJdE9UNA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-15T23:53:00.000Z",
+      "excerpt": "专访｜彼得·施尼曼：人类是生态系统的一部分，艺术也是",
+      "section": "cn-news",
+      "rankScore": 0.603965
+    },
+    {
+      "id": "b2a725e5ae9ca4a1",
+      "title": "北京香山论坛·高端访谈丨李抒音：北京香山论坛在凝聚稳定共识方面发挥的作用越来越大",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWE1YdE0xVDJrQklSc21CMXdpZV9MY2llS181LXROZWtGN0xEX0ViQkdNX21pVEMtLVA1ZndoNTBzVl92R3ozTVJ3VDJHSmlpNDNTd1EzaWtQWDY3VlN1U3pLWjJIVmI2UEx6QmZvalFjd0o2Q04wYWNQdUozRDN3WWNYWQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-16T01:07:41.000Z",
+      "excerpt": "北京香山论坛·高端访谈丨李抒音：北京香山论坛在凝聚稳定共识方面发挥的作用越来越大 新华网 香山论坛｜北约退役少将：目前人工智能尚未在战争中得到全面检验 thepaper.cn 对话罗援：我们赞同和平统一的手段，但最终的目的是实现统一 Sohu 不断发展适应时代变化，日益包容吸引全球南方，北京香山论坛20年凝聚稳定共识 新浪财经 韩正出席第十三届北京香山论坛欢迎晚宴并致辞 中国青年网",
+      "section": "cn-news",
+      "rankScore": 0.553454
+    },
+    {
+      "id": "4a0f38cb1bc5f262",
+      "title": "Neither tariffs nor export controls will stop China’s industrial engine",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3367200/neither-tariffs-nor-export-controls-will-stop-chinas-industrial-engine?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-16T01:30:05.000Z",
+      "author": "Ziang Liu",
+      "excerpt": "The first “China shock” was fairly easy to understand. Beginning in the 1990s, cheap Chinese goods poured into global markets, displacing large parts of lower-end manufacturing across the world.",
+      "section": "cn-news",
+      "rankScore": 0.488628
+    },
+    {
+      "id": "c5d10e0d53c69843",
+      "title": "两市融资余额增加6.74亿元",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54VzFBVFMtakpiYzNDR1ZGYlV5STRYNVRjWm1jcEswN3ZJUEZxQVBya0V4S2VCcFZ1OXNFWXBwWmpnam5ZRTFRN1Y3aVA2UllsLXlwZGpTVW1VbmktVUp1UHFZbUpOZw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-16T00:51:08.000Z",
+      "excerpt": "两市融资余额增加6.74亿元 东方财富",
+      "section": "cn-news",
+      "rankScore": 0.481054
+    },
+    {
+      "id": "314bc5bc5f23e56e",
+      "title": "中國鋼鐵業不好過 45家公司連署控產降庫存",
+      "url": "https://www.cna.com.tw/news/acn/202609150360.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-15T15:07:30.000Z",
+      "excerpt": "（中央社記者馮昭上海15日電）中國鋼鐵業過度競爭，由中國寶武、鞍鋼、河鋼、首鋼等45家鋼鐵集團發起，中國鋼鐵工業協會（中鋼協）今天發布倡議書，指出當前行業「強供給、弱需求，低價格、弱盈利」困局。",
+      "section": "cn-news",
+      "rankScore": 0.42008
+    },
+    {
+      "id": "e8757207062882d2",
+      "title": "光影为桥 精品迭出 “北京大视听”让文化遗产活起来",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTjBBZUtXRHFsZHBINTJhZEkzc1ZHR3R2ZFp1SWtYSTN2NVpOOEptZE40VXRJSFBHeDFpcXNqQUNaNElab19GZ01kQ0Y3NkRmaFdxLWhVZE9QRVpLSjlwRzhZYkJQS3pnNFhQVERndnVDN3JtU2RFOHRPWU9DUXNfc254aw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-16T01:16:27.000Z",
+      "excerpt": "光影为桥 精品迭出 “北京大视听”让文化遗产活起来 新华网",
+      "section": "cn-news",
+      "rankScore": 0.416551
+    },
+    {
+      "id": "df3e7d0cc7979e2d",
+      "title": "平陆运河将于今日通航 “黄金水道”重塑西南物流新格局",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697186.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-16T01:26:58.000Z",
+      "excerpt": "全长134.2公里、总投资约727亿元的西南“黄金水道”——平陆运河将于今天通航。平路运河不仅将改写广西无江海直航的历史，更将深刻重塑我国西南地区的物流与经济版图。",
+      "section": "cn-life",
+      "rankScore": 0.836608
+    },
+    {
+      "id": "f602c5a5c05ac088",
+      "title": "民生健康：融资净买入76.99万元，融资余额9202.44万元",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TVzhlLS02M1JPaFV1MjZXUEU1NnpCNk1aSzRpdERUSUZDczFlMEp1N0luZTJMbDJ3Vl9JNk5LdC0tYkZvemJrWG1IODRObjd5Zkk1QmFLc193TjduN1NEbnRtR0V3QQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-16T01:25:23.000Z",
+      "excerpt": "民生健康：融资净买入76.99万元，融资余额9202.44万元 东方财富",
+      "section": "cn-life",
+      "rankScore": 0.62706
+    },
+    {
+      "id": "0926d653247731c9",
+      "title": "筑牢乡村“防火墙” ：王官屯村开展应急消防实操演练",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11aTFmTERuV2pyRmlOa0N1cFdWM1NiX2tiaFR3cU5BMXZ6akhTS1FPdEFPckJMM3JPZnE4b09WT3BndHV2UnRGSlZiblhpTmcteV8wOVdfdTZrVzg?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-16T00:59:41.000Z",
+      "excerpt": "筑牢乡村“防火墙” ：王官屯村开展应急消防实操演练 首都文明网",
+      "section": "cn-life",
+      "rankScore": 0.620635
+    },
+    {
+      "id": "6e49cb8380c22b4a",
+      "title": "7万平方米赛场正展露最好姿态选手熟悉场地、专家验收封场、竞赛实施与评分、各类竞赛会议有序落地场地搭建将在18日完工",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOG9yaGgzbF9heVZjdEF3M3lDd19saUpJTGFUU19SeFp0WU40S2NoREp3T042dGFpQlg4dTNpc0ppZF9xbHNhV3lXbF9EWnRvWngzb3hFRWVOWHNwNE1sTWNDcDYzcHNXYnlGSjZsMXd2dU42SUlMT2ZUTUh6bVdZUGxfb2Z2SXVK?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-16T01:35:20.000Z",
+      "excerpt": "7万平方米赛场正展露最好姿态选手熟悉场地、专家验收封场、竞赛实施与评分、各类竞赛会议有序落地场地搭建将在18日完工 上海市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.559598
+    },
+    {
+      "id": "07a61d64a1560cf6",
+      "title": "柑橘黄龙病病原菌（Candidatus Liberibacter asiaticus）及其伴生黄杆菌（Flavobacterium）菌株CGRL1和CGRL2将脱落酸代谢为脱氢vomifoliol的研究",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lZ2J0alJBMUJBb1hXd2YxRXYySno2eGtHNU54LU5ONzFDNk1weXVWTlJLYy1XWFowT0JZZk1obVFpaFpyM25hYlE5emYtTEszbGt0Ylk2T29yMFhmM1FtbjRHSVg0WHJ1a2J3aQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-16T00:00:15.000Z",
+      "excerpt": "柑橘黄龙病病原菌（Candidatus Liberibacter asiaticus）及其伴生黄杆菌（Flavobacterium）菌株CGRL1和CGRL2将脱落酸代谢为脱氢vomifoliol的研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.47116
+    },
+    {
+      "id": "5bffa98e17bff058",
+      "title": "中国生物制药：TQH2722注射液新药上市申请获得受理",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUMXhlZnFZb3Fjdmx3VHZZVlE2Wm1NeE0xSGR2aW00ZnBXb2YwOEFoZWtIcmtDMHRkOGNHcXhxN0ZlQ0tDdlNNUi1PcDAweUZ6WkRfWkQ5aHJVN0RZY1M3NVBRcTgyNFFtdi1WZ0FTWmswZ25oQmZyUw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-15T23:57:28.000Z",
+      "excerpt": "中国生物制药：TQH2722注射液新药上市申请获得受理 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.470619
+    },
+    {
+      "id": "acfc81246da672b8",
+      "title": "以高水平制度供给 推动中外合作办学提质增效",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iRXd3Tm9yRGRGVDljeFVyamtxdUhTcTVNR0dVaXpqeWVTaEhWMU4tc3pIa3FIdUVNQ0xIaDk5WGFTMDZjaXNwa2RTWjFXNmFnOVpFZ3JVQ1A3TGl6VVdjckJ4ak5VeGhwYmhv?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-16T01:28:43.000Z",
+      "excerpt": "以高水平制度供给 推动中外合作办学提质增效 中国教育新闻网",
+      "section": "cn-life",
+      "rankScore": 0.418596
+    },
+    {
+      "id": "101aa91525b01c10",
+      "title": "宇宙，在此刻变得完整｜《无人深空》「宇宙」大更新",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zMGR5RjV5RXkxc0h3SFp4c3lobXFHbTRYUFhabXpMOTltamo5bWlVemdVV0pqdndTS0tJZ2hjWG5YNXFIbV9LNkExSmFkcVE?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-15T11:31:26.000Z",
+      "excerpt": "宇宙，在此刻变得完整｜《无人深空》「宇宙」大更新 机核GCORES",
+      "section": "cn-life",
+      "rankScore": 0.23254
+    }
+  ],
+  "warnings": []
+}
