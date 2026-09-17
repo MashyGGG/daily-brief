@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-17",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-17T16:56:37.286Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "9ef58b592b8bbef1",
+      "title": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-17T16:56:37.286Z",
+      "score": 1350,
+      "excerpt": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "section": "tech",
+      "rankScore": 1.174286
+    },
+    {
+      "id": "98f8979600fed918",
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "url": "https://news.ycombinator.com/item?id=49738879",
+      "source": "hn-front",
+      "publishedAt": "2026-09-17T10:44:49.000Z",
+      "score": 286,
+      "author": "jakemanger",
+      "excerpt": "286 points · 225 comments · https://news.ycombinator.com/item?id=49738879",
+      "section": "tech",
+      "rankScore": 0.91554
+    },
+    {
+      "id": "cd25aaa0b5ba58fc",
+      "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
+      "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+      "source": "google-developers",
+      "publishedAt": "2026-09-17T16:56:37.286Z",
+      "excerpt": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live requests.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "d7f48da11bbd35ef",
+      "title": "Migrations at Scale: Changing the Application Engine at 30,000 Feet",
+      "url": "https://blog.bytebytego.com/p/migrations-at-scale-changing-the",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-17T15:31:04.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we will look at how migrations work at scale and the key strategies that can help make it as efficient as possible.",
+      "section": "tech",
+      "rankScore": 0.725186
+    },
+    {
+      "id": "51fb55c04997d2f3",
+      "title": "Ubuntu 26 generally available and latest migration",
+      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-17T16:27:16.000Z",
+      "author": "Allison",
+      "excerpt": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…",
+      "section": "tech",
+      "rankScore": 0.686022
+    },
+    {
+      "id": "8d96972f58236ec0",
+      "title": "Labeled matches: why is this not in every regex engine?",
+      "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-17T16:44:39.000Z",
+      "author": "iev.ee by iev",
+      "section": "tech",
+      "rankScore": 0.676942
+    },
+    {
+      "id": "ef61a460f65403ea",
+      "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+      "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "source": "latent-space",
+      "publishedAt": "2026-09-17T07:28:25.000Z",
+      "excerpt": "A dash of cold water keeps the foomers away.",
+      "section": "ai",
+      "rankScore": 0.472369
+    },
+    {
+      "id": "40afc56873f59675",
+      "title": "美团智播——数字人直播技术创新与实践",
+      "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-17T16:56:37.286Z",
+      "excerpt": "美团智播围绕 AI 主播「长得真→动得准→演得活→卖得好」构建了完整技术闭环：真人 1:1 复刻、换装换背景身份不跑偏；动作自然流畅，告别「木偶戏」；边说边动、音画一致；背后还有推理加速技术支撑万路并发开播，让普惠落地成为可能。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "a49cffb72c2a64d4",
+      "title": "微塑料像特洛伊木马一样传播有毒物质",
+      "url": "https://www.solidot.org/story?sid=85412",
+      "source": "solidot",
+      "publishedAt": "2026-09-17T16:02:00.000Z",
+      "excerpt": "欧洲的一项研究发现，微塑料会像特洛伊木马一样在土壤中传播污染物、农药和细菌。研究人员在 11 个国家测试了 227 块农田，都发现了微塑料。研究人员还发现，微塑料可能会与农药兽药发生相互作用。瑞士的一项研究发现，轮胎磨损颗粒含量最高的农田，其有毒化学物质和金属的含量也最高。微塑料的表面能为微生物创造新的栖息地，该表面被称为塑料圈（plastisphere）。相比对照组，塑料圈内的抗生素抗性基因有所增加，农药则进一步放大了这一效应。研究人员表示，微塑料颗粒越小，越容易吸附污染物、微生物和 DNA，从而产生一种“特洛伊木马效应”，可能导致病原体和抗生素抗性基因的扩散加剧。",
+      "section": "cn-tech",
+      "rankScore": 0.741389
+    },
+    {
+      "id": "493afece559a648e",
+      "title": "最近突然发现，程序员和美团骑手还真是绝配",
+      "url": "https://www.v2ex.com/t/1242771",
+      "source": "v2ex",
+      "publishedAt": "2026-09-17T09:37:11.000Z",
+      "score": 15,
+      "author": "fingerxie",
+      "excerpt": "vibe coding 过程中还能跑几单 （🤣）",
+      "section": "cn-tech",
+      "rankScore": 0.684669
+    },
+    {
+      "id": "85d924a7e9d120fd",
+      "title": "9 月 20 日杭州｜FDE 在现场：从 AI 组织进化到客户现场，企业 AI 到底卡在哪里？",
+      "url": "https://www.infoq.cn/article/Yz8Ad81rFlGEYMKVsKRJ?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-17T16:00:18.000Z",
+      "author": "模力工场",
+      "section": "cn-tech",
+      "rankScore": 0.67318
+    },
+    {
+      "id": "8cd9ca367f74e90c",
+      "title": "CSS rex、rlh、ric等根家族单位简介",
+      "url": "https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/",
+      "source": "zhangxinxu",
+      "publishedAt": "2026-09-17T11:42:29.000Z",
+      "author": "张 鑫旭",
+      "excerpt": "除了rem这个根元素单位外，最近几年，各大浏览器又相继支持了rcap、rex、rch、ric、rlh等根字体单位，不知道你认识几个？",
+      "section": "cn-tech",
+      "rankScore": 0.660493
+    },
+    {
+      "id": "2010fbee4c47b90f",
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-17T12:30:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution.",
+      "section": "security",
+      "rankScore": 0.573037
+    },
+    {
+      "id": "04c3975850a7c18e",
+      "title": "Schneider Electric NetBotz 5 750/755",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-05",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Schneider Electric is aware of multiple vulnerabilities in its NetBotz 5 – 750/755 products.The NetBotz 5 – 750/755 products are security and environmental monitors providing temperature, humidity, leak, smoke, vibration, door contact, and video monitoring capabilities.",
+      "section": "security",
+      "rankScore": 0.558752
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
