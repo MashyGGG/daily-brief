@@ -1,0 +1,193 @@
+{
+  "date": "2026-09-17",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-17T01:22:23.015Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "49da454c4bb23a26",
+      "title": "Hackers Got Inside a Flock Camera",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-16T13:18:47.000Z",
+      "score": 466,
+      "author": "driverdan",
+      "excerpt": "466 points · 217 comments · https://news.ycombinator.com/item?id=49726586",
+      "section": "tech",
+      "rankScore": 0.995367
+    },
+    {
+      "id": "bdf9246751416f12",
+      "title": "Fragments: September 16",
+      "url": "https://martinfowler.com/fragments/2026-09-16.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-09-16T20:05:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options: After the Hugging Face and Wiki attacks OpenAI were still unable to review their previous logs and determine that they had…",
+      "section": "tech",
+      "rankScore": 0.734205
+    },
+    {
+      "id": "1504ea8fe6e69deb",
+      "title": "Automate SSO authorization for classic PATs and SSH keys",
+      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-16T20:20:16.000Z",
+      "author": "Allison",
+      "excerpt": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.…",
+      "section": "tech",
+      "rankScore": 0.616079
+    },
+    {
+      "id": "1f26ad6c6c923574",
+      "title": "maglev consistent hashing in rust",
+      "url": "https://andreashohmann.com/maglev-consistent-hashing-in-rust/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-16T20:28:26.000Z",
+      "author": "andreashohmann.com via ReinierMaas",
+      "section": "tech",
+      "rankScore": 0.556512
+    },
+    {
+      "id": "0f56171e48c8c6e4",
+      "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+      "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+      "source": "cloudflare",
+      "publishedAt": "2026-09-16T20:06:17.000Z",
+      "excerpt": "A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation.",
+      "section": "tech",
+      "rankScore": 0.550975
+    },
+    {
+      "id": "4c33fa1264442281",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "source": "verge",
+      "publishedAt": "2026-09-16T23:40:00.000Z",
+      "author": "Jay Peters",
+      "excerpt": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information.",
+      "section": "tech",
+      "rankScore": 0.470092
+    },
+    {
+      "id": "ee59dd67cf6feeb2",
+      "title": "datasette 1.0a40",
+      "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-16T23:51:43.000Z",
+      "excerpt": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method.",
+      "section": "ai",
+      "rankScore": 0.809778
+    },
+    {
+      "id": "107b0dba10a48bb3",
+      "title": "datasette 0.65.5",
+      "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-16T23:51:08.000Z",
+      "excerpt": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette",
+      "section": "ai",
+      "rankScore": 0.809583
+    },
+    {
+      "id": "94a3a4cab60a43ef",
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-16T18:09:49.000Z",
+      "excerpt": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude.",
+      "section": "ai",
+      "rankScore": 0.695811
+    },
+    {
+      "id": "fdf1fd9795fa79c7",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "openai",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "excerpt": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "section": "ai",
+      "rankScore": 0.543161
+    },
+    {
+      "id": "20251ce7b7037bc9",
+      "title": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
+      "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-17T01:22:23.015Z",
+      "excerpt": "本文精选了美团技术团队被 KDD 2026 收录的 8 篇论文进行分享，这些论文覆盖了推荐大模型、生成与奖励建模框架、智能体搜索、Transformer 框架、元泛化框架等技术领域。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "bf69103bed6fa858",
+      "title": "刚刚，Claude变唯一入口！超级「办公全家桶」硬刚微软",
+      "url": "https://www.36kr.com/p/3986702306294536",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-16T23:41:15.000Z",
+      "author": "新智元",
+      "excerpt": "今天起，Claude正式完成史诗级合体！ Anthropic刚刚宣布，Claude Cowork和Chat全面合并，以后入口就剩一个「统一的Claude」。 从此，所有人再也不用纠结，这事到底该发给Chat，还是扔给Cowork？ 随口提个小问题，找它；要写一份磨几个小时的重磅报告，直接扔给它。 只需要打开新版Claude，即可用上Cowork、Design、Docs、Slides的全部能力。 Claude「办公全家桶」，这回终于彻底打通了。 最重要的是，之前攒下的历史对话、Skill和连接器这些也全都在，一点没丢。 拿到任务后，Claude会自行判断任务复杂度，调用对应能力。",
+      "section": "cn-tech",
+      "rankScore": 0.604717
+    },
+    {
+      "id": "e5e024726adfa6db",
+      "title": "亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注",
+      "url": "https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-16T19:20:27.000Z",
+      "author": "王一鹏",
+      "section": "cn-tech",
+      "rankScore": 0.599463
+    },
+    {
+      "id": "407df2892e9375ce",
+      "title": "PS2 Fat 使用的安全芯片在时隔 26 年被破解",
+      "url": "https://www.solidot.org/story?sid=85399",
+      "source": "solidot",
+      "publishedAt": "2026-09-16T15:54:21.000Z",
+      "excerpt": "1999 年初代 PS2 Fat 游戏机使用的安全芯片 CXP102064 MechaCon 在时隔 26 年被爱好者破解。加拿大复古软硬件爱好者 DiscoStarslayer 通过社交媒体称其花了四年时间破解了其秘密。DiscoStarslayer 采用的逆向工程方法包括：利用化学方法对 CXP102064 芯片进行开盖，利用显微镜和光学数据提取技术分析芯片电路。期间发现了一个漏洞利用方法，可通过软件提取芯片数据。MechaCon 芯片也被用于当时推出的几款街机，包括 Namco System 246 和 System 256 以及 Konami Python 1 等。",
+      "section": "cn-tech",
+      "rankScore": 0.596434
+    },
+    {
+      "id": "2e4d8a91cbcb9c85",
+      "title": "Bun",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hc3MwS0FJZzBoZHIzSlNoQ1lmSkxEVWNZdTBpYU5EQlM3UFpHc2d2Q3NZX1A0NUd6WGx4RWtfMUpBSVBpcHJoR0VlMWRJa1RoSHctYWdfd0kta29L?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-16T19:54:53.000Z",
+      "excerpt": "Bun 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.426319
+    },
+    {
+      "id": "0f6e4ae07dcad3de",
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "source": "krebs",
+      "publishedAt": "2026-09-16T18:14:22.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online.",
+      "section": "security",
+      "rankScore": 0.639217
+    },
+    {
+      "id": "e78736aad997d95e",
+      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-16T14:36:44.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claude in Chrome extension.",
+      "section": "security",
+      "rankScore": 0.520653
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
