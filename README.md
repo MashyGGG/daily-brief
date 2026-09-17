@@ -4,10 +4,10 @@ Aggregate international tech and world news into briefs, push them to WeCom and 
 each issue into this repo's default branch. Run by GitHub Actions, on a schedule generated from a
 config file.
 
-Four issues a day, two kinds: a **tech brief** at 07:10 and 20:10 (WeCom + mail), and a **news
-edition** at 07:40 and 19:10 that carries the three news sections only, to mail only
+Four issues a day, two kinds: a **tech brief** at 06:10 and 20:10 (WeCom + mail), and a **news
+edition** at 06:40 and 19:10 that carries the three news sections only, to mail only
 ([docs/NEWS-EDITION.md](docs/NEWS-EDITION.md) records why they are separate issues rather than
-extra sections). A weekly review goes out Monday 08:20.
+extra sections). A weekly review goes out Monday 07:20.
 
 - **What gets in** → `brief.config.yaml` (`sources` + `sections`)
 - **Who receives it** → `brief.config.yaml` (`recipients`), plus the `RECIPIENTS_OVERRIDE_JSON` secret for private ones
@@ -263,7 +263,7 @@ The full inventory — every source, its measured cadence, and the ones delibera
 Feeds glue fixed noise onto every entry: `点击查看原文`, a bare `Comments`, `The post … appeared
 first on The GitHub Blog`, a ` - thepaper.cn` suffix, a newsletter pitch in front of the actual
 sentence. `stripPatterns` is a list of case-insensitive regexes removed from the **title and the
-excerpt** before anything else runs, and an invalid regex fails config load rather than the 07:10
+excerpt** before anything else runs, and an invalid regex fails config load rather than the 06:10
 run.
 
 ```yaml
@@ -323,7 +323,7 @@ the previous vendor's model name answers 404 every morning. Both default to what
 carry the swap. The model that actually ran is recorded per item in `summaryMeta.model` and on the run-summary row, so
 an archive from before a swap still says which model wrote it. Two things to re-check after
 moving vendor: the endpoint must accept `max_tokens` and `temperature: 0`, and the prompt
-asks for JSON — verify with `pnpm brief --dry-run` before letting it run at 07:10.
+asks for JSON — verify with `pnpm brief --dry-run` before letting it run at 06:10.
 
 `LLM_CONCURRENCY` rides along because a rate limit belongs to the key, not to the config: a
 free tier at roughly 1 QPS answers `concurrency: 4` with a wall of 429s. That makes an
@@ -452,7 +452,7 @@ do not: there, a reprint is a page you want.
 It is configured under a top-level `weekly:` block rather than as a `schedules[]` entry — a schedule
 means "go and fetch", and the lookback window, the cross-day dedupe and the archive write all exist
 to serve that. `weekly.recipients` defaults to nobody and must be named explicitly: a weekly review
-is a read, not something that should land on a phone at 08:20 on a Monday. Its cron is generated
+is a read, not something that should land on a phone at 07:20 on a Monday. Its cron is generated
 from `weekday` + `time` like every other one, so `pnpm brief:schedule` after changing either.
 
 ### Iterate on the prompt without waiting for tomorrow
@@ -491,12 +491,10 @@ env var or a repo variable. So the config stays the source of truth and the cron
 it. `pnpm check:schedule` fails CI if you edit the time and forget to regenerate, which is the
 difference between finding out at commit time and finding out on the morning nothing arrives.
 
-The trigger is `07:10`, and that number is doing two jobs. GitHub dispatches this repo's `schedule`
-events 23–25 minutes late in that slot, so the brief lands by roughly 07:35 — early enough that the
-summary stages in [docs/LLM-SUMMARY.md](docs/LLM-SUMMARY.md) can add their time without pushing
-delivery past breakfast. And `:10` is deliberate: `:00` and `:30` are the two most congested minutes
-in GitHub's scheduler, and the old cron sat on `:00`. `lookbackHours` covers the whole window either
-way, so a skipped run loses no content.
+The morning trigger is `06:10`. It moved one hour earlier on 2026-09-17; `:10` remains deliberate
+because `:00` and `:30` are the two most congested minutes in GitHub's scheduler. The historical
+measurements below describe the old 23:xx UTC slots; the new 22:xx UTC dispatch delay still needs
+measurement. `lookbackHours` covers the whole window either way, so a skipped run loses no content.
 
 Those numbers are measured, not estimated — 28 scheduled runs pulled from the Actions API on
 2026-08-28, written up in [docs/SCHEDULE-DRIFT.md](docs/SCHEDULE-DRIFT.md). Two things in there are
@@ -517,15 +515,15 @@ Five issues go out, listed in the order they arrive. Times are `Asia/Shanghai` (
 
 | id        | time (CST) | cron (UTC)    | frequency | `lookbackHours` | sections                                  | recipients |
 | --------- | ---------- | ------------- | --------- | --------------: | ----------------------------------------- | ---------- |
-| `morning` | 07:10      | `10 23 * * *` | daily     |              24 | tech · ai · cn-tech · security · releases | all        |
-| `news-am` | 07:40      | `40 23 * * *` | daily     |              24 | news · cn-news · cn-life                  | mail only  |
-| `news-pm` | 19:10      | `10 11 * * *` | daily     |              12 | news · cn-news · cn-life                  | mail only  |
-| `evening` | 20:10      | `10 12 * * *` | daily     |              13 | tech · ai · cn-tech · security · releases | all        |
-| `weekly`  | Mon 08:20  | `20 0 * * 1`  | Mondays   |      `days: 7`¹ | tech · ai · cn-tech · security · releases | mail only  |
+| `morning` | 06:10      | `10 22 * * *` | daily     |              24 | tech · ai · cn-tech · security · releases | all        |
+| `news-am` | 06:40      | `40 22 * * *` | daily     |              24 | news · cn-news · cn-life                  | mail only  |
+| `news-pm` | 19:10      | `10 11 * * *` | daily     |              13 | news · cn-news · cn-life                  | mail only  |
+| `evening` | 20:10      | `10 12 * * *` | daily     |              14 | tech · ai · cn-tech · security · releases | all        |
+| `weekly`  | Mon 07:20  | `20 23 * * 0` | Mondays   |      `days: 7`¹ | tech · ai · cn-tech · security · releases | mail only  |
 
 ¹ `weekly` reads the archive rather than fetching, so it takes `days` instead of `lookbackHours`.
-The `morning` and `news-am` crons carry a `(previous UTC day)` annotation in the workflow: 07:10 and
-07:40 CST are 23:10 and 23:40 UTC the day before.
+The `morning` and `news-am` crons carry a `(previous UTC day)` annotation in the workflow: 06:10 and
+06:40 CST are 22:10 and 22:40 UTC the day before.
 
 Four of the five are defined under `schedules[]` in
 [`brief.config.yaml`](brief.config.yaml); `weekly` has its own top-level `weekly:` block because it
@@ -553,14 +551,14 @@ hour would be better.
 
 **Why these hours.** All five now fall inside DeepSeek's off-peak window (peak is UTC 01:00–04:00
 and 06:00–10:00, weekdays only — 09:00–12:00 and 14:00–18:00 CST), so LLM tokens bill at half
-price. `news-am` moved from 09:10 to 07:40 on 2026-08-26 for reading habits; the discount came
+price. `news-am` moved from 09:10 to 07:40 on 2026-08-26, then to 06:40 on 2026-09-17; the discount came
 along for free. See [docs/LLM-VENDOR-CHOICE.md](docs/LLM-VENDOR-CHOICE.md) §4.1 before changing a
 time — that is the property a cron edit silently breaks.
 
-**Why the windows differ.** `evening` takes `lookbackHours: 13` rather than 24 — cross-day dedupe
+**Why the windows differ.** `evening` takes `lookbackHours: 14` rather than 24 — cross-day dedupe
 would drop this morning's items anyway, but the shorter window means they are never fetched or
-summarised twice in the first place. `news-pm` takes 12 for the same reason, which reaches back to
-07:10 and so covers the 07:40 issue with half an hour to spare; `news-am` keeps 24 so that a
+summarised twice in the first place. `news-pm` takes 13 for the same reason, which reaches back to
+06:10 and so covers the 06:40 issue with half an hour to spare; `news-am` keeps 24 so that a
 skipped evening run still leaves the next morning covering the full day.
 
 `morning` and `news-am` are only 30 minutes apart, which is safe: their section whitelists do not
@@ -573,11 +571,11 @@ the brief finishes:
 
 | id       | time (CST) | cron (UTC)    | frequency | reads                            |
 | -------- | ---------- | ------------- | --------- | -------------------------------- |
-| `daily`  | 21:30      | `30 13 * * *` | daily     | that day's `morning` + `evening` |
-| `weekly` | Mon 10:30  | `30 2 * * 1`  | Mondays   | that Monday's `weekly` issue     |
+| `daily`  | 20:30      | `30 12 * * *` | daily     | that day's `morning` + `evening` |
+| `weekly` | Mon 08:30  | `30 0 * * 1`  | Mondays   | that Monday's `weekly` issue     |
 
-`daily` must sit after `evening` at 20:10 — at 09:30 the day's evening issue does not exist yet,
-and merging the two slots would silently degrade to half a brief.
+`daily` sits after `evening` at 20:10. Its 20-minute buffer assumes the external timer is punctual;
+if the archive is late, the publish catch-up path handles it on a later run.
 
 The two lists of sections are whitelists on both sides, not one whitelist and one catch-all. That
 is deliberate: `sections: ['*']` on the tech issues would fetch every news source four times a
@@ -663,7 +661,7 @@ Optional, off until you configure it. The brief keeps working exactly as before 
 this is set up or not — publishing is a separate workflow with its own cron, its own
 alert wording, and its own secrets. Full design: [docs/PUBLISH.md](docs/PUBLISH.md).
 
-**What it does.** At a fixed local time (`daily` 09:30, `weekly` Mon 10:30) it reads the
+**What it does.** At a fixed local time (`daily` 20:30, `weekly` Mon 08:30) it reads the
 archive — never the network, never the model — rebuilds one article out of a window of
 archived issues, and posts it. Two rules shape the content:
 

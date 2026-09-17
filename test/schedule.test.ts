@@ -248,15 +248,15 @@ describe('the committed workflow matches the committed config', () => {
   })
 })
 
-describe('M0 — the trigger moved to 07:10 to absorb the LLM stages', () => {
-  it('07:10 Asia/Shanghai runs at 23:10 UTC on the previous day', () => {
-    const parts = localTimeToUtcCron('07:10', 'Asia/Shanghai')
-    expect(parts.cron).toBe('10 23 * * *')
+describe('the morning trigger runs at 06:10 Asia/Shanghai', () => {
+  it('06:10 Asia/Shanghai runs at 22:10 UTC on the previous day', () => {
+    const parts = localTimeToUtcCron('06:10', 'Asia/Shanghai')
+    expect(parts.cron).toBe('10 22 * * *')
     expect(parts.dayShift).toBe(-1)
   })
 
   it('lands on a minute that is neither :00 nor :30 — those are the crowded ones', () => {
-    const minute = Number(localTimeToUtcCron('07:10', 'Asia/Shanghai').cron.split(' ')[0])
+    const minute = Number(localTimeToUtcCron('06:10', 'Asia/Shanghai').cron.split(' ')[0])
     expect(minute % 30).not.toBe(0)
   })
 
@@ -264,9 +264,9 @@ describe('M0 — the trigger moved to 07:10 to absorb the LLM stages', () => {
     const cfg = config(`timezone: Asia/Shanghai
 schedules:
   - id: morning
-    time: '07:10'
+    time: '06:10'
 `)
-    expect(findScheduleByCron(cfg, '10 23 * * *').id).toBe('morning')
+    expect(findScheduleByCron(cfg, '10 22 * * *').id).toBe('morning')
   })
 })
 

@@ -29,18 +29,14 @@ title: 每日早报
 
 schedules:
   - id: morning
-    # 07:10 CST = 23:10 UTC（前一日），生成的 cron 是 `10 23 * * *`。
-    # 提前 50 分钟有两个原因，缺一不可：
+    # 06:10 CST = 22:10 UTC（前一日），生成的 cron 是 `10 22 * * *`。
+    # 2026-09-17 按需求从 07:10 提前一小时；新 UTC 时段的派发漂移尚待实测。
+    # 保留 :10 有两个原因，缺一不可：
     #   1. M2 的抓正文 + LLM 摘要会给运行时长净增 1–3 分钟；
     #   2. `:00` 和 `:30` 是全球 Actions 定时任务最拥挤的两个分钟，排队漂移最大。
-    # 时间账（2026-08-28 用 Actions API 实测 28 次定时运行后重写，原估值两项都不准）：
-    # 07:10 触发 + GitHub 派发漂移 23–25min + 运行 <1min ⇒ 常态 07:33–07:35 送达。
-    # 「运行 3–5min」是高估：抓正文 + LLM 摘要实测全程 0.3–0.7min。
-    # 「排队 0–20min」是低估，而且真正的变量不是分钟而是 UTC 小时 —— 23:xx UTC 是
-    # 本仓所有档期里最空的一档，这也是 07:10 这个时间唯一值得守住的理由。
-    # 详见 docs/SCHEDULE-DRIFT.md。
+    # 旧 23:10 UTC 档期的历史漂移数据见 docs/SCHEDULE-DRIFT.md，不能直接外推到 22:10。
     # 改这一行之后必须跑 `pnpm brief:schedule`，否则 `pnpm check:schedule` 会让 CI 红。
-    time: '07:10'
+    time: '06:10'
     lookbackHours: 24 # a skipped run loses nothing: the next one still sees the same window
     # ★ 白名单（决策 4）：新闻已经独立成 news-am / news-pm 两期，技术早晚报回归纯技术。
     # 不改则新闻栏一天被抓四遍。releases 当前 enabled: false，写进来只是为了将来
@@ -52,15 +48,15 @@ schedules:
   # 晚间一期：内容与早报完全相同（全部 sections、全部 recipients），只是时间不同。
   # 20:10 CST = 12:10 UTC 当天，生成的 cron 是 `10 12 * * *`。
   # 时间账（同上，实测重写）：20:10 触发 + 派发漂移 48–64min + 运行 <1min
-  # ⇒ 常态 20:58–21:14 送达。这是所有日常档期里最差的一档：12:10 UTC 比 23:10 UTC
-  # 拥挤得多，而避开 `:00` 这个分钟并没有救回来 —— 主导变量是小时，不是分钟。
+  # ⇒ 常态 20:58–21:14 送达。这是历史样本中所有日常档期里最差的一档：12:10 UTC
+  # 比旧的 23:10 UTC 拥挤得多，而避开 `:00` 这个分钟并没有救回来。
   # 没有跟着挪走，是因为只有 5 天数据，挪到哪个小时会更好并不成立。
-  # lookbackHours 13 = 从早报触发的 07:10 往前留一点余量，正好覆盖「早上发完之后
+  # lookbackHours 14 = 上溯到早报触发的 06:10，正好覆盖「早上发完之后
   # 新出的东西」。真有重叠也不会重复推送：跨天去重会读到当天 morning 那份归档 JSON
   # （archive.dedupeLookbackDays），今早已经发过的条目在这里会被丢掉。
   - id: evening
     time: '20:10'
-    lookbackHours: 13
+    lookbackHours: 14
     sections: [tech, ai, cn-tech, security, releases] # 同 morning，理由见上
     recipients: ['*']
     enabled: true
@@ -69,16 +65,15 @@ schedules:
   # 新闻从技术早晚报里独立出来，自己占一期：只跑 news / cn-news / cn-life 三栏，
   # 只发邮件。好处是新闻自带一套席位，不与技术栏抢 limit；代价是每天多两次 Actions。
   #
-  # 07:40 CST = 23:40 UTC（前一日），生成的 cron 是 `40 23 * * *`。
-  # 这次搬迁被实测证实是对的：旧的 09:10 CST = 01:10 UTC 实测迟到 72–88min，
-  # 是本仓最差的一档；搬到 23:xx UTC 之后，同一档期的漂移量降到 morning 的水平。
-  # 与 morning（07:10）只隔 30 分钟，这是安全的：两期栏目完全不相交（技术 vs 新闻），
+  # 06:40 CST = 22:40 UTC（前一日），生成的 cron 是 `40 22 * * *`。
+  # 2026-09-17 按需求从 07:40 提前一小时；新 UTC 时段的派发漂移尚待实测。
+  # 与 morning（06:10）只隔 30 分钟，这是安全的：两期栏目完全不相交（技术 vs 新闻），
   # 不存在互相去重；workflow 的 concurrency 组是排队而非取消，真撞上了只会晚发不会丢。
-  # 顺带白捡半价：DeepSeek 峰时 = 工作日 09:00–12:00 / 14:00–18:00 CST，07:40 在谷时，
+  # 顺带白捡半价：DeepSeek 峰时 = 工作日 09:00–12:00 / 14:00–18:00 CST，06:40 在谷时，
   # 而原来的 09:10 正好踩在峰时里（docs/LLM-VENDOR-CHOICE.md §4.1）。
   # lookbackHours 24：晚间那期若被跳过，早间这期仍然兜得住一整天。
   - id: news-am
-    time: '07:40'
+    time: '06:40'
     lookbackHours: 24
     sections: [news, cn-news, cn-life]
     # 只发邮件（决策 3）：企微单条 4096 字节装不下 30 条要闻。企微哪天不用了，
@@ -87,13 +82,13 @@ schedules:
     enabled: true
 
   # 19:10 CST = 11:10 UTC 当天，生成的 cron 是 `10 11 * * *`。
-  # lookbackHours 12 上溯到 07:10，正好盖住 07:40 的 news-am 并多留 30 分钟，
+  # lookbackHours 13 上溯到 06:10，正好盖住 06:40 的 news-am 并多留 30 分钟，
   # 余量吸收 Actions 0–30 分钟的排队漂移 —— 两期窗口之间不留缝。
   # 与早间那期窗口重叠不会重复推送：跨天去重会读到当天 news-am 的归档 JSON
   # （archive.dedupeLookbackDays），早上已经发过的条目在这里会被丢掉。
   - id: news-pm
     time: '19:10'
-    lookbackHours: 12
+    lookbackHours: 13
     sections: [news, cn-news, cn-life]
     recipients: [me-mail]
     enabled: true
@@ -1120,11 +1115,9 @@ weekly:
   enabled: true
   title: 每周回顾
   weekday: 1 # ISO：1=周一 … 7=周日
-  # 08:20 CST = 00:20 UTC 当天，生成的 cron 是 `20 0 * * 1`。
-  # 原本是 08:00，也就是 `0 0 * * 1` —— UTC 整点，GitHub 文档点名的最拥挤时刻。
-  # 实测 2026-08-24 那次周报晚了 56 分钟，是所有档期里第二差的。往后挪 20 分钟
-  # 让出整点，送达时间几乎不变。度量口径见 docs/SCHEDULE-DRIFT.md。
-  time: '08:20'
+  # 07:20 CST = 前一日 23:20 UTC，生成的 cron 是 `20 23 * * 0`。
+  # 2026-09-17 按需求从周一 08:20 提前一小时；新 UTC 时段的派发漂移尚待实测。
+  time: '07:20'
   days: 7 # 往回读 7 天（含当天）
   limitPerSection: 5 # 每栏最多 5 条；周报是回顾，不是第二份归档
   # ★ 白名单，与 schedules 里的那两处同源（决策 4）：不写死就会把 7 天的新闻卷进来，
@@ -1184,9 +1177,9 @@ publish:
 
   schedules:
     - id: daily
-      # 必须晚于晚报 20:10：窗口右边界就是发布日当天，09:30 那一刻当天的 evening
-      # 还不存在，合并两期就退化成只发早报一半。1h20m 缓冲吸收 Actions 0–30 分钟漂移。
-      time: '21:30'
+      # 晚于晚报 20:10；外部定时器准点时留 20 分钟生成缓冲。若 Actions 严重漂移导致
+      # evening 尚未归档，本次会跳过，并由 catchUpDays 在后续运行补发。
+      time: '20:30'
       # ★ 级别 1：合并当天两期。实测单期技术 11–17 条，合并后 23–31 条（§0.4）。
       window: { days: 1, slots: [morning, evening] }
       titleTemplate: '{title} · 技术日报（{date}）'
@@ -1199,7 +1192,8 @@ publish:
       enabled: true
 
     - id: weekly
-      time: '10:30'
+      # 晚于周报生成时间 07:20，留 70 分钟生成缓冲。
+      time: '08:30'
       weekday: mon
       # 直接取 weekly 那期归档 —— 它已经是 weekly.ts 做过编辑取舍的结果。
       # 不在这里重新聚合七天，那是把同一个判断做两次。

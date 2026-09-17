@@ -9,8 +9,8 @@ on:
   schedule:
     # BEGIN generated schedule
     # generated from brief.config.yaml - run `pnpm publish:schedule` after editing, do not hand-edit
-    - cron: '30 13 * * *' # daily - 21:30 Asia/Shanghai
-    - cron: '30 2 * * 1' # weekly - Mon 10:30 Asia/Shanghai
+    - cron: '30 12 * * *' # daily - 20:30 Asia/Shanghai
+    - cron: '30 0 * * 1' # weekly - Mon 08:30 Asia/Shanghai
     # END generated schedule
 
   workflow_dispatch:
@@ -22,7 +22,7 @@ on:
       cron:
         # 同 daily-brief.yml 的 cron input：外部定时器传 cron 串而不是 id，让这次运行和一次
         # 准点的 schedule 事件完全同构（反查发布线 + lastCronOccurrence 锚定发布日）。
-        description: 'cron string from an external timer, e.g. "30 13 * * *"（留空=墙上时钟）'
+        description: 'cron string from an external timer, e.g. "30 12 * * *"（留空=墙上时钟）'
         type: string
         default: ''
       date:
@@ -152,7 +152,7 @@ jobs:
           exit 1
 
       # The wording matters more than the fact: "掘金 Cookie expired, go renew it" is a
-      # hundred times more useful at 09:30 than "publish failed".
+      # hundred times more useful at the scheduled publication time than "publish failed".
       - name: alert on failure
         if: failure()
         env:

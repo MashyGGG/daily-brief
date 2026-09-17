@@ -19,7 +19,7 @@
 | --- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 1 ★ | **不复用 `Channel`，新开 `Publisher`**               | 推送是「发完即忘」，发布是「创建一个有 ID、可编辑的资源」，幂等要求根本不同（§0.1）                                  |
 | 2 ★ | **只读归档，但按窗口重新选材，不直取某一期**         | 「只发技术」和「条数要够」这两条要求，单期直取都满足不了；`collect.ts` 从归档窗口重建一期（§0.4、§1.3）              |
-| 3 ★ | **两条发布线，各有自己的 cron**                      | 日报每天 09:30、周报周一 10:30，与早报的**生成**时间解耦；`publish.yml` 自持 cron，不挂 `workflow_run`（§0.3、§7.1） |
+| 3 ★ | **两条发布线，各有自己的 cron**                      | 日报每天 20:30、周报周一 08:30，与早报的**生成**时间解耦；`publish.yml` 自持 cron，不挂 `workflow_run`（§0.3、§7.1） |
 | 4 ★ | **栏目白名单，不是把新闻拉黑**                       | `include: [tech, ai, cn-tech, security, releases]`。以后新增栏目默认不外发，黑名单则会漏（§0.4）                     |
 | 5 ★ | **条数三级杠杆：合并两期 → 提源头 limit → 开发版栏** | 实测 `tech`/`cn-tech` **每期都打满上限**，是真瓶颈；`ai`/`security` 是供给不足，提 limit 无效（§0.4）                |
 | 6 ★ | **归档要富、推送要瘦**                               | 提高 `section.limit` 会连带撑长邮件，故新增 `recipients[].maxItemsPerSection`，源头扩容不牵连读者（§0.5）            |
@@ -75,8 +75,8 @@
 
 | 发布线   | 取材                       | 早报生成时间（现状） | 发布时间（新增） | 缓冲  |
 | -------- | -------------------------- | -------------------- | ---------------- | ----- |
-| `daily`  | 当天 `morning` + `evening` | 07:10 / 20:10        | **每天 09:30**   | 2h20m |
-| `weekly` | 周一的 `weekly` 那期       | 周一 08:00           | **周一 10:30**   | 2h30m |
+| `daily`  | 当天 `morning` + `evening` | 06:10 / 20:10        | **每天 20:30**   | 20m   |
+| `weekly` | 周一的 `weekly` 那期       | 周一 07:20           | **周一 08:30**   | 1h10m |
 
 **缓冲为什么要 2 小时以上**：[PLAN.md](./PLAN.md) §0.4 记录 Actions 定时会漂 0–30 分钟，[LLM-SUMMARY.md](./LLM-SUMMARY.md) §3.2 记录早报自己要跑 3–5 分钟（最坏 6 分钟）。两端各漂一次再加运行时间，2 小时是能吸收「漂移 + 重试 + 没人在场」的量。时间刻意避开整点，理由同 LLM-SUMMARY 决策 8。
 
@@ -285,7 +285,7 @@ export async function publishAll(
 3. **与 daily-brief 完全解耦**——早报挂了不影响补发，发布挂了不污染早报的告警。
 
 ```
-daily-brief.yml ──► archive/*.json ──┬─► publish.yml (cron 09:30) ──► Notion / 掘金
+daily-brief.yml ──► archive/*.json ──┬─► publish.yml (cron 20:30) ──► Notion / 掘金
                           │          │        ▲                            │
                           │          │   collect.ts 选材                   │
                           └──► pages.yml ──► 首发地 ◄────────────────────┘ canonical 指回来
@@ -314,7 +314,7 @@ publish:
   # cron 由 `pnpm publish:schedule` 从这里生成进 publish.yml，改完必须重新生成（§7.2）。
   schedules:
     - id: daily
-      time: '09:30' # 本地时间（顶层 timezone），刻意避开整点
+      time: '20:30' # 本地时间（顶层 timezone），晚于 20:10 晚报
       # ★ 级别 1：合并当天两期，把技术条数从 11–17 拉到 23–31（§0.4）
       window: { days: 1, slots: [morning, evening] }
       titleTemplate: '{title} · 技术日报（{date}）'
@@ -327,7 +327,7 @@ publish:
       enabled: true
 
     - id: weekly
-      time: '10:30'
+      time: '08:30'
       weekday: mon
       # 周报直接取 weekly 那期归档 —— 它已经是 weekly.ts 做过编辑取舍的结果，
       # 不要在这里重新聚合一遍七天，那是把同一个判断做两次。
@@ -809,7 +809,7 @@ PATCH blocks/{id}/children ← …（串行，不并发：Notion 有约 3 req/s 
 | 1    | 在 `daily-brief.yml` 末尾加 step    | ✗ 发布失败会把早报 job 染红并触发 [`alert.ts`](../src/alert.ts) 误报；Cookie 进入早报 job 的环境；且发布时刻被钉死在生成时刻上 |
 | 2    | 独立 `publish.yml` + `workflow_run` | ✗ **本次否决**。发布时刻 = 早报跑完那一刻，会跟着 Actions 排队漂 0–30 分钟——与「每天固定时间发布」直接冲突                     |
 | 3    | **独立 `publish.yml` + 自持 cron**  | ★ 采用。发布时间由自己说了算；代价是要处理「归档还没就绪」，用 `catchUpDays` 解（§1.3）                                        |
-| 4    | 外部 cron 打 `repository_dispatch`  | ✗ 过度设计。GitHub cron 的 0–30 分钟漂移，对「09:30 发一篇技术日报」这件事完全无所谓                                           |
+| 4    | 外部 cron 打 `repository_dispatch`  | ✗ 过度设计。GitHub cron 的 0–30 分钟漂移，对「20:30 发一篇技术日报」这件事完全无所谓                                           |
 
 **为什么不把 `workflow_run` 留着当兜底**：幂等机制（§4）确实能保证它不会造成重复发布，但它会让「今天这篇几点发的」变得不可预测——而这正是需求 1 要的东西。漏发由 `catchUpDays` 覆盖，不需要第二个触发器。
 
@@ -830,8 +830,8 @@ on:
   schedule:
     # BEGIN generated schedule
     # generated from brief.config.yaml — run `pnpm publish:schedule` after editing, do not hand-edit
-    - cron: '30 1 * * *' # daily - 09:30 Asia/Shanghai
-    - cron: '30 2 * * 1' # weekly - Mon 10:30 Asia/Shanghai
+    - cron: '30 12 * * *' # daily - 20:30 Asia/Shanghai
+    - cron: '30 0 * * 1' # weekly - Mon 08:30 Asia/Shanghai
     # END generated schedule
 ```
 
@@ -844,8 +844,8 @@ on:
   schedule:
     # BEGIN generated schedule
     # generated from brief.config.yaml — run `pnpm publish:schedule` after editing, do not hand-edit
-    - cron: '30 1 * * *' # daily - 09:30 Asia/Shanghai
-    - cron: '30 2 * * 1' # weekly - Mon 10:30 Asia/Shanghai
+    - cron: '30 12 * * *' # daily - 20:30 Asia/Shanghai
+    - cron: '30 0 * * 1' # weekly - Mon 08:30 Asia/Shanghai
     # END generated schedule
 
   workflow_dispatch:
@@ -1011,7 +1011,7 @@ jobs:
 
 告警复用现成的 [`src/alert.ts`](../src/alert.ts)（企业微信 + 邮件），**不新增通道**。关键是文案要能一眼看出该做什么——「掘金 Cookie 已过期」比「publish 失败」有用一百倍。
 
-**「归档未就绪」为什么是 exit 0**：每天 09:30 的 cron 撞上一次 Actions 排队，就会误报一次。如果它是 failure，你一周会收到两三条假告警，然后就开始无视告警——那才是真正的故障。
+**「归档未就绪」为什么是 exit 0**：每天 20:30 的 cron 撞上一次 Actions 排队，就会误报一次。如果它是 failure，你一周会收到两三条假告警，然后就开始无视告警——那才是真正的故障。
 
 ---
 
@@ -1045,7 +1045,7 @@ jobs:
 | ---------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **M1 骨架 + 选材**     | `types` / `index` / `state` / `stdout` / `collect` / `adapt` + config schema + CLI  | ① `pnpm publish:run --schedule daily --dry-run --explain` 打印选材过程，**技术条数 ≥20 且新闻栏 0 条**；② 打印的正文肉眼无 `\[`、无「生成时间」、无「告警」段；③ `pnpm test` 覆盖 §4.2 全表 + `collect` 全部用例；④ typecheck/lint 全绿；⑤ 渲染回归逐字节未变                                                  |
 | **M2 Notion**          | `markdown.ts` + `notion.ts` + data source 解析                                      | ① 手工 `--targets notion-archive` 跑一次，Notion 库里出现该期，属性齐全、**30 条正文完整分批写入**；② **再跑一次 → `skipped`，库里没有第二条**；③ 改一个字后跑 → 属性更新且 detail 写明正文未同步                                                                                                              |
-| **M3 cron + 掘金草稿** | `juejin.ts`（只 create/update）+ cron 生成器扩展 + `publish.yml` + 试运行期闸门     | ① `pnpm publish:schedule --write` 生成的 cron 与配置一致，`pnpm check:schedule` 对两个 workflow 都通过；② 09:30 自动触发，掘金草稿箱出现文章，**打开编辑器格式无异常**；③ 重跑 → `skipped`，草稿箱没有第二篇；④ 错 Cookie → 企业微信收到「Cookie 已过期」；⑤ 删掉当天归档跑一次 → skip + warning 且 **exit 0** |
+| **M3 cron + 掘金草稿** | `juejin.ts`（只 create/update）+ cron 生成器扩展 + `publish.yml` + 试运行期闸门     | ① `pnpm publish:schedule --write` 生成的 cron 与配置一致，`pnpm check:schedule` 对两个 workflow 都通过；② 20:30 自动触发，掘金草稿箱出现文章，**打开编辑器格式无异常**；③ 重跑 → `skipped`，草稿箱没有第二篇；④ 错 Cookie → 企业微信收到「Cookie 已过期」；⑤ 删掉当天归档跑一次 → skip + warning 且 **exit 0** |
 | **M4 观察期（两周）**  | 不写代码：每天看草稿箱 + 收集条数样本                                               | ① 连续 10 期格式无异常；② 记录每期真实技术条数——**若中位数 <20，才启动 §0.4 级别 2（提 limit + `maxItemsPerSection`）**；③ Cookie 未失效                                                                                                                                                                       |
 | **M5 转自动 + 收口**   | 掘金 `autoPublish: true` + 熔断生效 + Notion 正文全量重写（`--force`）+ README 补章 | ① 关掉人工批准后连续 5 期自动发布成功；② 人为造三次失败 → 熔断并告警，第四次不再请求；③ `--force` 能把 Notion 一页正文完整重写；④ README 有「配置发布目标」小节                                                                                                                                                |
 
@@ -1194,7 +1194,7 @@ pnpm test && pnpm typecheck && pnpm lint && pnpm format:check && pnpm validate
 | S13  | `.github/workflows/publish.yml`                                                                   | 照抄 §7.3。cron 块用 `pnpm publish:schedule --write` **生成，不手写**                                                                                                                                | 生成结果与 §7.2 一致                             |
 | S14  | —                                                                                                 | 首次真实运行（`environment: publishing` 已开，job 会挂起等批准）                                                                                                                                     | 见下面的 DoD                                     |
 
-**M3 DoD**：① `pnpm check:schedule` 两个 workflow 都通过；② 09:30 自动触发，掘金草稿箱出现文章、**打开编辑器格式无异常**；③ 重跑 → `skipped`，草稿箱没有第二篇；④ 故意填错 Cookie → 企业微信收到「Cookie 已过期」；⑤ **删掉当天归档跑一次 → skip + warning 且 exit 0**（不是 failure）。
+**M3 DoD**：① `pnpm check:schedule` 两个 workflow 都通过；② 20:30 自动触发，掘金草稿箱出现文章、**打开编辑器格式无异常**；③ 重跑 → `skipped`，草稿箱没有第二篇；④ 故意填错 Cookie → 企业微信收到「Cookie 已过期」；⑤ **删掉当天归档跑一次 → skip + warning 且 exit 0**（不是 failure）。
 
 ### 13.5 M4 —— 观察期两周（不写代码）
 

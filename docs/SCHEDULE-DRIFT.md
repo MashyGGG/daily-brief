@@ -167,18 +167,18 @@ GitHub → Settings → Developer settings → Personal access tokens → **Fine
 
 | 档期           | CST        | `cron` 值     | workflow          |
 | -------------- | ---------- | ------------- | ----------------- |
-| `morning`      | 07:10      | `10 23 * * *` | `daily-brief.yml` |
-| `news-am`      | 07:40      | `40 23 * * *` | `daily-brief.yml` |
+| `morning`      | 06:10      | `10 22 * * *` | `daily-brief.yml` |
+| `news-am`      | 06:40      | `40 22 * * *` | `daily-brief.yml` |
 | `news-pm`      | 19:10      | `10 11 * * *` | `daily-brief.yml` |
 | `evening`      | 20:10      | `10 12 * * *` | `daily-brief.yml` |
-| `weekly`       | 周一 08:20 | `20 0 * * 1`  | `daily-brief.yml` |
-| publish daily  | 21:30      | `30 13 * * *` | `publish.yml`     |
-| publish weekly | 周一 10:30 | `30 2 * * 1`  | `publish.yml`     |
+| `weekly`       | 周一 07:20 | `20 23 * * 0` | `daily-brief.yml` |
+| publish daily  | 20:30      | `30 12 * * *` | `publish.yml`     |
+| publish weekly | 周一 08:30 | `30 0 * * 1`  | `publish.yml`     |
 
 **第 3 步 · 调用**
 
 ```sh
-curl -sf -X POST   -H "Authorization: Bearer $GH_PAT"   -H "Accept: application/vnd.github+json"   https://api.github.com/repos/MashyGGG/daily-brief/actions/workflows/daily-brief.yml/dispatches   -d '{"ref":"main","inputs":{"cron":"10 23 * * *"}}'
+curl -sf -X POST   -H "Authorization: Bearer $GH_PAT"   -H "Accept: application/vnd.github+json"   https://api.github.com/repos/MashyGGG/daily-brief/actions/workflows/daily-brief.yml/dispatches   -d '{"ref":"main","inputs":{"cron":"10 22 * * *"}}'
 ```
 
 `-f` 不能省：不带它 curl 对非 2xx 也返回 0，定时器判不出失败。成功是 **204 No Content**。

@@ -31,8 +31,8 @@ describe('the failure alert names the edition that failed', () => {
   // 27th CST. The dates below differ for that reason, and that is the behaviour worth
   // pinning — the alert names the edition the run belonged to, not "today".
   it.each([
-    ['10 23 * * *', '早报', '2026-08-28'],
-    ['40 23 * * *', '早间要闻', '2026-08-28'],
+    ['10 22 * * *', '早报', '2026-08-28'],
+    ['40 22 * * *', '早间要闻', '2026-08-28'],
     ['10 11 * * *', '晚间要闻', '2026-08-27'],
     ['10 12 * * *', '晚报', '2026-08-27'],
   ])('cron %s → %s %s', (cron, label, date) => {
@@ -42,8 +42,8 @@ describe('the failure alert names the edition that failed', () => {
   })
 
   it('gives the weekly its configured title, not its slot label', () => {
-    freeze('2026-08-31T02:00:00.000Z') // Monday, after `20 0 * * 1` fired
-    expect(composeAlert({ ...base, ALERT_CRON: '20 0 * * 1' }).subject).toBe(
+    freeze('2026-08-31T02:00:00.000Z') // Monday, after `20 23 * * 0` fired
+    expect(composeAlert({ ...base, ALERT_CRON: '20 23 * * 0' }).subject).toBe(
       '[daily-brief] 每周回顾 失败 · 2026-08-31',
     )
   })
@@ -78,7 +78,7 @@ describe('the alert still goes out when the edition cannot be known', () => {
     ['an unknown schedule id', { ALERT_SCHEDULE: 'noon' }, undefined],
     // The alert exists to report failures, and a config that will not parse is one of
     // them: resolving the edition must never be what stops the alert going out.
-    ['a config that will not load', { ALERT_CRON: '10 23 * * *' }, explodes],
+    ['a config that will not load', { ALERT_CRON: '10 22 * * *' }, explodes],
   ])('%s', (_name, extra, load) => {
     const { subject, content } = composeAlert({ ...base, ...extra } as NodeJS.ProcessEnv, load)
     expect(subject).toBe('[daily-brief] 今日早报失败')
