@@ -11,6 +11,7 @@
 ## 2. 范围
 
 ### in-scope
+
 1. **目录规范**（§3.1）：日期目录 + `raw/project/export` 子目录 + 每日 `meta.yaml`。
 2. **CLI 工具 `vault`**（§3.2）：`init` / `import` / `tag` / `find` / `verify` / `ingredients` 六个子命令。
 3. **三种导入来源**：相机 SD 卡（DCIM）、iPhone 导出目录、Android 导出目录，以及兜底的 `_inbox/` 目录。
@@ -19,6 +20,7 @@
 6. NAS 选型建议（附录 A，仅建议，不是验收项）。
 
 ### out-of-scope（明确不做）
+
 - Web 界面、缩略图 / 预览、视频转码或代理文件生成。
 - AI 自动识别食材、自动打标签。
 - 云盘同步 / 异地备份（但目录结构必须能被 Hyper Backup / rclone 直接整目录同步，见 NFR）。
@@ -57,9 +59,9 @@
 
 ```yaml
 date: 2026-09-03
-dishes: [番茄炒蛋]                 # 菜名，可多个，可空
-ingredients: [番茄, 鸡蛋, 葱]      # 食材标签，自由文本，多值
-notes: ""
+dishes: [番茄炒蛋] # 菜名，可多个，可空
+ingredients: [番茄, 鸡蛋, 葱] # 食材标签，自由文本，多值
+notes: ''
 imports:
   - at: 2026-09-03T15:02:11+08:00
     source: camera
@@ -67,27 +69,28 @@ imports:
     copied: 42
     skipped_duplicate: 3
     quarantined: 0
-files:                              # 校验清单；verify 子命令据此比对
+files: # 校验清单；verify 子命令据此比对
   raw/camera/20260903_143012_C0012.MP4:
     size: 1873920412
-    xxh3: "9f1c…"
+    xxh3: '9f1c…'
     date_from: exif
 ```
 
 ### 3.3 CLI 子命令
 
-| 命令 | 作用 |
-|---|---|
-| `vault init <root>` | 创建 §3.1 骨架和默认 `vault.config.yaml` |
+| 命令                                                                                                     | 作用                                                                               |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| `vault init <root>`                                                                                      | 创建 §3.1 骨架和默认 `vault.config.yaml`                                           |
 | `vault import <path> --source camera\|iphone\|android\|inbox [--ingredients a,b] [--dish x] [--dry-run]` | 从来源目录递归扫描白名单文件 → 判日期 → 哈希 → 复制到对应日期目录 → 校验 → 写 meta |
-| `vault tag <date> [--ingredients a,b] [--dish x] [--notes "…"] [--replace]` | 修改某日 meta 的标签；默认追加、`--replace` 覆盖 |
-| `vault find --ingredient 番茄 [--from 2026-01-01] [--to 2026-12-31] [--dish x]` | 列出匹配的日期目录，输出路径 + 菜名 + 食材 + raw 文件数 |
-| `vault verify [<date>]` | 按 `files` 清单重新哈希比对，报告缺失 / 损坏 |
-| `vault ingredients` | 汇总全库食材词及出现次数，用于人工规范拼写 |
+| `vault tag <date> [--ingredients a,b] [--dish x] [--notes "…"] [--replace]`                              | 修改某日 meta 的标签；默认追加、`--replace` 覆盖                                   |
+| `vault find --ingredient 番茄 [--from 2026-01-01] [--to 2026-12-31] [--dish x]`                          | 列出匹配的日期目录，输出路径 + 菜名 + 食材 + raw 文件数                            |
+| `vault verify [<date>]`                                                                                  | 按 `files` 清单重新哈希比对，报告缺失 / 损坏                                       |
+| `vault ingredients`                                                                                      | 汇总全库食材词及出现次数，用于人工规范拼写                                         |
 
 ## 4. 验收标准（EARS，可 pass/fail）
 
 **导入**
+
 - AC-1: WHEN 用户执行 `vault import <SD卡DCIM路径> --source camera`, THE vault SHALL 把每个白名单文件复制到 `<年>/<拍摄日期>/raw/camera/` 并按 §3.1 命名。 · 测法：准备含 3 个不同日期照片 + 视频的目录，导入后目录树与命名符合规范。
 - AC-2: WHEN 一个文件复制完成, THE vault SHALL 对目标文件重新计算哈希并与源哈希比对，一致后才写入 `meta.yaml` 的 `files`。 · 测法：导入后 `meta.yaml` 中每个文件的哈希与 `xxhsum` 独立计算结果一致。
 - AC-3: IF 目标哈希与源不一致, THEN THE vault SHALL 删除该目标文件、把源文件复制到 `_quarantine/<批次>/`，并在报告中标记。 · 测法：mock 复制过程写坏 1 字节，观察该文件进 quarantine、其余文件正常。
@@ -100,32 +103,35 @@ files:                              # 校验清单；verify 子命令据此比�
 - AC-10: WHERE 导入命令带 `--ingredients` / `--dish`, THE vault SHALL 把标签写入所有本次涉及日期目录的 `meta.yaml`（追加去重）。 · 测法：导入跨两天素材，两个 `meta.yaml` 都含该标签。
 
 **标签与检索**
+
 - AC-11: WHEN 用户执行 `vault tag 2026-09-03 --ingredients 番茄,鸡蛋`, THE vault SHALL 把两个标签追加到该日 `meta.yaml`，已存在的不重复。 · 测法：执行两次，`ingredients` 长度不变。
 - AC-12: WHEN 用户执行 `vault find --ingredient 番茄`, THE vault SHALL 列出所有 `ingredients` 含「番茄」的日期目录，按日期降序。 · 测法：3 个日期中 2 个含番茄，输出恰好那 2 个且顺序正确。
 - AC-13: WHEN `find` 同时带 `--from/--to`, THE vault SHALL 只返回区间内（含端点）的目录。 · 测法：边界日期用例。
 - AC-14: WHEN 用户执行 `vault ingredients`, THE vault SHALL 输出全库食材词及出现次数，按次数降序。 · 测法：构造「番茄」×2、「西红柿」×1，输出两行且顺序正确。
 
 **校验**
+
 - AC-15: WHEN 用户执行 `vault verify`, THE vault SHALL 对清单中每个文件重新哈希，报告 `ok / missing / corrupted` 三类计数并逐条列出非 ok 项。 · 测法：删 1 个、改 1 个，报告各 1。
 - AC-16: IF `verify` 发现任何非 ok 项, THEN THE vault SHALL 以非零退出码结束。 · 测法：`$LASTEXITCODE -ne 0`。
 
 **配置与迁移**
+
 - AC-17: WHEN 用户把 `vault.config.yaml` 的 `root` 从 `D:\FoodVault` 改为 `Z:\FoodVault` 并把整棵目录复制过去, THE vault SHALL 所有子命令在新根下正常工作且 `verify` 全 ok。 · 测法：阶段 B 迁移演练（§6 第 8 步）。
 - AC-18: THE vault SHALL 不在 `meta.yaml` 或任何库内文件里写绝对路径（`imports[].from` 除外，仅作记录）。 · 测法：grep 库内 yaml 无 `D:\` 前缀出现在 `files` 键中。
 
 ## 5. 非功能需求（NFR）
 
-| 维度 | 要求 / 无所谓 |
-|---|---|
-| 性能 | 导入是 IO 密集；脚本自身开销（哈希 + 写 meta）不得使吞吐低于纯复制的 80%。基准：USB3 读卡器导入 50 GB ≤ 15 min。哈希用 xxh3（非加密）。 |
-| 规模 | 每周新增几十 GB，按年 2–3 TB 设计；单日目录内文件数上限 5000；`meta.yaml` 单文件 < 5 MB。超过则 `find` 仍需在 2 s 内返回（全库 ≤ 1000 个日期目录）。 |
-| 安全/鉴权 | 无。单人局域网。 |
-| 隐私 | 无外网调用；不上传任何内容。 |
-| 可访问性 | 无。CLI 输出需在 Windows Terminal 下中文不乱码（UTF-8）。 |
-| 可观测性 | 每次 import 在 `<root>/_logs/YYYY-MM-DD_HHMMSS.log` 留完整日志；控制台只打进度和汇总。 |
-| 可靠性 | 幂等（AC-4/5）、原子写（`.part` → rename）、`meta.yaml` 写入先写临时文件再替换。 |
-| 可移植性 | 库目录能被 Synology Hyper Backup / rclone 整目录同步；不依赖 NTFS 特有属性；文件名不含 NAS/SMB 不允许字符 `\ / : * ? " < > \|`。 |
-| 成本 | 本期零成本（本地硬盘）。NAS 预算见附录 A。 |
+| 维度      | 要求 / 无所谓                                                                                                                                        |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 性能      | 导入是 IO 密集；脚本自身开销（哈希 + 写 meta）不得使吞吐低于纯复制的 80%。基准：USB3 读卡器导入 50 GB ≤ 15 min。哈希用 xxh3（非加密）。              |
+| 规模      | 每周新增几十 GB，按年 2–3 TB 设计；单日目录内文件数上限 5000；`meta.yaml` 单文件 < 5 MB。超过则 `find` 仍需在 2 s 内返回（全库 ≤ 1000 个日期目录）。 |
+| 安全/鉴权 | 无。单人局域网。                                                                                                                                     |
+| 隐私      | 无外网调用；不上传任何内容。                                                                                                                         |
+| 可访问性  | 无。CLI 输出需在 Windows Terminal 下中文不乱码（UTF-8）。                                                                                            |
+| 可观测性  | 每次 import 在 `<root>/_logs/YYYY-MM-DD_HHMMSS.log` 留完整日志；控制台只打进度和汇总。                                                               |
+| 可靠性    | 幂等（AC-4/5）、原子写（`.part` → rename）、`meta.yaml` 写入先写临时文件再替换。                                                                     |
+| 可移植性  | 库目录能被 Synology Hyper Backup / rclone 整目录同步；不依赖 NTFS 特有属性；文件名不含 NAS/SMB 不允许字符 `\ / : * ? " < > \|`。                     |
+| 成本      | 本期零成本（本地硬盘）。NAS 预算见附录 A。                                                                                                           |
 
 ## 6. 端到端验证步骤
 
