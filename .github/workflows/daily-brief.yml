@@ -125,6 +125,8 @@ jobs:
           LLM_CONCURRENCY: ${{ vars.LLM_CONCURRENCY }}
           LLM_ENABLED: ${{ vars.LLM_ENABLED }}
           GITHUB_TOKEN: ${{ github.token }}
+          # Optional. Without it the V2EX collector falls back to the public v1 node API.
+          V2EX_TOKEN: ${{ secrets.V2EX_TOKEN }}
         run: |
           set -euo pipefail
           args=()

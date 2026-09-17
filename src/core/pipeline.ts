@@ -1,7 +1,7 @@
 import type { BriefConfig, Item, RawItem, Recipient, Schedule, Section } from '../config/schema'
 import { resolveRecipients, resolveSections } from '../config/schema'
 import { findRunByCron, findScheduleById, ScheduleError } from '../schedule/cron'
-import { fetchAll, type FetchLike, type SourceOutcome } from '../sources'
+import { fetchAll, sourceRunsToday, type FetchLike, type SourceOutcome } from '../sources'
 import { dedupe, seenFromArchive, emptySeen } from './dedupe'
 import { filterForSection, minScoreBySource } from './filter'
 import { healthWarnings } from './health'
@@ -82,6 +82,23 @@ export interface RunResult {
   weekly: WeeklyWindow | null
   empty: boolean
   exitCode: number
+}
+
+type SourceState = Record<string, string[]>
+
+function readSourceState(path: string, fs: FsLike): SourceState {
+  try {
+    const value = JSON.parse(fs.readFile(path) ?? '{}') as unknown
+    if (!value || typeof value !== 'object' || Array.isArray(value)) return {}
+    return Object.fromEntries(
+      Object.entries(value as Record<string, unknown>).filter(
+        (entry): entry is [string, string[]] =>
+          Array.isArray(entry[1]) && entry[1].every((id) => typeof id === 'string'),
+      ),
+    )
+  } catch {
+    return {}
+  }
 }
 
 /** With one schedule there is nothing to disambiguate; with several, the caller must say which. */
@@ -199,6 +216,8 @@ export async function run(options: RunOptions): Promise<RunResult> {
 
   let brief: Brief
   let sourceOutcomes: SourceOutcome[] = []
+  const sourceStatePath = `${config.archive.dir}/source-state.json`
+  const sourceState = config.archive.enabled ? readSourceState(sourceStatePath, fs) : {}
   let dedupeDropped = { withinRun: 0, alreadySeen: 0 }
   let enrich: EnrichStats = {
     status: 'disabled',
@@ -273,7 +292,9 @@ export async function run(options: RunOptions): Promise<RunResult> {
     log(`re-sending archived issue ${brief.date}${brief.slot ? `.${brief.slot}` : ''}`)
   } else {
     const needed = new Set(sections.flatMap((s) => s.sources))
-    const sources = config.sources.filter((s) => needed.has(s.name))
+    const sources = config.sources.filter(
+      (s) => needed.has(s.name) && sourceRunsToday(s, now, config.timezone),
+    )
 
     sourceOutcomes = await fetchAll(sources, {
       now,
@@ -281,6 +302,8 @@ export async function run(options: RunOptions): Promise<RunResult> {
       fetchImpl: options.fetchImpl,
       timeoutMs: options.timeoutMs ?? 20_000,
       excerptMaxChars: config.render.excerptMaxChars,
+      sleep: options.sleep,
+      seenIdsBySource: sourceState,
       onError: (_name, err) => describeError(err),
     })
 
@@ -407,6 +430,13 @@ export async function run(options: RunOptions): Promise<RunResult> {
       jsonPath: written.jsonPath,
       indexPath: written.indexPath,
     }
+    for (const outcome of sourceOutcomes) {
+      if (!outcome.observedIds) continue
+      sourceState[outcome.source] = [
+        ...new Set([...(sourceState[outcome.source] ?? []), ...outcome.observedIds]),
+      ].slice(-2000)
+    }
+    fs.writeFile(sourceStatePath, JSON.stringify(sourceState, null, 2) + '\n')
     log(`archived ${written.markdownPath}`)
   }
 

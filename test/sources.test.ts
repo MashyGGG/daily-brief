@@ -1,9 +1,10 @@
 import { describe, expect, it, vi } from 'vitest'
 import { parseFeed } from '../src/sources/rss'
 import { buildHnUrl, parseHnHits } from '../src/sources/hackernews'
-import { buildGithubUrl, parseRepos } from '../src/sources/github'
-import { fetchAll, type FetchContext } from '../src/sources'
+import { buildGithubUrl, parseRepos, parseTrending } from '../src/sources/github'
+import { fetchAll, sourceRunsToday, type FetchContext } from '../src/sources'
 import { httpGetText, MAX_RESPONSE_CHARS } from '../src/sources/types'
+import { parseHtmlProfile } from '../src/sources/html'
 import { toExcerpt, stripHtml, normalize } from '../src/core/normalize'
 import type { Source } from '../src/config/schema'
 import { NOW } from './helpers'
@@ -102,6 +103,139 @@ describe('response size guard', () => {
     await expect(httpGetText('https://e.com/feed', ctx(atCap))).resolves.toHaveLength(
       MAX_RESPONSE_CHARS,
     )
+  })
+
+  it('retries with exponential backoff when a tech source opts in', async () => {
+    const fetchImpl = vi
+      .fn()
+      .mockRejectedValueOnce(new Error('reset'))
+      .mockResolvedValue({ ok: true, status: 200, text: async () => 'ok' })
+    const sleep = vi.fn(async () => {})
+    await expect(
+      httpGetText('https://e.com/feed', {
+        ...ctx(''),
+        fetchImpl,
+        retries: 2,
+        sleep,
+      }),
+    ).resolves.toBe('ok')
+    expect(fetchImpl).toHaveBeenCalledTimes(2)
+    expect(sleep).toHaveBeenCalledWith(250)
+  })
+})
+
+describe('HTML source profiles', () => {
+  it('parses TLDR archive links and their dates', () => {
+    const items = parseHtmlProfile(
+      '<a href="/ai/2026-08-20">Agents and models</a><a href="/other">skip</a>',
+      {
+        type: 'html',
+        url: 'https://tldr.tech/ai/archives',
+        profile: 'tldr-ai',
+        limit: 10,
+      },
+      'tldr-ai',
+      NOW,
+    )
+    expect(items).toHaveLength(1)
+    expect(items[0]!.url).toBe('https://tldr.tech/ai/2026-08-20')
+    expect(items[0]!.publishedAt).toBe('2026-08-20T00:00:00.000Z')
+  })
+
+  it('parses GitHub Trending cards', () => {
+    const html = `<article><h2><a href="/owner/repo">owner / repo</a></h2>
+      <p>A useful tool</p><span>321 stars today</span></article>`
+    const items = parseTrending(html, 'github', NOW)
+    expect(items[0]).toMatchObject({ title: 'owner/repo', score: 321 })
+    expect(items[0]!.excerpt).toBe('A useful tool')
+  })
+})
+
+describe('source cadence', () => {
+  it('uses the configured timezone for weekly sources', () => {
+    const source: Source = {
+      name: 'weekly',
+      type: 'rss',
+      weight: 1,
+      stripPatterns: [],
+      runOnWeekdays: [5],
+      params: { url: 'https://e.com/rss', limit: 10 },
+    }
+    // Thursday UTC, already Friday in Asia/Shanghai.
+    expect(sourceRunsToday(source, new Date('2026-08-20T16:30:00Z'), 'Asia/Shanghai')).toBe(true)
+    expect(sourceRunsToday(source, NOW, 'Asia/Shanghai')).toBe(false)
+  })
+})
+
+describe('composite sources', () => {
+  it('uses a fallback without creating a second logical source', async () => {
+    const source: Source = {
+      name: 'radar',
+      type: 'composite',
+      weight: 1,
+      stripPatterns: [],
+      params: {
+        limit: 20,
+        streams: [
+          {
+            primary: {
+              type: 'html',
+              url: 'https://tldr.tech/ai/archives',
+              profile: 'tldr-ai',
+              limit: 20,
+            },
+            fallbacks: [{ type: 'rss', url: 'https://e.com/rss', limit: 20 }],
+          },
+        ],
+      },
+    }
+    const outcomes = await fetchAll([source], {
+      ...ctx(''),
+      fetchImpl: async (url) => ({
+        ok: true,
+        status: 200,
+        text: async () => (url.includes('tldr.tech') ? '<html>empty</html>' : RSS),
+      }),
+    })
+    expect(outcomes).toHaveLength(1)
+    expect(outcomes[0]!.source).toBe('radar')
+    expect(outcomes[0]!.items).toHaveLength(2)
+  })
+
+  it('establishes an incremental baseline and emits only the newest item', async () => {
+    const source: Source = {
+      name: 'models',
+      type: 'composite',
+      weight: 1,
+      stripPatterns: [],
+      params: {
+        limit: 20,
+        streams: [
+          {
+            primary: {
+              type: 'html',
+              url: 'https://developers.openai.com/api/docs/models',
+              profile: 'openai-models',
+              incremental: true,
+              limit: 20,
+            },
+            fallbacks: [],
+          },
+        ],
+      },
+    }
+    const html =
+      '<a href="/api/docs/models/new">New model</a><a href="/api/docs/models/old">Old model</a>'
+    const [first] = await fetchAll([source], ctx(html))
+    expect(first!.items.map((item) => item.title)).toEqual(['New model'])
+    expect(first!.observedIds).toHaveLength(2)
+
+    const [second] = await fetchAll([source], {
+      ...ctx(html),
+      seenIdsBySource: { models: first!.observedIds! },
+    })
+    expect(second!.items).toEqual([])
+    expect(second!.error).toBeUndefined()
   })
 })
 

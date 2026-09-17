@@ -6,9 +6,9 @@
 本文是它的可读版本 —— 逐源列出抓取端点、权重、栏目归属和「为什么是这个值」，
 外加一份**没有接入的源**及其原因，免得下次重新踩一遍坑。
 
-- 快照时间：**2026-09-02**（端点与源数）；栏内实测数据仍是 2026-08-20 / 08-24 那两次快照
+- 快照时间：**2026-09-17**（端点与源数）；历史运行统计仍是 2026-08-20 / 09-02 的旧快照
 - 最近一次健康复核：**2026-09-02**，口径是归档里 45 期真实运行的告警统计，见 §9.4
-- 规模：**78 个源 / 3 种适配器 / 8 个栏目**，分两组跑：
+- 规模：**85 个源 / 5 种适配器 / 8 个栏目**，分两组跑：
   - 技术早晚报（`morning` / `evening`）四栏，每期最多 **17 条**
   - 要闻期（`news-am` / `news-pm`）三栏，每期最多 **30 条**，编排理由见
     [`docs/NEWS-EDITION.md`](./NEWS-EDITION.md)
@@ -22,9 +22,9 @@
 
 | 栏目 id    | 标题      | 源数 | 每日 limit | 过滤规则                                                |
 | ---------- | --------- | ---: | ---------: | ------------------------------------------------------- |
-| `tech`     | 国际技术  |   17 |          6 | 排除 crypto / NFT / web3 / memecoin                     |
-| `ai`       | AI 工程   |    7 |          4 | 无（`anthropic` 试运行期间从 3 提到 4）                 |
-| `cn-tech`  | 中文技术  |    9 |          5 | 无（`36kr-ai` 试运行期间从 4 提到 5）                   |
+| `tech`     | 国际技术  |   22 |          6 | 排除 crypto / NFT / web3 / memecoin                     |
+| `ai`       | AI 工程   |    8 |          4 | 无                                                      |
+| `cn-tech`  | 中文技术  |   10 |          5 | 无（`36kr-ai` 试运行期间从 4 提到 5）                   |
 | `security` | 安全公告  |    3 |          2 | 排除 ICS / 工控 / PLC / SCADA / Siemens / …             |
 | `releases` | 依赖发版  |    8 |          3 | 排除 canary / nightly / -rc / -alpha / -beta / SNAPSHOT |
 | `news`     | 国际要闻  |   14 |         12 | 无                                                      |
@@ -35,7 +35,7 @@
 两组由 `schedules[].sections` 的白名单分开跑，互不抢席位。哪一期跑哪几栏是配置，
 不是代码：见 [`docs/NEWS-EDITION.md` §1](./NEWS-EDITION.md)。
 
-按适配器分：`rss` 76 个、`hackernews` 1 个、`github` 1 个。
+按适配器分：`rss` 75 个、`composite` 7 个、`hackernews` 1 个、`github` 1 个、`v2ex` 1 个。
 每个源都恰好属于一个栏目，没有孤儿源，也没有被两个栏目共用的源。
 
 各栏 `limit` 相加：技术早晚报 **17**、要闻期 **30**（`releases` 已关，它的 3 席不计），
@@ -82,11 +82,11 @@ rankScore = weight × (0.6 × normScore + 0.4 × recency)
 
 ### 讨论热度
 
-| 源               | 类型         | 端点 / 参数                                                        |   w | 备注                                                             |
-| ---------------- | ------------ | ------------------------------------------------------------------ | --: | ---------------------------------------------------------------- |
-| `hn-front`       | `hackernews` | HN Algolia `/search?tags=front_page`，`minPoints:100`，`limit:60`  | 1.3 | 免费免鉴权；带真实 points，是少数几个有热度分的源                |
-| `gh-trending-ts` | `github`     | `/search/repositories`，`language:typescript`，7 天内，`stars>=50` | 1.0 | GitHub 没有官方 Trending API，**绝不爬 HTML 页**，用搜索等价替代 |
-| `lobsters`       | `rss`        | `https://lobste.rs/rss`                                            | 0.9 | HN 的小众替代，重合度低                                          |
+| 源            | 类型         | 端点 / 参数                                                 |     w | 备注                                 |
+| ------------- | ------------ | ----------------------------------------------------------- | ----: | ------------------------------------ |
+| `hn-front`    | `hackernews` | 官方 Firebase topstories，Algolia fallback，`minPoints:100` |  1.20 | `sourceScore:96`，带 points/comments |
+| `gh-trending` | `github`     | Trending HTML + REST Search 合并，7 天内，`stars>=100`      |  1.20 | 任一路失败仍可由另一路出结果         |
+| `lobsters`    | `rss`        | `https://lobste.rs/rss`                                     | 0.975 | `sourceScore:78`                     |
 
 ### 架构与工程
 
@@ -135,25 +135,21 @@ rankScore = weight × (0.6 × normScore + 0.4 × recency)
 
 ---
 
-## 3. `ai` AI 工程（7 源 / limit 4）
+## 3. `ai` AI 工程（8 源 / limit 4）
 
-| 源              | 端点                                                 |   w | 备注                         |
-| --------------- | ---------------------------------------------------- | --: | ---------------------------- |
-| `simonwillison` | `https://simonwillison.net/atom/everything/`         | 1.2 | LLM 工程实践，本栏信噪比最高 |
-| `openai`        | `https://openai.com/news/rss.xml`（`limit:30`）      | 1.1 | 全量 1000+ 条，**必须限量**  |
-| `google-ai`     | `https://blog.google/technology/ai/rss/`             | 1.0 |                              |
-| `deepmind`      | `https://deepmind.google/blog/rss.xml`（`limit:30`） | 0.9 |                              |
-| `huggingface`   | `https://huggingface.co/blog/feed.xml`（`limit:30`） | 0.9 |                              |
-| `latent-space`  | `https://www.latent.space/feed`                      | 1.1 | 工程向 newsletter + 播客     |
-| `anthropic`     | `https://rsshub.bestblogs.dev/anthropic/news`        | 1.1 | **第三方镜像**，试运行中     |
+| 源              | 端点                                                 |     w | 备注                           |
+| --------------- | ---------------------------------------------------- | ----: | ------------------------------ |
+| `simonwillison` | `https://simonwillison.net/atom/everything/`         |   1.2 | LLM 工程实践，本栏信噪比最高   |
+| `openai`        | News RSS→HTML fallback + Models 页面增量 Diff        |  1.25 | `sourceScore:100`              |
+| `google-ai`     | `https://blog.google/technology/ai/rss/`             |   1.0 |                                |
+| `deepmind`      | `https://deepmind.google/blog/rss.xml`（`limit:30`） |   0.9 |                                |
+| `huggingface`   | 官方 RSS；Blog HTML fallback                         | 1.125 | `sourceScore:90`               |
+| `latent-space`  | `https://www.latent.space/feed`                      |   1.1 | 工程向 newsletter + 播客       |
+| `anthropic`     | Platform Release Notes HTML + Claude Code Release    |  1.25 | RSSHub 仅作平台页 fallback     |
+| `tldr-ai`       | `https://tldr.tech/ai/archives`                      |  1.10 | Archive HTML，`sourceScore:88` |
 
-**Anthropic 官方仍然没有 RSS**（`/rss.xml` 与 `/news/rss.xml` 都是 404）。早先用 Google News
-站内检索兜底，实测只回一条标题为「- Anthropic」的空壳条目，占席位不产内容，已放弃。
-现在改走第三方 RSSHub 镜像试运行（2026-08-20 实测：200、10 条、最新 8.6 天前）。
-代价与 `36kr-ai` 同类 —— 别人的服务器，随时可能关停，挂了只留一条抓取告警。
-
-试运行期间本栏 `limit` 从 3 提到 4：5 → 7 个源却不加席位，等于让新源永远挤不进来。
-不留就删掉 `anthropic` 并把 `limit` 调回 3。
+Anthropic 仍无官方 RSS，但官方 Release Notes 页面与 Claude Code 的 GitHub Release 已覆盖
+两个一手更新面；第三方 RSSHub 不再决定正常结果，只在平台页解析失败时接管。
 
 ---
 
@@ -327,11 +323,13 @@ ASCII 域名后缀、中文来源名后缀，外加 excerpt 末尾那句「在 G
 新增一个**源**是纯配置；新增一个**源类型**才要写代码（`src/sources/` 加一个 fetcher +
 `FETCHERS` 注册一行 + `sourceSchema` 加一个分支）。
 
-| 类型         | 实现                                                        | 抓取方式                        | 是否带热度分       |
-| ------------ | ----------------------------------------------------------- | ------------------------------- | ------------------ |
-| `rss`        | [`src/sources/rss.ts`](../src/sources/rss.ts)               | GET 单个 URL，`fast-xml-parser` | 否 → 固定 0.5 中位 |
-| `hackernews` | [`src/sources/hackernews.ts`](../src/sources/hackernews.ts) | HN Algolia JSON API，免鉴权     | 是（points）       |
-| `github`     | [`src/sources/github.ts`](../src/sources/github.ts)         | GitHub Search API               | 是（stars）        |
+| 类型         | 实现                                                        | 抓取方式                           | 是否带热度分       |
+| ------------ | ----------------------------------------------------------- | ---------------------------------- | ------------------ |
+| `rss`        | [`src/sources/rss.ts`](../src/sources/rss.ts)               | GET 单个 URL，`fast-xml-parser`    | 否 → 固定 0.5 中位 |
+| `hackernews` | [`src/sources/hackernews.ts`](../src/sources/hackernews.ts) | HN Algolia JSON API，免鉴权        | 是（points）       |
+| `github`     | [`src/sources/github.ts`](../src/sources/github.ts)         | GitHub Search API                  | 是（stars）        |
+| `composite`  | [`src/sources/composite.ts`](../src/sources/composite.ts)   | 多流合并、逐级 fallback、页面 Diff | 取决于子策略       |
+| `v2ex`       | [`src/sources/v2ex.ts`](../src/sources/v2ex.ts)             | API 2.0，公开 v1 fallback          | 是（replies）      |
 
 几点实现细节，改源时可能会撞上：
 
@@ -353,9 +351,7 @@ ASCII 域名后缀、中文来源名后缀，外加 excerpt 末尾那句「在 G
 
 | 源 / 方案                | 状态         | 原因                                                                                              |
 | ------------------------ | ------------ | ------------------------------------------------------------------------------------------------- |
-| `gh-trending-any`        | 注释保留     | 语言无关的 trending，面更宽但噪声更大；想要就取消注释                                             |
 | `aws-whatsnew`           | 注释保留     | 日更约 100 条且以服务/可用区公告为主，信噪比太低                                                  |
-| Anthropic 官方博客       | 无官方源     | 没有 RSS（404）；Google News 兜底只回空壳条目。现走第三方镜像试运行，见 §3                        |
 | 36氪 官方 feed           | 已死         | `/feed` 返回 SPA 的 HTML 壳，不是 XML                                                             |
 | 36氪 `/newsflashes` 路由 | 评估后否决   | 财经通稿线（三大股指、ETF 成交额），且 20 条只覆盖 1.5 小时                                       |
 | 微信公众号               | **建议放弃** | 官方从未开放订阅他人公众号的接口；wewe-rss 已 archived、RSSHub `/wechat/*` 503、feeddd 域名已失效 |
@@ -471,7 +467,7 @@ gh workflow run daily-brief.yml -f dry-run=true -f schedule=news-am   # 要闻�
 ```yaml
 # 1. 在 sources: 下加一条
 - name: my-source # [a-z0-9-]，全局唯一
-  type: rss # rss | hackernews | github
+  type: rss # rss | hackernews | github | composite | v2ex
   weight: 1.0 # 「它发文时我多想看到它」
   params: { url: https://example.com/feed.xml }
 # 2. 把 name 加进某个 section 的 sources: 列表 —— 不加就永远不会出现在早报里

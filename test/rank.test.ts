@@ -6,6 +6,7 @@ import {
   rank,
   recencyOf,
   selectForSection,
+  weightsOf,
 } from '../src/core/rank'
 import type { Section } from '../src/config/schema'
 import { NOW, item, rawItem } from './helpers'
@@ -77,6 +78,28 @@ describe('recency', () => {
 })
 
 describe('rank', () => {
+  it('normalizes a radar sourceScore around the neutral score of 80', () => {
+    const weights = weightsOf([
+      {
+        name: 'a',
+        type: 'rss',
+        weight: 1,
+        sourceScore: 100,
+        stripPatterns: [],
+        params: { url: 'https://a.com/rss', limit: 10 },
+      },
+      {
+        name: 'b',
+        type: 'rss',
+        weight: 1,
+        sourceScore: 72,
+        stripPatterns: [],
+        params: { url: 'https://b.com/rss', limit: 10 },
+      },
+    ])
+    expect(weights).toEqual({ a: 1.25, b: 0.9 })
+  })
+
   it('A10 — is reproducible: identical input gives identical scores', () => {
     const items = [
       rawItem({ id: '1', source: 'a', score: 100, publishedAt: NOW.toISOString() }),

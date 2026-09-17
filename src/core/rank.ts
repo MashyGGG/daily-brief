@@ -57,7 +57,10 @@ export interface RankOptions {
 
 export function weightsOf(sources: Source[]): Record<string, number> {
   const out: Record<string, number> = {}
-  for (const s of sources) out[s.name] = s.weight
+  // The 2026 radar score uses 80 as the neutral point so legacy, hand-tuned weights keep
+  // their old meaning. A declared sourceScore contributes the spec's relative authority.
+  for (const s of sources)
+    out[s.name] = s.weight * (s.sourceScore === undefined ? 1 : s.sourceScore / 80)
   return out
 }
 

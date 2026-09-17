@@ -50,7 +50,7 @@ export function findStaleSources(
   const findings: StaleFinding[] = []
 
   for (const outcome of outcomes) {
-    if (outcome.error) continue
+    if (outcome.error || outcome.incrementalOnly) continue
     const thresholdDays = budgets.get(outcome.source) ?? DEFAULT_STALE_AFTER_DAYS
 
     if (outcome.items.length === 0) {
@@ -89,7 +89,7 @@ export function findStaleSources(
 export function findUndatedSources(outcomes: SourceOutcome[], now: Date): string[] {
   const stamp = now.toISOString()
   return outcomes
-    .filter((o) => !o.error && o.items.length > 0)
+    .filter((o) => !o.error && !o.incrementalOnly && o.items.length > 0)
     .filter((o) => o.items.every((item) => item.publishedAt === stamp))
     .map((o) => o.source)
 }

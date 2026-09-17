@@ -117,11 +117,47 @@ const REGEX = z
 
 const STRIP_PATTERNS = z.array(REGEX).default([])
 
+const SOURCE_SCORE = z.number().min(0).max(100).optional()
+const SOURCE_RETRIES = z.number().int().min(0).max(2).optional()
+const SOURCE_WEEKDAYS = z.array(z.number().int().min(1).max(7)).min(1).optional()
+
+const collectorStrategySchema = z.discriminatedUnion('type', [
+  z.object({
+    type: z.literal('rss'),
+    url: z.string().url(),
+    incremental: z.boolean().optional(),
+    limit: z.number().int().positive().max(200).default(50),
+  }),
+  z.object({
+    type: z.literal('html'),
+    url: z.string().url(),
+    profile: z.enum([
+      'openai-news',
+      'openai-models',
+      'claude-release-notes',
+      'tldr-ai',
+      'tldr-tech',
+      'huggingface-blog',
+      'javascript-weekly',
+    ]),
+    incremental: z.boolean().optional(),
+    limit: z.number().int().positive().max(200).default(50),
+  }),
+])
+
+const collectorStreamSchema = z.object({
+  primary: collectorStrategySchema,
+  fallbacks: z.array(collectorStrategySchema).default([]),
+})
+
 export const sourceSchema = z.discriminatedUnion('type', [
   z.object({
     name: ID,
     type: z.literal('rss'),
     weight: z.number().positive().default(1),
+    sourceScore: SOURCE_SCORE,
+    retries: SOURCE_RETRIES,
+    runOnWeekdays: SOURCE_WEEKDAYS,
     staleAfterDays: STALE_AFTER_DAYS,
     stripPatterns: STRIP_PATTERNS,
     params: z.object({
@@ -133,18 +169,26 @@ export const sourceSchema = z.discriminatedUnion('type', [
     name: ID,
     type: z.literal('hackernews'),
     weight: z.number().positive().default(1),
+    sourceScore: SOURCE_SCORE,
+    retries: SOURCE_RETRIES,
+    runOnWeekdays: SOURCE_WEEKDAYS,
     staleAfterDays: STALE_AFTER_DAYS,
     stripPatterns: STRIP_PATTERNS,
     params: z.object({
       mode: z.enum(['front_page', 'new', 'show_hn']).default('front_page'),
       minPoints: z.number().int().nonnegative().default(0),
       limit: z.number().int().positive().max(200).default(50),
+      provider: z.enum(['algolia', 'firebase']).optional(),
+      fallbackProvider: z.enum(['algolia', 'firebase']).optional(),
     }),
   }),
   z.object({
     name: ID,
     type: z.literal('github'),
     weight: z.number().positive().default(1),
+    sourceScore: SOURCE_SCORE,
+    retries: SOURCE_RETRIES,
+    runOnWeekdays: SOURCE_WEEKDAYS,
     staleAfterDays: STALE_AFTER_DAYS,
     stripPatterns: STRIP_PATTERNS,
     params: z.object({
@@ -153,6 +197,36 @@ export const sourceSchema = z.discriminatedUnion('type', [
       createdWithinDays: z.number().int().positive().max(365).default(7),
       minStars: z.number().int().nonnegative().default(0),
       limit: z.number().int().positive().max(100).default(30),
+      includeTrending: z.boolean().optional(),
+    }),
+  }),
+  z.object({
+    name: ID,
+    type: z.literal('composite'),
+    weight: z.number().positive().default(1),
+    sourceScore: SOURCE_SCORE,
+    retries: SOURCE_RETRIES,
+    runOnWeekdays: SOURCE_WEEKDAYS,
+    staleAfterDays: STALE_AFTER_DAYS,
+    stripPatterns: STRIP_PATTERNS,
+    params: z.object({
+      streams: z.array(collectorStreamSchema).min(1),
+      limit: z.number().int().positive().max(200).default(50),
+    }),
+  }),
+  z.object({
+    name: ID,
+    type: z.literal('v2ex'),
+    weight: z.number().positive().default(1),
+    sourceScore: SOURCE_SCORE,
+    retries: SOURCE_RETRIES,
+    runOnWeekdays: SOURCE_WEEKDAYS,
+    staleAfterDays: STALE_AFTER_DAYS,
+    stripPatterns: STRIP_PATTERNS,
+    params: z.object({
+      nodes: z.array(ID).min(1),
+      limit: z.number().int().positive().max(200).default(50),
+      tokenRef: z.string().min(1).default('V2EX_TOKEN'),
     }),
   }),
 ])
