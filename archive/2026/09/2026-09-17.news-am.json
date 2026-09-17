@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-17",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-17T01:40:05.087Z",
+  "configHash": "7e37c2a37c5c",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "ca23ecc6137cdd44",
+      "title": "你敢請病假嗎？背後反映什麼人格特質和職場文化？",
+      "url": "https://www.bbc.com/zhongwen/articles/cj62er0ez92lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-17T00:17:17.000Z",
+      "excerpt": "對部分人而言，工作與自我身份認同緊密相連，即使要繼續現身於工作崗位上。另外一些人則害怕被認為軟弱或懶惰。",
+      "section": "news",
+      "rankScore": 0.8124
+    },
+    {
+      "id": "c3360a1382b95c9d",
+      "title": "“习特会”前伊朗外长访华，北京“敲打”华盛顿",
+      "url": "https://cn.nytimes.com/china/20260917/iran-war-china-trump-summit/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-17T01:27:36.000Z",
+      "author": "DAVID PIERSON",
+      "excerpt": "在习近平即将访美会见特朗普之前，北京展示与德黑兰的密切关系。这向白宫释放了一个信号：在特朗普似乎已对伊朗无计可施之际，北京对德黑兰拥有影响力。 Anmar Khalil/Associated Press 伊朗外交部长阿巴斯·阿拉格齐，摄于8月。周三，中国外交部长王毅在与阿拉格齐的会晤中强调了两国之间的伙伴关系。",
+      "section": "news",
+      "rankScore": 0.766185
+    },
+    {
+      "id": "dadf01805f07684d",
+      "title": "指望美中联手管控人工智能是否过于天真",
+      "url": "http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260916-%E6%8C%87%E6%9C%9B%E7%BE%8E%E4%B8%AD%E8%81%94%E6%89%8B%E7%AE%A1%E6%8E%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%98%AF%E5%90%A6%E8%BF%87%E4%BA%8E%E5%A4%A9%E7%9C%9F",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-16T22:29:01.000Z",
+      "author": "安德烈",
+      "excerpt": "有关人类发明的AI会把人类带向何方的质疑连日来此起彼伏，联合国大会即将开幕之际，该组织秘书长古德雷斯周三也敲响警钟：“我们不能对AI引发的问题装作不知，所有政府的首要责任是保护他们的公民，包括免遭与人工智能相关的威胁”。他呼吁在人工智能领域开展“全球协调”。",
+      "section": "news",
+      "rankScore": 0.646926
+    },
+    {
+      "id": "052b323c7c7efc51",
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-17T00:32:05.000Z",
+      "excerpt": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+      "section": "news",
+      "rankScore": 0.613
+    },
+    {
+      "id": "81c475ab83f5f887",
+      "title": "Trump blasts interest rate uptick and claims ‘hostile’ Federal Reserve board made decision ‘only for political reasons’ – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-17T01:33:17.000Z",
+      "author": "Robert Mackey (now); Shrai Popat, Lucy Campbell and Tom Ambrose (earlier)",
+      "excerpt": "President denied that his hand-picked Federal Reserve chair, Kevin Warsh, had not defied him by voting to raise interest rates, claiming he advised Warsh to vote as he did US Federal Reserve raises interest rates for the first time since 2023 Reader Q&A: how united are the Democrats ahead of the…",
+      "section": "news",
+      "rankScore": 0.558489
+    },
+    {
+      "id": "ddc3e147a5598d92",
+      "title": "UK and Canada discuss AI risks and defence ties in first bilateral meeting",
+      "url": "https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-17T01:14:26.000Z",
+      "excerpt": "UK and Canada explore AI risks, defence cooperation and joint initiatives during a bilateral meeting in Liverpool.",
+      "section": "news",
+      "rankScore": 0.5543
+    },
+    {
+      "id": "b9d11d9aae7811ee",
+      "title": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
+      "url": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-17T00:18:02.000Z",
+      "author": "Matina Stevis-Gridneff and Jeanna Smialek",
+      "excerpt": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.",
+      "section": "news",
+      "rankScore": 0.541766
+    },
+    {
+      "id": "6cf6eaad965206fc",
+      "title": "Peter Max, Trippy Artist of Counterculture Era and Beyond, Dies at 88",
+      "url": "https://www.nytimes.com/2026/09/16/arts/peter-max-trippy-artist-of-counterculture-era-and-beyond-dies-at-88.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-17T00:55:12.000Z",
+      "author": "William Grimes",
+      "excerpt": "With work that breathed the spirit of the 1960s, he became fabulously wealthy from licensing his paintings and posters in all their euphoric Day-Glo glory.",
+      "section": "news",
+      "rankScore": 0.481272
+    },
+    {
+      "id": "22d986d1e1d112a0",
+      "title": "Holtec pulls IPO over ‘perfect storm’ in AI sector, founder says",
+      "url": "https://www.ft.com/content/5f4a4fce-72bb-4ea6-862b-1da1234d5b25?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-16T23:22:35.000Z",
+      "excerpt": "Kris Singh says market sentiment against data centres had dented flotation",
+      "section": "news",
+      "rankScore": 0.463264
+    },
+    {
+      "id": "037f48fe206dbcb9",
+      "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
+      "url": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
+      "source": "npr-news",
+      "publishedAt": "2026-09-16T23:07:40.000Z",
+      "author": "Alejandra Borunda",
+      "excerpt": "No one across the U.S. is consistently tracking climate-fueled deaths. One medical examiner has a new protocol on heat-deaths.",
+      "section": "news",
+      "rankScore": 0.460363
+    },
+    {
+      "id": "0687c804b8c8877d",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142797",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "excerpt": "据报道，周三，加沙城一栋遭轰炸损毁的建筑坍塌，造成至少20人死亡，搜救行动仍在继续。",
+      "section": "news",
+      "rankScore": 0.424979
+    },
+    {
+      "id": "c74fa06ba70b144b",
+      "title": "原油断供担忧缓和？沙特加速修复输油管道，目标六周内全面恢复",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GNTlRZlhkMXZ3Zk1HazV2QXptUnZBZnN2TDZPeXJGbFhCMndHSmFVaFkzNkFvSzVrbFJFVjA2b2RWU3Mzbm1xaA?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-17T00:59:00.000Z",
+      "excerpt": "原油断供担忧缓和？沙特加速修复输油管道，目标六周内全面恢复 财联社 美国能源部长赖特重申，沙特输油管道即将投入运营。 cj.sina.cn 沙特主要输油管道遭破坏，若停运1月，全球石油产量将少1.2亿桶 凤凰网 亚洲炼厂提前一个月“抢油”！波斯湾原油现货升水飙至38美元/桶 华尔街见闻 石油美元的拐点：波斯湾战争如何重塑全球金融秩序 财新",
+      "section": "news",
+      "rankScore": 0.413153
+    },
+    {
+      "id": "79dfd5edad95e7ca",
+      "title": "湖北恩施通报“主播假冒村干部直播带货”：已立案调查",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697995.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-17T01:26:43.000Z",
+      "excerpt": "中新网9月17日电 据“恩施市市场监督管理局”微信公众号消息，湖北恩施市市场监督管理局16日发布情况通报称，近日，有媒体报道注册地在恩施市的湖北天企盈文化传媒有限公司运营的直播账号，涉嫌假冒村干部身份进行直播带货。获悉相关信息后，恩施市市场监督管理局第一时间组建工作专班开展调查核实工作。",
+      "section": "cn-news",
+      "rankScore": 0.835544
+    },
+    {
+      "id": "875725f5d071dd9c",
+      "title": "全球南方团结自强的生动写照",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10697982.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-17T01:02:51.000Z",
+      "excerpt": "近日，国家主席习近平圆满结束对埃及的国事访问。在地区安全形势复杂演变、世界经济不确定性上升的背景下，习近平主席时隔10年再访埃及，不仅为深化中埃全面战略伙伴关系擘画新蓝图，也为观察全球南方国家如何携手应对共同挑战、探索自主现代化路径提供了重要契机。",
+      "section": "cn-news",
+      "rankScore": 0.758623
+    },
+    {
+      "id": "9b3cda2be54026b5",
+      "title": "A股开盘：超3800只个股飘绿，三大指数集体低开",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698008.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-17T01:30:51.000Z",
+      "excerpt": "A股开盘：超3800只个股飘绿，三大指数集体低开；贵金属、半导体、通信设备、农业下跌，海运上涨",
+      "section": "cn-news",
+      "rankScore": 0.627691
+    },
+    {
+      "id": "f6d2565c46dc6a16",
+      "title": "天下黄河第一村的新生活：守住文脉守住绿色，硬核城市闯入新路子",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EMTVOWHVXY2hOWTlMLWdwelI3MWF3TGdId1IwUDVYVC1rNTVFU3JoVTY4RzJyc3IyclBKZG93OWE1YUZnS3drNVZHWU5tbmZoeFpZVFFmXzhXTHlhMUE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-17T00:21:00.000Z",
+      "excerpt": "天下黄河第一村的新生活：守住文脉守住绿色，硬核城市闯入新路子",
+      "section": "cn-news",
+      "rankScore": 0.610229
+    },
+    {
+      "id": "a0f5af724fdffc31",
+      "title": "襄阳古城三大地标焕新亮相",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHek96M19ldG5DbkFld09OcGNwbHFLZ2Zvc0JJR2pOU295N3pXdk5zcVIxTTItWUlTc3BSdTFwZ2RueHZQUWRhYm9LNGFTRVBCVTlBVXkyZEJrRUpEdFpxMThCd1M5TTQ3OWRtY2NEM2hMaXc?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-17T01:13:00.000Z",
+      "excerpt": "襄阳古城三大地标焕新亮相 hubei.gov.cn 多国驻华外交官“相约知音湖北” Sohu 知音湖北觅知音|中外媒体行走进襄阳 感受“侠义古城”千年文脉与时代新韵 人民网－湖北频道 襄阳：文脉绵延，古韵新姿 凤凰网 加快打造知名文化旅游目的地助力旅游强国建设 راديو يو اف ام",
+      "section": "cn-news",
+      "rankScore": 0.553981
+    },
+    {
+      "id": "5341c031846b403e",
+      "title": "APP广告，别欺负老年人",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByOWcxa2tJVThEY1ozOFFxZlZjRFNYRFh5UVdjYzNHZC1LYVROSkdhMkVWVk1yTTlKMndBYnhPR1NPZ2NpYXgwSURhcWp0WHZuNjlxZW13?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-16T19:04:41.000Z",
+      "excerpt": "APP广告，别欺负老年人 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.53115
+    },
+    {
+      "id": "6425804c047ed167",
+      "title": "国内商品期货早盘开盘 主力合约跌多涨少",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NZVVuZEI5SzNiRUJCaExZMmlBWmxmY1RFQ3kzSFllZm9WUjNIa0dwRFY1RkFOVE1MWERVZjZabnZFX3hxTldwbWlzS0hxR215UGRobnZhZWZDQ1hzZDktMThpdy1zUQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-17T01:01:07.000Z",
+      "excerpt": "国内商品期货早盘开盘 主力合约跌多涨少 东方财富 开盘|国内期货主力合约涨跌不一 乙二醇（EG）涨超4% 新浪财经 油价大爆发！国内原油期货首次升破900元/桶 thepaper.cn 突然，集体暴跌！网友直呼：“熊出没，无疑了！”到底发生了啥？ Sohu 上海原油连续主力合约涨11% 金融界",
+      "section": "cn-news",
+      "rankScore": 0.482423
+    },
+    {
+      "id": "86c4c5855c8c938f",
+      "title": "Japan’s Natuna port proposal highlights Indonesia’s balancing act on China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3367757/japans-natuna-port-proposal-highlights-indonesias-balancing-act-china?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-17T01:00:08.000Z",
+      "author": "Laura Zhou",
+      "excerpt": "Japan’s proposed port upgrades in Indonesia’s Natuna Islands reflect Tokyo’s push to bolster South China Sea security without building an overt military footprint. However, analysts stress that the move does not mean Jakarta is siding with Japan in its efforts to contain Beijing.",
+      "section": "cn-news",
+      "rankScore": 0.482232
+    },
+    {
+      "id": "71d8f56683cd19d7",
+      "title": "亚运会丨中国男足小组赛首战逆转击败朝鲜队",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSm10eGVaYzlCa21IVWZ6S3lGTVBVemd5cUNscE5EcFlYcVhndnNlZ3cza2hIWUhvYklHMFhiLUZvS2gtdDhhcEg3dDBaVGZkdkhRWEticXVZNWYzQ3RXWlZyTnk0SGlTY29fNEh1anM5ekxZdHRlRHVIcU05cnhEbE5mUnJiV0hwU2tqdk1aZEoxdU9XN25ReXVn?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-17T01:22:33.000Z",
+      "excerpt": "亚运会丨中国男足小组赛首战逆转击败朝鲜队 app.xinhuanet.com",
+      "section": "cn-news",
+      "rankScore": 0.417078
+    },
+    {
+      "id": "c179e7090f09a990",
+      "title": "南京博物院受贈文物遭竊 前院長徐湖平被判3年",
+      "url": "https://www.cna.com.tw/news/acn/202609160343.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-16T12:30:04.000Z",
+      "excerpt": "（中央社台北16日電）據新華社報導，南京博物院（南博）相關受贈文物管理問題所涉責任單位和人員，已被依規依紀依法處理。其中，南博前院長徐湖平被判處有期徒刑3年，並處罰金人民幣20萬元（新台幣94萬元）。",
+      "section": "cn-news",
+      "rankScore": 0.38444
+    },
+    {
+      "id": "ce6c2988f2f139c3",
+      "title": "给AI训练“喂语料”，版权账怎么算？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698005.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-17T01:22:54.000Z",
+      "excerpt": "一些作品在著作权人不知情、未获酬情况下被用于训练模型，有出版社声明“禁止使用、违者必究”",
+      "section": "cn-life",
+      "rankScore": 0.834272
+    },
+    {
+      "id": "45674158e6a330f7",
+      "title": "海南保亭遭强暴雨后：有村民称30余亩菜地全部被淹，海南拨款1900万元用于救灾",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQall6T0JCTDRBSkpnbDJJXzFpQWRRYTB2WTY2QllLZjB5eG9OQVg4LVMtRWNFci1mRVFVME9yNjNrNFFhd1dST2FkMHRFQzljZzBhTW12S2RtNDcwa3N6eDAtNkxyclJacVJFRWl3MkxoNFdYSXBMU0VGUWVucjJrdlMxRlRXNWIzckJEVnhPT1BkLUhld0k2Mw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-17T01:11:32.000Z",
+      "excerpt": "海南保亭遭强暴雨后：有村民称30余亩菜地全部被淹，海南拨款1900万元用于救灾 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.622862
+    },
+    {
+      "id": "43fbd3b9167144ed",
+      "title": "随州曾都区：医保新政进校园 贴心服务护航新生 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRURYc1U0RHJRQTBEcW1ZT0d1cEpKTWdpWURpSjR2X0NBa29jQTZOX29qOGlTTVhzTDVXQ3JqY1IzZ0c3SlpocUNRdDRsTmJMNW1rbmFrU0diNEgxNFFVWW1KVWRvRWh2aWRCS0xQdmxSRmJaTURQNW12dTFHd0t3a280alNIVWd3?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-17T01:11:00.000Z",
+      "excerpt": "随州曾都区：医保新政进校园 贴心服务护航新生 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.622729
+    },
+    {
+      "id": "0c171cea743aa330",
+      "title": "江苏徐州:巡察守护群众安居梦———",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82OTJZWTZrdUJwc3BjUkh3WUpSeGdWMkZTLW1PbDlzb3Nsb1NhZ2dzOC1xRlM2S2RfUGE4WkNPcXpUd3NVTUlLWDZBSTAzbkVGLWFrandwNUMxUkVSMXo3dFY4NEZ2Rm9hSkE?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-17T01:07:00.000Z",
+      "excerpt": "江苏徐州:巡察守护群众安居梦———",
+      "section": "cn-life",
+      "rankScore": 0.552648
+    },
+    {
+      "id": "0375c891da79c0a1",
+      "title": "64位门槛落地：苹果watchOS 27开始筛选不兼容第三方应用",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzN6UFR5Y3VzNVpkeUNNR0VzclRpd1FoLUxhYW1RUklzOFdhR0l4T2ZLYjNKd051NFE2b1ZDR3Z5OEJfS0JsdEJST2RDZk5tS0xjZzZsSlFHRXBmblJTVnR6alFJYTdmNHNta2VhNzJEWERxX1RzUDdWMUxWZi1NaTNvb00zZ29CRHhhTGxnazBlMTJzbTNMRXdfUFNIYXREWllEX3lsSQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-17T01:28:36.000Z",
+      "excerpt": "64位门槛落地：苹果watchOS 27开始筛选不兼容第三方应用 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.487767
+    },
+    {
+      "id": "86e1a8092b2304ea",
+      "title": "重磅指南发布！自身抗体检测正式纳入健康体检指南，浩欧博纳博克 全维度助力早筛早诊",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83SWNMMWFGc2pkeW41LUw5aGxjT0VCSjc0SV9Qd0lRZGVNRU5Nb01ncEtkQUZuM0FFYzR4TUgzUXNUaU5mNTZLTE9qNnljRGhjSEFUWlFja2lVeW45eVowc0lR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-17T00:53:46.000Z",
+      "excerpt": "重磅指南发布！自身抗体检测正式纳入健康体检指南，浩欧博纳博克 全维度助力早筛早诊 同花顺财经",
+      "section": "cn-life",
+      "rankScore": 0.480994
+    },
+    {
+      "id": "65636b06e77fe4a7",
+      "title": "蛋白含量比鸡蛋高，膳食纤维比燕麦更优秀！这种食材错过太可惜",
+      "url": "https://www.chinanews.com.cn/life/2026/09-16/10697647.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-16T09:38:39.000Z",
+      "excerpt": "蛋白含量比鸡蛋高，膳食纤维比燕麦更优秀！这种食材被严重忽视了！错过太可惜",
+      "section": "cn-life",
+      "rankScore": 0.432935
+    },
+    {
+      "id": "cf7b952289228485",
+      "title": "从琅琅书声到青春奔赴",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VVzFLYnlnTlVRQW96d1hJdW9BZ3pfeFhGSkhaQ2Z5MWhXUnJWVjRSTC1yZGhVeTRuLXp6anc4NUNWS1pjeFUxdkRjZXJVZ0EwdkpvQm1GUUdsVUJndjFicmFQMUg1ZzRnTmFz?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-17T01:31:07.000Z",
+      "excerpt": "从琅琅书声到青春奔赴 中国教育新闻网",
+      "section": "cn-life",
+      "rankScore": 0.418505
+    }
+  ],
+  "warnings": []
+}
