@@ -1,0 +1,197 @@
+{
+  "date": "2026-09-18",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-18T00:10:22.756Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "15e2fb04286b1ee4",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-18T00:10:22.756Z",
+      "score": 1171,
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "section": "tech",
+      "rankScore": 1.172308
+    },
+    {
+      "id": "ee86742c58a247c8",
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "source": "hn-front",
+      "publishedAt": "2026-09-17T16:25:37.000Z",
+      "score": 421,
+      "author": "bookofjoe",
+      "excerpt": "421 points · 124 comments · https://news.ycombinator.com/item?id=49743097",
+      "section": "tech",
+      "rankScore": 1.027079
+    },
+    {
+      "id": "84ec0fd4ef90208d",
+      "title": "Why client SDK generation belongs in the open",
+      "url": "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
+      "source": "google-developers",
+      "publishedAt": "2026-09-18T00:10:22.756Z",
+      "excerpt": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "0562f690eb1c1b50",
+      "title": "Copilot impact dashboard now shows feature engagement",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-17T21:47:27.000Z",
+      "author": "Allison",
+      "excerpt": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more…",
+      "section": "tech",
+      "rankScore": 0.660297
+    },
+    {
+      "id": "83858c684e856b04",
+      "title": "bonobomock: A GoogleTest-compatible C++ mocking library",
+      "url": "https://github.com/bloomberg/bonobomock/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-17T20:06:00.000Z",
+      "author": "github.com via ceph",
+      "section": "tech",
+      "rankScore": 0.616314
+    },
+    {
+      "id": "b960e3261bca6c29",
+      "title": "AI Skills with Matt Pocock",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-09-17T11:29:00.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Matt Pocock explains how he uses AI coding skills and agents to plan and build software, and why engineering fundamentals matter more than ever.",
+      "section": "tech",
+      "rankScore": 0.537356
+    },
+    {
+      "id": "6d7f1d193328765f",
+      "title": "v2.1.275",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.275",
+      "source": "anthropic",
+      "publishedAt": "2026-09-17T22:33:17.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added the signed-in account to Claude apps gateway sign-in: when the gateway names it, you confirm it before the credential is saved, and /status shows it Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn and sends all queued messages at once; sent…",
+      "section": "ai",
+      "rankScore": 0.841286
+    },
+    {
+      "id": "94952eaa848bd212",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-17T23:59:19.000Z",
+      "excerpt": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to…",
+      "section": "ai",
+      "rankScore": 0.836312
+    },
+    {
+      "id": "9cfef9df2bc59aff",
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-17T20:00:00.000Z",
+      "author": "Prem Ramaswami",
+      "excerpt": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "section": "ai",
+      "rankScore": 0.63045
+    },
+    {
+      "id": "1364f83a1bc51aad",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "source": "openai",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "excerpt": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "section": "ai",
+      "rankScore": 0.621396
+    },
+    {
+      "id": "1d47078a07bea6e9",
+      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+      "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-18T00:10:22.756Z",
+      "excerpt": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "3c23833a25afe0c5",
+      "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-09-18T00:03:02.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息。）...",
+      "section": "cn-tech",
+      "rankScore": 0.715408
+    },
+    {
+      "id": "5b0d9495f8ba9116",
+      "title": "神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra",
+      "url": "https://www.infoq.cn/article/EsH2bUAoMNQx6Nt7vytC?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-17T21:00:00.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.647117
+    },
+    {
+      "id": "816239a2b73878a0",
+      "title": "v2ex 帖子排序机制是什么？过去的帖子顶不上来？",
+      "url": "https://www.v2ex.com/t/1242760",
+      "source": "v2ex",
+      "publishedAt": "2026-09-17T09:01:31.000Z",
+      "score": 10,
+      "author": "s",
+      "excerpt": "https://v2ex.com/t/1063732",
+      "section": "cn-tech",
+      "rankScore": 0.642784
+    },
+    {
+      "id": "5a55e15cecb40feb",
+      "title": "OpenAI被曝雪藏数百个证明，你死磕3年的题，答案可能早在服务器上",
+      "url": "https://www.36kr.com/p/3987517660445700",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-17T23:52:23.000Z",
+      "excerpt": "「如果我想当数学家，看来大概只剩两周了。」 开这个玩笑的，是一个13岁的小女孩。 她的父亲Scott Aaronson，是德州大学奥斯汀分校的理论计算机科学教授，也曾在OpenAI对齐团队担任访问研究员。 9月15日，Aaronson把女儿的这句话写进了一篇长博文里。 同一篇博文里，他还列了一份清单，过去一个月，被AI证明或协助证明的长期开放问题： 雅可比猜想的反例、经Lean验证的费马大定理、量子复杂性理论里悬置多年的难题，全在其中。 真正让数学圈坐不住的，是清单末尾的一则传闻。",
+      "section": "cn-tech",
+      "rankScore": 0.625501
+    },
+    {
+      "id": "40390565ddb9dbd8",
+      "title": "Schneider Electric PowerChute Serial Shutdown",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-07",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Schneider Electric is aware of vulnerabilities in its PowerChute Serial Shutdown product. The PowerChute Serial Shutdown product is a UPS management software enabling graceful system shutdown and energy management capabilities for desktops, servers and workstations.",
+      "section": "security",
+      "rankScore": 0.497117
+    },
+    {
+      "id": "1033021f9038c8f1",
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-17T10:50:53.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand before pointing…",
+      "section": "security",
+      "rankScore": 0.477918
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
