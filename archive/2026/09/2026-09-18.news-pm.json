@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-18",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-18T14:56:58.783Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "c100555798a9ec33",
+      "title": "對台軍售成「特習會」談判籌碼？北京警告或取消峰會施壓特朗普",
+      "url": "https://www.bbc.com/zhongwen/articles/cre30gqdn8xno/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-18T11:18:47.000Z",
+      "excerpt": "中美兩國元首本月稍後預定在華府舉行的「特習會」，是全球矚目的外交焦點，中方仍未公布行程。據報北京警告若華府會前批准新一輪百億美元對台軍售，或將取消峰會。",
+      "section": "news",
+      "rankScore": 0.705725
+    },
+    {
+      "id": "a1480c7ed0d59468",
+      "title": "德副总理访大众总部：促欧盟就插电混动车及本地成分要求采取具体措施",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260918-%E5%BE%B7%E5%89%AF%E6%80%BB%E7%90%86%E8%AE%BF%E5%A4%A7%E4%BC%97%E6%80%BB%E9%83%A8-%E4%BF%83%E6%AC%A7%E7%9B%9F%E5%B0%B1%E6%8F%92%E7%94%B5%E6%B7%B7%E5%8A%A8%E8%BD%A6%E5%8F%8A%E6%9C%AC%E5%9C%B0%E6%88%90%E5%88%86%E8%A6%81%E6%B1%82%E9%87%87%E5%8F%96%E5%85%B7%E4%BD%93%E6%8E%AA%E6%96%BD",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-18T14:21:48.000Z",
+      "author": "弗林",
+      "excerpt": "在造访深陷危机的大众汽车总部时，德国副总理兼财政部长克林拜尔（Lars Klingbeil）要求欧盟对中国汽车制造商征收更严厉的关税；与此同时，中国品牌正朝着2026年在欧洲大陆年销量突破百万辆的目标迈进。",
+      "section": "news",
+      "rankScore": 0.681959
+    },
+    {
+      "id": "9fed09e473b0485f",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-18T14:42:01.000Z",
+      "excerpt": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "section": "news",
+      "rankScore": 0.623094
+    },
+    {
+      "id": "59610c6b54e031dd",
+      "title": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power",
+      "url": "https://www.nytimes.com/2026/09/18/world/europe/germany-afd-bauhaus-culture.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-18T14:51:05.000Z",
+      "author": "Jim Tankersley and Sam Gurwitt",
+      "excerpt": "As the Alternative for Germany party seeks to control a state government for the first time, its push for “patriotic” art has drawn comparisons with Nazi policies.",
+      "section": "news",
+      "rankScore": 0.557581
+    },
+    {
+      "id": "8b9748de570cc009",
+      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
+      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-18T14:42:08.000Z",
+      "author": "Jon Henley Europe correspondent and Jillian Ambrose Energy correspondent",
+      "excerpt": "German minister says companies are ‘exploiting situation’ in Middle East, as sky-high prices become major domestic issue for leaders European governments have discussed imposing a bloc-wide windfall tax on energy companies, as near-record fuel and gas prices pile pressure on leaders desperate to…",
+      "section": "news",
+      "rankScore": 0.553909
+    },
+    {
+      "id": "05e63c3d3eb505b9",
+      "title": "Real Madrid President says Ceuta visit not related to ‘recent news’",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-18T14:37:30.000Z",
+      "excerpt": "Real Madrid stars including Kylian Mbappe rolled up T-shirts showing support for Ceuta, but President trip 'unrelated'.",
+      "section": "news",
+      "rankScore": 0.552008
+    },
+    {
+      "id": "1d0207eec01db777",
+      "title": "【子午播报】2026年9月18日",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142816",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "excerpt": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，古特雷斯召开任内最后一次联大记者会；65年前的今天，联合国第二任秘书长坠机身亡；子午聚焦：赫尔松上空的威胁。",
+      "section": "news",
+      "rankScore": 0.548317
+    },
+    {
+      "id": "9d6cb9bd5098b6bd",
+      "title": "Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56",
+      "url": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-18T14:55:38.000Z",
+      "author": "Alex Williams",
+      "excerpt": "Weary of the heartthrob label after his 1996 hit “Barely Breathing,” he pivoted to musical theater and won two Tonys for composing “Spring Awakening.”",
+      "section": "news",
+      "rankScore": 0.489517
+    },
+    {
+      "id": "e6de3069368f8685",
+      "title": "Former Wells Fargo asset manager Allspring explores $4bn sale",
+      "url": "https://www.ft.com/content/1270032d-25e9-4be0-aa2f-5205b9bedd08?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-18T14:12:56.000Z",
+      "excerpt": "Deal by private equity owners would follow a string of transactions that have reshaped the industry",
+      "section": "news",
+      "rankScore": 0.474188
+    },
+    {
+      "id": "32d4647cf3cb16e8",
+      "title": "Ms. Rachel has entered her album era, and she is so happy about it",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
+      "source": "npr-news",
+      "publishedAt": "2026-09-18T11:00:00.000Z",
+      "author": "Leila Fadel",
+      "excerpt": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
+      "section": "news",
+      "rankScore": 0.40493
+    },
+    {
+      "id": "22be17051bcfe7f4",
+      "title": "巴基斯坦西北部发生爆炸袭击致16人死亡",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeEQ0M0dSc0tsZlQ5M2xCc1UweUpiNjM2bDZkWjRuUWFmVC1ENDZLNWJQNlQ5RV8ybHZxNmVsd084UmRNMzJQRjl1aU1ZQkJqLTgwZnlpS2Y2QldVenhGNHQ0V0NmLUx2RFAyVzZCLXFUTUFzcThGWGJpbk9iVEVfNjJPSjNCdw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-18T13:09:42.000Z",
+      "excerpt": "巴基斯坦西北部发生爆炸袭击致16人死亡 新华网 巴基斯坦一清真寺爆炸数十人死伤 新浪财经_金融信息服务商 巴基斯坦斯拉-哈瓦拉哨所附近一辆载有炸药的三轮车爆炸——《黎明报》 ua.news 巴基斯坦炸药车撞地区警总清真寺 警与施袭者交火至少16死 stheadline.com 巴基斯坦一地同日两起爆炸袭击 已酿21死 联合早报",
+      "section": "news",
+      "rankScore": 0.386991
+    },
+    {
+      "id": "7661a49f03448f3f",
+      "title": "Nepal floods: ‘Apocalyptic’ destruction signals wider climate threat across Himalayas",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168365",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "excerpt": "The catastrophic flooding that swept away entire villages in northern Nepal could occur again in the country or elsewhere in the Himalayas due to climate change.",
+      "section": "news",
+      "rankScore": 0.365545
+    },
+    {
+      "id": "3026a718d68b79e6",
+      "title": "中国证监会拟对十七起案件线索的“吹哨人”给予奖励",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699210.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-18T12:47:50.000Z",
+      "excerpt": "中新网9月18日电 据“证监会发布”微信公众号消息，近日，中国证监会拟根据《证券法》等相关法律法规，对提供以下案件线索的“吹哨人”依法给予奖励：",
+      "section": "cn-news",
+      "rankScore": 0.760525
+    },
+    {
+      "id": "9b44d39e9e7b1e02",
+      "title": "赵乐际、王沪宁分别会见埃及参议长法里德",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-18/10699279.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-18T14:15:14.000Z",
+      "excerpt": "中新社北京9月18日电 全国人大常委会委员长赵乐际、全国政协主席王沪宁18日在北京分别会见埃及参议长法里德。",
+      "section": "cn-news",
+      "rankScore": 0.746451
+    },
+    {
+      "id": "3eed42e58e2345b0",
+      "title": "中国今年前8月新设外企超4.2万家",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699302.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-18T14:25:24.000Z",
+      "excerpt": "中新社北京9月18日电 (记者 尹倩芸)中国商务部18日公布的数据显示，今年1至8月，全国新设立外商投资企业42582家，同比增长0.3%；实际使用外资金额4799.5亿元(人民币，下同)，同比下降5.3%。",
+      "section": "cn-news",
+      "rankScore": 0.615425
+    },
+    {
+      "id": "e60edd3c3c2296bd",
+      "title": "比特币价格回升至8万美元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82ZWFCaDZ6S215N0ZMU2hUX2xJQXA0Z3RSQmFDREp0Y3FjVlhxYzNPRzdYQUVmOUxCRDNrc2FkbVZpZkRIbXJUeW1XRVF4Q1lDLUFHaU1WSEs?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-18T13:52:54.000Z",
+      "excerpt": "比特币价格回升至8万美元 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.600425
+    },
+    {
+      "id": "7ca95191a8f061c2",
+      "title": "在地下迷宫点亮“中国灯塔”，我国地下大空间定位导航技术实现突破",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iZUFhdTJOeXNmcmVPSGtpZk1paThtdmZIRWNnZ2tYczF6eG1rT0hoalVUazllTEdJbG00UHlPQW0zU21KbnRUMVB4MDN4a2ZZU21oZkdkU3RWM1NTVnBrRw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-18T11:31:00.000Z",
+      "excerpt": "在地下迷宫点亮“中国灯塔”，我国地下大空间定位导航技术实现突破",
+      "section": "cn-news",
+      "rankScore": 0.534932
+    },
+    {
+      "id": "81967ea3759fa9f3",
+      "title": "广东南雄小学生画笔下的长征故事丨赓续长征精神 奋进复兴征程",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EMnpPUXhzOVJ6OFEzdFpfZG1POVJoNnlxMXV3VWx6RTNRZEpvLVkyZzJWR3JncFU0d2hJNG1EYkkwOE11c01PODhrMnI5NG1PSVEyLTFlNVFxYjVLbnRjM2t3WQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-18T12:57:40.000Z",
+      "excerpt": "广东南雄小学生画笔下的长征故事丨赓续长征精神 奋进复兴征程 jingjiribao.cn 新华视点丨特色农业多点开花 铺就富民兴村路 新华网 赓续长征精神 奋进复兴征程丨青山多忠烈 薪火照征程——长征精神在粤北的历史回响 光明网 长征路上的梯田新景丨赓续长征精神 奋进复兴征程 新浪财经_金融信息服务商 90多年后，他们回到了长征的起点 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.511051
+    },
+    {
+      "id": "12a243fc07f85144",
+      "title": "傳習近平身體不適從印度匆匆返國 健康狀況謠言四起",
+      "url": "https://www.cna.com.tw/news/acn/202609180279.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-18T12:24:23.000Z",
+      "excerpt": "（中央社新德里18日綜合外電報導）社群媒體近日盛傳，中國國家主席習近平在印度新德里舉行的金磚國家高峰會期間因身體不適，未出席13日的晚宴並且匆匆返國，引發諸多揣測。",
+      "section": "cn-news",
+      "rankScore": 0.497396
+    },
+    {
+      "id": "e550639d24cff3d6",
+      "title": "Are the doors to German universities closing for China’s STEM researchers?",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368056/are-doors-german-universities-closing-chinas-stem-researchers?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-18T14:00:05.000Z",
+      "author": "Cao Jiaxuan",
+      "excerpt": "Chinese AI researcher “Joy” waited more than seven months to hear that his visa application for Germany had been rejected. The 30-year-old had been offered a postdoctoral position at a German technical university but the rejection letter said there was an Ausweisungsinteresse, or public interest…",
+      "section": "cn-news",
+      "rankScore": 0.469576
+    },
+    {
+      "id": "d652f1ab60e91a97",
+      "title": "做优衣库还是苹果？朱江明给零跑做了一套组合方案",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zT1FVaW5fMG16anpFUXRsbFVvazVTMmUxUU9HS1NpUzMzTGpmMkVUMFd5dnBzTXRXOXREaWRBaW1VWC1TUXdPVDk5dUg3b0RRZ2twclNPOENVYmdCRjZqZDdrSmY?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-18T13:53:00.000Z",
+      "excerpt": "做优衣库还是苹果？朱江明给零跑做了一套组合方案 新京报 别人对标特斯拉，零跑却选择成为苹果 凤凰网汽车 零跑官宣第二品牌，新车将有小米 SUV 同款升顶能力 ifanr.com 从优衣库到苹果：零跑想重做一遍自己 新浪新闻_手机新浪网 一套架构＋三大技术＋多项储备，零跑技术日展示11年全域自研底气 中国经济网",
+      "section": "cn-news",
+      "rankScore": 0.467033
+    },
+    {
+      "id": "bae750d4ea68a210",
+      "title": "第五届全国老健会匹克球交流活动长沙启幕 全国32支代表队以球会友",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SQURPUmVyd0MtcmNSeVhmUnZReVdHd0VDcjJzYnRMQUJhWHIycGRwNG9Fb0QzeER4NFB2aGphalMwc1lDaEZJRTBYNXh2aU1GZld1bkFxRHhfYzlyUHRQUEZDVGZHdm42bHlGSjZqSQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-18T14:44:00.000Z",
+      "excerpt": "第五届全国老健会匹克球交流活动长沙启幕 全国32支代表队以球会友 hn.chinanews.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.416006
+    },
+    {
+      "id": "16aaea8bfe8f8003",
+      "title": "艺人陈建州突发心梗住院，自曝每天只睡三四个小时！医生提醒",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699315.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-18T14:45:25.000Z",
+      "excerpt": "原标题：从鬼门关捡回一命！艺人陈建州突发心梗住院，自曝每天只睡三四个小时，医生提醒：身体的累，真的不能硬扛",
+      "section": "cn-life",
+      "rankScore": 0.832884
+    },
+    {
+      "id": "7eef176c49667d9e",
+      "title": "民生银行经央行批准发行100亿元金融债券 3年期利率1.58%",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QVUN2aE85cGt6OGZGLVRWVFhmMmFTbGtMYVpSczdNbzNXbHpTMVlCSlRRZVhuU2l2Z2ktWElZcTZIT3hNbWlRSzZpcFpTV3JNaU41eFZqblNlc25kZ0h3X29B?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-18T14:23:28.000Z",
+      "excerpt": "民生银行经央行批准发行100亿元金融债券 3年期利率1.58% 观点网",
+      "section": "cn-life",
+      "rankScore": 0.614532
+    },
+    {
+      "id": "3dd6e1e375c42def",
+      "title": "四川甘孜州新龙县附近发生3.3级左右地震",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLcnRSZzAwZ3JSeTd1dU1NRmFQbDBpRE1teE9MNFJLY21VaVc3T0g3dWczZ25uZnB0blcwbUZrcE9VYklPQVRfNGkwSk9qRi0zdzNZMUd4cFE?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-18T12:50:00.000Z",
+      "excerpt": "四川甘孜州新龙县附近发生3.3级左右地震 Jiemian.com",
+      "section": "cn-life",
+      "rankScore": 0.571394
+    },
+    {
+      "id": "fd24e394b773bd83",
+      "title": "中央企业负责人2025年薪酬信息披露",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RUEtlYVFNUlNDYjZWYmJqb09FTWNIdjF3Q2R2UmU5T1BkclFRdENlbGxSOGprR3JxU2J6ZjY0RmExTnhvenpuWTdSX1ZvQzRINjJqTjNrcXlyQUdLV0RfN0Vn?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-18T14:02:54.000Z",
+      "excerpt": "中央企业负责人2025年薪酬信息披露 court.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.537813
+    },
+    {
+      "id": "95e3d6bffd435262",
+      "title": "让人过敏的蒿草来自哪、怎么治？花粉过敏人群要做好以下防范",
+      "url": "https://www.chinanews.com.cn/life/2026/09-18/10699003.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-18T07:46:21.000Z",
+      "excerpt": "蒿属植物花粉成为北方地区秋季主要过敏原之一",
+      "section": "cn-life",
+      "rankScore": 0.479164
+    },
+    {
+      "id": "d8f685d63c3b6094",
+      "title": "存在安全隐患，超18万辆比亚迪被召回",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyRUVPTFZ6S1VYbUdsN3R2NnltN1dLdFN5bWZWaHdhMk9RaVRhVFBRM25GYUd6Zm5xM0Z0b3A0Z2dXcl92ZjFLQjd5RlhWZjBkd2JyaTBOaF8wUURZZGVfOWlTN1dqNnUzTmFoMW1FeHR4dmJCLUdNMQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-18T14:26:00.000Z",
+      "excerpt": "存在安全隐患，超18万辆比亚迪被召回 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.478879
+    },
+    {
+      "id": "96d6c1fa3518ac82",
+      "title": "专家：并非所有智齿都要拔除 正位无炎症可保留",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GWUpMRmJrZk12ZldYM1R0LWxJU0VCX2dLWFZxSEFrX2F3QzcxZm5ocXhOcXp3XzFHQy1QQUx0bmVuRWwxVFduelVQZDRLTlpPcXBTWm9FRjFDbmxsVFNBVnhEZXBiSGxGZUJVeTRYeTk?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-18T12:50:13.000Z",
+      "excerpt": "专家：并非所有智齿都要拔除 正位无炎症可保留 中华网 智慧齿不痛到底要不要拔？牙医：拖到老了再拔牙并发症随之增加 香港01 鲁医健康说| 智齿反复发炎该拔吗？专家：这几类建议及时处理_健康要闻 大众网",
+      "section": "cn-life",
+      "rankScore": 0.444495
+    },
+    {
+      "id": "0bb4a3f3a5b2ebb0",
+      "title": "【福建日报、新福建、福建省人民政府】头版｜一馆一物皆课堂 一景一情含教育",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BTE1idTBfY3JXX0d5d3FzZVNGUlpCS0tZVjBqaXpxenAtTndTSjktZk1iTmMxQ01jaGxWTXBMRjhITFY4RkpzS1NidWl0TFZfZ2s0aTRkSQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-18T14:38:55.000Z",
+      "excerpt": "【福建日报、新福建、福建省人民政府】头版｜一馆一物皆课堂 一景一情含教育 福州大学",
+      "section": "cn-life",
+      "rankScore": 0.414442
+    }
+  ],
+  "warnings": []
+}
