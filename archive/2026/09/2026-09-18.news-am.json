@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-18",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-18T00:45:06.008Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "b8bcf22064ccbdef",
+      "title": "習近平訪美前瞻：當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-18T00:19:45.000Z",
+      "excerpt": "日媒稱美中峰會前，白宮若批准新的對台軍售，習近平可能不去華府。對台灣的軍售從原則如何變成交易槓桿，台灣的晶片牌仍然有效嗎？",
+      "section": "news",
+      "rankScore": 0.83155
+    },
+    {
+      "id": "c6fe676f29ce974f",
+      "title": "全球经济回旋余地正在减少，前景恶化",
+      "url": "https://cn.nytimes.com/business/20260918/iran-war-energy-prices/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-18T00:14:07.000Z",
+      "author": "PATRICIA COHEN",
+      "excerpt": "自伊朗战争导致全球能源流动中断以来，很多国家勉力应对冲击，人们担心的全球经济崩溃并未出现。但随着战争持续，能源价格高企及通胀压力加剧，经济风险进一步增加。 Finbarr O'Reilly for The New York Times 索马里的一片洋葱田。进口能源和化肥成本飙升可能压低非洲各地的收成并推高食品价格，最贫穷国家受冲击最重。",
+      "section": "news",
+      "rankScore": 0.760533
+    },
+    {
+      "id": "61a904e4f66787b2",
+      "title": "白宫特习会 北京放长线钓大鱼？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260917-%E7%99%BD%E5%AE%AB%E7%89%B9%E4%B9%A0%E4%BC%9A-%E5%8C%97%E4%BA%AC%E6%94%BE%E9%95%BF%E7%BA%BF%E9%92%93%E5%A4%A7%E9%B1%BC",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-17T22:28:13.000Z",
+      "author": "安德烈",
+      "excerpt": "如果不出意外的话，中国国家主席习近平将于9月24日对美国展开国事访问。中美在人工智能、中东战争以及贸易问题上分歧重大，但据白宫官员周四向法新社透露，特朗普仍准备以最高礼遇接待来宾。",
+      "section": "news",
+      "rankScore": 0.661977
+    },
+    {
+      "id": "816bcf9efd07a0a3",
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-17T21:41:19.000Z",
+      "excerpt": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "section": "news",
+      "rankScore": 0.584054
+    },
+    {
+      "id": "0333e32e8d39dcbb",
+      "title": "Australia news live: Asio chief Mike Burgess says Iran may want to ‘kill prominent Jewish Australians’ and warns antisemitism at ‘disturbing’ levels",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-18T00:34:25.000Z",
+      "author": "Stephanie Convery",
+      "excerpt": "Follow the day’s news live Australia needs to slow down its artificial intelligence use and create better security laws, the companies creating the technology have told the federal government.",
+      "section": "news",
+      "rankScore": 0.557626
+    },
+    {
+      "id": "1df4d6629d8ddbd1",
+      "title": "Iran expels Swedish diplomat in retaliatory move",
+      "url": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-18T00:09:32.000Z",
+      "excerpt": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure.",
+      "section": "news",
+      "rankScore": 0.552096
+    },
+    {
+      "id": "890e65df9ad4fc10",
+      "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-17T22:44:03.000Z",
+      "author": "Ismaeel Naar",
+      "excerpt": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province.",
+      "section": "news",
+      "rankScore": 0.5331
+    },
+    {
+      "id": "70802b5b21cd305f",
+      "title": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History",
+      "url": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-18T00:43:08.000Z",
+      "author": "Karen Weise and Mike Isaac",
+      "excerpt": "Newly unsealed court documents showed concern within Microsoft and OpenAI over the use of millions of news articles to develop A.I. systems.",
+      "section": "news",
+      "rankScore": 0.489618
+    },
+    {
+      "id": "27bdead252675981",
+      "title": "French premier Lecornu proposes big spending cuts to reduce deficit",
+      "url": "https://www.ft.com/content/ad358e9f-4daf-4a2a-a100-3c1effa6de11?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-17T23:09:44.000Z",
+      "excerpt": "France’s minority government heads for a showdown with parliament over the country’s budget",
+      "section": "news",
+      "rankScore": 0.471456
+    },
+    {
+      "id": "9c8f6d53994caef0",
+      "title": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice",
+      "source": "npr-news",
+      "publishedAt": "2026-09-17T21:17:39.000Z",
+      "author": "The Associated Press",
+      "excerpt": "The White House says it is withdrawing its nomination of Lance Schroyer, a former Oklahoma state trooper, to lead ICE, ensuring that an agency at the forefront of President Trump's domestic agenda will remain without a Senate-confirmed leader for at least a while longer.",
+      "section": "news",
+      "rankScore": 0.449662
+    },
+    {
+      "id": "5b01e57be8a9c50d",
+      "title": "世卫组织呼吁加强传统医学研究以满足日益增长的卫生需求",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142813",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "excerpt": "世界卫生组织周四呼吁加强传统、补充和整合医学研究，以弥合全球卫生领域的证据缺口，更好满足日益增长的卫生需求。",
+      "section": "news",
+      "rankScore": 0.438725
+    },
+    {
+      "id": "852988615ff1cc8d",
+      "title": "特朗普称将决定是否恢复对伊朗大规模作战",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01ZGxtUi1DMEZVbFJsdExCNFg5a3lqWlFUa1RHRTNHVTVRWWNlQnROeWtlQ2h5bUd3T0ttVDdmX18xbnpkU1F0ZnNtbTVqVy1JSlQw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-18T00:01:14.000Z",
+      "excerpt": "特朗普称将决定是否恢复对伊朗大规模作战 华尔街见闻 特朗普：希望在联合国与盟友讨论对伊朗的措施。 新浪财经 特朗普下周与海湾国家领导人会晤讨论伊朗局势 mil.ifeng.com 美以伊最新局势：特朗普称将作重大决定，或恢复大规模作战消灭伊朗；美称批准伊朗高层领导人签证；伊朗超3100万人报名“抵抗营” thepaper.cn 油价连续回落，特朗普表态伊朗战争正站在重大十字路口上，即将做出一个重大决定 Sohu",
+      "section": "news",
+      "rankScore": 0.412689
+    },
+    {
+      "id": "e4b448b99f372ea4",
+      "title": "美国一架F-16战斗机在密歇根州坠毁 飞行员弹射逃生",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698631.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-17T23:08:49.000Z",
+      "excerpt": "中新网9月18日电 综合外媒报道，美国密歇根州警方警方称，当地时间9月17日下午，一架F-16战斗机在密歇根州西北部大特拉弗斯县布莱尔镇坠毁。",
+      "section": "cn-news",
+      "rankScore": 0.807906
+    },
+    {
+      "id": "3e7f4edccd1b8300",
+      "title": "勿忘今日，勿忘九一八！",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-18/10698647.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-18T00:33:06.000Z",
+      "excerpt": "1931年9月18日",
+      "section": "cn-news",
+      "rankScore": 0.766333
+    },
+    {
+      "id": "a239f03ee613aafe",
+      "title": "德国凯傲高级副总裁：中国为物理人工智能应用提供重要支持",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698634.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-18T00:20:11.000Z",
+      "excerpt": "中新社柏林9月17日电 (记者 马秀秀)德国凯傲(KION)集团软件与数字化高级副总裁史蒂夫·本特利(Steve Bentley)近日在柏林一场活动中对记者表示，中国丰富、活跃且发展迅速的产业生态，为物理人工智能在物流行业的应用提供了重要支持。扩大在中国的布局，是凯傲战略的一部分。",
+      "section": "cn-news",
+      "rankScore": 0.623771
+    },
+    {
+      "id": "35fb2bbf35a4f01c",
+      "title": "中方反对在安理会强推恢复对伊朗制裁",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ROEZaQlM0cGtXNXlnX2VvdUs0WmN5WllWbWZ3SzBJbnBMQ0duYV9NMmtBZjVlNkpWTHN1cy1jRXhiMXE0WjN1bEtULXBmRnhMWVNPQnVB?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-17T23:30:28.000Z",
+      "excerpt": "中方反对在安理会强推恢复对伊朗制裁 jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.611342
+    },
+    {
+      "id": "0256de6758cff134",
+      "title": "小麦烂在仓里，化肥买不到手，厄尔尼诺来袭：战火与气候夹击下的粮食困局",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54dzJVTVdrZm5hdVlUZlo3ZWxvM3JMdEtYWmV5c1NwT2ZKZ1pIbktkMWpNbkNZbnBQTWN5dnZyQzFyNHRmQ0c2UmV5WnNKUkh6THF0cjVPem5xSEZhYnM2Sw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-17T23:26:00.000Z",
+      "excerpt": "小麦烂在仓里，化肥买不到手，厄尔尼诺来袭：战火与气候夹击下的粮食困局",
+      "section": "cn-news",
+      "rankScore": 0.610225
+    },
+    {
+      "id": "f990378a9ae18116",
+      "title": "学习语丨努力培养更多高素质人才",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yUUNQNjBRbktpRGpBZFpsaXNrbmUxQWZGazFUelBaejZscjg2bVJvWGdrWDgyYmRhX3cyVktMSTNHTEZrcU1sVzUxOVVmYUdGRDVOX2JyRWpwT1piVFRfcnhtVlNqT2gxN21VZFRUWkdtRW8?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-18T00:21:57.000Z",
+      "excerpt": "学习语丨努力培养更多高素质人才 党建网 天天学习｜从一封贺信读懂“先生向北”的故事 光明网 聚焦国家战略需求 努力培养更多高素质人才 人民日报 服务国家战略 造就栋梁之材 新浪财经 青春华章｜吉林大学每栋标志性楼宇都住着一位大先生 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.554856
+    },
+    {
+      "id": "68a8921c3abb8e75",
+      "title": "外交部：在“一国两制”下，香港经济蓬勃发展",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mU0thTGF1N0U1N2ItWFQ4LWtOZ3RxcHhUdDNJV05kaVp6TldPWXBnaDV0RmR3eHhuaEhzMmprS3B3N0hIYk9aVW54OUhFelBwMElORUpveUtTYWRRR2lNaEF4X1JaSDVTdW1TOXVjUmRpUTN1MEE?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-18T00:15:33.000Z",
+      "excerpt": "外交部：在“一国两制”下，香港经济蓬勃发展 习近平外交思想和新时代中国外交 全球金融中心指数香港蝉联亚太区第一 外交部：这是国际社会投下的又一张信任票 新浪财经 外交部：港股市场上半年IPO融资额达2033亿港元，居全球第二 中国青年网 2026年9月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 mfa.gov.cn 深圳升至全球金融中心第8位 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.484254
+    },
+    {
+      "id": "73f7cc512a9250ea",
+      "title": "US families ramp up efforts for loved ones’ release from China ahead of Xi’s visit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3367914/us-families-ramp-efforts-loved-ones-release-china-ahead-xis-visit?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-17T21:53:45.000Z",
+      "author": "Han Li,Lucy Quaggin",
+      "excerpt": "Chen Youlin, a Chinese-American scientist, travelled back to China in October 2024 for a month-long holiday, including to celebrate his mother’s 80th birthday. As he prepared to leave, authorities arrested him at the airport in Beijing.",
+      "section": "cn-news",
+      "rankScore": 0.456682
+    },
+    {
+      "id": "20677a4c818b1edc",
+      "title": "特斯拉無人駕駛電動車 上海只展不賣",
+      "url": "https://www.cna.com.tw/news/acn/202609170356.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-17T14:38:42.000Z",
+      "excerpt": "（中央社記者馮昭上海17日電）沒有方向盤、沒有加速及煞車腳踏板、沒有後照鏡、沒有駕駛座，這是特斯拉無人駕駛電動車，今天開始在中國實車展出，但只展不賣。",
+      "section": "cn-news",
+      "rankScore": 0.425244
+    },
+    {
+      "id": "50bc1c873aad7048",
+      "title": "中国女足1:1战平乌兹别克斯坦 无缘延续交锋全胜纪录",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGd29sMC1RbldJM0Exa3BsYmxjYmFPSzJvTDBnd082MUV2cUE4M2J6OVlZUXZHSHpCMDlxX2wyTUl4U2ZYcnBGRmNIVjY0cTA2bUM5WExwRG8ybWprMHRrU0xaODNXQ0g4VGFvT2F3?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-17T23:55:00.000Z",
+      "excerpt": "中国女足1:1战平乌兹别克斯坦 无缘延续交锋全胜纪录 人民网财经 亚运会丨中国女足主帅：仍有信心以小组头名出线 新华网 1比1战平乌兹别克斯坦 女足仍有望争小组头名 新浪财经 记者观察｜米利西奇，该着急了！ Sohu 亚运会丨足球——女足小组赛：中国队战平乌兹别克斯坦队 新华网",
+      "section": "cn-news",
+      "rankScore": 0.41165
+    },
+    {
+      "id": "26f742428ca0b08e",
+      "title": "钱俊伟：雪山应走向科学开放",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10698639.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-17T23:58:05.000Z",
+      "excerpt": "中国新闻周刊记者：倪纷纷",
+      "section": "cn-life",
+      "rankScore": 0.824328
+    },
+    {
+      "id": "a41984bbd80d15e7",
+      "title": "台风“杜鹃”生成，杭州周末有雨！好消息：满城桂花的日子快到了",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OVEpaaC1hOXUwdWNSV21uTl9LVkp1bXBPY3RWeUVwS3k3RjdXRjdXckVLMlc0TzVSaUFrMjFDLVMwRWh5UzVvLW1yNmtkQ0N4cVBxTTZZcjVLLXdnWndJVVJB?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-18T00:28:35.000Z",
+      "excerpt": "台风“杜鹃”生成，杭州周末有雨！好消息：满城桂花的日子快到了 hzsc.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.625871
+    },
+    {
+      "id": "3272b11916d062d4",
+      "title": "快讯：日本8月消费者物价上涨1.7%",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41VmtjbHBSTUs4ajV0NGhkR2JWTTZ3Nm9tQmNIellwREJNV1RDTHk5TDhxMlBINGdIV1FwZEF3ZE1VMjRRNDNORzFOczdKOGQ5eXJRN2tnTQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-17T23:58:46.000Z",
+      "excerpt": "快讯：日本8月消费者物价上涨1.7% 共同网",
+      "section": "cn-life",
+      "rankScore": 0.618417
+    },
+    {
+      "id": "80a1df178d4d85d0",
+      "title": "案件类型",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYZU9WWkk1d1lBcURJVDZFRy1NWFZnT1hjWkVLNEtPWlg4V3Awel9rdzZmMDhHczJmczVWTUdNek5nbm54N0JVWWJCTzVCSjl0aFZnV0JUX0R1a0hn?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-17T23:30:07.000Z",
+      "excerpt": "案件类型 企业破产重整案件信息网",
+      "section": "cn-life",
+      "rankScore": 0.543337
+    },
+    {
+      "id": "494f39d82e0c4b69",
+      "title": "关乎日常用药！河南更新复方丹参片等药品集采标准",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdXdUTjRtZDl4dEF4YkF2QXRQNk1EekNDYW9ST2N1MVNxeEJkX1RpVUpkUTRlWmlkZ0ZXRHg1dG4wdXlYWXR5LWVhSlpFTEhDc0JodVMxUkR4a043OEJLa1ZWMFdlT24tRUVQTGZUM2YwZGtCckZXS2V6TDRxekxsZlB3?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-18T00:13:00.000Z",
+      "excerpt": "关乎日常用药！河南更新复方丹参片等药品集采标准 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.483758
+    },
+    {
+      "id": "213dca01484a68d4",
+      "title": "福建：水稻通用“免疫盾牌”有了新发现",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZeHpXbkJydEE5dkppLWVXVkZkT005azJmVXpmdlAxTTZoampGMXhOemNYNndMNjNralVmM2FKaUlnZjlRa0V4VXd1V0VyNTYzLUx2SlpzNTF3OVJtOEtyanI5STFsdw?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-18T00:05:00.000Z",
+      "excerpt": "福建：水稻通用“免疫盾牌”有了新发现- 社会 fjnews.fjsen.com",
+      "section": "cn-life",
+      "rankScore": 0.482203
+    },
+    {
+      "id": "22269b723283c766",
+      "title": "福建成人高考专科考试科目有哪些？报名门槛高不高常见条件一次说清",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yLU5qaVJOTnJtTDl0YXVOMGdvcmdlcG5vNmNjcTFhdXIyY0VNWFYwQVA5WS01c3ZSb05IMUE5azEzMGd1NkRNUjlJSXA1Y09BQzlDbkJ4bW0wcGxHcGtlQjFB?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-18T00:31:21.000Z",
+      "excerpt": "福建成人高考专科考试科目有哪些？报名门槛高不高常见条件一次说清 eol.cn",
+      "section": "cn-life",
+      "rankScore": 0.417708
+    },
+    {
+      "id": "4767adbf3dcef861",
+      "title": "古人的秋季养生智慧：顾护脾胃 润燥养阴",
+      "url": "https://www.chinanews.com.cn/life/2026/09-17/10698207.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-17T07:03:52.000Z",
+      "excerpt": "中新网北京9月17日电(记者 上官云)入秋之后，天气转凉，“贴秋膘”成了社交平台上的热门话题，“贴秋膘先养好脾胃”“贴秋膘不等于猛吃肉”等话题引发热议。那么，“贴秋膘”这一风俗起源于何时？从饮食风俗来看，古人在秋天有着怎样的养生智慧？",
+      "section": "cn-life",
+      "rankScore": 0.405213
+    }
+  ],
+  "warnings": []
+}
