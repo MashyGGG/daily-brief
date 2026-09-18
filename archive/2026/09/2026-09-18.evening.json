@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-18",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-18T16:21:19.221Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "2ca83088c9494643",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-18T16:21:19.221Z",
+      "score": 677,
+      "excerpt": "Production-grade engineering skills for AI coding agents.",
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "0983a9d264153249",
+      "title": "I don't like passkeys",
+      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "source": "hn-front",
+      "publishedAt": "2026-09-18T12:06:50.000Z",
+      "score": 452,
+      "author": "ethanhawksley",
+      "excerpt": "452 points · 419 comments · https://news.ycombinator.com/item?id=49753211",
+      "section": "tech",
+      "rankScore": 1.018579
+    },
+    {
+      "id": "6184a89cb871277c",
+      "title": "DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags",
+      "url": "https://www.infoq.com/news/2026/09/doordash-feature-flag-cleanup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-18T13:50:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "DoorDash built a multi-agent LLM system to automate stale feature flag cleanup across more than 60,000 flags and 623 repositories. The workflow combines live experimentation data through MCP, engineer approval, isolated Git worktrees, parallel agents, and automated validation.",
+      "section": "tech",
+      "rankScore": 0.675038
+    },
+    {
+      "id": "29f3edd8092997a0",
+      "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?",
+      "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+      "source": "lobsters",
+      "publishedAt": "2026-09-18T15:30:01.000Z",
+      "author": "crumbles.blog via FedericoSchonborn",
+      "section": "tech",
+      "rankScore": 0.65868
+    },
+    {
+      "id": "20a9e2cac6013950",
+      "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
+      "url": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
+      "source": "verge",
+      "publishedAt": "2026-09-18T15:12:41.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to own 49.5 percent of the company.",
+      "section": "tech",
+      "rankScore": 0.467121
+    },
+    {
+      "id": "50bb5aa56b36ad60",
+      "title": "Meet the winner of Nikon's Small World in Motion video contest",
+      "url": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-18T13:56:57.000Z",
+      "author": "Jennifer Ouellette",
+      "excerpt": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
+      "section": "tech",
+      "rankScore": 0.441877
+    },
+    {
+      "id": "8737e942fdcb44b7",
+      "title": "The Creative Spirit of Who Framed Roger Rabbit",
+      "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-18T14:36:41.000Z",
+      "excerpt": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from early in the movie: It's a pelican riding a bicycle!",
+      "section": "ai",
+      "rankScore": 0.780207
+    },
+    {
+      "id": "13508e5755ddff15",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+      "source": "latent-space",
+      "publishedAt": "2026-09-18T06:28:43.000Z",
+      "excerpt": "a quiet day",
+      "section": "ai",
+      "rankScore": 0.459589
+    },
+    {
+      "id": "302f4c470060e6d0",
+      "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+      "url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-18T16:21:19.221Z",
+      "excerpt": "美团 LongCat-2.0 总参数 1.6T，平均激活约 48B，为真实的 Agentic Coding 任务而生，架构上创新性引入 LongCat 稀疏注意力和 N-gram Embedding，提升长上下文处理效率与 Token 级表示能力的同时，结合动态激活进一步强化了代码理解、生成以及执行的表现。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "69e9cc65a8bdd0fd",
+      "title": "ColorOS 17 发布，OPPO 开始把手机 OS 推向 AgentOS",
+      "url": "https://www.infoq.cn/article/gDSf7xBmd08H0eB0GG11?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-18T15:53:51.000Z",
+      "author": "罗燕珊",
+      "section": "cn-tech",
+      "rankScore": 0.686919
+    },
+    {
+      "id": "d1b3140f92d14100",
+      "title": "解包了 ZCode 上传的加密包",
+      "url": "https://www.v2ex.com/t/1243017",
+      "source": "v2ex",
+      "publishedAt": "2026-09-18T08:32:22.000Z",
+      "score": 21,
+      "author": "haukuen",
+      "excerpt": "逆向了智谱的加密规范，本地生成了一份公私钥对作为参数直接传入 ZCode 。解包生成的 tar.gz.enc 里面确实是全量的 .git 数据，还有触发这次操作时输入的 Prompt 提示词全文。",
+      "section": "cn-tech",
+      "rankScore": 0.66902
+    },
+    {
+      "id": "ba1ebdef4451e856",
+      "title": "科学家识别了一种新猫科动物",
+      "url": "https://www.solidot.org/story?sid=85420",
+      "source": "solidot",
+      "publishedAt": "2026-09-18T09:59:30.000Z",
+      "excerpt": "研究人员识别了一种新的野生猫科动物，这是一百年来首次命名新猫科物种。新物种被命名 Leopardus tilcayo（或 Tilcayo 虎猫），生活在玻利维亚的 Yungas 地区，身材纤细，布满斑点，长着圆耳朵，其体型比普通家猫要小。目前不清楚该种群的数量。虎猫是原产于中南美洲、Leopardus 属小型野生猫科动物，南美洲共有五种虎猫，全都生活在栖息地正迅速消失的地方。新发现的 Tilcayo 虎猫是在 Yungas 的一个动物保护区找到的，记录显示它由一名男子送来，该男子最初以为它是家猫，尝试喂养它，后来才发现它是野生动物，在意识到自己无法照料它后将其送到保护区。",
+      "section": "cn-tech",
+      "rankScore": 0.569999
+    },
+    {
+      "id": "1922571a6729e08f",
+      "title": "灵界 OS 5.0 稳定版 · 桌面按钮可以隐藏了",
+      "url": "https://www.oschina.net/news/502590",
+      "source": "oschina",
+      "publishedAt": "2026-09-18T10:47:40.000Z",
+      "excerpt": "这次更新，加了一个很小的开关，但解决了困扰我很久的问题。 之前桌面右上角一直挂着两个按钮： · 系统介绍 · 添加小组件 我自己看着觉得太丑了，但这两个功能又不能没有。所以这次给了个入口，让它们可以隐藏。 更新内容： · 设置 / 桌面，新增隐藏系统介绍开关 · 设置 / 桌面，新增隐藏添加小组件开关 · 两个开关...",
+      "section": "cn-tech",
+      "rankScore": 0.487006
+    },
+    {
+      "id": "5d6ce6f889df6940",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-18T15:24:16.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan.",
+      "section": "security",
+      "rankScore": 0.672832
+    },
+    {
+      "id": "d8d665770354ef2e",
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-18T12:47:04.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.",
+      "section": "security",
+      "rankScore": 0.597974
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
