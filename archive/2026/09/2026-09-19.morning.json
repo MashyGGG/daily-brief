@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-19",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-19T00:14:16.693Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "3f40240dfc428ac4",
+      "title": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-19T00:14:16.693Z",
+      "score": 478,
+      "excerpt": "Secure environments for developers and their agents",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "bb3cc22bbe792d02",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "source": "hn-front",
+      "publishedAt": "2026-09-18T21:00:32.000Z",
+      "score": 453,
+      "author": "datadrivenangel",
+      "excerpt": "453 points · 163 comments · https://news.ycombinator.com/item?id=49760187",
+      "section": "tech",
+      "rankScore": 1.0536
+    },
+    {
+      "id": "bbf08148d1cbce7b",
+      "title": "Agentgit: a Git host for AI agents with no accounts",
+      "url": "https://agentgit.co/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-18T23:58:14.000Z",
+      "author": "agentgit.co by jameslee",
+      "section": "tech",
+      "rankScore": 0.678155
+    },
+    {
+      "id": "3e686174167bc77d",
+      "title": "Manage the code coverage ruleset condition with the REST API",
+      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-18T19:23:49.000Z",
+      "author": "Allison",
+      "excerpt": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…",
+      "section": "tech",
+      "rankScore": 0.619316
+    },
+    {
+      "id": "75f7fae3894488cf",
+      "title": "Article: Architecting Secure and Scalable Facial Verification Systems",
+      "url": "https://www.infoq.com/articles/secure-scalable-facial-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-18T09:00:00.000Z",
+      "author": "Praveen Kumar Gopalakrishnan",
+      "excerpt": "When three thousand employees verify at once, synchronous API calls collapse. This article presents a four-layer architecture for high-volume face verification: client-side filtering that cut cloud costs 30%, decoupled detection and verification enabling 10x scaling, risk-based dynamic thresholds,…",
+      "section": "tech",
+      "rankScore": 0.479486
+    },
+    {
+      "id": "c4b6ce82142a4ebc",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-18T20:26:33.000Z",
+      "author": "Kyle Orland",
+      "excerpt": "But the military's overall use of AI seems to be accelerating.",
+      "section": "tech",
+      "rankScore": 0.44572
+    },
+    {
+      "id": "714e063a74dee1ea",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-18T23:57:57.000Z",
+      "excerpt": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI,…",
+      "section": "ai",
+      "rankScore": 0.834557
+    },
+    {
+      "id": "166befa251e92b31",
+      "title": "v2.1.277",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.277",
+      "source": "anthropic",
+      "publishedAt": "2026-09-18T18:06:32.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENTS.md instead; change it under \"Project instructions\" in /config (not yet on Bedrock, Vertex or Foundry) Added CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1 for Claude apps gateways whose only egress is a…",
+      "section": "ai",
+      "rankScore": 0.747311
+    },
+    {
+      "id": "049b7e51165e964a",
+      "title": "Note on 18th September 2026",
+      "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-18T19:21:32.000Z",
+      "excerpt": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Tags: llms , ai , generative-ai",
+      "section": "ai",
+      "rankScore": 0.742418
+    },
+    {
+      "id": "017bb186e575c71a",
+      "title": "Quoting Thariq Shihipar",
+      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-18T19:09:27.000Z",
+      "excerpt": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness.",
+      "section": "ai",
+      "rankScore": 0.738391
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-19T00:14:16.693Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "d4c0081417be603b",
+      "title": "Zcode 飞书群官方回应来了",
+      "url": "https://www.v2ex.com/t/1243032",
+      "source": "v2ex",
+      "publishedAt": "2026-09-18T09:44:02.000Z",
+      "score": 17,
+      "author": "EliteOtaku",
+      "excerpt": "各位 ZCode 用户： 今日社区中的相关讨论我们高度重视，第一时间完成自查，先向受影响的用户道歉。现就有关情况说明如下： 此次问题源于 ZCode 的“代码库索引”功能。该功能旨在帮助用户在本地生成仓库索引，以支持包括历史版本在内的会话检查点恢复、历史版本回退及 Repo Wiki 等功能。 Repo Wiki 功能在生成 Wiki 页面时可能会触发仓库数据上传。Wiki 页面在云端生成后，相关上传数据会立即销毁，不会保存。由于该功能在上线初期默认开启，部分用户因此受到影响，对此我们深感抱歉，目前相关问题已经修复。",
+      "section": "cn-tech",
+      "rankScore": 0.652439
+    },
+    {
+      "id": "eed7e32590ae0f5c",
+      "title": "微软高管称 AI 的训练数据是人类历史上最大规模的劳动盗窃",
+      "url": "https://www.solidot.org/story?sid=85423",
+      "source": "solidot",
+      "publishedAt": "2026-09-18T16:11:37.000Z",
+      "excerpt": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web。OpenAI 的产品如 ChatGPT 可能会危及新闻出版商的经济基础。OpenAI 和微软的数据都显示这一预测是正确的。微软的数据指出，部分新闻出版商网站的点击率下降了 83%-93%，其它新闻机构的点击率下降了 51%-94%。",
+      "section": "cn-tech",
+      "rankScore": 0.62252
+    },
+    {
+      "id": "8f9e776d0b1ba8ce",
+      "title": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+      "url": "https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-18T18:00:00.000Z",
+      "author": "作者：Hien Luu",
+      "section": "cn-tech",
+      "rankScore": 0.596034
+    },
+    {
+      "id": "96a21d8a02a1e764",
+      "title": "给 AI Agent 接工具这一年，我踩过的5 个坑去年这个时候，我第一次把LangChain 跑通，当时觉得Ag",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Nc3RYOW9VT2p1SEtOMzJhM3g1dy11dG01dU8zaGdNcjl2cmRPSlpkaFpMbVMtZkEtTGZFTW5odFFrbzdQNUozQmRlY2c2dmQtZmN5Mw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-19T00:10:19.000Z",
+      "excerpt": "给 AI Agent 接工具这一年，我踩过的5 个坑去年这个时候，我第一次把LangChain 跑通，当时觉得Ag 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.48923
+    },
+    {
+      "id": "323f9fbd709066c1",
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-18T18:02:24.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected.",
+      "section": "security",
+      "rankScore": 0.5967
+    },
+    {
+      "id": "3fae4e33a6658c18",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-39964 Linux Kernel Race Condition Vulnerability CVE-2026-53266 Linux Kernel Out-of-Bounds Write Vulnerability These types of vulnerabilities are a…",
+      "section": "security",
+      "rankScore": 0.496034
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
