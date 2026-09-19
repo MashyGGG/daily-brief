@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-19",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-19T15:50:42.575Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "41185fa548f1921d",
+      "title": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-19T15:50:42.575Z",
+      "score": 477,
+      "excerpt": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "641346061f647e7d",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "hn-front",
+      "publishedAt": "2026-09-19T09:20:58.000Z",
+      "score": 666,
+      "author": "ereiamjh",
+      "excerpt": "666 points · 393 comments · https://news.ycombinator.com/item?id=49764791",
+      "section": "tech",
+      "rankScore": 0.93229
+    },
+    {
+      "id": "e350483edae835aa",
+      "title": "EP226: API Concepts Every Software Engineer Should Know",
+      "url": "https://blog.bytebytego.com/p/ep226-api-concepts-every-software",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-19T15:31:06.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Sending a request and reading JSON is one thing. Designing an API that other people can rely on is something where things get complicated.",
+      "section": "tech",
+      "rankScore": 0.759728
+    },
+    {
+      "id": "15e4f9e0ee637287",
+      "title": "AI Is an Elite Crime Spree",
+      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+      "source": "lobsters",
+      "publishedAt": "2026-09-19T15:44:52.000Z",
+      "author": "thebignewsletter.com via jcd",
+      "section": "tech",
+      "rankScore": 0.679787
+    },
+    {
+      "id": "27b4237af3487931",
+      "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+      "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+      "source": "verge",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "author": "Antonio G. Di Benedetto",
+      "excerpt": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs.",
+      "section": "tech",
+      "rankScore": 0.473097
+    },
+    {
+      "id": "118b36059a6f3373",
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-19T11:10:43.000Z",
+      "author": "Karen Stollznow, The Conversation",
+      "excerpt": "Research suggests that bilingualism can offer cognitive benefits.",
+      "section": "tech",
+      "rankScore": 0.396669
+    },
+    {
+      "id": "f2640e2899347286",
+      "title": "[AINews] Here are 6 Clones of Jev in 2 days",
+      "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+      "source": "latent-space",
+      "publishedAt": "2026-09-19T05:48:28.000Z",
+      "excerpt": "Imitation is the sincerest form of Flattery",
+      "section": "ai",
+      "rankScore": 0.454539
+    },
+    {
+      "id": "2dcdcab85d186591",
+      "title": "v2.1.278",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.278",
+      "source": "anthropic",
+      "publishedAt": "2026-09-19T03:10:40.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex, Foundry and gateways, to default to the server-side classifier, which does not charge for classifier overhead ( CLAUDE_CODE_AUTO_MODE_SERVER=0 opts out on Bedrock, Vertex, Foundry and gateways); warns on…",
+      "section": "ai",
+      "rankScore": 0.422594
+    },
+    {
+      "id": "691c4f69c8f0d213",
+      "title": "大家国模都在用什么套餐",
+      "url": "https://www.v2ex.com/t/1243186",
+      "source": "v2ex",
+      "publishedAt": "2026-09-19T11:14:18.000Z",
+      "score": 12,
+      "author": "zookao",
+      "excerpt": "之前一直都是买的智谱的 coding plan ，昨天出事后去申请了退款，今天退款已经到账，zcode 也卸载了 刚下载了 opencode ，问一下大家配什么套餐哪个模型最划算",
+      "section": "cn-tech",
+      "rankScore": 0.756993
+    },
+    {
+      "id": "2fe713eb5c348b2e",
+      "title": "海豚 Bubbles 被发现会强迫饱腹鱼吐出食物然后自己将其吞下",
+      "url": "https://www.solidot.org/story?sid=85424",
+      "source": "solidot",
+      "publishedAt": "2026-09-19T13:51:32.000Z",
+      "excerpt": "由于海豚的脸部看起来总是在微笑，出于拟人化心理，人类会假设海豚是大海里的好孩子。但行为类似恶棍的海豚并非不存在。根据发表在《Ecology and Evolution》期刊上的一篇论文，研究人员报告了一只生活在澳大利亚 大堡礁南部 Lady Elliott 岛附近的雄性宽吻海豚 Bubbles。Bubbles 有着被称为盗食寄生（kleptoparasitism）的行为，它会专门追逐刚刚饱餐一顿的大眼鲹（bigeye trevally），强迫它们吐出刚吞下的食物，然后自己去吞下这些食物。盗食寄生最著名的动物可能是海鸥。",
+      "section": "cn-tech",
+      "rankScore": 0.707574
+    },
+    {
+      "id": "47eb71d30cf62b6e",
+      "title": "Solaris 早已淡出视野，它的“转门”却还藏在 Go、WebKit 和 Rust 里",
+      "url": "https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "author": "作者： Olimpiu Pop",
+      "section": "cn-tech",
+      "rankScore": 0.61871
+    },
+    {
+      "id": "f23359b5aae538eb",
+      "title": "为什么最近开始关注JEV？几个实战案例告诉你答案JEV 不是另一个GPT，而是一种专注“做决定”的 AI 模型。它可",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IQThwbHl1Qk5URjAtR19zOFYzZEYtWExUTnhWSVYxNUVlQlZha2c1MXV1WTJZSjF3RDV2c3JycWt5MjBLUVhyNGNuZ0UzLWFiSml4Nw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-19T12:57:28.000Z",
+      "excerpt": "为什么最近开始关注JEV？几个实战案例告诉你答案JEV 不是另一个GPT，而是一种专注“做决定”的 AI 模型。它可 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.432252
+    },
+    {
+      "id": "c2a4390e70e05e06",
+      "title": "Astra两周抢走13%份额，Anthropic或提前发新模型",
+      "url": "https://www.36kr.com/p/3989918704237314",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-19T08:00:26.000Z",
+      "author": "机器之心",
+      "excerpt": "编辑｜山辉 Anthropic 嘴上喊着「放缓」，转头就要发新模型？ 路透社刚发了一条独家： Anthropic 正在考虑提前发布新模型。 看来 GPT-6 Astra 真的把它打疼了。 两周，撬动两年半的盘子 9 月 1 日，Anthropic 刚发 Fable 5.1，官方口径「最强编程与知识工作模型」，还主动把缓存读取价格砍了 75%，想用性价比稳住企业客户。 没想到 OpenAI 追着打。9 月 3 日，OpenAI 就发了 Astra。Sam Altman 的原话：「我们正努力尽快把 Astra 交到每个人手里」。",
+      "section": "cn-tech",
+      "rankScore": 0.428453
+    },
+    {
+      "id": "2dd91c6f4cca9c42",
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-19T13:28:41.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report.",
+      "section": "security",
+      "rankScore": 0.632368
+    },
+    {
+      "id": "1700f750a5146eea",
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-19T13:28:35.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.",
+      "section": "security",
+      "rankScore": 0.632321
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
