@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-19",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-19T00:35:43.276Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "345486c7d5ffcaea",
+      "title": "怀来恒大“鬼城”，变成廉价避风港，住进一批特殊的居民",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260918-%E6%80%80%E6%9D%A5%E6%81%92%E5%A4%A7-%E9%AC%BC%E5%9F%8E-%EF%BC%8C%E5%8F%98%E6%88%90%E5%BB%89%E4%BB%B7%E9%81%BF%E9%A3%8E%E6%B8%AF%EF%BC%8C%E4%BD%8F%E8%BF%9B%E4%B8%80%E6%89%B9%E7%89%B9%E6%AE%8A%E7%9A%84%E5%B1%85%E6%B0%91",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-18T22:22:57.000Z",
+      "author": "阿曼亭",
+      "excerpt": "距离北京130公里的地方，曾经有一座由恒大打造的“理想之城”。这座城市原本计划容纳数万名居民。如今，这里的许多建筑仍然没有完工。各种设施也被废弃了。不过，这里已经变成了一个廉价的避风港。住进来的主要是退休老人和离婚人士。",
+      "section": "news",
+      "rankScore": 0.663119
+    },
+    {
+      "id": "c436eedbc837984f",
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-18T23:26:48.000Z",
+      "excerpt": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "section": "news",
+      "rankScore": 0.61277
+    },
+    {
+      "id": "22ac513a28f18bdb",
+      "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-19T00:00:26.000Z",
+      "excerpt": "Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.",
+      "section": "news",
+      "rankScore": 0.552158
+    },
+    {
+      "id": "140c8c6104cae2fb",
+      "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+      "url": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-18T23:38:22.000Z",
+      "author": "Megha Rajagopalan and Pranav Baskar",
+      "excerpt": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.",
+      "section": "news",
+      "rankScore": 0.547255
+    },
+    {
+      "id": "e5773e4fda5855bc",
+      "title": "人類真的可能被AI滅絕？我們可以如何阻止？",
+      "url": "https://www.bbc.com/zhongwen/articles/c674k7gxpgplo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-18T09:55:28.000Z",
+      "excerpt": "人工智能（AI）快速發展之際，AI界對其潛在風險的公開討論也越來越多。部分科學家甚至估計，未來十年AI導致人類滅絕的可能性超過一成。",
+      "section": "news",
+      "rankScore": 0.546582
+    },
+    {
+      "id": "f6b84d19ac757320",
+      "title": "Uber ordered to pay $40m over death of woman ejected by driver on freeway",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/uber-40m-death-woman-killed-driver-freeway",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-18T23:34:53.000Z",
+      "author": "Johana Bhuiyan",
+      "excerpt": "California judge finds company ‘vicariously liable’ for driver’s negligence in death of Emily Normandin-Parker Uber was ordered to pay $40m to the parents of a 23-year-old woman who was killed after a driver kicked her and a friend out of his car by the side of a California freeway, according to…",
+      "section": "news",
+      "rankScore": 0.54648
+    },
+    {
+      "id": "228dc76dcf4fa0c7",
+      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+      "url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-19T00:23:01.000Z",
+      "author": "Lauren Hirsch, Sri Muppidi, Erin Griffith and Mike Isaac",
+      "excerpt": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
+      "section": "news",
+      "rankScore": 0.48753
+    },
+    {
+      "id": "a6185b301db80897",
+      "title": "Trump says son paid back Russian businessman for wedding weekend gift",
+      "url": "https://www.ft.com/content/863ca377-cbc2-4ca1-bb3d-c2478571359e?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-18T21:45:56.000Z",
+      "excerpt": "Umar Kremlev reportedly spent hundreds of thousands of dollars on Donald Trump Jr’s wedding after-party in the Bahamas",
+      "section": "news",
+      "rankScore": 0.456986
+    },
+    {
+      "id": "835a84b583dfec49",
+      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
+      "source": "npr-news",
+      "publishedAt": "2026-09-18T21:13:14.000Z",
+      "author": "Bill Chappell",
+      "excerpt": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory.",
+      "section": "news",
+      "rankScore": 0.450627
+    },
+    {
+      "id": "44b376ce32c0918f",
+      "title": "难民署：数千名逃离也门的难民抵达吉布提，亟需援助",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142819",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "excerpt": "难民署周五表示，不到一周时间里，近3000人冒着生命危险穿越曼德海峡抵达吉布提。不断升级的暴力冲突正迫使更多家庭逃离也门。",
+      "section": "news",
+      "rankScore": 0.44107
+    },
+    {
+      "id": "565bbae53ccbed91",
+      "title": "普京：“三位一体”核力量仍是俄罗斯国家主权的保障",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2OEFnWWtFdTdmNnRoS0gxYlBldlNJaVdXd2QzUDlsb0djWkhGelBjMVNwaldmM1JZdHhBQ0xyUTlsNkI0aDdCSlozUVZJZG9MUVdSNnhBTjV4UEc3X2s3T3ZBTWd3Y1RCOHl0YmZOaw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-19T00:04:00.000Z",
+      "excerpt": "普京：“三位一体”核力量仍是俄罗斯国家主权的保障 中国网 早安四川 | 坠入温柔桂香 新浪财经_金融信息服务商 普京：“三位一体”核力量是主权保障 维护全球力量平衡关键作用 中华军事 普京：“三位一体”核力量仍是俄罗斯国家主权的保障_财经_24H快讯 bihainews.com 普京对新版国家武器装备计划提出要求 chinanews.com.cn",
+      "section": "news",
+      "rankScore": 0.414713
+    },
+    {
+      "id": "5ba5a8c7ba72758a",
+      "title": "中国储备巨量石油，或将主导全球能源格局",
+      "url": "https://cn.nytimes.com/business/20260918/china-oil-iran-war/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-18T02:23:09.000Z",
+      "author": "REBECCA F. ELLIOTT,KEITH BRADSHER",
+      "excerpt": "作为主要石油进口国，中国曾极易受到石油供应冲击的影响。但该国通过储备石油及投资替代能源实现了重大转变，这对全球能源业和地缘政治都产生了很大影响。 Keith Bradsher/The New York Times 中国九江的一家炼油厂。传统上，掌握主动权的一直是沙特阿拉伯和美国等石油出口国，而非中国等进口国。",
+      "section": "news",
+      "rankScore": 0.362825
+    },
+    {
+      "id": "868b12310f8dce09",
+      "title": "联合国：刚果（金）东部冲突加剧，超7万人流离失所",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAta0pva1VxQXRMaEkxdFYyNnVkSjJzQ1RMTW0xMUZpTTd6dHh3RE93MXQ0azBKdXNSN0lZcUlPLXJXa2FGZHdhdjhPUGVTenkxQXNWZ2JSVVc?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-18T23:18:23.000Z",
+      "excerpt": "联合国：刚果（金）东部冲突加剧，超7万人流离失所 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.610666
+    },
+    {
+      "id": "2a5b12375d043c9b",
+      "title": "丹麦和格陵兰岛将与美签安全协议，特朗普称获格陵兰岛永久安全控制权：无限期且无需支付任何费用，将在合适区域建立大规模军事存在",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUHlKWGZCQzI2aGxMN2JqM2E5NVFGOTJ1dTc0OGJtaFZRRGxZYjJXNGhkNEZzbHN1NWhvRWhQVDRUX1hBQkF6dDZkX0ZsYVBWZEw1NVFUUFRGVkxMbUE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-18T23:09:00.000Z",
+      "excerpt": "丹麦和格陵兰岛将与美签安全协议，特朗普称获格陵兰岛永久安全控制权：无限期且无需支付任何费用，将在合适区域建立大规模军事存在",
+      "section": "cn-news",
+      "rankScore": 0.60832
+    },
+    {
+      "id": "f4295702a18bc4f1",
+      "title": "巴菲特卸任董事长 其子霍华德·巴菲特接任",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699167.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-18T12:19:46.000Z",
+      "excerpt": "中新网9月18日电 综合报道，投资机构伯克希尔-哈撒韦公司18日发表声明宣布，知名投资人沃伦·巴菲特卸任该公司董事长。",
+      "section": "cn-news",
+      "rankScore": 0.594682
+    },
+    {
+      "id": "bc30446206791319",
+      "title": "石泰峰在学习贯彻习近平关于基层工作方法的重要论述座谈会上强调 学深悟透用好习近平关于基层工作方法的重要论述 坚持不懈大抓基层为民造福",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-18/10699248.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-18T13:58:02.000Z",
+      "excerpt": "新华社北京9月18日电 学习贯彻习近平关于基层工作方法的重要论述座谈会18日在京召开。中共中央政治局委员、中央组织部部长石泰峰出席会议并讲话，强调要深入学习贯彻习近平新时代中国特色社会主义思想特别是习近平党建思想，学深悟透用好习近平关于基层工作方法的重要论述，坚定拥护“两个确立”、坚决做到“两个维护”，扎实做好新时代基层工作，不断巩固党的执政根基，夯实中国式现代化的基层基础。",
+      "section": "cn-news",
+      "rankScore": 0.575151
+    },
+    {
+      "id": "59912ca7d36bf325",
+      "title": "“网安充‘淀’”进校园 海淀多方联动护航未成年人网络安全",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KRzBheFEtcTd1aE5KUlNDaVE1djZmRHNDWVpvZHhCNVBkaEkwOEd1RjlfSjRQNW9ieHFaNFVjeC0yS21BR1M4b1JyMXkwSkRiNC1Hd2xZdExZV1BlREJmcFEtV08?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-18T22:06:00.000Z",
+      "excerpt": "“网安充‘淀’”进校园 海淀多方联动护航未成年人网络安全 中国青年网 警校携手共护清朗网络空间——尚志市公安局开展国家网络安全宣传周校园宣讲活动- 中国日报网 China Daily 网络安全进校园，福建连江这堂课生动开讲！ 人民网-福建频道 北京市教委举办国家网络安全宣传周网络安全教育研讨会 新华网 开展校园网络安全宣传 筑牢网络安全防线 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.526729
+    },
+    {
+      "id": "6b4cf14148d4ed5f",
+      "title": "北京制定专项行动方案发展词元经济",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699246.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-18T14:06:09.000Z",
+      "excerpt": "中新社北京9月18日电 (记者 吕少威)根据18日发布的《北京市加快词元经济发展的行动方案(2026—2028年)》(下称方案)，北京将率先培育智能经济新形态，以词元(Token)为抓手，发展词元经济新增量。",
+      "section": "cn-news",
+      "rankScore": 0.472607
+    },
+    {
+      "id": "a824a3a81b5cd57b",
+      "title": "华为放龙入海，赛力斯龙腾四海！汽车圈大变局",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Tc2lROGxTc1Fia3RoWUVRdWd4Xy1QbzZpZ0tydTBTQkJoVzJCT2FSazlYdzhNcV9wWF9ldnFfQmR4YjVIa1FqNkJCZ0dYZVRsS1VLRzBUV2QwQQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-18T23:00:00.000Z",
+      "excerpt": "华为放龙入海，赛力斯龙腾四海！汽车圈大变局 汽车之家",
+      "section": "cn-news",
+      "rankScore": 0.471388
+    },
+    {
+      "id": "59c8c85e4059e0ec",
+      "title": "Trump signs bill targeting China’s Russia energy imports days before Xi’s US visit",
+      "url": "https://www.scmp.com/news/us/economy-trade-business/article/3368079/trump-signs-bill-targeting-chinas-russia-energy-imports-days-xis-us-visit?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-18T22:50:05.000Z",
+      "author": "Nayan Seth",
+      "excerpt": "US President Donald Trump on Friday signed a new sanctions bill into law that targets Russia’s leading energy buyers – China and India – just days before Chinese President Xi Jinping arrives in Washington for a state visit.",
+      "section": "cn-news",
+      "rankScore": 0.469459
+    },
+    {
+      "id": "7a7a65d99380b63a",
+      "title": "亚运会今晚开幕，一起为中国健儿加油",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iVE52SmFQYUpwdXhOcjR5M1VxMWRmSXFBdk1QSy12M3lnQ1lfTDdKbmZGNXdmRUpYTk1SWmVtbUFnYjM4bkRsRVF6QUVSaGRfSE9sSWU0b3NWUXhrQ3JRYVNnRjhBdHRHQ2wwaTV2QQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-19T00:14:00.000Z",
+      "excerpt": "亚运会今晚开幕，一起为中国健儿加油 中国网 晨观亚运会丨今晚开幕，一起为中国健儿加油 新华网 锁定中国军团冲金时刻 新浪财经_金融信息服务商 佳叙佳议｜未来已来！哪五位“10后”新星将闪耀亚运赛场？ Sohu 中国体育代表团亮相亚运会欢迎仪式 ent.people.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.41638
+    },
+    {
+      "id": "26119b6f4b591611",
+      "title": "中國記者黃雪琴5年刑滿 人權組織擔心無真正自由",
+      "url": "https://www.cna.com.tw/news/acn/202609180276.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-18T12:10:16.000Z",
+      "excerpt": "（中央社台北18日電）被中國以「煽動顛覆國家政權罪」判刑入獄5年的黃雪琴18日服刑期滿，預計可以走出監獄，但她的朋友及國際人權組織都對她是否能真正獲得自由抱持懷疑。國際特赦組織連同無國界記者等60個國際人權團體近日發布連署公開信，呼籲中國政府保證黃雪琴獲釋後仍能繼續從事新聞工作和人權工作。",
+      "section": "cn-news",
+      "rankScore": 0.394343
+    },
+    {
+      "id": "46b075f69f8bd872",
+      "title": "今天傍晚至夜间北京西部北部有阵雨 明后天最低气温逐渐下降",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-19/10699328.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-19T00:25:10.000Z",
+      "excerpt": "中国天气网讯 今天(9月19日)，北京仍将以多云为主，白天山区有阵雨，傍晚至夜间西部和北部有阵雨，外出注意携带雨具。明天夜间起北京将逐渐转晴，但最低气温也会逐渐下降，早晚需注意添衣。",
+      "section": "cn-life",
+      "rankScore": 0.836482
+    },
+    {
+      "id": "1190536731105155",
+      "title": "四川、重庆等地部分地区将有暴雨 西北东北迎明显降温",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HVlFLSkZFRXZteHVJUkY1c1Z1UldPS3YzT3ptT25CSjN2Y3RTX1ktVGhpMzNDWkZ1T0JiRnpoRnlDZmhlSEpNVVZGelg?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-19T00:21:22.000Z",
+      "excerpt": "四川、重庆等地部分地区将有暴雨 西北东北迎明显降温 凤凰网",
+      "section": "cn-life",
+      "rankScore": 0.626411
+    },
+    {
+      "id": "6998514ce7445bb5",
+      "title": "中经评论：以“全国标尺”规范医保医疗服务项目 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORHc1S3lJYndYV3A5bnVERTlPdjkycTdnSk56RVVDSjZpeU1aSElPR1UwUkZ4VXQxRFhtbU9uVGw2WmNVdnVOOHQ0VHpaZXgtMElLYXJKSkZwQmpOV1MtTEhweGg4NUs1bGtYZ3ZDcTlEcF92Ump6MC1CVVdZRlBkUlNyQjZNVG9oS1FrSw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-19T00:04:01.000Z",
+      "excerpt": "中经评论：以“全国标尺”规范医保医疗服务项目 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.622074
+    },
+    {
+      "id": "2aec90159ec5ae9a",
+      "title": "实施效果",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kSjlnaE5HTTNtaHRoYzlEREsxNFJPZVctcDU0QUI2SS1wLW8xZHZmdi1QR0lKNzRyQUVaR2ZxSzVDRzQ0WkdCMi1ZV3NaZFRuaktPM3IydTJUTHJrVW0yNU1CdzBsTzRiWjh1UmVPTUxlQQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-18T20:14:10.000Z",
+      "excerpt": "实施效果 chengdu.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.501877
+    },
+    {
+      "id": "2b690ecf7acac31a",
+      "title": "**TH/TRs–COL11A2轴介导脑回减少脑中分化型星形胶质细胞状态的丧失**",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QMGdrTE5vc3FVb1g1RndseDEycWt3aks4R3RfYWVjdWkwOF9qanBmRkQ4Qk5MemVkOTk5TVRCRlc1TnFpMENiWFVJLWNnVUN1aGM1Vng4QWlfdzI2cVJ3Z2tQdjJmTGJjR3ZmZg?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-19T00:04:45.000Z",
+      "excerpt": "**TH/TRs–COL11A2轴介导脑回减少脑中分化型星形胶质细胞状态的丧失** 生物通",
+      "section": "cn-life",
+      "rankScore": 0.483978
+    },
+    {
+      "id": "5571026d22f77be6",
+      "title": "吉安发布5起食品安全典型案例",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qdFB6NFBzbmhLUUxxN1cydlFSZFctVXRIRjR3S2M3VFk4cld0TTdhTl9XRENGTkVXT0c0eEtyUGpWdUI3TXRPNjBB?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-18T23:38:29.000Z",
+      "excerpt": "吉安发布5起食品安全典型案例 凤凰网",
+      "section": "cn-life",
+      "rankScore": 0.47887
+    },
+    {
+      "id": "0e674e889b346446",
+      "title": "全民国防教育日",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zUWdCV3RBQWRPaGExU3AtU1RSeTZhNk9rS1dOYWI1d2NjWkF3d2FuXzhGUEZ4aFNYeC1XODRCaGRVck03Qnd1Vk5yY0xDdTlhZTdYN2lkQmVzS09FZVZ5QUxwWmE?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-19T00:11:00.000Z",
+      "excerpt": "全民国防教育日 gsjb.com",
+      "section": "cn-life",
+      "rankScore": 0.41588
+    },
+    {
+      "id": "aa4d5bc6f0acb961",
+      "title": "为什么秋天的蚊子咬人更狠？",
+      "url": "https://www.chinanews.com.cn/life/2026/09-18/10698753.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-18T02:22:19.000Z",
+      "excerpt": "俗话说“秋后蚊子猛于虎”。不少人感觉夏天很少被蚊子叮咬，到了秋天反倒频频遭袭，而且蚊子包红肿更明显、瘙痒也更剧烈。",
+      "section": "cn-life",
+      "rankScore": 0.32961
+    }
+  ],
+  "warnings": []
+}
