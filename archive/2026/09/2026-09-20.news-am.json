@@ -1,0 +1,321 @@
+{
+  "date": "2026-09-20",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-20T00:21:10.947Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "74880af6adbeda36",
+      "title": "火车地缘政治与投资非洲筑铁路",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260919-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E7%81%AB%E8%BD%A6%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E4%B8%8E%E6%8A%95%E8%B5%84%E9%9D%9E%E6%B4%B2%E7%AD%91%E9%93%81%E8%B7%AF",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-19T22:19:48.000Z",
+      "author": "尼古拉",
+      "excerpt": "非洲的未来在于铁路。法国铁路专家克洛德·勒布朗（Claude Leblanc）在本台法国国际广播电台（RFI）作客接受法语《交通》专栏（Chronique transports）采访时表示，继中国之后，印度、土耳其等国家也纷纷投资非洲铁路建设。人们当前正处于铁路发展的第二个黄金时代（âge d’or），而非洲国家正积极推动铁路的未来发展。铁路有助一个国家的团结。",
+      "section": "news",
+      "rankScore": 0.666283
+    },
+    {
+      "id": "f7c70087b0bfbe03",
+      "title": "非洲:刚果(金)重判前司法部长",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260919-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%88%9A%E6%9E%9C-%E9%87%91-%E9%87%8D%E5%88%A4%E5%89%8D%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%BF",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-19T21:45:58.000Z",
+      "author": "尼古拉",
+      "excerpt": "非洲国家刚果民主共和国（RD Congo）终审法院（la Cour de cassation ）于2026年09月18日星期五判处该国前司法部长康斯坦·穆坦巴（Constant Mutamba）十年强迫劳动（travaux forcés），中文也有译作劳改。他被控挪用超过2000万美元，其中包括有争议的公共合同和有争议的受害者赔偿。这些钱款由一个特别基金 (Frivao) 管理用于赔偿和补偿2000年代刚果（金）东北部乌干达不法活动的受害者。辩方否认指控，谴责“政治司法阴谋”。",
+      "section": "news",
+      "rankScore": 0.656885
+    },
+    {
+      "id": "460123fae2b1a192",
+      "title": "巴黎FC周六在足球法甲联赛中以2-1击败了斯特拉斯堡队",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260919-%E5%B7%B4%E9%BB%8Efc%E5%91%A8%E5%85%AD%E5%9C%A8%E8%B6%B3%E7%90%83%E6%B3%95%E7%94%B2%E8%81%94%E8%B5%9B%E4%B8%AD%E4%BB%A52-1%E5%87%BB%E8%B4%A5%E4%BA%86%E6%96%AF%E7%89%B9%E6%8B%89%E6%96%AF%E5%A0%A1%E9%98%9F",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-19T20:39:53.000Z",
+      "author": "安东尼",
+      "excerpt": "巴黎FC（Paris FC）在足球法甲联赛中延续了开局不败的势头，周六以2-1击败了斯特拉斯堡队，这是主教练利亚姆·罗塞尼奥尔（Liam Rosenior）的前东家；不过，这场比赛因客队球迷针对罗塞尼奥尔这位英国教练的辱骂性口号而蒙上了阴影。",
+      "section": "news",
+      "rankScore": 0.638528
+    },
+    {
+      "id": "e48480e32aa4282a",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-19T23:49:26.000Z",
+      "excerpt": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "section": "news",
+      "rankScore": 0.622063
+    },
+    {
+      "id": "09c7e1fe660f2340",
+      "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "excerpt": "Iran security chief says Tehran's demands include an end to war on all fronts and the lifting of US's naval blockade.",
+      "section": "news",
+      "rankScore": 0.555293
+    },
+    {
+      "id": "b4e7773d2d56d63a",
+      "title": "News live: Taylor pledges ‘one of the biggest immigration cuts in Australian history’; tributes for Victorian Greens MP Tim Read",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/20/australia-news-live-labor-coalition-fuel-petrol-prices-anthony-albanese-pauline-hanson-one-nation-immigration-angus-taylor-police-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-19T23:57:17.000Z",
+      "author": "Penry Buckley",
+      "excerpt": "Follow live updates Albanese not drawn on EU membership: ‘we’re a long way from Europe’ The prime minister has been asked if Australia has any plans to join the EU, after Canadian prime minister, Mark Carney , has welcomed the goal of Canada becoming the EU’s first associate member.",
+      "section": "news",
+      "rankScore": 0.554689
+    },
+    {
+      "id": "08c9bb96def856a2",
+      "title": "Elaine Mokhtefi, American Witness to Algeria’s Revolution, Dies at 97",
+      "url": "https://www.nytimes.com/2026/09/19/world/africa/elaine-mokhtefi-dead.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-19T23:36:43.000Z",
+      "author": "Clay Risen",
+      "excerpt": "As a fixer for Algeria’s government, she befriended radicals and revolutionaries and helped the Black Panthers establish an international base in Algiers.",
+      "section": "news",
+      "rankScore": 0.550119
+    },
+    {
+      "id": "6327148dd83079c7",
+      "title": "California Cracks Down on Influencers’ Undisclosed Political Ads",
+      "url": "https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-19T22:59:57.000Z",
+      "author": "Ken Bensinger",
+      "excerpt": "Under a new law, creators could face fines of $5,000 per post if they don’t disclose that they were paid to make political content.",
+      "section": "news",
+      "rankScore": 0.474205
+    },
+    {
+      "id": "5e9675bb18e1bc8a",
+      "title": "2026“湘企出海”投资合作对接会在长沙举行",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qNXg0Rjk4dXk3WXoxSmlpT1dla1dHSTNPMTVMdkJFS09kX0FZanYtOE54cmJDWnJ6NWNpVDYyN2NoUHBya0NoTFU3QVA1LWZhNU9Lcl9NbWc4dVBSQkF6NUpRc0xHQlQ4ejRfXzA4UFFCbFV1NUtLNg?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-20T00:09:06.000Z",
+      "excerpt": "2026“湘企出海”投资合作对接会在长沙举行 cnr.cn 全球产业链重构，湘企如何破浪出海？ 新浪财经 湘企出海连世界！2026“湘企出海”投资合作对接会在长沙举行 Sohu 友城架起合作桥 2026湖南国际友城经贸活动在长沙启幕 中国日报网 何朝晖在长沙分别会见巴基斯坦旁遮普省、韩国洪城郡代表团 娄底新闻网",
+      "section": "news",
+      "rankScore": 0.417986
+    },
+    {
+      "id": "b987f10e873e24a7",
+      "title": "Toronto film festival is full of treats — but no clear awards frontrunners",
+      "url": "https://www.ft.com/content/af1c1aee-0e14-4894-b7ec-9d012d9416de",
+      "source": "ft-world",
+      "publishedAt": "2026-09-19T17:25:07.000Z",
+      "excerpt": "Mahershala Ali as an assassin single father and Julianne Moore as a comically earnest amateur actor, plus new work by Mike Leigh, Chris Rock and Jesse Eisenberg",
+      "section": "news",
+      "rankScore": 0.409098
+    },
+    {
+      "id": "f12a561ff19279eb",
+      "title": "Life in Kabul 5 years after the Taliban's return",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
+      "source": "npr-news",
+      "publishedAt": "2026-09-19T11:40:40.000Z",
+      "author": "D. Parvaz",
+      "excerpt": "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government's strict social restrictions.",
+      "section": "news",
+      "rankScore": 0.342122
+    },
+    {
+      "id": "0adb865ec60d6d2d",
+      "title": "Why the UN General Assembly still matters",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168361",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-19T12:00:00.000Z",
+      "excerpt": "More than eight decades on, the UN General Assembly remains the place where the UN’s 193 Member States come together to debate the defining challenges of the day, from war and peace – to development, climate change and human rights.",
+      "section": "news",
+      "rankScore": 0.29647
+    },
+    {
+      "id": "d6debcac429cc388",
+      "title": "美国国务院发布安全提醒 称中东地区局势可能升级",
+      "url": "https://www.chinanews.com.cn/kong/2026/09-20/10699750.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-19T23:14:12.000Z",
+      "excerpt": "中新网9月20日电 由于中东局势紧张，当地时间19日，美国国务院发布安全提醒，建议身处中东地区的美国公民保持高度警惕，其他地区的美国公民慎重前往中东地区。",
+      "section": "cn-news",
+      "rankScore": 0.817673
+    },
+    {
+      "id": "6ed30fb81998a5d2",
+      "title": "“中国入境游”备受阿拉伯国家青睐",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699766.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-20T00:17:46.000Z",
+      "excerpt": "原标题：中国展团连续3年亮相阿拉伯旅游展——“中国入境游”备受阿拉伯国家青睐",
+      "section": "cn-news",
+      "rankScore": 0.768956
+    },
+    {
+      "id": "735a0d41573793b8",
+      "title": "俄称控制多个定居点，乌称打击俄物流仓库",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNXNENWFIVEJYSFNJZ0pkSDJCbFFYSEd6Vm1yLTBrUExKLUpkZ2pSaGRVR21ZQ2ZwWWNrY1JhRnVCMVhzdC0tVGdLV3pHMkE0bHFWdFpB?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-20T00:16:43.000Z",
+      "excerpt": "俄称控制多个定居点，乌称打击俄物流仓库 jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.628884
+    },
+    {
+      "id": "043800530af714a7",
+      "title": "“送学游”走红 如何让开学季“过客”变为城市游“常客”？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699759.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-19T23:59:47.000Z",
+      "excerpt": "“送学游”走红背后是越来越多家庭更注重情感仪式",
+      "section": "cn-news",
+      "rankScore": 0.62465
+    },
+    {
+      "id": "a9550f87624556e9",
+      "title": "中央气象台：预计今早到明天，河北、湖北、湖南、浙江、福建、四川、重庆、云南、广西、广东、台湾岛等地有短时强降水",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaLTZGd2JmbXFzZHQwZ1lTb0h2T2xLVnMtV1JlaF9COGFzT0dreDNGcEdrLURYTEJwUXMzYmo1SUI1X3RoMnR6X3BvdWpLSmhORzVrYVFOWUwyY0VBOWc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-19T21:58:00.000Z",
+      "excerpt": "中央气象台：预计今早到明天，河北、湖北、湖南、浙江、福建、四川、重庆、云南、广西、广东、台湾岛等地有短时强降水",
+      "section": "cn-news",
+      "rankScore": 0.594204
+    },
+    {
+      "id": "f98732bfd57b3bcc",
+      "title": "今天白天北京西部和北部有分散性阵雨 夜间逐渐转晴",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuX2dYd04zT28wZDFteG1wN1dJUUpOWk9mbWw2a0J5SEJlOVhNOThRZmpXNWN2YUdfMXdBQnhvbXlYZ2E2ZTU0TFV1UmU3VkFVTGYtQXZTejcyQWZ2?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-19T23:05:33.000Z",
+      "excerpt": "今天白天北京西部和北部有分散性阵雨 夜间逐渐转晴 天气网 北京今天最高28 度，但傍晚的阵雨提醒你要带伞|市气象台_新浪新闻 sina.cn 早安北京0918：最高温28℃；本周日将举行秋季大型招聘会 新京报 北京今明两天以多云为主，下周将迎两场雨 手机网易网 北京第一场秋雨要来了！可能影响晚高峰 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.543193
+    },
+    {
+      "id": "c9572066a28a468e",
+      "title": "智能化 绿色化 融合化，中国先进制造业的创新拼图",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsM0paWkkyZmV0YThNX3JseFVmQXpjaHVtend3QzYtRkV3MHp1bFl6SnRFUFNHbWVhemJEV0RwV3ZMczFLUl93OFlQSWZ2SG5DSVN1cXZhY0ZGd21tN2l0ZW85cF9RQ0ZvR3c?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-19T23:50:41.000Z",
+      "excerpt": "智能化 绿色化 融合化，中国先进制造业的创新拼图 中国科技网 学习卡丨制造业争“先”，习近平指明前进方向 央视网 习言道｜“百炼钢做成了绕指柔”，习近平称赞“工艺确实好” 凤凰网 争“先”突围重庆从制造大市迈向制造强市 Sohu 向新、向优！“十五五”开局之年大国制造气象万千 thepaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.48407
+    },
+    {
+      "id": "5a44dd33c6461a4d",
+      "title": "What China really means when it says it’s being ‘strategic’",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3367441/what-china-really-means-when-it-says-its-being-strategic?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-19T21:30:06.000Z",
+      "author": "Zhengxu Wang",
+      "excerpt": "On September 12, Chinese President Xi Jinping met Indian Prime Minister Narendra Modi on the sidelines of the Brics summit in New Delhi. In their talks, Xi said China approached the relationship “from a strategic and long-term perspective”. He called for an objective and rational “strategic”…",
+      "section": "cn-news",
+      "rankScore": 0.456734
+    },
+    {
+      "id": "4ce520ce69c0dbf9",
+      "title": "专访丨谭卓：拍完《云雀叫天录》，梨园的一部分留在了人生里",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXJ3a05qQjBhNEdHT01KYzYxWDdSMnVHbjJwa0NCQWZXZUMzNUs2bGxRSHhBWkF5cmtkUnlXTW5QSy10NXJSLWJMOTBKcHkzT19CdTA5RkQ4cnlTb091emVvd3llVnB0aFQ2ZkxPemg4aW1CYWZMY1JmN2FrZjVDZU8wRQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-20T00:02:26.000Z",
+      "excerpt": "专访丨谭卓：拍完《云雀叫天录》，梨园的一部分留在了人生里 新浪财经 张一山《云雀叫天录》：演孟金福，最难的是台下也像个戏曲人 Sohu 光影为桥 精品迭出 “北京大视听”让文化遗产活起来 北京市人民政府门户网站 谭卓谈《云雀叫天录》：京剧藏东方美学与哲学，感恩职业能走近戏曲 thepaper.cn 张一山不爱主动安利新剧，跟杨紫相聚只聊家长里短 华声在线",
+      "section": "cn-news",
+      "rankScore": 0.416875
+    },
+    {
+      "id": "da3b657ea4ee1b36",
+      "title": "元朗女子踩共享單車自炒昏迷 身有不尋常傷勢送院不治",
+      "url": "https://hk.news.yahoo.com/%E5%85%83%E6%9C%97%E5%A5%B3%E5%AD%90%E8%B8%A9%E5%85%B1%E4%BA%AB%E5%96%AE%E8%BB%8A%E8%87%AA%E7%82%92%E6%98%8F%E8%BF%B7-%E8%BA%AB%E6%9C%89%E4%B8%8D%E5%B0%8B%E5%B8%B8%E5%82%B7%E5%8B%A2%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB-001959888.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-09-19T16:19:59.000Z",
+      "excerpt": "元朗發生致命意外。今日(20日)凌晨0時42分，一名女子踩共享單車沿壆圍南路行駛，至近南生圍污水泵房附近懷疑失控自炒。救護員接報趕至時事主已陷入昏迷，經初步急救後，送往博愛醫院搶救。據悉事主送院時已無呼吸及脈搏，其後延至今晨2時09分宣告不治。",
+      "section": "cn-news",
+      "rankScore": 0.396434
+    },
+    {
+      "id": "b02258a4e717f02f",
+      "title": "4A景区被摘牌或降级，“盘活不良旅游资产”成必选项",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10699760.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-20T00:01:15.000Z",
+      "excerpt": "6家4A级旅游景区质量等级被一次性取消，还有1家4A级景区被予以降级处理，安徽省文化和旅游厅近日发布的一则公告，揭开了部分4A级景区长期“重牌子、轻服务”“重创建、轻管理”的问题，同时也以一种行政刚性手段倒逼旅游景区强化主体责任，加快转型升级。",
+      "section": "cn-life",
+      "rankScore": 0.833356
+    },
+    {
+      "id": "04bcf5990f7ba137",
+      "title": "惠民县财政民生投入强度精度双提升 切实增进群众福祉",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfcWFvbDVEUUJPZDFLU2lzazZIZlQzUDh6T04tVldMVTlXNzlEOHpFMEhMc0FmYXVvVkRMU1BxMHpKaThmUnpRNzFOR1lOaWRZLVZCOXpGR1lveVg4Qk44enFQRjluclFVRUl6ZQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-20T00:14:37.000Z",
+      "excerpt": "惠民县财政民生投入强度精度双提升 切实增进群众福祉 鲁网",
+      "section": "cn-life",
+      "rankScore": 0.628359
+    },
+    {
+      "id": "5b02d97a46b2726f",
+      "title": "降雨持续！多地有中到大雨，局部暴雨（2026.9.20）丨小观看天",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12ZEpSTjFpTG1WbXc4bzVSeWJDZU4zclJaSUprdk1NV21fNkQwOUJzM19HdFo4dmZYeko2amZQUGVWSXI1Y1ExQnhyRWhCdw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-19T23:06:00.000Z",
+      "excerpt": "降雨持续！多地有中到大雨，局部暴雨（2026.9.20）丨小观看天 cbgc.scol.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.611204
+    },
+    {
+      "id": "101cbcadf0f08287",
+      "title": "李强主持召开国务院常务会议听取老龄工作情况汇报等",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KSzNyWEhYV09ndFVOdlpXWjYwS0YzWG5RTVNneUdmeDJVZ3N6QnZpWHZwd19oM1NoSDVXakZ6VFRmZHYwa2ZMbDZxblE5UWNPUUptU1paSFMtVjBZSUpOMFNYQmFtLXRBRjVXNTFqdWxzZw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-20T00:10:09.000Z",
+      "excerpt": "李强主持召开国务院常务会议听取老龄工作情况汇报等 山东省工业和信息化厅",
+      "section": "cn-life",
+      "rankScore": 0.557548
+    },
+    {
+      "id": "29c0abff2210ead0",
+      "title": "召回1.21亿辆次之后，智能汽车的“安全债”该还了_车市动态",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uYUtmVEtUR0JLYjk0WUx2X2FXVzVCQlVxaFM0MlBMSTNZbWE5QS0zaVcyMkhEWi1RdXJSbVltaHVPY21CNzVvb0hKcUx4RmZ0X094NmpfSy1zZDV2NVVVQkNmZG9zQXlFMk9z?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-20T00:10:01.000Z",
+      "excerpt": "召回1.21亿辆次之后，智能汽车的“安全债”该还了_车市动态 中金在线",
+      "section": "cn-life",
+      "rankScore": 0.487829
+    },
+    {
+      "id": "4063938620899401",
+      "title": "银川市成人高考报名材料清单及专业选择指南怎么准备更省事",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xRUI2dGFzZ200alZvMGFKZU83Z1EtN2hObmtPMGJMSjQzZnhFZGVaWjRYSEN5WEhuR3h1cmRoMzZhQWpoaWpkWjF0NU0zazJzQzRpcmh0V2tweC1ieHE1LS13?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-20T00:16:40.000Z",
+      "excerpt": "银川市成人高考报名材料清单及专业选择指南怎么准备更省事 中国教育在线",
+      "section": "cn-life",
+      "rankScore": 0.419247
+    },
+    {
+      "id": "c3c80cd90e5a020c",
+      "title": "早期治疗可预防实验性癫痫持续状态诱导的神经元丢失：一项磁共振波谱成像研究",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91eHdadWliTXd1UjZfeXNkNVBPRDBkbGU3NnQwVEFlT3BJMUVWNzVuSmYwNmlvYWtJSVpVVGdXNUNpZURXYjFPM3N1dnp2ZlJCMkZuYUVmRHVYdWxnakIwS0RDR0NYeklUTjhGTA?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-19T17:34:45.000Z",
+      "excerpt": "早期治疗可预防实验性癫痫持续状态诱导的神经元丢失：一项磁共振波谱成像研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.410971
+    },
+    {
+      "id": "245adebe66d120c6",
+      "title": "电视与机顶盒将合体 一体化电视到底什么样？",
+      "url": "https://www.chinanews.com.cn/life/2026/09-19/10699333.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-19T00:48:45.000Z",
+      "excerpt": "很长一段时间，家家户户的电视柜上都摆着一个长方形的小盒子——机顶盒。它是电视直播的刚需，如今也成为很多人的困扰，电视、机顶盒两套遥控器来回切换，开机还要切换信号源，烦琐的操作更是让不少老年人无从下手，这样的情况以后要改变了。",
+      "section": "cn-life",
+      "rankScore": 0.307658
+    }
+  ],
+  "warnings": []
+}
