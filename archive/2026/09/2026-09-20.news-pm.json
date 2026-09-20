@@ -1,0 +1,321 @@
+{
+  "date": "2026-09-20",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-20T14:41:03.810Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "6563dc011f43e080",
+      "title": "香港首任特首董建華葬禮：規格比照霍英東 石泰峰致悼詞",
+      "url": "https://www.bbc.com/zhongwen/articles/cky9z175jgdlo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-20T11:21:43.000Z",
+      "excerpt": "香港回歸後首任行政長官董建華周日（9月20日）在香港舉行公祭及出殯儀式。中國國家主席習近平和多名中共政治局常委以不同形式致哀，但並未親自出席。作為首位離世的香港特首，董建華獲得的國家級治喪安排不僅是對其個人政治生涯的評價，也為未來香港前特首的身後禮遇樹立先例。",
+      "section": "news",
+      "rankScore": 0.717325
+    },
+    {
+      "id": "f2f7ae22653084ee",
+      "title": "宿务拟设台办事处 菲外交部：一中政策不变，不排除与台开展经济、文化合作",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260920-%E5%AE%BF%E5%8A%A1%E6%8B%9F%E8%AE%BE%E5%8F%B0%E5%8A%9E%E4%BA%8B%E5%A4%84-%E8%8F%B2%E5%A4%96%E4%BA%A4%E9%83%A8-%E4%B8%80%E4%B8%AD%E6%94%BF%E7%AD%96%E4%B8%8D%E5%8F%98%EF%BC%8C%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%8F%B0%E5%BC%80%E5%B1%95%E7%BB%8F%E6%B5%8E-%E6%96%87%E5%8C%96%E5%90%88%E4%BD%9C",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-20T14:16:40.000Z",
+      "author": "弗林",
+      "excerpt": "菲律宾外交部周日表示，菲方的“一个中国”政策保持不变，但这并不排除该国与台湾开展“经济、文化和功能合作”。台湾外长林佳龙日前在受访时证实正筹划在菲律宾中部宿务省设立办事处的相关报道，并称期望能借此促进打造台菲经济走廊。中国外交部发言人郭嘉昆随后“敦促菲方以实际行动恪守一个中国原则，不得做任何伤害中菲关系的事情”。菲律宾外交部则作出了上述澄清。",
+      "section": "news",
+      "rankScore": 0.687489
+    },
+    {
+      "id": "cdf3d08cc39de880",
+      "title": "“硫磺熏笋”食安争议 韩食品药品安全部：决定对加工竹笋产品实施额外检测",
+      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260920-%E7%A1%AB%E7%A3%BA%E7%86%8F%E7%AC%8B-%E9%A3%9F%E5%AE%89%E4%BA%89%E8%AE%AE-%E9%9F%A9%E9%A3%9F%E5%93%81%E8%8D%AF%E5%93%81%E5%AE%89%E5%85%A8%E9%83%A8-%E5%86%B3%E5%AE%9A%E5%AF%B9%E5%8A%A0%E5%B7%A5%E7%AB%B9%E7%AC%8B%E4%BA%A7%E5%93%81%E5%AE%9E%E6%96%BD%E9%A2%9D%E5%A4%96%E6%A3%80%E6%B5%8B",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-20T13:17:52.000Z",
+      "author": "弗林",
+      "excerpt": "自首尔方面消息，针对中国“硫磺熏笋”事件引发的争议，韩国食品药品安全部周日表示，中国产竹笋并非以农产品的形式进口到该国。",
+      "section": "news",
+      "rankScore": 0.657335
+    },
+    {
+      "id": "95492b1e8c1da6cb",
+      "title": "特朗普为何要以“最高外交礼遇”接待习近平？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260920-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%A6%81%E4%BB%A5-%E6%9C%80%E9%AB%98%E5%A4%96%E4%BA%A4%E7%A4%BC%E9%81%87-%E6%8E%A5%E5%BE%85%E4%B9%A0%E8%BF%91%E5%B9%B3",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-20T12:37:43.000Z",
+      "author": "左依",
+      "excerpt": "下周国际关注的焦点无疑将是“习近平访美”，上次他对美国进行国是访问还是在2015年，紧接着2016年，特朗普首次竞选总统，那时他还经常将中国描述为美国经济的威胁，指责中国掏空了美国制造业。十年后的今天，特朗普似乎像变了一个人。据悉，这一次为了迎接习近平到访，他甚至提前在白宫南草坪准备了直升机停机坪，并遗憾地表示自己计划建设的宴会厅无法及时完工，无法用于接待这位中国领导人。要知道，他通常都是直接在白宫接待贵宾，亲自前往停机坪迎接的情况极为罕见，因此这一次的最高外交礼遇可以说给足了中方“面子”。",
+      "section": "news",
+      "rankScore": 0.636745
+    },
+    {
+      "id": "013a4faa4b952c56",
+      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-20T13:50:51.000Z",
+      "excerpt": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "section": "news",
+      "rankScore": 0.606825
+    },
+    {
+      "id": "ea6eaad78d5c8bd1",
+      "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-20T14:38:01.000Z",
+      "excerpt": "Hundreds of Tunisians have protested in Tunis, demanding the release of four Global Sumud Flotilla activists.",
+      "section": "news",
+      "rankScore": 0.55875
+    },
+    {
+      "id": "d9bbdb64cfa80784",
+      "title": "Meta launches legal challenge against UK media regulator over Online Safety Act",
+      "url": "https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-20T14:24:33.000Z",
+      "author": "Ben Quinn Political correspondent",
+      "excerpt": "Action against Ofcom comes as social media companies are being accused of using courts to slow down implementation Meta has launched a fresh legal challenge against Britain’s media regulator in the latest of a slew of actions by social media companies who are accused of using the courts to slow…",
+      "section": "news",
+      "rankScore": 0.553225
+    },
+    {
+      "id": "5c9a22cadca5cc0d",
+      "title": "Once Home to Batman, This Faded Mansion Is Now Plagued by Real Bats",
+      "url": "https://www.nytimes.com/2026/09/19/world/europe/batman-mansion-mentmore-towers-bats.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-20T12:06:26.000Z",
+      "author": "Leo Sands",
+      "excerpt": "Officials in England are alarmed at the state of Mentmore Towers, the 19th century estate that served as Wayne Manor in the 2005 film “Batman Begins.”",
+      "section": "news",
+      "rankScore": 0.496562
+    },
+    {
+      "id": "8d36ad2f7802c484",
+      "title": "PHOTOS: The precarious life of fisherfolk",
+      "url": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
+      "source": "npr-news",
+      "publishedAt": "2026-09-20T12:24:02.000Z",
+      "author": "Kamala Thiagarajan",
+      "excerpt": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea.",
+      "section": "news",
+      "rankScore": 0.44081
+    },
+    {
+      "id": "65be67878a00fd2a",
+      "title": "Troy Jackson, a Progressive Brawler, Tries to Flip a Senate Seat in Maine",
+      "url": "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-20T12:11:05.000Z",
+      "author": "Beth Reinhard",
+      "excerpt": "Mr. Jackson landed in the race unexpectedly. Democrats are hoping he can unseat Susan Collins, a Republican, in their bid to retake the Senate.",
+      "section": "news",
+      "rankScore": 0.436161
+    },
+    {
+      "id": "7cc8870f20cd6dd2",
+      "title": "Chevron plans drilling spree as it overhauls oil and gas search",
+      "url": "https://www.ft.com/content/bbf1d846-7d89-45f6-8c0f-1fba1e334b4b?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-20T12:00:03.000Z",
+      "excerpt": "Kevin McLachlan hopes to replicate the exploration turnaround he achieved at TotalEnergies",
+      "section": "news",
+      "rankScore": 0.4322
+    },
+    {
+      "id": "90cb8167e0feb128",
+      "title": "习近平主席引领全球发展倡议造福世界",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hTl9rUl9tZEwxLVNpSE9wTDZ0R3hqMFowUTJJSkRnWEUwQVMxYTgybXNTbzBYTjhNZ0VMcGp0UGg4Y3kzdmNRcldqWGpwWGQ3dWZsU2hNNUlhRW1GTDBzZjFR?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-20T14:05:32.000Z",
+      "excerpt": "习近平主席引领全球发展倡议造福世界 court.gov.cn （图表）新华全媒头条丨为了共同繁荣的梦想——习近平主席引领全球发展倡议造福世界 Sohu 贾文键校长出席“海外看中国·全球发展倡议”主题交流活动 北外新闻网",
+      "section": "news",
+      "rankScore": 0.409068
+    },
+    {
+      "id": "b1282b27e8d443eb",
+      "title": "内蒙古自治区体育局原党组书记、局长谭景峰被开除党籍",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700476.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-20T14:31:56.000Z",
+      "excerpt": "中新网9月20日电 据内蒙古自治区纪委监委消息：经内蒙古自治区党委批准，内蒙古自治区纪委监委对内蒙古自治区体育局原党组书记、局长谭景峰严重违纪违法问题进行了立案审查调查。",
+      "section": "cn-news",
+      "rankScore": 0.76485
+    },
+    {
+      "id": "c937c08d7380e0c5",
+      "title": "商务部：1-8月全国网上商品和服务零售额增长4.6%",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700213.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-20T09:10:42.000Z",
+      "excerpt": "中新网9月20日电 据商务部网站消息，2026年1-8月，我国电子商务向好向新发展，融合线上线下推动消费扩容提质，数智化赋能助力产业转型升级，“丝路电商”伙伴国持续扩围，深化国际经贸合作。",
+      "section": "cn-news",
+      "rankScore": 0.636699
+    },
+    {
+      "id": "deb2b4bba8412b81",
+      "title": "广西钦州造纸产业扩容 25个项目集中签约",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700422.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-20T14:17:21.000Z",
+      "excerpt": "中新网钦州9月20日电(翟李强)9月20日，25个造纸及配套产业合作项目框架协议集中签约，落户广西钦州市钦南区，为当地高端造纸及纸制品产业发展注入强劲动能。",
+      "section": "cn-news",
+      "rankScore": 0.619055
+    },
+    {
+      "id": "92d247b8e4c54833",
+      "title": "立马剧场之《反诈风云》第五集，《网恋杀猪盘——一声“宝贝”开启的资金猎杀》",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xd3pvZmhITUFqaldKTnB3LUVIVGlQSy1JU3RYVGtOaHFpS295NDJ5c0p0WTUzM1JmQ19wcnlLUDQwaV9JM2hJVlpCNE5EVmNCenpEMF9UODdQRUhlRnlwXw?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-20T13:38:47.000Z",
+      "excerpt": "立马剧场之《反诈风云》第五集，《网恋杀猪盘——一声“宝贝”开启的资金猎杀》 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.601255
+    },
+    {
+      "id": "f58f284cc24339ac",
+      "title": "黄强胡玉亭会见国家能源局党组书记、局长王宏志",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHUUxFX1hib1NVbk54QUdCZlVMN1M1YUlVdmRQLXBXa1p5OXF2MFBGZ3NmUmNpY0ZaNS1ienk1RE45NVBYV284WXltN1RrekZRUnpEdl9kSTRaR2JzNnc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-20T13:20:00.000Z",
+      "excerpt": "黄强胡玉亭会见国家能源局党组书记、局长王宏志",
+      "section": "cn-news",
+      "rankScore": 0.592586
+    },
+    {
+      "id": "a118726059398abd",
+      "title": "新华视点丨从东博会看中国－东盟合作新变化",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02b0s3YnMwNjVNQVRubkthRE9WQ3UxZnpyU25VT2JkSVJLV3YwQklMNE1BSFRnS1pUd1BERWJ3emljRW1jSVNKYTdONjlCUUpTcHBtb2d3azZuUXJDYXJZNENHbE1qRjlkWVo0Z2hXMy1SU2J5NURab3JKTk1lQW8?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-20T13:54:28.000Z",
+      "excerpt": "新华视点丨从东博会看中国－东盟合作新变化 新华网 东博会新朋友携AI机器人掘金东盟市场 t.cj.sina.cn 关键词里看东博会：互联互通提质升级 中国网新闻中心 AI拓展中国—东盟产业协作新空间 中国经济网 探需东博会 这些领域缘何成为东盟客商关注点 中国日报网",
+      "section": "cn-news",
+      "rankScore": 0.540883
+    },
+    {
+      "id": "14320242d26880e0",
+      "title": "US, China seek Xi-Trump summit deliverables in New York talks",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368171/us-china-seek-xi-trump-summit-deliverables-new-york-talks?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-20T14:34:25.000Z",
+      "author": "Nayan Seth",
+      "excerpt": "US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer held their final preparatory talks with Chinese Vice Premier He Lifeng in New York on Sunday to work out deliverables for next week’s summit between Chinese President Xi Jinping and US President Donald Trump in Washington.",
+      "section": "cn-news",
+      "rankScore": 0.487614
+    },
+    {
+      "id": "d827851e279478b0",
+      "title": "赛力斯与华为合作生变，引望：赛力斯是股东，将一如既往支持问界发展",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03ZzA0aXY5UDlxZHVyUGxlNGZsZGNXczMxRlM0TEhDSkJ3VUVVRE9QUUN6Q0NHUkFyYW1mRlpvNFNWSUJBdHRmMG5aM09FYUNJSEFTMWtIN3NjUjU3SDV3SzBB?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-20T14:27:00.000Z",
+      "excerpt": "赛力斯与华为合作生变，引望：赛力斯是股东，将一如既往支持问界发展 观察者网 赛力斯康波回应问界专属专营新模式：分工优化升级 用户权益不受影响 新华网 华为方面再发声明：将持续推进问界产品智能化升级，充分保障用户智能化服务与体验 凤凰网汽车 赛力斯“单飞”！华为经销商担忧：卖四界都抵不上问界 thepaper.cn 赛力斯高层答疑问界“单飞”：含华量、品质不会降，将推出MPV轿车 中华网财经",
+      "section": "cn-news",
+      "rankScore": 0.484952
+    },
+    {
+      "id": "de8d7613bfaf037a",
+      "title": "川習會前 李成鋼頭銜「升格」為中國國際貿易談判代表",
+      "url": "https://www.cna.com.tw/news/acn/202609200178.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-20T11:00:15.000Z",
+      "excerpt": "（中央社台北20日電）川習會將至，中國務院副總理何立峰今晚率李成鋼等與美國財政部長貝森特在紐約舉行經貿會談。官媒也在今天公布國務院新任命李成鋼為「中國」國際貿易談判代表。港媒分析，名稱上的「升格」是為了與美國貿易代表葛里爾對等。",
+      "section": "cn-news",
+      "rankScore": 0.46941
+    },
+    {
+      "id": "78e6faec2a99d8af",
+      "title": "湾区升明月｜齐秦献唱《外面的世界》，如见游子归来",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54QzAwMi1IbktwN210NURnUUxWWDgwZGNnaWQ5V3V4OUxHZnhRMlFtR2toNFlBRHNvMVZTVGVIYWZjWEMtU3B5N0Jib0JXUTZwRHBoR0FCQ3FHNmR2eV9icg?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-20T12:59:00.000Z",
+      "excerpt": "湾区升明月｜齐秦献唱《外面的世界》，如见游子归来 thepaper.cn “湾区升明月”澳门开演，儒意电影成独家影院第二现场 新浪新闻_手机新浪网 荣耀成为2026“湾区升明月”独家新媒体影像合作伙伴 电影级影像实力进一步拓展大众场景 驱动之家 “湾区升明月”2026大湾区电影音乐晚会在澳门举行 Sohu “湾区升明月”里的两岸文化基因 共赏一轮团圆月 中华网",
+      "section": "cn-news",
+      "rankScore": 0.388596
+    },
+    {
+      "id": "3aabe0a452ee9cd0",
+      "title": "亚布力推出秋日文旅礼包：赏秋月、越野自驾、惠民专列、萌宠互动",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-20/10700434.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-20T14:16:35.000Z",
+      "excerpt": "中新网哈尔滨9月20日电 (记者 刘锡菊)“我们立足本地秋日资源禀赋，整合精品旅游线路、特色体验产品、多元文体活动与惠民政策礼包，全方位升级假日文旅供给。”20日，在哈尔滨市人民政府新闻办公室主办的哈尔滨市国庆中秋特色文旅活动新闻发布会上，哈尔滨市亚布力管委会副主任王笃军诚邀八方游客走进亚布力。",
+      "section": "cn-life",
+      "rankScore": 0.824935
+    },
+    {
+      "id": "bdffca2ae7963877",
+      "title": "超1.9万个岗位释放！京津冀蒙跨区域工会联动助力高校毕业生就业",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3pUZHc2UjFvYS1kX0tGY1dNd1FsY0FPaGtFRFFXMUJobmZKekNpSGFvNWo5OHY1RnVfTzVuM0VuMlRWYXd1NUpkaFZoYmZFa29VLUhPZGZ0cjh1TlVZOG5RR3BUMTdHQUFfSG9OOENfN0RrSHNuYkJSVlRRN0lEaUNJaG9iVWtGX0dIRWhGU3U2ck9xSWdxXw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-20T14:37:30.000Z",
+      "excerpt": "超1.9万个岗位释放！京津冀蒙跨区域工会联动助力高校毕业生就业 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.628355
+    },
+    {
+      "id": "d8c154405136fb19",
+      "title": "河南发布秋收期连阴雨灾害风险预警",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaWZZakFHbjA1bXUtN2UtRDU2dWdmS0FKdHlYTlNMVDVoeTB2aHRlNDVqeXFuRzJTWGFZUTFyOVF1OUJ1M3ExZXI1dWRWM2JRTW5xNGVQTUhPLVZOdmhJVU10M0hueUpzbTUxcE8yY1NQOTRqQjJ6ZUx5Qjh2blFSbDdRZDc3Y1lyTUEtRFpmWmFXaFpjVUY0ZWJNVGRSejlKRE1jUjZkV1RORkJuN3MzUWY2ZUs3VHVEVER5UkVxNC1RV3BIbV9fUEY5ck1McHhzWU5Kb1BlMA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-20T14:34:52.000Z",
+      "excerpt": "河南发布秋收期连阴雨灾害风险预警 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.62714
+    },
+    {
+      "id": "6d419e4b8ac5adf7",
+      "title": "赵乐际同澳大利亚联邦议会众议长迪克会谈",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVSUdINHF5V3NNN0YzTkdLQ0tpX216eFBaWFZRUHRmdGdNRU9wN2t1Q1F4T1B6S3JLUWZyeGtRMlFBZWVDZGpzRl9PY2hzVW1MaUcxWUZOM0JiSzhBOGpFcFBqc0FuNmR5TVhZ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-20T13:54:00.000Z",
+      "excerpt": "赵乐际同澳大利亚联邦议会众议长迪克会谈 mfa.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.540692
+    },
+    {
+      "id": "6924cb663136b9d8",
+      "title": "19余万辆车被召回！江西车主请自查",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSF80alJWeW1MLWpVYVpLLWRPc0w5Q215VE91ZEIxMUlMeFpQZ2RRS0lkVFRaeXVuSm9HOXZjeHJvVy1VUU1yclFXMmdFNnhoRnl5dDFJazVMS1FtajNWVFIyNVBwRDZNc1BpSGpnX08xV0hKVk9XUkh6T2FfYTRqdEhicExDVThLREZTM2l0VGd2ajF3UGMwVg?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-20T14:36:40.000Z",
+      "excerpt": "19余万辆车被召回！江西车主请自查 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.488422
+    },
+    {
+      "id": "76a004f9ea2d29e1",
+      "title": "魁北克11名婴儿出生时患有先天性梅毒 - VanPeople",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDaWV5RnVsemx3SDBQUkl4elFfWnhwQjFxZWplTFFUNTlTM2Ffb2FkaHBsZG5WUlBVaDZqcjEya19UX1Y0Mk50dTNPZU5HbVh1?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-20T13:36:55.000Z",
+      "excerpt": "魁北克11名婴儿出生时患有先天性梅毒 VanPeople 澳洲性病病例激增！淋病梅毒10年涨超50%，这个群体受影响最严重 1688澳洲新闻网",
+      "section": "cn-life",
+      "rankScore": 0.466973
+    },
+    {
+      "id": "69909f893a763ff5",
+      "title": "如何爱牙？中国首部系统聚焦牙齿与口腔医学科学纪录片深度解读",
+      "url": "https://www.chinanews.com.cn/life/2026/09-20/10700013.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-20T06:33:02.000Z",
+      "excerpt": "中新网北京9月20日电 (记者 孙自法)2026年9月20日是中国第38个“全国爱牙日”，中国首部系统聚焦牙齿与口腔医学的科学纪录片《从“齿”健康》，在“全国爱牙日”到来之际由中央广播电视总台央视纪录频道(CCTV-9)推出。",
+      "section": "cn-life",
+      "rankScore": 0.449728
+    },
+    {
+      "id": "960e513ce91dad20",
+      "title": "宁夏回族自治区人大常委会机关联合多单位开展“感党恩携手共建·强法治同心圆梦”民族团结进步宣传教育暨联",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DNW9JeEIyRVRXZEFQcy1ENGlQRV9hYW9sMzhPOVlHUWs1VkpUTG9UMDdSQ1BORDByV3MxWjhfUFN5enNKWUptZUx3TTNQdVp1VXg4d0lHYmxjZ1VNMThRTFBWNEZVYnZJLUYyR1NMSkZxQQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-20T12:49:33.000Z",
+      "excerpt": "宁夏回族自治区人大常委会机关联合多单位开展“感党恩携手共建·强法治同心圆梦”民族团结进步宣传教育暨联 央广网",
+      "section": "cn-life",
+      "rankScore": 0.385688
+    }
+  ],
+  "warnings": []
+}
