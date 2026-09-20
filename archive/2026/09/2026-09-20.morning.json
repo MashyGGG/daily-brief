@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-20",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-20T00:06:26.931Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "5388e6640122a0f6",
+      "title": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-20T00:06:26.931Z",
+      "score": 859,
+      "excerpt": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "e84230b14aa73735",
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-20T00:06:26.931Z",
+      "score": 281,
+      "excerpt": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "section": "tech",
+      "rankScore": 0.984
+    },
+    {
+      "id": "0f152ea8a7f378cb",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-19T10:46:58.000Z",
+      "score": 1059,
+      "author": "nandakishor_ml",
+      "excerpt": "1059 points · 247 comments · https://news.ycombinator.com/item?id=49765348",
+      "section": "tech",
+      "rankScore": 0.897506
+    },
+    {
+      "id": "2a4265f1cfa7a341",
+      "title": "ZK-JPEG: Zero-knowledge Image Editing and Compression",
+      "url": "https://eprint.iacr.org/2026/2039",
+      "source": "lobsters",
+      "publishedAt": "2026-09-19T23:38:01.000Z",
+      "author": "eprint.iacr.org via vaultdmn",
+      "section": "tech",
+      "rankScore": 0.6748
+    },
+    {
+      "id": "a267e111b7f9311d",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source": "verge",
+      "publishedAt": "2026-09-19T20:44:40.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself.",
+      "section": "tech",
+      "rankScore": 0.450765
+    },
+    {
+      "id": "5f509a754392edf7",
+      "title": "Rings around a tiny body have changed over the past decade",
+      "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-19T10:00:06.000Z",
+      "author": "Jacek Krywko",
+      "excerpt": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
+      "section": "tech",
+      "rankScore": 0.325432
+    },
+    {
+      "id": "067bfb1967a6df7f",
+      "title": "datasette-auth-github 1.0",
+      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-19T19:52:02.000Z",
+      "excerpt": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long.",
+      "section": "ai",
+      "rankScore": 0.755195
+    },
+    {
+      "id": "bd94f97e6b70b1ef",
+      "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-20T00:06:26.931Z",
+      "excerpt": "美团 LongCat 团队构建了 MineExplorer —— 首个在开放世界中做到分钟级长程任务的评测基准，系统性地评测多模态大模型在需要长程规划、并包含隐藏前置条件的任务中的真实能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "4f679acd217a7376",
+      "title": "刚刚发了封措辞严厉的邮件给 ZCode/智谱，要求退款",
+      "url": "https://www.v2ex.com/t/1243198",
+      "source": "v2ex",
+      "publishedAt": "2026-09-19T12:24:07.000Z",
+      "score": 21,
+      "author": "Shing",
+      "excerpt": "我是在 z.ai 开的 coding plan ，最近把个人的、公司的项目都放到 zcode 的客户端里跑，昨天的事情出来之后，我第一时间检查，全都被上传了！ 于是写了邮件给它们，要求退款 太欺负人了！这妥妥的花钱找人偷数据，如果他们不退，我就直接 paypal 仲裁了。",
+      "section": "cn-tech",
+      "rankScore": 0.697417
+    },
+    {
+      "id": "19f68def76e028ea",
+      "title": "大脑由两个不同的器官构成",
+      "url": "https://www.solidot.org/story?sid=85426",
+      "source": "solidot",
+      "publishedAt": "2026-09-19T16:40:02.000Z",
+      "excerpt": "科学家几百年来一直将大脑视为单一的器官。但斯坦福大学医学院领导的一项新研究发现，大脑实际上由两个不同的器官构成，它们在数亿年里独立演化。这一发现推翻了大脑发育的主流模型。研究人员过去一直认为，在发育早期存在一个单一的祖细胞（progenitor cell），由此诞生了整个大脑。它暗示大脑的所有部分都有共同的发育起源。新的研究发现，人脑由两个古老的神经系统巧妙地结合而成——其中较原始的部分负责调节心跳、呼吸及其他生理功能；另一部分则赋予了人类特有的能力，使得人类能进行诗歌创作、数学运算以及思科自身的起源。",
+      "section": "cn-tech",
+      "rankScore": 0.633595
+    },
+    {
+      "id": "1a8425148c9300cd",
+      "title": "不可逆的人类衰老，快被 AI 破解了",
+      "url": "https://www.36kr.com/p/3989811095468801",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-20T00:04:43.000Z",
+      "author": "极客公园",
+      "excerpt": "2026 年 9 月，42 个平均 67 岁的人，在六只不同的时钟上同时变年轻了。 这些时钟不在墙上，而在他们的血液里。 服用一种名叫 rentosertib 的药物四周后，患者体内近 3000 种蛋白被检测，其中 326 种发生显著变化。六套由不同团队开发的模型都认为，他们的身体正在朝更年轻的方向移动。 多数时钟倒退了 3 到 4 年。其中一只，倒退了接近 6 年。 更不可思议的是，这款药是 AI 做出来的。 它来自英矽智能，一家已经登陆港交所、也是目前全球临床进展最快的 AI 制药公司之一。AI 帮助它从海量生物数据中找到靶点，再设计出能够作用于这个靶点的分子。",
+      "section": "cn-tech",
+      "rankScore": 0.629567
+    },
+    {
+      "id": "5b27daf65dbc51f5",
+      "title": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+      "url": "https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-19T17:20:08.000Z",
+      "author": "马越",
+      "section": "cn-tech",
+      "rankScore": 0.587135
+    },
+    {
+      "id": "f40dc72247e67cb8",
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-19T09:31:17.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.",
+      "section": "security",
+      "rankScore": 0.456898
+    },
+    {
+      "id": "c3c7797ab516a0af",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-19T08:18:54.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution.",
+      "section": "security",
+      "rankScore": 0.436792
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
