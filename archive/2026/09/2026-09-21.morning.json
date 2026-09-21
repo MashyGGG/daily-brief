@@ -1,0 +1,154 @@
+{
+  "date": "2026-09-21",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-21T00:11:33.514Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "728dcc82f22513c0",
+      "title": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-21T00:11:33.514Z",
+      "score": 465,
+      "excerpt": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "section": "tech",
+      "rankScore": 1.02
+    },
+    {
+      "id": "f40a47ae26ffa681",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-20T15:18:44.000Z",
+      "score": 543,
+      "author": "lmbbuchodi",
+      "excerpt": "543 points · 302 comments · https://news.ycombinator.com/item?id=49776729",
+      "section": "tech",
+      "rankScore": 0.999892
+    },
+    {
+      "id": "e29a76f3aa753a36",
+      "title": "Roku launches open-source Roku LT OS for creative programmers",
+      "url": "https://blog.roku.com/developer/roku-lt-os",
+      "source": "lobsters",
+      "publishedAt": "2026-09-20T23:15:16.000Z",
+      "author": "blog.roku.com via lorddimwit",
+      "section": "tech",
+      "rankScore": 0.667254
+    },
+    {
+      "id": "1fd77d9193d90f6d",
+      "title": "Cloudflare Measures Origin TLS Preferences, Cutting Handshake Retries from 52% to 3.7%",
+      "url": "https://www.infoq.com/news/2026/09/cloudflare-automatic-key-exchang/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-20T08:15:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "Cloudflare has replaced its static X25519 guess for origin TLS handshakes with per-origin measurement. HelloRetryRequests on scanned origins fell from roughly 52% to 3.7%, removing over 150 ms from p90 latency.",
+      "section": "tech",
+      "rankScore": 0.466861
+    },
+    {
+      "id": "6d3df8664cd15b9b",
+      "title": "No Dogs in Space is back to feed your need for obsessive music history",
+      "url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+      "source": "verge",
+      "publishedAt": "2026-09-20T20:51:57.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce the show's return with season four, Punk 2.0. […]",
+      "section": "tech",
+      "rankScore": 0.451187
+    },
+    {
+      "id": "506f9d3e7f454657",
+      "title": "Don't call it an SUV: The Ferrari Purosangue review",
+      "url": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-20T10:00:02.000Z",
+      "author": "Jonathan M. Gitlin",
+      "excerpt": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
+      "section": "tech",
+      "rankScore": 0.324426
+    },
+    {
+      "id": "fd548b5b9ddaebcd",
+      "title": "llm-keys-ui 0.1",
+      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-20T19:22:19.000Z",
+      "excerpt": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key.",
+      "section": "ai",
+      "rankScore": 0.743586
+    },
+    {
+      "id": "89d3780078432a53",
+      "title": "datasette-explain 0.2.2",
+      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-20T00:22:04.000Z",
+      "excerpt": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: sqlite , datasette",
+      "section": "ai",
+      "rankScore": 0.363503
+    },
+    {
+      "id": "d0a2feb9c81480ce",
+      "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+      "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-21T00:11:33.514Z",
+      "excerpt": "搭载美团 LongCat 2.0 的全场景 AI Agent 平台 CatPaw 正式上线，我们将模型能力从“跑得动”推向“用得好”。CatPaw 提供开箱即用的 AI 智能工作台与企业级 Agent 开发托管能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "9e1a0ed30be7251c",
+      "title": "每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心",
+      "url": "https://www.solidot.org/story?sid=85436",
+      "source": "solidot",
+      "publishedAt": "2026-09-20T16:41:20.000Z",
+      "excerpt": "英伟达在 2024 年称当年它的 GPU 产品共使用了逾 10 亿 RISC-V 核心。这些 RISC-V 核心没有被用于图形渲染，而是充当了微控制器，执行各类辅助任务，根据型号不同，每个 GPU 包含了 10-40 个 RISC-V 核心。英伟达在 RISC-V 之前使用的是私有微控制器 FAst Logic CONtroller（Falcon）。Falcon 最早于 2005 年随 G98 引入，到了 2016 年单个 GPU 芯片集成了超过 15 个不同的 Falcon 引擎，十年间使用的 Falcon 核心总数约 30 亿个，这些核心被用于视频编解码、电源管理、安全引擎等不同任务。",
+      "section": "cn-tech",
+      "rankScore": 0.632431
+    },
+    {
+      "id": "c73d3825abefdcae",
+      "title": "瞄准 AI 编程、金融等场景，单次成本仅为Opus 5 的1/8！这款国产旗舰模型跻身 AA 榜单全球前三",
+      "url": "https://www.infoq.cn/article/9jw1St7ULZijG8XNCWkW?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-20T19:52:32.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.628049
+    },
+    {
+      "id": "40af6e845fbc53dc",
+      "title": "一口气用 GPT-6 Astra 做了 10 款小游戏，欢迎来玩",
+      "url": "https://www.v2ex.com/t/1243393",
+      "source": "v2ex",
+      "publishedAt": "2026-09-20T07:50:00.000Z",
+      "score": 18,
+      "author": "iiduce",
+      "excerpt": "上个月升级了 pro 20x ，tibo 又不断给重置，生产力爆棚，token 无处可去，决定做些小游戏。 https://tz100.com 已上线的 10 款小游戏全部使用 GPT-6 Astra 完成（包括站点也是）。总共消耗了大约 20x 的两个周额度 其中五子棋和象棋支持在线开房联机。乒乓球也做了联机，但是测试对网络要求太高，上线关闭了联机功能。 晴湾防线（ https://tz100.com/zh/games/sunharbor-defense ） 致敬（模仿）了我非常喜欢的一款古老 flash 塔防游戏，不知谁能看出来。",
+      "section": "cn-tech",
+      "rankScore": 0.62761
+    },
+    {
+      "id": "4379b2a8b17fe9ea",
+      "title": "我把 RAG 召回率从 61% 提到 踩的坑比想象中多",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qUklhYnFybjVmdXpaS2dmS1M1OUszbVlKa0NqbEJadmRqM1VaVmJzd0doY0VVaGlqUFU2eE9laWxzSHJHZjBacDNxNmhTRWtkbnAxXw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-20T23:27:36.000Z",
+      "excerpt": "我把 RAG 召回率从 61% 提到 踩的坑比想象中多 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.481453
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
