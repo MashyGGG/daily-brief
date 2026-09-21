@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-21",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-21T00:27:57.553Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "774aba84e486d050",
+      "title": "莫斯科遭到烏克蘭450架無人機襲擊，市長稱規模「迄今最大」",
+      "url": "https://www.bbc.com/zhongwen/articles/ck0j32p3el72o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-21T00:10:13.000Z",
+      "excerpt": "莫斯科市長稱，在夜間的襲擊中，有 450 架無人機被擊落，造成兩人死亡。",
+      "section": "news",
+      "rankScore": 0.834086
+    },
+    {
+      "id": "d92af41778944734",
+      "title": "特朗普觊觎加拿大和法国领土，马克龙与加拿大总理宣布将加强双边关系",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260920-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%8A%E8%A7%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%92%8C%E6%B3%95%E5%9B%BD%E9%A2%86%E5%9C%9F%EF%BC%8C%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%AE%A3%E5%B8%83%E5%B0%86%E5%8A%A0%E5%BC%BA%E5%8F%8C%E8%BE%B9%E5%85%B3%E7%B3%BB",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-20T23:37:53.000Z",
+      "author": "安东尼",
+      "excerpt": "法国总统马克龙与加拿大总理马克·卡尼周日宣布将加强双边关系；两人是在位于加拿大以东大西洋海域的法国海外领地圣皮埃尔和密克隆群岛发表上述声明的。这两位领导人举行会晤之际，两国与美国的关系均处于紧张状态。马克龙在联合新闻发布会上表示：“我们都认为，我们的国家是两个伟大的独立国家，并希望继续保持这种独立地位。”",
+      "section": "news",
+      "rankScore": 0.68609
+    },
+    {
+      "id": "c089e2b80f0e49b7",
+      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-20T21:17:22.000Z",
+      "excerpt": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "section": "news",
+      "rankScore": 0.582352
+    },
+    {
+      "id": "e8f4879604f5706d",
+      "title": "More than 800,000 bees stolen across far north Queensland in ‘sophisticated’ operation",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/21/more-than-800000-bees-stolen-across-far-north-queensland-in-sophisticated-operation",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-21T00:00:29.000Z",
+      "author": "Andrew Messenger",
+      "excerpt": "Apiarists will lose not just the insects but the value of pollination contracts, which can be worth thousands of dollars An estimated 800,000 bees, worth tens of thousands of dollars, have been stolen from properties in far north Queensland.",
+      "section": "news",
+      "rankScore": 0.553894
+    },
+    {
+      "id": "4eb41a79dc62dfa1",
+      "title": "On a Dot of France Off Canada, Carney and Macron Talk Partnership",
+      "url": "https://www.nytimes.com/2026/09/20/world/canada/carney-macron-saint-pierre-miquelon-canada-eu.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-20T23:38:52.000Z",
+      "author": "Ian Austen",
+      "excerpt": "Prime Minister Mark Carney of Canada and President Emmanuel Macron of France met just after the European Union invited Canada to become its first “associate member.”",
+      "section": "news",
+      "rankScore": 0.549091
+    },
+    {
+      "id": "20f5579a7d7ae7cb",
+      "title": "Polls close in Russian wartime election with ruling party set to dominate",
+      "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-20T22:54:00.000Z",
+      "excerpt": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
+      "section": "news",
+      "rankScore": 0.53912
+    },
+    {
+      "id": "f5e6044c457138c4",
+      "title": "White House Moves to Take Control of N.I.H. Grants",
+      "url": "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-20T23:59:05.000Z",
+      "author": "Carolyn Y. Johnson, Sheryl Gay Stolberg, Tony Romm and Michael C. Bender",
+      "excerpt": "Federal officials are drafting an executive order that would place grants under review by an outside panel, the latest effort to redirect billions of dollars in research spending.",
+      "section": "news",
+      "rankScore": 0.484385
+    },
+    {
+      "id": "4c3bff014d9d725d",
+      "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+      "source": "npr-news",
+      "publishedAt": "2026-09-20T21:39:24.000Z",
+      "author": "Kristin Wright",
+      "excerpt": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa.",
+      "section": "news",
+      "rankScore": 0.457225
+    },
+    {
+      "id": "bcbe8e5cc7dc2c9d",
+      "title": "Burnham hopes to build bridges with Trump at first meeting",
+      "url": "https://www.ft.com/content/f4535bd7-7c23-4eb7-b306-43dab2772dd3?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-20T21:05:08.000Z",
+      "excerpt": "UK prime minister has said he wants to press case for US to help Ukraine with air-defence systems",
+      "section": "news",
+      "rankScore": 0.450562
+    },
+    {
+      "id": "f43f97ffdf48c95c",
+      "title": "联合国秘书长：非洲经济在逆风中释放强劲增长信号",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142828",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-20T12:00:00.000Z",
+      "excerpt": "联合国秘书长古特雷斯周日在纽约出席第五届“势不可挡的非洲”论坛时指出，世界终于认识到非洲是全球商业的游戏规则改变者，从“在非洲做生意”到“与非洲做生意”的转变正在发生。",
+      "section": "news",
+      "rankScore": 0.44301
+    },
+    {
+      "id": "cd0b4b4aa715223e",
+      "title": "莫斯科遭“最大规模袭击”，乌克兰“击中俄罗斯重要石油工业设施”，全球“炼油危机”加剧",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzb2hiSC1IYlZDQ0d5c05wTzZZYWpWTUVUU3BVb2NRcDFnYnNSR3lUbmRkV2k4TWloZzNrTy1JYkktTklhQ1BzRUtNZzNNZ3lIMkZF?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-21T00:16:11.000Z",
+      "excerpt": "莫斯科遭“最大规模袭击”，乌克兰“击中俄罗斯重要石油工业设施”，全球“炼油危机”加剧 wallstreetcn.com 莫斯科这一幕，看得人触目惊心 凤凰网 俄军称夜间击落超千架乌军无人机 中国日报网 莫斯科市长称该市遭“最大规模袭击”，泽连斯基发声 新浪新闻_手机新浪网 莫斯科遭大规模无人机袭击至少2死 袭击破坏选举 中华网",
+      "section": "news",
+      "rankScore": 0.418037
+    },
+    {
+      "id": "c751b72a45185649",
+      "title": "Cover Story newsletter: Can the AI arms race be stopped?",
+      "url": "https://www.economist.com/the-world-this-week/2026/09/20/cover-story-newsletter-can-the-ai-arms-race-be-stopped",
+      "source": "economist-week",
+      "publishedAt": "2026-09-20T14:46:01.000Z",
+      "excerpt": "An exclusive look at how we designed our cover",
+      "section": "news",
+      "rankScore": 0.376845
+    },
+    {
+      "id": "8d8b84054394b4b3",
+      "title": "“沉重打击” 德国基民盟首次无缘州一级议会",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-21/10700521.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-21T00:10:12.000Z",
+      "excerpt": "中新网9月21日电 综合外媒报道，当地时间21日凌晨，德国梅克伦堡-前波美拉尼亚州公布的州议会选举初步计票结果显示，总理默茨所在的基民盟仅获得4.9%选票，未能跨过5%的得票率门槛，在二战后历史上首次无缘州一级议会。",
+      "section": "cn-news",
+      "rankScore": 0.83408
+    },
+    {
+      "id": "23daa00922cbfbf2",
+      "title": "初步计票结果显示左翼党成为德国柏林州议会第一大党",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96dkNGWXR3OWlGV1BPRXlXX3NJMTQ4clJFalZLcFJNX0FKd0c0RXd3OUkyMnliRlR1akFaRmdmT1VEQ2loZFEySlhqRkZkZkotVHpGRkRn?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-21T00:27:01.000Z",
+      "excerpt": "初步计票结果显示左翼党成为德国柏林州议会第一大党 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.629764
+    },
+    {
+      "id": "07d6a738c82b5830",
+      "title": "新能源加速发展，油气还重要吗？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-21/10700520.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-21T00:01:10.000Z",
+      "excerpt": "国家发展改革委、国家能源局近期印发《石油天然气发展“十五五”规划》(以下简称《规划》)，锚定保障能源安全和绿色低碳发展两大任务，明确提出到2030年逐步建设形成“自主保障能力持续增强、管网输配高效衔接、储备调节充足灵活、生产方式绿色低碳、运行安全平稳高效、加工利用高端高质、科技水平自主突破、国际合作灵活多元”的现代油气产业体系。",
+      "section": "cn-news",
+      "rankScore": 0.623302
+    },
+    {
+      "id": "5215b7affbc8d8c5",
+      "title": "合肥市台胞台青金融服务驿站揭牌",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700486.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-20T15:19:05.000Z",
+      "excerpt": "中新社合肥9月20日电 (记者 张俊)皖台优势产业合作推进会20日在安徽省合肥市举行，本次推进会共促成合作项目36个，投资总额134.4亿元人民币。合肥市台胞台青金融服务驿站(以下简称“驿站”)在会上揭牌。",
+      "section": "cn-news",
+      "rankScore": 0.602288
+    },
+    {
+      "id": "9475530e90cc7a03",
+      "title": "低级别上皮内瘤变严重吗？",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xcVdEaWhqRXlDSjZKc3gzdE5EY29oQm54bGhYaHljeHRxMWMwSXFQWjUxbU5qWEsyYjJZTHkzbzBfMnVTd1FldUxubnF4Y01ULTR3OWZNQXFIaF9YLVE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-20T22:31:00.000Z",
+      "excerpt": "低级别上皮内瘤变严重吗？",
+      "section": "cn-news",
+      "rankScore": 0.60076
+    },
+    {
+      "id": "0103194d6e74325e",
+      "title": "技能改变世界 技能照亮前程——第四十八届世界技能大赛前瞻",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mdE82ME5zejltenhPYjBkVFhQQUNBSUFfZ0xJc2lVX1h1X092bnAzSTQxcER5eWZuUTRBM19oaUFpNEdqQkNyMWxVTTZqb2Nua1kzM01OclZ4SG80VmNhTEt5Y1U1VzBxRGRkOXpiaXJ4YV8tVWFtRU5QLUx1Wlk?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-20T23:34:30.000Z",
+      "excerpt": "技能改变世界 技能照亮前程——第四十八届世界技能大赛前瞻 新华网 技能照亮前程，共赴“上海之约”第48届世界技能大赛开幕式亮点抢先看 新浪财经 第四十八届世界技能大赛有何新赛项、新看点？专家解读 thepaper.cn 匠心逐梦——车轨上的“独秀玫瑰” 新华网 聚焦世赛新项｜智慧安防技术项目：软硬兼修，打造全天候安全防线 观察者网",
+      "section": "cn-news",
+      "rankScore": 0.54812
+    },
+    {
+      "id": "1306da64bd5d0f26",
+      "title": "京新药业更新递交H股发行上市申请；多地海关查获三无减肥药",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VM056eWxhTzVnSFRWaEVHMzRscjVxcFh5MWJENHEtaktpeEhSWkhoVHpxcHlmWmJlaVNwZV84cC1PYzh6bFlJTUVkRmZQWllFMGJMaDBESEZsOU1GOFhPYW5Cb3NHdw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-21T00:10:26.000Z",
+      "excerpt": "京新药业更新递交H股发行上市申请；多地海关查获三无减肥药 东方财富 京新药业A股上市超20年后二度冲刺港交所 曾因研发费用列支不当等问题遭税务部门处罚 新浪财经 京新药业递表港交所；拨康视云称将全力配合香港证监会的调查 同花顺 一款失眠药撑起创新转型，京新药业“A+H”再闯关 凤凰网财经 新股消息| 京新药业(002020.SZ)再次递表港交所已成功推出1类创新药物地达西尼提供者智通财经 英为财情 Investing.com",
+      "section": "cn-news",
+      "rankScore": 0.486592
+    },
+    {
+      "id": "bddb2c9933a20b99",
+      "title": "Pacific island states are trapped in Cold War 2.0",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3367734/pacific-island-states-are-trapped-cold-war-20?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-20T21:30:06.000Z",
+      "author": "Alex Lo",
+      "excerpt": "In early July, China fired a test missile from a nuclear submarine into the South Pacific for the first time, a weapon capable of carrying nuclear warheads. Washington and Canberra were livid. The Pacific has long been the exclusive testing ground for such long-range missiles from the United States.",
+      "section": "cn-news",
+      "rankScore": 0.455416
+    },
+    {
+      "id": "df60d4cbabeb9bb2",
+      "title": "中國網友上網時間6年增一倍 老年人愛看短影音",
+      "url": "https://www.cna.com.tw/news/acn/202609200212.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-20T14:07:35.000Z",
+      "excerpt": "（中央社台北20日電）中國居民日均上網時間在2024年達到5小時37分，6年間翻倍。還有一項調查顯示，受訪的老年人中，近9成幾乎每天看短影音。",
+      "section": "cn-news",
+      "rankScore": 0.422139
+    },
+    {
+      "id": "ff8bad2def80edc5",
+      "title": "中国队获亚运会女子10米气步枪团体金牌 打破世界纪录",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sU2V4clh6dXdqVWs3bFRIcklUaC0xdTIwQ1hTLWt5X2NzUThERVNJSi1HQTVtQlBKSkdOeE1RX25ySDNWWlI3bGRtNjk2dUlZR2dSWHpUM19lTVI4NjliRGhOZWZ2aG9BcE4xNEo1RHdMNGt1SFJ0WA?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-20T23:52:00.000Z",
+      "excerpt": "中国队获亚运会女子10米气步枪团体金牌 打破世界纪录 中青在线 亚运会｜射击——女子10米气步枪个人赛决赛赛况 新华网 王子菲韩佳予联手摘得浙江首金 浙江新闻 中国队获爱知·名古屋女子10米气步枪团体金牌 打破世界纪录 新浪财经 亚运会丨射击小将杜雨宸：金牌，有激动也有遗憾 新华网",
+      "section": "cn-news",
+      "rankScore": 0.414007
+    },
+    {
+      "id": "0d4370f1e69896be",
+      "title": "遮光贴、智能戒指、AI眼镜步步升级 AI时代如何防考试作弊",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-21/10700522.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-21T00:17:47.000Z",
+      "excerpt": "“英语考试能用吗？”",
+      "section": "cn-life",
+      "rankScore": 0.836608
+    },
+    {
+      "id": "8ae5a61bda98216a",
+      "title": "你家收支、物价、就业、时间，都被这群青浦人默默记录",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM04xYzRzV3Bzb1Fqb2RsLWplWlg4Q0dScFVDQVoxdlNOVC1TaHFFZlNqWWRMVWRqbEtSUFVFUWJxa0x1bXRuT1dYU2NyTm1UTkxrX2tpaGtmR0d4N3h4S0dYelMtTERfLXBnR0lLOE5wd1F6ZE1qSWZkZWtWS0h0SGI4bno3Ym1wZmh1aHpaT29fdHM1TFRFVQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-21T00:23:26.000Z",
+      "excerpt": "你家收支、物价、就业、时间，都被这群青浦人默默记录 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.628869
+    },
+    {
+      "id": "cb0ddd8d797fbbe8",
+      "title": "最低19℃！大雨、暴雨、大暴雨马上到湖北！",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WUEVWWks2TGt3QXBuRWtZRmdhR01YZ2RsWTA0WXV2NHpORnlITmhCU1R5TTAzazNMR2pyb1BpQmpxZ0w2bmdGZFEyblJjcU5fYXRGdnAwdzZ0SkdqTHpUUkR6STdrYjAwWnAzb2lQSF9jb3dMR1RXeg?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-21T00:15:29.000Z",
+      "excerpt": "最低19℃！大雨、暴雨、大暴雨马上到湖北！ 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.626881
+    },
+    {
+      "id": "6e93cd524af18f98",
+      "title": "奉贤买的月饼能放心吃吗？抽检结果来了，建议转给家里人丨上海奉贤“小编在线”",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmNONVNvdGdILWxZOVJ3SzlLM0N3SFFSdVZGTm9GV3FSUXduT3BDWmZ0RVZGZWVaOWFiaHBIaG5qVGVrai03VW9wbjlCUTJDWnhEMk1aUDJndkY2MFBKNlJrQTU2dm9NV2VkbFQ2RUhXbklKLWM3NXpXN2Q1eW5pNy1VNnd3Q0MxME05R2dnWnhVZGdCeUZIUw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-21T00:23:27.000Z",
+      "excerpt": "奉贤买的月饼能放心吃吗？抽检结果来了，建议转给家里人丨上海奉贤“小编在线” 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.489123
+    },
+    {
+      "id": "279da37ddea2728b",
+      "title": "继发于癌症相关凝血病（CAC）的卒中：系统综述",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1haHhWc0tyUEhNS1RDOUh4dTdRbEZVU0hfSHhGamJ0MVJDSWIwQnpSQXhfZW9xNklkbHFSanV1Ty1rVVpvNFdVSENIZnR6T0xSOTdVRm15Y2xmWk1XaTNjbm1BdUR3TEF2T1Zkcw?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-21T00:01:36.000Z",
+      "excerpt": "继发于癌症相关凝血病（CAC）的卒中：系统综述 生物通",
+      "section": "cn-life",
+      "rankScore": 0.484875
+    },
+    {
+      "id": "7692dfdd1101a8df",
+      "title": "北京产权交易所交易系统",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uV0wzck9vOF9CUGpZUnlwOHIxSmpaVFYyYUlCaXBLek9hekszTGRpNHpEZXdZbm1QUWt6S0RaYm40QlJ3RDNvMGtxaWNocGJCS1EyY3hIcWpsOGxpWjhab1ZzVzMxZ040WWM0?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-20T16:06:23.000Z",
+      "excerpt": "北京产权交易所交易系统 ggzyfw.beijing.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.448539
+    },
+    {
+      "id": "e6e05de1881bf77c",
+      "title": "2026国际产学研用合作会议（东北三省一区）在长春启幕",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pYW5lWG1DTTU2V05BXzJGYjAtRk5VTV9wampzTDJkUzRkU24wQk5vRkJTVkVxRHY4b1VQS2EyU0l4VVBwMTFiYkI3bE05eTkxckRJNTR3?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-21T00:21:35.000Z",
+      "excerpt": "2026国际产学研用合作会议（东北三省一区）在长春启幕 吉林大学",
+      "section": "cn-life",
+      "rankScore": 0.418937
+    },
+    {
+      "id": "5c9b95956baa78b1",
+      "title": "上海男子常熬夜刷手機 腦萎縮如80歲老人",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFNmpzcERQNkhlY2Z2ZV80eFpWOFc2SHh2NXJiUHpybTRwYUJpNFJVUjZUYy03Q1VvQjREU2pXZS1pMkhlQi1iN1FPTU1qeXQtRFNNZFlJSmE0WmRBOEVBWNIBZkFVX3lxTE1UQ0Q0Mi0tUmo5WDdOTkJRVk4zOWdPbEJYdE82cHdpQl9vUDFkbnN1VUo1YTc2NkhSWXI0dF9GUUlUUmhhbVNIa2w3Y1RYUkJJcFJNRkplcm1TRmczeVN2d3FybGJGUQ?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-20T20:33:00.000Z",
+      "excerpt": "上海男子常熬夜刷手機 腦萎縮如80歲老人 大纪元",
+      "section": "cn-life",
+      "rankScore": 0.317367
+    }
+  ],
+  "warnings": []
+}
