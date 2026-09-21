@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-21",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-21T18:11:59.418Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "2b494d7be95b91dd",
+      "title": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-21T18:11:59.418Z",
+      "score": 607,
+      "excerpt": "A framework for building agentic apps",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "5a838bc9145bf759",
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-21T14:03:18.000Z",
+      "score": 320,
+      "author": "chmaynard",
+      "excerpt": "320 points · 173 comments · https://news.ycombinator.com/item?id=49787436",
+      "section": "tech",
+      "rankScore": 0.963154
+    },
+    {
+      "id": "f4fb88574ff7b1e7",
+      "title": "Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja",
+      "url": "https://www.infoq.com/news/2026/09/java-news-roundup-sep14-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-21T17:00:00.000Z",
+      "author": "Michael Redlich",
+      "excerpt": "This week's Java roundup for September 14th, 2026, features news highlighting: the GA release of JDK 27, LibericaJDK 27, Open J Proxy 1.0 and A2A Jakarta 1.0; point releases of Azul Payara, JHipster, JetBrains Ktor and BoxLang; and introducing Netflix ja, a modern JMS command line development…",
+      "section": "tech",
+      "rankScore": 0.715648
+    },
+    {
+      "id": "7f046e42da1f77b8",
+      "title": "rift - a tiling window manager for macos",
+      "url": "https://github.com/acsandmann/rift/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-21T18:02:53.000Z",
+      "author": "github.com by atticus",
+      "section": "tech",
+      "rankScore": 0.678272
+    },
+    {
+      "id": "fca49b1bca6fb169",
+      "title": "Grok 4.7 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-21T14:54:12.000Z",
+      "author": "Allison",
+      "excerpt": "Grok 4.7, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. Building on Grok 4.6, it is designed for agentic coding and complex, multistep workflows. This model is…",
+      "section": "tech",
+      "rankScore": 0.605814
+    },
+    {
+      "id": "b0aa50f86511dab7",
+      "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
+      "url": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
+      "source": "verge",
+      "publishedAt": "2026-09-21T17:47:54.000Z",
+      "author": "Andrew J. Hawkins",
+      "excerpt": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker made a big deal about removing from its electric vehicles in 2023.",
+      "section": "tech",
+      "rankScore": 0.48197
+    },
+    {
+      "id": "adcbab6b132c148d",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "huggingface",
+      "publishedAt": "2026-09-21T13:44:34.000Z",
+      "section": "ai",
+      "rankScore": 0.644237
+    },
+    {
+      "id": "5c5afc0adafb457b",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "openai",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "excerpt": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "section": "ai",
+      "rankScore": 0.582149
+    },
+    {
+      "id": "9fe982064e10486d",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "openai",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "excerpt": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "section": "ai",
+      "rankScore": 0.475006
+    },
+    {
+      "id": "dd9a7a2ec902a567",
+      "title": "下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-21T18:11:59.418Z",
+      "excerpt": "过去一年，我们见证了 Search Agent 能力的显著演进。在 BrowseComp 等评测上，顶尖模型准确率从最初的 30% 区间迅速攀升至 90% 以上。然而，当基准迅速饱和，其区分模型能力的价值也随之递减。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "cb2c675303286637",
+      "title": "kimi K3 是不是吹的厉害",
+      "url": "https://www.v2ex.com/t/1243773",
+      "source": "v2ex",
+      "publishedAt": "2026-09-21T14:44:20.000Z",
+      "score": 18,
+      "author": "1zh3n",
+      "excerpt": "699/月用户，之前官网还有 kimi code 多少倍额度，悄悄移除了。 说是跑分比肩 fable ，实际体感没觉得比 DeepSeek 4.1 flash 高到哪里去。",
+      "section": "cn-tech",
+      "rankScore": 0.781004
+    },
+    {
+      "id": "979f7691f93db93c",
+      "title": "Google 因地理位置数据处理被爱尔兰罚款 4.03 亿欧元",
+      "url": "https://www.solidot.org/story?sid=85447",
+      "source": "solidot",
+      "publishedAt": "2026-09-21T16:26:43.000Z",
+      "excerpt": "Google 因地理位置数据处理被爱尔兰数据保护委员会（DPC）罚款 4.03 亿欧元。DPC 对 Google 的调查持续了六年，涉及 Google 在 2018 年 5 月 25 日至 2020 年 2 月 4 日间 Web & App Activity、Location History 和 Location Accuracy 三项功能的位置数据处理。DPC 的报告认为 Google 的位置数据处理违反了 2018 年生效的数据保护法律 GDPR，可能导致用户未意识到自己的位置信息正被用于投放定向广告或推断其兴趣偏好，丧失对自己个人数据的控制权。",
+      "section": "cn-tech",
+      "rankScore": 0.714857
+    },
+    {
+      "id": "9eae68302cb0da35",
+      "title": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+      "url": "https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-21T17:07:01.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.66906
+    },
+    {
+      "id": "27ea8fbbb0dd2e96",
+      "title": "AI红娘，能牵到正缘吗？",
+      "url": "https://www.36kr.com/p/3993077151824900",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-21T13:06:50.000Z",
+      "excerpt": "不久前，北京一场线下活动散场，人流拥挤的出口，几张印刷粗糙的传单被塞到路人手中。没有华丽的宣传画册，只是普通铜版纸，上面印着二维码，大字写着“AI红娘帮你找到灵魂伴侣”。 拿到传单那一刻，两个矛盾的疑问冒了出来：AI婚恋为什么还要靠这种十几年前地推发传单的模式揽客？另一边，又不得不感慨，万物皆可AI的时代，真连找对象这种事也要交给算法了。 一边是大模型、灵魂匹配、科学择偶的科技叙事，一边是街头派发传单这种极其传统的拓客手段，新旧两种方式奇怪地交织在一起。 顺着传单上的二维码，我注册了那款小程序，流程出奇简单：输入性别、年龄、城市，回答大约二十道关于消费观、理想周末、冲突处理的选择题。",
+      "section": "cn-tech",
+      "rankScore": 0.499218
+    },
+    {
+      "id": "3882d659cadee737",
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-21T17:31:01.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17.",
+      "section": "security",
+      "rankScore": 0.680489
+    },
+    {
+      "id": "eee192dc3ddc2195",
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-21T17:19:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory.",
+      "section": "security",
+      "rankScore": 0.674767
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
