@@ -1,0 +1,224 @@
+{
+  "date": "2026-09-21",
+  "slot": "weekly",
+  "scheduleId": "weekly",
+  "generatedAt": "2026-09-21T01:10:44.039Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 168,
+  "itemCount": 20,
+  "items": [
+    {
+      "id": "9ef58b592b8bbef1",
+      "title": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-17T16:56:37.286Z",
+      "score": 1350,
+      "excerpt": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "section": "tech",
+      "rankScore": 1.174286
+    },
+    {
+      "id": "15e2fb04286b1ee4",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-18T00:10:22.756Z",
+      "score": 1171,
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "section": "tech",
+      "rankScore": 1.172308
+    },
+    {
+      "id": "2ca83088c9494643",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-18T16:21:19.221Z",
+      "score": 677,
+      "excerpt": "Production-grade engineering skills for AI coding agents.",
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "3f40240dfc428ac4",
+      "title": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-19T00:14:16.693Z",
+      "score": 478,
+      "excerpt": "Secure environments for developers and their agents",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "41185fa548f1921d",
+      "title": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-19T15:50:42.575Z",
+      "score": 477,
+      "excerpt": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "6d7f1d193328765f",
+      "title": "v2.1.275",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.275",
+      "source": "anthropic",
+      "publishedAt": "2026-09-17T22:33:17.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added the signed-in account to Claude apps gateway sign-in: when the gateway names it, you confirm it before the credential is saved, and /status shows it Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn and sends all queued messages at once; sent…",
+      "section": "ai",
+      "rankScore": 0.841286
+    },
+    {
+      "id": "94952eaa848bd212",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-17T23:59:19.000Z",
+      "excerpt": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to…",
+      "section": "ai",
+      "rankScore": 0.836312
+    },
+    {
+      "id": "714e063a74dee1ea",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-18T23:57:57.000Z",
+      "excerpt": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI,…",
+      "section": "ai",
+      "rankScore": 0.834557
+    },
+    {
+      "id": "ee59dd67cf6feeb2",
+      "title": "datasette 1.0a40",
+      "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-16T23:51:43.000Z",
+      "excerpt": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method.",
+      "section": "ai",
+      "rankScore": 0.809778
+    },
+    {
+      "id": "107b0dba10a48bb3",
+      "title": "datasette 0.65.5",
+      "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-16T23:51:08.000Z",
+      "excerpt": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette",
+      "section": "ai",
+      "rankScore": 0.809583
+    },
+    {
+      "id": "d0a2feb9c81480ce",
+      "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+      "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-21T00:11:33.514Z",
+      "excerpt": "搭载美团 LongCat 2.0 的全场景 AI Agent 平台 CatPaw 正式上线，我们将模型能力从“跑得动”推向“用得好”。CatPaw 提供开箱即用的 AI 智能工作台与企业级 Agent 开发托管能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "bd94f97e6b70b1ef",
+      "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-20T00:06:26.931Z",
+      "excerpt": "美团 LongCat 团队构建了 MineExplorer —— 首个在开放世界中做到分钟级长程任务的评测基准，系统性地评测多模态大模型在需要长程规划、并包含隐藏前置条件的任务中的真实能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-19T00:14:16.693Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "302f4c470060e6d0",
+      "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+      "url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-18T16:21:19.221Z",
+      "excerpt": "美团 LongCat-2.0 总参数 1.6T，平均激活约 48B，为真实的 Agentic Coding 任务而生，架构上创新性引入 LongCat 稀疏注意力和 N-gram Embedding，提升长上下文处理效率与 Token 级表示能力的同时，结合动态激活进一步强化了代码理解、生成以及执行的表现。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "1d47078a07bea6e9",
+      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+      "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-18T00:10:22.756Z",
+      "excerpt": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "5d6ce6f889df6940",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-18T15:24:16.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan.",
+      "section": "security",
+      "rankScore": 0.672832
+    },
+    {
+      "id": "5e9b410e244cc4f8",
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-16T15:27:49.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.",
+      "section": "security",
+      "rankScore": 0.657896
+    },
+    {
+      "id": "a5af480bf65df53a",
+      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-15T15:23:19.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.",
+      "section": "security",
+      "rankScore": 0.652566
+    },
+    {
+      "id": "0f6e4ae07dcad3de",
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "source": "krebs",
+      "publishedAt": "2026-09-16T18:14:22.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online.",
+      "section": "security",
+      "rankScore": 0.639217
+    },
+    {
+      "id": "2dd91c6f4cca9c42",
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-19T13:28:41.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report.",
+      "section": "security",
+      "rankScore": 0.632368
+    }
+  ],
+  "warnings": []
+}
