@@ -56,6 +56,75 @@
           "lastError": null
         }
       }
+    },
+    "daily": {
+      "sources": [
+        {
+          "date": "2026-09-21",
+          "slot": "morning"
+        },
+        {
+          "date": "2026-09-21",
+          "slot": "evening"
+        }
+      ],
+      "itemCount": 29,
+      "itemIds": [
+        "2b494d7be95b91dd",
+        "728dcc82f22513c0",
+        "f40a47ae26ffa681",
+        "5a838bc9145bf759",
+        "dd9a7a2ec902a567",
+        "d0a2feb9c81480ce",
+        "cb2c675303286637",
+        "fd548b5b9ddaebcd",
+        "f4fb88574ff7b1e7",
+        "979f7691f93db93c",
+        "3882d659cadee737",
+        "7f046e42da1f77b8",
+        "eee192dc3ddc2195",
+        "9eae68302cb0da35",
+        "e29a76f3aa753a36",
+        "adcbab6b132c148d",
+        "9e1a0ed30be7251c",
+        "c73d3825abefdcae",
+        "40af6e845fbc53dc",
+        "fca49b1bca6fb169",
+        "5c5afc0adafb457b",
+        "27ea8fbbb0dd2e96",
+        "b0aa50f86511dab7",
+        "4379b2a8b17fe9ea",
+        "9fe982064e10486d",
+        "1fd77d9193d90f6d",
+        "6d3df8664cd15b9b",
+        "89d3780078432a53",
+        "506f9d3e7f454657"
+      ],
+      "contentHash": "7e445a543f5fca77",
+      "targets": {
+        "notion-archive": {
+          "platform": "notion",
+          "status": "published",
+          "postId": "3e29696e-9c08-81a2-9c5d-ff6977f02b26",
+          "url": "https://app.notion.com/p/2026-09-21-3e29696e9c0881a29c5dff6977f02b26",
+          "contentHash": "7e445a543f5fca77",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-09-21T18:14:40.017Z",
+          "lastError": null
+        },
+        "juejin": {
+          "platform": "juejin",
+          "status": "draft",
+          "postId": "7687897009885364260",
+          "url": "https://juejin.cn/editor/drafts/7687897009885364260",
+          "contentHash": "7e445a543f5fca77",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-09-21T18:14:40.017Z",
+          "lastError": null
+        }
+      }
     }
   }
 }
