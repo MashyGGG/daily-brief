@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-21",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-21T17:00:08.146Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "9b78fc7d8f188c1b",
+      "title": "格里尔指能支持将贸易休战期延长3到6个月 美方有意就AI安全事件设沟通热线",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260921-%E6%A0%BC%E9%87%8C%E5%B0%94%E6%8C%87%E8%83%BD%E6%94%AF%E6%8C%81%E5%B0%86%E8%B4%B8%E6%98%93%E4%BC%91%E6%88%98%E6%9C%9F%E5%BB%B6%E9%95%BF3%E5%88%B06%E4%B8%AA%E6%9C%88-%E7%BE%8E%E6%96%B9%E6%9C%89%E6%84%8F%E5%B0%B1ai%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9%E8%AE%BE%E6%B2%9F%E9%80%9A%E7%83%AD%E7%BA%BF",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-21T16:06:28.000Z",
+      "author": "弗林",
+      "excerpt": "美国贸易代表格里尔（Jamieson Greer）周一在受访时表示，美中两国在延长贸易休战期的条款上仍存在分歧，并指美方能够支持的延长期限范围在三到六个月之间。",
+      "section": "news",
+      "rankScore": 0.672477
+    },
+    {
+      "id": "b675109449962303",
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-21T16:54:56.000Z",
+      "excerpt": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+      "section": "news",
+      "rankScore": 0.627599
+    },
+    {
+      "id": "8ca6dcea78f0232f",
+      "title": "中國與巴基斯坦新邊界安排為何引起印度不滿？",
+      "url": "https://www.bbc.com/zhongwen/articles/c83v4236470lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-21T10:22:47.000Z",
+      "excerpt": "中巴邊界協議挑戰印度的領土主張，也加深了印度對喀什米爾爭議地區的戰略憂慮。",
+      "section": "news",
+      "rankScore": 0.595475
+    },
+    {
+      "id": "a2289ad9628da282",
+      "title": "Helen Jenner unveiled as Reform UK’s new leader in Wales after arrest of Dan Thomas",
+      "url": "https://www.theguardian.com/politics/2026/sep/21/helen-jenner-reform-uk-new-leader-wales-dan-thomas-arrest",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-21T16:54:21.000Z",
+      "author": "Ben Quinn Political correspondent",
+      "excerpt": "Nigel Farage dismisses loss of previous leader as ‘bump in the road’ and says party will ‘carry on as if nothing has happened’ Nigel Farage dismissed the loss of Reform UK’s leader in Wales last week as a “bump in the road” as the party unveiled a replacement.",
+      "section": "news",
+      "rankScore": 0.557626
+    },
+    {
+      "id": "408cf131546ff853",
+      "title": "At 92, the Bard of Bollywood Is Still Writing About Love",
+      "url": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-21T16:27:45.000Z",
+      "author": "Mujib Mashal",
+      "excerpt": "The poet and lyricist Gulzar has profoundly shaped the idea of tender romance in India through his verse and songs in more than 150 musicals.",
+      "section": "news",
+      "rankScore": 0.546714
+    },
+    {
+      "id": "65481cc1de640631",
+      "title": "Antonio Guterres: Can the UN still meet today’s global crises?",
+      "url": "https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-21T15:21:52.000Z",
+      "excerpt": "Al Jazeera’s James Bays sits down with United Nations Secretary-General Antonio Guterres.",
+      "section": "news",
+      "rankScore": 0.519684
+    },
+    {
+      "id": "45edd8b66777e175",
+      "title": "联合国独立科学小组：AI失控风险加剧",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142829",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "excerpt": "由联合国大会成立的“人工智能问题独立国际科学小组”周一发布首份专题简报表示，AI失控风险加剧。",
+      "section": "news",
+      "rankScore": 0.491476
+    },
+    {
+      "id": "89d6514dcc967fba",
+      "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit",
+      "source": "npr-news",
+      "publishedAt": "2026-09-21T16:40:28.000Z",
+      "author": "David Folkenflik",
+      "excerpt": "Paramount's owners have made concessions to 12 Democratic state attorneys general to settle a lawsuit that endangered the media company's bid for its larger Hollywood rival, Warner Bros. Discovery.",
+      "section": "news",
+      "rankScore": 0.482939
+    },
+    {
+      "id": "b5d2d8e3e6a4020e",
+      "title": "Mistakes? We’ve Made a Few",
+      "url": "https://www.nytimes.com/2026/09/20/business/media/new-york-times-journalism-errors.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-21T16:33:10.000Z",
+      "author": "Adam Nagourney",
+      "excerpt": "For most of its life, The New York Times has tried to correct its errors. These efforts have not always been perfect.",
+      "section": "news",
+      "rankScore": 0.480319
+    },
+    {
+      "id": "c65e49e5420cfa2a",
+      "title": "Paramount reaches settlement to clear path for $110bn Warner Bros deal",
+      "url": "https://www.ft.com/content/0bfc882f-fe1b-40cb-a356-162e833f2008?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-21T16:14:07.000Z",
+      "excerpt": "Studio will not divest assets and will keep operations in California under terms that could be announced today",
+      "section": "news",
+      "rankScore": 0.47348
+    },
+    {
+      "id": "e389a862a78fed00",
+      "title": "胡塞武装攻占战略高地！特朗普据报临时叫停空袭，中东能源风险再升级",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LSEJhc2FQRjFlcWE2SDcyUWhBUk5ZczI4VG9DUGRkaGNKRXZCb2VDRzZlQ2JIdTJjNk9NMmJpLXU3ZndTVjR6b2JwRndaZnRZYnFj?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-21T16:09:28.000Z",
+      "excerpt": "胡塞武装攻占战略高地！特朗普据报临时叫停空袭，中东能源风险再升级 华尔街见闻",
+      "section": "news",
+      "rankScore": 0.40441
+    },
+    {
+      "id": "133307f2d5e3acc9",
+      "title": "UN panel calls for stronger safeguards as AI agents advance",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168380",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "excerpt": "The world's first scientific body on Artificial Intelligence called on Monday for AI safeguards to be adapted as current firewalls are “unravelling”.",
+      "section": "news",
+      "rankScore": 0.327651
+    },
+    {
+      "id": "78ebeaba4c273580",
+      "title": "王毅同德国外长瓦德富尔通电话",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701192.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-21T16:34:06.000Z",
+      "excerpt": "中新社北京9月21日电 9月21日，中共中央政治局委员、外交部长王毅应约同德国外长瓦德富尔通电话。",
+      "section": "cn-news",
+      "rankScore": 0.823978
+    },
+    {
+      "id": "c4e988c6bb1c60b0",
+      "title": "2026年国际和平日纪念活动在武汉开幕",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-21/10701190.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-21T15:56:21.000Z",
+      "excerpt": "中新社武汉9月21日电 (记者 梁婷)2026年国际和平日纪念活动21日在武汉开幕。来自60个国家的政党政要、和平组织、智库学者、民间友好人士和部分国家驻华使节，以及国内相关部门代表等300余人参加。",
+      "section": "cn-news",
+      "rankScore": 0.734018
+    },
+    {
+      "id": "fd1d23ae0b1d5db7",
+      "title": "重庆新游轮“世纪梦想号”长江首航",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-21/10701181.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-21T15:11:13.000Z",
+      "excerpt": "中新社重庆9月21日电 (张旭)重庆新游轮“世纪梦想号”21日晚在朝天门码头正式首航，投入重庆—宜昌长江三峡航线运营。",
+      "section": "cn-news",
+      "rankScore": 0.57973
+    },
+    {
+      "id": "9bbb3bc9833d01da",
+      "title": "再谈武汉过早被围观争议，雷军：不太敢去吃早餐了",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kNHlHektPSFBQRDRrbnlUNUdpTVJpU0VzREFDS2JMa2c5UW1rMVUxMDlLb3FIU09HcFpPWEdTT1ZvWDcyTngxM01Yci1NUEJZSVh5clRwSklkNGxCSjdXVA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-21T14:52:43.000Z",
+      "excerpt": "再谈武汉过早被围观争议，雷军：不太敢去吃早餐了 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.571191
+    },
+    {
+      "id": "af91dce014c03e63",
+      "title": "这项征文大赛连续举办十届，超22万创作者写下近200种中国职业",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzSkM2OGFRenBsVUFzd3gzdVFFY2FHOW9lQWc3R1Q4aVcwRWZ1UF9yaWdrVGpwbXYtTnhSeXlYOW43VkNoZy1PQmtXbGhwdWdHZmRsVFJlSVZYSVlBeXJkTQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-21T14:49:00.000Z",
+      "excerpt": "这项征文大赛连续举办十届，超22万创作者写下近200种中国职业",
+      "section": "cn-news",
+      "rankScore": 0.569476
+    },
+    {
+      "id": "e6ebeaeb57e4f3e2",
+      "title": "第23届东博会和峰会闭幕 AI赋能经贸合作结硕果",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORk5vbzB6bGFfcEM3RGhYOWxibzRGcllDTGctNENZc1VmUWR0R0ZVY25uc0dUeGRIbDVuQ2FHczB1QmpsZnNzSENKWGk5Rl9zcko2QWctU1prRkFILWd2cjZEVUJUYVh3Q3VEQ1cyaTJ2SjF6ZVB5RG9GMjJyRWxkMWhn?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-21T14:56:16.000Z",
+      "excerpt": "第23届东博会和峰会闭幕 AI赋能经贸合作结硕果 新华网",
+      "section": "cn-news",
+      "rankScore": 0.509182
+    },
+    {
+      "id": "50f9de343db25818",
+      "title": "First ladies step forward as Trump lays on rare honours for Xi",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3368297/first-ladies-step-forward-trump-lays-rare-honours-xi?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-21T15:26:19.000Z",
+      "author": "Nayan Seth",
+      "excerpt": "US first lady Melania Trump is set to lead key cultural diplomacy events during the coming official state visit by Chinese President Xi Jinping and his wife, Peng Liyuan, marking their first visit to the White House since 2015.",
+      "section": "cn-news",
+      "rankScore": 0.456321
+    },
+    {
+      "id": "c868ee563b6c8ef1",
+      "title": "国际钢铁周｜姜维：在全球经济一体化进程中，以合作共赢增进世界福祉",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YVTJKSEU3ZERWOXozdklXajc2SVdTSXYzbnhmR1hZSnVPWi1wd1hPdWo5RXdUcmF6djBpakZGSElCYk4tVEZpRy1BWm82UzBjZjcyWHF1UWM0dWdCUkJFVTVCWTJFWWd0QzVyLVV1N0kzQQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-21T15:13:00.000Z",
+      "excerpt": "国际钢铁周｜姜维：在全球经济一体化进程中，以合作共赢增进世界福祉 csteelnews.com 第十五届中国国际钢铁大会在上海召开 新浪财经 国际钢铁周｜现代制铁如何用Steel-X方案塑造未来竞争力？ 搜狐网 第二届中国国际钢铁周开幕 民生银行发布《助力钢铁行业高质量发展金融服务方案》 每日经济新闻 “钢铁不会过时” 中外钢铁行业呼吁开放合作共促转型 Moomoo",
+      "section": "cn-news",
+      "rankScore": 0.451541
+    },
+    {
+      "id": "57c80dd979f4e5cd",
+      "title": "洪申翰出席APEC部長會議 大合照位於第一排",
+      "url": "https://www.cna.com.tw/news/acn/202609210276.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-21T12:11:07.000Z",
+      "excerpt": "（中央社記者馮昭南京21日電）亞太經濟合作組織（APEC）人力資源發展部長會議（HRDMM）今天在南京舉行，會後發表加強人力資源發展的聲明，出席部長級官員拍攝大合照，勞動部長洪申翰位於第一排右側。",
+      "section": "cn-news",
+      "rankScore": 0.441428
+    },
+    {
+      "id": "17f0304da8e1d6d2",
+      "title": "又见一“湾”明月——2026大湾区电影音乐晚会唱响“我们一家”",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WSVRQeGtUV0p2VEhIb3hBcDFnUllVeGk4Ry1maHlSbFFWVHlzV19ycEJ0V0hOaS1ZZDJTTGdxalQxWEo0dDAySHRHaUV3WHJTb2VTZXJ0ckt1a3ZzM205eWdkT3JyZzFDaHc?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-21T14:20:00.000Z",
+      "excerpt": "又见一“湾”明月——2026大湾区电影音乐晚会唱响“我们一家” chinanews.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.370727
+    },
+    {
+      "id": "a0e1320cdd527bf9",
+      "title": "海外留学生东博会现场感慨：中国AI，惠民不炫技",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-21/10701158.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-21T14:18:01.000Z",
+      "excerpt": "人民网南宁9月21日电 (记者沈泉池)“5分钟能批改完一个班的作业，太实用了。”9月19日，在第23届中国—东盟博览会人工智能展区，来自印度尼西亚的留学生陈文礼和叶嘉美站在一台智能批阅机前，一边录视频一边感叹。他们随后把所见所闻发到了海外社交媒体账户上，推荐给自己国家的朋友和家人。",
+      "section": "cn-life",
+      "rankScore": 0.740234
+    },
+    {
+      "id": "07750a92626bed80",
+      "title": "2026年百日千万招聘专项行动暨第四届“河西人才节”系列活动天津大学专场招聘会举办",
+      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOcllaVGZmUDFBc3FBR0QxWmxIWHQ5RXExQUNuTmtidEV6dGY5aGxhNUdfREd1R21ZNVF1QmNnQ2dWWVpMb3JRdzVqb001WTlZU25JNjFNQ0N3VzlxTHkzUzdDNDkyaXU0X016eHJKN1hscldROVcwcUNhMWE4ZWRHQS12ZHJuYkFVZ1lla19BUVpEZU9ONHhEMUtTbVRlWHNleDcwZmRMb0FWbjFlNWcyLUVlZEk2NHpsaFBydGdnY3FhVEoxclpjQ3Z3LUUzUDg4dExoX2NUSlNnQTBpOHhpNkF6ZjJZaDgweDJ3QXBfZ21mNWxkZFpvZlhlYi0tU0ZyWGVSWEdLYnp2R1VHN0xHLV9UcmJ6T2xmdU9RRWJLSjBRQTQ1M3Z6dEtuVjVxZG1KT3VHdDJQZUhBRU5XMjgyck5Fem9SaVJlcWtkeVFWeFE4NjBIOWozc210ZnFnX2RGNy1GdmZfYTZGaC01R2FTamZHckxhZzd0b0FYXzFsbVAwdFN1TGh1MDRSbHkxYWJWVWM3UGo2ZGZMYllIRWZFMWVzN09qSmJGX2JPX21nNUpycDM2TDdTLVo2aWNCY1B0Y01iTmhCUjREdDNmdjQ5bmVFS21ORUdWRGRETmtwWm03Zw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-21T16:28:59.000Z",
+      "excerpt": "2026年百日千万招聘专项行动暨第四届“河西人才节”系列活动天津大学专场招聘会举办 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.615622
+    },
+    {
+      "id": "c27387fab52e15aa",
+      "title": "记忆力减退并非“老糊涂” 专家教你识别阿尔茨海默病早期信号",
+      "url": "https://www.chinanews.com.cn/life/2026/09-21/10701070.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-21T14:12:31.000Z",
+      "excerpt": "中新网济南9月21日电(周艺伟 王峰)“老年期痴呆包含阿尔茨海默病、血管性痴呆、路易体痴呆等多种类型，其中阿尔茨海默病占比最高，占所有老年期痴呆病例的60%以上。”山东中医药大学附属医院副院长、脑病中心主任徐向青9月21日接受记者采访时表示。",
+      "section": "cn-life",
+      "rankScore": 0.614041
+    },
+    {
+      "id": "0d73162803da1d1d",
+      "title": "五大国产手机接入中国地震预警网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LeEJlQ3dCSlNiWkJzSkxxY2hEZzRWTUlOV2tUM3VzLS1KdXZjYW5XVTRhbXd5WFo1YkpCa3BaMGRWS1djTUNaVi1jaTlpSTA4MEVaQkg1OXNLeWo5V1lHdw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-21T15:40:00.000Z",
+      "excerpt": "五大国产手机接入中国地震预警网 thepaper.cn",
+      "section": "cn-life",
+      "rankScore": 0.593014
+    },
+    {
+      "id": "889392207bd641bd",
+      "title": "四级人大联动 五级代表参与 “守护食品安全，人大代表在行动”专项活动在蓉启动 | 四川人大之声",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWVpoejJJLThhYXVEajFmVUxLUWlMOUhuX0JQNDJwTFoyaDIwZC1ib1czdm9YZkdfbUc0SFFpb19DOEVGRG5Dd05LSFotREVNaFVoQmRKUS1FcHJqcG9DT19fQ1VmV25Fa2NTS2IxWEd3ZjFQVkp1VFppTGRWQTVaYUVsYm5vcmd2QlBGa3JncnN3cnRyOHZiTXBuZUR2N3VmQW40UklFdHNTcS1TaC1ud1dTV0JoSnFwWWtHQzBNYk1jY0o2QUNXRGdPb1BmT29FREF2bnJOZFU?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-21T16:49:16.000Z",
+      "excerpt": "四级人大联动 五级代表参与 “守护食品安全，人大代表在行动”专项活动在蓉启动 | 四川人大之声 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.486098
+    },
+    {
+      "id": "dc04217a23bfd345",
+      "title": "省科技厅党组理论学习中心组举行2026 年度第九次集体学习",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zWkpOV0ZBaTFvUmV2OHdSUk9XcVkwaWc4TUUxb1BKQmdfSnpyN25XdVh4N3p1Q1prdkRUSE93cjBQS3IwTkJ2VXJUOU83eHNJN0g3RkljUksxV2w2ampyMUxGN3FrX3RVQ0t2MGNqcl9JUQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-21T12:16:00.000Z",
+      "excerpt": "省科技厅党组理论学习中心组举行2026 年度第九次集体学习 山东省科学技术厅",
+      "section": "cn-life",
+      "rankScore": 0.443431
+    },
+    {
+      "id": "6c731d5bc0265ff8",
+      "title": "家门口的“学习圈”,百姓心中的“幸福圈”",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS3lKLUJwZm5ObGdORXNwQXNodWdwdDExOFktNVdRZGVzWUxuMzdNYVBncXM0VnlNd19WM1EtdTUwU1lfc3ZPRDZkZGEzaXVuVGt6R0FTUnpYbmM1dFpVR2FnX2NyakpJRWx5bGpaM0pkY3NsY2xtYXU4eDZaU0JUT1ducE1PUQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-21T16:25:24.000Z",
+      "excerpt": "家门口的“学习圈”,百姓心中的“幸福圈” 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.409312
+    },
+    {
+      "id": "77fe035537534991",
+      "title": "罕有病19岁女生感冒后性情大变\"要见神明\"自体免疫脑炎遭误当精神病 - VanPeople",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RQ1p0S242RmJPX2laNUx6eEptLWRIRWlsRmZRd09ldWdIR1NNSkFkUWVkWS1vVnZYRDZ0aW53OHV0OC02N0NSVGE4UXAzT3Mx?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-21T11:42:19.000Z",
+      "excerpt": "罕有病19岁女生感冒后性情大变\"要见神明\"自体免疫脑炎遭误当精神病 VanPeople 当免疫系统“叛变”攻击大脑：自身免疫性脑炎 thepaper.cn 广东一女大学生感冒后确诊自体免疫性脑炎 微博",
+      "section": "cn-life",
+      "rankScore": 0.375911
+    }
+  ],
+  "warnings": []
+}
