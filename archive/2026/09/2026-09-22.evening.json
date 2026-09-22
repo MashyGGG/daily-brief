@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-22",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-22T16:53:56.478Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "ba75575660a0ee89",
+      "title": "google/ax",
+      "url": "https://github.com/google/ax",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-22T16:53:56.478Z",
+      "score": 2324,
+      "excerpt": "Google's open agentic orchestration runtime",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "a62cd2a644068349",
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-22T12:11:09.000Z",
+      "score": 332,
+      "author": "dimonomid",
+      "excerpt": "332 points · 460 comments · https://news.ycombinator.com/item?id=49799965",
+      "section": "tech",
+      "rankScore": 0.940223
+    },
+    {
+      "id": "a49cdb147a55f830",
+      "title": "How OpenAI Built GPT-Live",
+      "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-22T15:32:06.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "To understand how it all works end to end, we met with engineers on the GPT Voice team, Zahan Malkani and Justin Uberti (who created WebRTC).",
+      "section": "tech",
+      "rankScore": 0.727131
+    },
+    {
+      "id": "2b600a367b4dcca8",
+      "title": "EvilVM: Forth shellcode",
+      "url": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-22T14:10:07.000Z",
+      "author": "web.archive.org via vinipsmaker",
+      "section": "tech",
+      "rankScore": 0.606439
+    },
+    {
+      "id": "3b7d655dcbadef62",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "url": "https://blog.cloudflare.com/vary-support/",
+      "source": "cloudflare",
+      "publishedAt": "2026-09-22T14:04:31.000Z",
+      "excerpt": "Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable.",
+      "section": "tech",
+      "rankScore": 0.557389
+    },
+    {
+      "id": "f126d3e8b54fa0f3",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "source": "verge",
+      "publishedAt": "2026-09-22T16:34:08.000Z",
+      "author": "Emma Roth",
+      "excerpt": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup.",
+      "section": "tech",
+      "rankScore": 0.483397
+    },
+    {
+      "id": "977d55216f7de27e",
+      "title": "v2.1.280",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+      "source": "anthropic",
+      "publishedAt": "2026-09-22T16:38:14.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added Claude Opus 5.5 ( claude-opus-5-5 ), now the default Opus model — 1M context, $4/$20 per Mtok with $0.20/Mtok cache reads Added mouse support to more lists in fullscreen mode: the wheel scrolls the /skills list, and a skill's state options in /plugin can be clicked Added…",
+      "section": "ai",
+      "rankScore": 0.86565
+    },
+    {
+      "id": "857345a973a4c3dd",
+      "title": "llm-typesafe 0.1a0",
+      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-22T15:54:16.000Z",
+      "excerpt": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no…",
+      "section": "ai",
+      "rankScore": 0.8059
+    },
+    {
+      "id": "e295f4e593af1043",
+      "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+      "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+      "source": "latent-space",
+      "publishedAt": "2026-09-22T06:30:56.000Z",
+      "excerpt": "crowning a new Chinese frontier lab",
+      "section": "ai",
+      "rankScore": 0.443662
+    },
+    {
+      "id": "ce6c3679d2d9d761",
+      "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
+      "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-22T16:53:56.478Z",
+      "excerpt": "美团在 MTGR 基础上提出统一推荐基座大模型 MTFM，首次实现外卖多个主要业务的统一精排模型。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "6af2257708a65ee4",
+      "title": "普通程序员，大模型之争如同 Jdk 版本",
+      "url": "https://www.v2ex.com/t/1244013",
+      "source": "v2ex",
+      "publishedAt": "2026-09-22T08:58:15.000Z",
+      "score": 21,
+      "author": "cloudzhou",
+      "excerpt": "之前一直使用 opus ，然后 gpt 困惑于各种封号和中转，决定直接 deepseek flash 试试 非常惊讶，我甚至区分不出差异，尤其你任务拆分的够细的话，实现差距极小 让我不由得想起以前远古时代，“你们用 jdk 几？” 实际上，好的代码，核心并非在 jdk 几点几版本，同理现在差距不大的大模型，用于普通业务差距很小",
+      "section": "cn-tech",
+      "rankScore": 0.666132
+    },
+    {
+      "id": "fbe2a13a8d8430bc",
+      "title": "Meta 开源 Astryx：面向 Agent 的 React 设计系统",
+      "url": "https://www.infoq.cn/article/He6bUhlNIuPEa99GGRYC?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-22T15:12:00.000Z",
+      "author": "作者：Bruno Couriol",
+      "section": "cn-tech",
+      "rankScore": 0.651457
+    },
+    {
+      "id": "83daaa38f2fdc0c7",
+      "title": "天文学家发现已知最年轻行星",
+      "url": "https://www.solidot.org/story?sid=85454",
+      "source": "solidot",
+      "publishedAt": "2026-09-22T11:19:58.000Z",
+      "excerpt": "天文学家发现了已知最年轻的行星——Elias 2-24 b。这颗不到 100 万年的木星大小行星仍被其形成时的气体和尘埃包围。其令人惊讶的形成速度挑战了关于巨行星如何形成的主流理论。现有的行星形成理论认为，一颗大质量行星不可能形成地如此迅速，尤其是在距离恒星如此遥远的地方。当前模型表明，在太阳系中木星的位置形成一颗木星大小的行星大约需要 500 万年，那么距恒星更远的巨行星形成时间应该更长。然而 Elias 2-24 系统中这个微弱天体到恒星的距离约为地球到太阳距离的 55 倍，而且已经显示出行星形成的迹象。Elias 2-24 b的质量与木星相当，围绕一颗距离地球约 450 光年的恒星运行。",
+      "section": "cn-tech",
+      "rankScore": 0.595061
+    },
+    {
+      "id": "977cc9b2da90ec16",
+      "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
+      "url": "https://sspai.com/post/114878",
+      "source": "sspai",
+      "publishedAt": "2026-09-22T14:00:00.000Z",
+      "author": "waychane",
+      "excerpt": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...",
+      "section": "cn-tech",
+      "rankScore": 0.493737
+    },
+    {
+      "id": "32175a0a36c6541f",
+      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
+      "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-22T12:30:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has? A person may try several ways to complete a task.",
+      "section": "security",
+      "rankScore": 0.574314
+    },
+    {
+      "id": "252234e2597b66fd",
+      "title": "lwIP (Lightweight IP)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-02",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of this vulnerability could result in a system crash, a DoS, or memory corruption, which could lead to code execution on the victim system.",
+      "section": "security",
+      "rankScore": 0.560028
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
