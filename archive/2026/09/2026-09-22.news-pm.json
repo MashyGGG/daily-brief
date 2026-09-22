@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-22",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-22T15:29:59.833Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "1d5afc60b1516ab1",
+      "title": "欧盟网络安全局：中国关联网络入侵持续关注交通运输领域，包括海事实体",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260922-%E6%AC%A7%E7%9B%9F%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B1%80-%E4%B8%AD%E5%9B%BD%E5%85%B3%E8%81%94%E7%BD%91%E7%BB%9C%E5%85%A5%E4%BE%B5%E6%8C%81%E7%BB%AD%E5%85%B3%E6%B3%A8%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E9%A2%86%E5%9F%9F%EF%BC%8C%E5%8C%85%E6%8B%AC%E6%B5%B7%E4%BA%8B%E5%AE%9E%E4%BD%93",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-22T15:10:28.000Z",
+      "author": "弗林",
+      "excerpt": "欧盟网络安全局（ENISA）周二表示，一个知名中国黑客组织在2025年全年以“持续的频率”对多个欧盟成员国的海事实体发动了网络攻击。",
+      "section": "news",
+      "rankScore": 0.689984
+    },
+    {
+      "id": "5c0c8ebf7d350fdb",
+      "title": "「雙休購」爆紅與下架：一個網購平台如何撬動勞工權益討論",
+      "url": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-22T10:03:59.000Z",
+      "excerpt": "提倡雙休的民間自發平台「雙休購」曇花一現後快速被下架，中國打工人開始在社交媒體上要求雙休正當權利。學者指這樣的消費抵制是正向的發展。",
+      "section": "news",
+      "rankScore": 0.639376
+    },
+    {
+      "id": "9f3d106ddac0a6ee",
+      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-22T15:17:37.000Z",
+      "excerpt": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
+      "section": "news",
+      "rankScore": 0.624286
+    },
+    {
+      "id": "b3946b711e810588",
+      "title": "Trump to UN: do I ‘annihilate’ Iran or ‘make a deal?’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-to-un-do-i-annihilate-iran-or-make-a?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-22T15:19:19.000Z",
+      "excerpt": "US President Donald Trump told the UN General Assembly that he has a ‘big decision to make’ on Iran.",
+      "section": "news",
+      "rankScore": 0.555618
+    },
+    {
+      "id": "373e8839651d700a",
+      "title": "Middle East crisis live: Trump says Iran will make a deal after US midterms",
+      "url": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-22T15:19:01.000Z",
+      "author": "Tom Ambrose (now) and Yohannes Lowe (earlier)",
+      "excerpt": "US president uses speech to UN General Assembly to push his narrative of the war Tehran appears to have relaxed its preconditions for reopening the strait of Hormuz, saying it is prepared to do so within seven days so long as the US takes reciprocal steps to ease the pressure on Iran.",
+      "section": "news",
+      "rankScore": 0.555495
+    },
+    {
+      "id": "670bc37e228a89c8",
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/heres-the-latest",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-22T15:15:19.000Z",
+      "author": "Farnaz Fassihi, Zolan Kanno-Youngs and David E. Sanger",
+      "section": "news",
+      "rankScore": 0.553977
+    },
+    {
+      "id": "014a56eeb7962443",
+      "title": "古特雷斯：世界正面临和平、不平等、气候和人工智能四大权力考验",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142834",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "excerpt": "联合国秘书长古特雷斯周二在联合国大会一般性辩论开幕之际发表讲话，指出当今世界的裂痕正在加深，战争、地缘政治分歧、不平等、气候危机和人工智能快速发展等多重危机相互交织，而全球治理体系仍在很大程度上反映一个已经改变的时代。",
+      "section": "news",
+      "rankScore": 0.533078
+    },
+    {
+      "id": "630eb5456924ef38",
+      "title": "Talk of the Town",
+      "url": "https://www.nytimes.com/2026/09/22/briefing/ai-discussions.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-22T15:24:58.000Z",
+      "author": "Sam Sifton",
+      "excerpt": "The conversation about A.I. is at a fever pitch.",
+      "section": "news",
+      "rankScore": 0.488194
+    },
+    {
+      "id": "89fb5965688dc304",
+      "title": "Saudi Arabia signals East-West pipeline reopening",
+      "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-22T15:18:53.000Z",
+      "excerpt": "Key route for Saudi crude to reach Red Sea has been closed for two weeks following drone strikes",
+      "section": "news",
+      "rankScore": 0.48601
+    },
+    {
+      "id": "85cd0f5af88155de",
+      "title": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
+      "url": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
+      "source": "npr-news",
+      "publishedAt": "2026-09-22T13:30:01.000Z",
+      "author": "The Associated Press",
+      "excerpt": "The Islamic State group-inspired attacks were among the deadliest in Sri Lanka's history, killing 42 foreigners.",
+      "section": "news",
+      "rankScore": 0.44693
+    },
+    {
+      "id": "5d64f8265f96d5cf",
+      "title": "“习特会”在即，中美贸易“暗战”小动作不断",
+      "url": "https://cn.nytimes.com/business/20260922/trump-xi-china-trade/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-22T04:30:11.000Z",
+      "author": "ANA SWANSON",
+      "excerpt": "分析认为习近平此行重点是确保双边关系稳定。但两国继续采取针对彼此的行动，有时险些彻底破坏脆弱的休战协议。两国都指责对方违反去年在韩国做出的承诺。 Haiyun Jiang/The New York Times 特朗普总统与中国领导人习近平去年在韩国釜山会面。",
+      "section": "news",
+      "rankScore": 0.397797
+    },
+    {
+      "id": "ed76f0789fcbf5dd",
+      "title": "船运数据：霍尔木兹海峡通行商船降至2艘 较前一日明显下降",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DaFc4Q2xTQ09uM0huekVXUS1yaVh6WlNzLXlTaEk5N1VIMWJabmVIVDNpZy03SU9pbXl0MGhPRnpmeWhrMjgyZWNHb1YwamNzM04tMmtrb0ROWFhJeTNsRC1vRmtzXzZ1?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-22T13:30:55.000Z",
+      "excerpt": "船运数据：霍尔木兹海峡通行商船降至2艘 较前一日明显下降 chinanews.com.cn 美军称霍尔木兹海峡油气运输量创六个月新高后，一艘油轮遇袭 美国之音 船运数据：霍尔木兹海峡通行商船降至2艘 news.youth.cn 霍尔木兹海峡，通航量大幅下降 新浪财经 霍尔木兹封锁七个月：石油还在流，但越来越贵越来越脆弱 华尔街见闻",
+      "section": "news",
+      "rankScore": 0.38336
+    },
+    {
+      "id": "b922efb8376e4f5d",
+      "title": "台媒曝光“战时盾牌”机密选址：台北故宫等多处民用设施在列",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701875.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-22T15:19:16.000Z",
+      "excerpt": "中新网9月22日电（燕新台）近日有台湾民众在岛内论坛爆料，一份疑似“台湾联合应变中心”的内部机密选址简报显示，其备选选址清单中包含台北故宫、台北车站、儿童未来馆以及五星级酒店等场所，此事在台湾社会引发巨大恐慌与舆论声讨。",
+      "section": "cn-news",
+      "rankScore": 0.833397
+    },
+    {
+      "id": "e1a12401101f83b2",
+      "title": "王小洪在全国公安机关视频会议上强调 深入学习贯彻习近平总书记重要回信精神 坚决扛牢守百姓幸福护家国平安重任",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701860.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-22T14:50:52.000Z",
+      "excerpt": "新华社北京9月22日电 全国公安机关视频会议22日召开，中共中央书记处书记、公安部部长王小洪出席并讲话。",
+      "section": "cn-news",
+      "rankScore": 0.747926
+    },
+    {
+      "id": "fa09127c9843fd65",
+      "title": "中德汽车业界海口话“共赢”：国际合作至关重要",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701865.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-22T14:38:30.000Z",
+      "excerpt": "【欧洲专线】中德汽车业界海口话“共赢”：国际合作至关重要",
+      "section": "cn-news",
+      "rankScore": 0.606232
+    },
+    {
+      "id": "7523effb8ffd10c7",
+      "title": "世赛木工类中国首金， “现代鲁班”有多卷？0.2毫米里拿下世界冠军",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a2RGTEdka2dzTGRyMDByZERvNGVYTnNBT04waHBCNnFoSUxzblhraERraFBfVnViVFE4d1NicG5PUEE0WUJxYzJrWC1kYTNuLWJDZ1Ffa0lCZjliLWRkaw?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-22T14:23:32.000Z",
+      "excerpt": "世赛木工类中国首金， “现代鲁班”有多卷？0.2毫米里拿下世界冠军 jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.599324
+    },
+    {
+      "id": "92188e06046c9dae",
+      "title": "西安旅游签署重整投资协议，已持续5年亏损累计逾9亿元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1feHM5ei05S2M2VTdHS25YcUhqN2hpdy1yNUJOTFQzeVRBZDNxRFZDQ0VFdS0xUVU0RXB2NzBIckxXOFI4dnJ0Qk4xVnk2RXVydGI4V2U4R1Q2dHA0QmdjcQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-22T13:56:00.000Z",
+      "excerpt": "西安旅游签署重整投资协议，已持续5年亏损累计逾9亿元",
+      "section": "cn-news",
+      "rankScore": 0.586617
+    },
+    {
+      "id": "1c4fbce49d0cd6fd",
+      "title": "守红线、保发展、惠民生——国新办发布会聚焦“十五五”时期自然资源保护利用",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVdmbERPQVRaakMyZ1RaT191LTRpbmhsVzY1VVE5ZDlRRFhYMmMydUhWNjdZcTExcktSVklzcjJhZXNzMzdEbFRRNDFYMV9mR2lTdEt6ejZVb1ZzYU43d05ITVJleWl0RXVkVWQ2bnlmTF9hYzM1LTVMMmxscFBDdVprRQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-22T13:42:07.000Z",
+      "excerpt": "守红线、保发展、惠民生——国新办发布会聚焦“十五五”时期自然资源保护利用 新华网 我国首部耕地保护专门立法明年施行 将在三方面下功夫 新浪财经 自然资源部：坚决遏制曾经出现过的“大棚房”、乱占耕地建房等问题反弹 搜狐网 好评中国丨以“专门法”护耕地，让粮食安全有根基 凤凰网 中国发布丨《耕地保护和质量提升法》明年施行 自然资源部：严肃查处侵占、破坏耕地行为 中国网新闻中心",
+      "section": "cn-news",
+      "rankScore": 0.515741
+    },
+    {
+      "id": "29dbd623931de3ce",
+      "title": "李強上海調研 強調加快培育未來產業",
+      "url": "https://www.cna.com.tw/news/acn/202609220335.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-22T13:20:30.000Z",
+      "excerpt": "（中央社台北22日電）中國正致力於發展先進製造業。中國國務院總理李強今天在上海調研時強調，要大力發展新一代智慧製造，加快培育壯大新興產業和未來產業，持續做大做強先進製造業。",
+      "section": "cn-news",
+      "rankScore": 0.506873
+    },
+    {
+      "id": "52ace9c55e5fa0e7",
+      "title": "Trump defends Iran war, touts ‘America is back’ agenda in UN speech",
+      "url": "https://www.scmp.com/news/us/article/3368434/trump-defends-iran-war-touts-america-back-agenda-un-speech?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-22T15:06:37.000Z",
+      "author": "Mark Magnier",
+      "excerpt": "US President Donald Trump addressed the global community on Tuesday morning with a speech before the UN General Assembly that sought to justify his war with Iran, touted how he has “made peace” and argued that his “make America great again” policies benefited the world.",
+      "section": "cn-news",
+      "rankScore": 0.481607
+    },
+    {
+      "id": "252f0fcd586d35ec",
+      "title": "百度集团-W(09888.HK)连续12日回购，累计斥资6.00亿港元",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41eVBFT3ZoUENzdnZTdFNxR2ZXVzBrekRxcFNYc3o4dml4U0V0OXoyZjNrUEVCSDVlVzVvbWlpX0wycUVwS3ItcjBad3VTWkdTZGxEQVJ5MG55dWllRkF1VU9BWWRBQQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-22T14:42:10.000Z",
+      "excerpt": "百度集团-W(09888.HK)连续12日回购，累计斥资6.00亿港元 东方财富 百度集团9月21日回购56万股A类普通股 耗资约4974万港元 搜狐网 百度集团－W,百度集团－WR翌日披露报表 - [股份购回]翌日披露报表 富途牛牛 百度集团－Ｗ：9月22日斥资4999.58万港元回购55.25万股 东方财富 百度集团-W(09888.HK)连续11日回购，累计斥资5.50亿港元 Moomoo",
+      "section": "cn-news",
+      "rankScore": 0.47283
+    },
+    {
+      "id": "df56fd6d26e9a1a9",
+      "title": "广东健儿李剑鸣夺得本届亚运会武术男子南拳南棍全能比赛冠军",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kWVliZkUyNmk0Ymt6SmRITVVuLVB5SmY1el9GMFJIOE9UamF2LXZXT0VxZjJ6LVBfd0lBajV0bHBlcWZlZ093aWZKaDYwUU10bWxyRDlrUF9ZbVFEd1Eta09ycFRWdUda?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-22T14:18:27.000Z",
+      "excerpt": "广东健儿李剑鸣夺得本届亚运会武术男子南拳南棍全能比赛冠军 chinanews.com.cn 亚运会｜武术——张雅玲获女子南拳南刀全能冠军 新华网 亚运会丨武术——李剑鸣获得男子南拳南棍全能金牌 新华网 广东“南拳王”助中国队时隔12年重夺亚运男子南拳全能金牌 搜狐网 【亚运会】武术女子南拳南刀决赛 陈昌敏收获铜牌 e南洋",
+      "section": "cn-news",
+      "rankScore": 0.397985
+    },
+    {
+      "id": "eb69aea35b7159a4",
+      "title": "人工智能等领域8位专家做客格致论道 以《行者，新世界》为主题开讲",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-22/10701813.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-22T14:22:37.000Z",
+      "excerpt": "中新网北京9月22日电 (记者 孙自法)以“行者，新世界”为主题的格致论道第133期近日举行，来自人工智能、基础科学、国际象棋、海洋生态、植物与稀土、喜剧创作、合成生物学等不同领域的8位专家学者分别登台开讲。",
+      "section": "cn-life",
+      "rankScore": 0.798535
+    },
+    {
+      "id": "43da5b70660a6853",
+      "title": "“核柴一号”6MW级机组在沪重磅发布 中船动力集团自主研发综合性能达国际先进水准",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rMUo1Y2FIc0t2RDJIcC1TbVEzQzJFNVhXakdLM3RjOGZtSjVtYkZtNTlVcTlodVB0bG5ETFNpWTczY0FnOGNoNjdGQ1Fzc2dCNXJ0NnNtVFQxWl9nTU5WTERzNHR0bEQ5aC1pcnUydUo?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-22T15:08:30.000Z",
+      "excerpt": "“核柴一号”6MW级机组在沪重磅发布 中船动力集团自主研发综合性能达国际先进水准 中国科技网",
+      "section": "cn-life",
+      "rankScore": 0.620078
+    },
+    {
+      "id": "9aba9e42b9cb5a7a",
+      "title": "志合越山海 协作促就业｜区人社局与四川省古蔺县人社局签订劳务合作协议",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcGZFUWVRVzlyZU82Mkp1eTFmT0dTUldJQ2NSclU3SlNVd2FqZlBhTDlmemo3UTF0X2t6U05wNDNXaVU3ZXFFR2tGay03VU1JakNhWVI4Ym5UNEwyZmh1VHlZN00tSmNObzQ4M09aUUZqd1NtS1JORzNuVmV3WXdKNlQ3T2pBaXZMQU81dTZhWVo5aXRYZXlJaA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-22T14:35:28.000Z",
+      "excerpt": "志合越山海 协作促就业｜区人社局与四川省古蔺县人社局签订劳务合作协议 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.604832
+    },
+    {
+      "id": "9a4df07cf30284de",
+      "title": "市政府2026年第13次常务会议召开",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4UllONVdYc2tZUDVINTgxOGdTZWZMZ2doVy0wWnZQM1VsZHNfNkI2YlQtYV9yOHBXTzFzS09mNHVVXzF4eDhlUTZSdU01ZFlCelJoZURYU1B5Vms?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-22T12:18:41.000Z",
+      "excerpt": "市政府2026年第13次常务会议召开 xingyang.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.481512
+    },
+    {
+      "id": "71caefe790179b24",
+      "title": "（图表·漫画）守护食品安全",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEJNNTE2aFRrZ3A4cUhvSE9QZklSclc3ZjRmcHJXNFBwNUVLUzNOWWJPTm9VRmdSN3BEbTl3ZGt5NW9RdDBOVEQ5SmVzQ3lBdEMyYTJPdXBGWEVLa19MQWl4eXlIWlI3QmNPQzVKdnhOV2RucFFWOUtzcnQ1UWtWWGV1R3dOUFVn?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-22T13:41:34.000Z",
+      "excerpt": "（图表·漫画）守护食品安全 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.451076
+    },
+    {
+      "id": "e1c6aafd63a184d0",
+      "title": "全民国防教育月，这些国防知识要知道！",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yaXVHRFg1RVFVS1BMeERfTlN4ODBkbi1tbTQ2eWw5NC0zV2Vya2lGT1I3X2p3MmZJRUprZTIwUTJuUXJfdVQtMDViclV5V2lfeW1xWXhNYlBPUE42?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-22T15:24:38.000Z",
+      "excerpt": "全民国防教育月，这些国防知识要知道！ 首都文明网",
+      "section": "cn-life",
+      "rankScore": 0.41835
+    },
+    {
+      "id": "221ef91afafdcbd0",
+      "title": "新型验血技术有望提前发现胰腺癌：早期检出率达87% 可识别癌前病变",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GTmdJRkhWWEN1OVFJRGc4UllZZnlqb0tiQ2U0elVVRUQ4TERMZ3VZbkY5ckMtQ2NJcnNURHdIcnAzYVVwRi1TNmU0MFlld0Fwb2ZwSnhDU3pLb0hUcjhLdUxIZkw?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-22T11:40:00.000Z",
+      "excerpt": "新型验血技术有望提前发现胰腺癌：早期检出率达87% 可识别癌前病变- 科技与健康 cnBeta.COM Nat Med：PANXEON为胰腺癌早筛带来新希望- 进展专区 生物谷 研究结果表明,如果被诊断为糖尿病时,初期状态严重或血糖数值迅速恶化到需要在短期内大幅增加药物的程度,那么有必要怀疑患胰腺癌的可能性。22日,据Severance医院透露,消化内科教授郑文在(音)、内分.. 매일경제 2 型糖友必看：确诊后头几年控糖好坏，直接决定你未来的癌症风险-MedSci.cn 梅斯医学 MedSci 胰腺癌早期筛查新信号：新发糖尿病血糖急速恶化警惕癌王隐匿来袭 medfind.link",
+      "section": "cn-life",
+      "rankScore": 0.407437
+    },
+    {
+      "id": "8f6963dd57dbe446",
+      "title": "英媒：西方企业在钠离子电池领域已落后于中国",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KVlhFUFNhUUNSSm52N3ZqdV9kdi1BOUMtV0h4T0Vvak1LRUV6Ujl5RDMxRm83V2ltUXBRc003aFlOZ2hWd01TOHpNRzFLZl83Y0JHT1EwN3BINW8yOXFrVm9R?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-22T07:27:00.000Z",
+      "excerpt": "英媒：西方企业在钠离子电池领域已落后于中国 观察者网",
+      "section": "cn-life",
+      "rankScore": 0.226155
+    }
+  ],
+  "warnings": []
+}
