@@ -60,7 +60,13 @@
     "5c5afc0adafb457b",
     "9fe982064e10486d",
     "463abc7ed6dc63b8",
-    "fbb660484de5ca08"
+    "fbb660484de5ca08",
+    "a18aef876e3d5790",
+    "4f86ce331aabba1d",
+    "d1db02f0b4cbb6e2",
+    "94d5d3377829c4ff",
+    "ce6f00c24b6229b6",
+    "2ad60d888e3b60e2"
   ],
   "huggingface": [
     "9e1e6a898bac9ad8",
@@ -96,7 +102,8 @@
     "adcbab6b132c148d",
     "49d0c7f94c7739e1",
     "cff2353854049dc6",
-    "ac5c256099e2d9a9"
+    "ac5c256099e2d9a9",
+    "b3e14a73e7b810be"
   ],
   "anthropic": [
     "d112cba902a55689",
@@ -198,7 +205,8 @@
     "51d6eaae5afff9dd",
     "30e91e759a28a5fa",
     "af7cdba2a7e1cae3",
-    "84ec0fd4ef90208d"
+    "84ec0fd4ef90208d",
+    "a3bcec14b51b7924"
   ],
   "javascript-weekly": [
     "67b3f4c8956c1ec3",
