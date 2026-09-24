@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-24",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-24T00:51:03.896Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "82e7463ffb45fdb2",
+      "title": "巴士上大聲播放音樂？在新加坡可能要被罰數百美元",
+      "url": "https://www.bbc.com/zhongwen/articles/cw9802p97qgvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-24T00:05:28.000Z",
+      "excerpt": "當局正加強打擊各類「擾亂秩序行為」，包括在車上飲食及把雙腳放在座位上。",
+      "section": "news",
+      "rankScore": 0.824801
+    },
+    {
+      "id": "16b1879a05989d0c",
+      "title": "美中同意将贸易休战期延长至1月10日",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260923-%E7%BE%8E%E4%B8%AD%E5%90%8C%E6%84%8F%E5%B0%86%E8%B4%B8%E6%98%93%E4%BC%91%E6%88%98%E6%9C%9F%E5%BB%B6%E9%95%BF%E8%87%B31%E6%9C%8810%E6%97%A5",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-23T23:07:41.000Z",
+      "author": "安德烈",
+      "excerpt": "几乎与美国总统特朗普亲自到机场迎接中国国家主席习近平同时，美国财政部长周三宣布，中美两国已决定将贸易停火期延长两个月，至1月10日。",
+      "section": "news",
+      "rankScore": 0.671283
+    },
+    {
+      "id": "f7de802db7b272e9",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-24T00:28:46.000Z",
+      "excerpt": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "section": "news",
+      "rankScore": 0.624425
+    },
+    {
+      "id": "17dc318550b471c4",
+      "title": "News live: Marles says ‘legal situation’ of OpenAI breach under investigation; Victoria to allow dogs in pubs under election promise",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-24T00:37:06.000Z",
+      "author": "Nick Visser",
+      "excerpt": "Follow the day’s news live More than 600 Qantas ground crew workers have begun a 24-hour strike this morning across the country over an escalating industrial dispute.",
+      "section": "news",
+      "rankScore": 0.556897
+    },
+    {
+      "id": "c472ffd6cb655d40",
+      "title": "Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens",
+      "url": "https://www.nytimes.com/2026/09/23/us/politics/trump-aides-iran-talks.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-24T00:18:04.000Z",
+      "author": "Edward Wong",
+      "excerpt": "Secretary of State Marco Rubio said that U.S. negotiators had restarted conversations about Iran’s nuclear program, but that there were no breakthroughs.",
+      "section": "news",
+      "rankScore": 0.552667
+    },
+    {
+      "id": "3e4aab389404f6f2",
+      "title": "AI corporate leaders tell UN the industry needs global regulation",
+      "url": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-24T00:13:53.000Z",
+      "excerpt": "Industry leaders urge global regulation, as Trump administration baulks at setting up new guardrails.",
+      "section": "news",
+      "rankScore": 0.551737
+    },
+    {
+      "id": "d77f79c321f5c1b1",
+      "title": "Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs",
+      "url": "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-24T00:46:53.000Z",
+      "author": "Kellen Browning",
+      "excerpt": "Democrats hope that Mary Peltola can flip a Republican Senate seat in Alaska. Former aides describe a campaign and congressional office marked by chaos.",
+      "section": "news",
+      "rankScore": 0.489187
+    },
+    {
+      "id": "a999abd290f415b1",
+      "title": "Diller abandons $18bn takeover bid for MGM Resorts",
+      "url": "https://www.ft.com/content/1f55518f-dad5-4c7b-8c81-ba82196dd747?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-23T23:47:13.000Z",
+      "excerpt": "Media mogul says ‘we didn’t feel the mix was coming together in the way we had hoped’ after going public with offer in June",
+      "section": "news",
+      "rankScore": 0.477585
+    },
+    {
+      "id": "4f0e8879619c2837",
+      "title": "【高级别周特别报道】安理会高级别会议再度讨论乌克兰局势",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142853",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "excerpt": "在联大一般性辩论进入第二天之际，安理会周三上午就乌克兰局势举行一场高级别会议。安理会本月轮值主席国法国外长巴罗亲自主持会议。这场会议共有28位高级别参会者发言，包括拉脱维亚总统林克维奇斯、芬兰总统斯图布、罗马尼亚总统达恩、斯洛文尼亚总统穆萨尔、荷兰首相耶滕等。",
+      "section": "news",
+      "rankScore": 0.437234
+    },
+    {
+      "id": "16e773b6a6678759",
+      "title": "俄外长：俄美应尽快“修复双边关系”",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yWVl4NEt6U1lrTGswUjlXVTdSUlE0bzRTRWJNc296anF2VTlsVmMtcWRNS2ZRd0lEYkVpWU95ZnV5SmV6a0Q1Y3ZmTkNYRDBGOVdSSTFXM0hReDlfbVp0cVJKUHBVaDlmM3FQVlRn?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-24T00:28:00.000Z",
+      "excerpt": "俄外长：俄美应尽快“修复双边关系” 中安在线",
+      "section": "news",
+      "rankScore": 0.416156
+    },
+    {
+      "id": "df20aaa8de96b4b0",
+      "title": "A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood",
+      "url": "https://www.npr.org/2026/09/23/g-s1-144677/a-catholic-media-star-will-be-beatified-in-st-louis-moving-a-step-closer-to-sainthood",
+      "source": "npr-news",
+      "publishedAt": "2026-09-23T18:09:31.000Z",
+      "author": "Aleja Hertzler-McCain",
+      "excerpt": "Bishop Fulton Sheen, who charmed millions of television viewers on his show L ife Is Worth Living,' will come one step closer to being declared a saint.",
+      "section": "news",
+      "rankScore": 0.411921
+    },
+    {
+      "id": "941ecc36d54fec0b",
+      "title": "李在明接受时报专访，敦促美国放松对朝鲜的制裁",
+      "url": "https://cn.nytimes.com/asia-pacific/20260922/south-korea-president-interview-sanctions-trump-north-korea/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-23T02:54:29.000Z",
+      "author": "CHOE SANG-HUN",
+      "excerpt": "李在明认为，目前的制裁并无太大效果，主张放松制裁以换取冻结朝鲜武器计划。他认为特朗普是唯一有能力将金正恩拉回谈判桌的领导人，希望以外交手段说服朝鲜削减核武库。 Chang W. Lee/The New York Times 韩国总统李在明在首尔的总统官邸青瓦台与《纽约时报》交谈了约70分钟。",
+      "section": "news",
+      "rankScore": 0.367711
+    },
+    {
+      "id": "a874882bcc042026",
+      "title": "民洽会观察：财政资金“入股”，民企场景“开闸”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702716.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-23T23:55:15.000Z",
+      "excerpt": "中新网天津9月24日电 题：民洽会观察：财政资金“入股”，民企场景“开闸”",
+      "section": "cn-news",
+      "rankScore": 0.821395
+    },
+    {
+      "id": "bfd69babc44a42a0",
+      "title": "从“书斋”走进“生活” 海南推进社科成果转化和普及",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702737.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-24T00:32:06.000Z",
+      "excerpt": "中新网海口9月24日电 (记者 张茜翼)哲学社会科学如何从“书斋”走向“生活”？记者23日从海南省新闻办公室举办的“开局起步‘十五五’”系列主题新闻发布会获悉，海南将通过打造哲学社会科学名报名刊名栏、推进社科成果转化应用、完善哲学社会科学普及网络，让社科成果更好服务决策、惠及大众。",
+      "section": "cn-news",
+      "rankScore": 0.764205
+    },
+    {
+      "id": "323608785201bb02",
+      "title": "收获、烘干、储运、加工……秋收来了AI助手",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702746.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-24T00:34:46.000Z",
+      "excerpt": "各地在粮食收获、烘干、储运、加工等环节应用智能装备——",
+      "section": "cn-news",
+      "rankScore": 0.625925
+    },
+    {
+      "id": "6e85d33fd25686cd",
+      "title": "上博“新罗文物展”｜韩国庆州博物馆馆长谈唐朝对新罗文化的影响",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qMGJKeEdaUnJPY3NIWlQxTG5tVDNDT2Y0M041Uk95WWcwOVJ4TVc0eXhaNUFOV2NUQkZEZmxYUURMRFhYVkZjYVBENFFLWUpFTmVvTkk3dlJ1dTBiYW1yRA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-23T23:31:00.000Z",
+      "excerpt": "上博“新罗文物展”｜韩国庆州博物馆馆长谈唐朝对新罗文化的影响",
+      "section": "cn-news",
+      "rankScore": 0.609984
+    },
+    {
+      "id": "ebc0ff8a693834ce",
+      "title": "华西到黄淮江淮多地雨势较强 南方高温将增多",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRS29tWGhCUC1JSnpGa2I2NXhMWGFNeFl0LWpoaTNxWkozaklMMXZrLTQ3ek5lM0w2ZGxhRGlwSmpkNkFrMEhoZlh5YTkzNzUzdnVLdkwyTF94U1d3?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-23T23:56:44.000Z",
+      "excerpt": "华西到黄淮江淮多地雨势较强 南方高温将增多 天气网 中央气象台：重 要 天 气 提 示（2026年09月23日） 新浪财经 中央气象台：今早到明天，辽宁、湖南、江西、浙江、福建、四川、重庆、广西、广东等地有短时强降水，内蒙古、河北等地有雷暴大风或冰雹 thepaper.cn 北方冷空气活跃 南方多地闷热持续需注意防暑 中国青年网 秋雨范围扩大 华西至黄淮地区有较强降水 中国经济网",
+      "section": "cn-news",
+      "rankScore": 0.547926
+    },
+    {
+      "id": "ec56128eae8da607",
+      "title": "外国友人扎堆围观！在世赛现场亲手操控机器人，机器人也来秀热舞技能",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QSW9SaDM4b0MxaGJhSWFCRTc2TlI3UHhmS1d6UmdBTXV2UTlMeEhtRU5rdXFRajRVQ05YdmF6YUlyYjJ0YWVrcXFHdEV4UkpHb2tYUnVaWnIyNGczS1VOMA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-23T15:42:36.000Z",
+      "excerpt": "外国友人扎堆围观！在世赛现场亲手操控机器人，机器人也来秀热舞技能 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.492884
+    },
+    {
+      "id": "d847ed4a09262887",
+      "title": "Warm welcome, trade truce extended: the takeaways as Xi arrives in US",
+      "url": "https://www.scmp.com/news/china/article/3368576/warm-welcome-trade-truce-extended-takeaways-xi-arrives-us?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-24T00:37:01.000Z",
+      "author": "Holly Chik,Lucy Quaggin",
+      "excerpt": "Chinese President Xi Jinping was greeted on the tarmac by his American counterpart Donald Trump on Wednesday – a rare gesture ahead of their summit. It is Xi’s first state visit to the United States in over a decade and the two leaders met each other at Joint Base Andrews just after 6pm, alongside…",
+      "section": "cn-news",
+      "rankScore": 0.487268
+    },
+    {
+      "id": "dc45a8c364f03f21",
+      "title": "一文读懂美债\"黑色星期三\"：\"完美风暴\"冲击，\"10月再加息\"风起",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xTHdsb0JTN3dhbnFlbDZlSkVYZjI1RTJwTDU1OTlQMjlZelhYUFlPU19ydm5yeVFnN0xTMFM4QWN2MkJHNThwN1ZVSjRyc1M2ZTZv?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-24T00:16:13.000Z",
+      "excerpt": "一文读懂美债\"黑色星期三\"：\"完美风暴\"冲击，\"10月再加息\"风起 华尔街见闻 华尔街担忧美联储可能进一步加息，美债收益率刷新多年高位 新浪财经 美债遭重创，何时冲击美股？ 华尔街见闻 美债收益率曲线持续趋平 倒挂风险升高 市场担忧经济衰退 虎嗅网 美国5年期国债收益率自2007年以来首次升至5% 金融界",
+      "section": "cn-news",
+      "rankScore": 0.483224
+    },
+    {
+      "id": "77e5c16ab781a37c",
+      "title": "超25万人报名跑2027重庆马拉松 创历年新高",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xN3dpS19fR2REQUJOT0J6TzFiWFNoYVlMYjU5blptblpZZTRNaDdLM3VYUGhoMEktRE5iZzRJYURXTE5vVU4wRmJwOUxJdEVSRExyNng0cWdkZVVTSVlHTnItUnRGR25o?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-24T00:14:01.000Z",
+      "excerpt": "超25万人报名跑2027重庆马拉松 创历年新高 chinanews.com.cn 奔向第15届！25.6万人争跑2027重马，报名创新高 搜狐网 再赴山海之约！2026深圳马拉松报名今日开启！ 凤凰网深圳 2027重马抽签结果出炉 超25万人报名创历年新高 华龙网 2026深马开始报名 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.413825
+    },
+    {
+      "id": "6c312e7394c89083",
+      "title": "陸批兩岸包機苛刻 陸委會：按規定程序申請",
+      "url": "https://www.cna.com.tw/news/acn/202609230327.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-23T11:57:26.000Z",
+      "excerpt": "（中央社記者呂佳蓉、李雅雯北京-台北23日電）中國大陸國台辦今天批評，兩岸包機申請條件苛刻；陸委會回應，可依規定與程序申請，沒有所謂「摸不著、吃不到」情形，這波中秋連假目前未接獲兩岸包機申請。",
+      "section": "cn-news",
+      "rankScore": 0.388082
+    },
+    {
+      "id": "8a1976d35340a41d",
+      "title": "假期将至 杭州铁路公安处多举措迎客流高峰",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10702731.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-24T00:24:19.000Z",
+      "excerpt": "中新网杭州9月24日电 (钱晨菲)2026年中秋节、国庆节即将到来，探亲返乡、旅游出行客流增多，铁路将迎来新一轮客流高峰。",
+      "section": "cn-life",
+      "rankScore": 0.831084
+    },
+    {
+      "id": "cc9e591454fd9ab8",
+      "title": "8级大风+暴雨！新台风生成！中秋还能赏月吗？丨早读中山",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb1FxVjRpTjFfbnFsTG5aWjhGMHdnYjZuTVowbW12bGRway1BQnFTMW5NRHBsTE1oQWs1bHFfVEdPWDFwb0lwZmR5anowSWdsdXkxejRLdHJodWh1VlVSbnFnbi1WczhiOWwxRGlBckc5UFRqTzZxb0dwbU9ETXdraDcycFBfOU9md0RGSnVUNlAtUUZUME8tVWZtY3hqSGNVSW5EM0ZNZC1UNFAwWko1RnN2TVE5WDRfbmRnRnVMVFRlZ0tYcFBDeTJiUDFuSE01R1FNR3RRRjA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-24T00:45:03.000Z",
+      "excerpt": "8级大风+暴雨！新台风生成！中秋还能赏月吗？丨早读中山 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.628496
+    },
+    {
+      "id": "87ce6828a33519f7",
+      "title": "住院分娩个人“零自付” 政策多点发力减轻家庭生养负担",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UVlVVZjZYa09GeTQxcC1aYWpKRHg2dllTOHJFMW5jWEVsUXRubXVMTU5xcU1rMnZHXzM0MjFIRGlsakNPeTJTY3FBV3hiRGNnM1lJR1RaR1RJajlndG5fVnFNSGhFWUtF?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-24T00:39:00.000Z",
+      "excerpt": "住院分娩个人“零自付” 政策多点发力减轻家庭生养负担 中国网",
+      "section": "cn-life",
+      "rankScore": 0.626984
+    },
+    {
+      "id": "3c721105c5baea5a",
+      "title": "中国",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Qa3BPNWdOM19NTmh6aE9mdzdHRmFtSjZ0T2wyeG9ZYV9HVjhMRlFIWV8wOEh4RnI3UHhiVnpiazNDeUxzeC1wMHBFaE1WTFFPOFd4TF9ZYXRGcXY3WW1WRjc1aC1oU0p0dUVMOHNyTmNKYVZ3UjdiQWZWSm8yekE?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-24T00:21:00.000Z",
+      "excerpt": "中国",
+      "section": "cn-life",
+      "rankScore": 0.553319
+    },
+    {
+      "id": "5873b31d6e7e9d26",
+      "title": "“回流药”黑产起底：近千亿元药品“洗白”再售，司美格鲁肽常温摆放伪装冷链发货",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdVNDSE5TZzFIUVM5SUltRkR2Wm9VZ0NMTF9HWFFvRktPb3VPUERLaWV3Z0gzMEVQeFVlLTRRRmE0NGplX0NjSEZZblJYQ18wMHZQZW81TWE1MTNGZlRGOVhBSEtoNy1yZ1k3TlBad05TU2N0NzlmWkhXYXNtRk4yMl93bzJ2dw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-23T23:55:15.000Z",
+      "excerpt": "“回流药”黑产起底：近千亿元药品“洗白”再售，司美格鲁肽常温摆放伪装冷链发货 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.479147
+    },
+    {
+      "id": "058153bab908492c",
+      "title": "男子出现药疹全身90%皮肤剥脱，治疗2个月后脱离危险",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yRVZrMVpPc1VpRUNlRkNtcENCNHNJN2JKcHRncGdOSEZqMTJDRC1razFLRkZZLXk0YUVTTTJTLXVIaENQOVRReGxGUWlSbGVvU0xmcUFKbmZMSG0xa2NZdS1B?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-23T23:29:44.000Z",
+      "excerpt": "男子出现药疹全身90%皮肤剥脱，治疗2个月后脱离危险 手机网易网",
+      "section": "cn-life",
+      "rankScore": 0.474186
+    },
+    {
+      "id": "f75556601e3646a3",
+      "title": "​我校在第六届江苏高校百校万名团干部思政技能大比武中取得佳绩",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hY3o1WHNWYzFTTHRLTG1XUGppZXE4aFZWNms1aVk4ZFBWUW94eVFHY0M0OENLR0J6NWFhX19idmI0YkwzaTdyNHZUV0k3c01BeG1HeEdaN29uZHAwSFE?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-24T00:32:47.000Z",
+      "excerpt": "​我校在第六届江苏高校百校万名团干部思政技能大比武中取得佳绩 江南大学新闻网",
+      "section": "cn-life",
+      "rankScore": 0.416953
+    },
+    {
+      "id": "56881117c687fbbe",
+      "title": "编译 | 同样坐拥大量理工人才，印度为何无法复制中式技术崛起？",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zeWVZWG5iU2F4cjFEYU4xTlFPMVkwU1RjXzU4ZWdMeXAyYTJlLWc3d2o2NVhoM0hQNFdySkxUbW5HcjV3UlJCVmhGRWF4NzNBMFpZNVNUbnlJQ2M?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-24T00:27:09.000Z",
+      "excerpt": "编译 | 同样坐拥大量理工人才，印度为何无法复制中式技术崛起？ 风闻",
+      "section": "cn-life",
+      "rankScore": 0.346678
+    }
+  ],
+  "warnings": []
+}
