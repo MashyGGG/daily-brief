@@ -1,0 +1,318 @@
+{
+  "date": "2026-09-24",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-24T15:48:14.107Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "6d8a9749b9071026",
+      "title": "习特会：中美贸易休战再延期 路透社盘点两国贸易战重要时间线",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260924-%E4%B9%A0%E7%89%B9%E4%BC%9A-%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BC%91%E6%88%98%E5%86%8D%E5%BB%B6%E6%9C%9F-%E8%B7%AF%E9%80%8F%E7%A4%BE%E7%9B%98%E7%82%B9%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98%E9%87%8D%E8%A6%81%E6%97%B6%E9%97%B4%E7%BA%BF",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-24T15:39:37.000Z",
+      "author": "艾米",
+      "excerpt": "中国国家主席习近平正在对华盛顿进行为期三天的国事访问，美国总统唐纳德·特朗普于周四（9月24号）在白宫接待习近平夫妇。这是今年世界两大经济体领导人之间的第二次会晤，也是习近平十多年来首次访问华盛顿。",
+      "section": "news",
+      "rankScore": 0.69558
+    },
+    {
+      "id": "9714cd0d9ca43502",
+      "title": "特朗普為何親赴機場，超規格接待習近平？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-24T10:20:23.000Z",
+      "excerpt": "這是習近平時隔11年再次國事訪問美國。更是相隔64年，再有美國總統親自迎接他國元首到訪。有學者向BBC中文分析特朗普的舉動，既是在與中方「做生意打交道」；也是在向美國民眾展示自己的能力。",
+      "section": "news",
+      "rankScore": 0.638245
+    },
+    {
+      "id": "f86747126222fa28",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-24T15:37:45.000Z",
+      "excerpt": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "section": "news",
+      "rankScore": 0.625161
+    },
+    {
+      "id": "e1b327792794b846",
+      "title": "News outlets banned from White House seek emergency hearing after being denied entry despite judge’s order – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-24T15:25:17.000Z",
+      "author": "Chris Hippensteel",
+      "excerpt": "A federal judge had ruled Trump administration must immediately return the outlets’ press passes and said ban likely unconstitutional Sign up for US Breaking News emails Lawyers for the news outlets President Trump banned from the White House have requested an emergency hearing after several…",
+      "section": "news",
+      "rankScore": 0.550584
+    },
+    {
+      "id": "76191a8b178e250c",
+      "title": "Canada’s Capital Bids Good Riddance to Trump Avenue as Tensions With U.S. Rise",
+      "url": "https://www.nytimes.com/2026/09/23/us/ottawa-canada-renaming-trump-avenue.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-24T14:59:30.000Z",
+      "author": "Neil Vigdor",
+      "excerpt": "Ottawa’s City Council decided that the street should no longer be named for President Trump, who recently signed an executive order changing Lake Ontario to Lake America.",
+      "section": "news",
+      "rankScore": 0.540006
+    },
+    {
+      "id": "eabfe7a709b23efb",
+      "title": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
+      "url": "https://www.aljazeera.com/news/2026/9/24/saudi-led-coalition-says-shot-down-6-ballistic-missiles-launched-by-houthis?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-24T14:56:00.000Z",
+      "excerpt": "No response by Yemen's Houthis to a claim by the coalition forces that its missiles targeted Taif and Yanbu.",
+      "section": "news",
+      "rankScore": 0.53857
+    },
+    {
+      "id": "a103b19c8f7f21b6",
+      "title": "联大高级别周特别报道丨2026年9月24日",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142861",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
+      "excerpt": "欢迎收看联合国大会第81届会议高级别周特别报道。本期节目您将看到，一般性辩论进入第二天，伊朗、乌克兰等战乱国家领导人登上联大讲坛；全球人工智能巨头安理会齐发声：AI发展不能只追求速度，安全必须跟上。",
+      "section": "news",
+      "rankScore": 0.524661
+    },
+    {
+      "id": "ed6b6f5e5e939899",
+      "title": "US long-term borrowing costs touch highest level since 2004",
+      "url": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-24T15:46:31.000Z",
+      "excerpt": "Rising yields strain public finances after brutal sell-off in US Treasuries market",
+      "section": "news",
+      "rankScore": 0.489383
+    },
+    {
+      "id": "da05dbb2b3dafbd6",
+      "title": "From 15,000 to 185 to Zero: Trump’s Claims of Illegal Voting in Nevada Fizzle",
+      "url": "https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-24T15:18:05.000Z",
+      "author": "Nick Corasaniti",
+      "excerpt": "It was the Trump administration’s latest stumble in its effort to find proof of widespread noncitizen voting, despite decades of evidence that it is extremely rare.",
+      "section": "news",
+      "rankScore": 0.479176
+    },
+    {
+      "id": "24a0b6e0d16b9231",
+      "title": "The economic squeeze is pushing up poverty rates for older adults",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
+      "source": "npr-news",
+      "publishedAt": "2026-09-24T15:00:00.000Z",
+      "author": "Jennifer Ludden",
+      "excerpt": "Despite lower poverty overall, the rate for seniors has been steadily rising in recent years. A new AARP survey sheds light on how those over 50 are struggling in the crucial time before retirement.",
+      "section": "news",
+      "rankScore": 0.472685
+    },
+    {
+      "id": "37bed911b539641d",
+      "title": "Business",
+      "url": "https://www.economist.com/the-world-this-week/2026/09/24/business",
+      "source": "economist-week",
+      "publishedAt": "2026-09-24T13:22:28.000Z",
+      "section": "news",
+      "rankScore": 0.437673
+    },
+    {
+      "id": "9b149821bdca7efd",
+      "title": "阿联酋暂停所有伊朗航空公司往返航班",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oV2ZWcFp1QnNGNlVzejVtSXpBNDhuWGs5ZWQ3Uk9qSjdnb2xxckR3S2F6RkZjTHlnX0JVaDNWc1k0YU9PaVhoNTZhYVlLUFFPc1FtY2tNb1lYa2pnVURBNUhuMU94Y1ZKRi1XRzVadG81aXI2RzA5U180b2FsZw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-24T15:32:55.000Z",
+      "excerpt": "阿联酋暂停所有伊朗航空公司往返航班 新华网 美国财政部：打击伊朗航空业已初见成效 美国之音 中国是否会继续允许来自德黑兰的航班降落？外交部回应 新浪新闻_手机新浪网 伊朗航司：无视美国制裁，继续飞中泰 观察者网 美国财政部长贝森特向全世界发出警告，要求各国从9月23日起，必须配合美国封杀伊朗航班 中华网",
+      "section": "news",
+      "rankScore": 0.415287
+    },
+    {
+      "id": "b26ae01f952a67c7",
+      "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-24/10703499.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-24T15:20:12.000Z",
+      "excerpt": "当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，欢迎中国国家主席习近平对美国进行国事访问。",
+      "section": "cn-news",
+      "rankScore": 0.754185
+    },
+    {
+      "id": "07134f0f6eb6236a",
+      "title": "宁夏银川发布消费“三新”试点建设成果 数字化消费地图正式上线",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703460.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-24T15:12:03.000Z",
+      "excerpt": "中新网银川9月24日电 (记者 李佩珊)9月24日晚，宁夏银川市举行消费新业态、新模式、新场景试点建设成果发布会，银川消费“三新”数字化地图同步正式上线，以数字化手段整合城市消费资源，解锁多元消费新场景，助力消费市场提质升级。",
+      "section": "cn-news",
+      "rankScore": 0.613299
+    },
+    {
+      "id": "df2ed9a2ce6ec4e4",
+      "title": "世界技能大赛里的花艺比“插花”难在哪？从选材、配色到结构，花束也有一套技术标准",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oNEZaempOdWRSZk1CSGdvRmhtQkhFTUVPbGdMb01kMDVmR0pmVkZad3VZSzVKcElYMXZmU0xRbUEwa1o3YktSSXFRRzZjTUlwUnJJWVViaXlUR3JFX0E?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-24T14:44:02.000Z",
+      "excerpt": "世界技能大赛里的花艺比“插花”难在哪？从选材、配色到结构，花束也有一套技术标准 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.600368
+    },
+    {
+      "id": "42bebb91514871b2",
+      "title": "节日“氛围组”已就位！大庆街头满眼都是“中国红”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tZlNZRm9OREM1bVRYS0RDN0NfQmtCZklKSUxrWVU5V01XR1gtUXpwUHVaQUQ1NTUyckY5RE9pb0c2S0lYdzVaV2dYMWRHLWZLRjdoNkN2Y3UwenY3VXc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-24T14:39:00.000Z",
+      "excerpt": "节日“氛围组”已就位！大庆街头满眼都是“中国红”",
+      "section": "cn-news",
+      "rankScore": 0.598045
+    },
+    {
+      "id": "582ab350e2f53f49",
+      "title": "市场监管总局：1至8月全国新设经营主体1550.2万户",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10703045.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-24T07:52:05.000Z",
+      "excerpt": "记者今天从市场监管总局三季度例行发布会获悉，1至8月，全国新设经营主体1550.2万户。其中，企业600.1万户，个体工商户947.4万户，农民专业合作社2.7万户。万千经营主体竞相生长，筑牢市场经济基本盘。",
+      "section": "cn-news",
+      "rankScore": 0.546984
+    },
+    {
+      "id": "74384c0f14b58fbc",
+      "title": "何塞：北京是延续数千年都城营建传统的完整体现",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84U21XblhuSUZqSUNqRkE5MmRwNnI0ZDk0NFVQS09xZC1mWV9tV2haWW04eUEyaGZBU1dmQ3h0RzZWMDE3b0YycHZxaWhNeE11Z2Qzai1CUTRqMFJSTWl5d1dUbzA?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-24T14:08:00.000Z",
+      "excerpt": "何塞：北京是延续数千年都城营建传统的完整体现 新京报 2026北京文化论坛“文化遗产保护国际合作”平行论坛举行 新浪财经 联合国教科文组织专家：北京可向世界输出古都管理经验 中国日报网 赓续文脉，文艺创作焕活文化遗产 北京市人民政府门户网站 李子柒：传统文化在烟火里生长，向全世界流淌 中国网",
+      "section": "cn-news",
+      "rankScore": 0.518878
+    },
+    {
+      "id": "07faf045484786a9",
+      "title": "Beyond the Rose Garden and the military review, Trump and Xi get down to business",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3368709/beyond-rose-garden-and-military-review-trump-and-xi-get-down-business?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-24T14:32:56.000Z",
+      "author": "Mark Magnier",
+      "excerpt": "After weeks of frustration, delays and posturing, Chinese President Xi Jinping and US President Donald Trump got down to business on Thursday, kicking off their high-stakes summit, Xi’s first on US soil since 2015.",
+      "section": "cn-news",
+      "rankScore": 0.462969
+    },
+    {
+      "id": "aba6e7a80669e16a",
+      "title": "海外港人民調：逾6成不信香港主流媒體",
+      "url": "https://www.cna.com.tw/news/acn/202609240337.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-24T11:51:22.000Z",
+      "excerpt": "（中央社台北24日電）在海外成立的「海內外香港人民意研究計畫」昨天發布關於新聞傳媒可信度的調查結果顯示，62%受訪的海內外港人不滿香港主流媒體的表現；多數人認為，香港主流媒體有自我審查和偏向政府，沒有發揮言論自由。",
+      "section": "cn-news",
+      "rankScore": 0.462823
+    },
+    {
+      "id": "f6f7cc3e1759e87a",
+      "title": "德勤：前三季度A股IPO融资增175%，上交所1212亿居首",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rWjFsX19CYlVrTlN0Y3Z1eE95Rm1ZaUJyaElrUHV3dndSQVgyNExPTWpIT3hNdEEwREh0OE9ZQnJjbG91dDh6T0JpRGNGWllfcTZtb1l3YlQ0UzAxWlp4MA?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-24T14:07:00.000Z",
+      "excerpt": "德勤：前三季度A股IPO融资增175%，上交所1212亿居首 thepaper.cn 德勤：前三季度A股IPO融资增175% 上交所1212亿居首 新浪财经 德勤：香港新股集资额全年料达4800亿港元 创历史新高 财新 【读财报】上市券商投行业务透视：上半年投行业务回暖 财经号 德勤：纳斯达克蝉联新股排名榜首 内地新股市场显著加速 观点网",
+      "section": "cn-news",
+      "rankScore": 0.453659
+    },
+    {
+      "id": "58b031568c6c5a39",
+      "title": "《抓特务》口碑反转，冯小刚30年为什么总被延迟认可？| 拆解3292 条短评",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWZjJ6Y1NmenlUZkpCZXdOam9lVEV4clpxNS1HSmtKUlJaSFB2cUNIMVczT3JRNlI3bENId2UxcjFBemctRmhKZWxzcXp1T09MeExQaw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-24T15:17:41.000Z",
+      "excerpt": "《抓特务》口碑反转，冯小刚30年为什么总被延迟认可？| 拆解3292 条短评 虎嗅网 《抓特务》拍摄失败，冯小刚至今没有找到真正原因，该金盆洗手了 新浪财经 冯小刚回应《抓特务》亏损：很对不起投资方 中华网财经 冯小刚首度回应垃圾观众言论：被断章取义了 news.mydrivers.com 冯小刚回应“垃圾观众”言论：优质电影需优质观众，称票房遇冷因观众“非黑即白” 虎嗅网",
+      "section": "cn-news",
+      "rankScore": 0.410599
+    },
+    {
+      "id": "c7d15f59e755a2b8",
+      "title": "述评：透过档案，我们看见了怎样的海霞精神？",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-24/10703504.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-24T15:15:31.000Z",
+      "excerpt": "中新网温州9月24日电(林波)在浙江省温州市洞头区的“海霞之家”，洞头区职业技术中学学生许馨尹久久驻足。泛黄的老照片档案中，一群渔家姑娘肩扛钢枪，目光坚毅地望向海天相接处。",
+      "section": "cn-life",
+      "rankScore": 0.819866
+    },
+    {
+      "id": "55fc6a687ac4e8a6",
+      "title": "广西秋季“湿燥夹杂” 专家支招防范四类高发疾病",
+      "url": "https://www.chinanews.com.cn/life/2026/09-24/10703473.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-24T15:04:43.000Z",
+      "excerpt": "中新网南宁9月24日电(记者 黄艳梅)秋意渐浓，广西的秋天有其独特“脾气”——既不像北方那般干爽，也不像夏天那样闷热，属于“湿燥夹杂”。9月24日，广西壮族自治区卫生健康委员会举行新闻发布会，邀请有关专家介绍南方地区秋季常见疾病及预防要点，帮助公众科学应对季节交替带来的健康挑战。",
+      "section": "cn-life",
+      "rankScore": 0.677683
+    },
+    {
+      "id": "4cf4ae0fbc28da64",
+      "title": "台风“杜鹃”已致日本11死4失踪 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XZXJJMFcyUFFRQ01TWWxMYU96cDhvSEVSNkRxXzl1aXRHZFgxaENhSDBucG5rcmZYdmZfMGFNbTg3MXIwclBtZ04zaVZTSUJ3Tm5ldkZGaEJyZ2g5QnJwcjQ2bVZIeGZQd3NJYks5RUw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-24T15:40:00.000Z",
+      "excerpt": "台风“杜鹃”已致日本11死4失踪 新浪新闻_手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.626199
+    },
+    {
+      "id": "ac6d8b33191d9d3d",
+      "title": "横林镇：就业服务“沉下去” 群众幸福“提上来”",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2Q1WkNJZzFFMjgtQUlFTXRqZlFvaXFraUpkLWFEV3RpX2s1UnpHcUl1QkJxSHFYUVN3bE9CalhsbXNYN1phRXpaTTNRMExlT3UyRFRkWTNqOGVGMHV6VTVtUmlWT184NXg5ZlJxQW0wMU40cnNSODk4OXMyMks4RUI2WThyR3pyMlN3?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-24T14:49:00.000Z",
+      "excerpt": "横林镇：就业服务“沉下去” 群众幸福“提上来” jsnews.jschina.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.602661
+    },
+    {
+      "id": "77975057bb5e4bf9",
+      "title": "【提醒函】方山县食品药品安全委员会办公室关于“中秋”“国庆”两节期间肉制品消费安全的提醒函",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdza19qcURIUUhSeklEYjhXd3djbl9QQ3FRZ0xmSm5hSkV3Nl8yYmNCTmtmUDZKT25jT1ItMGVqQ0xlU0xxYWR3dVJsaDlXeW52US1QRy1JbU1XVHNUNFJTWFBFdFpuc0RRc3N4VTJqdjNGLVhwZ29HNWQzSE1lRGtoRy1ueTk5dlhMVA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-24T15:39:03.000Z",
+      "excerpt": "【提醒函】方山县食品药品安全委员会办公室关于“中秋”“国庆”两节期间肉制品消费安全的提醒函 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.486703
+    },
+    {
+      "id": "1e6b1274234e876b",
+      "title": "月圆中秋忆芳华凝心聚力话初心——银水巷社区新时代文明实践站开展“我们的节日·中秋节”系列活动",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0dlUVhJczhyYjRuNjk3VGVvdjJWRkRCZ1pMQ2h3bWR2cEg3VThObGhFWU9xZUtrRnhXbm1DMnp2Y2NNNElEMTh6Z1FMZ21rTDMtOF8xNVFKZW1XLXBZX0NSbHV2dXo3S2xmVmZzZUo0RV93LW5Ic203V2Ytb3R5aTF6M3ZycWxIUFlnTDNadlRkaHkxdEl6TFFB?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-24T12:38:00.000Z",
+      "excerpt": "月圆中秋忆芳华凝心聚力话初心——银水巷社区新时代文明实践站开展“我们的节日·中秋节”系列活动 baiyinqu.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.481955
+    },
+    {
+      "id": "9ed5d73378f93421",
+      "title": "自贡市启动城乡（社区）防艾科普进万家系列宣传主题活动",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tWHZUUElyRDNPQnlNaWxLaEZkSGczZ1JqQkNMcmUyUUtOMEtVQkQweUhvcWJNbDlCZUJDdFBsZDhoMXZINVdBdzU2blFNMElMVmc?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-24T11:42:00.000Z",
+      "excerpt": "自贡市启动城乡（社区）防艾科普进万家系列宣传主题活动 自贡网",
+      "section": "cn-life",
+      "rankScore": 0.401608
+    },
+    {
+      "id": "63dfeb968578628b",
+      "title": "杨卫院士受邀在东南大学“六朝松”大师讲堂作专题讲座",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RZm1aV2pjY1RkWTF1emkxaWR0cXE3UmNpOC15T0ViWDk5eWR6NWhwNUdsTTdneWozRTdtOE4tMWtFWkhHaXdoTmF3NHdIUTRxd0RxTENKMkdMYkNVanI5eF9mZTVZQQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-24T14:43:04.000Z",
+      "excerpt": "杨卫院士受邀在东南大学“六朝松”大师讲堂作专题讲座 东大新闻网",
+      "section": "cn-life",
+      "rankScore": 0.399948
+    }
+  ],
+  "warnings": []
+}
