@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-25",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-25T17:06:56.714Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "e553bed73fd52c06",
+      "title": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-25T17:06:56.714Z",
+      "score": 1853,
+      "excerpt": "The open-source app everyone uses to manage agents at work",
+      "section": "tech",
+      "rankScore": 1.148571
+    },
+    {
+      "id": "f8d408cca35d2358",
+      "title": "Platform-Independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "source": "hn-front",
+      "publishedAt": "2026-09-25T11:47:06.000Z",
+      "score": 208,
+      "author": "yurivish",
+      "excerpt": "208 points · 82 comments · https://news.ycombinator.com/item?id=49843269",
+      "section": "tech",
+      "rankScore": 0.927231
+    },
+    {
+      "id": "1a6f9482a7b01362",
+      "title": "LAST CALL FOR ENROLLMENT: Rebuild YouTube with AI",
+      "url": "https://blog.bytebytego.com/p/last-call-for-enrollment-rebuild",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-25T15:02:53.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Rebuild YouTube with AI, taught by a former YouTube engineer, kicks off on Saturday, September 26. Enrollment closes in 24 hours.",
+      "section": "tech",
+      "rankScore": 0.705015
+    },
+    {
+      "id": "b67b8ec7c21dbae7",
+      "title": "CommonGrid: The open source registry of the US power grid",
+      "url": "https://commongrid.info",
+      "source": "lobsters",
+      "publishedAt": "2026-09-25T16:12:04.000Z",
+      "author": "commongrid.info by victor",
+      "section": "tech",
+      "rankScore": 0.657021
+    },
+    {
+      "id": "b0360a354d0c02de",
+      "title": "Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments",
+      "url": "https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-25T12:58:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "AWS details how the latest Model Context Protocol specification removes protocol-level sessions, sticky-session requirements, and session storage for remote MCP servers.",
+      "section": "tech",
+      "rankScore": 0.625064
+    },
+    {
+      "id": "c3e85a6dfd8f22d3",
+      "title": "Agents can now set up your website’s security with Turnstile Spin",
+      "url": "https://blog.cloudflare.com/turnstile-spin/",
+      "source": "cloudflare",
+      "publishedAt": "2026-09-25T13:00:00.000Z",
+      "author": "Jules Lemee",
+      "excerpt": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
+      "section": "tech",
+      "rankScore": 0.524166
+    },
+    {
+      "id": "578f7670ed196963",
+      "title": "[AINews] The Future of Latent Space",
+      "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+      "source": "latent-space",
+      "publishedAt": "2026-09-25T05:37:00.000Z",
+      "excerpt": "A quiet day lets us discuss the work behind the scenes - now open for business!",
+      "section": "ai",
+      "rankScore": 0.4086
+    },
+    {
+      "id": "93578b29b573e9e2",
+      "title": "大象使用药用植物治疗自己",
+      "url": "https://www.solidot.org/story?sid=85477",
+      "source": "solidot",
+      "publishedAt": "2026-09-25T14:28:43.000Z",
+      "excerpt": "非洲象会利用数十种药用植物治疗自身和家族成员的疾病。科学家和 Mount Elgon 基金会合作展开了这项研究，他们采访了在肯尼亚 Mount Elgon 地区与大象共同生活和工作的居民、野生动物巡护员和社区长者。根据采访者的描述，大象在身体不适时会选择特定的植物，而母象还会给幼象喂食药用植物。研究人员得出结论，大象会使用 35 种不同的植物，其中 25 种在当地已知具有药用价值。一位野生动物巡护员看到母象使用名为 Angurweet 的植物给幼象治病。Angurweet 可用于治疗包括胃痛在内的多种疾病。巡护员看到母象将植物嚼烂，与乳汁混合，喂给幼象，幼象咀嚼后吐出固体部分。",
+      "section": "cn-tech",
+      "rankScore": 0.687118
+    },
+    {
+      "id": "f995e0e9021c24eb",
+      "title": "htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则",
+      "url": "https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-25T14:18:00.000Z",
+      "author": "作者： Daniel Curtis",
+      "section": "cn-tech",
+      "rankScore": 0.61955
+    },
+    {
+      "id": "55c504c8f6087c32",
+      "title": "一个不需要 gemini pro 的完全免费的注册 Muse 的方法",
+      "url": "https://www.v2ex.com/t/1244728",
+      "source": "v2ex",
+      "publishedAt": "2026-09-25T04:43:34.000Z",
+      "score": 71,
+      "author": "kav2",
+      "excerpt": "这个网站注册就送 15 美元额度，用来注册 Muse 只用几十美分，理论上可以免费注册十几个 Muse 账户，流程如下，第一次可以用我的邀请码免费获得额度奖励， 邀请码：1BV6FT ，后面就可以左脚踩右脚额度腾飞了，这次 meta 在促销规则上确实给力^-^: 网页登陆 https://cloud.browser-use.com 任意方式注册 登陆后选择 Browser, 也可以直接地址栏输入这个路径: https://cloud.browser-use.com/browser 点击右上角 “Launch & Open” , 这时候会弹出一个浏览器窗口, 地址栏输入…",
+      "section": "cn-tech",
+      "rankScore": 0.547659
+    },
+    {
+      "id": "cb05f634ac783687",
+      "title": "灵界 OS 6.0 稳定版 · 三处更新与一个崩溃修复",
+      "url": "https://www.oschina.net/news/502745",
+      "source": "oschina",
+      "publishedAt": "2026-09-25T10:44:37.000Z",
+      "excerpt": "这次推到 Gitee master，提交号 b726a1d，共三处改动。 1. 桌面体验 小组件支持按标题栏拖动，位置会记住，下次打开还在原地 点「窗口渲染优化」会先弹出确认，不再直接切换 24Hz 刷新率不再整页关掉 CSS 动画，动画保留，只是降帧 2. 6.0 与停用动画 设置 → 其他，新增「停用动画」开关 全仓库版本号统一改为灵界 6.0 ...",
+      "section": "cn-tech",
+      "rankScore": 0.466145
+    },
+    {
+      "id": "5055eaf1efcaf179",
+      "title": "平均翻倍！卖不动钻石，却越涨越猛",
+      "url": "https://www.36kr.com/p/3998623185703048",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-25T09:49:06.000Z",
+      "author": "格隆汇",
+      "excerpt": "本文作者| 弗雷迪 数据 支持 | 勾股大数据 年初迄今，超硬材料赛道的核心标的（四方达、黄河旋风、惠丰钻石、力量钻石、沃尔德）市值平均实现了翻倍，或接近翻倍。 值得一提的是，该行业另外一个广为投资者关注的题材——培育钻石曾经在去年发酵，也基本是这些标的在涨。 可是短短两年，叙事逻辑就发生了切换。 2025年交易的是“出口管制”和“涨价链”，配合一季度的财务拐点显现，板块正处于底部反弹的阶段。 此时正好等来一个有力的催化逻辑。 2026年起，赛道叙事整体切换为“AI散热”——海外算力方案、超算落地、募投资金改道散热材料。 金刚石，难道真的逆天改命了？",
+      "section": "cn-tech",
+      "rankScore": 0.442352
+    },
+    {
+      "id": "e4735e00f853caff",
+      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+      "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-25T14:44:41.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign.",
+      "section": "security",
+      "rankScore": 0.632256
+    },
+    {
+      "id": "4c8341e995c0c087",
+      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
+      "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-25T13:18:06.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain.",
+      "section": "security",
+      "rankScore": 0.591026
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
