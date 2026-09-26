@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-26",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-26T14:57:30.591Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "7de9d0578eab6e89",
+      "title": "对比中美各自公布的成果清单看这次形式大于内容的特习会",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260926-%E5%AF%B9%E6%AF%94%E4%B8%AD%E7%BE%8E%E5%90%84%E8%87%AA%E5%85%AC%E5%B8%83%E7%9A%84%E6%88%90%E6%9E%9C%E6%B8%85%E5%8D%95%E7%9C%8B%E8%BF%99%E6%AC%A1%E5%BD%A2%E5%BC%8F%E5%A4%A7%E4%BA%8E%E5%86%85%E5%AE%B9%E7%9A%84%E7%89%B9%E4%B9%A0%E4%BC%9A",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-26T14:04:39.000Z",
+      "author": "瑞迪",
+      "excerpt": "中国国家主席习近平时隔11年对美国的国事访问25日落下帷幕。特朗普政府为这次习近平来访安排了极高规格的接待，但尽管美国总统一再强调他与中国国家主席之间的友谊，并肯定这次中美高层会谈取得了诸多成果，中国官方媒体也肯定这次访问“圆满”结束，但从中美双方最近24小时公布的成果清单来看，此次礼仪声势不凡的高峰会谈，取得的具体成果十分有限。",
+      "section": "news",
+      "rankScore": 0.672892
+    },
+    {
+      "id": "ca9dcc5fe38f3410",
+      "title": "Huge crowds greet Pope in Paris for open-air Mass",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-26T13:23:59.000Z",
+      "excerpt": "More than half a million people are expected to attend the event in the heart of the French capital.",
+      "section": "news",
+      "rankScore": 0.586834
+    },
+    {
+      "id": "8cdb408d3970a650",
+      "title": "Olympics: Germany picks Munich for Summer Games bid",
+      "url": "https://www.aljazeera.com/sports/2026/9/26/olympics-summer-games-germany-munich-host-candidate-bid?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-26T14:37:12.000Z",
+      "excerpt": "Since the last time the Summer Games were on German soil in 1972, Germany has launched seven unsuccessful bids to host.",
+      "section": "news",
+      "rankScore": 0.551668
+    },
+    {
+      "id": "a9ca062686f2585a",
+      "title": "中国国家副主席韩正：维护战后国际秩序 促进共同繁荣 以多边主义捍卫公平正义",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142886",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "excerpt": "中国国家副主席韩正周六在联合国大会第八十一届会议一般性辩论上发表讲话说，当前国际形势变乱交织，地缘冲突延宕不止，发展鸿沟持续扩大，全球性挑战层出不穷。中国坚定不移地倡导维护战后国际秩序，促进共同繁荣，以多边主义捍卫公平正义。",
+      "section": "news",
+      "rankScore": 0.548072
+    },
+    {
+      "id": "b2d43f7642fbd6d0",
+      "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
+      "url": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-26T14:11:22.000Z",
+      "author": "Chris Buckley and David Pierson",
+      "excerpt": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
+      "section": "news",
+      "rankScore": 0.541069
+    },
+    {
+      "id": "7b69383492c7d037",
+      "title": "Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/pennsylvania-measles-outbreak-spreads",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-26T14:10:05.000Z",
+      "author": "Anna Betts",
+      "excerpt": "173 people hospitalized and four deaths in state so far, with less than 1% of those infected having been vaccinated The Pennsylvania department of health (DOH) announced on Friday that 55 new measles cases had been reported in the state since Wednesday, with officials continuing efforts to contain…",
+      "section": "news",
+      "rankScore": 0.540543
+    },
+    {
+      "id": "7ef6c3868f32f63d",
+      "title": "The Four TV Shows That Heralded America’s Fall",
+      "url": "https://www.nytimes.com/2026/09/26/opinion/best-tv-shows-sopranos-breaking-bad-wire-mad-men.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-26T13:59:03.000Z",
+      "author": "Stephen Marche",
+      "excerpt": "Four TV shows, now acknowledged as the medium’s high point, each cannily predicted the ways in which America would start to crack apart.",
+      "section": "news",
+      "rankScore": 0.469014
+    },
+    {
+      "id": "16df2a1f2c5be6cb",
+      "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
+      "source": "npr-news",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "author": "Scott Simon",
+      "excerpt": "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran. It's a stark contrast to how his predecessors have spoken about wielding US military power.",
+      "section": "news",
+      "rankScore": 0.426279
+    },
+    {
+      "id": "e11c93213bbe645c",
+      "title": "教宗在巴黎弥撒：以耶稣圣心流出的活水止渴，浇灌爱的苗芽",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON1l0Yk5Xd3BwQWR3WkNtUFVWb3FIMTJjZzVBcHFEaUpDd0tBNE9hNlhnbFd6b3FwV24talk4VmxpWkxHZFhzZzg4bnlEVnVfWWR5TW5MWlRsbFpRSWpKSldkSnRJLW53bV9keXBxVndGYUdPRVVHaFlROWZIbmp0bDBEbUxTLXpHczh5WHdlR1gzY2ZRNXVTM3V2QTdLeGt0Vkw0SQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-26T14:43:10.000Z",
+      "excerpt": "教宗在巴黎弥撒：以耶稣圣心流出的活水止渴，浇灌爱的苗芽- 梵蒂冈新闻网 vaticannews.va 教皇警告AI风险：小心在“机器天堂”里失去人性 凤凰网 教皇何以一路点燃法国人的热情 RFI 良十四世指有手握权力者不尊重法律 多边组织正陷入危机 gbcode.rthk.hk 你今天会去参加教皇的弥撒吗？以下是前往香榭丽舍大道应优先考虑的交通方式。 Sortir à Paris",
+      "section": "news",
+      "rankScore": 0.415587
+    },
+    {
+      "id": "29c5b578f26cc295",
+      "title": "The gangs testing Colombia’s hardline new leader",
+      "url": "https://www.ft.com/content/e13e3260-83ef-4474-98cb-15339bc6e3d5",
+      "source": "ft-world",
+      "publishedAt": "2026-09-26T11:00:04.000Z",
+      "excerpt": "Violence turns tourist hotspot into ‘ghost town’ after Abelardo de la Espriella abandons his predecessor’s ‘total peace’ strategy",
+      "section": "news",
+      "rankScore": 0.404764
+    },
+    {
+      "id": "1d04fa5705d94118",
+      "title": "習近平訪美晤特朗普：中美競賽誰領先？美國民眾怎麼看",
+      "url": "https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-26T02:51:55.000Z",
+      "excerpt": "「特習會2.0」即將登場，此時中美競爭白熱化、亦敵亦友，美國民眾認為誰正在領先？BBC中文走訪紐約街頭，聽聽他們最期待兩位元首討論哪些議題？美國大眾眼中的習近平與特朗普又是如何？",
+      "section": "news",
+      "rankScore": 0.393481
+    },
+    {
+      "id": "722f36bbf53809a7",
+      "title": "The Takeaway: UN General Assembly debate Day 4",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168454",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "excerpt": "From the Caribbean to the Pacific, leaders from small island States demanded climate justice, ocean protection and greater solidarity at the UN General Assembly on Friday.",
+      "section": "news",
+      "rankScore": 0.365382
+    },
+    {
+      "id": "aaeb3e80a624e0fd",
+      "title": "巴西东北部客车侧翻致7死13伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-26/10704252.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-26T13:52:31.000Z",
+      "excerpt": "中新社圣保罗9月26日电 巴西巴伊亚州公共安全厅26日向媒体证实，当地时间25日晚，巴西东北部巴伊亚州BR-122公路发生一起客车侧翻事故，造成至少7人死亡、13人受伤。",
+      "section": "cn-news",
+      "rankScore": 0.800004
+    },
+    {
+      "id": "f3c530fe52b09cf5",
+      "title": "厦金大桥关键工程合龙",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704263.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-26T13:20:43.000Z",
+      "excerpt": "中新网厦门9月26日电 (记者 闫旭)记者26日从福建省交通运输厅获悉，厦金大桥(厦门段)项目24日迎来关键节点，刘五店悬索桥顺利合龙。",
+      "section": "cn-news",
+      "rankScore": 0.715399
+    },
+    {
+      "id": "3e54f6d473cace5b",
+      "title": "雅典老城区爆炸事故致6死3伤",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KSFVfUUlkNGRsOXQ3OUUydnh3WFBrZkNmQ0Nya25paEV4MWE2Tl9xZjJwR0dLVlJDZzRjR2o0NWNxZmJpRVZoT3FXWXdGQTFFVWpFWTduRDM?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-26T14:08:24.000Z",
+      "excerpt": "雅典老城区爆炸事故致6死3伤 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.607334
+    },
+    {
+      "id": "78b94af5338b8545",
+      "title": "各地商圈新场景新业态加快“上新” 特色服务让消费“品味”加速升级",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704275.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-26T13:36:34.000Z",
+      "excerpt": "央视网消息：每到节日假期，各地各具特色的步行街、商业街客流明显增多，新场景新业态也加快“上新”。从城市商圈到县域商圈，消费正在实现从“买商品”转变为“重体验”。下面，我们就一起去各地“品味”商圈。",
+      "section": "cn-news",
+      "rankScore": 0.592642
+    },
+    {
+      "id": "c55eec98a921cfd8",
+      "title": "火车票预约购票，有新调整",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WdmMxMDVLOHJIWGZhYzljbkVQQUFkXzB5RkM2Y2s0bUtmR3lhbzYwTHlfUi1Dc3lMT1ZGaFRSMmctSFhETlhzN3lrVzJiUzItb1JNX1JYMXNxRGpJcEE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-26T13:26:00.000Z",
+      "excerpt": "火车票预约购票，有新调整",
+      "section": "cn-news",
+      "rankScore": 0.587765
+    },
+    {
+      "id": "fa48a4c0a3ac47f4",
+      "title": "在一所百廿美院看见艺术的打开方式",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwRkR1TDNtRUZsRzBaQ1pDZXhDeE9VRW1nWWZsTkpSTXRfa2RVZ0l0QzBPUlZUM3RKazNFWTQ4WjZlQnlyWjJNTUhEaFU2ZEhXakFwWU91QkF5bTRwNUx3b0Vwdm1wYWgwR3VQaEZHODhiYXFMNVNv?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-26T13:00:06.000Z",
+      "excerpt": "在一所百廿美院看见艺术的打开方式 新华网",
+      "section": "cn-news",
+      "rankScore": 0.511832
+    },
+    {
+      "id": "ad93d0401ee6a630",
+      "title": "China-based Brics bank set for lead role in hunger alliance this year, Brazil says",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368865/china-based-brics-bank-set-lead-role-hunger-alliance-year-brazil-says?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-26T14:00:06.000Z",
+      "author": "Igor Patrick",
+      "excerpt": "The Brics-founded New Development Bank could help launch a fund by the end of the year to guarantee cheap loans for poor families in Africa and Latin America, Brazil’s social development minister said.",
+      "section": "cn-news",
+      "rankScore": 0.469391
+    },
+    {
+      "id": "8f9ca4b603833294",
+      "title": "川習會成果清單未提台灣 分析：先聚焦有合作空間議題",
+      "url": "https://www.cna.com.tw/news/acn/202609260166.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-26T10:09:07.000Z",
+      "excerpt": "（中央社記者呂佳蓉北京26日電）川習會結束後，美中各自發布事實清單與成果共識清單，內容均未提及台灣議題。中國學者表示，美中今年5月川習會後已展開一系列接觸，雙方此次先聚焦經貿等較具合作空間的議題，預估之後才會談較為困難的議題；另外，可從峰會尚未出現的成果，觀察雙方在部分議題上仍存在分歧。",
+      "section": "cn-news",
+      "rankScore": 0.441685
+    },
+    {
+      "id": "9344437a8a36ee07",
+      "title": "Meta AI主管Alexandr Wang：为何我要做Muse",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NOTc1Zmwwdnd3RlZ6TEZTdTFnQXVJcW1wQnlFUC1lM0hicGZRZUMtUnI3NjJvbzFIQ21kUXkybXBzVUZRQk5WSEI1WmRYVnU5azZz?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-26T11:50:41.000Z",
+      "excerpt": "Meta AI主管Alexandr Wang：为何我要做Muse 华尔街见闻 十天登顶、被亚马逊封禁，Muse是谁？ thepaper.cn 12天下载量超ChatGPT的Muse，字节阿里谁能先跟上？|云栖大会|字节跳动|杭州市|Copilot|浙江省_手机新浪网 finance.sina.com.cn Meta发布个人AI Agent产品Muse，扎克伯格称最先进公司不会超过十二家 虎嗅网 爆火的Meta Muse，出现算力不足导致的故障 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.422934
+    },
+    {
+      "id": "c8e141accb9368a7",
+      "title": "中国U23男足战胜泰国队 晋级亚运会半决赛",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52SllkYzB2RVExc0VTVjB3djd2Sm9WMDdhWEhwaWt6QzVTRHBzd3NCV0s5T3g1UDFXV212bkVJYlh2Sy1xVTV5VjJ1d3FDNHE4X1VPbkRtWXJhemtJNGJHQ3MxLTl4ck1iankzZE0zVjlLdw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-26T14:12:47.000Z",
+      "excerpt": "中国U23男足战胜泰国队 晋级亚运会半决赛 finance.sina.com.cn 亚运会丨中国队时隔28年再进亚运男足四强 新华网 [流言板]热议国足淘汰泰国：安东尼奥把队伍带得像是真正意义的球队 虎扑体育 中国队3比0战胜泰国队 时隔28年重返亚运男足四强 中国日报网 国足亚运队：下一站，争奖牌 finance.sina.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.406238
+    },
+    {
+      "id": "563817597ece81fb",
+      "title": "西安交大举行航空与海洋交叉学科高质量发展会议",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704260.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-26T13:31:46.000Z",
+      "excerpt": "中新网西安9月26日电 (阿琳娜 张煜晨)西安交通大学24日在中国西部科技创新港举行航空与海洋交叉学科高质量发展会议，并为航空发动机结构安全基础科学研究中心、航空发动机学院、海洋科学与工程学院揭牌。",
+      "section": "cn-life",
+      "rankScore": 0.787235
+    },
+    {
+      "id": "f242646a969dd9a1",
+      "title": "“噼里啪啦”刷屏！刚刚，北京下冰雹了",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHBxalJ3LWpLZHAwX19qaXhmT25IOTI4dFNvT2dxQS1kQy1LZ0dxclhGNGp3MWczU2VuRFJac1Z3S1JSXzIzZVZzcUxCRDhQcmNEQnM5SHphNjd2T1pCYm54WUt6SkFJQVZoRVRLQjRDSWpWQ0NHTmt0bVFGcy13RDI1X2lfenZlRDYtTXRGazFNUXVDTmNwNG1MWmoyaHZZc2p5Z3J1R1dJM3hZMkJZWlhITlFUUGpQZVJWNzNDWnJwTTAtOEIyNw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-26T14:47:33.000Z",
+      "excerpt": "“噼里啪啦”刷屏！刚刚，北京下冰雹了 news.sina.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.625403
+    },
+    {
+      "id": "e4d5a1d8cdd7f241",
+      "title": "000503，逾百家机构调研！这些业绩暴增股被盯上",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBfdkVnUkZzSVVOeFpqSzMwMXZ0SExBeVV1bU12bDBfTF9xOXpWVGU2ZHNpX3NCVUtfR01fTUgzbGtodjdYX0FpSDdqS0NQUDNhMTRVX1VYN2RESGNCZ0dnTTVWQ25lOUJkYzZIb3dfVmZ3SnpETzVJRVJ6RTdmMTdWZWstN29uX3oyMERwSEZSZWxSVUN1aA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-26T14:38:19.000Z",
+      "excerpt": "000503，逾百家机构调研！这些业绩暴增股被盯上 finance.sina.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.621142
+    },
+    {
+      "id": "8ba8a444d47cf7fc",
+      "title": "生命科学突破奖得主Thomas Gasser：都是帕金森病，为什么需要不同治疗？",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQzZDenYwNlVuNUdyTlVKN01wYWZIbE5aY0IzbGJNa3RDejgxQVl0bmw2SXZJbFVXVU5QOE5OYzZEc0QtUFJteE83LVVucjdnWXFldTdsV1Ezdi0tZDdxM3phUm1lYy1UYUU2TlI2dDBzUVowOHFnbnRyVDB3T3o5SldJVWRsNTVIc29LNg?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-26T14:32:41.000Z",
+      "excerpt": "生命科学突破奖得主Thomas Gasser：都是帕金森病，为什么需要不同治疗？ 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.481088
+    },
+    {
+      "id": "8b60c5c506e33e82",
+      "title": "霉菌超标27倍！国民老品牌被曝食品安全问题，已全部召回！很多人从小喝到大……",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYeF9iV09VVnpLaFhkVlVpNWRGSzRFWDVrVU9fR2NDUWNkUmRFN1ZFb09NZ2YxVzc2SXM4Q0VaUVl5OGN5dUh4bWFhemdTQXAxbmtNNGwwWkxzMUVKWGhReDNRa3NCMExWUnBVclpkdVdRbW5pMUs1MQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-26T13:40:06.000Z",
+      "excerpt": "霉菌超标27倍！国民老品牌被曝食品安全问题，已全部召回！很多人从小喝到大…… finance.sina.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.462212
+    },
+    {
+      "id": "304670d5635f10e4",
+      "title": "中秋假期首日 江门水上客流量近1.6万人次",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wcFlTQWdzQUozSV83Q0c0SFd1THN6TTF3MlM3eUVBYXRRcXJSSzRiQmdRLXRYbkVVR3p0b3NLdk9DLXhwTFR0c3k5eV94cFIyTC1Ga0xlQURCbVJ3MTJhMUpvajRaZG5QLS16ZXhtbw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-26T08:47:10.000Z",
+      "excerpt": "中秋假期首日 江门水上客流量近1.6万人次 jiangmen.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.408064
+    },
+    {
+      "id": "367c6692cee2740a",
+      "title": "假期不停步|市教育局深入校外培训机构开展办学检查",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMS1aclo2TnJfMm5BVVhZYk5waE1IbFJRc05iMHdTNm1yUGZKXzFIaTZhWHJYR1pzR01qRHVNZXNJRHZ0VVRtbTJWTkQ3YUFvS29rOWVpSnVnelRua0gxLWlfYm95SDVuRkZXcExuNnY1ZzN5YWUtQUo2WWVzTjgzNk9RWTVZMzR2WVVWZA?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-26T12:08:13.000Z",
+      "excerpt": "假期不停步|市教育局深入校外培训机构开展办学检查 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.36791
+    },
+    {
+      "id": "c1a160f59a8aede0",
+      "title": "精神小妹出局，AI崩老头来了",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Fc3YyVl8yVmpxR2dOS2dqeHdrVkRDWVJNejlZLVEwcG5rcTBmSG9ZbmNzNGtiYmpSbVp6Y3NGLXRjZ3ZiV1dqbUoyTS1zby1MdkdOQk9jdl9EamM?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-26T06:00:28.000Z",
+      "excerpt": "精神小妹出局，AI崩老头来了 风闻",
+      "section": "cn-life",
+      "rankScore": 0.212297
+    }
+  ],
+  "warnings": []
+}
