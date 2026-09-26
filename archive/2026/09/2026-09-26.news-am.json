@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-26",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-26T00:50:29.523Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "b2a5abba62ce7318",
+      "title": "習近平訪美最後一天 參觀國家檔案館後返華",
+      "url": "https://www.bbc.com/zhongwen/articles/c97700x5exleo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-25T17:48:27.000Z",
+      "excerpt": "在訪美行程的最後一天，中國國家主席習近平伉儷與美國總統特朗普（川普）伉儷在白宮茶敘，然後參觀國家檔案館，之後啟程回國。",
+      "section": "news",
+      "rankScore": 0.699319
+    },
+    {
+      "id": "06df62d2bf7c0eaa",
+      "title": "习近平访美：中美双方在努力向世界展示什么？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260925-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E-%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%90%91%E4%B8%96%E7%95%8C%E5%B1%95%E7%A4%BA%E4%BB%80%E4%B9%88",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-25T22:19:23.000Z",
+      "author": "阿曼亭",
+      "excerpt": "法国世界报表示，中美双方在关键问题上没有取得重大进展，其实，双方也没有预期会在核心问题上取得重大突破，双方的共识是避免再度出现任何重大危机。因此，这次访问更多地集中在礼仪和场面上。营造形象以及公开说些双方都接受的话，就被放在了比实质内容更重要的位置。",
+      "section": "news",
+      "rankScore": 0.658025
+    },
+    {
+      "id": "64eca084bef50dd5",
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-26T00:09:45.000Z",
+      "excerpt": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+      "section": "news",
+      "rankScore": 0.619814
+    },
+    {
+      "id": "2b84ff45fb755d86",
+      "title": "Pro-Imran Khan rally delayed amid government closures",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-26T00:38:34.000Z",
+      "excerpt": "Authorities in Islamabad have blocked roads with shipping containers ahead of a Pakistan Tehreek-e-Insaf (PTI) protest.",
+      "section": "news",
+      "rankScore": 0.55735
+    },
+    {
+      "id": "7b4ffd724ae3f95c",
+      "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-26T00:24:43.000Z",
+      "author": "Reuters",
+      "excerpt": "Disclosure reveals ⁠new area of privacy risk for the company and illustrates ​how difficult it is to inventory unauthorized activity tied to its agents Two ⁠months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its…",
+      "section": "news",
+      "rankScore": 0.554272
+    },
+    {
+      "id": "ecd9bd86ed1d2a19",
+      "title": "6 People Are Missing After Explosion in Athens Tourist District",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-25T20:23:42.000Z",
+      "author": "Niki Kitsantonis",
+      "excerpt": "Four of the missing are believed to be tourists, possibly Americans. Local officials said the cause might have been a gas leak.",
+      "section": "news",
+      "rankScore": 0.500713
+    },
+    {
+      "id": "ad7372ac2e8b181c",
+      "title": "As Xi Leaves Washington, Divisions Still Simmer Beneath the Surface",
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-26T00:12:16.000Z",
+      "author": "Zolan Kanno-Youngs and David E. Sanger",
+      "excerpt": "President Trump welcomed Xi Jinping of China for a state visit that was heavy on pomp and ceremony. But surprisingly little time was spent on the issues that most divide the two superpowers.",
+      "section": "news",
+      "rankScore": 0.482567
+    },
+    {
+      "id": "da1864a5872088a0",
+      "title": "Cape Town offers best-value winter sun for UK tourists, despite strength of rand",
+      "url": "https://www.ft.com/content/fb8c1290-c72a-4fb3-a3ea-c55cf86b00ff",
+      "source": "ft-world",
+      "publishedAt": "2026-09-25T23:01:00.000Z",
+      "excerpt": "New survey puts South African city ahead of 24 other short- and long-haul destinations",
+      "section": "news",
+      "rankScore": 0.46871
+    },
+    {
+      "id": "030c527140d816d9",
+      "title": "黎巴嫩部长理事会主席萨拉姆：恢复国家决策权 结束战争 确保国家完全主权",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142877",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "excerpt": "黎巴嫩部长理事会主席萨拉姆周五在联合国大会第八十一届会议一般性辩论上发表讲话说，黎巴嫩必须恢复国家决策权，确保武器由国家垄断，战争与和平的决定权属于宪法机构；他同时要求停战、巩固停火，要求以色列根据1949年《停战协定》从黎巴嫩全部领土撤军，直至国际边界，以恢复黎巴嫩完全主权。",
+      "section": "news",
+      "rankScore": 0.437377
+    },
+    {
+      "id": "a2c298fa0f16377b",
+      "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
+      "source": "npr-news",
+      "publishedAt": "2026-09-25T20:08:40.000Z",
+      "author": "Ava Berger",
+      "excerpt": "The Pacific Ocean has had an unusual number of storms this year, while the Atlantic hasn't recorded a single full-blown hurricane. Scientists point to an exceptionally strong El Niño.",
+      "section": "news",
+      "rankScore": 0.435201
+    },
+    {
+      "id": "7a7e21637c633e40",
+      "title": "欧盟启动违规程序要求成员国限期落实多项指令",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQeHduRTlUeDJHTE5VY3JtLXh2NURnZEliazZhT041NVFadUFNN0dQcFF4dkVwODB5X0J6Y05lM0g2TXJuaGp0RUVZaHYtS0k?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-25T23:51:00.000Z",
+      "excerpt": "欧盟启动违规程序要求成员国限期落实多项指令 新蓝网",
+      "section": "news",
+      "rankScore": 0.410085
+    },
+    {
+      "id": "c9f5177c4f73a6d4",
+      "title": "“习特会”国宴菜单：芝麻脆皮海鲈鱼和爽脆嫩白菜",
+      "url": "https://cn.nytimes.com/world/20260925/trump-xi-state-dinner-menu/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-25T01:15:55.000Z",
+      "author": "LEO SANDS",
+      "excerpt": "国宴共三道菜，菜品的选择主要展示美国食材，同时“巧妙融入中国元素”。主菜以芝麻脆皮海鲈鱼和爽脆嫩白菜为主，餐桌将铺上红色桌布，以呼应中国文化。 Kenny Holston/The New York Times 特朗普总统将于周四晚为中国国家主席习近平举行国宴。",
+      "section": "news",
+      "rankScore": 0.337769
+    },
+    {
+      "id": "3b53de89d17e8a31",
+      "title": "碧波渔影绘同心：查干湖畔各族共唱致富“渔光曲”",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703991.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-26T00:29:07.000Z",
+      "excerpt": "中新网松原9月26日电 (高龙安 李彦国)渔船缓缓靠岸，网内银鳞翻腾，一众渔工立刻忙活起来。热闹的场景，汇成一首查干湖畔“渔光曲”。",
+      "section": "cn-news",
+      "rankScore": 0.763469
+    },
+    {
+      "id": "13a0d74801f06437",
+      "title": "在国立亚洲艺术博物馆，看见文物里的中美交往",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703924.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-25T14:06:13.000Z",
+      "excerpt": "走进华盛顿国家广场，穿过一段安静的林荫路，美国国立亚洲艺术博物馆掩映在树影之中。",
+      "section": "cn-news",
+      "rankScore": 0.625242
+    },
+    {
+      "id": "ae88846ef26d2dc7",
+      "title": "看火箭的少年成了造火箭的人 | 新技傍身",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UQjFVLUxMY1prQ05CNFpSa3MxU2RjdVhMQWZTMEQwNl9MYUJJczBxZnRBYmRidUhfTGw5QUY5THc5Xy1jeWQ3NlNBVFgtYXZIcjA5dUIxaDI?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-26T00:03:25.000Z",
+      "excerpt": "看火箭的少年成了造火箭的人 | 新技傍身 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.618231
+    },
+    {
+      "id": "6f79b79c5d05eb35",
+      "title": "蓬皮杜“落子”比利时：将汽车厂改造为卡纳尔艺术中心",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTeEFhWUtsU01HY1lod0ZoY3Q3QXIzUGlPMWwxcXF3bFlYNFBUQXd1WWtKd2U1NDdNYW1iU3dhZDZESDY5M2pveThJVmZsN1MyeDExTkVZem5adG1acGZjRg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-25T23:36:00.000Z",
+      "excerpt": "蓬皮杜“落子”比利时：将汽车厂改造为卡纳尔艺术中心",
+      "section": "cn-news",
+      "rankScore": 0.611377
+    },
+    {
+      "id": "a2fdf25f443041d5",
+      "title": "技能让文化交融交流（走进世界技能大赛）",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mYW1nX3Axek1MZTk1T2ItUEVXTzAtblBJOGNQNVBkUmQxS3pxWDdyRkMxYUZQSmpiRTNvenFNSllWSVRYTUhfSHJieG9feERyMnZaMWQ4R2NrVUdVNVpmTnFtTWU2aFBKQm92RV9n?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-25T22:12:00.000Z",
+      "excerpt": "技能让文化交融交流（走进世界技能大赛） 人民网 【城市笙歌】小手牵大手，携手观赛体验趣味 新浪财经 面对超21万种故障可能 重型车辆维修选手如何做到“一眼准”？ news.cctv.com 世赛直击｜照亮前程的手，改变世界的手 thepaper.cn 7大新赛项首次登上世界最高舞台，释放什么信号？｜聚焦世赛 观察者网",
+      "section": "cn-news",
+      "rankScore": 0.52478
+    },
+    {
+      "id": "78cd04172bdd8a56",
+      "title": "西藏37家参展企业亮相第五届全球数字贸易博览会",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VNVBwa3h2b1FqZTQ1NTRfUEZZdEtwbFcydlVCYW5oOWVGeGdQaC1LZjdXVktJZkt4WUJLejZOQURDdm5rN1hPOHlfSGNqR05vWHVoM05YdHpyTXBFN04wcXNmZE44TTg0RTBHaV9oWno?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-26T00:33:53.000Z",
+      "excerpt": "西藏37家参展企业亮相第五届全球数字贸易博览会 央广网 浙商蓝亮相数贸会：以金融之桥，连接智算产业新未来 新华网浙江 第五届数贸会启幕 粤企亮出AI消费新装备 新浪财经 盛秋平率队参加第五届数贸会并开展贸易投资推介活动 凤凰网 AI有数 | 在数贸会，看见“万物生长” 浙江新闻",
+      "section": "cn-news",
+      "rankScore": 0.486771
+    },
+    {
+      "id": "ec5dcdc4f71b0ab6",
+      "title": "Xi-Trump atmospherics welcomed but mask structural rifts: analysts",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368875/xi-trump-atmospherics-welcomed-mask-structural-rifts-analysts?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-26T00:02:27.000Z",
+      "author": "Mark Magnier",
+      "excerpt": "During their three-day summit that ended on Friday, US President Donald Trump and Chinese President Xi Jinping worked overtime to underscore their increasingly close relationship even as the meeting produced few concrete deliverables.",
+      "section": "cn-news",
+      "rankScore": 0.480658
+    },
+    {
+      "id": "ea752feaee25bc5b",
+      "title": "从“看景”到“入景”，中秋消费“新”意盎然",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703927.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-25T14:20:28.000Z",
+      "excerpt": "新华社成都9月25日电(记者董小红)中秋月圆，蓉城生辉。以文化IP激活夜间经济，以沉浸体验焕新文博消费，以“家门口”场景拓展日常运动消费……记者走访发现，今年成都中秋消费“新”意盎然、活力涌动。",
+      "section": "cn-news",
+      "rankScore": 0.472494
+    },
+    {
+      "id": "ff6cf1d05a40f69c",
+      "title": "川普國宴招待習近平 白宮奏起「月亮代表我的心」",
+      "url": "https://www.cna.com.tw/news/acn/202609250251.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-25T14:59:44.000Z",
+      "excerpt": "（中央社台北25日電）中國國家主席習近平國是訪問美國，白宮9月24日舉辦歡迎國宴，根據現場影片顯示，賓客入場時，白宮響起「月亮代表我的心」音樂，適逢中秋節前夕，引來不少大陸網友讚用心。",
+      "section": "cn-news",
+      "rankScore": 0.42872
+    },
+    {
+      "id": "a45ba85ad552e39e",
+      "title": "亚运会 | 30金！中国泳军创纪录 张展硕成“七金王”",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaGIxLXJ4R250WExFMlNQdnZIcFJVQXBraU4xSDZaOFg1eEVfYmhpLTFUZF9nTlBtek9Xam8yOEJrbTk4Y092S3ZiN3BiUTFXUU9rM0ZzY3lTRUFieE16RE1XaG8yWVFfZ0t3czBEMDBWaDVESER1Q3RaZFpCdU1wdWhKakRFeG5rY0lDY0pNcFdPOWo1aEdNWmJ3?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-25T23:52:46.000Z",
+      "excerpt": "亚运会 | 30金！中国泳军创纪录 张展硕成“七金王” 新华网客户端 亚运会丨七金！ 张展硕追平亚运单届个人夺金纪录 新华网 亚运会｜游泳——男子4X100米自由泳接力决赛赛况 凤凰网 亚运会｜游泳——男子400米自由泳：张展硕夺冠 新华网 荣膺七金王！张展硕：亚运只是期中考试 最终目标是奥运 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.410379
+    },
+    {
+      "id": "b54e3c92c0c5ccf2",
+      "title": "四川道孚“棕熊现身街头”图片系AI合成 两人被处罚",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10703988.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-25T23:45:16.000Z",
+      "excerpt": "近日，内蒙古大兴安岭满归林区至北部原始林区的331国道沿线，野生棕熊频频现身，有成年棕熊在丛林悠然漫步，还有母熊带着幼崽结伴穿行。",
+      "section": "cn-life",
+      "rankScore": 0.818258
+    },
+    {
+      "id": "f6721814ba912a24",
+      "title": "月饼怎么选、怎么吃才健康",
+      "url": "https://www.chinanews.com.cn/life/2026/09-26/10703981.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-25T22:27:45.000Z",
+      "excerpt": "月饼怎么选、怎么吃才健康(信息服务台)",
+      "section": "cn-life",
+      "rankScore": 0.660349
+    },
+    {
+      "id": "894435fa84d4fb82",
+      "title": "市审计局聚焦民生重点强化审计监督",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sRVhRdk9jQmtTUTg5a0VXbDQ2SXlLUVZuMWdvQ1FhSUV1cUZSV0NOd2RBWFR2MVZGbVVLTWRwSk1ESWFKY1QwNEdFaldjOXRUUTZwZkp5WFl1WVNvZ1Y1WTVlMnY3bjFiYl9mZ2FWMTl3dlFob3AzWA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-26T00:47:51.000Z",
+      "excerpt": "市审计局聚焦民生重点强化审计监督 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.629339
+    },
+    {
+      "id": "f3c10093c8742acd",
+      "title": "雷雨+中到大雨+暴雨今天到！紧接着最大降10℃，河北未来三天……",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnpvMjlYSlIxS2daQ1kwMllIcFJLaTRVcS12aFMxcEh4SVh0ZEp2LVQxUEJ2V29Sa2t1S0c3VENuQzQ4cVlOWFhlMEd3OVNtUFhMM2FlWHVGN1VjZU5pWC1QOUU4c0NfdWlBWFdBWEI3LUhPZHpsQXJjWTdUTnhQdVZFaGVtRU9RMGRDaQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-26T00:44:45.000Z",
+      "excerpt": "雷雨+中到大雨+暴雨今天到！紧接着最大降10℃，河北未来三天…… 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.628564
+    },
+    {
+      "id": "335a7e9f060608b9",
+      "title": "英国药品和健康产品管理局2022年1月至2025年12月医疗器械临床研究初始申报分析",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wdGI1d2RnNDlfTG1KUjAxZzBGY1ktc0tYZTBHUUFzZ0c4MW9iWkVJWkNMWW5TZmxGTWtvd0Rwa1JYQkNUbDJMWEdva2hBbkVRdnZabm9IdFdjX2w5clE0VEt0dmp5TTVZSlpZVA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-26T00:41:21.000Z",
+      "excerpt": "英国药品和健康产品管理局2022年1月至2025年12月医疗器械临床研究初始申报分析 生物通",
+      "section": "cn-life",
+      "rankScore": 0.488222
+    },
+    {
+      "id": "93ce2e8eddf6f73b",
+      "title": "基底外侧杏仁核至背外侧纹状体投射对刺激诱发运动行为的调控机制",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uSUl5cVU3UWFIUTgxMmhJS3NnS1NNUDd5N0JhaC1BTzVnSzhMVkpGZW1sODVnejJScVoyYzN1elhOTUgzaUw2WFJQUzdtQ3AyN0tnazNaSUtvc1M1WW9GRHRKM3lhMXlHc3lBaQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-26T00:40:42.000Z",
+      "excerpt": "基底外侧杏仁核至背外侧纹状体投射对刺激诱发运动行为的调控机制 生物通",
+      "section": "cn-life",
+      "rankScore": 0.488096
+    },
+    {
+      "id": "55f3e41bab7948e4",
+      "title": "河北秦皇岛：用PICO头显上VR思政课，红色教育进校园 - Nweon",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1jTlR5dzZaSGtTUm9QU1dMSUxVUV9KelYtS2JpRWlOOExTZ2NJcGpqN0RJbEU4cmY0UnBtMXdQdU9kMVU?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-26T00:44:17.000Z",
+      "excerpt": "河北秦皇岛：用PICO头显上VR思政课，红色教育进校园 Nweon",
+      "section": "cn-life",
+      "rankScore": 0.418965
+    },
+    {
+      "id": "064b61b0a6329837",
+      "title": "广州市公安局番禺分局交通管理大队关于公布使用移动式交通技术监控设备查处道路交通违法行为重点路段的通告",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56b2ZLYUQzYzFJM0U1MkxxMkNxYThySEVmTkNnY0wtWGZ1VXc2ejMtRndtek14bGUyNXlURmgtS2NOQm5BbkdELVlHWldSRnlRcGVJbkxyb3lPcGRnNFd6S1ZTUVVld21ROFE?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-25T07:14:00.000Z",
+      "excerpt": "广州市公安局番禺分局交通管理大队关于公布使用移动式交通技术监控设备查处道路交通违法行为重点路段的通告 广州公安",
+      "section": "cn-life",
+      "rankScore": 0.325224
+    }
+  ],
+  "warnings": []
+}
