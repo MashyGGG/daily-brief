@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-27",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-27T15:38:07.068Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "1235056a3e623f1e",
+      "title": "冲突加剧：沙特首都关闭学校通知家长远程授课一周",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260927-%E5%86%B2%E7%AA%81%E5%8A%A0%E5%89%A7-%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%85%B3%E9%97%AD%E5%AD%A6%E6%A0%A1%E9%80%9A%E7%9F%A5%E5%AE%B6%E9%95%BF%E8%BF%9C%E7%A8%8B%E6%8E%88%E8%AF%BE%E4%B8%80%E5%91%A8",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-27T15:34:40.000Z",
+      "author": "古莉",
+      "excerpt": "在也门胡塞武装对沙特阿拉伯袭击加剧之际，沙特首都的学生家长们周日收到一封电子邮件显示，利雅得各学校将实施为期一周的远程教学。",
+      "section": "news",
+      "rankScore": 0.69823
+    },
+    {
+      "id": "2820c6a2c2c606b4",
+      "title": "特習峰會成果盤點：關稅休戰、AI對話、未提台灣、暗指日本",
+      "url": "https://www.bbc.com/zhongwen/articles/cqdr78l1x1mjo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-27T11:35:41.000Z",
+      "excerpt": "BBC中文梳理兩國展現了什麼成果，以及外界如何解讀二人的舉措。",
+      "section": "news",
+      "rankScore": 0.69081
+    },
+    {
+      "id": "2d53d7c7bc8dc633",
+      "title": "日本前外相岩屋毅率“国贸促”代表团抵北京 寻求改善双边关系",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260927-%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%96%E7%9B%B8%E5%B2%A9%E5%B1%8B%E6%AF%85%E7%8E%87-%E5%9B%BD%E8%B4%B8%E4%BF%83-%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%8A%B5%E5%8C%97%E4%BA%AC-%E5%AF%BB%E6%B1%82%E6%94%B9%E5%96%84%E5%8F%8C%E8%BE%B9%E5%85%B3%E7%B3%BB",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-27T15:14:51.000Z",
+      "author": "古莉",
+      "excerpt": "共同社消息，日本前外相岩屋毅担任会长的日本国际贸易促进协会代表团9月27日抵达北京。岩屋等人希望与中国领导层会面。在首相高市早苗去年11月作出关于台湾有事的国会答辩后，日中经济界交流陷入停滞，此行将摸索改善双边关系的突破口。",
+      "section": "news",
+      "rankScore": 0.688068
+    },
+    {
+      "id": "dc08924c57d30df1",
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-27T14:09:22.000Z",
+      "excerpt": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "section": "news",
+      "rankScore": 0.589038
+    },
+    {
+      "id": "a0ba10ec90c2f977",
+      "title": "Finding Desert Angels: Searching for the missing at the US-Mexico border",
+      "url": "https://www.aljazeera.com/video/witness/2026/9/27/finding-desert-angels-searching-for-the-missing-at-the-us-mexico-border?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-27T15:30:00.000Z",
+      "excerpt": "An ageing trailblazer of search and rescue risks his life to find a woman’s missing son in the US-Mexico borderlands.",
+      "section": "news",
+      "rankScore": 0.55667
+    },
+    {
+      "id": "e171734b8b00ab08",
+      "title": "Pope Leo urges healing of ‘deep wounds’ before meeting child sexual abuse survivors in France",
+      "url": "https://www.theguardian.com/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-27T15:22:50.000Z",
+      "author": "Jennifer Rankin",
+      "excerpt": "Catholic church must reckon with its ‘painful errors’, pontiff tells crowd in Lourdes during four-day tour The pope has called on the Catholic church to heal “deep wounds” and “painful errors”, before a meeting with survivors of child sexual abuse as he continues his four-day visit to France.",
+      "section": "news",
+      "rankScore": 0.553729
+    },
+    {
+      "id": "3b1a46b56dcafca5",
+      "title": "5 Men Arrested on Suspicion of Terrorism Offenses Near RAF Fairford, Air Base Used by U.S.",
+      "url": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-27T15:19:19.000Z",
+      "author": "Michael D. Shear and Amelia Nierenberg",
+      "excerpt": "British counterterrorism police said the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
+      "section": "news",
+      "rankScore": 0.552287
+    },
+    {
+      "id": "7e26683d5834c8b3",
+      "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
+      "url": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-27T15:21:05.000Z",
+      "author": "Michael Kruse",
+      "excerpt": "Ms. Peltola, the Democratic Senate candidate in Alaska, has complicated politics: She is pro-gun, pro-oil and pro-gas — but also pro-environment and especially pro-fish.",
+      "section": "news",
+      "rankScore": 0.483885
+    },
+    {
+      "id": "7ecf1821c5b3ecdf",
+      "title": "Northern Ireland in tense stand-off as protests block Orange Order parade",
+      "url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-27T15:11:43.000Z",
+      "excerpt": "March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road",
+      "section": "news",
+      "rankScore": 0.480523
+    },
+    {
+      "id": "a7ef52983506a8ae",
+      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "source": "npr-news",
+      "publishedAt": "2026-09-27T13:01:27.000Z",
+      "author": "Kate Bartlett",
+      "excerpt": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+      "section": "news",
+      "rankScore": 0.43376
+    },
+    {
+      "id": "cbe036d92cf3bfb6",
+      "title": "教宗良十四世巴黎弥撒80万人参加 将与性侵受害者会面",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOTVgwaUlvRnJIbl9PT3BmSlJFdXZBSEZvUmpITEVhQWlieEktVWhUQUZmd1h5dXNWSkhnVFUxRktuWWVfMV9vbzRtUzM1VzFHeVU5SjhVd1VSQkZCREdkaXJzbzFlZGhaRHhGWFBkTllGWmtFcTFqZTRtbU5QTk1Mbk9OWXlVUXdhRHhDYWRFaEtoLV9XNWZMdlVReWt2M2w3V0FQOEN4aFY2T0NaTlhTWUxEaDdDTHVOQ18wWi1lcGFQWm4xRmNzV3kwdUJsamdxTmY1eG8wZlloLVpTVmtScENjM2tDS3BabzM1LWFJbFI1LVZGY002bVllaDlucHljNXczdmNFd3I5ZHVyQTk0Q0lNREp5N1JfbFZvNVZkdUk2d0d1Rm41UGUwYmEwTlh6QVNkNjNYQTl5M1NhRTlVSmFsd3VOS0FoSDF0bzA4ZDdQcmRHZmZBYmJzWjUxYmho0gHgAkFVX3lxTE55LVVfbHE2U1RTdFhVOW5sXzY0aHAxeWYwSENQTXhoajdSQzNJXzhEVlBndDVRWU5kSUdzTjE1dkl3S0dQU3lxUjBmT0lSQWt4SWdadWlrSk5YMXJ5cXU5cWpqOFNtOG5XRi0yamlaVGF4aW5rRS1XS0RCR0lKdmtoT0Z2THR1R1NpM1hXVHdDY1Y5bWpzVmJxcFA0TUZ5M0k0QW50eEk2bDB3NXhDalQ1cmcyMW5NdUdDWHl6ZmpCQnRXTVhXMlVlcm4yZWtqZ1Z5ZnltMzNlLUM1amZjVkN0RS1YYVRROEVaQmxKNzAtNTJ5dk54OWJtOTg5UEhJcjQ2OXdLcjVoVjJKeDlIc1JWQ1BUZFZGSE00dUsxQzVEN1pac2k2d3VoOTZCWWdyWnl5RTBqTTJnWi04NV94RlZ1U01KWHgtRGU5UnlESTZsbW93bGlFZ2ZMazVnZnZFQlI?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-27T14:44:22.000Z",
+      "excerpt": "教宗良十四世巴黎弥撒80万人参加 将与性侵受害者会面 dw.com 新浪网· sina.cn 教皇警告AI风险：小心在“机器天堂”里失去人性 凤凰网 教宗良十四世巴黎主持露天弥撒 约70万人参加 联合早报 教皇何以一路点燃法国人的热情 RFI",
+      "section": "news",
+      "rankScore": 0.403461
+    },
+    {
+      "id": "7e9c2e27f3c1ad89",
+      "title": "The Takeaway: UN General Assembly debate Day 5",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168462",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-27T12:00:00.000Z",
+      "excerpt": "From artificial intelligence to migration, some of the forces reshaping the twenty-first century took centre stage at the UN General Assembly on Saturday.",
+      "section": "news",
+      "rankScore": 0.352887
+    },
+    {
+      "id": "044d7ef3f51298f4",
+      "title": "韩正在第81届联大一般性辩论上的讲话（全文）",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704546.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-27T14:20:12.000Z",
+      "excerpt": "新华社联合国9月26日电",
+      "section": "cn-news",
+      "rankScore": 0.726046
+    },
+    {
+      "id": "d1a65e34b58f2d2a",
+      "title": "武契奇宣布即将辞去总统职务",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704555.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-27T12:02:09.000Z",
+      "excerpt": "新华社贝尔格莱德9月27日电(记者张璇 石中玉)当地时间27日中午，塞尔维亚总统武契奇在接受塞尔维亚广播电视台采访时表示，他将于当地时间27日晚8时左右正式提交辞呈，辞去总统职务。",
+      "section": "cn-news",
+      "rankScore": 0.707097
+    },
+    {
+      "id": "03d2f4e1b0c6e847",
+      "title": "共谋低碳转型务实之策 国合会2026年年会开幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704609.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-27T13:56:56.000Z",
+      "excerpt": "中新社北京9月27日电 (记者 阮煜琳)中国环境与发展国际合作委员会(简称国合会)2026年年会27日在北京开幕。",
+      "section": "cn-news",
+      "rankScore": 0.583299
+    },
+    {
+      "id": "bf0fb056212ee6af",
+      "title": "世界技能组织主席：中国把世赛标准纳入了教育体系，其他国家和政府可借鉴中国经验",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9icC11cTFtNmR1a1pVazVxblAzak5SRFZzd09tNFZ6ZnhiMVlJakFEQjBnTUVCSVhkbE4yeE5RYVJsYnowUGlfeTRMSzhXblhUeUZtZF9TeGVpTG5fNkE?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-27T13:37:03.000Z",
+      "excerpt": "世界技能组织主席：中国把世赛标准纳入了教育体系，其他国家和政府可借鉴中国经验 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.574123
+    },
+    {
+      "id": "9f1763bbb4004652",
+      "title": "李在武王新生会见参加热耦合海水制氢联产项目验收暨成果发布会的院士专家",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51bTNwUzk4Zzh3WHN5M2FjN093YnphdVRtdThyOXFSaXA5YngzREUtdEdOWHJlOEUxRktZZHJJa3ZFU29fRWhQaU1NUHFmS1ZiemNmRVZBbWRZc0s2MWc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-27T12:42:00.000Z",
+      "excerpt": "李在武王新生会见参加热耦合海水制氢联产项目验收暨成果发布会的院士专家",
+      "section": "cn-news",
+      "rankScore": 0.548715
+    },
+    {
+      "id": "8968235e26838781",
+      "title": "文化遗产绽放时代光彩！北京文化论坛“文化遗产的当代价值”主题沙龙传统文化展示侧记",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05REpKUHU2YXdhYy1oZnUxOFlZRWxzUHZxcTNfQ183TUVQeF95UkVDS1IyVUZCRFRlRzhQVGJPOWh1UkdpeDhnMUR6dl9lLWFUNkE4RHZFcGd5dF9lSUE?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-27T13:23:49.000Z",
+      "excerpt": "文化遗产绽放时代光彩！北京文化论坛“文化遗产的当代价值”主题沙龙传统文化展示侧记 京报网",
+      "section": "cn-news",
+      "rankScore": 0.504902
+    },
+    {
+      "id": "6a8f1f54a97864b9",
+      "title": "孙立坚：黄金开始给“信用”重新定价",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4NGp1S3AwNHFfSUxjSVdVMC15TzFkUWVIRWg3VV84YWxTdEFCYTI3Qk9GR0FoMk10Z2w3MFd4SElTSnNBeDFkTFVfVU5BejVEcHNWR29HemN3MmZFRU1UQTVhUzQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-27T14:46:34.000Z",
+      "excerpt": "孙立坚：黄金开始给“信用”重新定价 复旦发展研究院 许安丰：9.27黄金下周一开盘操作策略及行情趋势分析 cj.sina.cn 现货黄金，关键时刻！网友：都在等消息面 搜狐网 黄金价格反弹：霍尔木兹外交缓和原油价格，美债收益率仍处高位 同花顺财经 金价本周下跌逾2%失守4300，机构仍对中长线走势保持乐观 finance.sina.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.471494
+    },
+    {
+      "id": "f31043c4ac0ad4fb",
+      "title": "無上網自由 哈爾濱20大學生「翻牆」遭處分",
+      "url": "https://www.cna.com.tw/news/acn/202609270176.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-27T11:31:40.000Z",
+      "excerpt": "（中央社台北27日電）在中國對網際網路設置「防火牆」的情況下，有軍工背景的中國哈爾濱工程大學日前發出公告，指有20名學生因使用虛擬私人網路（VPN）「翻牆」，連接境外網路，結果遭到警告處分。",
+      "section": "cn-news",
+      "rankScore": 0.458892
+    },
+    {
+      "id": "615a868c76410738",
+      "title": "Giant pandas Ping Ping and Fu Shuang touch down in the US under new loan deal",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368964/giant-pandas-ping-ping-and-fu-shuang-touch-down-us-under-new-loan-deal?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-27T12:56:39.000Z",
+      "author": "Victoria Bela",
+      "excerpt": "Two giant pandas have arrived in Atlanta to take up residency at the southern US city’s zoo. The pandas, male Ping Ping and female Fu Shuang, left Chengdu in China’s southwest on Sunday, within days of Chinese President Xi Jinping wrapping up his three-day state visit to the United States.",
+      "section": "cn-news",
+      "rankScore": 0.432037
+    },
+    {
+      "id": "2c4184f678ed02fe",
+      "title": "亚运会丨乒乓球综合：王曼昱女单摘金 黄友政/林诗栋男双登顶",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWdlOVh2V21fcmk0ZXgxbmlPNmxhY0N3S0k0cG82b1ZPOTNaWTVMcnRLMVJ2bi1XbjhqdWZHTWJLRWdiYUtEMnVQVU03NG5BUVBTdzBfaFZjR050eGhvZGltYy05UlhNcm0wWl9vQkpzckM5NWtBNVRvMldQa0Y3Y0pRVkI3eXZoV3FQLUcyMkxKTXN2TXJ5Zkd3?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-27T15:29:56.000Z",
+      "excerpt": "亚运会丨乒乓球综合：王曼昱女单摘金 黄友政/林诗栋男双登顶 新华网客户端 亚运会丨王曼昱夺得乒乓球女单冠军 news.cn 孙颖莎：下一届亚运会好像在五年后，可能我等不到了 finance.sina.com.cn 亚运会｜乒乓球——女子单打决赛：王曼昱夺冠 新华网 亚运会｜乒乓球——女子单打颁奖仪式举行 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.417482
+    },
+    {
+      "id": "cd6a23c8aab94739",
+      "title": "中国蝉联世界技能大赛金牌榜榜首 创历史最好成绩",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704621.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-27T15:09:59.000Z",
+      "excerpt": "中新社上海9月27日电 第48届世界技能大赛9月27日晚在上海闭幕，中国代表团获得41枚金牌、11枚银牌、4枚铜牌，6个优胜奖，第五次位居金牌榜和团体总分世界第一，创造了中国参加世界技能大赛以来的历史最好成绩。",
+      "section": "cn-life",
+      "rankScore": 0.822686
+    },
+    {
+      "id": "23043ee5b3fc67b9",
+      "title": "克什米尔发生4.0级地震 震源深度10千米",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxWDlYOXlqVTR4T0J1bU50NVJfekdic0l1Z2lXbWJ6b3lVNmtkS1Z6U1E5RXZBb1NOaWFYSm44bmtLV1FvYVR3T3RRTUFCUEJhQXlQWWY1X1ctTWQtZERONWx6VXQ3VmRSTWJYQXB1OA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-27T15:21:40.000Z",
+      "excerpt": "克什米尔发生4.0级地震 震源深度10千米 金融界",
+      "section": "cn-life",
+      "rankScore": 0.622407
+    },
+    {
+      "id": "73c7a85a9bc069bc",
+      "title": "湖南一男子流浪拾荒21年日赚10元，被救助时发现社保账户竟有42万元养老金：当过国企工人，下岗后一直未缴费以为领不到",
+      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQYkFrWGJSX1BpR2l4QU5yVF8wb3U1aFdQblJJVVVtUHJNcUZrQm1NZDhSZWZjZXd2LUM4dVl1eWNHX2RHaFVBS0xYR0xxLXhWeHowRFlXeEUyUmdMOXhpV2V2bDh2MXZjSDlqNkVwRGVFR2VaLUxMWEE1cTJSeXlldG51dk1DMTh5SzVaWGw5dUs0YkVBUmJ2YnkteGg1S3FLRW1IZ18xdk56RE1fTUFfOHYtX19GT3puRG5UMk1Tb3JzdEt6TG42R1k4dmN3V0ExZHNfeXlQYndKTWg4dEdUMmNndzUtazZRMEtsZDVlSHlEUE0wVUROLXhTYXJTblhvblVJay16cDN2WGs2Vnh6VmlndWhCWjVmUU5OcWVPTVc3NGVGSGRnMk1GUDNPZG5WNTRTZWZVQ2lhX0lTc1hkM2FQal9HbmR1MmRqRjRON2xZNFhiaGxvd2p6NHdrcWVoelNSTkhxa3Z2WksxSkVTY0dKV0xxN0hsRnphb2VPMXpDNHh4alo2Nm5aSklEODFBZU5scmE5ekZRblBNelRWMEdmQ1BVVk1YTGpkSE9xN1Qxd1NxSkF2My1yMUp3V0pYYnF2U1hlbmJPb2o3WkJGMk5UVU16WExWQklpWnlRNi15dw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-27T15:08:01.000Z",
+      "excerpt": "湖南一男子流浪拾荒21年日赚10元，被救助时发现社保账户竟有42万元养老金：当过国企工人，下岗后一直未缴费以为领不到 finance.sina.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.616107
+    },
+    {
+      "id": "f8a06a79b653e51d",
+      "title": "假期居家，防火要点请牢记！",
+      "url": "https://www.chinanews.com.cn/life/2026/09-27/10704524.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-27T10:34:01.000Z",
+      "excerpt": "中秋、国庆假期",
+      "section": "cn-life",
+      "rankScore": 0.544051
+    },
+    {
+      "id": "a236d3ccf75fa35a",
+      "title": "牡丹江市市长杨勇到市应急指挥中心调度节日期间全市安全防范工作",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45SEtSdDJiTUVXZnZRcXBUTU1aVXhseHhuYzRhSkM0UTI0ZWhKUEdYa1dMVm5EYWhFWjNXTmg4emoxdl95N2RMYWZzd1liNm5lZlBiZTlHazJ4V0NaSDlJVWZjNXN1X2prU2Z5Tg?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-27T14:34:00.000Z",
+      "excerpt": "牡丹江市市长杨勇到市应急指挥中心调度节日期间全市安全防范工作 黑龙江省人民政府",
+      "section": "cn-life",
+      "rankScore": 0.533695
+    },
+    {
+      "id": "a6a93958ad226422",
+      "title": "售价39元主播一单抽成9元 起底假核桃油公益助农骗局",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMU0yQ3d6c0MzUDI5ZlZ1ZlRvQjhlOXA5TDVoNkxza3BZM0ZOMTlZeTJwOFI5RFM5TFViVklCd0hNMWpDTW5UTDQ4ck1IZDR3dEdjZDNhb01EV19rNURwVFRIWDFCYThpcXltWWhaSmJDc1VsbjBRZVhqckZGSjlwVUlhY0hQQ29yeS1JaEp5Ql9jcmFqS1BrVA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-27T12:34:39.000Z",
+      "excerpt": "售价39元主播一单抽成9元 起底假核桃油公益助农骗局 finance.sina.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.42414
+    },
+    {
+      "id": "b559b1546c11ba43",
+      "title": "中国东方教育集团师生出征世赛，斩获2金1银",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGJYaHFFMVBSNUNvQUhYd2ROaEtMTWR1bDRXVWNSQmk5WjhUdjJnZkxNT1BOc2IxZnpBdWNkVmNLenlQTC1DY1haU05LOWxwR0NiOTk0UTFJaVZkWGJxa2hRTUlTcWRlZ255NmNGblBlR0FPajIzM3NvRFJmV1FJZ1ZadlY2b3c2?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-27T15:19:00.000Z",
+      "excerpt": "中国东方教育集团师生出征世赛，斩获2金1银 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.414118
+    },
+    {
+      "id": "c9d406febb017eaf",
+      "title": "秋葵再次被关注！调查发现：常吃秋葵的老人，身体或迎来5个变化-yeeyi - yeeyi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSzZBT2wtbzJpMjhTc0c3eTZNVml5MDBvWHF2M0hTX1JEZEFfemh3Z21OdTUyY0N3VGZLWDZSYjQ4V1FEM2lyTlloRXdFUGJ0Y09HSG5B?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-27T08:55:38.000Z",
+      "excerpt": "秋葵再次被关注！调查发现：常吃秋葵的老人，身体或迎来5个变化-yeeyi yeeyi",
+      "section": "cn-life",
+      "rankScore": 0.345518
+    }
+  ],
+  "warnings": []
+}
