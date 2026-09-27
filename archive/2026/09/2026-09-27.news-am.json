@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-27",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-27T00:50:37.248Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "cb56504be2fed95a",
+      "title": "台湾议题为何并未出现在习特会成果清单上",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260926-%E5%8F%B0%E6%B9%BE%E8%AE%AE%E9%A2%98%E4%B8%BA%E4%BD%95%E5%B9%B6%E6%9C%AA%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%B9%A0%E7%89%B9%E4%BC%9A%E6%88%90%E6%9E%9C%E6%B8%85%E5%8D%95%E4%B8%8A",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-26T22:30:30.000Z",
+      "author": "安德烈",
+      "excerpt": "白宫特习会之后，美中分别在周五晚间与周六公布了成果清单，为这场空前豪奢的聚会划上了句号。特朗普总统至少可以显示，他不断提到的与中国国家主席习近平个人的“特殊关系”并非空谈，美国并非一无所获；而习近平则可以通过美国总统连日来的超级接待，向中国甚至世界昭示中美可以“平视”了。用中方公布的8项成果共识中的首条来说就是：双方同意构建“基于尊重、公平、对等的中美建设性战略稳定关系。”然而习近平的“核心关切”台湾议题最后并没有出现在清单上，何故？",
+      "section": "news",
+      "rankScore": 0.661078
+    },
+    {
+      "id": "37f5a46a85ba2f2d",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-26T22:15:59.000Z",
+      "excerpt": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "section": "news",
+      "rankScore": 0.591341
+    },
+    {
+      "id": "9ffe14955d247a5e",
+      "title": "Australia news live: Marles said OpenAI CEO didn’t tell him about hack at meeting; flight cancellation heartbreak for AFL fans",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-27T00:35:54.000Z",
+      "author": "Nick Visser",
+      "excerpt": "Follow live updates The deputy Liberal leader, Jane Hume , has expressed scepticism revelations an OpenAI agent accessed Australian government data without authorisation should have legal consequences for the company. The hack was revealed last week, despite taking place in June.",
+      "section": "news",
+      "rankScore": 0.556729
+    },
+    {
+      "id": "d40b59cf51841c0c",
+      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-26T23:49:30.000Z",
+      "excerpt": "Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.",
+      "section": "news",
+      "rankScore": 0.546418
+    },
+    {
+      "id": "cdb472720b1a3e44",
+      "title": "Evicted 87-Year-Old Woman Urges Spaniards to ‘Fight’ to Avoid Same Fate",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-26T22:22:12.000Z",
+      "author": "Carlos Barragán",
+      "excerpt": "María del Carmen Abascal, whose case has become a symbol of Spain’s housing crisis, appeared in a video from a hospital bed after being removed from her apartment.",
+      "section": "news",
+      "rankScore": 0.527018
+    },
+    {
+      "id": "f2aac19735a72bee",
+      "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+      "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-27T00:30:52.000Z",
+      "author": "Michael M. Grynbaum and Erik Wemple",
+      "excerpt": "The White House TV pool went dark this past week amid a standoff between CNN and the president. Network leaders, however, believe an indefinite suspension may be untenable.",
+      "section": "news",
+      "rankScore": 0.486159
+    },
+    {
+      "id": "172e644caee7b65b",
+      "title": "俄罗斯外长拉夫罗夫：维护联合国中心地位 建立更加多极化的世界秩序",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142890",
+      "source": "un-news-zh",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "excerpt": "俄罗斯外长拉夫罗夫周六在联合国大会第八十一届会议一般性辩论上发表讲话说，全球政治格局正在发生剧变，一个更加公平、多极化的世界秩序正在形成，全球南方和东方国家正作为主权发展中心崭露头角。他说，俄罗斯外交政策以这一理念为基础，主张维护《联合国宪章》和国际法，推动建立多极化世界秩序。",
+      "section": "news",
+      "rankScore": 0.437345
+    },
+    {
+      "id": "3bb34ba9af7e480e",
+      "title": "Trump and Xi to meet twice more after summit fails to resolve tensions",
+      "url": "https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-26T18:42:28.000Z",
+      "excerpt": "Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off",
+      "section": "news",
+      "rankScore": 0.418414
+    },
+    {
+      "id": "03836ff8cfdc00a7",
+      "title": "签署《麦加共同防务协议》后，沙特、巴基斯坦、土耳其三国军事高层商讨加强军事联系",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uX0JvUDhmZ00tQ3BDTjJGVFpYaXNOQklnQ0hYQndXWnhIMlZXYjZiWlFWeS1hWE9oVUhrNFhhaGwxQ0gyUExoVWkxVWxRLWFYeXdrUG15R0swOUJZWVJuajk0WQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-27T00:10:00.000Z",
+      "excerpt": "签署《麦加共同防务协议》后，沙特、巴基斯坦、土耳其三国军事高层商讨加强军事联系 观察者网 巴沙土三国外长会晤 谴责对沙特民用和经济设施袭击 news.cctv.com 准备看电影的常州人注意了！ 新浪财经 沙土巴三国军方高层会晤 着手落实共同防务协议 china.zjol.com.cn 沙巴土三国参谋长将紧急会晤 凤凰网",
+      "section": "news",
+      "rankScore": 0.41323
+    },
+    {
+      "id": "0138e959afd439f6",
+      "title": "“习特会”落幕，中美分歧仍然暗流涌动",
+      "url": "https://cn.nytimes.com/usa/20260926/trump-xi-state-visit/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-26T02:21:25.000Z",
+      "author": "ZOLAN KANNO-YOUNGS,DAVID E. SANGER",
+      "excerpt": "除了盛大的场面，世界两大经济体和人工智能超级大国的领导人会谈几乎没有达成任何成果。特朗普似乎更专注于款待习近平，而不是挑战自己的地缘政治对手。",
+      "section": "news",
+      "rankScore": 0.357743
+    },
+    {
+      "id": "6b5c367807d4305e",
+      "title": "Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-east-coast-floods",
+      "source": "npr-news",
+      "publishedAt": "2026-09-26T11:38:00.000Z",
+      "author": "Ava Berger",
+      "excerpt": "Northeast states saw rising tides and widespread power outages on Saturday as the storm ripped through the region. Forecasters expect significant winds and rain throughout the weekend.",
+      "section": "news",
+      "rankScore": 0.335879
+    },
+    {
+      "id": "03caefed1ec56873",
+      "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168459",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "excerpt": "Saudi Arabia’s Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronger international cooperation to protect Gulf States and vital shipping routes.",
+      "section": "news",
+      "rankScore": 0.291563
+    },
+    {
+      "id": "459c8510a6be9f6f",
+      "title": "全网模仿“闪身步”藏隐患 别拿膝盖跟风网红动作",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-27/10704321.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-27T00:28:19.000Z",
+      "excerpt": "近日，一条“闪身步”的切片视频爆火网络，引发大量网友和明星的模仿和二创。据了解，该视频片段来自一条安徽花鼓灯舞蹈的教学视频，而“闪身步”是其中的一个基本功动作。",
+      "section": "cn-news",
+      "rankScore": 0.832565
+    },
+    {
+      "id": "e17241c1a2ea5280",
+      "title": "“百元一日聚”走红，戳中了什么",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704319.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-27T00:15:59.000Z",
+      "excerpt": "“百元一日聚”戳中了什么",
+      "section": "cn-news",
+      "rankScore": 0.621341
+    },
+    {
+      "id": "d7f4e4384b3b2b8e",
+      "title": "以军袭击加沙多地，致多人死伤",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMU3JJTzU5Z3U0U0RhNVlzU0huSDdqNmJ6ZnNabHZLd1RlOWNhOXRaWGtMTUNudlJiNGljR1VKUWdiSTBjRG02VTRoQTZ0dVNJZGJKbDBmcnA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-26T23:02:59.000Z",
+      "excerpt": "以军袭击加沙多地，致多人死伤 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.603091
+    },
+    {
+      "id": "71182fdc12ba1d83",
+      "title": "吕凡因交通意外去世",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zYVRENTY5M2RaMmM0SkVzZmZmLVR0Qnlqc3NCNldkTFNpVndjdGtrYS1YSGFIU0Z3dkV4Q3RrTDYtUTBKU19zUmdDM1lHYXhPdkhDaDJaZFZlY3R4d2c?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-26T22:25:00.000Z",
+      "excerpt": "吕凡因交通意外去世",
+      "section": "cn-news",
+      "rankScore": 0.593595
+    },
+    {
+      "id": "785e184d60385065",
+      "title": "20世纪60年代林野云南边陲写生作品展为民族“三交”留影",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704267.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-26T13:19:51.000Z",
+      "excerpt": "中新网上饶9月26日电 作为文化和旅游部2026年全国美术馆青年策展项目扶持计划提名项目，“情感的共生——20世纪60年代林野云南边陲写生作品展”日前亮相江西上饶美术馆。",
+      "section": "cn-news",
+      "rankScore": 0.558931
+    },
+    {
+      "id": "aec295aba0638fc3",
+      "title": "“闽式金秋 自在山海”金秋文旅推广活动举办",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hVGU1YnVCSktYWkkzQXI0ZS1WRy1sdFRTTkhFQjhmQ0hyek5KUjNoREVXcUFMLXplZWFxT3hXTFpmZk4yeWJNUDBGRTlSaUE1cVNZS29aNF9Mb1EyUWNzQjdoQ3BWa0NKOWUxazJ1aXctZw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-26T23:52:00.000Z",
+      "excerpt": "“闽式金秋 自在山海”金秋文旅推广活动举办 fujian.gov.cn 组图丨“闽式金秋 自在山海”文旅推广活动在武夷山启动 新华网 福州文旅金秋推广活动启幕 多重福利邀客来 央视网 “闽式金秋 自在山海”金秋文旅推广活动在武夷山启幕 人民网-福建频道 闽式生活：锚定美好生活新方位——人民日报社人民论坛调研组走进福建 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.546973
+    },
+    {
+      "id": "7aeeeae245087674",
+      "title": "Why Xi Jinping skipped the UN after his Trump summit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368923/why-xi-jinping-skipped-un-after-his-trump-summit?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-26T23:04:55.000Z",
+      "author": "Mark Magnier",
+      "excerpt": "Han Zheng, China’s vice-president, called on “major countries” to respect the sovereignty and security of Middle Eastern nations and bring about a two-state solution for the “Palestinian question” on Saturday at the UN General Assembly (UNGA) in an implicit dig at the US and Israel.",
+      "section": "cn-news",
+      "rankScore": 0.469446
+    },
+    {
+      "id": "23b2d738ff1f93c1",
+      "title": "港股收盘 | 恒指周线冲高回落失守25000点 AI应用股表现居前",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lM1RkNnBxUW53RFZYQ25YbjJQTWJ6RHJwSnFhaWt0VUxzMDRnajYzLW1XazIyR3ptVGZFNjhMTGNxT1h6RE1taVFrbEJkWkpLYkJjQnRmNVYzTmd2cUNiUDBSWE4wdw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-26T23:01:05.000Z",
+      "excerpt": "港股收盘 | 恒指周线冲高回落失守25000点 AI应用股表现居前 东方财富",
+      "section": "cn-news",
+      "rankScore": 0.468701
+    },
+    {
+      "id": "c02c14aa080a8bd9",
+      "title": "华西至江淮持续阴雨模式 一股较强冷空气月底将登场",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVMWZUSUZWd05nWEtiTWIta0Z0cURXcnJrUWxoX0hjLTA5STVyT0xvRmRxTWRuY3VRb3Fyd0I5V0NUWjFteWFRczRqWXNnUnVwS1J2YlhrZDlRU0tZ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-26T23:58:58.000Z",
+      "excerpt": "华西至江淮持续阴雨模式 一股较强冷空气月底将登场 天气网",
+      "section": "cn-news",
+      "rankScore": 0.411391
+    },
+    {
+      "id": "78ed988dee467c1b",
+      "title": "王毅談習近平訪美：拓展中美關係新定位",
+      "url": "https://www.cna.com.tw/news/acn/202609260186.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-26T12:28:52.000Z",
+      "excerpt": "（中央社台北26日電）中國外交部長王毅今天表示，中國國家主席習近平此次訪美的重要政治成果，是與美國總統川普進一步拓展了中美關係新定位的內涵，明確尊重、公平、對等的重要性，同意構建「基於尊重、公平、對等的中美建設性戰略穩定關係」。",
+      "section": "cn-news",
+      "rankScore": 0.395166
+    },
+    {
+      "id": "ee2acb36d7fb94e6",
+      "title": "儒家的交友课：“边界感”会让友谊变冷吗",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-27/10704311.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-26T22:48:07.000Z",
+      "excerpt": "如何交友是05后大学生非常关心的问题，汤同学说：“我想要亲密的友谊，但又害怕被过度侵入，边界感会让友谊变冷吗？边界划在哪里才不会伤害关系？我发现身边很多人都卡在这个困惑里。”儒家思想作为传统文化的主流，至今还影响着人们的生活和观念，不妨看看儒家是怎么看待这个问题的。",
+      "section": "cn-life",
+      "rankScore": 0.799165
+    },
+    {
+      "id": "924560db164b977c",
+      "title": "四川发生地震",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUEgtQjFvUGQ1Y2lSZVJKazdscjEzaGpyNHlWZGZoYUZadEoyTVBKNkdkTG5qZWZXbVFZMWNZZWlpVU40XzVnbTh0dTc1MmxOR3hqOE5XWWo3X3Awc2Y5WnRERUdhTzZ3aW1CUEZHRUJvWm16ZVdtS0JhVV9RUWhTREV6b0tkbEFEUmpGanpZbjJZX19VLUc3UlVfSF9HVEs3ZEY2T29heXNMVFNhcHdGMFlkbzZFTk5ncHRvX0xTTnFwMUJMTWJKQVNFRVQ4Y05CRUt0bkdfckc?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-27T00:48:41.000Z",
+      "excerpt": "四川发生地震 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.629516
+    },
+    {
+      "id": "fd73c2df624324f0",
+      "title": "【民生·温度】 大通县城关镇路灯有了“身份证” 精细管护守护乡村平安",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1drTXhVREV0NHZ4YktrdGMzU3JzQzZtX1ZnNWEzcV9ra1haTXByZUhmSEFUalNweHpHaFhWa2gzUUVnQ1g4cDlfTmU0Z2doT2hUUjRudkExWHVkVEU1ZnAwMFo0WkZtVkhKRGlpNDY3OWl4eHA5b2FRS0FrMkQtZXFBekI5Q2NDVWU5blYtMUNrbVVSTDhuYg?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-27T00:25:24.000Z",
+      "excerpt": "【民生·温度】 大通县城关镇路灯有了“身份证” 精细管护守护乡村平安 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.623695
+    },
+    {
+      "id": "16f16b0934b44f36",
+      "title": "辽宁省人民政府",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXhRV0VPUUd4a1JFRlRNQ0NiRm5EcjVZc1RXbEg2aFlLc0tKWWJHME5CX1NvR21jSWdEamxLZjRtX3lKV0VLM2twNGo0QUxVS3ZONEVzaHpWbVJTR2tZWHlQNzZsY0dSMFVVUF90TFNyRFBBX3ROZGpNQ2NYd01MVG1R?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-27T00:46:13.000Z",
+      "excerpt": "辽宁省人民政府 ln.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.559021
+    },
+    {
+      "id": "c3b22d9650222b8f",
+      "title": "严查重点场所 守护“双节”食品安全",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXhmQ3ZhNlJRS0ZVUlVmaVhzaHVEdWdWT2ktaXNpQjFhMFUxVTR5LVk1MWNkeGYxaEI5VEU5YktwUW1pS25hTWFadHhydU42clptRmpQNVhna1c0VkR1T2RTT1YtUUtUU2tTOW9uSm1XcGxnVTJEU3h5TGtLZXh3djJQNHZuQnFIeWVfUw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-27T00:39:33.000Z",
+      "excerpt": "严查重点场所 守护“双节”食品安全 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.487847
+    },
+    {
+      "id": "2a5629dff4377ae9",
+      "title": "破伤风研究全球趋势与知识结构（2005–2025年）：基于Web of Science核心合集与Scopus的文献计量分析",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xckVVQkM0dk5fVWtENGkwUFVxNmlkeVZSSlAwcXN0X3NjcHZBbnVnTERkWkMtdDBscTVaRUQ1SFoxbTQyTG11ZE1mN1c4MU82VFlnRHRPSjMxc2NZdVNURzhxRE82MFN3dEJOMw?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-27T00:21:17.000Z",
+      "excerpt": "破伤风研究全球趋势与知识结构（2005–2025年）：基于Web of Science核心合集与Scopus的文献计量分析 生物通",
+      "section": "cn-life",
+      "rankScore": 0.484295
+    },
+    {
+      "id": "bee251c495f1e886",
+      "title": "高考前被网暴的“百日誓师演讲”女孩，现在怎么样了？",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnBwam5FazlBeVB5QlhjSk55YUotbEctalR2ZnFJUER4RUl5NHdGaWU2WklhdzlSVXlOODA3dk1rdmdDclpWcm5tX0t3dUtNcDRuNzFMdnROZW1icmI4cV9kdUs2WExYOWZhVlpuVEtjeUtPSlJiRlREUjVUeGJWODR1Sm4wWWVU?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-27T00:28:28.000Z",
+      "excerpt": "高考前被网暴的“百日誓师演讲”女孩，现在怎么样了？ 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.416308
+    },
+    {
+      "id": "64eda98e52bc945d",
+      "title": "前瞻｜2026诺奖自然科学奖将揭晓",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wcU5GYWNEU0NrRHdkRmdZUTZId1NuNDh3OFJTOEh1U0syWFBROVJTWGFnenZjbmJKRjB3M0V6elQ5TERXR1p4b19OSURZZWhzYnpPcGltWjNWV2NBd3Z5bg?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-09-26T09:55:54.000Z",
+      "excerpt": "前瞻｜2026诺奖自然科学奖将揭晓 财新周刊",
+      "section": "cn-life",
+      "rankScore": 0.225733
+    }
+  ],
+  "warnings": []
+}
