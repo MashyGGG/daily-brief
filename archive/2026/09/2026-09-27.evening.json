@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-27",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-27T16:55:27.886Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 12,
+  "items": [
+    {
+      "id": "6e41ee48004735c6",
+      "title": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-27T16:55:27.886Z",
+      "score": 3060,
+      "excerpt": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "section": "tech",
+      "rankScore": 1.08
+    },
+    {
+      "id": "c8a69b29e0b51bf8",
+      "title": "Neovim changed the format of the undo files, breaking persistent undo",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-27T14:45:07.000Z",
+      "score": 250,
+      "author": "jandeboevrie",
+      "excerpt": "250 points · 199 comments · https://news.ycombinator.com/item?id=49867067",
+      "section": "tech",
+      "rankScore": 0.765515
+    },
+    {
+      "id": "5b4d525764c7b4dc",
+      "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
+      "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-27T14:47:13.000Z",
+      "author": "fabricati-diem.inform.social via atmosx",
+      "section": "tech",
+      "rankScore": 0.622956
+    },
+    {
+      "id": "c432ad0b4cf0c307",
+      "title": "GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management",
+      "url": "https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-27T06:46:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "Google has published benchmarks for GKE Pod snapshots, reporting up to 89% lower startup latency and a 70B model loading in 37 seconds. The feature checkpoints CPU and GPU memory through gVisor into Cloud Storage.",
+      "section": "tech",
+      "rankScore": 0.440512
+    },
+    {
+      "id": "ed09ed163bde6b4d",
+      "title": "Why OLPC’s $100 laptop never stood a chance",
+      "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+      "source": "verge",
+      "publishedAt": "2026-09-27T12:25:00.000Z",
+      "author": "Verge Staff",
+      "excerpt": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, […]",
+      "section": "tech",
+      "rankScore": 0.399845
+    },
+    {
+      "id": "650297670dc7c7e9",
+      "title": "How the Smithsonian became the latest front in Trump’s culture war",
+      "url": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+      "source": "ars-technica",
+      "publishedAt": "2026-09-27T11:00:12.000Z",
+      "author": "Alec MacGillis, ProPublica",
+      "excerpt": "The Smithsonian has faced withering pressure from the Trump administration.",
+      "section": "tech",
+      "rankScore": 0.371578
+    },
+    {
+      "id": "53a2c0593116cb41",
+      "title": "大家是有啥薅免费模型羊毛的路子吗",
+      "url": "https://www.v2ex.com/t/1245083",
+      "source": "v2ex",
+      "publishedAt": "2026-09-27T14:40:23.000Z",
+      "score": 4,
+      "author": "flyxl",
+      "excerpt": "想问一下各位 V 友有啥免费又好用的模型可以薅羊毛的么？ 最近这几个月一直在高强度开发 [DataZen](! https://github.com/flyxl/datazen)。之前一直用公司用 cursor 年费套餐，模型额度用完之后还可以免费用 composer 2.5 。现在 cursor 不让续订年费套餐，套餐大幅缩水，完全不够用来开发 DataZen ，只能自己想办法。刚开始用了几天的 DS 的 API ，不过账单实在是忍不了，于是各种找免费模型。",
+      "section": "cn-tech",
+      "rankScore": 0.752108
+    },
+    {
+      "id": "78ab76df86cdf93a",
+      "title": "Meta 屏蔽了巴西总统的 FB 主页以及竞选广告",
+      "url": "https://www.solidot.org/story?sid=85487",
+      "source": "solidot",
+      "publishedAt": "2026-09-27T11:13:33.000Z",
+      "excerpt": "距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后，Meta 恢复了主页，但卢拉的竞选团队认为此举损害了总统的竞选活动。Meta 是在本周三屏蔽了卢拉的主页，未给出任何理由。卢拉竞选团队投诉称，数字环境在政治辩论中发挥着核心作用，限制卢拉的广告账户损害了其开展竞选活动的能力。此举使卢拉与其他候选人相比处于不平等的地位。卢拉竞选团队以及其所属的劳工党要求 Meta 保留所有数字证据，考虑诉诸巴西最高选举法院。",
+      "section": "cn-tech",
+      "rankScore": 0.590902
+    },
+    {
+      "id": "8695120ee5db7f8e",
+      "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+      "url": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-27T10:00:00.000Z",
+      "author": "作者：Sergio De Simone",
+      "section": "cn-tech",
+      "rankScore": 0.50216
+    },
+    {
+      "id": "de9dbfaf96d0be75",
+      "title": "Cursor实测：不会编程也能写工具？3步上手体验``` 之前一直觉得写代码是程序员的事，直到最近试了Cursor——这",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wTy03TDFEeEhJR1lyMFRRODVjMWhtLTlTa1dFdmJzbktwZmUyUDlsYWFZZmZQRUZPZTVxRS1ZSWZIQ1lsdzk0OEtPQVlqeGtuNWV3LQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-27T14:27:35.000Z",
+      "excerpt": "Cursor实测：不会编程也能写工具？3步上手体验``` 之前一直觉得写代码是程序员的事，直到最近试了Cursor——这 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.440706
+    },
+    {
+      "id": "e7434b8ef341c3f6",
+      "title": "刚刚，Gemini 4 Pro全新曝光，实测碾压Opus 5.5",
+      "url": "https://www.36kr.com/p/4001348750512260",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-27T08:12:39.000Z",
+      "excerpt": "Gemini 4 Pro，又曝出新的检查点了！ 最近，两个全新检查点（内部代号「barium-b」或 Checkpoint 2）被开发者们发现了，实测后发现，Gemini 4 Pro强得可怕！ 有开发者直呼：「在爆肝 400 小时使用 Opus 5.5 和 GPT-6 之后，Gemini 4 Pro 依然让我头皮发麻！」 谷歌的新一代大杀器，展现出超强的3D 物理模拟能力、代码生成能力和长文本推理能力。 有开发者直呼：「在爆肝 400 小时使用 Opus 5.5 和 GPT-6 之后，Gemini 4 Pro 依然让我头皮发麻！」 而且，谷歌内部高层的态度也很鲜明。",
+      "section": "cn-tech",
+      "rankScore": 0.405937
+    },
+    {
+      "id": "8428333f05851f36",
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-27T07:47:57.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Citrix has not confirmed the flaws or published a fix.",
+      "section": "security",
+      "rankScore": 0.439279
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
