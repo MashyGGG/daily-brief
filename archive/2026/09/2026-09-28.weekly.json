@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-28",
+  "slot": "weekly",
+  "scheduleId": "weekly",
+  "generatedAt": "2026-09-28T01:43:00.859Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 168,
+  "itemCount": 20,
+  "items": [
+    {
+      "id": "e553bed73fd52c06",
+      "title": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-25T17:06:56.714Z",
+      "score": 1853,
+      "excerpt": "The open-source app everyone uses to manage agents at work",
+      "section": "tech",
+      "rankScore": 1.148571
+    },
+    {
+      "id": "0a8cdc3d796a208b",
+      "title": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-24T17:06:36.296Z",
+      "score": 1607,
+      "excerpt": "Hindsight: Agent Memory That Learns",
+      "section": "tech",
+      "rankScore": 1.148571
+    },
+    {
+      "id": "ead5ba3c5bacf349",
+      "title": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-23T16:53:08.236Z",
+      "score": 1140,
+      "excerpt": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "section": "tech",
+      "rankScore": 1.148571
+    },
+    {
+      "id": "6914eefdfc530fa4",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-25T00:30:26.815Z",
+      "score": 611,
+      "excerpt": "An agentic skills framework & software development methodology that works.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "ba75575660a0ee89",
+      "title": "google/ax",
+      "url": "https://github.com/google/ax",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-22T16:53:56.478Z",
+      "score": 2324,
+      "excerpt": "Google's open agentic orchestration runtime",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "2ad60d888e3b60e2",
+      "title": "GPT-6 Luna",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6-luna",
+      "source": "openai",
+      "publishedAt": "2026-09-23T00:23:47.797Z",
+      "section": "ai",
+      "rankScore": 0.875
+    },
+    {
+      "id": "ce6f00c24b6229b6",
+      "title": "GPT-6 Sol",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6-sol",
+      "source": "openai",
+      "publishedAt": "2026-09-23T00:23:47.797Z",
+      "section": "ai",
+      "rankScore": 0.875
+    },
+    {
+      "id": "977d55216f7de27e",
+      "title": "v2.1.280",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+      "source": "anthropic",
+      "publishedAt": "2026-09-22T16:38:14.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added Claude Opus 5.5 ( claude-opus-5-5 ), now the default Opus model — 1M context, $4/$20 per Mtok with $0.20/Mtok cache reads Added mouse support to more lists in fullscreen mode: the wheel scrolls the /skills list, and a skill's state options in /plugin can be clicked Added…",
+      "section": "ai",
+      "rankScore": 0.86565
+    },
+    {
+      "id": "404dfb666fe44c72",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-22T23:46:41.000Z",
+      "excerpt": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to get a good read on all of these new models, but here are my impressions so far.",
+      "section": "ai",
+      "rankScore": 0.827629
+    },
+    {
+      "id": "db9de8bc84c5cb40",
+      "title": "2026 in LLMs (so far)",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-27T23:54:15.000Z",
+      "excerpt": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026.",
+      "section": "ai",
+      "rankScore": 0.825818
+    },
+    {
+      "id": "64b6bf3056567bd7",
+      "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+      "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-24T17:06:36.296Z",
+      "excerpt": "ACL 2026杰出论文奖（Outstanding Paper）揭晓，全球共 18 篇入选，其中包含美团履约技术团队的1篇论文。本文介绍了一种专为 RLVR 设计的低秩训练方法，以及它在业务 Agentic RL 中的落地经验。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "036f14f75460f2ba",
+      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-24T00:26:38.447Z",
+      "excerpt": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "ce6c3679d2d9d761",
+      "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
+      "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-09-22T16:53:56.478Z",
+      "excerpt": "美团在 MTGR 基础上提出统一推荐基座大模型 MTFM，首次实现外卖多个主要业务的统一精排模型。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "53a2c0593116cb41",
+      "title": "大家是有啥薅免费模型羊毛的路子吗",
+      "url": "https://www.v2ex.com/t/1245083",
+      "source": "v2ex",
+      "publishedAt": "2026-09-27T14:40:23.000Z",
+      "score": 4,
+      "author": "flyxl",
+      "excerpt": "想问一下各位 V 友有啥免费又好用的模型可以薅羊毛的么？ 最近这几个月一直在高强度开发 [DataZen](! https://github.com/flyxl/datazen)。之前一直用公司用 cursor 年费套餐，模型额度用完之后还可以免费用 composer 2.5 。现在 cursor 不让续订年费套餐，套餐大幅缩水，完全不够用来开发 DataZen ，只能自己想办法。刚开始用了几天的 DS 的 API ，不过账单实在是忍不了，于是各种找免费模型。",
+      "section": "cn-tech",
+      "rankScore": 0.752108
+    },
+    {
+      "id": "6f4928c4c56073c6",
+      "title": "阿里云在抖音直播卖 plan 割韭菜",
+      "url": "https://www.v2ex.com/t/1244327",
+      "source": "v2ex",
+      "publishedAt": "2026-09-23T11:46:03.000Z",
+      "score": 11,
+      "author": "king888",
+      "excerpt": "看不惯，直接举报一手，明显就是骗不懂得新人韭菜，实话说卖一份就是骗一个人 ds 价格比官网还贵，问主播 2000 积分有多少 token ，能用多久都不回答，选择性忽略 就是不停得重复复读机强调价格怎么划算有多少积分，贻笑大方。 -- 刚又去看了下好像给我举报封禁了，解气！",
+      "section": "cn-tech",
+      "rankScore": 0.741391
+    },
+    {
+      "id": "77a3ead691306674",
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "source": "krebs",
+      "publishedAt": "2026-09-25T21:44:40.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
+      "section": "security",
+      "rankScore": 0.718069
+    },
+    {
+      "id": "46e63d4f451d7ebe",
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-23T16:06:41.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.",
+      "section": "security",
+      "rankScore": 0.677879
+    },
+    {
+      "id": "53ea27f6e0a61006",
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "url": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-24T15:27:32.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.",
+      "section": "security",
+      "rankScore": 0.652823
+    },
+    {
+      "id": "e4735e00f853caff",
+      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+      "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-25T14:44:41.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign.",
+      "section": "security",
+      "rankScore": 0.632256
+    },
+    {
+      "id": "fda1ddbd558310a8",
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-23T14:17:58.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data.",
+      "section": "security",
+      "rankScore": 0.626109
+    }
+  ],
+  "warnings": []
+}
