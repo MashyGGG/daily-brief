@@ -1,0 +1,195 @@
+{
+  "date": "2026-09-28",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-28T19:39:15.440Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "54a605827ea8e443",
+      "title": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-28T19:39:15.440Z",
+      "score": 316,
+      "excerpt": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "section": "tech",
+      "rankScore": 1.08
+    },
+    {
+      "id": "cb6430afb8c28db7",
+      "title": "Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "source": "hn-front",
+      "publishedAt": "2026-09-28T17:58:11.000Z",
+      "score": 277,
+      "author": "D2OQZG8l5BI1S06",
+      "excerpt": "277 points · 180 comments · https://news.ycombinator.com/item?id=49881850",
+      "section": "tech",
+      "rankScore": 1.003782
+    },
+    {
+      "id": "caf76afdd2dfda23",
+      "title": "Claude Sonnet 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-28T18:03:57.000Z",
+      "author": "Allison",
+      "excerpt": "Claude Sonnet 5.5, Anthropic’s newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early…",
+      "section": "tech",
+      "rankScore": 0.654616
+    },
+    {
+      "id": "0c514ebb33ca2486",
+      "title": "AI Agents Can Think. Now They Can Pay.",
+      "url": "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-28T15:31:11.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "I attended a MPP event at Stripe HQ, where I spoke with Emily Sands and Matt Schulman from Stripe, along with Brendan Ryan from Tempo.",
+      "section": "tech",
+      "rankScore": 0.640056
+    },
+    {
+      "id": "326c6a9534d39062",
+      "title": "What Would A Serious AI Product Look Like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "source": "lobsters",
+      "publishedAt": "2026-09-28T17:01:01.000Z",
+      "author": "blog.glyph.im via Corbin",
+      "section": "tech",
+      "rankScore": 0.609031
+    },
+    {
+      "id": "2a050a73a56365b8",
+      "title": "Is Your “Human-in-the-Loop” Actually Slowing You Down? Here’s What We Learned",
+      "url": "https://stackoverflow.blog/2026/09/28/is-your-human-in-the-loop-actually-slowing-you-down-here-s-what-we-learned/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-09-28T16:41:00.000Z",
+      "author": "Kavin Xavier",
+      "section": "tech",
+      "rankScore": 0.58436
+    },
+    {
+      "id": "cdb453c4198f6397",
+      "title": "v2.1.284",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.284",
+      "source": "anthropic",
+      "publishedAt": "2026-09-28T18:02:03.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added Claude Sonnet 5.5 ( claude-sonnet-5-5 ), now the default Sonnet model on the Anthropic API — 1M context, $2/$10 per Mtok with $0.20/Mtok cache reads Added a \"Yes, but ask again next time\" answer to auto mode's prompt before a read outside the working directories, so you can…",
+      "section": "ai",
+      "rankScore": 0.817138
+    },
+    {
+      "id": "7ac7b68099db654b",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "google-ai",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "excerpt": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "section": "ai",
+      "rankScore": 0.681306
+    },
+    {
+      "id": "0e72cecdb1e0772a",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "huggingface",
+      "publishedAt": "2026-09-28T09:44:05.000Z",
+      "section": "ai",
+      "rankScore": 0.468657
+    },
+    {
+      "id": "7a425138e15f13f5",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "openai",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "excerpt": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "section": "ai",
+      "rankScore": 0.423061
+    },
+    {
+      "id": "8062f8f0aec69129",
+      "title": "Muse.ai 还可以通过 Airtap 注册！",
+      "url": "https://www.v2ex.com/t/1245383",
+      "source": "v2ex",
+      "publishedAt": "2026-09-28T17:09:20.000Z",
+      "score": 7,
+      "author": "APEC",
+      "excerpt": "刚刚注册成功，特地过来分享一下～ 邀请码换 10 亿 token： 4JSB5Q 方法如下： 1. 打开 http://airtap.ai 2. 一键登录账号 3. 发送提示词“访问 http://muse.ai ，使用 xx 邮箱注册” 4. 成功率几乎 100% 验证年龄的方式有以下两种： 1 ）信用卡（实测国区 mastercard 卡可以） 2 ） Facebook/ Instagram 账号关联验证",
+      "section": "cn-tech",
+      "rankScore": 0.76211
+    },
+    {
+      "id": "74c86a9a2b05f463",
+      "title": "Spring新闻汇总：Boot、Framework、Data、Security、Modulith、Batch的首个里程碑发布",
+      "url": "https://www.infoq.cn/article/WG5UVlDS5e3K2iMTcUYj?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-28T19:19:00.000Z",
+      "author": "作者：Michael Redlich",
+      "section": "cn-tech",
+      "rankScore": 0.690354
+    },
+    {
+      "id": "5ca630801551d384",
+      "title": "Starship 完成首次轨道发射",
+      "url": "https://www.solidot.org/story?sid=85497",
+      "source": "solidot",
+      "publishedAt": "2026-09-28T16:16:29.000Z",
+      "excerpt": "SpaceX 于 9 月 28 日 8:15 a.m. EDT 在德州的 Starbase 发射了其重型火箭 Starship，执行第 14 次飞行任务，也是首次轨道发射，将 26 颗 Starlink V3 卫星送到轨道上。这次发射仍然是测试飞行，SpaceX 未尝试回收火箭，上面级 Ship 41 执行了减速点火，溅落在北太平洋海上。Starship 设计能将 150 吨有效载荷送到近地轨道上，将 100 吨有效载荷送到地球同步转移轨道上。Starlink V3 重 1.9 吨，相比下 V2 只有 575 kg。",
+      "section": "cn-tech",
+      "rankScore": 0.663785
+    },
+    {
+      "id": "bf561049b9c4bf9c",
+      "title": "单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发",
+      "url": "https://www.36kr.com/p/4001258625994626",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-28T13:30:50.000Z",
+      "author": "兰芥",
+      "excerpt": "在一级市场，AI应用公司从香饽饽变成烫手山芋不过一年的时间。但在这一低迷的气氛中，仍有AI应用公司在拿钱。 36氪获悉，智灵新境近期完成了数千万元人民币天使轮融资，投资方为华策影视。公司下一轮融资也在推进中，预计年内敲定，宸睿资本担任财务顾问。 据公司创始人费元华介绍，此次融资更多是为了两家业务的战略协同——未来将在人才培养、技术研发、内容共创方面展开合作。 智灵新境是一家极其符合AI时代企业画像的公司——包括创始人在内，团队规模不过十余人，全部具备技术背景。没有明确分工，每个成员都与多个Agent分身一起处理工作，借助多个AI Agent协同工作，团队大幅提升了生产效率。”",
+      "section": "cn-tech",
+      "rankScore": 0.472104
+    },
+    {
+      "id": "bc3f986b4f77dc96",
+      "title": "Ubuntu 2604 开启 Root 用户 SSH 远程密码登录配置指南",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13YUtyUnd2WE82QW9mVUFQQm1lRnRSWGdTSktJcU9kUE9UaE5oblBPUWpBLUxVRW0zVVA3ZnFad3A5VU8zZERlOVN2SXhGdGhZNm96NQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-28T15:35:24.000Z",
+      "excerpt": "Ubuntu 2604 开启 Root 用户 SSH 远程密码登录配置指南 juejin.cn",
+      "section": "cn-tech",
+      "rankScore": 0.408714
+    },
+    {
+      "id": "3c1b566508df833d",
+      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-28T17:42:18.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.",
+      "section": "security",
+      "rankScore": 0.644306
+    },
+    {
+      "id": "5a3ad4533f7fe83f",
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "source": "krebs",
+      "publishedAt": "2026-09-28T15:08:57.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters.",
+      "section": "security",
+      "rankScore": 0.62841
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
