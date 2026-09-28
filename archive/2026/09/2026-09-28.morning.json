@@ -1,0 +1,145 @@
+{
+  "date": "2026-09-28",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-28T00:36:47.839Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 12,
+  "items": [
+    {
+      "id": "c9703d5d1ea5d710",
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-27T20:12:54.000Z",
+      "score": 675,
+      "author": "sancho-panza",
+      "excerpt": "675 points · 363 comments · https://news.ycombinator.com/item?id=49870367",
+      "section": "tech",
+      "rankScore": 1.088034
+    },
+    {
+      "id": "9917ff6307e2442c",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "source": "hn-front",
+      "publishedAt": "2026-09-27T17:31:53.000Z",
+      "score": 329,
+      "author": "gmays",
+      "excerpt": "329 points · 173 comments · https://news.ycombinator.com/item?id=49868830",
+      "section": "tech",
+      "rankScore": 0.842362
+    },
+    {
+      "id": "45ee7275a55808bd",
+      "title": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-28T00:36:47.839Z",
+      "score": 114,
+      "excerpt": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "section": "tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "08bf187fee5fce3b",
+      "title": "Syncing Rust GCC backend or how to test Murphy's law",
+      "url": "https://blog.guillaume-gomez.fr/articles/2026-09-22+Syncing+Rust+GCC+backend+or+how+to+test+Murphy%27s+law",
+      "source": "lobsters",
+      "publishedAt": "2026-09-28T00:10:55.000Z",
+      "author": "blog.guillaume-gomez.fr via fanf",
+      "section": "tech",
+      "rankScore": 0.675491
+    },
+    {
+      "id": "b5e186d960d9380c",
+      "title": "Cloudflare’s 2026 Annual Founders’ Letter",
+      "url": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
+      "source": "cloudflare",
+      "publishedAt": "2026-09-27T17:00:00.000Z",
+      "excerpt": "The Internet is changing more today than at any point since Cloudflare launched back on September 27, 2010. As automated traffic surpasses human activity, we reflect on the rise of AI agents, new creators, and how we can help build a fair, sustainable future for the web.",
+      "section": "tech",
+      "rankScore": 0.515801
+    },
+    {
+      "id": "5bd23d4cff4cb813",
+      "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+      "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+      "source": "verge",
+      "publishedAt": "2026-09-27T21:59:57.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not […]",
+      "section": "tech",
+      "rankScore": 0.459502
+    },
+    {
+      "id": "db9de8bc84c5cb40",
+      "title": "2026 in LLMs (so far)",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-27T23:54:15.000Z",
+      "excerpt": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026.",
+      "section": "ai",
+      "rankScore": 0.825818
+    },
+    {
+      "id": "c1538059d5d508b2",
+      "title": "Grok Bot、Muse刚火，ChatGPT就坐不住了",
+      "url": "https://www.36kr.com/p/4002311532728454",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-28T00:35:30.000Z",
+      "author": "人人都是产品经理",
+      "excerpt": "今年 AI 圈有个挺离谱的现象： AI 产品进化的速度，已经快过用户学习怎么用它的速度了。 年初OpenClaw火遍全球的时候，大家才刚开始研究 Agent、Skill、MCP，琢磨怎么给自己“养一只龙虾”。1 月底 OpenClaw 正式定名时，这个项目已经突破 10 万 GitHub Star，一周吸引了200 万访问。后来这股“养龙虾”的风很快吹到国内，腾讯 WorkBuddy 等一批桌面 Agent 跟着爆发，互联网里一度人均养虾。 很多普通用户估计连龙虾怎么装都还没搞明白，行业已经开始往下一阶段狂奔。",
+      "section": "cn-tech",
+      "rankScore": 0.629676
+    },
+    {
+      "id": "f3d45db87a33bc70",
+      "title": "派早报：OpenAI 称与苹果合作效果不佳",
+      "url": "https://sspai.com/post/115079",
+      "source": "sspai",
+      "publishedAt": "2026-09-27T23:03:45.000Z",
+      "author": "PlatyHsu",
+      "excerpt": "OpenAI 称与苹果合作效果不佳 iPhone 4「天线门」媒体问答录像时隔十六年现身 F-Droid 2.0 发布 三星冰箱固件升级后罢工，影响韩国用户过中秋 Excel 单元格将支持数组 微软不再使用 Copilot + PC 品牌 看看就行的简讯 少数派的近期动态 你可能错过的好文章",
+      "section": "cn-tech",
+      "rankScore": 0.539323
+    },
+    {
+      "id": "7ad177dab17f0dc8",
+      "title": "看了影视飓风 Tim 的创业视频，聊聊我的看法",
+      "url": "https://www.v2ex.com/t/1245104",
+      "source": "v2ex",
+      "publishedAt": "2026-09-27T18:17:56.000Z",
+      "score": 13,
+      "author": "LeBronJames1996",
+      "excerpt": "看了影视飓风 Tim 发了一个讲自己创业的视频，他给年轻人的建议是「先发内容，再考虑商业模式」。 之前上班也积累了不少，今年没上班了，收入还算稳定，聊聊我的看法 1 、在没有产品的时候 找对标或者先发内容都是一种找方向的办法；在没有方向的时候，要么对标别人的路径去干，要么自己走走看摸索摸索。 我的看法：只要把事干了，成为一个有价值的人，给别人带来价值，都能找到自己的道路。 2 、在有产品的时候 对于没有创作经验的人来说，缺乏产品是个枷锁 —— 因为不知道自己该发什么。",
+      "section": "cn-tech",
+      "rankScore": 0.535284
+    },
+    {
+      "id": "b3df6c2b24cd2e92",
+      "title": "Bitget 被盗走价值 3.875 亿美元加密货币",
+      "url": "https://www.solidot.org/story?sid=85486",
+      "source": "solidot",
+      "publishedAt": "2026-09-27T10:45:23.000Z",
+      "excerpt": "Bitget 交易所被盗走价值 3.875 亿美元的加密货币。攻击发生在 9 月 24 日 18:31 UTC。区块链情报公司 Arkham 发表报告称，从 18:58 至 19:16 之间的 18 分钟内，价值 2.28 亿美元的数字资产从 Bitget 钱包中转出。价值 1.53 亿美元的 XRP 从一个被识别为​​ Bitget 冷钱包的地址中转出，此外还有价值 6620 万美元的 ETH、3480 万美元的 USDT、1290 万美元的 USDC 以及 1280 万美元的 Tether Gold on Ethereum 等。",
+      "section": "cn-tech",
+      "rankScore": 0.515957
+    },
+    {
+      "id": "64bfe745a385f920",
+      "title": "2026年9月27日 AI重要新闻：OpenAI因Agent逃逸暂停前沿训练、AI用短链突破HuggingFace、DeepSeek发布DSec、Opus 5.5验证四倍差距- 掘金",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdjdaVm9sSWZpT0k0Y3cySUd0aWFWUXA0cjZDc182Tk9oQTdOaUNORkdWWnVNYVhXdkNpQWlCNWt3aDJLM3laT2xRajR1TmFzWEpaUQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-27T22:13:46.000Z",
+      "excerpt": "2026年9月27日 AI重要新闻：OpenAI因Agent逃逸暂停前沿训练、AI用短链突破HuggingFace、DeepSeek发布DSec、Opus 5.5验证四倍差距- 掘金 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.462188
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
