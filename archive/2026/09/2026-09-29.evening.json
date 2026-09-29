@@ -1,0 +1,194 @@
+{
+  "date": "2026-09-29",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-29T18:03:25.108Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "5a454f60a47ee60e",
+      "title": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-29T18:03:25.108Z",
+      "score": 978,
+      "excerpt": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "89afdec2903770ae",
+      "title": "You are no longer invited to dinner",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "source": "hn-front",
+      "publishedAt": "2026-09-29T11:14:45.000Z",
+      "score": 577,
+      "author": "barry-cotter",
+      "excerpt": "577 points · 504 comments · https://news.ycombinator.com/item?id=49891295",
+      "section": "tech",
+      "rankScore": 0.940761
+    },
+    {
+      "id": "aec89abf4918e73e",
+      "title": "Why has Shopify dropped React Native?",
+      "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-09-29T15:53:19.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "It’s only been a year since the e-commerce platform declared it was very happy with React Native, but now Shopify is dumping it – and the reason, unsurprisingly, is AI",
+      "section": "tech",
+      "rankScore": 0.701851
+    },
+    {
+      "id": "4e1360ff8a481285",
+      "title": "Bliki: Sensible Default",
+      "url": "https://martinfowler.com/bliki/SensibleDefault.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-09-29T13:43:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "A Sensible Default is a practice that, absent some overriding context, should be used when carrying out a certain kind of task. In software development such sensible defaults might include things like “use version control”, “separate UI logic from domain logic”, “automate deployment pipelines”.…",
+      "section": "tech",
+      "rankScore": 0.691189
+    },
+    {
+      "id": "fb2e714fc8b64c05",
+      "title": "Why Do LLMs Lie?",
+      "url": "https://blog.bytebytego.com/p/why-do-llms-lie",
+      "source": "bytebytego",
+      "publishedAt": "2026-09-29T15:31:36.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we will look at why this problem of hallucinations happens with LLMs and the techniques that can help make LLMs more dependable for answering.",
+      "section": "tech",
+      "rankScore": 0.690476
+    },
+    {
+      "id": "565e5e4d7cbee522",
+      "title": "GPT-6.1 Sol in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-29T17:02:27.000Z",
+      "author": "Allison",
+      "excerpt": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep…",
+      "section": "tech",
+      "rankScore": 0.670967
+    },
+    {
+      "id": "3d70a62bfe388703",
+      "title": "GPT-6.1 Sol",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+      "source": "openai",
+      "publishedAt": "2026-09-29T18:03:25.108Z",
+      "section": "ai",
+      "rankScore": 0.875
+    },
+    {
+      "id": "1e8286d2a3e0389b",
+      "title": "OpenAI DevDay 2026 live blog",
+      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-29T15:55:13.000Z",
+      "excerpt": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai , openai , generative-ai , llms , coding-agents , live-blog",
+      "section": "ai",
+      "rankScore": 0.766742
+    },
+    {
+      "id": "888f71a4101cd690",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "huggingface",
+      "publishedAt": "2026-09-29T15:30:38.000Z",
+      "section": "ai",
+      "rankScore": 0.705651
+    },
+    {
+      "id": "2c6e889b003bd99e",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "huggingface",
+      "publishedAt": "2026-09-29T13:07:00.000Z",
+      "section": "ai",
+      "rankScore": 0.628704
+    },
+    {
+      "id": "b72bfb69e57567b9",
+      "title": "这里技术向居多，有没有发现很多客户根本不懂技术，却能大把赚钱？",
+      "url": "https://www.v2ex.com/t/1245626",
+      "source": "v2ex",
+      "publishedAt": "2026-09-29T12:34:09.000Z",
+      "score": 23,
+      "author": "kav2",
+      "excerpt": "我经常向各种等级的老板推销 SAAS ，总会有一种油然而生的感觉，WTF 他为什么这都不懂还有顾客花大把钱买他的东西？",
+      "section": "cn-tech",
+      "rankScore": 0.704885
+    },
+    {
+      "id": "3a7ddf494aa4e394",
+      "title": "上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/ftFzzJ6jgxha7grHHLjf?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-29T18:00:00.000Z",
+      "author": "Florian Delval",
+      "section": "cn-tech",
+      "rankScore": 0.698372
+    },
+    {
+      "id": "25c9cb335c306c5d",
+      "title": "八分之一癌症病例由感染引起",
+      "url": "https://www.solidot.org/story?sid=85507",
+      "source": "solidot",
+      "publishedAt": "2026-09-29T15:25:25.000Z",
+      "excerpt": "根据本周发表在《The Lancet Oncology》期刊上的一项研究，全世界八分之一癌症病例由感染引起。研究发现，2024 年感染性病原体相关的新癌症病例有 230 万例，占到了总新癌症病例的 12%。其中幽门螺杆菌会增加胃癌风险，这种病菌导致了 76 万例新癌症病例，数量最多，主要集中在东亚地区。其次是人乳头瘤病毒（HPV）导致了近 75 万例新癌症病例，撒哈拉以南非洲地区最多，这种病毒与宫颈癌、与肛门癌、外阴癌、阴道癌、阴茎癌等相关。乙肝和丙肝病毒则与肝癌病例相关。Epstein-Barr 病毒导致了 26 万例癌症病例，该病毒会导致鼻咽癌、胃癌以及霍奇金淋巴瘤。",
+      "section": "cn-tech",
+      "rankScore": 0.687237
+    },
+    {
+      "id": "2ffe240479f86da2",
+      "title": "Manus 回来了，可Agent 的战场已经挤满对手",
+      "url": "https://www.36kr.com/p/4004527155171460",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-29T14:01:34.000Z",
+      "author": "李炤锋",
+      "excerpt": "文｜李炤锋 编辑 ｜ 张雨忻 2025 年3月6日，Manus 上线那天，办公室里一群工程师看着一张 Manus生成的NBA 球员象限图，觉得十分亮眼——图上排着球员头像，基于得分和投篮次数分布。创始人肖弘后来回忆，让他们意外的不是象限图有多难画，而是过去得由人一步步完成的活，现在只需交代要求，Agent 就能一路做到交付。 一年后，Manus 团队把这段回忆写进公开信，肖弘在这封信的开头，用一句话概括最初的念头：“AI 不仅应该思考，还应该行动。” Manus生成的分析图 昨天，恢复独立运营的 Manus 发布了 2.0 版本，同时推出面向个人事务的独立应用 Cue。",
+      "section": "cn-tech",
+      "rankScore": 0.526349
+    },
+    {
+      "id": "32e2033c21b36275",
+      "title": "Goodlink 支持同时运行多个Local端和Remote端 全网最简单、最快、零成本的内网穿透",
+      "url": "https://www.oschina.net/news/502808",
+      "source": "oschina",
+      "publishedAt": "2026-09-29T10:07:38.000Z",
+      "excerpt": "外出办公, 对比市面上的远程工具, 无论画质、软件适配, 都不如 windows 自带的远程桌面, 但外出如何使用 windows远程桌面？ 是否可以无需远程桌面, 直接访问公司的内网 WEB, GIT, SSH 等？ feat: 默认需要管理员权限运行 feat: 支持多个Local端或者Remote端同时运行在一台主机上 feat(ui): 启动服务时校验互斥，避免与其...",
+      "section": "cn-tech",
+      "rankScore": 0.426092
+    },
+    {
+      "id": "b6de3d90c7957b69",
+      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-29T17:00:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.",
+      "section": "security",
+      "rankScore": 0.669801
+    },
+    {
+      "id": "23cc43a7c0cd2191",
+      "title": "VIVOTEK Camera Firmware",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-03",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of this vulnerability may allow attackers to achieve remote command execution on affected devices, potentially with root privileges, leading to full compromise of the camera system.",
+      "section": "security",
+      "rankScore": 0.526944
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
