@@ -1,0 +1,168 @@
+{
+  "date": "2026-09-29",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-29T01:51:18.853Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "1cec6cf60b134eb0",
+      "title": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-28T23:40:05.000Z",
+      "score": 598,
+      "author": "KKKKhazix",
+      "excerpt": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 — ★598 · TypeScript",
+      "section": "tech",
+      "rankScore": 1.036256
+    },
+    {
+      "id": "35fef9b2729b722d",
+      "title": "Windows 11½",
+      "url": "https://definitelynotwindows.com/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-28T17:51:24.000Z",
+      "score": 430,
+      "author": "jjbinx007",
+      "excerpt": "430 points · 132 comments · https://news.ycombinator.com/item?id=49881747",
+      "section": "tech",
+      "rankScore": 1.000029
+    },
+    {
+      "id": "edca9fb634045f90",
+      "title": "Thoughts on Flash (2010)",
+      "url": "https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-28T21:43:15.000Z",
+      "author": "web.archive.org via janus",
+      "section": "tech",
+      "rankScore": 0.615316
+    },
+    {
+      "id": "a67a51cb70961489",
+      "title": "Self-hosted runner version enforcement date has moved",
+      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-28T19:22:46.000Z",
+      "author": "Allison",
+      "excerpt": "The enforcement date for GitHub Actions minimum version requirements for self-hosted runners on GitHub Enterprise Cloud has changed. The change ships Monday, September 28, 2026, and full enforcement now begins…",
+      "section": "tech",
+      "rankScore": 0.59207
+    },
+    {
+      "id": "5485da5d57819c92",
+      "title": "Why model versioning is not enough for production AI",
+      "url": "https://stackoverflow.blog/2026/09/28/why-model-versioning-is-not-enough-for-production-ai/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-09-28T18:24:12.000Z",
+      "author": "Silu Panda",
+      "excerpt": "An MLOps workflow for evaluating deploying and rolling back AI applications",
+      "section": "tech",
+      "rankScore": 0.547012
+    },
+    {
+      "id": "be414154fe4064bb",
+      "title": "Meta’s ZGateway Cuts ZippyDB Connections 19x While Handling 1B+ Operations per Second",
+      "url": "https://www.infoq.com/news/2026/09/meta-zgateway-zippydb-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-28T13:55:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Meta has introduced ZGateway, a stateless proxy for ZippyDB that centralizes connection management, traffic routing, caching, load balancing, and admission control.",
+      "section": "tech",
+      "rankScore": 0.538601
+    },
+    {
+      "id": "245e6daafb087cbe",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "openai",
+      "publishedAt": "2026-09-29T01:00:00.000Z",
+      "excerpt": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "section": "ai",
+      "rankScore": 0.857183
+    },
+    {
+      "id": "57fb778ce6ddd398",
+      "title": "做一个 AI 辅助写邮件的邮件客户端怎么样？",
+      "url": "https://www.v2ex.com/t/1245396",
+      "source": "v2ex",
+      "publishedAt": "2026-09-28T23:53:15.000Z",
+      "score": 9,
+      "author": "jedeft",
+      "excerpt": "可以根据资料写邮件/回邮件 可以多语言翻译 可以 AI 自动分类 大佬们，有钱途没？",
+      "section": "cn-tech",
+      "rankScore": 0.836734
+    },
+    {
+      "id": "323b2d35b486b1dd",
+      "title": "AI断粮危机：粮仓满了，米没淘",
+      "url": "https://www.36kr.com/p/4003741514764425",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-29T01:31:55.000Z",
+      "author": "王建峰",
+      "excerpt": "2025 年初，马斯克在一场直播里说了句让整个行业打寒颤的话：我们基本上已经耗尽了人类知识的累积总和。 同一年，Ilya Sutskever——那个亲手把 Scaling Law 推上神坛的人——转头说：2010 年代是规模扩张的时代，现在我们回到了惊奇与发现的时代。每个人都在找下一个突破点。 到了 2026 年，这场争论有了个统一的名词： 数据墙 。 中国信通院总工程师何宝宏在 5 月的一次大会上讲得更直白：互联网上的模型预训练已经撞上了数据墙，公域数据被消耗殆尽，几乎找不到新的数据源来有效拉升模型能力。 听起来很吓人。",
+      "section": "cn-tech",
+      "rankScore": 0.625151
+    },
+    {
+      "id": "fcde6a93cdc7c803",
+      "title": "超越相关性：面向企业个性化场景的治理优先架构",
+      "url": "https://www.infoq.cn/article/LZLgofWubQu4DfjO4q74?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-28T21:20:00.000Z",
+      "author": "作者：Jerald Selvaraj",
+      "section": "cn-tech",
+      "rankScore": 0.624635
+    },
+    {
+      "id": "0b5580c7859b3b7f",
+      "title": "在汽车旅馆里研究生命的起源",
+      "url": "https://www.solidot.org/story?sid=85496",
+      "source": "solidot",
+      "publishedAt": "2026-09-28T15:57:19.000Z",
+      "excerpt": "Julia Van Etten 博士热衷于坐在沙发上用一台 300 美元的显微镜观察水滴，寻找其中的生命痕迹。2021 年她还是罗格斯大学的一名研究生时在位于北卡罗来纳州的家中度假。由于连日阴雨她被困在室内，母亲知道什么能让她振作起来，建议去室外采集些样本。她不抱什么希望，随便找个了公路旁的码头收集水样。但当她对其进行观察时，她震惊的发现了一种光合变形虫类原生生物 Paulinella。地球上所有能进行光合作用的植物都有色素体，色素体的起源可以追溯到 15 亿年前的一次事件，一个单细胞生物与一个光合细菌发生了融合，将其转化为一种产生能量的结构单元——科学家称之为细胞器。",
+      "section": "cn-tech",
+      "rankScore": 0.588501
+    },
+    {
+      "id": "ebc92adf968d1cd5",
+      "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
+      "url": "https://sspai.com/post/115134",
+      "source": "sspai",
+      "publishedAt": "2026-09-29T00:09:05.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ...",
+      "section": "cn-tech",
+      "rankScore": 0.537282
+    },
+    {
+      "id": "dcdc4a61fd3c66d8",
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-28T18:35:42.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis.",
+      "section": "security",
+      "rankScore": 0.578996
+    },
+    {
+      "id": "3172b8eb0a3a2fd4",
+      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-28T17:38:33.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has traced nearly 100 deployments of that console since April 2026.",
+      "section": "security",
+      "rankScore": 0.563121
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
