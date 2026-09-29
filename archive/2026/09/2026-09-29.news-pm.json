@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-29",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-09-29T16:52:32.644Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "16079ae271cbd545",
+      "title": "研究和专家指与美国对手相似 中国的AI智能体也欺骗、规避限制及掩盖失败",
+      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260929-%E7%A0%94%E7%A9%B6%E5%92%8C%E4%B8%93%E5%AE%B6%E6%8C%87%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%89%8B%E7%9B%B8%E4%BC%BC-%E4%B8%AD%E5%9B%BD%E7%9A%84ai%E6%99%BA%E8%83%BD%E4%BD%93%E4%B9%9F%E6%AC%BA%E9%AA%97-%E8%A7%84%E9%81%BF%E9%99%90%E5%88%B6%E5%8F%8A%E6%8E%A9%E7%9B%96%E5%A4%B1%E8%B4%A5",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-29T15:52:22.000Z",
+      "author": "弗林",
+      "excerpt": "据路透社报导，研究文件和专家指出，由中国技术驱动的人工智能（AI）智能体已学会欺骗、规避限制及掩盖失败；这些自主人工智能所表现出的特性，正是此前引发全球对美国人工智能模型担忧的同类问题。",
+      "section": "news",
+      "rankScore": 0.66914
+    },
+    {
+      "id": "62bd202e3e07b418",
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-29T16:09:26.000Z",
+      "excerpt": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+      "section": "news",
+      "rankScore": 0.610103
+    },
+    {
+      "id": "c1511a7507a6efdc",
+      "title": "Man City guilty of all serious financial breach charges: Premier League",
+      "url": "https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-29T16:30:50.000Z",
+      "excerpt": "Manchester City say they are 'disappointed and surprised' by the verdict and will appeal.",
+      "section": "news",
+      "rankScore": 0.551093
+    },
+    {
+      "id": "665d8c41ac74e99a",
+      "title": "The Rural English Villages Around RAF Fairford at the Center of a Possible Terrorist Plot",
+      "url": "https://www.nytimes.com/2026/09/28/world/europe/uk-fairford-base-terrorist-plot.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-29T16:29:49.000Z",
+      "author": "Megan Specia",
+      "excerpt": "The quiet rural area around R.A.F. Fairford, where U.S. bombers fly to Iran, was thrust into the spotlight after the authorities said they were investigating a possible terrorist plot targeting the base.",
+      "section": "news",
+      "rankScore": 0.550676
+    },
+    {
+      "id": "cac86fa0774a79e9",
+      "title": "Burnham says he would put PR in Labour manifesto and scrap triple lock to fund social care – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-29T16:21:14.000Z",
+      "author": "Andrew Sparrow",
+      "excerpt": "PM, in first speech to party conference as leader, insists his plans are a ‘good deal’ for older people Burnham to signal willingness to look at scrapping pension triple lock to fund social care Angela Rayner , the housing secretary, has apparently confirmed that Andy Burnham will float the…",
+      "section": "news",
+      "rankScore": 0.547155
+    },
+    {
+      "id": "34819eceb4fde8b3",
+      "title": "Trump to meet tech chiefs including Amodei, Musk and Zuckerberg over AI safety",
+      "url": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-29T16:51:27.000Z",
+      "excerpt": "White House will host lunch with tech bosses as president resists calls for regulation",
+      "section": "news",
+      "rankScore": 0.489607
+    },
+    {
+      "id": "02bd6f81c9d7e916",
+      "title": "Assault Charge Reveals Existence of Body Camera Footage of ICE Shooting in Austin",
+      "url": "https://www.nytimes.com/2026/09/29/us/ice-shooting-doordash-driver-austin-body-camera.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-29T16:38:40.000Z",
+      "author": "Edgar Sandoval and Hamed Aleaziz",
+      "excerpt": "Prosecutors say the man who was shot, Wilber Rafael Garces Perez, struck an agent with his car’s mirror before another agent shot him.",
+      "section": "news",
+      "rankScore": 0.485018
+    },
+    {
+      "id": "399c59eaf165794c",
+      "title": "伊朗女歌手演出不戴頭巾遭判笞刑74鞭 上訴遭駁回",
+      "url": "https://www.bbc.com/zhongwen/articles/cq5yj1dd5wxyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-29T07:00:12.000Z",
+      "excerpt": "帕拉斯托·阿赫瑪迪因在一場直播音樂會中身穿無袖連身裙演唱，被裁定犯有「冒犯公共道德」罪。",
+      "section": "news",
+      "rankScore": 0.475481
+    },
+    {
+      "id": "547e053852b38674",
+      "title": "This year's MacArthur Fellows include researchers who fuse science and justice",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983444/this-years-macarthur-fellows-include-researchers-who-fuse-science-and-justice",
+      "source": "npr-news",
+      "publishedAt": "2026-09-29T16:03:34.000Z",
+      "author": "Ari Daniel",
+      "excerpt": "The MacArthur Foundation has just announced its latest batch of 20 fellows. Among the recipients of the $800,000 \"no-strings-attached\" fellowships are researchers who were recognized for their work at the intersection of science and justice.",
+      "section": "news",
+      "rankScore": 0.472418
+    },
+    {
+      "id": "b7d4a2558c36829f",
+      "title": "俄军一架图-95战略轰炸机坠毁致6人身亡",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01NXNveFpjN190WWFiem5UYUJrM1I0akVNX1VEOHFXSm40VmUxcG9HN0RqaWJxTE9oSnRRRERKeUFTaDd6b08wcXc5c2RrV3JJeG4zTEFvc0kzb05JT2hhcVl3MTJUNDkx?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-29T15:57:15.000Z",
+      "excerpt": "俄军一架图-95战略轰炸机坠毁致6人身亡 chinanews.com.cn 俄罗斯军用飞机坠毁，致6人死亡 凤凰网 俄军一架图-95轰炸机在远东坠毁，致6死 观察者网 北约秘书长吁冷静应对俄罗斯在欧洲的破坏行动 - 国际 - 即时国际 Sin Chew Daily 飞行途中燃油爆炸 俄轰炸机坠毁6死 chinapress.com.my",
+      "section": "news",
+      "rankScore": 0.402986
+    },
+    {
+      "id": "7aa38f4a3e67d45c",
+      "title": "中国当局为何要求中学生读《简·爱》？",
+      "url": "https://cn.nytimes.com/china/20260929/china-jane-eyre-required-reading-literature/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-29T03:54:19.000Z",
+      "author": "YAN ZHUANG,LI YOU",
+      "excerpt": "《简·爱》在中国一直很受欢迎。今年秋天，当局要求九年级学生完整阅读这本书，官媒将其誉为反物质主义爱情故事。分析认为，这部小说符合中国政府关于女性平等的愿景。 Zhu Zhenqiang/VCG, via Getty Images 8月，一名女子在北京的一家书店里阅读。自一个世纪前首次被译成中文以来，《简·爱》在中国已吸引了数代读者。",
+      "section": "news",
+      "rankScore": 0.331
+    },
+    {
+      "id": "433da1e34a907d00",
+      "title": "DRC: Early access to care and oxygen decisive for Ebola patients’ survival – WHO",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168481",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "excerpt": "In the Democratic Republic of the Congo (DRC), health workers fighting the country’s largest-ever Ebola outbreak are struggling to overcome critical challenges to patient care, the UN World Health Organization (WHO) warned on Tuesday.",
+      "section": "news",
+      "rankScore": 0.329986
+    },
+    {
+      "id": "a950dafbc7541f65",
+      "title": "公安部公布8起新型涉黑恶犯罪典型案例",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-29/10705933.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-29T14:41:55.000Z",
+      "excerpt": "为深入贯彻落实党中央关于开展深化扫黑除恶专项斗争的决策部署，公安部组织指挥全国公安机关开展集中收网行动，打掉一批犯罪团伙，侦破一批涉黑恶案件。为有力震慑犯罪，今日，公安部公布其中8起新型涉黑恶犯罪典型案例。",
+      "section": "cn-news",
+      "rankScore": 0.696313
+    },
+    {
+      "id": "5b0fcf7befb029b1",
+      "title": "北京理工大学：取消裴某研究生导师资格 解除聘用关系",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-29/10705785.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-29T11:34:19.000Z",
+      "excerpt": "中新网9月29日电 据北京理工大学官方微博消息，9月29日，北京理工大学发布情况通报称，近日，学校收到反映该校教师裴某相关问题的线索。学校高度重视，第一时间成立专项工作组，开展全面细致的调查工作。",
+      "section": "cn-news",
+      "rankScore": 0.644168
+    },
+    {
+      "id": "3b9c85b3f33a0001",
+      "title": "商务部新闻发言人就媒体报道欧盟相关成员国推动欧委会打造欧版“301”工具事答记者问",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705940.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-29T15:09:39.000Z",
+      "excerpt": "问：近日有媒体报道，部分欧盟成员国正在制定联合文件，呼吁欧委会加快制定欧版“301”工具，对华采取更加强硬措施，请问中方对此有何评论？",
+      "section": "cn-news",
+      "rankScore": 0.58251
+    },
+    {
+      "id": "a405970b6b1e86ae",
+      "title": "iQOO16体验：2K+165Hz+电竞芯片Q4，瞄准更强手游旗舰？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03eWtNQWRmdTcyN0JFcjJrd0N0RVhOTXRLeVdNbndwLVRBcFNmNlFraXdiOGVaVXBFMTByMEZuM0NyUTN0dDZZZnZLNGQ5V3pad1VQdl9yWm5RYkZJVmotOQ?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-29T14:03:24.000Z",
+      "excerpt": "iQOO16体验：2K+165Hz+电竞芯片Q4，瞄准更强手游旗舰？ Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.551934
+    },
+    {
+      "id": "b306466c6540d1d3",
+      "title": "化工巨头朗盛在华谋变：重仓个护家护，从卖原料到卖解决方案",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kaVFRM0tOYVlHZUVPUWpsOWVsU0l3UHIxakFhVElCZGtSc1h0bEpPUEtIVW5xamZLdllCQXg4ZUFDY05kXy01WkswOEk1Njk0UFpyb3Zwak9lbDIxeHBSTg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-29T14:01:00.000Z",
+      "excerpt": "化工巨头朗盛在华谋变：重仓个护家护，从卖原料到卖解决方案",
+      "section": "cn-news",
+      "rankScore": 0.550826
+    },
+    {
+      "id": "36573fc8f1810992",
+      "title": "“中国学的世界对话·阿拉伯国家专场”活动在开罗举行",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGtzelRxMkNvRmllNmNYMl9IWHZ6N3dvUUVmZmYydFdWNXZ5UXR0b0NuYmJfdnZjTjR1aVNkUHZ5NVJtMGN2YzNJWmJUZVBHcHB5YXZ3azYzS0ptemNJZ0tHWURsSVBZZ0pyZUNSaTNhd1RuNGUtVmtNTEZlV1BfOXZRMjR1UQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-29T15:32:36.000Z",
+      "excerpt": "“中国学的世界对话·阿拉伯国家专场”活动在开罗举行 新华网 东西问｜葛剑雄：为何世界上每个文明都值得彼此尊重、借鉴和学习？ 新浪财经 中外交流丨“中国学的世界对话·阿拉伯国家专场”活动在开罗举行 搜狐网 “中国学的世界对话·阿拉伯国家专场”将于埃及开罗举办 thepaper.cn 颜海英：古老文明何以对接当代现实？ bj.chinanews.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.527202
+    },
+    {
+      "id": "cc0a266163d68d28",
+      "title": "管中閔建議兩岸在東協合作 台灣扮演信任中介",
+      "url": "https://www.cna.com.tw/news/acn/202609290351.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-29T15:07:07.000Z",
+      "excerpt": "（中央社記者馮昭上海29日電）前國家發展委員會主委、前國立台灣大學校長管中閔今天在上海舉辦的兩岸論壇活動中建議，兩岸可以在東協合作，台灣扮演「信任中介」角色。",
+      "section": "cn-news",
+      "rankScore": 0.516748
+    },
+    {
+      "id": "68a65d988ab93453",
+      "title": "香港全球创新指数排名上升至第14位",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xMm5vU3hIWDN0WExQOVUtS00yWjNNdS1QV2oxcXFpWGJ6Xy1KdUtmbm1CaEtIS0l0OXhZUDlDckcwdzFMSzBIRHFBTDdsT1JZelFmalpOOUpRTkFwbEtxbFh6dHliZG4tVEdpSU9ia2szRGEwVXNRcUZfMnZYUQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-29T14:13:49.000Z",
+      "excerpt": "香港全球创新指数排名上升至第14位 新华网 全球创新指数排行榜出炉：中国第10、德国第11 dw.com 香港全球创新指数排名升至第14位 研发总开支持续增加 新浪财经 上海-苏州第6，杭州第13，南京第15：距“世界主要科学中心”还有多远？ 搜狐网 广东科创生态加速成势 从“零”的突破到“百”业兴旺 中山网",
+      "section": "cn-news",
+      "rankScore": 0.433021
+    },
+    {
+      "id": "b27f26432da97a03",
+      "title": "US Navy launches drone command that could reshape Taiwan war planning",
+      "url": "https://www.scmp.com/news/china/military/article/3369223/us-navy-launches-drone-command-could-reshape-taiwan-war-planning?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-09-29T14:00:12.000Z",
+      "author": "Gabriel Dominguez",
+      "excerpt": "The US Navy has set up a dedicated command to turn its growing array of aerial, surface and underwater drones into an integrated fighting force – a capability US commanders have linked to disrupting a PLA attack on Taiwan.",
+      "section": "cn-news",
+      "rankScore": 0.428133
+    },
+    {
+      "id": "4edbc7c71c935fa3",
+      "title": "亚运会｜“小孩姐”陈妤颉极限反超4x100米混合接力中国队夺金",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wY3JuTFZTQ2VySGpTUHZ3UHRlSDJqVkpBeFVjdUowaWdsR296S0UtZlZfUmd2U1RyZFNzMlBVWUxVVjJjd192WVRGbzcwalhIQ0V0S1JXN1RjSl9xVzFjSndlUXkyRGxwV2pBN1JsSldUUQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-29T16:16:44.000Z",
+      "excerpt": "亚运会｜“小孩姐”陈妤颉极限反超4x100米混合接力中国队夺金 新浪财经 亚运会 | 中国队获田径混合4X100米接力金牌 China Daily 中国速度，亚洲之王！ 新华网 38秒17！武汉理工学子曾克理助力中国队接力登顶 凤凰网 （爱知·名古屋亚运会）中国队摘田径4X100米混合接力金牌 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.408981
+    },
+    {
+      "id": "9cc36142397d7c48",
+      "title": "“外媒看中国”活动走进黑龙江 见证农业“智”变",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-29/10705929.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-29T14:10:33.000Z",
+      "excerpt": "中新社黑龙江佳木斯9月29日电 (记者 王妮娜)“稻田一眼望不到边，看不到人，只有无人驾驶收割机在自动收割水稻，很震撼。”新加坡《海峡时报》记者游润恬29日在黑龙江佳木斯富锦市万亩水稻科技示范园参观时说。",
+      "section": "cn-life",
+      "rankScore": 0.740311
+    },
+    {
+      "id": "c58d5182e7e46a24",
+      "title": "消息人士称：白宫已敦促欧盟动用柴油应急库存 以降低全球柴油价格",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00Y1lOVGg3clM5N0Y3UUkySjNZMF9rQXo4bjJmME9xbXBnV3FMVnpXRHU1MkdYVHRyUHZNa2YwT3IwOVRPM0Z3Zl9YUGJxUzQ4UW44aWx0VktFekFqZE92Ny11dw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-29T16:33:42.000Z",
+      "excerpt": "消息人士称：白宫已敦促欧盟动用柴油应急库存 以降低全球柴油价格 东方财富",
+      "section": "cn-life",
+      "rankScore": 0.621303
+    },
+    {
+      "id": "af2227cb965b0496",
+      "title": "粤北四市退役军人就业创业联盟促就业活动在清远举行",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjlLREhkVHBlSTR4TEdTRFdCUF92WUtrR0VieHA4aFlYZ3NLSHhiV3MyNjlldENURncxWmVFa05qMGtaWEozeUNsNnhwcXZzQi1CMVZ6bm43UTcxY0VoTXpZNWlGZ05XLVZRUlMyTWRjU1ZyandpTnNzWGJFeWZ0eVU1LTVmS3B6QTNISGgzeVNRemM2YzdZRA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-29T16:03:38.000Z",
+      "excerpt": "粤北四市退役军人就业创业联盟促就业活动在清远举行 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.607426
+    },
+    {
+      "id": "184813032823c6e4",
+      "title": "胡昌升与日喀则市援藏干部座谈",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmQThyOW1OS0N2YkpWbkhxYTV5TkYzYVY0Y1VBOG02cHZtQkhjaWFoVHF2N1BOcVcxR1FlUWJ1RVBxbVBnc2U1YUxGTEpOZnN4U0x5c1lHLUhjdVpnN3JZa1RXeF8tY2JmSEtmcUh0emExRU50bWc?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-29T13:49:54.000Z",
+      "excerpt": "胡昌升与日喀则市援藏干部座谈 西藏自治区文化和旅游厅",
+      "section": "cn-life",
+      "rankScore": 0.485069
+    },
+    {
+      "id": "4c3b3a4edff28e56",
+      "title": "单细胞RNA测序揭示TREM2+巨噬细胞与Tc17淋巴细胞在头皮银屑病中的相互作用",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jZlBEYXZZOUNGNVY4Ung5aURkTXYxdFpkdjg4SFF5ZXNmTHBDaExVeXRBNnNyeEFRRmtCYmhxSjVFMk1oZXZjSlYwMnVEallLeldfMkxlbWRIRUU4czlWUTZOYldQeWQwaEJRdA?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-29T15:13:28.000Z",
+      "excerpt": "单细胞RNA测序揭示TREM2+巨噬细胞与Tc17淋巴细胞在头皮银屑病中的相互作用 生物通",
+      "section": "cn-life",
+      "rankScore": 0.454434
+    },
+    {
+      "id": "9be9e310c7bc33c4",
+      "title": "津药药业：子公司两款制剂产品获批，制剂产品布局持续丰富",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvWkNTUzN2OXlKS0pZcWl3a092YlhreHd2R3IxOUxxbDFKdDJJUHd2TnY1S1hic3hpUV9SVDc1ZFhvcmNpbFg3T2tuRUQyNHVRT2RhOC1EMXZLeUQ1cXBkakZzQkg?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-29T14:17:01.000Z",
+      "excerpt": "津药药业：子公司两款制剂产品获批，制剂产品布局持续丰富 东方财富",
+      "section": "cn-life",
+      "rankScore": 0.43417
+    },
+    {
+      "id": "8b59e7b7c5b02399",
+      "title": "白砂糖比果葡糖浆更健康？带你了解“糖分江湖”水多深",
+      "url": "https://www.chinanews.com.cn/life/2026/09-29/10705572.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-29T07:42:16.000Z",
+      "excerpt": "近日，“把配料表中的白砂糖还给我们”的话题冲上网络热搜。不少消费者在选购乳制品、饮品时发现，部分产品配料表中的白砂糖被果葡糖浆替代。而随之出现的“果葡糖浆阻碍人体钙吸收、损害骨骼健康”等说法，更引发公众关注。",
+      "section": "cn-life",
+      "rankScore": 0.417806
+    },
+    {
+      "id": "afd19797d72a26ff",
+      "title": "教育观察｜高校分类发展，要厘清这5个问题|大学|教育部|社会需求|改革|赛道_新浪新闻",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13enF3U1kybXhfZGpDeFhyZVR1VUlTX3ZUajhOdjJJR3BSTzQtc1NDVU5EMW94dGM3U0J0WWtzTWJFamt1VlRrTWl3Vlh2bnkxYnlQbFhTYlZoMndNRXhxTFI5UnpOU183T3FSeTByUEZGZk9RbjFMSTlkM3o?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-29T15:57:24.000Z",
+      "excerpt": "教育观察｜高校分类发展，要厘清这5个问题|大学|教育部|社会需求|改革|赛道_新浪新闻 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.403033
+    }
+  ],
+  "warnings": []
+}
