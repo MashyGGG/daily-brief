@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-30",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-09-30T01:30:02.174Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "ae06a31cab7cace5",
+      "title": "我付了3萬英鎊讀個「網紅」學位，這是為什麼",
+      "url": "https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-09-30T00:18:57.000Z",
+      "excerpt": "內容創作學位旨在幫助人們透過社群媒體貼文賺錢。",
+      "section": "news",
+      "rankScore": 0.816305
+    },
+    {
+      "id": "094231be3ed51f95",
+      "title": "“中国制造”背后的声音：在农民工文学里读懂中国",
+      "url": "https://cn.nytimes.com/china/20260930/china-workers-poetry-pope-leo/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-09-30T01:01:33.000Z",
+      "author": "KATRIN BENNHOLD",
+      "excerpt": "在中国，由零工经济从业者和工厂工人创作的文学体裁正日益流行，但也面临着政府越来越严格的审视。这些书让人们窥见那些无处不在却鲜少能发出声音的工人群体的生活。 Gilles Sabrié for The New York Times 去年，深圳赛格广场外。",
+      "section": "news",
+      "rankScore": 0.761296
+    },
+    {
+      "id": "a74fc766568e3bbb",
+      "title": "专家看瓦德富尔与拉夫罗夫会晤：“会晤的导演权完全掌握在俄罗斯手中”",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260929-%E4%B8%93%E5%AE%B6%E7%9C%8B%E7%93%A6%E5%BE%B7%E5%AF%8C%E5%B0%94%E4%B8%8E%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E4%BC%9A%E6%99%A4-%E4%BC%9A%E6%99%A4%E7%9A%84%E5%AF%BC%E6%BC%94%E6%9D%83%E5%AE%8C%E5%85%A8%E6%8E%8C%E6%8F%A1%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E6%89%8B%E4%B8%AD",
+      "source": "rfi-zh",
+      "publishedAt": "2026-09-29T23:24:59.000Z",
+      "author": "柏林特约记者 丹兰",
+      "excerpt": "德国外长上周六在联合国会议期间忽然会晤了俄国外长拉夫罗夫，引发德国媒体多方关注。双方会谈了20分钟，但毫无结果。",
+      "section": "news",
+      "rankScore": 0.665263
+    },
+    {
+      "id": "267283cb3775095d",
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-09-29T23:33:34.000Z",
+      "excerpt": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+      "section": "news",
+      "rankScore": 0.600883
+    },
+    {
+      "id": "92178c18549227a0",
+      "title": "News live: Alan Kohler announces retirement from ABC after 31 years; six Australian universities in top 100 global rankings",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-09-30T01:24:50.000Z",
+      "author": "Nick Visser",
+      "excerpt": "Follow the day’s news live Who is potential Greens deputy leader candidate Steph Hodgins-May? So who is the first-term senator expected to announce a leadership ticket tilt with David Shoebridge ? Get your dirty hands off our kids, that is our message to the fossil fuel industry, who have no place…",
+      "section": "news",
+      "rankScore": 0.558844
+    },
+    {
+      "id": "a144f907dff56b2a",
+      "title": "Trump says he plans to campaign for 32 days before midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-09-29T23:53:08.000Z",
+      "excerpt": "US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.",
+      "section": "news",
+      "rankScore": 0.538466
+    },
+    {
+      "id": "c3de85bb951358e4",
+      "title": "Prison Officials Suspended After Inmates Are Found Living in Luxury",
+      "url": "https://www.nytimes.com/2026/09/29/world/asia/indonesia-prison-luxury.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-09-29T21:29:05.000Z",
+      "author": "Zane Irwin",
+      "excerpt": "At an Indonesian prison complex near Jakarta, inspectors found expensive cars, spacious quarters with flat-screen TVs and a golf simulator under construction.",
+      "section": "news",
+      "rankScore": 0.506455
+    },
+    {
+      "id": "2fe87c790e369138",
+      "title": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
+      "url": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-09-30T00:46:16.000Z",
+      "author": "Robert Jimison and Annie Karni",
+      "excerpt": "Nearly every Democratic senator voted to advance a measure calling for a human rights report on Israel’s conduct in the West Bank, as some in the party propose punishing settlement activity with sanctions.",
+      "section": "news",
+      "rankScore": 0.481489
+    },
+    {
+      "id": "266add2f7a4c5ac0",
+      "title": "Pentagon awards Boeing $20bn contract for Navy stealth fighter jet",
+      "url": "https://www.ft.com/content/5f1cd056-b5cb-4b29-84a7-703819811b0d?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-09-30T00:31:13.000Z",
+      "excerpt": "Virginia-headquartered company marks a revival of its role with the defence department",
+      "section": "news",
+      "rankScore": 0.478563
+    },
+    {
+      "id": "6419c9b1df0dddf9",
+      "title": "乌克兰首都等多地遭空袭",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXBkY0RlT1VSdkNRX2pKdHdGN2Y3a0hidHM5bDZ5dlJYbGEzWThUWnFNMER2UjQ5TzdWNWRXV3k5VUtLMEl0ZWdqZlo0M3ZCVjBFWGk4N01BQ0NXTjU0aXA0MFNQOGdhT2tlREVCSnVmMW1DVDJKSWRGeGROR1d5QTFzRmVmNEItY0xiUDFaWFlWVkVyRWJMVFpn?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-09-30T01:10:01.000Z",
+      "excerpt": "乌克兰首都等多地遭空袭 新华网客户端 俄罗斯上演“A炸B导”，300架无人机专打乌克兰军队数据中心 凤凰网 俄罗斯袭击乌克兰，至少造成七人死亡，50多人受伤，目标包括加油站和数据中心 美国之音 基辅多地遭袭：乌国家科学院主席团大楼起火，楼内人员爬窗逃生 thepaper.cn 乌克兰总统泽连斯基：......_7x24快讯_新浪财经 新浪财经",
+      "section": "news",
+      "rankScore": 0.416663
+    },
+    {
+      "id": "b910eb86523b1705",
+      "title": "Lindsay Clancy's lawyer now questions whether she killed her 3 children",
+      "url": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
+      "source": "npr-news",
+      "publishedAt": "2026-09-29T18:00:50.000Z",
+      "author": "The Associated Press",
+      "excerpt": "Lindsay Clancy's lawyer is arguing that there wasn't enough evidence to prove she killed her three children. It's a striking turn after a lengthy trial that focused more on her mental state than on whether she took their lives.",
+      "section": "news",
+      "rankScore": 0.402655
+    },
+    {
+      "id": "3115c34ad4d80cf9",
+      "title": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168486",
+      "source": "un-news-en",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "excerpt": "Haji Mohammad Shafi spent 44 years in Pakistan before he was forced to leave. He sold everything he owned and returned to Afghanistan with his five children, arriving with almost nothing.",
+      "section": "news",
+      "rankScore": 0.284994
+    },
+    {
+      "id": "391b356780bc75d5",
+      "title": "今年我国快递业务量已超1500亿件",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10705989.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-09-30T01:19:31.000Z",
+      "excerpt": "中新网9月30日电 据国家邮政局网站消息，国家邮政局监测数据显示，9月29日，我国2026年快递业务量已超1500亿件，较2025年提前了12天。1500亿件包裹加速流动，折射出我国经济的强劲韧性与蓬勃活力。",
+      "section": "cn-news",
+      "rankScore": 0.836493
+    },
+    {
+      "id": "868866b30ac3d566",
+      "title": "此刻，是他们不曾到达的天明",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10705978.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-09-30T00:42:18.000Z",
+      "excerpt": "2026年9月30日",
+      "section": "cn-news",
+      "rankScore": 0.755414
+    },
+    {
+      "id": "38c4088699ef03c3",
+      "title": "特色资源激发县域消费新动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-30/10705991.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-09-30T01:15:06.000Z",
+      "excerpt": "新华社北京9月29日电 题：特色资源激发县域消费新动能",
+      "section": "cn-news",
+      "rankScore": 0.626266
+    },
+    {
+      "id": "f56858892bbd9133",
+      "title": "日照联合摄制！《生万物》获金鹰奖“优秀电视剧奖”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLd3lRcVhibVV6ZkxhZDg4LXp2VDJHLVZPT2VNcDBSZmFjNWU1VHZSVll1aGt6bkpaaEpGeGN1eS1OaldpMWFRTk94M182RmExSTIzN2licUtDbW56WlE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-09-29T22:40:00.000Z",
+      "excerpt": "日照联合摄制！《生万物》获金鹰奖“优秀电视剧奖”",
+      "section": "cn-news",
+      "rankScore": 0.587491
+    },
+    {
+      "id": "44ff3d4b68beec93",
+      "title": "WorldSkills Shanghai | As robots enter factories, engineers need a broader skill set",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSFZDNHluVW1ab0plWFA5MEVabFUxRjY0VnBvMXRGeTg4c0pSeThkYVdfWmczckpQaWt0MU9aajc2U3JISk1JODhLY0FfX3VsbjhIZ3hn?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-09-29T21:55:17.000Z",
+      "excerpt": "WorldSkills Shanghai | As robots enter factories, engineers need a broader skill set Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.576312
+    },
+    {
+      "id": "e5c0d56b8e9d7703",
+      "title": "先雨后晴降温送凉 国庆假期广西天气整体适宜出行",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOHlSREZYektZVjNOSW5Tak1YZnFCejN1SXVtNTVaVFZiQ2hlcG5ETXFNUWdydUQ1V1hiWHVTV3dZS3pDX0ZQQS0xWUk3WjhxdUxJVFB1Yk12MXN0aXNhZFhFbVF1MTgtZDVySF9VS0VsbGxvY0tzYmR6WmdIX2lsVzNR?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-09-30T01:09:52.000Z",
+      "excerpt": "先雨后晴降温送凉 国庆假期广西天气整体适宜出行 新华社广西分社 2026国庆假期天气地图出炉！出行前先来看一看 新浪财经 国庆假期天气公布：北方大部以晴为主，南方1日至4日多阴雨天气；杭州4日前多阵雨雷雨，5日后转晴；浙江或将集体进入气象意义的秋天 thepaper.cn 国庆出游请注意，假日前期南方多雨，北方气温偏低 新京报 今夜有雨！降雨、大风轮番登场！国庆假期天气如何？ 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.555518
+    },
+    {
+      "id": "fa8380c530d1c3cf",
+      "title": "两市融资余额减少20.48亿元",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qUk5Dbk40WjhOT0hUdXN5bEhBaXliYWNPWVNMVl9BNFJYWTBKb3FDR1dEX0dGM0FodnV6OTQxSm51S200alIxVHF3NHUtQndScVhwU0NSQWp1eGxOcC1qVzRsY3g4UQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-09-30T00:51:45.000Z",
+      "excerpt": "两市融资余额减少20.48亿元 东方财富",
+      "section": "cn-news",
+      "rankScore": 0.482555
+    },
+    {
+      "id": "fed5b2351ec577e2",
+      "title": "中國推出補貼房貸利息政策 10/1起實施",
+      "url": "https://www.cna.com.tw/news/acn/202609290350.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-09-29T15:00:05.000Z",
+      "excerpt": "（中央社台北29日電）中國再推出穩定房市措施，10月1日起將實施居民購房貸款貼息政策，這是中央財政首次對商業性個人住房貸款進行貼息。專家表示，該政策聚焦為新市民、新就業大學生、城鎮工薪家庭等降低房貸負擔。",
+      "section": "cn-news",
+      "rankScore": 0.42001
+    },
+    {
+      "id": "d8ed1314a6e3f50c",
+      "title": "第33届中国电视金鹰奖提名表彰颁授典礼举行 《家事法庭》获优秀电视剧作品提名",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nUk5zdm85Z1dfQVA2OFRFZ2YtMjdzdEpRMTFKMDhCbFFyUVBEc1YxR2NUWm5MWWhNa0NzazF5ZVd5eGthb3JRSXE5dEhmX1BuRG9aZ1EzNTdnakpaWE5lYUx3?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-09-30T00:36:58.000Z",
+      "excerpt": "第33届中国电视金鹰奖提名表彰颁授典礼举行 《家事法庭》获优秀电视剧作品提名 court.gov.cn 江西两部电视剧获中国电视金鹰奖 jx.ifeng.com 宋佳14年后再获金鹰奖 实力演绎获认可 中华网娱乐 于和伟凭借《沉默的荣耀》获金鹰奖最佳男主角奖 新浪新闻_手机新浪网 金鹰奖揭晓！于和伟、宋佳分获最佳男女主角 中国日报网",
+      "section": "cn-news",
+      "rankScore": 0.411155
+    },
+    {
+      "id": "cb8036a66bc915c3",
+      "title": "沙田水泉澳邨一單位電視櫃起火 一家4口負傷帶2貓逃生 140人疏散",
+      "url": "https://hk.news.yahoo.com/%E6%B2%99%E7%94%B0%E6%B0%B4%E6%B3%89%E6%BE%B3%E9%82%A8%E4%B8%80%E5%96%AE%E4%BD%8D%E9%9B%BB%E8%A6%96%E6%AB%83%E8%B5%B7%E7%81%AB-%E4%B8%80%E5%AE%B64%E5%8F%A3%E8%B2%A0%E5%82%B7%E5%B8%B62%E8%B2%93%E9%80%83%E7%94%9F-140%E4%BA%BA%E7%96%8F%E6%95%A3-003634015.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-09-29T16:36:34.000Z",
+      "excerpt": "沙田水泉澳邨發生火警，現場為欣泉樓15樓一單位，在今日(30日)上午6時許，突然冒煙起火，多人報案。消防員接報到場灌救，同時搜救隊到場協助救援。消防迅速將火勢救熄，涉事單位窗戶熏黑，正調查起火原因。",
+      "section": "cn-news",
+      "rankScore": 0.38627
+    },
+    {
+      "id": "b11b5e17576f1b21",
+      "title": "（寻味中华丨传说）中国的《罗密欧与朱丽叶》 梁祝传说颂唱千年",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-30/10705979.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-09-30T01:00:32.000Z",
+      "excerpt": "中新社浙江绍兴9月30日电 题：中国的《罗密欧与朱丽叶》 梁祝传说颂唱千年",
+      "section": "cn-life",
+      "rankScore": 0.830166
+    },
+    {
+      "id": "a3d41a62faa6457f",
+      "title": "一口下肚，窒息3秒！蒙脱石散千万别这么吃",
+      "url": "https://www.chinanews.com.cn/life/2026/09-30/10705987.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-09-30T01:11:54.000Z",
+      "excerpt": "近日，江苏扬州的张女士游完泳用冷水冲澡，结果发烧、腹泻，为缓解症状，她嫌烧开水太麻烦，索性将蒙脱石散直接倒入口中，导致咽后壁黏膜脱水、糜烂。此前还有患者干吃蒙脱石散后，自述窒息3秒，引发广泛关注。",
+      "section": "cn-life",
+      "rankScore": 0.694962
+    },
+    {
+      "id": "17c0e82a169ce489",
+      "title": "湖湘探震记：寻找大地的秘密！湖南省地震科普 AI 微短剧正式开机",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1paGFxMmROUXFpdVo4bklqeVRfdTNGRl9Vdm9ONGp6TFJVSTRmbTVBdXlTZTg2UW1hX25IUE96eG5nMG11UTR5NGhHdzdIU3p1cnJkOUVjb3A1ejFDN2M4QXlyRVZJSjdJQmNxRl8xRWh2aURpazN3NW9jVVJ4Q2s?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-09-30T01:28:00.000Z",
+      "excerpt": "湖湘探震记：寻找大地的秘密！湖南省地震科普 AI 微短剧正式开机 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.629491
+    },
+    {
+      "id": "132c0c2d88749dba",
+      "title": "“上塘福饺”共富工坊，打通邻里共富便民“最后一米”",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QQ3duSXQzQTE1MVp6RkVaOVIybFZ5UkRoUHFwamRka2d1RHAwdlM1dlF5TUpLVnZfUDVwSldNakEyRERXeGFMWlAxRFF1TThLc0xtbmdPcVljMUJPd19vdTBRZkJZbWN0VGV4MFdYYWZoT1ZiOGt3VEw2aGtodw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-09-30T01:12:30.000Z",
+      "excerpt": "“上塘福饺”共富工坊，打通邻里共富便民“最后一米” 杭网议事厅",
+      "section": "cn-life",
+      "rankScore": 0.625616
+    },
+    {
+      "id": "6b281284d516f6f8",
+      "title": "“一户通”和“商社通”推出智能客服“政问通” 10月5日上线 方便市民查询服务或反映意见",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JdjkzZzg4R0hxTG1HZlE4RXVUQnkxWjk2YVVjelpZSF9mYlhYZ0VQdXFZamxPbHpYekRzMk1qQUJkUFV4Y1AtN2FwcWI1U0dSZXA3RFNvRzdDa09YUUN5XzJSaGl2OGFoQjItT1laVF9sZ1RMTU93UGVB?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-09-30T01:27:05.000Z",
+      "excerpt": "“一户通”和“商社通”推出智能客服“政问通” 10月5日上线 方便市民查询服务或反映意见 hmo.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.559344
+    },
+    {
+      "id": "d6b4b1ff77c04824",
+      "title": "AI眼镜头部品牌海外启动召回，“可能造成严重烫伤，甚至可能导致死亡”，国内官方已下架但未公示原因，第三方仍在售",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzVCcVcxSmpPb3BzakcxdlYyaE9jNHo2RUhpenBhSmNuRFBJREFLdHZ6SFRRZVFKbVBBVi1BY1g1UUttanlRbXVGdGJiZkdkWUpOZmFhMEd1VUxkSm1MVTBZNVVWMy00b1I5MXo3V005V1A4R3czUkpzeGh5MENiQzZsYXBoN1Z0MElPMFlaOA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-09-30T00:55:00.000Z",
+      "excerpt": "AI眼镜头部品牌海外启动召回，“可能造成严重烫伤，甚至可能导致死亡”，国内官方已下架但未公示原因，第三方仍在售 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.483187
+    },
+    {
+      "id": "fb240fbf48ce914d",
+      "title": "AI会削弱学生批判性思维？",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54bS1TaWJfSzZVOHFHbl9JZU9VYzhlcHNySWxxX2xUcW11Y3h0bmJfNldOa29QZF9fT0lmdHdEdE9KbEcwVXViQ0UwSFNBQmpZSTFyZGYxd0VDbjZHWER2VndfbEY?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-09-30T00:58:21.000Z",
+      "excerpt": "AI会削弱学生批判性思维？ 温州新闻",
+      "section": "cn-life",
+      "rankScore": 0.414719
+    },
+    {
+      "id": "6bed3467ad6d4d8b",
+      "title": "遗传性心律失常与心肌病中的神经-心脏交互作用：自主神经系统重塑的病理生理机制与治疗启示",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmSTNGNFRlUS0xRzVoek85Nmk5ZTBBYTV1U0thRHBGTy1MNDUzcHlJMVFHbzBiUFZyWHpDYmtLc2s2MlI1Z0NUeHB2RmxFd3ZaeGRrMlVqU19FZmxPd0lnTVpsV1lGNGxzTXBoZQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-09-29T17:35:26.000Z",
+      "excerpt": "遗传性心律失常与心肌病中的神经-心脏交互作用：自主神经系统重塑的病理生理机制与治疗启示 生物通",
+      "section": "cn-life",
+      "rankScore": 0.397716
+    }
+  ],
+  "warnings": []
+}
