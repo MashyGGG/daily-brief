@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-30",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-09-30T01:15:14.873Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "69d3439e5d0883a4",
+      "title": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-30T01:15:14.873Z",
+      "score": 835,
+      "excerpt": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "a45aa34bb2a5a3bf",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-29T17:06:45.000Z",
+      "score": 774,
+      "author": "crorella",
+      "excerpt": "774 points · 720 comments · https://news.ycombinator.com/item?id=49896586",
+      "section": "tech",
+      "rankScore": 1.020025
+    },
+    {
+      "id": "ecc59ea421565d70",
+      "title": "Amazon CloudWatch Omni Extends CloudWatch into the Agent Era",
+      "url": "https://www.infoq.com/news/2026/09/aws-cloudwatchomni-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-29T19:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "Recently launched, Amazon CloudWatch Omni is an AI-first observability platform designed to monitor, evaluate, and troubleshoot applications and autonomous AI agents in a unified environment. By Sergio De Simone",
+      "section": "tech",
+      "rankScore": 0.640447
+    },
+    {
+      "id": "4238c5afe6aa477a",
+      "title": "How to work in a software engineering team (2022)",
+      "url": "https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-29T22:34:26.000Z",
+      "author": "kimmosaaskilahti.fi via BD103",
+      "section": "tech",
+      "rankScore": 0.638946
+    },
+    {
+      "id": "a120a1f7a1108a64",
+      "title": "Repository custom runner settings for Dependabot",
+      "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-29T19:10:00.000Z",
+      "author": "Allison",
+      "excerpt": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already…",
+      "section": "tech",
+      "rankScore": 0.598542
+    },
+    {
+      "id": "8a9bc93ca95409f6",
+      "title": "Fragments: September 29",
+      "url": "https://martinfowler.com/fragments/2026-09-29.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-09-29T12:41:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Simon Willison: The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge This has been a constant impression I get…",
+      "section": "tech",
+      "rankScore": 0.588584
+    },
+    {
+      "id": "d8b92799ed2ce173",
+      "title": "v2.1.285",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.285",
+      "source": "anthropic",
+      "publishedAt": "2026-09-29T19:27:30.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added CLAUDE_CODE_DISABLE_WEB_FETCH environment variable to turn off the WebFetch tool Added claude --desktop to open the Claude desktop app on the current directory, or on a session with --continue / --resume <id> Added claude plugin configure <plugin> to show a plugin's options…",
+      "section": "ai",
+      "rankScore": 0.754254
+    },
+    {
+      "id": "d59b0fe50a890f9e",
+      "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+      "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+      "source": "latent-space",
+      "publishedAt": "2026-09-29T02:55:27.000Z",
+      "excerpt": "Congrats team!",
+      "section": "ai",
+      "rankScore": 0.360617
+    },
+    {
+      "id": "a92f822c6fe7b298",
+      "title": "[AINews] Opus 5.5 is good at explainer videos",
+      "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+      "source": "latent-space",
+      "publishedAt": "2026-09-29T02:44:29.000Z",
+      "excerpt": "a rare feature of a capability",
+      "section": "ai",
+      "rankScore": 0.357266
+    },
+    {
+      "id": "dbff554c7cb8be0e",
+      "title": "你还会读所谓技术论坛上面的文章吗",
+      "url": "https://www.v2ex.com/t/1245655",
+      "source": "v2ex",
+      "publishedAt": "2026-09-29T15:10:46.000Z",
+      "score": 17,
+      "author": "qiuguoxyz2",
+      "excerpt": "现在 ai 太泛滥了，以前还会读一下那些论坛上的文章，Android 安全方面的，以前读的时候还是能认真读读的，现在一读感觉 ai 味道扑面而来，说啥都不读了，可能有些是自己动笔写的（说实话，可能吗？）太反胃了。所谓读文章已“死”",
+      "section": "cn-tech",
+      "rankScore": 0.66788
+    },
+    {
+      "id": "b0ad44fcf03632cd",
+      "title": "地卫二启动“太空之弦”千星蓝图，2028年对标SpaceX Starmind计划",
+      "url": "https://www.36kr.com/p/4005156110389120",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-30T00:17:57.000Z",
+      "author": "杨越欣（杨桃）",
+      "excerpt": "2026年9月，中国商业航天进入一个密集爆发期，多家公司完成数亿元融资，还在一个月内完成至少10次航天发射，将44颗卫星送入轨道。 资本热度和密集发射共同指向一个趋势：商业航天正在从技术验证期转向规模化部署。但卫星发得越多，也越逼近“天感地算”路径的极限，进一步推动行业对太空计算的关注和布局。 9月25日，“太空之弦”计算星座计划启动仪式在杭州举行。按照现场公布的千星路线图，这个中国首个面向全球市场的太空计算星座，远期规划部署超过1000颗太空智能体，2027年计划发射G1星，计算负载11.5KW、算力40-60P（按现有算力推算）。",
+      "section": "cn-tech",
+      "rankScore": 0.615676
+    },
+    {
+      "id": "5d32b435810e5134",
+      "title": "亚马逊云科技无法恢复仅存储在受损的中东可用区的数据",
+      "url": "https://www.infoq.cn/article/YWXyACETW4aRchQbSJE0?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-29T18:41:00.000Z",
+      "author": "作者：Steef-Jan Wiggers",
+      "section": "cn-tech",
+      "rankScore": 0.590487
+    },
+    {
+      "id": "9a6d93ecf3c9c7a5",
+      "title": "银行高管被 Deepfake 语音骗走 1 亿美元",
+      "url": "https://www.solidot.org/story?sid=85506",
+      "source": "solidot",
+      "publishedAt": "2026-09-29T14:57:57.000Z",
+      "excerpt": "意大利最大银行 Intesa Sanpaolo 旗下私人银行业务部门 Fideuram 的总裁 Paolo Molesini 今年 2 月成为一起组合利用 WhatsApp 假信息和 Deepfake 语音的诈骗行动目标，导致逾 1 亿美元被骗走，他本人则在 3 月份辞职。Molesini 首先是收到了看起来是母公司 CEO Carlo Messina 发来的 WhatsApp 信息，要求他帮助处理一笔巨额海外交易，接着他收到了一家大型律师事务所高级合伙人的电话。但打电话的不是真人，而是骗子利用 AI 模型模仿该律师的声音（即 Deepfake）。",
+      "section": "cn-tech",
+      "rankScore": 0.581381
+    },
+    {
+      "id": "5be90770ff3cc262",
+      "title": "稀土掘金",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHcldDZXF0dFNIRnhWODVkNGVqZ0ZHQXEwOVdLUEphNWdLTnRqaE55cTYtcGNwa1otUmotOEpycTduZTJWVzU4VnZqLTJudjVpUkE?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-29T21:03:43.000Z",
+      "excerpt": "稀土掘金 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.441091
+    },
+    {
+      "id": "a4adc27b8175d1fd",
+      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-29T17:47:01.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cybersecurity agency saw the data leave.",
+      "section": "security",
+      "rankScore": 0.575491
+    },
+    {
+      "id": "5a013d2e372d1412",
+      "title": "Lantronix G520 Series Cellular Gateway",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-01",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to replace software and execute arbitrary code with root privileges.",
+      "section": "security",
+      "rankScore": 0.479098
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
