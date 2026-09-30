@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-30",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-09-30T17:59:05.573Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "c9c291905b644aa7",
+      "title": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-30T17:59:05.573Z",
+      "score": 1133,
+      "excerpt": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker.",
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "38983800b99ac9ea",
+      "title": "You Said No MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-30T09:55:23.000Z",
+      "score": 476,
+      "author": "yarapavan",
+      "excerpt": "476 points · 276 comments · https://news.ycombinator.com/item?id=49906637",
+      "section": "tech",
+      "rankScore": 0.833595
+    },
+    {
+      "id": "6676e44c733da0a7",
+      "title": "Accelerating Spatio-Temporal Attention for Video Diffusion on TPUs",
+      "url": "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
+      "source": "google-developers",
+      "publishedAt": "2026-09-30T17:59:05.573Z",
+      "excerpt": "To address the quadratic latency bottleneck of self-attention in high-resolution video diffusion models, developers implemented Sparse VideoGen (SVG) to dynamically route attention heads to highly structured spatial or temporal sparse masks.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "9e4cfb2065be2c22",
+      "title": "Distributed databases with Peter Mattis",
+      "url": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-09-30T16:30:05.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Cockroach Labs co-founder Peter Mattis discusses building reliable distributed systems and how AI helps him write more code without sacrificing quality.",
+      "section": "tech",
+      "rankScore": 0.723376
+    },
+    {
+      "id": "692ac1d225d5173f",
+      "title": "GitHub Advanced Security trials for GitHub Team",
+      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-30T16:48:24.000Z",
+      "author": "Allison",
+      "excerpt": "GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection. Start a trial from your organization’s Overview page, Billing…",
+      "section": "tech",
+      "rankScore": 0.666337
+    },
+    {
+      "id": "6db3530da64ab06f",
+      "title": "Qt 6.12 LTS Released",
+      "url": "https://www.qt.io/blog/qt-6.12-released",
+      "source": "lobsters",
+      "publishedAt": "2026-09-30T17:10:52.000Z",
+      "author": "qt.io via rcalixte",
+      "section": "tech",
+      "rankScore": 0.660109
+    },
+    {
+      "id": "fced44191aeec94a",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "openai",
+      "publishedAt": "2026-09-30T10:30:00.000Z",
+      "excerpt": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "section": "ai",
+      "rankScore": 0.607683
+    },
+    {
+      "id": "ee51268f550e5fc7",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "source": "openai",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "excerpt": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "section": "ai",
+      "rankScore": 0.589826
+    },
+    {
+      "id": "fe493d7c6938f436",
+      "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "source": "latent-space",
+      "publishedAt": "2026-09-30T05:53:10.000Z",
+      "excerpt": "the most confident DevDay yet.",
+      "section": "ai",
+      "rankScore": 0.389753
+    },
+    {
+      "id": "0e185e7040edd244",
+      "title": "PS5 越狱取得突破",
+      "url": "https://www.solidot.org/story?sid=85520",
+      "source": "solidot",
+      "publishedAt": "2026-09-30T17:01:06.000Z",
+      "excerpt": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱。Relapse 利用了 PS5 浏览器的一个已知的 WebKit 漏洞，提权获取内核的写入访问权限，安装 ELF 加载器去简化任意代码的运行。越狱后的 PS5 除了能备份游戏外还能运行模拟器以及 PS4 游戏的非官方 60 帧 MOD。",
+      "section": "cn-tech",
+      "rankScore": 0.739623
+    },
+    {
+      "id": "b14c9f808764eccc",
+      "title": "机房堆满算力卡，业务却还在排队？这份评估报告拆开了“算力荒假象”的破局账本",
+      "url": "https://www.infoq.cn/article/bduvBdbgwxj6DMbNeKCC?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-30T17:37:10.000Z",
+      "author": "青和",
+      "section": "cn-tech",
+      "rankScore": 0.689559
+    },
+    {
+      "id": "b6381a6d40b6055f",
+      "title": "关于买房，现在是一个好的机会么？",
+      "url": "https://www.v2ex.com/t/1245903",
+      "source": "v2ex",
+      "publishedAt": "2026-09-30T12:36:57.000Z",
+      "score": 18,
+      "author": "jtjing",
+      "excerpt": "21-23 年左右，当时家里也提起要买房，周围的同事也陆续在北京上车了，当时家里催着看看买套房，贷款可能也要 200 个左右买个 550w 的房子，当时的买房的情绪，房价双双都在影响着我，但是我坚持再等等，后来慢慢的忘记这个事情了，到了最近几年发现貌似当时也是一个正确的选择，当时上车的同事现在也不知道怎么样了，聊天的时候也不敢提这个事情，我不想说明自己有多幸运，我也不想嘲讽他们，毕竟钱都是辛苦挣来的。 现在虽然不用贷款可以上车了，但是感觉又开始犹豫了。 大家现在的情况是怎么样呢？ 毕竟在北京的程序员也算是一个相对收入不错的群体，买房的可能性也大一点。",
+      "section": "cn-tech",
+      "rankScore": 0.671939
+    },
+    {
+      "id": "3e6cd85bb137a197",
+      "title": "一个视频彻底看懂CSS scroll-axis-lock none的作用",
+      "url": "https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/",
+      "source": "zhangxinxu",
+      "publishedAt": "2026-09-30T09:05:03.000Z",
+      "author": "张 鑫旭",
+      "excerpt": "分享一个与滚动交互相关的渐进增强CSS新特性，可以用在地图、画布、大图查看器这类场景中。",
+      "section": "cn-tech",
+      "rankScore": 0.534833
+    },
+    {
+      "id": "306bf4c7f4725e98",
+      "title": "AI原生的数据治理：换地基的时候到了",
+      "url": "https://www.36kr.com/p/4005800454246534",
+      "source": "36kr-ai",
+      "publishedAt": "2026-09-30T12:58:17.000Z",
+      "author": "王建峰",
+      "excerpt": "先讲一个让很多 CIO 当场沉默的场景。 某集团花了三年、几千万元做完数据治理：主数据统一了，指标口径梳理了，数据资产目录上线了，质量看板也挂到了大屏上。汇报材料写得漂亮，验收评分很高。 第二年，公司要做智能客服和经营分析智能体。项目启动两周，数据团队交上去的东西被业务退回来了三次。 不是数据不准——是 AI 根本读不懂这些数据 。字段名叫 \"CUST_STAT_CD\"，值域是 \"01/02/03\"，注释写的是\"参见附录 B\"。人看了会去翻附录，模型只会猜。猜错了，它还会用非常自信的语气把错误答案讲给用户听。",
+      "section": "cn-tech",
+      "rankScore": 0.501082
+    },
+    {
+      "id": "57ac0460ba0b2e2b",
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-30T16:32:59.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content.",
+      "section": "security",
+      "rankScore": 0.658995
+    },
+    {
+      "id": "e077a2623b3ffe67",
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-30T15:24:54.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30.",
+      "section": "security",
+      "rankScore": 0.626575
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 30 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
