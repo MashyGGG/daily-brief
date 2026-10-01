@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-01",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-01T01:15:10.560Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "00d2ab372410a799",
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "source": "hn-front",
+      "publishedAt": "2026-09-30T20:04:37.000Z",
+      "score": 944,
+      "author": "bradleyg223",
+      "excerpt": "944 points · 646 comments · https://news.ycombinator.com/item?id=49913571",
+      "section": "tech",
+      "rankScore": 1.07398
+    },
+    {
+      "id": "04fe01baf66e5d2c",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-01T01:15:10.560Z",
+      "score": 743,
+      "excerpt": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "section": "tech",
+      "rankScore": 1.04
+    },
+    {
+      "id": "aacf75617a2c5b02",
+      "title": "Opt-in dist-tag permissions for npm trusted publishing",
+      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "source": "github-changelog",
+      "publishedAt": "2026-09-30T21:03:09.000Z",
+      "author": "Allison",
+      "excerpt": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest, updating next and beta pointers) using short-lived OIDC credentials instead of…",
+      "section": "tech",
+      "rankScore": 0.629993
+    },
+    {
+      "id": "1dac3192106ae9a8",
+      "title": "We used a database as a message queue. Now we use Kafka",
+      "url": "https://www.tigrisdata.com/blog/quick-fdb-kafka/",
+      "source": "lobsters",
+      "publishedAt": "2026-09-30T20:28:27.000Z",
+      "author": "tigrisdata.com via billy",
+      "section": "tech",
+      "rankScore": 0.604845
+    },
+    {
+      "id": "961da02e16a3c88a",
+      "title": "Cursor Uses S3 WAL to Scale Git Storage to More than 300 Pushes per Second",
+      "url": "https://www.infoq.com/news/2026/09/cursor-continuity-git-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-09-30T13:47:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Cursor has introduced Continuity, a Git storage architecture that uses an S3 backed write ahead log as the source of truth. The design turns local NVMe repositories into warm caches and separates replica coordination from consistency.",
+      "section": "tech",
+      "rankScore": 0.547003
+    },
+    {
+      "id": "ad1287e2d8958b85",
+      "title": "Organizations need decision-grade knowledge. AI makes it urgent.",
+      "url": "https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-09-30T17:00:00.000Z",
+      "author": "Alex Lato, Peter O'Connor",
+      "excerpt": "AI can make the first part remarkably fast. It can find the page, the discussion and the person who might know. The harder work begins when those sources disagree, or when they become stale.",
+      "section": "tech",
+      "rankScore": 0.534329
+    },
+    {
+      "id": "0488eb937403e1a7",
+      "title": "He Built This City",
+      "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+      "source": "simonwillison",
+      "publishedAt": "2026-09-30T21:54:19.000Z",
+      "excerpt": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard. It exceeded my already high expectations.",
+      "section": "ai",
+      "rankScore": 0.773047
+    },
+    {
+      "id": "681047095788e710",
+      "title": "v2.1.286",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.286",
+      "source": "anthropic",
+      "publishedAt": "2026-09-30T19:10:13.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added a count such as \"2 of 5\" to the permission prompt when several permission requests stack up Added mouse support for the \"N more\" rows of lists in fullscreen mode: click one to jump to that end of the list, with hover and pressed states Fixed several Claude Code processes and…",
+      "section": "ai",
+      "rankScore": 0.748278
+    },
+    {
+      "id": "7ead047586eacb2c",
+      "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+      "url": "https://www.latent.space/p/devday-2026",
+      "source": "latent-space",
+      "publishedAt": "2026-09-30T22:23:40.000Z",
+      "excerpt": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI’s CUA team and API platform.",
+      "section": "ai",
+      "rankScore": 0.717594
+    },
+    {
+      "id": "20251ce7b7037bc9",
+      "title": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
+      "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-01T01:15:10.560Z",
+      "excerpt": "本文精选了美团技术团队被 KDD 2026 收录的 8 篇论文进行分享，这些论文覆盖了推荐大模型、生成与奖励建模框架、智能体搜索、Transformer 框架、元泛化框架等技术领域。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "a4b5aff8c084c911",
+      "title": "GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项",
+      "url": "https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-09-30T20:37:48.000Z",
+      "author": "作者：Craig Risi",
+      "section": "cn-tech",
+      "rankScore": 0.622951
+    },
+    {
+      "id": "403da3aa1321a663",
+      "title": "个人独立开发日活 5k~8k 的应用属于什么水平？",
+      "url": "https://www.v2ex.com/t/1245845",
+      "source": "v2ex",
+      "publishedAt": "2026-09-30T07:54:28.000Z",
+      "score": 34,
+      "author": "qiqi669",
+      "excerpt": "我的个人作品。做好多年了，最高时日活 2w ，现在下滑了。 软件不怎么赚钱，然后我在想，找工作把这个项目经历写上会有大的帮助吗？现在失业了好迷茫，想把这个软件做起来又不是很有信心。 现在我是想先做独立开发，看看能不能把流量再做起来，想想怎么变现。 然后又在担忧，如果没做成得回归工作吧，现在人人都能用 AI 随便写个“应用”，感觉个人学习的全栈技能就这样被抹平了。 唉…… 非“AI 时代”之前，这个作品给我个人成就感还挺强的，独立开发前后端以及部署等，从开发到备案部署上线等，现在文科生都能跟我掰扯几句编程。",
+      "section": "cn-tech",
+      "rankScore": 0.609823
+    },
+    {
+      "id": "ce442dfdfe04e80a",
+      "title": "CNNIC 称中国生成式 AI 用户超 7 亿",
+      "url": "https://www.solidot.org/story?sid=85519",
+      "source": "solidot",
+      "publishedAt": "2026-09-30T15:18:19.000Z",
+      "excerpt": "中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及率超 50%。76.0%的 用户表示自己会让生成式人工智能回答问题；使用生成式人工智能处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比分别为 47.8%、37.6% 和 32.5%。数据显示，38.7%的网民近半年在网上购买过智能硬件设备。其中可穿戴设备和3C数码产品是我国网民接触智能硬件设备的首要入口。购买过智能可穿戴设备的网民比例为 20.2%；购买智能手机、平板电脑等3C数码产品的网民比例为18.2%。",
+      "section": "cn-tech",
+      "rankScore": 0.587626
+    },
+    {
+      "id": "f6026d3496935ffa",
+      "title": "component-binding-and-props[20260930225552]# euv 组件绑定与Props",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Ib3ZFMjY2Z1pyZVZaekZOT2o5dzNOdktrYU0xN0dOR21rcDRUOHRxY3V4Umw0ZU1FWTUtRmcwaW40YjZqa1k3c1h6amdWVjNYSWw4bg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-09-30T22:55:55.000Z",
+      "excerpt": "component-binding-and-props[20260930225552]# euv 组件绑定与Props 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.462922
+    },
+    {
+      "id": "97697358ca5496cf",
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-30T11:58:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser.",
+      "section": "security",
+      "rankScore": 0.478562
+    },
+    {
+      "id": "d38948858c4058ef",
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-30T11:30:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.",
+      "section": "security",
+      "rankScore": 0.470784
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 30 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
