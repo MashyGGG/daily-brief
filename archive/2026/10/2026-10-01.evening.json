@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-01",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-01T18:24:22.871Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "1e225815e157799f",
+      "title": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-01T18:24:22.871Z",
+      "score": 624,
+      "excerpt": "Write HTML. Render video. Built for agents.",
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "53b219630117ff67",
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "source": "hn-front",
+      "publishedAt": "2026-10-01T10:59:57.000Z",
+      "score": 417,
+      "author": "Snowly",
+      "excerpt": "417 points · 98 comments · https://news.ycombinator.com/item?id=49920160",
+      "section": "tech",
+      "rankScore": 0.906039
+    },
+    {
+      "id": "c043bb618c942bd6",
+      "title": "Why State is the Hardest Thing in Software Design",
+      "url": "https://blog.bytebytego.com/p/why-state-is-the-hardest-thing-in",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-01T15:31:21.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we will look at why state is the hardest thing in software development and the multiple strategies that developers can use to manage it.",
+      "section": "tech",
+      "rankScore": 0.679365
+    },
+    {
+      "id": "9c5689d6d7d35890",
+      "title": "I built a small app that scours the internet to create a daily personolized news briefing",
+      "url": "https://github.com/yogthos/newsroom",
+      "source": "lobsters",
+      "publishedAt": "2026-10-01T17:50:15.000Z",
+      "author": "github.com by Yogthos",
+      "section": "tech",
+      "rankScore": 0.666653
+    },
+    {
+      "id": "87fd59a361603334",
+      "title": "Scheduled code scanning skips inactive repositories",
+      "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-01T16:49:15.000Z",
+      "author": "Allison",
+      "excerpt": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of…",
+      "section": "tech",
+      "rankScore": 0.654699
+    },
+    {
+      "id": "aa4efbff3a6b658a",
+      "title": "A look back before we look forward: A Developer Survey retrospective",
+      "url": "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-10-01T14:47:33.000Z",
+      "author": "Erin Yepis",
+      "excerpt": "This analysis compares the 2024 and 2025 Developer Survey data across three connected stories: the evolution of AI, humans at work, and demographics and community.",
+      "section": "tech",
+      "rankScore": 0.56691
+    },
+    {
+      "id": "5b195a42268af3d9",
+      "title": "v2.1.287",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.287",
+      "source": "anthropic",
+      "publishedAt": "2026-10-01T18:00:22.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added Claude Mods: plugins may now modify deeper behavior Added You should know, an opt-in plugin where a side agent watches your back and flags things you or Claude might miss.",
+      "section": "ai",
+      "rankScore": 0.860706
+    },
+    {
+      "id": "4915bcfc571df1e8",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "source": "openai",
+      "publishedAt": "2026-10-01T17:00:00.000Z",
+      "excerpt": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "section": "ai",
+      "rankScore": 0.824773
+    },
+    {
+      "id": "58e899643b84671b",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "huggingface",
+      "publishedAt": "2026-10-01T15:01:43.000Z",
+      "section": "ai",
+      "rankScore": 0.67893
+    },
+    {
+      "id": "d2e7b3c81fb1a0c9",
+      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+      "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "source": "latent-space",
+      "publishedAt": "2026-10-01T06:45:05.000Z",
+      "excerpt": "... but you can’t try it yet unless you are “government users and trusted cyber defenders in the Fairwind Program”",
+      "section": "ai",
+      "rankScore": 0.403701
+    },
+    {
+      "id": "40afc56873f59675",
+      "title": "美团智播——数字人直播技术创新与实践",
+      "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-01T18:24:22.871Z",
+      "excerpt": "美团智播围绕 AI 主播「长得真→动得准→演得活→卖得好」构建了完整技术闭环：真人 1:1 复刻、换装换背景身份不跑偏；动作自然流畅，告别「木偶戏」；边说边动、音画一致；背后还有推理加速技术支撑万路并发开播，让普惠落地成为可能。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "6318c9d7d07624c8",
+      "title": "主力邮箱还是得选国内邮箱",
+      "url": "https://www.v2ex.com/t/1246060",
+      "source": "v2ex",
+      "publishedAt": "2026-10-01T14:42:28.000Z",
+      "score": 26,
+      "author": "ldy619354397",
+      "excerpt": "近期 Google 又扫号了，如果一直申诉不成功，跟 Google 关联的账号都废了，主力邮箱还是得国内邮箱，至少在国内还有投诉的渠道，Google 说封你就封你，根本没得商量",
+      "section": "cn-tech",
+      "rankScore": 0.766322
+    },
+    {
+      "id": "689cd0e5b47cbf11",
+      "title": "PS5 模拟器的开发取得突破",
+      "url": "https://www.solidot.org/story?sid=85524",
+      "source": "solidot",
+      "publishedAt": "2026-10-01T16:11:32.000Z",
+      "excerpt": "当前一代游戏机的模拟器通常需要较长时间才能成熟，但 PS5 的模拟器仅仅几个月时间就让许多 PS5 游戏能在 PC 平台上可玩。SharpEmu 从 5 月的极早 Alpha 阶段到现在具备加载真实游戏 eboot.bin 文件、执行原生 CPU 指令以及部分处理 GPU 相关功能的能力。已有 10 款游戏被标记为可玩，其中包括简单 2D 游戏如 Tetris Forever，也有复杂 3D 大作如 Astro Bot 和 Demon’s Souls 重制版。",
+      "section": "cn-tech",
+      "rankScore": 0.700413
+    },
+    {
+      "id": "c4f865398ef2d4d1",
+      "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
+      "url": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-01T11:00:00.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.48839
+    },
+    {
+      "id": "03f905a882643113",
+      "title": "哪些工作适合交给 AI Agent？ 先看四个运行条件",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HdmxQNllMRkRmMHFMeUtHM01QZ3h3LVo3NXBrSEx5TXF5eERyZ0d2eW9tSG03Qm5qQ0JIR1BnODVJVERtdV9FcWhfaC1KMFAwQzJzZQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-01T14:58:28.000Z",
+      "excerpt": "哪些工作适合交给 AI Agent？ 先看四个运行条件 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.421362
+    },
+    {
+      "id": "c8ec8955b5047209",
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-01T16:55:57.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.",
+      "section": "security",
+      "rankScore": 0.65789
+    },
+    {
+      "id": "30c908becb7a39c4",
+      "title": "Johnson Controls EasyIO Neo Series EC and CW Controllers",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-04",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain access to sensitive information that could be used to conduct further attacks against the system.",
+      "section": "security",
+      "rankScore": 0.516961
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 31 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
