@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-01",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-01T17:21:12.892Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "c664916a96a90055",
+      "title": "贸易高官指欧盟近1/4进口商品呈令人担忧趋势 贸易委员访华前见李成钢",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261001-%E8%B4%B8%E6%98%93%E9%AB%98%E5%AE%98%E6%8C%87%E6%AC%A7%E7%9B%9F%E8%BF%911-4%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81%E5%91%88%E4%BB%A4%E4%BA%BA%E6%8B%85%E5%BF%A7%E8%B6%8B%E5%8A%BF-%E8%B4%B8%E6%98%93%E5%A7%94%E5%91%98%E8%AE%BF%E5%8D%8E%E5%89%8D%E8%A7%81%E6%9D%8E%E6%88%90%E9%92%A2",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-01T17:05:28.000Z",
+      "author": "弗林",
+      "excerpt": "欧盟委员会贸易总司副总司长兼首席贸易执法官雷东内（Denis Redonnet）周四表示，欧盟近四分之一的进口商品正以“令人担忧”的速度增长，这主要受中国及中国原产商品推动。",
+      "section": "news",
+      "rankScore": 0.691924
+    },
+    {
+      "id": "f5e79d6ecd63f37e",
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-01T16:40:59.000Z",
+      "excerpt": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+      "section": "news",
+      "rankScore": 0.611432
+    },
+    {
+      "id": "f64b9ba400c989e5",
+      "title": "Trump’s Threat to Ban Diesel Exports Sets Off Global Alarms",
+      "url": "https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-01T17:10:27.000Z",
+      "author": "Lisa Friedman and River Akira Davis",
+      "excerpt": "A reduction in refineries has already driven the price of diesel to record highs, threatening economies. An U.S. export ban would be “tremendous shock and blow.”",
+      "section": "news",
+      "rankScore": 0.555584
+    },
+    {
+      "id": "b58a4770edaa1ec1",
+      "title": "UK-Iran national arrested under Terrorism Act over RAF Fairford incident",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-01T17:02:01.000Z",
+      "author": "Jamie Grierson",
+      "excerpt": "Counter-terrorism police arrest 27-year-old in Westminster, while second man questioned under caution Detectives have arrested a dual UK-Iranian national on suspicion of terrorism offences as part of an investigation into a suspected plot near RAF Fairford.",
+      "section": "news",
+      "rankScore": 0.552124
+    },
+    {
+      "id": "0ac093480815a57c",
+      "title": "Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral",
+      "url": "https://www.aljazeera.com/gallery/2026/10/1/photos-palestinians-mourn-more-than-100-loved-ones-in-mass-gaza-funeral?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-01T16:50:41.000Z",
+      "excerpt": "The remains of 105 people were buried in the Sheikh Radwan cemetery, northwest of Gaza City.",
+      "section": "news",
+      "rankScore": 0.547474
+    },
+    {
+      "id": "16ee0181542011fd",
+      "title": "香港國安處以「23條」拘捕網媒記者，與8.31事件相關",
+      "url": "https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-01T08:48:59.000Z",
+      "excerpt": "香港記者協會關注事件，指鄧浩榮是首名在涉嫌違反《維護國家安全條例》（俗稱「23條」）生效後，於公眾領域中因該例煽動罪被捕的新聞工作者。",
+      "section": "news",
+      "rankScore": 0.524781
+    },
+    {
+      "id": "05aabc5e0e9604f1",
+      "title": "As Mortgage Rates Hit Highest Level Since 2023, Buyers Look at ARMs",
+      "url": "https://www.nytimes.com/2026/10/01/business/adjustable-mortgage-rates.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-01T17:07:25.000Z",
+      "author": "Gregory Schmidt",
+      "excerpt": "The average 30-year, fixed-rate home loan rose to 7.28 percent, up from 6.34 percent a year ago. More buyers are now turning to adjustable-rate mortgages.",
+      "section": "news",
+      "rankScore": 0.485047
+    },
+    {
+      "id": "562a008b50f69307",
+      "title": "Burnham criticised over support for Manchester City owners",
+      "url": "https://www.ft.com/content/1206b356-e62b-4e18-9925-e8dd0a283fc4?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-01T17:06:30.000Z",
+      "excerpt": "Prime minister praised City Football Group, controlled by Sheikh Mansour bin Zayed al-Nahyan, for its part in building modern Manchester",
+      "section": "news",
+      "rankScore": 0.484718
+    },
+    {
+      "id": "533a4501a5945c11",
+      "title": "【世界交汇点】对话黄京波——人生的两点之间没有直线",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142919",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "excerpt": "人生一定要沿着一条清晰的路线前进吗？学过的专业、走过的弯路，最后会把一个人带向哪里？本期《世界交汇点》，我们邀请了联合国大学驻澳门研究所所长黄京波博士。从音乐相伴的童年，到法语、经济、艺术管理和教育等不同领域的学习；从第一份实习，到在纽约九年全工全读，再到二十五年的联合国职业生涯——她的人生并没有所谓的“标准路径”。",
+      "section": "news",
+      "rankScore": 0.481747
+    },
+    {
+      "id": "3a23424f1a9fd316",
+      "title": "AI data centers: How much are ratepayers on the hook for?",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
+      "source": "npr-news",
+      "publishedAt": "2026-10-01T16:47:53.000Z",
+      "author": "Scott Neuman",
+      "excerpt": "Data centers consume large amounts of power and require upgrading infrastructure. But it's difficult to determine how much residential customers benefit and how much they actually pay for the benefit.",
+      "section": "news",
+      "rankScore": 0.478035
+    },
+    {
+      "id": "21b6a0584566d2ff",
+      "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10aEhRNzEzUmZYLXF5N1k1V3lMUjIyZ3ZrTDUxXzA2clMtUXk0RG9IZVlTYmVSRzJXLXJTWDQ1Z1V1SXJ5eTRvbkUwZDFOLTF1bmZZMmkwdWlvMDdiUWd2aVZ6VlZzc1ps?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-01T16:05:17.000Z",
+      "excerpt": "美国“龙”飞船送新一批宇航员飞赴国际空间站 chinanews.com.cn",
+      "section": "news",
+      "rankScore": 0.396636
+    },
+    {
+      "id": "e08417e27dbcfabb",
+      "title": "Cartoon: Democracy v autocracy",
+      "url": "https://www.economist.com/the-world-this-week/2026/10/01/cartoon-democracy-v-autocracy",
+      "source": "economist-week",
+      "publishedAt": "2026-10-01T12:56:48.000Z",
+      "excerpt": "A lighter take on the news",
+      "section": "news",
+      "rankScore": 0.395082
+    },
+    {
+      "id": "e6890e7a1097c857",
+      "title": "我使馆回应村田晃大持刀侵闯案开庭：敦促日方拿出应有态度 严惩凶犯",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706962.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-01T14:27:07.000Z",
+      "excerpt": "10月1日，东京地方法院对非法持刀侵闯中国驻日本大使馆的原自卫队官员村田晃大进行首次公开庭审。中国驻日本大使馆发言人就此回答记者提问。",
+      "section": "cn-news",
+      "rankScore": 0.671791
+    },
+    {
+      "id": "82b968ae25992e7a",
+      "title": "从“看戏”到“入戏” 沉浸式影视游成文旅新风尚",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706851.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-01T11:42:56.000Z",
+      "excerpt": "中新网济南10月1日电 (吕妍)“谁不知道这乐陵城是顾家的地盘。”10月1日，国庆假期首日，山东省德州市乐陵影视城“唐人街”实景片场内，一位身穿民国长衫的游客眉头微蹙、语气凌厉，一句台词出口，已然入戏。导演一声“Action”，摄像机缓缓推进，他正式开启了自己的短剧首秀。",
+      "section": "cn-news",
+      "rankScore": 0.631827
+    },
+    {
+      "id": "7fe7a46f7553612c",
+      "title": "思南任免一批干部",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwNnloOWtaWEI2Y2w0M1dvRDg1X1ltMllrMUM1U2F5RWZXd2dFMDJmaTJJNl9xOF84TW1ENEh5dklJdzhpTlRydDhOQkNPeXVyUU9kZk8tbG9ibWxNalE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-01T15:32:00.000Z",
+      "excerpt": "思南任免一批干部",
+      "section": "cn-news",
+      "rankScore": 0.579593
+    },
+    {
+      "id": "1bf981927ada9809",
+      "title": "乌克兰称乌国家科学院核研究所遭袭",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1aldyUm0wd211aER6aklEd3NKZE9WSlplcEFqaGVtQUt6eEhZUXFXejR0Rkd4MkFwWDBfaUZUcXQ3ZmNSSzBVRXItZHZSVXhIM2FZZG9LcVU?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-01T14:29:41.000Z",
+      "excerpt": "乌克兰称乌国家科学院核研究所遭袭 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.550832
+    },
+    {
+      "id": "a7023a15b91b1f0b",
+      "title": "“微醺”经济出圈 安徽休宁酒旅融合“酿”出产业新味",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-01T12:47:34.000Z",
+      "excerpt": "中新网安徽休宁10月1日电(江婉琪)“以前米酒论斤卖，现在卖的不只是一杯酒，更是一种生活方式。”安徽省级非物质文化遗产代表性项目五城米酒酿制技艺黄山市级代表性传承人李爱华说。",
+      "section": "cn-news",
+      "rankScore": 0.503701
+    },
+    {
+      "id": "1027f0c912fd600f",
+      "title": "路透：中國煉油商暫停10月燃料出口",
+      "url": "https://www.cna.com.tw/news/acn/202610010382.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-01T14:43:46.000Z",
+      "excerpt": "（中央社台北1日電）路透社今天報導，中國煉油商已暫停10月向香港和澳門以外地區出口石油產品，直到官方進一步通知。",
+      "section": "cn-news",
+      "rankScore": 0.495406
+    },
+    {
+      "id": "1a72e4e0c0867414",
+      "title": "中埃文明圆桌对话会暨精品图书赠书仪式在埃及举行",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SWjlqOVBMNTk1a09EMkdfdE1lRjRBU0RERWlNZFk3QTdoZ0ZsZ3JVbUowbExPOThQV3llQnBvUVRwdWpSa3V1NzVrNWFKZkpyYXc?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-01T13:39:05.000Z",
+      "excerpt": "中埃文明圆桌对话会暨精品图书赠书仪式在埃及举行 中国军网",
+      "section": "cn-news",
+      "rankScore": 0.468869
+    },
+    {
+      "id": "443522c5db735fa9",
+      "title": "美国9月ISM制造业指数54.5 ，预期55，前值54.6。标普500指数转跌，美国30年期国债价格领跌",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DUm02UEF5Z1NRbUxWeEpmRjNCclVMemNSSnE5NkZSNG1uTFpkOTl2eG9CYkxCTXFZZFlPZm9lbGtLUDFtU1RMZ2dLdWp6QXBYQ19V?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-01T14:08:14.000Z",
+      "excerpt": "美国9月ISM制造业指数54.5 ，预期55，前值54.6。标普500指数转跌，美国30年期国债价格领跌 华尔街见闻 谁不想拥有一个纯金的黄金棍呢! 兰香如故 新浪财经 美9月ISM制造业指数继续扩张但连降两月、成本压力骤升，标普转跌、长债承压 搜狐网 第41周：PMI强劲与AI资本开支升温后，FOMC会议纪要会否锁定再加息？ 区块周刊BlockWeeks 道琼斯工业平均指数在收益率攀升之际回吐因通胀温和而带来的反弹涨幅 tmgm.com",
+      "section": "cn-news",
+      "rankScore": 0.420725
+    },
+    {
+      "id": "4baddd9124de2c80",
+      "title": "Why US Himars missile shortfalls raise stakes for a potential Taiwan Strait conflict",
+      "url": "https://www.scmp.com/news/china/military/article/3369442/why-us-himars-missile-shortfalls-raise-stakes-potential-taiwan-strait-conflict?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-01T14:00:31.000Z",
+      "author": "Liu Zhen",
+      "excerpt": "A potential conflict in the Taiwan Strait could see crossfire exchanged between two mobile rocket systems: the US-made High Mobility Artillery Rocket System (Himars), and its mainland Chinese counterpart, the PHL-16, also known as the PCL-191.",
+      "section": "cn-news",
+      "rankScore": 0.417954
+    },
+    {
+      "id": "0dc078f7830deb2e",
+      "title": "亚运会丨明日看点：女曲冲击奥运资格 网球女单中国“德比”",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVhYZ3R6RmxoSkQ3NjdYanA4ZWU5ZDhQSDdMd1JLSTFVZzNJbld1TlJuclJrTG9tS281X1ROUnp0NEMyLUxBTzJVRXhrLXh1UzkybXJQX0RLS05qNUU1bWNoWDJzYkpwUG5XTDRKcGJqeXFNamlKYTVFaTRhd0Qxd01HblV5ZldoTHl1NmdnM0FDLXVYNWZmZjl3?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-01T16:27:09.000Z",
+      "excerpt": "亚运会丨明日看点：女曲冲击奥运资格 网球女单中国“德比” 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.403365
+    },
+    {
+      "id": "d5e962a814ba4cee",
+      "title": "侗族多耶节启幕 广西侗乡上演民俗文化盛宴",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706958.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-01T13:54:16.000Z",
+      "excerpt": "中新社广西柳州10月1日电 (记者 黄艳梅)第二十三届(柳州·三江)侗族多耶节10月1日晚在广西柳州市三江侗族自治县启幕，当地民众及海内外游客欢聚一堂，共同领略多姿多彩的侗族文化盛宴。",
+      "section": "cn-life",
+      "rankScore": 0.712647
+    },
+    {
+      "id": "3640df1028278899",
+      "title": "今天起，广东正式进入森林特别防护期！",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeFJKSXhJYjdWLXNrMzYwbUpIcFZ0dEMyejdXLVFvbDVSNzJIbTludC1JUGNXSVpwdXRwZncwcHh0dnYtdXd3eU1vTWk2Z0llOWJ5eEVZRFl0Y1dVcXM0QmFwSTRxVTJhZUlXLW04dFhCcjRDTVBqSnVSSFJCRjhENUhSbjZuNmhWSThrOG0tSnVicWw0TW90VmkySGVjTTR5QXNxV19oUTk4RGstdjBOYmxkTlREdjcwUzZKZVVMdC1RM1N5Q0VpMUlxdzkzZWJUeHk0dG1WVXk?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-01T17:11:05.000Z",
+      "excerpt": "今天起，广东正式进入森林特别防护期！ 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.625324
+    },
+    {
+      "id": "12618464b0221fef",
+      "title": "国际劳工组织：尼泊尔洪灾影响就业和生计 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02VDYzYjhfZ2pYZjIxYjhlZk1odDF4b1ZsSFBZdkJWVzBCX2s2T3BFLUVtTzQ3RWdqdzRRbjJKMkE0Z3JVaE9zc19CcmdlY1o5aXhVeG9WOA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-01T16:17:02.000Z",
+      "excerpt": "国际劳工组织：尼泊尔洪灾影响就业和生计 UN News",
+      "section": "cn-life",
+      "rankScore": 0.600378
+    },
+    {
+      "id": "56c7775ab8de8a77",
+      "title": "【视频】转向螺栓存锈蚀风险，大众全球召回约286万辆汽车",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sQ1hRMHZ1RTBial94QWVDU29wamZHdnYxXzVoRkhOOTV0dExwUDZ0SnZLUzdYVElaa3NkV1M1S0ctaERaOExiMzNjZlc3SHVjZjlUanMzVHQyZE90c2doTV9nYkNQem1vNE5N?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-01T15:18:33.000Z",
+      "excerpt": "【视频】转向螺栓存锈蚀风险，大众全球召回约286万辆汽车 汽车之家",
+      "section": "cn-life",
+      "rankScore": 0.445966
+    },
+    {
+      "id": "8bfff0e5bc8692dd",
+      "title": "南华大学启动全员OPC创业教育",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTVlp3a190R2NsOWhGMU5TTm9nWEdkT25iczctS1J5ZGhwdjdvWUIxa0RCSVM4ckZsTVZsUFNfbktmYUNYRDlXZktWZDRZR0pYTWZwVTNlcFplbnd4bTM3N2I0SFNqTVdzc0FmUzFkYw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-01T15:39:00.000Z",
+      "excerpt": "南华大学启动全员OPC创业教育 hn.chinanews.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.388549
+    },
+    {
+      "id": "354ec1ec42e71028",
+      "title": "帕金森病中一致的运动活力（vigor）网络：脑刺激效应的潜在靶点",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HcVdETmVQU2pkZjNvdVNnb3c1cWFteWZReXdhVDZSRmhfRDhGaDFTdUMwY3lOTnNUUl9HVXd1S05ud1NlcUZvUUUzQ3R3Wnl5bjFSbThpQWE1bVVPdXRNeXZmWWw2M0s5LUlvQTRR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-01T11:58:11.000Z",
+      "excerpt": "帕金森病中一致的运动活力（vigor）网络：脑刺激效应的潜在靶点 生物通",
+      "section": "cn-life",
+      "rankScore": 0.37404
+    },
+    {
+      "id": "bbbeb17875d77b9c",
+      "title": "广州市公安局花都分局关于冻结资金返还的公告",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqaFYwX19UMktVWGh4enJFQ1JTN0xyU2V1SEoyMTNFZkxIN092VlEzU25yd3hva1hEYnZ6bkdDaTg1VWRNcWpNZE95cmhKbTJkbVNjZ0Q4Tm94MmZCQ3Z5eTNueHBxX1BaVVE?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-01T09:29:00.000Z",
+      "excerpt": "广州市公安局花都分局关于冻结资金返还的公告 广州市公安局",
+      "section": "cn-life",
+      "rankScore": 0.366271
+    },
+    {
+      "id": "4ac66d7c66b6cc5e",
+      "title": "北大让AI“摸黑”探索物理 先发明“质量” 再找到万有引力",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxUkN3SmxFTWljSy1GTmNON01Ka3RVVWNLYnEwdWx1RzJpanQ4TkRkRk84Qm9UQmw2b01kU0tDaC1MUFUwR1pvdjE1XzMyaDVGMTV3UmZjSWI4YWFZQUNfR3RxeWNySzlC?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-01T16:00:24.000Z",
+      "excerpt": "北大让AI“摸黑”探索物理 先发明“质量” 再找到万有引力 文学城",
+      "section": "cn-life",
+      "rankScore": 0.329278
+    }
+  ],
+  "warnings": []
+}
