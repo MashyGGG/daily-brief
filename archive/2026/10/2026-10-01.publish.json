@@ -1,0 +1,75 @@
+{
+  "publishDate": "2026-10-01",
+  "lines": {
+    "daily": {
+      "sources": [
+        {
+          "date": "2026-10-01",
+          "slot": "morning"
+        },
+        {
+          "date": "2026-10-01",
+          "slot": "evening"
+        }
+      ],
+      "itemCount": 30,
+      "itemIds": [
+        "1e225815e157799f",
+        "00d2ab372410a799",
+        "04fe01baf66e5d2c",
+        "53b219630117ff67",
+        "5b195a42268af3d9",
+        "40afc56873f59675",
+        "20251ce7b7037bc9",
+        "4915bcfc571df1e8",
+        "0488eb937403e1a7",
+        "6318c9d7d07624c8",
+        "681047095788e710",
+        "7ead047586eacb2c",
+        "689cd0e5b47cbf11",
+        "c043bb618c942bd6",
+        "58e899643b84671b",
+        "9c5689d6d7d35890",
+        "c8ec8955b5047209",
+        "87fd59a361603334",
+        "aacf75617a2c5b02",
+        "a4b5aff8c084c911",
+        "403da3aa1321a663",
+        "1dac3192106ae9a8",
+        "ce442dfdfe04e80a",
+        "aa4efbff3a6b658a",
+        "961da02e16a3c88a",
+        "ad1287e2d8958b85",
+        "30c908becb7a39c4",
+        "c4f865398ef2d4d1",
+        "97697358ca5496cf",
+        "d38948858c4058ef"
+      ],
+      "contentHash": "88b5302885ffd39b",
+      "targets": {
+        "notion-archive": {
+          "platform": "notion",
+          "status": "published",
+          "postId": "3ec9696e-9c08-81a7-bb96-d9cdb79c4bf1",
+          "url": "https://app.notion.com/p/2026-10-01-3ec9696e9c0881a7bb96d9cdb79c4bf1",
+          "contentHash": "88b5302885ffd39b",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-10-01T18:29:00.351Z",
+          "lastError": null
+        },
+        "juejin": {
+          "platform": "juejin",
+          "status": "draft",
+          "postId": "7691231869480222766",
+          "url": "https://juejin.cn/editor/drafts/7691231869480222766",
+          "contentHash": "88b5302885ffd39b",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-10-01T18:29:00.351Z",
+          "lastError": null
+        }
+      }
+    }
+  }
+}
