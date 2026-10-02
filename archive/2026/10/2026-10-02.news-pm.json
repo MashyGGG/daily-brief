@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-02",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-02T16:36:55.159Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "a261b45d30f4662e",
+      "title": "蔡英文下周访美 卸任总统后首次 将赴斯坦福大学演讲",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261002-%E8%94%A1%E8%8B%B1%E6%96%87%E4%B8%8B%E5%91%A8%E8%AE%BF%E7%BE%8E-%E5%8D%B8%E4%BB%BB%E6%80%BB%E7%BB%9F%E5%90%8E%E9%A6%96%E6%AC%A1-%E5%B0%86%E8%B5%B4%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%BC%94%E8%AE%B2",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-02T15:45:22.000Z",
+      "author": "夏榕",
+      "excerpt": "路透社台北消息，台湾前总统蔡英文周五（10月2日）表示，她将于下周访问美国，在斯坦福大学安全会议上发表演讲，这将是她自2024年卸任以来首次访问美国。",
+      "section": "news",
+      "rankScore": 0.673563
+    },
+    {
+      "id": "4f5335109be533b7",
+      "title": "迪拜航空袭击事件：特朗普称怀疑与伊朗有关 威胁对其重击",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261002-%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%80%80%E7%96%91%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%9C%89%E5%85%B3-%E5%A8%81%E8%83%81%E5%AF%B9%E5%85%B6%E9%87%8D%E5%87%BB",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-02T15:04:19.000Z",
+      "author": "古莉",
+      "excerpt": "美国总统唐纳德·特朗普周四威胁称，如果证实德黑兰方面与迪拜航空一架航班的机长遭其副驾驶持刀袭击一事有关，将会“重创”伊朗；以色列方面则指出，该航班副驾驶曾接受“伊斯兰主义思想灌输”。",
+      "section": "news",
+      "rankScore": 0.652511
+    },
+    {
+      "id": "146982e2b1a34d68",
+      "title": "Riot police clash with students as education protests rage in France",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-02T16:26:09.000Z",
+      "excerpt": "More than 550 schools have been disrupted as protests over standards and lack of teachers continue.",
+      "section": "news",
+      "rankScore": 0.62503
+    },
+    {
+      "id": "fc7bb6cc5e458b5e",
+      "title": "Peter Thiel revealed as secret buyer of Bel Air mansion that sold for $130m",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/peter-thiel-mansion-bel-air",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-02T16:22:51.000Z",
+      "author": "Lucy Campbell",
+      "excerpt": "The 1938 mansion, Casa Encantada, once belonged to Conrad Hilton and was sold at foreclosure auction Tech billionaire Peter Thiel has been revealed as the new owner of a storied Bel-Air estate that quietly sold in July for a staggering $130m.",
+      "section": "news",
+      "rankScore": 0.554228
+    },
+    {
+      "id": "bc3399ab0430cc06",
+      "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
+      "url": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-02T16:17:19.000Z",
+      "author": "Jack Ewing",
+      "excerpt": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars.",
+      "section": "news",
+      "rankScore": 0.551958
+    },
+    {
+      "id": "66322c968b8eeae3",
+      "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+      "url": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-02T16:06:25.000Z",
+      "excerpt": "World Food Programme warns of 'devastating' impact as conflict displaces thousands and cuts off food supplies.",
+      "section": "news",
+      "rankScore": 0.547486
+    },
+    {
+      "id": "347cd38fdafc48c7",
+      "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
+      "url": "https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-02T08:24:10.000Z",
+      "excerpt": "杜拜航空這班飛往特拉維夫的航班上，斯米特·馬查爾機長（Capt Smit Machchhar）遭另一名機師襲擊。以色列總理內塔尼亞胡讚揚他是「真正的英雄」，「拯救了174人的生命」，並阻止了一場「災難性的空中事故」。",
+      "section": "news",
+      "rankScore": 0.536768
+    },
+    {
+      "id": "4dd2894229d94f98",
+      "title": "Republicans Pull Money From North Carolina Senate Race As Midterm Prospects Dim",
+      "url": "https://www.nytimes.com/2026/10/02/us/midterms-election-republicans-north-carolina-kansas.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-02T16:26:28.000Z",
+      "author": "Shane Goldmacher and Theodore Schleifer",
+      "excerpt": "As the Republicans try to hold their majority, the Senate Leadership Fund is diverting resources to Kansas, which has become a growing concern for the party.",
+      "section": "news",
+      "rankScore": 0.486248
+    },
+    {
+      "id": "91c0bd4698463565",
+      "title": "French schools burn as student unrest spreads",
+      "url": "https://www.ft.com/content/38176237-e89f-410c-979c-c8c5d68d041a?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-02T16:21:49.000Z",
+      "excerpt": "Prime Minister Sébastien Lecornu and far-right leader Marine Le Pen blame far-left party for stoking protests",
+      "section": "news",
+      "rankScore": 0.484579
+    },
+    {
+      "id": "ecda25ea97317a9a",
+      "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
+      "source": "npr-news",
+      "publishedAt": "2026-10-02T14:37:27.000Z",
+      "author": "Justin Chang",
+      "excerpt": "NAZA is an acronym for nezek agavi , Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.",
+      "section": "news",
+      "rankScore": 0.447114
+    },
+    {
+      "id": "ec4d80089e64776f",
+      "title": "每周精选：我国三所大学入选泰晤士大学排名 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nRnJGZGZRYlV5VmxraGx3cC1nbDN3T2tISDk0M2J1bW5MRzBHaTl5VlRzUEkycjl0OWxmMjdnbG9IUGFVT3gzZTB6el9zZEJjdVYyM0tkR254RkNOWlBRRHJBRQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-02T15:36:04.000Z",
+      "excerpt": "每周精选：我国三所大学入选泰晤士大学排名 8world 泰晤士高等教育世界大学排名发布，南科大蝉联广东第一 搜狐网 重磅发布！THE2027世界大学排名：亚洲三校首进前15，清华首超ETH，位列亚洲第一 腾讯新闻 2026世界大学排名：清华11，东大27 日经中文网 新西兰大学排名下滑，奥大跌到这里了… 新西兰中文先驱网",
+      "section": "news",
+      "rankScore": 0.401276
+    },
+    {
+      "id": "1a3c40c334d32a70",
+      "title": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168506",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "excerpt": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn.",
+      "section": "news",
+      "rankScore": 0.334794
+    },
+    {
+      "id": "7692121ce9f7053b",
+      "title": "我国首个百兆瓦级 这个巨型“充电宝”成功并网",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707319.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-02T12:49:43.000Z",
+      "excerpt": "今天(10月2日)，我国首个百兆瓦级压缩二氧化碳储能项目——中国华电新疆木垒压缩二氧化碳储能项目成功并网，开辟了大容量压缩二氧化碳储能绿色、零碳、高效、经济的新路线。",
+      "section": "cn-news",
+      "rankScore": 0.700183
+    },
+    {
+      "id": "27ab65450109a7b8",
+      "title": "“跟着功夫游大陆”主题展亮相高雄旅展",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707332.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-02T14:27:15.000Z",
+      "excerpt": "中新社高雄10月2日电 (记者 朱贺)“跟着功夫游大陆”主题展区亮相2日开幕的2026高雄冬季旅展。台湾青年李翊玄与八岁儿子李承峰带来武术表演，动作流畅，拳风呼啸，一招一式，刚柔并济，赢得掌声与喝彩。",
+      "section": "cn-news",
+      "rankScore": 0.696853
+    },
+    {
+      "id": "5b1f2be48839b2c5",
+      "title": "马克龙称七国集团将释放最多1亿桶柴油和原油储备",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tNFJHSmVFQnVzLWhKWHdEZTZ3Wmkyb0k1a29TNVhZRWlWbVd0OWlFdzlsRS16d20xbEZxYnh6c2NYVnJhMzd0WDN5UkxFYXdEa09fUEpIQzA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-02T14:49:18.000Z",
+      "excerpt": "马克龙称七国集团将释放最多1亿桶柴油和原油储备 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.58033
+    },
+    {
+      "id": "0028bf00ea496136",
+      "title": "万亿级车轮经济跑出新动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707331.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-02T14:02:28.000Z",
+      "excerpt": "日均3亿人次在路上！",
+      "section": "cn-news",
+      "rankScore": 0.558714
+    },
+    {
+      "id": "c95f0f97963fc954",
+      "title": "国庆游西藏 | 拉萨这个草原市集，值得好好逛一逛~",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPbXZTNUFhUV8xRks3dzdhc3BSbU0yTF9oTTJQSGZNeG1zWkR4U1gwQ1E2cDZRVUkxU1RnN3hnakJ5T0JkMzZaUFZ3aG4xY0E1MDZidzFSMVhOTFRYTnM1RjNrTTh6bmNWNFJsRjFRQk11Zw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-02T15:00:14.000Z",
+      "excerpt": "国庆游西藏 | 拉萨这个草原市集，值得好好逛一逛~ 西藏自治区文化和旅游厅",
+      "section": "cn-news",
+      "rankScore": 0.520334
+    },
+    {
+      "id": "b877f9c21841777b",
+      "title": "金与正：韩方企图把朝鲜半岛局势再次拖入危险境地，朝鲜正在进行的南部边境要塞化工程，目的在于“永远关闭边境来避免同韩国的任何接触”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GUnk0SDFHSF8wUzdNS0Y0cXI5SmJIM2FvQ2I3UktMQzVqQkFndWg2dnY2WHhkLVM3czlHekdyNGpKV2dtOEFVUFZWNzFZa1BQbTlQTERWdTR0UmZJQlE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-02T10:41:00.000Z",
+      "excerpt": "金与正：韩方企图把朝鲜半岛局势再次拖入危险境地，朝鲜正在进行的南部边境要塞化工程，目的在于“永远关闭边境来避免同韩国的任何接触”",
+      "section": "cn-news",
+      "rankScore": 0.46573
+    },
+    {
+      "id": "4a1937ffb34563b8",
+      "title": "摩尔多瓦基希讷乌国际机场收到炸弹警报 乘客被疏散",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kc09RUEIyT3dNT2tyeEVBT2U2dzVPUGY4ZmpZVTdQYWcwR2ducU1ONUNMX2I2N1BhQlM2cHhqWmdiUjlSd1ZzX3RDUEhVczdpejNJbW5LUkhIZVhMb015bDY1UHhxdHJU?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-02T15:12:25.000Z",
+      "excerpt": "摩尔多瓦基希讷乌国际机场收到炸弹警报 乘客被疏散 央广网",
+      "section": "cn-news",
+      "rankScore": 0.459666
+    },
+    {
+      "id": "2fe783ff01486c6a",
+      "title": "港澳人士台適生活講座10場落幕 共同提升台灣社會韌性",
+      "url": "https://www.cna.com.tw/news/acn/202610020306.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-02T12:18:11.000Z",
+      "excerpt": "（中央社記者張淑伶台北2日電）由策進會和陸委會合辦的10場「2026港澳人士台適生活講座」，最終場今天落幕，系列講座共吸引超過200名在台港澳人士參與。他們並透過學習急救，共同參與提升台灣社會韌性。",
+      "section": "cn-news",
+      "rankScore": 0.453852
+    },
+    {
+      "id": "84bfdb48fb98deae",
+      "title": "If young US people accept Xi’s invitation to China, what will Beijing show them?",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369609/if-young-us-people-accept-xis-invitation-china-what-will-beijing-show-them?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-02T14:00:21.000Z",
+      "author": "Eve Qiao",
+      "excerpt": "China is ramping up its efforts to bring young Americans to China, and ready to be seen as a country concerned with environmental protection, lifting people out of poverty, protecting minority cultures and building the technology of the future.",
+      "section": "cn-news",
+      "rankScore": 0.433796
+    },
+    {
+      "id": "3eec043b2d665cca",
+      "title": "电影国庆档首日突破1.8亿元，“上海出品”占近半壁江山",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRkFzaEVOY3BOeC15bk80djM3YmROOUFLRWs2ZjZOLW1FbUpTYnJ2QndmU1hqQWpXSC1tcGdZUTJBT3R3TlNjMUxqSHl2SlUwRS1mZVRLd0hSbGdoNkJUb09HejZIQnZHa2dXVUZHeUtxUkdDWHI0elpkdWxPSkNRYw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-02T16:13:37.000Z",
+      "excerpt": "电影国庆档首日突破1.8亿元，“上海出品”占近半壁江山 央广网 2026国庆档票房破4亿 新浪财经 陈思诚、小沈阳、小猪佩奇，谁能撑起国庆档？ thepaper.cn 国庆档首日票房破2亿！“电影+”撬动商圈人气 光明网 张译马丽《神探之痕迹》领跑：国庆档预售冠军 中华网",
+      "section": "cn-news",
+      "rankScore": 0.41283
+    },
+    {
+      "id": "2e12aac5482b72d5",
+      "title": "2026年国庆假期首日琼州海峡客滚运输平稳运行",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-02/10707322.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-02T12:55:49.000Z",
+      "excerpt": "中新网广州10月2日电 (记者 郭军)记者2日从交通运输部珠江航务管理局(简称“珠航局”)了解到，2026年国庆假期首日(10月1日)，琼州海峡客滚运输发送实航284班次，运送旅客112657人次、车辆28277辆次，相比2024年同期分别增长9.7%、增长21.4%、增长19.3%。新能源车运量增长较快，单日运输6873辆次，创国庆假期历史新高。",
+      "section": "cn-life",
+      "rankScore": 0.703937
+    },
+    {
+      "id": "1c1c37fb36e0be97",
+      "title": "2天7地震！全民大恐慌！（视频）",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1bTk1ZTNSRjJCV2hYQXhScHNHcjdhNHhtVnZTb2YtZWtPcmNITDVHYk5jZDR1U2xSeWRsY1FSb1N2MGhIXzg3VmxSRFBFN0dBSUttLXJXUURIeTdLd0VIaklVV2VDUQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-02T16:07:30.000Z",
+      "excerpt": "2天7地震！全民大恐慌！（视频） 人民报手机版",
+      "section": "cn-life",
+      "rankScore": 0.616422
+    },
+    {
+      "id": "767265351cc35bb1",
+      "title": "又大涨了",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sa0JWangwd2VfbzY3NlJHbDNiWEE4NHZWN3RENVFhTXc2a0xnWVJzRnZEc0kycG5ybGNaMFVnVUk3S285Y1ZjSDFDbkJoMkJNVXZ2UEttRjA0Z0VjQmxRYTJVNXhqRV8zT2V2cTR3NHJKdTBScVdoZGhR?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-02T15:52:00.000Z",
+      "excerpt": "又大涨了 chnfund.com",
+      "section": "cn-life",
+      "rankScore": 0.609268
+    },
+    {
+      "id": "6e183e9d7254d4e3",
+      "title": "市县领导干部带头接访解民忧（二十）",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BNlc1aTRYNXI2QUJRaDNLSkJKSVRKS0dydkJHaE13dkNKNGR0Q3NrSlA0cVFSQ0dVZndnWHJYRFZieG9zMFFvc3RaRmJWSXJNV2JHWEFSMFlSdWZnLTY1VURLNzVvVVhpVnR3X1Joc25hU28?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-02T14:46:00.000Z",
+      "excerpt": "市县领导干部带头接访解民忧（二十） 湖北省信访局",
+      "section": "cn-life",
+      "rankScore": 0.514495
+    },
+    {
+      "id": "f7f523865b815711",
+      "title": "基于立体脑电图的后扣带回癫痫亚型发作期致痫网络差异研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80QTNHbXpQSzNXcFc1QzRmSllMNmc0SmwxMDNoMHk1UmRfTmJDRFNRZ1B3UU9JUXd3Ukx5bDFGWUV0OU9OYzNNanJTbG1tUnVGUkNua3JVS3FuWGl2Mno5S3RLRzFDMTlZNmVUWUFR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-02T16:09:32.000Z",
+      "excerpt": "基于立体脑电图的后扣带回癫痫亚型发作期致痫网络差异研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.480169
+    },
+    {
+      "id": "2ebd8501a3255088",
+      "title": "MEDEZE 获得泰国食品药品管理局(อย.) 颁发的GMDP PIC/S 认证，提升用于研究的细胞疗法标准 - TNN Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6RTJMbHZRVXhINUVGMGpzZDMwSUNlRTZLYjZ3SG80S1AtaGtPTVA1cWp2MkI4N0VMc09uV2VRaDhKa09tQXNWMUk5cEtEdkNRSzlDZ1VVenY?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-02T12:34:50.000Z",
+      "excerpt": "MEDEZE 获得泰国食品药品管理局(อย.) 颁发的GMDP PIC/S 认证，提升用于研究的细胞疗法标准 TNN Thailand",
+      "section": "cn-life",
+      "rankScore": 0.403097
+    },
+    {
+      "id": "f3ad1d6405c5450d",
+      "title": "八年，俩娃，三场毕业典礼，一次高考，我在西班牙公立教育中学到的（一）",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVHh6ejdta0lsWXl0bW8yWE5MNm8yc2QwUGlTWXhUZTFfWW9qRS1TUUdKb2JNdDhNTjR0R3pTQWlYd1VrNFlZZk5XZ1BDTHFxak9RT3hvYkRTbU01dVdzUWVqRTR3RThjSU93aV9yOGZfS3Jlc0EyRDlaMDdQY002VUwyWjBaclZNS1pLQUZIMmw2NEpGcTJLTzN0MlBkWkE2STg0RkRpS3RIdDc4RkhZbW1SajRrNFVMWnF0VG9wMTZYOXRhNnZlcHQzTF9XM1FaVTIxY1V2a3FBc2g2M2NNeQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-02T14:10:10.000Z",
+      "excerpt": "八年，俩娃，三场毕业典礼，一次高考，我在西班牙公立教育中学到的（一） 欧洲头条",
+      "section": "cn-life",
+      "rankScore": 0.374845
+    },
+    {
+      "id": "947141ddbdc7fd1e",
+      "title": "我国人造太阳里程碑进展！BEST聚变装置园区交付",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qOGlfTUh2MXN4SmRUbGdObTRNMmpmTDdtb0UwOEhsSkVtN0tUZTZGWTRwN3hrMkpnRWlmeDJLb1N0QzhsaFh0SVM2dGZSNHdWYTFpaFZBeHg?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-02T12:56:00.000Z",
+      "excerpt": "我国人造太阳里程碑进展！BEST聚变装置园区交付 驱动之家",
+      "section": "cn-life",
+      "rankScore": 0.293354
+    }
+  ],
+  "warnings": []
+}
