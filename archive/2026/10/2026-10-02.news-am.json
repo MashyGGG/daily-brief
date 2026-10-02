@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-02",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-02T01:48:11.787Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "7aa30af9b78b07c5",
+      "title": "「我喜歡證明別人錯了」：這些女性拿起工具，自己做裝修和水喉工程",
+      "url": "https://www.bbc.com/zhongwen/articles/cq36lg32d362o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-02T01:42:08.000Z",
+      "excerpt": "女性DIY專家和女性工匠談及她們如何改變傳統男性主導的領域。",
+      "section": "news",
+      "rankScore": 0.837979
+    },
+    {
+      "id": "77ed3f899dbc5131",
+      "title": "小心误导！习近平参加的国际峰会一个接一个，真的是成果有限？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261001-%E5%B0%8F%E5%BF%83%E8%AF%AF%E5%AF%BC-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E5%8A%A0%E7%9A%84%E5%9B%BD%E9%99%85%E5%B3%B0%E4%BC%9A%E4%B8%80%E4%B8%AA%E6%8E%A5%E4%B8%80%E4%B8%AA%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%88%90%E6%9E%9C%E6%9C%89%E9%99%90",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-01T22:38:34.000Z",
+      "author": "阿曼亭",
+      "excerpt": "法国世界报周四刊出的一篇文章表示，中国国家主席习近平不断地参加一个又一个的国际峰会。看起来，习近平似乎并没有在这些峰会上取得什么很大的成果。但法国世界报表示，这种印象其实是具有误导性的。习近平是在不要求这些国家作出实质性承诺的情况下，争取尽可能多的国家支持中国，巩固中国的核心地位。",
+      "section": "news",
+      "rankScore": 0.647325
+    },
+    {
+      "id": "83f86601badc5d9f",
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-01T22:28:45.000Z",
+      "excerpt": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+      "section": "news",
+      "rankScore": 0.580138
+    },
+    {
+      "id": "dc901256f6732bb2",
+      "title": "Swing-and-a-miss: MLB rescinds idea to host baseball game in national park after backlash",
+      "url": "https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-02T01:36:50.000Z",
+      "author": "Abené Clayton",
+      "excerpt": "Officials in Wyoming had called notion to host game in Grand Teton national park ‘deeply unwelcome’ Major League Baseball (MLB) leadership is no longer considering holding a game inside a national park, according to a letter commissioner Robert Manfred sent to officials in Teton county, Wyoming,…",
+      "section": "news",
+      "rankScore": 0.557475
+    },
+    {
+      "id": "ee8cc9f20ebd874d",
+      "title": "UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays",
+      "url": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-02T00:29:57.000Z",
+      "excerpt": "Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running.",
+      "section": "news",
+      "rankScore": 0.542612
+    },
+    {
+      "id": "7f1f6d3bb4349ea7",
+      "title": "Canada’s Proposed Oil Pipeline Offers Carney Relief From Domestic and Global Turmoil",
+      "url": "https://www.nytimes.com/2026/10/01/world/canada/carney-alberta-british-columbia-oil-pipeline.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-01T21:47:30.000Z",
+      "author": "Ian Austen",
+      "excerpt": "The new pipeline from Alberta’s oil sands to the Pacific Coast may lower separatist tensions in that province while also loosening energy ties with the U.S.",
+      "section": "news",
+      "rankScore": 0.506512
+    },
+    {
+      "id": "5e4884443b4f1ba6",
+      "title": "Chi Phi Members Accused in Cornell Sex Assault Lawsuit Give Varying Accounts of Night",
+      "url": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-02T00:57:52.000Z",
+      "author": "Maia Coleman, Claire Fahy and Michael C. Bender",
+      "excerpt": "Their accounts, detailed in hundreds of pages of investigative files obtained by The New York Times, were disjointed and sometimes contradictory. All the men denied any wrongdoing.",
+      "section": "news",
+      "rankScore": 0.480214
+    },
+    {
+      "id": "ee7fe0e459081e41",
+      "title": "Bangkok cements its place as gem-trading hub",
+      "url": "https://www.ft.com/content/5956dc9c-d0c3-4205-9309-1abdab9782c8",
+      "source": "ft-world",
+      "publishedAt": "2026-10-02T00:00:05.000Z",
+      "excerpt": "The expertise the Thai capital can offer and its breadth of coloured stones continue to draw clients from across the world",
+      "section": "news",
+      "rankScore": 0.468978
+    },
+    {
+      "id": "802fd4eac308012c",
+      "title": "The family of Renee Good files lawsuits over her death during Minneapolis ICE raids",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-minneapolis",
+      "source": "npr-news",
+      "publishedAt": "2026-10-01T20:15:07.000Z",
+      "author": "Meg Anderson",
+      "excerpt": "The fatal shooting of Renee Good by a federal immigration agent last January in Minneapolis set off a firestorm of protests around the U.S. Her family is speaking out for the first time.",
+      "section": "news",
+      "rankScore": 0.425234
+    },
+    {
+      "id": "089f1b914a9510c7",
+      "title": "联合国贸发会议：拉美外资流入增加 但新建生产项目减少",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142923",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "excerpt": "2025年，拉丁美洲和加勒比地区吸引的外国直接投资增加，但用于新建工厂、物流设施等生产性项目的投资却有所减少。",
+      "section": "news",
+      "rankScore": 0.422951
+    },
+    {
+      "id": "1dfcff631785624a",
+      "title": "菲律宾举办“乱世中的勇气”图片展 呼吁铭记“慰安妇”历史",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIcDZJb1Z5b0VuYVlHcE01eC1naGliMzhITDRMeTVqVXdZNTFoZVk0cG1oaTBucmxzTEk5bTNEaXFRUUY0b1FPOVZkTEJhT1JHRU5OR2otcmNnYWR2MXJzazhobmp0MUJI?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-02T01:23:12.000Z",
+      "excerpt": "菲律宾举办“乱世中的勇气”图片展 呼吁铭记“慰安妇”历史 chinanews.com.cn",
+      "section": "news",
+      "rankScore": 0.415834
+    },
+    {
+      "id": "395d565825e7e00c",
+      "title": "Politics",
+      "url": "https://www.economist.com/the-world-this-week/2026/10/01/politics",
+      "source": "economist-week",
+      "publishedAt": "2026-10-01T12:45:03.000Z",
+      "section": "news",
+      "rankScore": 0.337722
+    },
+    {
+      "id": "080faed83060876a",
+      "title": "贵州湖南广西广东福建等地有较强降水 中东部地区将有大风降温天气",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-02/10706992.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-02T01:40:37.000Z",
+      "excerpt": "中新网10月2日电 据中央气象台网站消息，昨日，贵州、浙江、福建、广东、广西等地出现较强降雨，内蒙古、东北、黄淮及江南等地出现大风或降温天气。预计未来三天，青藏高原东部至南方大部地区多阴雨天气，贵州、湖南、福建、广东、广西等局地有较强降雨，关注对假期交通、旅游安全、秋收等的不利影响；2日起，新一股冷空气影响，中东部地区及东部海区风力较大，关注大风降温天气对人体健康、交通出行、农牧业及渔业生产、海上航行等的影响。",
+      "section": "cn-news",
+      "rankScore": 0.837473
+    },
+    {
+      "id": "e68e2370e8e1a326",
+      "title": "中方代表28国呼吁国际社会遏止单边强制措施",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10706982.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-01T22:53:10.000Z",
+      "excerpt": "中新社联合国10月1日电 当地时间10月1日，中国常驻联合国代表傅聪代表28个观点相近国家在联大第三委员会就单边强制措施作共同发言，呼吁国际社会坚决遏止这一非法行径。",
+      "section": "cn-news",
+      "rankScore": 0.716519
+    },
+    {
+      "id": "98972a05f09b745b",
+      "title": "桂林文旅局：关注到桂林文促会发布未经全面核实公告，已启动调查程序",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50aVo0MGhUZFIzNFhGejlnTEdzdkJJOEVHcHZKbUNOY1JFLVE4WEZENnl5QVRldzJ3d2Z2eXFEdGlrak0tSkxpTnpoSFJsS3d0NTRvUG5lUXc?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-02T01:15:01.000Z",
+      "excerpt": "桂林文旅局：关注到桂林文促会发布未经全面核实公告，已启动调查程序 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.621705
+    },
+    {
+      "id": "b79b56d033669db9",
+      "title": "让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707009.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-02T01:00:11.000Z",
+      "excerpt": "中新网北京10月2日电 题：让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
+      "section": "cn-news",
+      "rankScore": 0.617997
+    },
+    {
+      "id": "88cdaa6101a8c223",
+      "title": "把140年前的光做成夜生活？上海你真会玩",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hWk1HQnZFVzVtb2lscm9oc1FwUHNMSUtLX0NNdS1YczBMenBMZ2RTS3JORHo2RXJaeWhxMXlfNXBwUE9vSk5GZWM0cDVPdnlNRUhTMUpseDg0SDAtMVZZWg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-02T00:10:00.000Z",
+      "excerpt": "把140年前的光做成夜生活？上海你真会玩",
+      "section": "cn-news",
+      "rankScore": 0.605451
+    },
+    {
+      "id": "a5397766f45bd78c",
+      "title": "中国驻美国大使谢锋：年底前，中美两国元首还有望在深圳、迈阿密两度聚首",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pNjZnUVNvMk13VGFXTUh0N1FkeDVaUUNBaTdxR1pPdHNOc2pqOEVQWHNRdHc0UFBWeGZPblBtbkZicnVhZlBoZGNvSzQwbTdlNkxXcFZzOWlVQ0pkZ1dCaGY1S1I?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-02T01:26:00.000Z",
+      "excerpt": "中国驻美国大使谢锋：年底前，中美两国元首还有望在深圳、迈阿密两度聚首 新京报 中国驻美大使谢锋：年底前，中美两国元首还有望在深圳、迈阿密两度聚首，为中美关系注入强劲动力 新浪新闻_手机新浪网 谢锋：中美竞争不是你死我活的“拳击赛” 观察者网 驻美大使：习近平主席访美是一次领航定向之行 凤凰网 谢锋：中美携手是人类福音 共促世界共赢 中华网",
+      "section": "cn-news",
+      "rankScore": 0.555067
+    },
+    {
+      "id": "2c541d33933abf7f",
+      "title": "Online claims revive mercury mystery around tomb of first Chinese emperor",
+      "url": "https://www.scmp.com/news/china/science/article/3369469/online-claims-revive-mercury-mystery-around-tomb-first-chinese-emperor?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-02T01:00:07.000Z",
+      "author": "Meredith Chen",
+      "excerpt": "Online claims that archaeologists have identified the source of mercury in the mausoleum of Qin Shi Huang – China’s first emperor, who unified the country more than 2,000 years ago – have revived interest in ancient cinnabar sites in northwestern China’s Shaanxi province.",
+      "section": "cn-news",
+      "rankScore": 0.480651
+    },
+    {
+      "id": "7fe0ccf360671d48",
+      "title": "德国防军将于2027年组建首个无人机团",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvbVMzSUZ0ZmliYzBwRkJRTDl5YXlEZkhES3ljeDZOVmJqYjN4dmhjb0VjZlc4NklVV293OHZkU0liQW5YTW5uSHZPWmxFYllDX2FBRVFyM010MEt4TXJfeE1zLVhQV2ZPZE8zb2t3cHE1bHhRdHczQVRGWnhWQQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-01T23:56:57.000Z",
+      "excerpt": "德国防军将于2027年组建首个无人机团 新华网",
+      "section": "cn-news",
+      "rankScore": 0.468369
+    },
+    {
+      "id": "150669501dbc6076",
+      "title": "2026国庆档新片票房破2亿",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtSVdDRkt2eHllSHJtek0taU1IQk9aUEJPdm52dy1NelptWEhkNU5hc2MtSG5aM2RqQXdqV2hOMDAxRlNsWnZPVWcxbFJDX0tmMHVPdzNTR0M2VFZDS3llQQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-02T01:04:38.000Z",
+      "excerpt": "2026国庆档新片票房破2亿 东方财富",
+      "section": "cn-news",
+      "rankScore": 0.412739
+    },
+    {
+      "id": "76d109bd619a77e1",
+      "title": "中國「十一」在台港人團體集會 以「打小人」行動劇關注自由人權",
+      "url": "https://www.cna.com.tw/news/acn/202610010380.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-01T14:23:41.000Z",
+      "excerpt": "（中央社記者廖文綺台北1日電）今天是中國大陸「十一」國慶，在台港人團體今天在台北聯合舉行集會，以「不慶祝極權」為主題，並安排香港民俗傳統「打小人」街頭行動劇，以及多位人權工作者的短講，呼籲社會關注極權與跨境鎮壓等威脅。",
+      "section": "cn-news",
+      "rankScore": 0.407886
+    },
+    {
+      "id": "2d7d0de1325076c8",
+      "title": "杭州虎跑公园“仙气”迎客 国风游园邂逅江南泉韵",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-02/10707012.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-02T01:28:52.000Z",
+      "excerpt": "中新网杭州10月2日电(曹丹)10月1日，国庆假期首日，浙江杭州秋雨微凉，虎跑公园泉声潺潺。细雨中，水杉林雾气缭绕，七位国风NPC撑起油纸伞，沿虎跑径款款而行——这是杭州西湖风景名胜区钱江管理处推出的“泉颂华诞·山河安澜”文化活动。",
+      "section": "cn-life",
+      "rankScore": 0.833557
+    },
+    {
+      "id": "65c59e1790cef000",
+      "title": "13°C！中雨、大雨、局地暴雨！湖北将迎新一轮冷空气",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YTm16a1YzdEZKYVIyVmpmejcyUjBVS1ViMVVHQmpFQ0JFamc1eGY3OVNybWVOQTR1TENrMVVPRDdNSlU4UWQxamQxSkpLdF91Y1VxYUFaWFc3VDQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-02T01:20:51.000Z",
+      "excerpt": "13°C！中雨、大雨、局地暴雨！湖北将迎新一轮冷空气 极目新闻",
+      "section": "cn-life",
+      "rankScore": 0.623163
+    },
+    {
+      "id": "9cbc0e389237c2ae",
+      "title": "简讯：东京9月物价同比上涨2.7%",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qc2s2TEV3QnhyNFRxbGVLWFg4MFFEcGFfa2hmTFVOdHl5UTNoUWlFSXFlaWY3NFI0NjZXX04zMzV5am1EQWt3Y2VWcE5UUHVnUlgzX3VQWQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-02T00:39:00.000Z",
+      "excerpt": "简讯：东京9月物价同比上涨2.7% 共同网",
+      "section": "cn-life",
+      "rankScore": 0.612701
+    },
+    {
+      "id": "5eadd03beef2a907",
+      "title": "盛世华诞家国同庆_ 民生资讯",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02SkFPMFB4ZlJVbU5vZnRZR1UwRVotbGEtWEdFTVhLSEVqcFhVSGhIUHRGMWNfSkJJNUJXcnBxM01hNEg1YVI3dDQ0TDJIUFpEYURXSWJLN0hLLWJLWURiWm1Uclp4cnlUYm9JTGRHXzA0dw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-01T23:42:00.000Z",
+      "excerpt": "盛世华诞家国同庆_ 民生资讯 福建省人民政府",
+      "section": "cn-life",
+      "rankScore": 0.531956
+    },
+    {
+      "id": "f610692e5dbc5ec6",
+      "title": "单细胞与细胞间通讯分析揭示 DLL3 是胶质瘤肿瘤微环境重塑及进展的关键调控因子",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zcDVYNW9acVRGT193MU9fM1JWdC1xME9hZWtxRXlVamppaVlrN0FMYmpPako5VU1wQlZIT1ktMmtjOXdkZ0hFMHlaX054VG5JSVQ3M21hcFhtc1pXOTFTM1lBSXdnc3NOYTU1Q2VR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-02T01:03:51.000Z",
+      "excerpt": "单细胞与细胞间通讯分析揭示 DLL3 是胶质瘤肿瘤微环境重塑及进展的关键调控因子 生物通",
+      "section": "cn-life",
+      "rankScore": 0.481377
+    },
+    {
+      "id": "6d75a0f350ac31f9",
+      "title": "一批10月新规落地！惠及购房、育儿等多领域民生",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WVk1FVEJRODUyczlPdUdTQXAtLVNpbE1EaW16WXBVZ00yRVAyR2N3Q1FrcGthbUIyN3JRLXAtTUtHdGw5WTNCMW5BN1dCNXhLd2E5dlVsQ3kyeDNyWTdZ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-02T00:22:00.000Z",
+      "excerpt": "一批10月新规落地！惠及购房、育儿等多领域民生 华声在线",
+      "section": "cn-life",
+      "rankScore": 0.47324
+    },
+    {
+      "id": "2a35bade2bff6400",
+      "title": "游戏化体育教育中感知、心理需求与学习成果的整合模型实证研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LbVpnQ1dCUUJ3SmtRQng2bzZKSVA2TUxBUnpCcnhaUVZfcTgxc0RsZVk5M1JHbFdBWlJnTHA4ZHdBdlY0bm1KUXRTVHZQa1VUYmY4alFRaFpfZ3gwWTBPSUM2TGdxeHdpdzRSQWhB?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-01T23:59:03.000Z",
+      "excerpt": "游戏化体育教育中感知、心理需求与学习成果的整合模型实证研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.401809
+    },
+    {
+      "id": "388bca24a0e1553b",
+      "title": "国庆假期人员密集 这些饮食、蚊虫等健康风险要注意",
+      "url": "https://www.chinanews.com.cn/life/2026/10-01/10706615.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-01T02:27:50.000Z",
+      "excerpt": "国庆假期即将来临，人员流动和聚集明显增加，中国疾控中心近日发布提示，提醒公众假期出行要注意食源性疾病、呼吸道传染病、蚊媒传染病等健康风险。",
+      "section": "cn-life",
+      "rankScore": 0.31101
+    }
+  ],
+  "warnings": []
+}
