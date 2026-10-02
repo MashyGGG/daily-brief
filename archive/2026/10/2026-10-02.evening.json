@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-02",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-02T17:50:54.322Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "7a4d586b6d8c09fa",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-02T17:50:54.322Z",
+      "score": 717,
+      "excerpt": "The design language that makes your AI harness better at design.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "31c84c2db57e259a",
+      "title": "Big Tech ruined the cloud, so we're renaming ours",
+      "url": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-02T14:57:22.000Z",
+      "score": 197,
+      "author": "2sf5",
+      "excerpt": "197 points · 88 comments · https://news.ycombinator.com/item?id=49934228",
+      "section": "tech",
+      "rankScore": 0.884835
+    },
+    {
+      "id": "d9213fbb8c14e758",
+      "title": "The Four Horsemen of Agentic Coding",
+      "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+      "source": "lobsters",
+      "publishedAt": "2026-10-02T16:48:36.000Z",
+      "author": "distantprovince.substack.com via guillego",
+      "section": "tech",
+      "rankScore": 0.653573
+    },
+    {
+      "id": "c070633c6d022677",
+      "title": "Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%",
+      "url": "https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-02T14:22:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Uber has rebuilt major parts of the Uber Eats search pipeline, reporting a 50% reduction in end-to-end latency. Changes include Above-the-Fold measurement, reduced retrieval work, parallel hydration, advertising data redesign, infrastructure optimizations, and an agentic coding workflow.",
+      "section": "tech",
+      "rankScore": 0.64556
+    },
+    {
+      "id": "ecb7bab48acb0e9b",
+      "title": "New fields for SecurityAdvisory GraphQL API",
+      "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-02T13:18:00.000Z",
+      "author": "Allison",
+      "excerpt": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:…",
+      "section": "tech",
+      "rankScore": 0.570045
+    },
+    {
+      "id": "05edcd2086602709",
+      "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
+      "url": "https://blog.cloudflare.com/enterprise-for-all-update/",
+      "source": "cloudflare",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "excerpt": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and what is coming next.",
+      "section": "tech",
+      "rankScore": 0.505326
+    },
+    {
+      "id": "0c4b43a182e6c463",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "openai",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "section": "ai",
+      "rankScore": 0.817913
+    },
+    {
+      "id": "de590ab648e04fbb",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "source": "huggingface",
+      "publishedAt": "2026-10-02T15:19:50.000Z",
+      "section": "ai",
+      "rankScore": 0.706569
+    },
+    {
+      "id": "8fdf9c83ace09b2f",
+      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+      "url": "https://www.latent.space/p/airbnb",
+      "source": "latent-space",
+      "publishedAt": "2026-10-02T14:04:49.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "After leading Meta’s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI — from how its teams develop products to how it serves guests.",
+      "section": "ai",
+      "rankScore": 0.651573
+    },
+    {
+      "id": "bde11213816768d8",
+      "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
+      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+      "source": "latent-space",
+      "publishedAt": "2026-10-02T06:40:53.000Z",
+      "excerpt": "the minimalist harness goes stable... and TypeScript!",
+      "section": "ai",
+      "rankScore": 0.419036
+    },
+    {
+      "id": "1f0c6ae8c026cf8c",
+      "title": "做了个真匿名的树洞",
+      "url": "https://www.v2ex.com/t/1246158",
+      "source": "v2ex",
+      "publishedAt": "2026-10-02T12:13:44.000Z",
+      "score": 13,
+      "author": "iJamesChan",
+      "excerpt": "想做个真正的匿名树洞应该好多年了，域名都注册十多年了，现在开发容易多了 https://siyuzhe.com 刚做好，没内容，都是乱七八糟的测试主题和留言",
+      "section": "cn-tech",
+      "rankScore": 0.710498
+    },
+    {
+      "id": "73cb4b2e48af92db",
+      "title": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+      "url": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "author": "作者： Bruno Couriol",
+      "section": "cn-tech",
+      "rankScore": 0.561474
+    },
+    {
+      "id": "85b22f6d6425f3b2",
+      "title": "一份行为，三种宿主：聊聊 XiHan.UI 这个框架无关的 Headless 组件库",
+      "url": "https://www.v2ex.com/t/1246151",
+      "source": "v2ex",
+      "publishedAt": "2026-10-02T10:41:06.000Z",
+      "score": 5,
+      "author": "zhaifanhua",
+      "excerpt": "一份行为，三种宿主：聊聊 XiHan.UI 这个框架无关的 Headless 组件库 做前端久了，多半碰到过这种局面：后台用 Vue ，官网用 React ，角落里还剩几个没有框架的老页面。三边各有一个弹窗，按 Esc 有的关有的不关，关掉以后焦点有的回到按钮上，有的掉回页面顶部。用鼠标的人察觉不到，用键盘和读屏的人每天都被绊一下。再往后换框架，组件库整套重写，最先丢的正是这些看不见的东西：方向键往哪走，读屏念什么，焦点落在哪。 XiHan.UI 就是冲着这件事做的： 快速、轻量、高效、用心的框架无关 Headless UI 组件库。是面向企业级前端的设计系统运行时，无头内核，多框架适配器。",
+      "section": "cn-tech",
+      "rankScore": 0.490798
+    },
+    {
+      "id": "55e06d7e8c982a86",
+      "title": "国庆第一天战况，微物居多，小卡拉米扔回，今天再战。",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GT0p1NnBiajNzd1dDWHdHT2ttNmdXVzZSM2ZPekhFZmsxb3BoN3Z1NFBXVW1sRGttOG1oWVJXRUNTRDJ1LVhSWkhoX3VwbTdJbkg4?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-02T15:09:23.000Z",
+      "excerpt": "国庆第一天战况，微物居多，小卡拉米扔回，今天再战。 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.436159
+    },
+    {
+      "id": "699fcd9479852477",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/115211",
+      "source": "sspai",
+      "publishedAt": "2026-10-02T09:30:00.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...",
+      "section": "cn-tech",
+      "rankScore": 0.369179
+    },
+    {
+      "id": "8c9cf6271db7037e",
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-02T17:33:31.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory.",
+      "section": "security",
+      "rankScore": 0.69172
+    },
+    {
+      "id": "59efd5f6234d07d7",
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-02T17:33:16.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the…",
+      "section": "security",
+      "rankScore": 0.691601
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"css-tricks\" looks stale: newest item is 32 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
