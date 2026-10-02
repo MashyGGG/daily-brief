@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-02",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-02T01:38:05.396Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "ec486835e7090c2a",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-02T01:38:05.396Z",
+      "score": 883,
+      "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "c49f37aa2c4528b4",
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-01T19:33:05.000Z",
+      "score": 749,
+      "author": "sergiotapia",
+      "excerpt": "749 points · 257 comments · https://news.ycombinator.com/item?id=49926069",
+      "section": "tech",
+      "rankScore": 1.058331
+    },
+    {
+      "id": "fb959eb7e28b035e",
+      "title": "GitHub Actions: macOS 14 runner image retirement",
+      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-01T19:11:23.000Z",
+      "author": "Allison",
+      "excerpt": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled…",
+      "section": "tech",
+      "rankScore": 0.592582
+    },
+    {
+      "id": "addc8b67806c6fee",
+      "title": "How to make a text box: A crash course in Unicode and OpenType",
+      "url": "https://www.youtube.com/watch?v=7Tr0ty9-yeQ",
+      "source": "lobsters",
+      "publishedAt": "2026-10-01T18:31:36.000Z",
+      "author": "youtube.com via rrampage",
+      "section": "tech",
+      "rankScore": 0.566992
+    },
+    {
+      "id": "6e6a07aa60a795f6",
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+      "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+      "source": "verge",
+      "publishedAt": "2026-10-01T22:51:36.000Z",
+      "author": "Stevie Bonifield",
+      "excerpt": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage.",
+      "section": "tech",
+      "rankScore": 0.457627
+    },
+    {
+      "id": "f30d90db34dbe9a0",
+      "title": "Article: High Availability Is Not Resilience: Why Cloud Systems Fail When It Matters Most",
+      "url": "https://www.infoq.com/articles/high-availability-not-resilience-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-01T09:00:00.000Z",
+      "author": "Alexey Golev",
+      "excerpt": "A routine TLS 1.3 upgrade silently broke Route 53 health checks, causing a CDN to stop routing traffic to a healthy region while internal dashboards showed nothing wrong.",
+      "section": "tech",
+      "rankScore": 0.454459
+    },
+    {
+      "id": "8d0a79a6ff66ab99",
+      "title": "Academia is for Ambition — Alex Zhang, MIT",
+      "url": "https://www.latent.space/p/rlm",
+      "source": "latent-space",
+      "publishedAt": "2026-10-02T00:28:04.000Z",
+      "excerpt": "We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses.",
+      "section": "ai",
+      "rankScore": 0.748604
+    },
+    {
+      "id": "95e7523ac29f6030",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "openai",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "excerpt": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "section": "ai",
+      "rankScore": 0.674274
+    },
+    {
+      "id": "1d47078a07bea6e9",
+      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+      "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-02T01:38:05.396Z",
+      "excerpt": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "ef28e7222604df1c",
+      "title": "有没有 token 信用合作社,蹬不完的 token 先给别人用,那天自己不够了再去取用",
+      "url": "https://www.v2ex.com/t/1246062",
+      "source": "v2ex",
+      "publishedAt": "2026-10-01T15:09:55.000Z",
+      "score": 16,
+      "author": "jsjcjsjc",
+      "excerpt": "总感觉有人干了....",
+      "section": "cn-tech",
+      "rankScore": 0.641707
+    },
+    {
+      "id": "d66b650e1cae4797",
+      "title": "二手 CPU 导致玩家被 Riot 封禁",
+      "url": "https://www.solidot.org/story?sid=85523",
+      "source": "solidot",
+      "publishedAt": "2026-10-01T15:27:31.000Z",
+      "excerpt": "一名玩家购买了一个二手 CPU Ryzen 7 5800X3D，结果发现无法启动 Riot 工作室旗下的多款游戏，每次启动游戏就被踢出，在联络了 Riot 的客服之后才知道该 CPU 被列入了封禁黑名单，因为其前任主人有作弊行为。Riot 工作室旗下的所有游戏都受到影响，其中包括了 Valorant、League of Legends、Teamfight Tactics、Legends of Runeterra、2XKO 等。Riot 使用了内核级反作弊系统 Vanguard，它深度嵌入在 Windows 内核模式中。",
+      "section": "cn-tech",
+      "rankScore": 0.583436
+    },
+    {
+      "id": "44c9e70c93f7e49a",
+      "title": "Elastic Beanstalk 跑上 EKS，开发者质疑：为什么不把 ECS 做好？",
+      "url": "https://www.infoq.cn/article/AYXLumiEmzcCrKrRuq9B?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-01T10:00:00.000Z",
+      "author": "作者：Steef-Jan Wiggers",
+      "section": "cn-tech",
+      "rankScore": 0.439419
+    },
+    {
+      "id": "d0dd633480e8a2f8",
+      "title": "2026 OBS Studio 32.0.2 安装与配置指南（附安装包）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaOVlJWkN0ZjdNRFNwUXRRWklEenBJc2p5Q2RwRmsyVExSN0hJOV9hMXg2QzNkaDRaNFJJOXVXelIwZ2VIVkJGQ0FZVWQ1blZMakZOTA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-01T15:15:45.000Z",
+      "excerpt": "2026 OBS Studio 32.0.2 安装与配置指南（附安装包） juejin.cn",
+      "section": "cn-tech",
+      "rankScore": 0.368989
+    },
+    {
+      "id": "27f531a13919d331",
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-01T16:45:38.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years.",
+      "section": "security",
+      "rankScore": 0.552095
+    },
+    {
+      "id": "41c8cd71ddb45919",
+      "title": "ABB Protection and Control IED Manager PCM600",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-03",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to escalate privileges or overwrite files. The following versions of ABB Protection and Control IED Manager PCM600 are affected: Protection and Control IED Manager PCM600 <=2.14 (CVE-2026-15952,…",
+      "section": "security",
+      "rankScore": 0.472753
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 31 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
