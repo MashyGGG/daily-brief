@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-03",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-03T01:23:36.910Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "a619ae67b510a4e2",
+      "title": "法国总统大选民调一路领跑的极右翼遭遇逆风",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261002-%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89%E6%B0%91%E8%B0%83%E4%B8%80%E8%B7%AF%E9%A2%86%E8%B7%91%E7%9A%84%E6%9E%81%E5%8F%B3%E7%BF%BC%E9%81%AD%E9%81%87%E9%80%86%E9%A3%8E",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-02T22:36:47.000Z",
+      "author": "安德烈",
+      "excerpt": "现任极右翼国民联盟主席巴尔德拉，与亲手提拔自己的该组织实际掌门人玛丽娜.勒庞联手进军爱丽舍宫，两人分工明确，一旦赢了，勒庞入主爱丽舍宫，成为第五共和国第一位极右翼总统，巴尔德拉掌管马提翁宫，成为第五共和国第一位极右翼总理。",
+      "section": "news",
+      "rankScore": 0.653658
+    },
+    {
+      "id": "90af5a413a35385c",
+      "title": "北京人正在和自己的无人机“断舍离”，他们真的舍不得啊！",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261002-%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%AD%A3%E5%9C%A8%E5%92%8C%E8%87%AA%E5%B7%B1%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA-%E6%96%AD%E8%88%8D%E7%A6%BB-%EF%BC%8C%E4%BB%96%E4%BB%AC%E7%9C%9F%E7%9A%84%E8%88%8D%E4%B8%8D%E5%BE%97%E5%95%8A",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-02T22:33:22.000Z",
+      "author": "阿曼亭",
+      "excerpt": "最近，不少北京居民正在和自己的无人机做“断舍离”。他们一个接一个，把无人机送到指定的回收点。也有人选择把无人机送到外地。还有人只能把它直接报废。",
+      "section": "news",
+      "rankScore": 0.652709
+    },
+    {
+      "id": "0ced5df0a7a5e82c",
+      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-02T23:56:21.000Z",
+      "excerpt": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+      "section": "news",
+      "rankScore": 0.608184
+    },
+    {
+      "id": "1585a15c34706f98",
+      "title": "Iran Jails Hard-Line Lawmaker, Exposing Deep Rifts in Its Leadership",
+      "url": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-hard-line-lawmaker-jail-rift.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-03T01:14:39.000Z",
+      "author": "Farnaz Fassihi",
+      "excerpt": "Hamid Rasaei, a vocal opponent of a diplomatic deal with the United States to end the war, was convicted of publishing false information with the intent to harm the Parliament speaker.",
+      "section": "news",
+      "rankScore": 0.558008
+    },
+    {
+      "id": "968cf3fa89df5868",
+      "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-03T01:06:16.000Z",
+      "author": "Robert Mackey (now); Abené Clayton, Shrai Popat, Lucy Campbell and Taz Ali (earlier)",
+      "excerpt": "President has claimed pipeline project was part of a deal made last year to lower tariffs on imports from South Korea in return for billions of dollars of investments in the US Sign up for the Breaking News US email Send us your questions on how the Iran war will affect US voters in the midterms…",
+      "section": "news",
+      "rankScore": 0.556145
+    },
+    {
+      "id": "1e359543ad494db9",
+      "title": "Dutch royal house helped slave trade to survive, study finds",
+      "url": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-02T23:43:50.000Z",
+      "excerpt": "In-depth study also says the royal house made huge profits from Dutch colonial policies in past centuries.",
+      "section": "news",
+      "rankScore": 0.537826
+    },
+    {
+      "id": "22f7ca8d828dc1c7",
+      "title": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence",
+      "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-03T01:13:50.000Z",
+      "author": "Michael Rothfeld and Hurubie Meko",
+      "excerpt": "Records show that campus police officers informed Tompkins County prosecutors that they had conducted additional interviews beyond taking a statement from the woman who said she was raped.",
+      "section": "news",
+      "rankScore": 0.488098
+    },
+    {
+      "id": "b54ea47df5a5b3ad",
+      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-02T07:14:39.000Z",
+      "excerpt": "這名被定罪的殺人犯在兩次致命注射後仍然生還，目前正在田納西州的醫院接受治療。這是當地半年內第二宗死刑執行失敗事件，引發許多疑問。",
+      "section": "news",
+      "rankScore": 0.477012
+    },
+    {
+      "id": "be67cd67c201c3ff",
+      "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
+      "source": "npr-news",
+      "publishedAt": "2026-10-02T21:44:07.000Z",
+      "author": "Rachel Treisman",
+      "excerpt": "Democratic lawmakers, veterans and concerned citizens gathered in Memorial Circle to protest the arch Trump wants to build there. Their hopes lie primarily in a lawsuit and next month's midterms.",
+      "section": "news",
+      "rankScore": 0.44732
+    },
+    {
+      "id": "315f0c760b720138",
+      "title": "US justice department will not reopen criminal probe of Fed’s Jay Powell",
+      "url": "https://www.ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-02T21:03:19.000Z",
+      "excerpt": "US attorney-general Todd Blanche says not having ‘any oversight’ of the central bank’s $2.5bn renovation project ‘isn’t necessarily a crime’",
+      "section": "news",
+      "rankScore": 0.439386
+    },
+    {
+      "id": "22c177cf8eefacab",
+      "title": "特朗普最新表态：与伊朗的战事将“很快结束”！此前类似说法已多达几十次",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5LWlWZ0Z0aHZ5aTNRS1lXa1NZMS1FMWFPX3ZVRERoVmlCbXQyeklHdWE2S2dVZW1Ya0xyUjV4SEJMRnZ2QV8xaC1zdDd3MU1SekFz?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-03T00:55:52.000Z",
+      "excerpt": "特朗普最新表态：与伊朗的战事将“很快结束”！此前类似说法已多达几十次 华尔街见闻 特朗普：与伊朗的战事将“很快结束” 新浪财经 特朗普总统：有可能在中期选举后轰炸伊朗 美国之音 美国总统特朗普为轰炸伊朗提供新解释：“他们同时在吸毒” user.guancha.cn 局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东 东方财富",
+      "section": "news",
+      "rankScore": 0.415375
+    },
+    {
+      "id": "0ce515d55bc3e284",
+      "title": "Collective action needed to tackle global information crisis, UN-led dialogue hears",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168512",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "excerpt": "Governments, UN entities, civil society, media, academia and the private sector have called for stronger cooperation and practical action to respond to a rapidly changing global information landscape.",
+      "section": "news",
+      "rankScore": 0.286064
+    },
+    {
+      "id": "51e928c899179247",
+      "title": "澳大利亚发生汽车冲撞人群事件 致数人受伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707358.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-03T00:52:28.000Z",
+      "excerpt": "中新网10月3日电 据澳大利亚广播公司(ABC)报道，澳大利亚新南威尔士州救护车服务中心证实，当地时间3日，纽卡斯尔市发生一起汽车冲撞人群事件，导致数人受伤。",
+      "section": "cn-news",
+      "rankScore": 0.829617
+    },
+    {
+      "id": "bec28befefdac498",
+      "title": "追光的你｜00后创业者席立凡：把从小学开始的微缩模型爱好做成创业项目",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yd3pEM2RtQWZmZ084X2duTV9iX240dVVOZFNpNmNsNlk5N1B5VXg1blB5OGlPV2dJUk85Z3cycGZzcGRacm9FaWdIWExfTUJXNEU1OTBDanRyX0Y1OEE?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-03T01:05:47.000Z",
+      "excerpt": "追光的你｜00后创业者席立凡：把从小学开始的微缩模型爱好做成创业项目 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.625542
+    },
+    {
+      "id": "8861cc4e30990039",
+      "title": "胖东来将推行双休和每天7小时工作制",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjSjEtc3NBWjllbU9nTVVkdkpkRzNCWUlDdXIxbDd5VVJFYWgyUklhMmFOZVpTVThPcDFRa0ZjQkNESTBsbkw4dUlITUdqVW1sem01UG91blZSaHp2YWc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-03T00:35:00.000Z",
+      "excerpt": "胖东来将推行双休和每天7小时工作制",
+      "section": "cn-news",
+      "rankScore": 0.617846
+    },
+    {
+      "id": "dbeaf68df69cf859",
+      "title": "“99元租豪车”靠谱吗？假期租车自驾避坑指南请收",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707348.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-02T22:52:07.000Z",
+      "excerpt": "真相来了丨“99元租豪车”靠谱吗？假期租车自驾避坑指南请收好",
+      "section": "cn-news",
+      "rankScore": 0.592125
+    },
+    {
+      "id": "0529062c618eb996",
+      "title": "我们这样过国庆",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fUkRJZFZfVnZqVVZsVmlaeHZDRTEtMkpBbHRZd1JUM1pHNEpjNlY5QjVuMGpWTHJHS1hvaGR6dlFDSG1zVTlRLXlQOHZBbWJLU282NG5UWmh3eDUxVzZmdWRJZnI1TjE5aU95ZDU3VGVrLUd5STA4Xzln?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-03T00:52:02.000Z",
+      "excerpt": "我们这样过国庆 中国文明网 湖南祁阳：一屋书香伴国庆 多彩活动厚植家国情怀 央视网 长宁萌娃花式告白祖国…… 新浪财经 大江南北、五湖四海，最美不过中国红 搜狐网 睢县后台乡：声颂盛世 筑梦强国 新浪财经",
+      "section": "cn-news",
+      "rankScore": 0.552982
+    },
+    {
+      "id": "3222f0b927e9aa43",
+      "title": "第169次中老缅泰湄公河联合巡逻执法行动结束",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707299.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-02T12:39:02.000Z",
+      "excerpt": "【东盟专线】第169次中老缅泰湄公河联合巡逻执法行动结束",
+      "section": "cn-news",
+      "rankScore": 0.536378
+    },
+    {
+      "id": "01658e933a32c5f9",
+      "title": "OpenAI模型又“闯祸”，澳政府机构再遭入侵",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXSEhYeTJ5T0dsV0tmSzFIZ0hWV1lkdV9ZTUtLT2lqRk5NT2o5WDNBeVVnQnBFN0thUjAwZktvWEZVUGh5clYzZUpnYmVIbnRzWVAxOWcyV2VWV2luSS15elNPbGdGTlVBY3ZUUzlKZzJhT3M?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-03T01:10:00.000Z",
+      "excerpt": "OpenAI模型又“闯祸”，澳政府机构再遭入侵 观察者网 OpenAI 通报逾百家第三方机构，自家智能体存在失控风险|系统|华盛顿邮报|留言板|加拿大|数据_手机新浪网 新浪财经 失控事件频发，AI发展需要减速吗 科学网—新闻 OpenAI披露澳大利亚又一政府机构遭入侵 搜狐网 加州检察长向OpenAI发出传票，调查AI网络安全风险 凤凰网科技",
+      "section": "cn-news",
+      "rankScore": 0.487353
+    },
+    {
+      "id": "e003031e567c5723",
+      "title": "US blast simulation targets China’s alleged secret nuclear testing",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-targets-chinas-alleged-secret-nuclear-testing?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-02T22:38:41.000Z",
+      "author": "Seong Hyeon Choi",
+      "excerpt": "The US has conducted a non-nuclear underground experiment to enhance its ability to detect low-yield nuclear explosions that it explicitly linked with a test that Washington suspects China carried out in 2020 – an accusation Beijing denies.",
+      "section": "cn-news",
+      "rankScore": 0.45793
+    },
+    {
+      "id": "7a1413816f150421",
+      "title": "早参 | 广州南站成为全国铁路首个“百万巨站”；今明两天广州闷热依旧、雷雨“刷屏”",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0pqWk42RWR5U1JxRTVYcnpOUGgwUUdxTXg4b201azl4MmNlekpRd1gzU0ZEcUxzSzRLdkNjRU03ZDFFNGlZU3NCeURETmxuUkRRcGxmNkdvcnNFRWlvTXMzYmJVSUJ0MEk2TmRwUWh5S0RLM0ZiWUkzQXhvOGlqSjBnUTlDSGdBTFE?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-03T00:20:27.000Z",
+      "excerpt": "早参 | 广州南站成为全国铁路首个“百万巨站”；今明两天广州闷热依旧、雷雨“刷屏” 广州日报新花城 【图片新闻】游客在舟曲沉浸式感受当地文化 新浪财经 国庆假期首日中国铁路创单日旅客发送量历史新高 新浪财经 国庆首日南昌地铁客运量破纪录 南铁迎客流高峰 中华网 中国第一高铁站，又“爆”了 腾讯新闻",
+      "section": "cn-news",
+      "rankScore": 0.409472
+    },
+    {
+      "id": "f2890540a0830337",
+      "title": "大鳴大放｜盧寵茂：正全球招募藥械監管中心總監 料年內公布",
+      "url": "https://hk.news.yahoo.com/%E5%A4%A7%E9%B3%B4%E5%A4%A7%E6%94%BE-%E7%9B%A7%E5%AF%B5%E8%8C%82-%E6%AD%A3%E5%85%A8%E7%90%83%E6%8B%9B%E5%8B%9F%E8%97%A5%E6%A2%B0%E7%9B%A3%E7%AE%A1%E4%B8%AD%E5%BF%83%E7%B8%BD%E7%9B%A3-%E6%96%99%E5%B9%B4%E5%85%A7%E5%85%AC%E5%B8%83-001629157.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-10-02T16:16:29.000Z",
+      "excerpt": "【Now新聞台】施政報告提出，明年起每年增加約22萬個家庭醫學門診名額，醫衞局局長盧寵茂在本台節目《大鳴大放》指，目的是集中照顧弱勢。 醫務衞生局局長盧寵茂：「始終面對人口老化，我們知道很多的慢性病，以至那些偶發疾病，特別是那些基層的市民，他們有這些需要。我們已經在10月2日開始，將北葵涌的夜診由原本的一個星期只有兩天，改了做五晚，即是一至五晚晚都有，這樣市民可以安心。」盧寵茂又稱，正就藥械監管中心的總監職位進行全球招聘，預計今年內完成及公布，亦會積極透過1+藥物審批機制，引入更多新藥，打造香港成為具影響力的國際醫療創新樞紐。#要聞",
+      "section": "cn-news",
+      "rankScore": 0.383613
+    },
+    {
+      "id": "58c4cd84f24a8fd2",
+      "title": "人这一辈子，一定要到山东乘一次“运河1号”！",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-03/10707359.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-03T00:56:09.000Z",
+      "excerpt": "京杭大运河贯通南北，",
+      "section": "cn-life",
+      "rankScore": 0.830845
+    },
+    {
+      "id": "2cc2472283336e0a",
+      "title": "北京市发布大风蓝色预警",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VTHZSdVBFSTktMEo1cGV4enNuTkdlU2cyQ25nQnpUZlZ1blRZS0FfYlRiTVVINzVaaTVwTFdyMW9PNEZDYktheHoxOEZXQ1ZLbWg1Q2RvVXFpVE8wc0E?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-03T01:04:50.000Z",
+      "excerpt": "北京市发布大风蓝色预警 京报网",
+      "section": "cn-life",
+      "rankScore": 0.625305
+    },
+    {
+      "id": "8ffb1e21265b5ef8",
+      "title": "徐势待发，锡战到底 | 国联民生携手冲锋，剑指巅峰永不言难",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjV6cmtQUnN1b2Q5TU1XOWhMclNTM09PMWxvMEtxUU5FOURYQjg1MTFiSzI2ZFBva1BxdnJvdHVQWEZSdEtJcjV3WmNLX0VNOXhPNmU3QXUyUHFsdk1OMG1oRkVNcVhvUGRLSnY1dlZYTlVRWE1CNGpyMmhRM19qYlFoSFBVSXJMc3V0bg?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-03T00:24:19.000Z",
+      "excerpt": "徐势待发，锡战到底 | 国联民生携手冲锋，剑指巅峰永不言难 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.615175
+    },
+    {
+      "id": "8a01e2564c21028e",
+      "title": "老运河重焕新生，一张船票链起文旅新消费",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rYlFBcXpjY1BRaTRheTZpcWtDczB2N2c1M0xraUY4cXdYZDRFWXRNeGJydmxObGg2M2JHTG1BLUNJWXNra2VDdGoyM3lacjFrMHA5Q3RvU0x6RkI4LUhrZlV1R0lFUzd5S0wwXw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-03T01:17:58.000Z",
+      "excerpt": "老运河重焕新生，一张船票链起文旅新消费 sdxc.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.558745
+    },
+    {
+      "id": "6a3bc4ca000fa44b",
+      "title": "行驶或突发失速，Rivian R2因电池装配问题实施召回",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOOVVGblRSYUxEdFlGa2JRcFR0MThvLXZ4RG1tQXNxUkotaGNpdjNDaTM5c3Z1WDV3VUlRamJrT0x3VUNwMmFyNndhU0lTS1hJV2tnM2FKbUQwemk3dXFDWDUteVhNZEh2aWtXVlVtSVhzUk1TN2cwdw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-03T01:13:00.000Z",
+      "excerpt": "行驶或突发失速，Rivian R2因电池装配问题实施召回 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.487936
+    },
+    {
+      "id": "393a8899edccb3e0",
+      "title": "西地那非诱发复杂神经精神综合征的病例报告",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9teGlIYmdLLWM5Wk9OdU9HMExKeWEwR05EY1NCQ0lBR0NodGtqTEgtNm5rb1daRnYwLTJKU25LV0ZvSFE0bHpTWTBlTTM0UGNsXy13SF9sNHJ0MS1ZWXNiZFVPNXdqdVFScG5PVXVB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-03T00:16:50.000Z",
+      "excerpt": "西地那非诱发复杂神经精神综合征的病例报告 生物通",
+      "section": "cn-life",
+      "rankScore": 0.477015
+    },
+    {
+      "id": "ba6712e9aceaed39",
+      "title": "2026年度下半年上海市教育考试院各类考试信息请查收→",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wVktaRGt5NFYzU3BxMl8wYU05TnpNdDZSQ2wzVGlVT0ZmaFNaUlNzWlV0Q1hUbFRpYnZtV05XVDNXNW91a3BqV3Y1RzhQLWtfdkNDaDM1X0RYamdlb0ZYQzZUUFZjOHlhMTg5QVFQRlRYck9UUEE?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-03T00:32:00.000Z",
+      "excerpt": "2026年度下半年上海市教育考试院各类考试信息请查收→ 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.411397
+    },
+    {
+      "id": "0cdc8c5e0f02e58a",
+      "title": "统计学上的无人生还 6大惊天巧合救下全机人性命",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PSEdQMm9JbzhJTEF3dlk5aVg4MldQYVk3aXRRbDc1LWxZenkwYVRrcXFWcFRWUDdveVRHdTFjTmVCVXdqaVNtTHcyOEtsbDZnSTB5aEVqMmMwVTd0b3fSAWNBVV95cUxQazhmNVJoaTFTLTQ3aldOV0oyNzkyQUMxQ1FZWC1CZXN4SEM1TjhpR0lkd0xhajQ1VWwwT3gzNVd5UWo5bXBkVU02Y3lmSWFEQmg0bXEzampJLV9UNmlFV0tGTVk?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-02T13:19:45.000Z",
+      "excerpt": "统计学上的无人生还 6大惊天巧合救下全机人性命 aboluowang.com",
+      "section": "cn-life",
+      "rankScore": 0.249463
+    }
+  ],
+  "warnings": []
+}
