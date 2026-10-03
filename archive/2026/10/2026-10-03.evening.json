@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-03",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-03T16:14:08.317Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "15e2fb04286b1ee4",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-03T16:14:08.317Z",
+      "score": 954,
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "5ab6c9611d52e9f5",
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "source": "hn-front",
+      "publishedAt": "2026-10-03T10:43:51.000Z",
+      "score": 275,
+      "author": "tejaskumar__",
+      "excerpt": "275 points · 116 comments · https://news.ycombinator.com/item?id=49943034",
+      "section": "tech",
+      "rankScore": 0.891264
+    },
+    {
+      "id": "2f50501792718009",
+      "title": "EP228: How SSH Works",
+      "url": "https://blog.bytebytego.com/p/ep228-how-ssh-works",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-03T15:30:39.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Secure shell is a method to access a remote machine securely over an unsecured network. It starts with a TCP connection from the SSH client to the remote machine (SSH server).",
+      "section": "tech",
+      "rankScore": 0.74722
+    },
+    {
+      "id": "336444e1ed5712b2",
+      "title": "The Era of Software Quality, or the Era of Ostriches?",
+      "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-03T13:31:58.000Z",
+      "author": "blogs.gnome.org via calvin",
+      "section": "tech",
+      "rankScore": 0.607206
+    },
+    {
+      "id": "32722fd7cc1ecda1",
+      "title": "Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud",
+      "url": "https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-03T08:30:00.000Z",
+      "author": "Mark Silvester",
+      "excerpt": "Istio 1.31 adds agentgateway waypoints in ambient mode, with a canary configuration fix included in 1.31.1. It also ends the publication of images and Helm charts to Google Cloud, requiring repository migration ahead of the 13 October outage test and signing-key updates for teams verifying images.",
+      "section": "tech",
+      "rankScore": 0.514905
+    },
+    {
+      "id": "f618ca5a06562cb8",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "source": "verge",
+      "publishedAt": "2026-10-03T15:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter.",
+      "section": "tech",
+      "rankScore": 0.465287
+    },
+    {
+      "id": "dd0c319aca2458ca",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+      "source": "latent-space",
+      "publishedAt": "2026-10-03T08:45:15.000Z",
+      "author": "Latent.Space",
+      "excerpt": "a quiet day.",
+      "section": "ai",
+      "rankScore": 0.534868
+    },
+    {
+      "id": "77f86f9498a0bb74",
+      "title": "闲来无事，梳理了下自己最近的 ai 订阅",
+      "url": "https://www.v2ex.com/t/1246264",
+      "source": "v2ex",
+      "publishedAt": "2026-10-03T09:07:42.000Z",
+      "score": 14,
+      "author": "rimworld",
+      "excerpt": "5 个 openai 的 team 席位订阅，月消费 45 刀（保持） 1 个 claude pro ，月消费 20 刀（保持） 火山云 coding plan pro ，目前特价 50 元/月，下个月恢复原价 200 就不续订了 2 个 kimi 老 199 套餐，月消费 398 元/月，这个月不续订了 之前订阅的 opencode go 5 刀，5 刀优惠没了，暂时也没续订了 deepseek 平台里充的还有 40 块钱 老马家的 grok 上了 grok heavy 年付，7100 （保持） 之后就是续费着 oai 的和 claude 的了。然后看哪家有活动再偶尔开一个月尝尝鲜。",
+      "section": "cn-tech",
+      "rankScore": 0.687241
+    },
+    {
+      "id": "1db44a8c55ab4f8e",
+      "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+      "url": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-03T10:00:00.000Z",
+      "author": "QCon全球软件开发大会",
+      "section": "cn-tech",
+      "rankScore": 0.521839
+    },
+    {
+      "id": "a49211fbb88ea63a",
+      "title": "🔥 AI 员工支持知识库文档引用：开源 AI 无代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/502842",
+      "source": "oschina",
+      "publishedAt": "2026-10-03T09:07:27.000Z",
+      "excerpt": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本，推荐安装此版本。 next： 包含即将发布的新功能，经过初步测试的版本，可能存在部分已知或未知问题。主要面向测试用户，用于收集反馈和进一步优化功能。适合愿意提前体验...",
+      "section": "cn-tech",
+      "rankScore": 0.447133
+    },
+    {
+      "id": "5ec17796f2d81e58",
+      "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
+      "url": "https://sspai.com/post/114922",
+      "source": "sspai",
+      "publishedAt": "2026-10-03T07:00:00.000Z",
+      "author": "KingTsui",
+      "excerpt": "不知道以后 CMF 的设计还会不会像现在一样出彩。",
+      "section": "cn-tech",
+      "rankScore": 0.3489
+    },
+    {
+      "id": "e8d771a35191f08c",
+      "title": "PyCharm 踩坑与修复记录（长期维护）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ldnVOUC1QelNqRDFKYUF5M05tN1JrUGtwOTQwRzgydElTVEhYYWpiOEhWamxtbmdRYmV6X2k5dGZ3em5rWWdfU3pNcF9ZcUJ4LTFLQg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-03T08:53:15.000Z",
+      "excerpt": "PyCharm 踩坑与修复记录（长期维护） 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.343037
+    },
+    {
+      "id": "e7b4fd8c9f9d304a",
+      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+      "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-03T14:38:46.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.",
+      "section": "security",
+      "rankScore": 0.654585
+    },
+    {
+      "id": "33b491d4a98cc8d9",
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-03T14:36:33.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.",
+      "section": "security",
+      "rankScore": 0.653529
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"css-tricks\" looks stale: newest item is 33 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
