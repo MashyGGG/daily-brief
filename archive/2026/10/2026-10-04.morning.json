@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-04",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-04T00:32:22.196Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "e9a07db0b18cad85",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-04T00:32:22.196Z",
+      "score": 507,
+      "excerpt": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "1bff4b6896448953",
+      "title": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-04T00:32:22.196Z",
+      "score": 408,
+      "excerpt": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "section": "tech",
+      "rankScore": 1.065
+    },
+    {
+      "id": "3508da4ddb5205ac",
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-03T22:07:13.000Z",
+      "score": 247,
+      "author": "sbulaev",
+      "excerpt": "247 points · 155 comments · https://news.ycombinator.com/item?id=49948254",
+      "section": "tech",
+      "rankScore": 0.99733
+    },
+    {
+      "id": "efcdfab4d2c3b873",
+      "title": "Why I recommend Renovate over any other dependency update tools (2024)",
+      "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-03T22:54:52.000Z",
+      "author": "jvt.me via janus",
+      "section": "tech",
+      "rankScore": 0.656093
+    },
+    {
+      "id": "4b91cf339e5c4f58",
+      "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+      "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+      "source": "ars-technica",
+      "publishedAt": "2026-10-03T19:45:17.000Z",
+      "author": "Robert Pearlman",
+      "excerpt": "\"...we were making history.\"",
+      "section": "tech",
+      "rankScore": 0.434178
+    },
+    {
+      "id": "f29d47ebdb68b168",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "verge",
+      "publishedAt": "2026-10-03T16:49:10.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving…",
+      "section": "tech",
+      "rankScore": 0.399933
+    },
+    {
+      "id": "96145e1b8c02ea74",
+      "title": "v2.1.289",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.289",
+      "source": "anthropic",
+      "publishedAt": "2026-10-03T23:07:17.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Fixed a deny or ask rule on a nested part of a compound shell command not holding over a user-installed mod's approval on managed machines Fixed the terminal freezing on short code blocks with many unclosed <script> tags or deeply nested ${ substitutions Fixed Read deny rules not…",
+      "section": "ai",
+      "rankScore": 0.845456
+    },
+    {
+      "id": "6ce16f443c10d1a3",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-03T23:34:02.000Z",
+      "excerpt": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be hard…",
+      "section": "ai",
+      "rankScore": 0.820554
+    },
+    {
+      "id": "7d8a074883d7b348",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "huggingface",
+      "publishedAt": "2026-10-03T22:56:48.000Z",
+      "section": "ai",
+      "rankScore": 0.757634
+    },
+    {
+      "id": "bd94f97e6b70b1ef",
+      "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-04T00:32:22.196Z",
+      "excerpt": "美团 LongCat 团队构建了 MineExplorer —— 首个在开放世界中做到分钟级长程任务的评测基准，系统性地评测多模态大模型在需要长程规划、并包含隐藏前置条件的任务中的真实能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "3207f874d368630b",
+      "title": "3 号凌晨的这次重置，体感鲜明的感受到了额度的下降",
+      "url": "https://www.v2ex.com/t/1246316",
+      "source": "v2ex",
+      "publishedAt": "2026-10-03T16:08:33.000Z",
+      "score": 8,
+      "author": "YanSeven",
+      "excerpt": "一天干了 50%的周额度，20pro 的订阅。 任务负载今天也没有增加啥的，就是平常的正常用。",
+      "section": "cn-tech",
+      "rankScore": 0.624045
+    },
+    {
+      "id": "8810189dd2f00aa7",
+      "title": "别再纠结了：2026 中文 AI 写作助手横评，ChatGPT、Claude、DeepSeek 到底怎么选为什么你需要一",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2LVYwSmhxUzEta3VuWWFnQ3pwWDY2S0lTQXBkNlA5QlFSWm50M05RT29qM2w0RTc3U1FCYXBPYzlMY3ptTURQSXljWmNvaXg2RHpZVA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-03T20:20:39.000Z",
+      "excerpt": "别再纠结了：2026 中文 AI 写作助手横评，ChatGPT、Claude、DeepSeek 到底怎么选为什么你需要一 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.441054
+    },
+    {
+      "id": "71c708f233ee4865",
+      "title": "杀猪盘用上了AI，骗局开始批量生产",
+      "url": "https://www.36kr.com/p/4009610454093960",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-03T10:45:04.000Z",
+      "author": "豹变",
+      "excerpt": "「核心提示」 杀猪盘换上AI引擎，普通人防不胜防。 在一个交友软件上聊了几天，对方始终回复及时，话题也越聊越熟，甚至愿意通一个视频通话。如果你遇到这种场景，肯定不会怀疑对方是AI。 但最近AI龙头玩家Anthropic发布的一份报告，揭开了另一种可能。 这份报告中，一家位于中国的应用开发工作室运营了20多款交友应用，对外声称用户交流的对象都是真人，实际却在匹配列表中混入大量由Claude驱动的AI人设；真人兼职人员则负责视频通话等AI难以完成的环节。 在2026年4月的两周观察期内，Anthropic发现超过4700个AI人设与至少2.5万名不同用户交谈。",
+      "section": "cn-tech",
+      "rankScore": 0.423174
+    },
+    {
+      "id": "6f7049fc86f83463",
+      "title": "破釜沉舟奔向 1.0：Zig 0.17.0 正式发布",
+      "url": "https://www.oschina.net/news/502841",
+      "source": "oschina",
+      "publishedAt": "2026-10-03T01:05:58.000Z",
+      "excerpt": "经过 5 个月的密集迭代，汇集全球 206 位贡献者的 925 次代码提交，底层系统编程语言 Zig 迎来了关键的里程碑版本——Zig 0.17.0。对于关注现代编译器技术与底层软件架构的开发者而言，这并不是一次按部就班的常规升级，而是一场伴随着巨大技术阵痛与工程决断的底层洗礼。在这份沉甸甸的更新中，Zig 团队对构建系统进行了...",
+      "section": "cn-tech",
+      "rankScore": 0.278399
+    },
+    {
+      "id": "22ed142406de7e73",
+      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+      "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-03T11:00:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments.",
+      "section": "security",
+      "rankScore": 0.474342
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 33 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
