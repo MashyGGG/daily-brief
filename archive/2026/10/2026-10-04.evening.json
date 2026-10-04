@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-04",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-04T16:50:15.263Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "00ef27288dd0e3fd",
+      "title": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-04T16:50:15.263Z",
+      "score": 512,
+      "excerpt": "The open-source CapCut alternative",
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "46163cf22aeaa5a2",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "source": "hn-front",
+      "publishedAt": "2026-10-04T12:51:53.000Z",
+      "score": 278,
+      "author": "snehesht",
+      "excerpt": "278 points · 140 comments · https://news.ycombinator.com/item?id=49953495",
+      "section": "tech",
+      "rankScore": 0.883788
+    },
+    {
+      "id": "d21660a23f05d977",
+      "title": "Last 3 days: AI Evals, October cohort",
+      "url": "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-04T15:57:40.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Secure your spot in AI Evals in Practice. Enrollment closes in just 3 days! If you’ve been thinking about joining, now’s the time.",
+      "section": "tech",
+      "rankScore": 0.742454
+    },
+    {
+      "id": "b5b46f9a1930e4d2",
+      "title": "An animated, customizable Git cheat sheet drawn by git-sim",
+      "url": "https://initialcommit.com/learn/git/animated-cheat-sheet",
+      "source": "lobsters",
+      "publishedAt": "2026-10-04T16:48:24.000Z",
+      "author": "initialcommit.com by initialcommit",
+      "section": "tech",
+      "rankScore": 0.681639
+    },
+    {
+      "id": "cf8b73f6355c4a8d",
+      "title": "Well, if AI said it, it must be true",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "source": "verge",
+      "publishedAt": "2026-10-04T16:16:04.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name.",
+      "section": "tech",
+      "rankScore": 0.478604
+    },
+    {
+      "id": "9fb5a6fef197698f",
+      "title": "All hail electrification. But let’s talk about the hard part.",
+      "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+      "source": "ars-technica",
+      "publishedAt": "2026-10-04T11:05:53.000Z",
+      "author": "Dan Gearino, Inside Climate News",
+      "excerpt": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+      "section": "tech",
+      "rankScore": 0.37521
+    },
+    {
+      "id": "7519b58a11b2538e",
+      "title": "感觉程序员行业有点死了",
+      "url": "https://www.v2ex.com/t/1246421",
+      "source": "v2ex",
+      "publishedAt": "2026-10-04T13:23:28.000Z",
+      "score": 36,
+      "author": "badboy200600",
+      "excerpt": "随着 ai 越来越发达，程序员失业越来越多。现在轮到独立开发者了，以前凭借 app 上架 ios 和安卓可以养活家人。。但是最近半年 app 下载量越来越低了，收入快跌没了。出路在哪里？",
+      "section": "cn-tech",
+      "rankScore": 0.781377
+    },
+    {
+      "id": "b401ace1b8beb9c2",
+      "title": "想入个 macmini 做 iOS 开发 16g 够用吗",
+      "url": "https://www.v2ex.com/t/1246403",
+      "source": "v2ex",
+      "publishedAt": "2026-10-04T10:45:34.000Z",
+      "score": 25,
+      "author": "nomisk",
+      "excerpt": "目前最后性价比哪款，看了香港教育优惠 m6 32+256 好像 8k 人仔左右但要算上交通费。 海鲜市场的 16+256 的 m4 才 3600 。 想着要不就最低配旧款用着，要不就上新款 32g 。",
+      "section": "cn-tech",
+      "rankScore": 0.653705
+    },
+    {
+      "id": "8d7dd210745f15fb",
+      "title": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了",
+      "url": "https://www.36kr.com/p/4011070893871238",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-04T12:00:00.000Z",
+      "excerpt": "何恺明团队的新论文，在X上炸了！ 十一期间刚挂上arXiv的VISTA论文显示， 过去半年，全世界最顶尖的大模型，全是被「蒙着眼睛」赶上AGI考场的 。 同一个Claude Opus 5，在官方标准测试里只拿了可怜的40分。 何恺明团队只不过帮它摘掉了眼罩，让它亲眼看游戏画面，顺手递给它一本能随时往回翻的「相册」。 结果， Claude直接把ARC-AGI-3的25个公开游戏全部打穿，拿下100分满分！ 而且它走的步数，甚至比第一次玩的人类还少了一半多。",
+      "section": "cn-tech",
+      "rankScore": 0.505605
+    },
+    {
+      "id": "a1f8f76bba51b48a",
+      "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+      "url": "https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-04T10:00:00.000Z",
+      "author": "QCon全球软件开发大会",
+      "section": "cn-tech",
+      "rankScore": 0.504641
+    },
+    {
+      "id": "82625794367e12e4",
+      "title": "Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QamxYeUNoaFhEWWVvS0hldDFzbEdoUXpycWNDdk9TNjhGRzlRa2xRdmN4dUFRWS1SWGRzRm1LZTBpcTdjR2JKVjVQTi1UMWd3bnFXWg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-04T15:10:39.000Z",
+      "excerpt": "Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.456799
+    },
+    {
+      "id": "7b53135476c4e599",
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-04T07:22:05.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.",
+      "section": "security",
+      "rankScore": 0.429442
+    },
+    {
+      "id": "a300511cae8bfac1",
+      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-04T07:20:32.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations.",
+      "section": "security",
+      "rankScore": 0.428704
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 34 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
