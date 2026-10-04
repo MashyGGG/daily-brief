@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-04",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-04T15:46:40.550Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "e4a48c4216617a64",
+      "title": "加拿大為何要為（概率極小的）美國入侵做準備",
+      "url": "https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-04T11:51:41.000Z",
+      "excerpt": "加拿大總理馬克‧卡尼表示，軍方正在製定應對方案，以防美國入侵加拿大這種不太可能發生的情況。",
+      "section": "news",
+      "rankScore": 0.695389
+    },
+    {
+      "id": "4932f222035e5b1b",
+      "title": "菲律宾袭击非法网络赌博窝点宣布逮捕200多名外国人“大多数是中国人”",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261004-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%A2%AD%E5%87%BB%E9%9D%9E%E6%B3%95%E7%BD%91%E7%BB%9C%E8%B5%8C%E5%8D%9A%E7%AA%9D%E7%82%B9-%E5%AE%A3%E5%B8%83%E9%80%AE%E6%8D%95200%E5%A4%9A%E5%90%8D%E5%A4%96%E5%9B%BD%E4%BA%BA-%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-04T14:41:03.000Z",
+      "author": "古莉",
+      "excerpt": "法新社10月4日马尼拉消息，菲律宾移民局周六宣布，在对非法在线博彩运营商开展的今年最大规模行动中，当局逮捕了200多名外籍员工，“其中大多数是中国人”。",
+      "section": "news",
+      "rankScore": 0.666346
+    },
+    {
+      "id": "b87eed5820fcbf2a",
+      "title": "G20未能就强迫劳动和产能过剩达成协议 中国辩称因特朗普关税",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261004-g20%E6%9C%AA%E8%83%BD%E5%B0%B1%E5%BC%BA%E8%BF%AB%E5%8A%B3%E5%8A%A8%E5%92%8C%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE-%E4%B8%AD%E5%9B%BD%E8%BE%A9%E7%A7%B0%E5%9B%A0%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-04T14:17:46.000Z",
+      "author": "古莉",
+      "excerpt": "周日，中国就二十国集团（G20）未能就“产能过剩”和“强迫劳动”问题达成协议一事辩解称：这是由于成员国之间存在“意见分歧”，而美国加征的关税加剧了这种分歧。",
+      "section": "news",
+      "rankScore": 0.654406
+    },
+    {
+      "id": "5d33e0bd0e5d165c",
+      "title": "胡塞武装袭击沙特首都利雅得石油设施 也门政府军轰炸胡塞在首都萨那的目标",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261004-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E7%9F%B3%E6%B2%B9%E8%AE%BE%E6%96%BD-%E4%B9%9F%E9%97%A8%E6%94%BF%E5%BA%9C%E5%86%9B%E8%BD%B0%E7%82%B8%E8%83%A1%E5%A1%9E%E5%9C%A8%E9%A6%96%E9%83%BD%E8%90%A8%E9%82%A3%E7%9A%84%E7%9B%AE%E6%A0%87",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-04T13:23:40.000Z",
+      "author": "古莉",
+      "excerpt": "据法新社报道，也门政府军周日宣布轰炸了首都萨那的亲伊朗胡塞叛军目标；胡塞武装则宣称在前一天袭击了位于利雅得的一处沙特石油巨头阿美（Aramco）设施，现场冒起浓烟。",
+      "section": "news",
+      "rankScore": 0.626662
+    },
+    {
+      "id": "97e0339ebe4370b0",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-04T14:36:57.000Z",
+      "excerpt": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+      "section": "news",
+      "rankScore": 0.597819
+    },
+    {
+      "id": "bcb9dca7c72ebac9",
+      "title": "Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’ – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-04T15:36:28.000Z",
+      "author": "Andrew Sparrow",
+      "excerpt": "Party formally adopts policy which equates Zionism with racism, as all Green party votes to adopt policy that equates Zionism with racism On Friday the Times revealed that Katie Lam , the communities secretary, told a meeting in private earlier this year that the state pension system needs a…",
+      "section": "news",
+      "rankScore": 0.555812
+    },
+    {
+      "id": "1dc8886904e207e1",
+      "title": "Iran tells US: there is ‘no military solution’ to end the war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-04T15:06:14.000Z",
+      "excerpt": "Iranian Foreign Minister Abbas Araghchi says the era of “wasting time and dictating demands is over’.",
+      "section": "news",
+      "rankScore": 0.543408
+    },
+    {
+      "id": "7304b092461bc3f1",
+      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-04T14:46:27.000Z",
+      "author": "Saeed Al-Batati, Euan Ward and Vivian Nereim",
+      "excerpt": "The announcement plunges the Middle East deeper into war, as the Iran-allied Houthis have scored a series of triumphs in Yemen on the battlefield since the conflict was reignited.",
+      "section": "news",
+      "rankScore": 0.535292
+    },
+    {
+      "id": "c4f10ee9743f65b2",
+      "title": "Jewish groups attack Greens after anti-Zionism motion passes",
+      "url": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-04T15:31:48.000Z",
+      "excerpt": "Community leaders warn that ‘Zionism is Racism’ motion discriminates against Jewish supporters",
+      "section": "news",
+      "rankScore": 0.48466
+    },
+    {
+      "id": "5abdbc7624f79cd5",
+      "title": "How the Cornell case is affecting women who have experienced sexual assault",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
+      "source": "npr-news",
+      "publishedAt": "2026-10-04T14:51:27.000Z",
+      "author": "Windsor Johnston",
+      "excerpt": "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences — and call for a wider reckoning over sexual violence.",
+      "section": "news",
+      "rankScore": 0.470175
+    },
+    {
+      "id": "ba6b64c69e3899d2",
+      "title": "Democrats Lead Governor Races Deep in Republican Territory, Polls Show",
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-04T14:46:52.000Z",
+      "author": "Anna Griffin, Ruth Igielnik and Sejal Govindarao",
+      "excerpt": "Democratic advantages in the races for governor in Texas, Iowa, Ohio and Alaska reflect deep unhappiness with President Trump and the economy. A Republican leads in Kansas.",
+      "section": "news",
+      "rankScore": 0.46853
+    },
+    {
+      "id": "6121cfae611a6315",
+      "title": "伊朗军方称将提升导弹射程",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oZ0xnRENnVGttak9KX2dPMmNMazRGcDdwemlPaGo2MUxpMS1UcE9SOXl6YUM3NHJjS2NZbl9pU1RQb1pfbVExVWNlUVpiLTNlX1o0NFNfVXRzazFQdnBkb1Fhb1VHOUZ0?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-04T15:22:22.000Z",
+      "excerpt": "伊朗军方称将提升导弹射程 央广网",
+      "section": "news",
+      "rankScore": 0.41252
+    },
+    {
+      "id": "0548d5ddd75d6844",
+      "title": "商务部：国庆假期前四天全国消费市场平稳有序",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707975.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-04T13:20:22.000Z",
+      "excerpt": "记者从商务部了解到，国庆假期过半，全国消费市场平稳有序，生活必需品货足价稳。",
+      "section": "cn-news",
+      "rankScore": 0.749964
+    },
+    {
+      "id": "e144f3f5f2a7ed83",
+      "title": "记者手记丨在中亚国家感受“中文热”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707977.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-04T13:24:20.000Z",
+      "excerpt": "新华社阿斯塔纳10月4日电 记者手记丨在中亚国家感受“中文热”",
+      "section": "cn-news",
+      "rankScore": 0.689704
+    },
+    {
+      "id": "394b57caf5efc3bf",
+      "title": "吴宜泽世界排名升至第二",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xemxrWTFBYXNXVkd1RjYtd1NMMjhRRGMyZGh1RWx0UEZWQ2FPbWVBeHZEM2k3anJJVWV0NW9ra3pfYW5aN1VRY2hRT2h5dXAwVUdNaVg1RGc?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-04T15:06:21.000Z",
+      "excerpt": "吴宜泽世界排名升至第二 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.611388
+    },
+    {
+      "id": "25ba751e0fcb629c",
+      "title": "人均带三个空箱来华购物的“China Haul”火了",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707978.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-04T13:38:15.000Z",
+      "excerpt": "在海外社交媒体上，又有一条关于中国的话题词“China Haul”悄然兴起。",
+      "section": "cn-news",
+      "rankScore": 0.570727
+    },
+    {
+      "id": "4dba91c4442797a0",
+      "title": "“苏超”第23周淘汰赛上半场战报：苏州队0：1常州队，盐城队1：0宿迁队",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92ZExmdlBwQVhPQ1VUb2ZBYlltU3p5c1RxNjM2Zm80REJsWjBrUFdyU2dSZEMxdGYzSnAtODFRcHNHbHlrcTl4UF8xd3A3UkhYMjFhRGlfczNlQmVNdkE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-04T12:41:00.000Z",
+      "excerpt": "“苏超”第23周淘汰赛上半场战报：苏州队0：1常州队，盐城队1：0宿迁队",
+      "section": "cn-news",
+      "rankScore": 0.544303
+    },
+    {
+      "id": "f78a969f52c4a663",
+      "title": "书香润长假",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeHNYQ0lpckMweGhNYnk5SHE3a1hSTWh3eHAyZlhRbDB2LU54S2dScHRpMGxOWGJTbmIzeWhuY1c4X2FyQzUxV2cxVV84d3hHQVpxQ21kQzVoQkpRWGxpenFtRE9RT3cxWnN1VlpKSlNmeDNXNU5OdmtzY1hvWktMclotWnNTQQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-04T14:44:33.000Z",
+      "excerpt": "书香润长假 新华网 长沙秋雨放缓出游脚步 市民书店里“充电”过节 hunan.ifeng.com 书香润长假# 搜狐网 福建武夷山：假日书香伴成长，亲子阅读充电忙- 中国日报网 China Daily 江苏苏州：长假书香浓 人民网",
+      "section": "cn-news",
+      "rankScore": 0.534512
+    },
+    {
+      "id": "ed94a47da5f77728",
+      "title": "中國長假避開熱門大城市 年輕人更愛「奔縣遊」",
+      "url": "https://www.cna.com.tw/news/acn/202610040194.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-04T13:03:19.000Z",
+      "excerpt": "（中央社記者馮昭上海4日電）中國大陸旅遊市場近年興起到鮮少人聽過但物價親民的小眾旅遊地，今年十一長假此一現象更明顯，年輕人紛紛避開熱門大城市，反向湧進小縣城「慢」遊，「奔縣遊」成為熱門新詞彙。",
+      "section": "cn-news",
+      "rankScore": 0.492981
+    },
+    {
+      "id": "3443eccf976e8792",
+      "title": "“欧佩克+”主要产油国决定11月维持产量不变",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSXd2UFAtZEFoYm1rQ2lJd2hLV01qLU5zbHNmOW5kdm9yZ1d2QnhkYkptSXdCQklONnBEWFRPeDJLZEtQakZRUXMyX3QzSlprRlZXNk91bUttdE1acElOTjR0TEp1RmlBZXNhSl9QaHZqRi1lZ2JZeGxzWGdUZXdEVFlFU2lDN0pWcWNrcF90UEFUU0NTQkgzZlN3?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-04T14:47:49.000Z",
+      "excerpt": "“欧佩克+”主要产油国决定11月维持产量不变 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.468871
+    },
+    {
+      "id": "d9debb97a87f19ce",
+      "title": "China urged to build ‘system’ to protect expanding overseas interests",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369678/china-urged-build-system-protect-expanding-overseas-interests?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-04T14:00:06.000Z",
+      "author": "Alyssa Chen",
+      "excerpt": "Beijing has been urged to do more to protect its overseas interests with a call for diplomatic engagement to reshape international rules and deeper security cooperation with other countries.",
+      "section": "cn-news",
+      "rankScore": 0.451742
+    },
+    {
+      "id": "044a7739967e6e14",
+      "title": "亚运会丨综述：中国十二连冠 亚洲新星闪耀 赛事组织混乱",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDZqR1pLS0Q5YWhVR0xiQ1JEU2w0YS1HbEhhbUh2YWc5djdiZVJya3dhRldyeGthejFOUmM4SjRLVm5VY0c3Um5obFdCSENVQkZQNk5TcjVmUmRONEt5bktaWGdKZHlfNmZaZDhHLUlqR0NnNG16MktsdTdQQVhHTlUwTk5MWks5aUZ3dEc3c0NSZDA5ZTRmb2xn?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-04T14:03:45.000Z",
+      "excerpt": "亚运会丨综述：中国十二连冠 亚洲新星闪耀 赛事组织混乱 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.388331
+    },
+    {
+      "id": "1912a52adec710b9",
+      "title": "假期提示：遭遇霸王条款和消费陷阱 如何维权？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-04/10707986.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-04T14:33:03.000Z",
+      "excerpt": "正值国庆假期，各地迎来消费高峰。在线上线下购物时，您是否遇到过，货不对板、实物和宣传存在明显差距、虚假宣传等问题呢？假日外出聚餐，您是否遇到过包间设置最低消费？在结账时，凭空多出来没有提前告知的服务费，要不要接受呢？节假日如果商家只允许购买套餐、不能单点菜品，又该怎么办？遭遇霸王条款，我们该如何维权呢？",
+      "section": "cn-life",
+      "rankScore": 0.794692
+    },
+    {
+      "id": "afe8ae7294f79a89",
+      "title": "中尼科学家开展跨境巨灾应急联合科考",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xTlZIRVdOY1d4YWw3Mi0xd3ZCVGI0SGhWOE5oN1BLYktZeEw4cWRYMnBhSVNmMWtLaV9sQTdYaEwtSmpaQ284MXdLR3BWSW9lUW54NlZWZkkwLVJvX2ItZ09pWnppY2Np?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-04T15:40:39.000Z",
+      "excerpt": "中尼科学家开展跨境巨灾应急联合科考 chinanews.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.627219
+    },
+    {
+      "id": "521f55d5f0544916",
+      "title": "国庆佳节在岗护民生！河北生殖妇产医院医患双向温暖上演秋日暖心画卷",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wejFZTWVKWFFsQWNfTU9KM2VidkNVU1ZsNU9ZOE8wSEI2TTRYNW4tN3poRHFSRUk1TDdCbDRRQlZnRGlsd0hmN3ZlVERJYVVpVm1aY01YbWNiaWdtME1WVlJkTnNEZVNlRE9mNQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-04T13:26:54.000Z",
+      "excerpt": "国庆佳节在岗护民生！河北生殖妇产医院医患双向温暖上演秋日暖心画卷 中华网",
+      "section": "cn-life",
+      "rankScore": 0.565488
+    },
+    {
+      "id": "0b4531c52e73c05a",
+      "title": "阿斯：穆帅计划把皮塔奇召回一线队，他用出色表现抓住机会",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRZ2Q0OHRrLVVDRW9nd201V01aQXdPMklqZ180ZzVTdGNkLWRGeGQ1WUc1WGppX28wYzJ0UjNNMTh1NWVST29FbFlWdlljbUFLVTljN19JRQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-04T14:56:07.000Z",
+      "excerpt": "阿斯：穆帅计划把皮塔奇召回一线队，他用出色表现抓住机会 懂球帝",
+      "section": "cn-life",
+      "rankScore": 0.471851
+    },
+    {
+      "id": "fd347ac2cd9811b5",
+      "title": "OpenAI基金会要花250亿美元做科研，首批资助面向癌症疫苗和阿尔茨海默症",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaEZ2YXF3VTFsOXlOb1lfR0gxeXVud3lucW1LcVUxRVl0ci1PMUJMQXphc2xYanR3ekpSVldOR19RV1JXQWU5bVgwRUVrNVZVOG0xeW05aEtGaHFoYjQxX2dlYXNNRWptQ0FOcURXVmM0dlMxYnZhZ2xpYTV5RWhnU3JLN1hYa3ZG?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-04T13:52:17.000Z",
+      "excerpt": "OpenAI基金会要花250亿美元做科研，首批资助面向癌症疫苗和阿尔茨海默症 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.448936
+    },
+    {
+      "id": "391365f1f8896404",
+      "title": "攻坚不停步 建设再提速！建设者坚守一线 重点工程假期“不打烊”",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iMWZLNlUwZHp0eWJLS1VGS0dxZ29ad0ZnSEZSeW1SNlZhS1RSY0g5N191MDFqWWpNZTJTQUtDQ1BsbFFkSGVULTk2azZBa0RpUUdoNkNMeWxEX2p1T0c4U2xVZVBNb2Q2Y05Pa2Y5VlVOYWM?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-04T11:11:41.000Z",
+      "excerpt": "攻坚不停步 建设再提速！建设者坚守一线 重点工程假期“不打烊” tjlgbj.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.447183
+    },
+    {
+      "id": "2ce9464cd71cc237",
+      "title": "桃乡研学 实践赋能丨无锡阳山镇依托“乐游桃源”先锋实践场景开展党员教育活动",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazNMaHkzN3o5RTM2Uy1hMlBxaDFaM2dNZy1jLVBGVVJCR1o2R01pdDk2bzBhNU9PbVlhVHBQVVExUGtGQUp4MDE0eGR4Wnpuc2pQMldvV3J1WktKWDJGc21VeE9CU2pnaG5janNFaGxKRTh0S2RXVE90dXRZZW4waXcxMmRuQzFNTFNj?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-04T15:07:00.000Z",
+      "excerpt": "桃乡研学 实践赋能丨无锡阳山镇依托“乐游桃源”先锋实践场景开展党员教育活动 中国江苏网",
+      "section": "cn-life",
+      "rankScore": 0.407792
+    },
+    {
+      "id": "9372fb4ca87b717b",
+      "title": "2026年诺奖花落谁手？人工智能如是说",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOODNmXy1xV1RCQmlVOFNMVHlYS3FFTTlyRmRHVl92alJQZ0gxYUlvS1hPVEkzUEZjLU55NG1HZGVkU0hTMGJOS092dklVNHVNRHdYTXJ3RHNubkgtbEp0Zmppd3BGU3RFSzc5WGtLNFY2WDRjZjdLdTBlaUZvMDRENkdYNEFYYnpGdVpIVTJlakZwN2hCNC1rTXRhc0VlRDdDeUpoaDlIeHNWSzFoa0xRUmNjQXVVVmxnYkVzTHl5dnlyYlZPRi1NYjgzakVnUm9GamJHNmV1WWsxbGxZbTE0NkRyS2REYkktd1MzNUZxN0k2QUs3M0HSAfYBQVVfeXFMTjRCR0xVSkpZQmdsSEJtZVBTS1NIOVNFQnEza1RtRlJCbU5aOUZ2ZzRNXy1qNmwwNVJwU2tnV25mbVdmV3ZlMnI5WlRXZFYtWGpwUVhxTGxHc3RVS3NBYmhYa2UwdnlfNTNqX1Z0WDNsTExzQnhfN3U1ZWxIWnZua2NIbTg4RDBtejUwUXZCTlE5Qk9kYURNR00tOTNZam4zRGRGX3UwbzRCMkcza3NyTXZGbUhPLWJxNGVCY2hoODh6aXdESFZvX1NCWlplX1J1V1FhazBOZ1FMSTVVQ1ZzQURmV2lBSFk4dmY1WGtYNDV6ZEd2Tnhn?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-04T07:09:47.000Z",
+      "excerpt": "2026年诺奖花落谁手？人工智能如是说 dw.com",
+      "section": "cn-life",
+      "rankScore": 0.217463
+    }
+  ],
+  "warnings": []
+}
