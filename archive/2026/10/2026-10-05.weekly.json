@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-05",
+  "slot": "weekly",
+  "scheduleId": "weekly",
+  "generatedAt": "2026-10-05T02:03:08.112Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 168,
+  "itemCount": 20,
+  "items": [
+    {
+      "id": "00ef27288dd0e3fd",
+      "title": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-04T16:50:15.263Z",
+      "score": 512,
+      "excerpt": "The open-source CapCut alternative",
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "1e225815e157799f",
+      "title": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-01T18:24:22.871Z",
+      "score": 624,
+      "excerpt": "Write HTML. Render video. Built for agents.",
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "c9c291905b644aa7",
+      "title": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "source": "gh-trending",
+      "publishedAt": "2026-09-30T17:59:05.573Z",
+      "score": 1133,
+      "excerpt": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker.",
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "e9a07db0b18cad85",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-04T00:32:22.196Z",
+      "score": 507,
+      "excerpt": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "15e2fb04286b1ee4",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-03T16:14:08.317Z",
+      "score": 954,
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "3d70a62bfe388703",
+      "title": "GPT-6.1 Sol",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+      "source": "openai",
+      "publishedAt": "2026-09-29T18:03:25.108Z",
+      "section": "ai",
+      "rankScore": 0.875
+    },
+    {
+      "id": "5b195a42268af3d9",
+      "title": "v2.1.287",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.287",
+      "source": "anthropic",
+      "publishedAt": "2026-10-01T18:00:22.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added Claude Mods: plugins may now modify deeper behavior Added You should know, an opt-in plugin where a side agent watches your back and flags things you or Claude might miss.",
+      "section": "ai",
+      "rankScore": 0.860706
+    },
+    {
+      "id": "245e6daafb087cbe",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "openai",
+      "publishedAt": "2026-09-29T01:00:00.000Z",
+      "excerpt": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "section": "ai",
+      "rankScore": 0.857183
+    },
+    {
+      "id": "96145e1b8c02ea74",
+      "title": "v2.1.289",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.289",
+      "source": "anthropic",
+      "publishedAt": "2026-10-03T23:07:17.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Fixed a deny or ask rule on a nested part of a compound shell command not holding over a user-installed mod's approval on managed machines Fixed the terminal freezing on short code blocks with many unclosed <script> tags or deeply nested ${ substitutions Fixed Read deny rules not…",
+      "section": "ai",
+      "rankScore": 0.845456
+    },
+    {
+      "id": "4915bcfc571df1e8",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "source": "openai",
+      "publishedAt": "2026-10-01T17:00:00.000Z",
+      "excerpt": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "section": "ai",
+      "rankScore": 0.824773
+    },
+    {
+      "id": "d0a2feb9c81480ce",
+      "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+      "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-05T00:50:04.178Z",
+      "excerpt": "搭载美团 LongCat 2.0 的全场景 AI Agent 平台 CatPaw 正式上线，我们将模型能力从“跑得动”推向“用得好”。CatPaw 提供开箱即用的 AI 智能工作台与企业级 Agent 开发托管能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "dd9a7a2ec902a567",
+      "title": "下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-05T00:50:04.178Z",
+      "excerpt": "过去一年，我们见证了 Search Agent 能力的显著演进。在 BrowseComp 等评测上，顶尖模型准确率从最初的 30% 区间迅速攀升至 90% 以上。然而，当基准迅速饱和，其区分模型能力的价值也随之递减。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "bd94f97e6b70b1ef",
+      "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-04T00:32:22.196Z",
+      "excerpt": "美团 LongCat 团队构建了 MineExplorer —— 首个在开放世界中做到分钟级长程任务的评测基准，系统性地评测多模态大模型在需要长程规划、并包含隐藏前置条件的任务中的真实能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-03T01:07:12.029Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "1d47078a07bea6e9",
+      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+      "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-02T01:38:05.396Z",
+      "excerpt": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "8c9cf6271db7037e",
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-02T17:33:31.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory.",
+      "section": "security",
+      "rankScore": 0.69172
+    },
+    {
+      "id": "59efd5f6234d07d7",
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-02T17:33:16.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the…",
+      "section": "security",
+      "rankScore": 0.691601
+    },
+    {
+      "id": "b6de3d90c7957b69",
+      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-29T17:00:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.",
+      "section": "security",
+      "rankScore": 0.669801
+    },
+    {
+      "id": "57ac0460ba0b2e2b",
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-09-30T16:32:59.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content.",
+      "section": "security",
+      "rankScore": 0.658995
+    },
+    {
+      "id": "c8ec8955b5047209",
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-01T16:55:57.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.",
+      "section": "security",
+      "rankScore": 0.65789
+    }
+  ],
+  "warnings": []
+}
