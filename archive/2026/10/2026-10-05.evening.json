@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-05",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-05T20:43:55.748Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "d4e732d426f181f6",
+      "title": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-05T20:43:55.748Z",
+      "score": 1444,
+      "excerpt": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "section": "tech",
+      "rankScore": 1.148571
+    },
+    {
+      "id": "24961cb58e4d5050",
+      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-05T17:53:35.000Z",
+      "score": 214,
+      "author": "brokensegue",
+      "excerpt": "214 points · 150 comments · https://news.ycombinator.com/item?id=49968105",
+      "section": "tech",
+      "rankScore": 0.853429
+    },
+    {
+      "id": "344ddf1ad49b4f8c",
+      "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
+      "url": "https://git.sig-io.nl/Sig-IO/mailcheck/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-05T19:50:52.000Z",
+      "author": "git.sig-io.nl by sigio",
+      "excerpt": "Yes, I admit, this is 100% vibecoded, but it scratches an itch i've had for a while. Seems to work for my usecases at this time, but might add some more features in the future. Comments",
+      "section": "tech",
+      "rankScore": 0.657864
+    },
+    {
+      "id": "67c0ef4a241b96f3",
+      "title": "Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe",
+      "url": "https://www.infoq.com/news/2026/10/java-news-roundup-sep28-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-05T17:00:00.000Z",
+      "author": "Michael Redlich",
+      "excerpt": "This week's Java roundup for September 28th, 2026, features news highlighting: the GA releases of JobRunr 9.0 and OpenXava 8.0; point releases for Quarkus, Micronaut, LangChain4j, Eclipse JNoSQL; ADK for Java and ADK for Kotlin; and introducing Lathe, a new Java language server. By Michael Redlich",
+      "section": "tech",
+      "rankScore": 0.63787
+    },
+    {
+      "id": "f795d2bfe3f76482",
+      "title": "Scaling Kubernetes Workloads with Node Swap",
+      "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
+      "source": "kubernetes",
+      "publishedAt": "2026-10-05T18:00:00.000Z",
+      "excerpt": "Memory is often the first hard limit a Kubernetes cluster hits. Nodes run out of RAM long before they run out of CPU, and the new wave of agentic AI workloads makes this worse.",
+      "section": "tech",
+      "rankScore": 0.621939
+    },
+    {
+      "id": "4846df21e6702d5c",
+      "title": "The LLM Blindspot: Why Models Forget What’s in the Middle of Your Prompt",
+      "url": "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-05T15:30:51.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we’ll look at why LLMs have this bias against middle information.",
+      "section": "tech",
+      "rankScore": 0.606006
+    },
+    {
+      "id": "e34fb8a3304c8657",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "openai",
+      "publishedAt": "2026-10-05T15:00:00.000Z",
+      "excerpt": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "section": "ai",
+      "rankScore": 0.67028
+    },
+    {
+      "id": "d9512082fb457302",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "openai",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "excerpt": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "section": "ai",
+      "rankScore": 0.491709
+    },
+    {
+      "id": "d29049555c0b12a9",
+      "title": "科学家识别出三种叫声最响亮的鸟",
+      "url": "https://www.solidot.org/story?sid=85539",
+      "source": "solidot",
+      "publishedAt": "2026-10-05T14:45:39.000Z",
+      "excerpt": "生物学家在巴西识别出三种叫声最响亮的鸟。至于这些鸟如何演化出最响亮的叫声则仍然是个迷。白钟雀（white bellbird）叫声能达到 125 分贝，裸喉钟雀（bare-throated bellbird）和红腿叫鹤（red-legged seriema）叫声都超过 120 分贝。三种鸟类有着共同的生理特征：即宽大的喙口和肌肉厚实的大块头身体。研究人员表示，120 分贝可能是鸟类发声的生理极限；巴西之外的地方无疑也存在叫声洪亮的鸟类，但其音量不太可能比这些鸟高出太多。根据精确的测量标准，这三种鸟都可以被视为叫声最响亮者。但对科学家而言，谁是赢家并不是重点。",
+      "section": "cn-tech",
+      "rankScore": 0.58233
+    },
+    {
+      "id": "f8b723a36272ce78",
+      "title": "准备注册美国公司来使用 claude",
+      "url": "https://www.v2ex.com/t/1246523",
+      "source": "v2ex",
+      "publishedAt": "2026-10-05T10:20:22.000Z",
+      "score": 41,
+      "author": "wises",
+      "excerpt": "国庆又被封了一个 100 美金的号, 好几个大额的号了, 大部分都 Fully refunded, 但我的目的是正常使用, 而不是贪小便宜. 这几天开始用 100 美金的 codex, 这货比货真的不能比, codex 真的是白给你都不要的那种. 我研究了一轮,其实也尝试过好多方法, 比如在其他国家家里使用家庭宽带, 托管电脑远程连过去, 但最终逃不过. 发现只能通过注册美国公司的方式来进行, 这个是最稳定的, 和 claude 公司销售直接联系后不会轻易被封号, 还可以使用 team plan.",
+      "section": "cn-tech",
+      "rankScore": 0.542759
+    },
+    {
+      "id": "a299b2a55e1dcfb2",
+      "title": "C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+      "url": "https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-05T14:00:00.000Z",
+      "author": "作者：Claudio Masolo",
+      "section": "cn-tech",
+      "rankScore": 0.507653
+    },
+    {
+      "id": "4b4bfa8948b2024e",
+      "title": "论六边形架构的设计方法与应用",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oN0hyT19qUFZRdEk0cnBNc2pQU3NxRnpjQVRsUGtiRTZvbFZqdk1tcW01TWwzSnZlcGZvZW4yLUd2cTJWLVhxdFl3b3ktUjF5V1pZMg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-05T16:27:51.000Z",
+      "excerpt": "论六边形架构的设计方法与应用 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.40464
+    },
+    {
+      "id": "f4ef8c09f8a18e40",
+      "title": "Rabbit 创始人吕骋：人不该为 Agent 改变思考方式",
+      "url": "https://www.36kr.com/p/4012726523957380",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-05T08:36:43.000Z",
+      "author": "李炤锋",
+      "excerpt": "文｜李炤锋 编辑｜张雨忻 “人说要有光，于是就有了光。”谈起个人 Agent 的终极愿景，Rabbit 创始人吕骋把那句古老谚语中的“神”换成了“人”：在他的设想中，人只需说出想办成的事，Agent 就会自己寻找办法。 说起 Rabbit，很多人首先想到那台橙色手持设备 r1——一台运行 Rabbit 自研系统的掌上 AI 设备。Rabbit 当初希望，用户只需说出任务，它就能代人操作应用、完成任务。R1 在亮相后迅速受到关注，但上市后的实际使用体验，却收到了一些批评的声音。吕骋后来承认，用户的高期待与最初的软件体验之间存在落差。",
+      "section": "cn-tech",
+      "rankScore": 0.318338
+    },
+    {
+      "id": "3ce86652b96269f0",
+      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-05T14:20:43.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook.",
+      "section": "security",
+      "rankScore": 0.517518
+    },
+    {
+      "id": "f64b89fe8796a6f5",
+      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+      "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-05T11:55:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate, and Prevent.",
+      "section": "security",
+      "rankScore": 0.448129
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 35 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
