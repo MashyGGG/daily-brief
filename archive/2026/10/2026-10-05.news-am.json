@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-05",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-05T01:13:52.768Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "9c3ad1a189ed8f61",
+      "title": "寒背又疼痛？五個保護頸部的運動",
+      "url": "https://www.bbc.com/zhongwen/articles/c3lylw2yx1pvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-05T00:15:14.000Z",
+      "excerpt": "現代生活為頸部帶來不少挑戰，但我們可以做很多事情，減低頸部問題出現的風險。",
+      "section": "news",
+      "rankScore": 0.820451
+    },
+    {
+      "id": "9b9cd617f5ce1d0c",
+      "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
+      "url": "https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-05T00:14:01.000Z",
+      "excerpt": "本周五，台灣在2019年向美國訂購的2架F-16V戰機先行抵達台灣台東空軍志航基地，同批次共有66架同型號戰機，是1990 年代以來台灣首次戰機採購。",
+      "section": "news",
+      "rankScore": 0.820046
+    },
+    {
+      "id": "f4475df7b5c4672d",
+      "title": "博索纳罗大幅领先 巴西右翼东山再起？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261004-%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E5%A4%A7%E5%B9%85%E9%A2%86%E5%85%88-%E5%B7%B4%E8%A5%BF%E5%8F%B3%E7%BF%BC%E4%B8%9C%E5%B1%B1%E5%86%8D%E8%B5%B7",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-04T23:25:20.000Z",
+      "author": "安德烈",
+      "excerpt": "巴西周日开启第一轮总统大选，代表左翼力量，年逾80争取第四任的现任总统卢拉，与希望让极右翼力量重新掌控国家的参议员、45岁的前总统博索纳罗之子弗拉维奥·博索纳罗展开激烈对决，根据对64%的选票统计，博索纳罗遥遥领先。",
+      "section": "news",
+      "rankScore": 0.669848
+    },
+    {
+      "id": "05bc559a515aa7e9",
+      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-05T00:27:06.000Z",
+      "excerpt": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "section": "news",
+      "rankScore": 0.618305
+    },
+    {
+      "id": "005cdb5ea8096b48",
+      "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
+      "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-05T00:33:23.000Z",
+      "excerpt": "Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the civil war in Sudan.",
+      "section": "news",
+      "rankScore": 0.551001
+    },
+    {
+      "id": "4b799fb197205cc4",
+      "title": "Brazil presidential election 2026: first-round live results",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-05T00:24:55.000Z",
+      "author": "Seán Clarke and Tom Phillips",
+      "excerpt": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup.",
+      "section": "news",
+      "rankScore": 0.549119
+    },
+    {
+      "id": "7bcbc624f69d1000",
+      "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-05T00:18:12.000Z",
+      "author": "Erika Solomon, Sanam Mahoozi and Zane Irwin",
+      "excerpt": "The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.",
+      "section": "news",
+      "rankScore": 0.547627
+    },
+    {
+      "id": "7693a8f23c611568",
+      "title": "After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life",
+      "url": "https://www.nytimes.com/2026/10/04/nyregion/cornell-university-campus-students.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-05T00:47:14.000Z",
+      "author": "Maia Coleman",
+      "excerpt": "As the weekend arrived, much of the nightlife in the upstate New York college town was subdued. But there were still some students looking to cut loose.",
+      "section": "news",
+      "rankScore": 0.484819
+    },
+    {
+      "id": "57c6b7cf3370f004",
+      "title": "US recalls B-1 bombers from UK air base following alleged terror plot",
+      "url": "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-04T22:24:04.000Z",
+      "excerpt": "UK and American officials have claimed Iran was involved in the incident in which five British men were arrested near RAF Fairford",
+      "section": "news",
+      "rankScore": 0.456981
+    },
+    {
+      "id": "bf0b69454f3a5f55",
+      "title": "Brazil votes, with Lula facing Bolsonaro's son",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+      "source": "npr-news",
+      "publishedAt": "2026-10-04T21:52:09.000Z",
+      "author": "Tara Neill",
+      "excerpt": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
+      "section": "news",
+      "rankScore": 0.450775
+    },
+    {
+      "id": "0c50293823d4f73b",
+      "title": "德总理会见乌总统警报爆炸声不断 基辅再遭袭击",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80Z1BQZ0Z1MjBydzNpWV9HajhxR1luM3g5VlFJZ196WGRVOTNNVmhLYkg0ckxDTmxoS21BLUxtTTJ0eUdKY2hZNlVqSVQzUGtpdmtINjJCVDZXYWlqRGFBaDlhV1Y1Y2VaUV9uV1NkMVE?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-05T00:15:47.000Z",
+      "excerpt": "德总理会见乌总统警报爆炸声不断 基辅再遭袭击 中华军事 默茨会见泽连斯基，现场响起警报声和爆炸声，俄已连续四日轰炸基辅大桥，为冲突以来首次，泽连斯基称将不顾特朗普劝阻，加大打击俄炼油厂 新浪新闻_手机新浪网 默茨突访基辅打的什么算盘 多重考量下的微妙平衡 中华网 德国总理默茨突访基辅之际，俄罗斯再次空袭乌克兰首都 美国之音 泽连斯基：乌德强化防务合作 对乌美俄三方会谈持积极态度 搜狐网",
+      "section": "news",
+      "rankScore": 0.410317
+    },
+    {
+      "id": "965e488e80303793",
+      "title": "‘He felt heard’: How a film brought a UN report to life in Xochimilco",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168492",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-04T12:00:00.000Z",
+      "excerpt": "A documentary drawn from United Nations University research was screened at the COP30 climate conference and film festivals across Europe. Its most important journey, though, was the one back to the Mexico City canals where it was filmed.",
+      "section": "news",
+      "rankScore": 0.287687
+    },
+    {
+      "id": "cbe2edc3aa4bc13c",
+      "title": "土耳其外交部：“麦加防务联盟”将于5日举行会议",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZX2FZTlY1czB2Zzd4WlN6VUNyMVg4dnJaVzhJT01HeHRLRlFzTDZpQjV0c0NXeG4wWFV0X3ZKWDZPQTVoRFo4eGlod1VKR25EemYxdlY2aXo?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-05T00:44:59.000Z",
+      "excerpt": "土耳其外交部：“麦加防务联盟”将于5日举行会议 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.622776
+    },
+    {
+      "id": "1a3335b397e1d7af",
+      "title": "蒙古帝国在东欧",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VVDRDa0E4NmJPaHJNMzFybW9aaXAyV2ZIRjM4TVRpZ1Z1ZHdZejRzajd2VlJ1cFdZdm5pMW5sSXhwNXFVRl8wNzBtZkZJemN3a1cwbXZMN1FDdW5aMmd2Mw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-05T00:11:00.000Z",
+      "excerpt": "蒙古帝国在东欧",
+      "section": "cn-news",
+      "rankScore": 0.61428
+    },
+    {
+      "id": "55bb59eab6639539",
+      "title": "“心价比”崛起：情绪消费成国庆消费新主角",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707972.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-04T13:08:35.000Z",
+      "excerpt": "原标题：开局之年看中国·潮涌荆楚丨“心价比”崛起：情绪消费成国庆消费新主角",
+      "section": "cn-news",
+      "rankScore": 0.598235
+    },
+    {
+      "id": "ceaa1260a8bc3250",
+      "title": "南方大部降雨停歇 华南等地气温将创下半年来新低",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDF4d3BYWGlmYzhQQTBVUXVBZW5naHZvS3ZScnhmZXR1NzJ2aF9TcFJfeEktd0x1bU41STdXeld0cTBSX2tiSWk1djN1WUc4VWNxNjFNSm5aSFpvdmhIcU51dExiSFVrczlrQUdFNUVBeGhTaTNtcjhERTBGQ0xSOE1tVG0xN1djRHRHMVlQNHZTWHhxbnBXNzdn?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-05T00:41:35.000Z",
+      "excerpt": "南方大部降雨停歇 华南等地气温将创下半年来新低 新华网客户端 南方大部降雨停歇转晴 多地最低气温创下半年新低 新浪财经 新一轮冷空气影响山东，伴有大风降温和局部降雨 凤凰网山东 大范围放晴、升温！好天气回来了 就是假期也近尾声了 央视网 视频丨今起至假期结束我国大部晴好，总体利于外出与返程 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.552823
+    },
+    {
+      "id": "371887a9c44219a1",
+      "title": "全球媒体聚焦 | 印度媒体：中国正在打造科技强国",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707976.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-04T13:21:16.000Z",
+      "excerpt": "中国在科技领域取得的进展正受到越来越多外媒的关注。印度《德干先驱报》网站10月4日刊文称，凭借制造能力和国家支持，中国正在打造科技强国，科技的主导地位日益上升。",
+      "section": "cn-news",
+      "rankScore": 0.552257
+    },
+    {
+      "id": "3066b9d660a97afb",
+      "title": "Zheng Yongnian on China-US realism and battling for the upper hand before the next summit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369686/zheng-yongnian-china-us-realism-and-battling-upper-hand-next-summit?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-04T22:00:17.000Z",
+      "author": "Orange Wang,Carol Yang",
+      "excerpt": "Zheng Yongnian is a political scientist in China and a government adviser. His academic work is mainly about contemporary China, particularly politics, the country’s transformation and its external relations. This interview first appeared in SCMP Plus.",
+      "section": "cn-news",
+      "rankScore": 0.452356
+    },
+    {
+      "id": "1e3ae882962ba931",
+      "title": "全固态电池到2030年规模化应用：政策目标如何穿过量产验证关",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jdjd1NWtnU3B6RDlVblpUcmdwUjNtQmh0MTFhZ0FvZTVZd3Z5aXVlNk8wQW90RmJTQTVQRy03Y0l0V1lPWUxrX0JPZHBYd0JTUUo0SVB5RDhFdWdsMnc?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-04T21:56:15.000Z",
+      "excerpt": "全固态电池到2030年规模化应用：政策目标如何穿过量产验证关 同花顺 还在等固态电池的朋友，可以洗洗睡了。。。 新浪财经 新型电池产业“十五五”规划：全固态电池2030年初步实现规模化应用 搜狐网 政策定调！这个板块迎重大利好，节后要爆发？ 凤凰网 产品缺陷率降至十亿分之一，头部电池企业的“大考”来了 人民网",
+      "section": "cn-news",
+      "rankScore": 0.451572
+    },
+    {
+      "id": "e8691a2091eb13ee",
+      "title": "湖北重点城市和景区旅游接待创新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707969.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-04T13:04:57.000Z",
+      "excerpt": "中新网武汉10月4日电 (记者 梁婷)记者4日从湖北省文旅厅获悉，该省重点旅游城市和景区迎来国庆假期第二波游客高峰，文旅市场供需两旺、热度攀升。",
+      "section": "cn-news",
+      "rankScore": 0.447768
+    },
+    {
+      "id": "d05de450e2de5d7b",
+      "title": "吴宜泽问鼎深圳公开赛，中国球员包揽斯诺克世界前二",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JckMtUG8yUDR2TUdYV0oyb2JvdmE4dFFrcVlMQ1dpNW8za25CMVJkdkNrS3IzRVcyLVBZVjJQbm9oTzh5LWhVazhNUk1tWHRJQVpibEY5d2lpT2NQLWJhRXMzWTA1UkZSdGJKdDlTQWtkZw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-05T01:07:30.000Z",
+      "excerpt": "吴宜泽问鼎深圳公开赛，中国球员包揽斯诺克世界前二 新浪财经",
+      "section": "cn-news",
+      "rankScore": 0.418937
+    },
+    {
+      "id": "02f5f1a0c888b4d2",
+      "title": "中國「十一」電動車充電大排長龍 車主等逾5小時",
+      "url": "https://www.cna.com.tw/news/acn/202610040188.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-04T12:26:05.000Z",
+      "excerpt": "（中央社台北4日電）中國正值國慶「十一」長假，出行人數眾多，高速公路服務區也出現新能源汽車「充電亂象」，有車主稱最長等了5個多小時，還有車主表示因為人潮，充電到80%就必須離場。據官方統計，「十一」長假前3天，總計充電近300萬次，年增48%。",
+      "section": "cn-news",
+      "rankScore": 0.389379
+    },
+    {
+      "id": "118bbf062d6e5b44",
+      "title": "云南海南等地有较强降水 东部部分海区有大风",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-05/10708008.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-05T00:54:26.000Z",
+      "excerpt": "中新网10月5日电 据中央气象台网站消息，国内方面，昨日，浙江、福建、江西、湖南等地出现较强降雨，内蒙古、华北等地出现大风降温天气。未来三天，全国大部天气晴好，吉林东部、云南、海南等局地有较强降雨，关注对假期旅游、交通出行等的影响；东部、南部海区风力较大，关注对沿海养殖、海上航行等的影响。",
+      "section": "cn-life",
+      "rankScore": 0.833518
+    },
+    {
+      "id": "7161d04d6fd76789",
+      "title": "为何就业数据“不及预期”反而引发美股反弹？",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG9Ia1Z4RmNoWUhjMFpYY0RUd0dEaHZsVld3RVJsWFZQWURkeUw5eU9YOUNpRE5rQVVMaDAtMkt2ZjF2MW9SVFF6Ym1ibzBOOVNWcTlaSHdsMFNaQkJJcFB0dHMwRnVlR0dEekY3eV9CWVhkNk9hcm9RX2QzTTlFQ2pUTzJzQ1diUXJYbVZ3S19Tc1NSY1E?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-05T01:01:00.000Z",
+      "excerpt": "为何就业数据“不及预期”反而引发美股反弹？ 华尔街日报中文版",
+      "section": "cn-life",
+      "rankScore": 0.62678
+    },
+    {
+      "id": "2287301d17d52a2c",
+      "title": "【应急科普】国庆假期社会单位场所消防安全提示",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcDlZQWJFUnVUS05JY3VlWUhHNmdVTnZCQ1VZOG5rWHpGZktjNUJOcXBXeTF5eFlkZU9oME9WRWN3a1Ita1BkWFZCV2p2YTlGSjN6X3FzWHdOTU0wQmY2bDdySlFyTk0xR1dWYnN4Q1pJT0FGRlY0WHZqMmpGUjk4ajVDM1ZQVWFhQVZtYw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-05T00:14:51.000Z",
+      "excerpt": "【应急科普】国庆假期社会单位场所消防安全提示 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.615243
+    },
+    {
+      "id": "8258b50daf2ebddf",
+      "title": "乘着高铁游龙江，从哈尔滨到伊春的赏秋之旅",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEeUliVVNELUlJXzdLX3ZvNHN1R0ZvcmJsT3RxTXZlaHZlX3NwMFlrN25XLXNHN1MxRHBUN21qVmNVam1kTEhXWDdIM0hEZFJzVHRva3dYWWFUVHBTQkRuZzRWZmhrNlVqVUE4MA?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-05T00:42:00.000Z",
+      "excerpt": "乘着高铁游龙江，从哈尔滨到伊春的赏秋之旅 黑龙江省人民政府",
+      "section": "cn-life",
+      "rankScore": 0.552916
+    },
+    {
+      "id": "7820b4cc5d820073",
+      "title": "《江西省药品零售经营监督管理办法（试行）》出台",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wbFdUQUtON1cyT3ZTUUJtRUJkc3Z0Vy1hRUxYR0xLc2l2WjN5VE1MaTc2X3Jlc0hyN2VKOG1wSVlSdHJhMExlVzF3?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-04T23:04:42.000Z",
+      "excerpt": "《江西省药品零售经营监督管理办法（试行）》出台 凤凰网",
+      "section": "cn-life",
+      "rankScore": 0.464882
+    },
+    {
+      "id": "07f728d05d18daca",
+      "title": "谷氨酰胺-O-GlcNAc轴：己糖胺生物合成途径（HBP）整合营养感知与磷酸化/泛素化串扰的中心代谢-信号网络",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zSEVzSndlSkFjUzM5XzBFLXlPVklQUDhlR3RzMy11ODFqMXhmeDZldlRlNEl2U2g0ZmlFQWF0SDcwTWNJd3hJQl9JNkMyRFRqR0dMUnI4dUNSSjhHTkw5NlhNVlhuZGh4aFVyMnh3?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-04T22:29:17.000Z",
+      "excerpt": "谷氨酰胺-O-GlcNAc轴：己糖胺生物合成途径（HBP）整合营养感知与磷酸化/泛素化串扰的中心代谢-信号网络 生物通",
+      "section": "cn-life",
+      "rankScore": 0.457995
+    },
+    {
+      "id": "1ac0c1bfefa3f7ec",
+      "title": "福建长汀举办长征胜利90周年主题活动，PICO头显带观众体验历史场景 - Nweon",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5kSE1RMjh1aDRnWHBINTVIckpqUXdRR1dZZG5XMURvc2lCem54eDAwQmJrTG9oUm1IaFNCTVY5Q24zQUk?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-05T00:46:17.000Z",
+      "excerpt": "福建长汀举办长征胜利90周年主题活动，PICO头显带观众体验历史场景 Nweon",
+      "section": "cn-life",
+      "rankScore": 0.415401
+    },
+    {
+      "id": "e7de737826591458",
+      "title": "于大勇：德国PISA坠崖折射教育之困",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jT0NFbFB2eFNOLTBUUkVqUGxjMnpZQ3VMY24xZml2aHFIZ0JrQlZXVFdGUUZXYWFFeDVkMGR2NnBxMmt6d3NoWDYzS0phODVybXp6bGo0UmxwZmdhUkNORmRFeTc0ODNjOGpR?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-04T11:00:00.000Z",
+      "excerpt": "于大勇：德国PISA坠崖折射教育之困 联合早报",
+      "section": "cn-life",
+      "rankScore": 0.231406
+    }
+  ],
+  "warnings": []
+}
