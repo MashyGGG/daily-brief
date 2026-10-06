@@ -62,33 +62,52 @@
         {
           "date": "2026-10-05",
           "slot": "morning"
+        },
+        {
+          "date": "2026-10-05",
+          "slot": "evening"
         }
       ],
-      "itemCount": 11,
+      "itemCount": 26,
       "itemIds": [
+        "d4e732d426f181f6",
         "1c63865641639e18",
         "0edf13ff4e416162",
         "e689840af95720e5",
         "2ca83088c9494643",
+        "24961cb58e4d5050",
         "d0a2feb9c81480ce",
         "dd9a7a2ec902a567",
+        "e34fb8a3304c8657",
+        "344ddf1ad49b4f8c",
+        "67c0ef4a241b96f3",
+        "f795d2bfe3f76482",
+        "4846df21e6702d5c",
         "908db679881771f0",
         "b8fd76686559e46e",
         "9d34726646023287",
+        "d29049555c0b12a9",
+        "f8b723a36272ce78",
+        "3ce86652b96269f0",
+        "a299b2a55e1dcfb2",
+        "d9512082fb457302",
+        "f64b89fe8796a6f5",
         "6b06fc85197dacc5",
-        "421b779559e8c616"
+        "421b779559e8c616",
+        "4b4bfa8948b2024e",
+        "f4ef8c09f8a18e40"
       ],
-      "contentHash": "749a235b8d717010",
+      "contentHash": "3a70ef3895dc17cf",
       "targets": {
         "notion-archive": {
           "platform": "notion",
           "status": "published",
           "postId": "3f09696e-9c08-819f-9761-ecb0f44742aa",
           "url": "https://app.notion.com/p/2026-10-05-3f09696e9c08819f9761ecb0f44742aa",
-          "contentHash": "749a235b8d717010",
-          "attempts": 1,
+          "contentHash": "3a70ef3895dc17cf",
+          "attempts": 2,
           "failStreak": 0,
-          "updatedAt": "2026-10-05T20:42:48.246Z",
+          "updatedAt": "2026-10-06T18:30:00.153Z",
           "lastError": null
         },
         "juejin": {
@@ -96,10 +115,10 @@
           "status": "draft",
           "postId": "7692860578532851722",
           "url": "https://juejin.cn/editor/drafts/7692860578532851722",
-          "contentHash": "749a235b8d717010",
-          "attempts": 1,
+          "contentHash": "3a70ef3895dc17cf",
+          "attempts": 2,
           "failStreak": 0,
-          "updatedAt": "2026-10-05T20:42:48.246Z",
+          "updatedAt": "2026-10-06T18:30:00.153Z",
           "lastError": null
         }
       }
