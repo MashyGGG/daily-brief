@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-06",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-06T17:09:59.765Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "35fd0d3da7f83ada",
+      "title": "鼠疫疑云、核事故与历史记忆：俄肺炎死亡为何引发外界担忧",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261006-%E9%BC%A0%E7%96%AB%E7%96%91%E4%BA%91-%E6%A0%B8%E4%BA%8B%E6%95%85%E4%B8%8E%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BF%86-%E4%BF%84%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%A4%96%E7%95%8C%E6%8B%85%E5%BF%A7",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-06T14:59:52.000Z",
+      "author": "呢喃",
+      "excerpt": "俄罗斯西伯利亚伊尔库茨克近期发生的一起肺炎死亡病例，让外界对鼠疫传播和实验室生物安全感到担忧。综合美联社、自由电台等消息，10月2日，伊尔库茨克一家鼠疫研究所的28岁工作人员达利亚·西皮洛娃死亡。",
+      "section": "news",
+      "rankScore": 0.633267
+    },
+    {
+      "id": "b1afde64113ef5ac",
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-06T16:51:59.000Z",
+      "excerpt": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+      "section": "news",
+      "rankScore": 0.621686
+    },
+    {
+      "id": "1771456cbd8bee80",
+      "title": "Live Updates: Student Protests Expand to More Than 40 French Cities",
+      "url": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-06T17:03:06.000Z",
+      "author": "The New York Times",
+      "excerpt": "Union members, parents and teachers joined the demonstrations, broadening the student-led protest movement that has closed hundreds of French high schools since late September.",
+      "section": "news",
+      "rankScore": 0.557171
+    },
+    {
+      "id": "548ffa18a87bf551",
+      "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
+      "url": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-06T16:53:21.000Z",
+      "author": "Natricia Duncan Caribbean correspondent",
+      "excerpt": "Journalists are calling for an urgent amendment to the Special Operations Bill, which boosts police search and seizure powers Journalists in Trinidad and Tobago have called for an urgent amendment to a sweeping new bill that boosts police powers of search and seizure, which they argue threatens…",
+      "section": "news",
+      "rankScore": 0.553171
+    },
+    {
+      "id": "8c073340964eff35",
+      "title": "FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-06T15:49:54.000Z",
+      "excerpt": "The three complaints filed by Norway's football body ask FIFA's Ethics Committee to examine Infantino's conduct.",
+      "section": "news",
+      "rankScore": 0.52714
+    },
+    {
+      "id": "a05a140a823cfb6a",
+      "title": "中美AI軍事化背景下 BBC獲悉五角大樓正式停用 Anthropic 工具",
+      "url": "https://www.bbc.com/zhongwen/articles/cm8ezkd09057o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-06T08:35:20.000Z",
+      "excerpt": "今年2月，五角大樓將 Anthropic 列為「供應鏈風險」，此前該公司拒絕移除其工具中的安全防護機制。",
+      "section": "news",
+      "rankScore": 0.523284
+    },
+    {
+      "id": "68da7f62dfd616c0",
+      "title": "访问巴基斯坦 古特雷斯赞扬该国在和平和气候行动中发挥关键作用",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142944",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "excerpt": "联合国秘书长古特雷斯周二访问巴基斯坦，重申联合国与巴基斯坦人民的团结，并赞扬该国在地区和平、维和行动及应对气候危机中发挥的关键作用。",
+      "section": "news",
+      "rankScore": 0.486925
+    },
+    {
+      "id": "91158be9750edfd1",
+      "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
+      "url": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-06T16:59:33.000Z",
+      "excerpt": "Wall Street’s benchmark index touches fresh peak but rally increasingly reliant on handful of tech stocks",
+      "section": "news",
+      "rankScore": 0.48625
+    },
+    {
+      "id": "0595db1dc7339bb7",
+      "title": "How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder",
+      "url": "https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-06T16:46:42.000Z",
+      "author": "Farah Stockman",
+      "excerpt": "The Can-Am Spyder has a devoted fan base across the United States. Now it’s a casualty in the trade war with Canada.",
+      "section": "news",
+      "rankScore": 0.481637
+    },
+    {
+      "id": "56a6596e3f750657",
+      "title": "Here are the finalists for the 2026 National Book Awards",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
+      "source": "npr-news",
+      "publishedAt": "2026-10-06T14:30:20.000Z",
+      "author": "Andrew Limbong",
+      "excerpt": "Three-time National Book Award finalist Edwidge Danticat and debut novelist Morgan Thomas are up for the fiction prize. Nonfiction books cover the prison system and music, and queer parenthood.",
+      "section": "news",
+      "rankScore": 0.432685
+    },
+    {
+      "id": "eafe6239184755c8",
+      "title": "AI监管少立法之后，谁来为“安全成本”买单？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QTkluQzEtdGV0SlVWWUllSnp4LS12TnNvZDViV3NpSXF1bV9nX1RWNDNodExyR2xZbmRid0RsM2xINXJzNy1TX0xyMW04ZEJzUlIyS0FtSU5jdXZrb1RHdw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-06T16:17:30.000Z",
+      "excerpt": "AI监管少立法之后，谁来为“安全成本”买单？ 同花顺财经 美国组建“超级智能”工作组，拟与中国建立AI事故通报机制 美国之音 突发！特朗普签行政令：美国政府全面封杀「AI」 新浪财经 从巨头主导到“创新民主化”：人工智能迈向包容性 虎嗅网 特朗普将AI改名SI背后有何意图 话语包装拆除监管叙事 中华网",
+      "section": "news",
+      "rankScore": 0.403847
+    },
+    {
+      "id": "149da328e65c56ea",
+      "title": "Testing and monitoring underway in suspected Russia plague death",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168533",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "excerpt": "The death of a lab worker in Russia’s Siberia region has sparked concerns over a possible plague case, the UN World Health Organization (WHO) said on Tuesday, adding that it was following the situation closely.",
+      "section": "news",
+      "rankScore": 0.324617
+    },
+    {
+      "id": "7500a6d9260c41a3",
+      "title": "东西问丨吴沄：人类史前岩画藏着怎样的文明起源故事？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/10-06/10708525.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-06T12:35:23.000Z",
+      "excerpt": "中新社昆明10月6日电 题：人类史前岩画藏着怎样的文明起源故事？",
+      "section": "cn-news",
+      "rankScore": 0.671008
+    },
+    {
+      "id": "40259ffa35461181",
+      "title": "外交部：希望欧方同中方相向而行，通过对话协商解决彼此关切",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708541.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-06T13:11:47.000Z",
+      "excerpt": "中新社北京10月6日电 中国外交部发言人郭嘉昆6日答记者问时表示，希望欧方同中方相向而行，通过对话协商解决彼此关切，共同维护全球产供链稳定畅通，推动中欧经贸关系健康稳定发展。",
+      "section": "cn-news",
+      "rankScore": 0.635624
+    },
+    {
+      "id": "33054bd091002d21",
+      "title": "安徽“千年矾都”工业遗产蝶变文旅新地标",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708545.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-06T15:06:15.000Z",
+      "excerpt": "中新社合肥10月6日电 题：安徽“千年矾都”工业遗产蝶变文旅新地标",
+      "section": "cn-news",
+      "rankScore": 0.572886
+    },
+    {
+      "id": "f9daccd1d3b4cbf4",
+      "title": "国庆假期主题乐园预订热度稳居第一，假期尾声部分机票价格较节前降逾七成",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Da0x5UVRxaloteW5UNkJmcjg4UnhDSXlyS1Z4SnJqYjFiMnN0YTd3aEhEVUpnTEdqZ3F0V3pPbW03OWNWTzlTdDRNNm1rRTE2UWloRmxnMXdXMnVDdXBHMw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-06T14:06:00.000Z",
+      "excerpt": "国庆假期主题乐园预订热度稳居第一，假期尾声部分机票价格较节前降逾七成",
+      "section": "cn-news",
+      "rankScore": 0.545079
+    },
+    {
+      "id": "7543ad397b01e136",
+      "title": "以色列政府发出旅行警告，提醒海外公民防范潜在安全风险",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84ZGhBOGpVX2o4dVF4UW5hQVhYd3pFV21HZXRsVWFOdnlFd0M5TU9GMWlEdHRLcTgwdGtpRXk2WWVxOTBNY3VsRUdGU21nTDE0X3A0S2dQRkw?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-06T14:01:32.000Z",
+      "excerpt": "以色列政府发出旅行警告，提醒海外公民防范潜在安全风险 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.543017
+    },
+    {
+      "id": "e03c98fad9d86d3d",
+      "title": "香港入境处：皇岗口岸旅客通关只需排队一次",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV1VEVGIzbHU1Z1VFLVJtT2NXeElZQ1lkYmYzR3pvTGVxREJTNnpFekluM3FFMlVlUThOWnhQZDlQZHNkYjRHSGRaUjVQbzhoMjVzekhDZFppbU5PeXJwN3k5WlQxcWhBbU52S1dFbFRubnFIVGJoNjRIcXVDQQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-06T15:12:50.000Z",
+      "excerpt": "香港入境处：皇岗口岸旅客通关只需排队一次 新华网 香港10月6日最新资讯 Sohu 港真报｜勿信粤港车辆常规配额不实信息_全球_新闻 华人头条 新皇岗口岸｜陈子达率海关领导层视察准备工作 与前线关员交流 星島頭條 运输署称皇岗口岸公共运输交汇处资讯已准备就绪 按需要优化配套 香港電台",
+      "section": "cn-news",
+      "rankScore": 0.511933
+    },
+    {
+      "id": "77fa78017a4115fd",
+      "title": "美国8月贸易逆差继续升高",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYTNNalZhOWFnbFgyNHgyc1FSMVpyanRidEktSS1jNzBSY1ZuaTFzQXp1TDBnNlZuLTlSbjR6VWRyek5nS1hjck9OS1VieWw5WS1ySFh2NUd6UEJxVTBVZjlIZU1JMm8tWlZJM1NTWXlGdDV3d3dQdzRULVFqbWZBdmlGdFNJQ2JM?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-06T16:53:11.000Z",
+      "excerpt": "美国8月贸易逆差继续升高 新华网 美国8月贸易逆差达1056亿美元，创去年特朗普关税政策落前以来新高 新浪财经 美国8月贸易逆差扩大至1056亿美元 金融界 不是中国，也不是关税——美国逆差扩大的真正推手浮出水面 搜狐网 美国8月商品贸易逆差扩大到1326亿美元，为2025年初以来最高水平 观察者网",
+      "section": "cn-news",
+      "rankScore": 0.483965
+    },
+    {
+      "id": "cbd16f403a223288",
+      "title": "路透：衛星圖像顯示中寮新設訓練中心出現攻擊機與軍用車輛",
+      "url": "https://www.cna.com.tw/news/acn/202610060342.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-06T13:56:29.000Z",
+      "excerpt": "（中央社台北6日電）衛星圖像顯示，輕型攻擊機和軍用車輛已出現在中國與寮國稍早前宣布啟用的賓昆（Ban Keun）機場聯合保障和訓練中心。",
+      "section": "cn-news",
+      "rankScore": 0.48061
+    },
+    {
+      "id": "af7f52a9fe81db26",
+      "title": "Chinese team creates ‘lifelike’ hydrogel that changes shape for smart devices",
+      "url": "https://www.scmp.com/news/china/science/article/3369897/chinese-team-creates-lifelike-hydrogel-changes-shape-smart-devices?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-06T14:00:09.000Z",
+      "author": "Victoria Bela",
+      "excerpt": "Chinese researchers have developed a “lifelike” shape-changing hydrogel they say could provide a platform for next-generation developments, such as flexible tissue engineering scaffolds, brain-computer interfaces and humanlike robots.",
+      "section": "cn-news",
+      "rankScore": 0.42185
+    },
+    {
+      "id": "f9defbc6b3ec5a8a",
+      "title": "因士兵涉嫌抢劫杀人 驻冲绳美军实施外出限制",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16Q1ZLSlhQN09tY2tOaTJIUjY4WmlZQ3lueVVxS19QbXZpSlF2WlhPS2xCLVlyVkQ5NVgtNV9tV0hYUF9PcFFEblJMZUtKcEVWS18zSFV4OUZkLW1JT0VZN3J5R2ZEbXRqeXBRVkp0a19rVWlqX2R2V1RSSlBFWTQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-06T16:53:43.000Z",
+      "excerpt": "因士兵涉嫌抢劫杀人 驻冲绳美军实施外出限制 新华网 高市早苗对美国表示“强烈抗议” | 晨报 finance.sina.com.cn 驻日美军涉嫌抢劫杀人案细节曝出 嫌疑人拒认罪 中国网新闻中心 驻日美军勒死冲绳女子，更多细节披露 QQ News 日本抗议后，驻日美军最高官员不道歉 观察者网",
+      "section": "cn-news",
+      "rankScore": 0.414991
+    },
+    {
+      "id": "c8e41cc5ad3af261",
+      "title": "10岁孩子玩飞拉达攀岩不慎脱手！带娃游玩这些坑别踩",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-06/10708552.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-06T14:41:01.000Z",
+      "excerpt": "国庆假期，不少家庭选择带娃出游，孩子玩得开心，安全更容不得半点大意。社交平台上，高空秋千、飞拉达攀岩这些“网红项目”持续刷屏，低龄孩子到底能不能玩？网上流传的“儿童独自乘坐高铁攻略”，真的可行吗？维生素B1驱蚊、含姜片防晕车这些“带娃出行偏方”，靠谱吗？",
+      "section": "cn-life",
+      "rankScore": 0.74832
+    },
+    {
+      "id": "ebdadf0305173d0f",
+      "title": "CREB：卡爾加里9月房屋銷售降 房價跌",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oNXlBVjIxUUhQeWZPYldVYktTSzRDZVN2OGU1aVRjR2g5dzBKeHpGZ3hGazlNNlM4aDRpem82bXVha1dkSzlEQnBnQVdIc1N2TndzMVRzcWFkUVBkSDhNONIBZkFVX3lxTE95bUJYTlQ0WC1Fam92Z1Z3M3JGMC1KUTRiQlVqeWNmczVUSGJkQmdqbDZDZDRoWDJUdkpzVkx6UmlMVnNvUGJqX3ZvbnJrUWRMZU1xNFdvOFFxZVRuaEtZVUEtSUFxQQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-06T16:37:00.000Z",
+      "excerpt": "CREB：卡爾加里9月房屋銷售降 房價跌 大紀元",
+      "section": "cn-life",
+      "rankScore": 0.614771
+    },
+    {
+      "id": "0a698eb7ea6bc97c",
+      "title": "澜湄合作专项基金支持泰缅边境洪水预警项目",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Cc2pWS0Y2TkVyNkJxckw4c1o0UXpLMHZ1UDBHWExyN1AyYkRfeS1uVjl3eGxoU1otWUFoT0JwSkdKRW9KU0p4bmoxdmRqSGhqSXBQNGxQdUhBZVdndTFYSVVJQ1Awb1M1?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-06T16:11:57.000Z",
+      "excerpt": "澜湄合作专项基金支持泰缅边境洪水预警项目 中国新闻网",
+      "section": "cn-life",
+      "rankScore": 0.60321
+    },
+    {
+      "id": "f4bb7f3365a4bfe5",
+      "title": "利用长效注射抗逆转录病毒治疗（LAI-ART）就诊契机整合慢性病管理：HIV感染者的视角与接受度研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54am93RUJxdEdCalRXX240cGgxTW12STdZTTA0TzJtb1MxbkJhdGVmU2RlYTdvalZnTDlsX1JHa19KZEZtdXpGWm5YVElDMjB4ZUFRNEVvWm1nM2lmSzFucGgwUHJ0aUhRcGNzZHRn?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-06T16:02:14.000Z",
+      "excerpt": "利用长效注射抗逆转录病毒治疗（LAI-ART）就诊契机整合慢性病管理：HIV感染者的视角与接受度研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.465675
+    },
+    {
+      "id": "571e57d9fca3ec8a",
+      "title": "假期不打烊！铜仁公安常态化夜查严查酒醉驾及各类交通违法",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91VGtSeGxtVWdtNkUyUFJ4MVZaVlh5RWk2aVB1OTBQZ0RzeTNQMm5aLXV0WmlKdElDcndfZWF2NHBXb3B1RlIxakJVS3Fnc3FsVGh0YV9wMkJ4Vmllemc?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-06T12:18:00.000Z",
+      "excerpt": "假期不打烊！铜仁公安常态化夜查严查酒醉驾及各类交通违法 铜仁网",
+      "section": "cn-life",
+      "rankScore": 0.440207
+    },
+    {
+      "id": "fa8ed7e951495378",
+      "title": "海水鱼怎么吃？国家食品安全风险评估中心发布提示",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qZ0FxMHVFV29qdldjOEhpenZlWHZ3dFV4QmxRb1ctQWF1YmVKcF9wUEtoZmI1cDhxVkt1SDNrZTZSU2tpYXFLUkFad0kzOFM1ZDF1dzRZRk5sdU9lb0duUlg4ZjZZLUgxUTNFTlZVY0w0ZHVQUFE?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-06T14:11:00.000Z",
+      "excerpt": "海水鱼怎么吃？国家食品安全风险评估中心发布提示 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.425745
+    },
+    {
+      "id": "527c8a9f10c511f7",
+      "title": "沈腾模仿蒋欣教育孩子，动作神态模仿到了精髓，太厉害了",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4teGowUk5zYTlBQXVlYU1YYWJkdDNUTTlDVG9oZThXZDdPVGJqLW1xbVB2YlVfSVBkTlFUT3RkZWdndEFHME9ObkF6V1RCU2x5eFp3cldpYXY1WEVITVhlU3lKX2NLcmtqVG1XVWJpMk1fWkE?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-06T16:03:44.000Z",
+      "excerpt": "沈腾模仿蒋欣教育孩子，动作神态模仿到了精髓，太厉害了 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.399611
+    },
+    {
+      "id": "c89dbf45f140a1b6",
+      "title": "2026年诺贝尔物理学奖：他在南极冰层捕捉宇宙“幽灵粒子”|威斯康星大学麦迪逊分校|瑞典皇家科学院|宇宙射线|中微子|极地 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LNTNyVkJvS053MXkydC1YcGlMbjdhektEM1M1SmI0ZEpWLVozMDczUG1TNGYydFk2NFBjNTZsREFIVFk0T2ltZUNlUDgtdmw1emVQR0hydGlNU215UW9laHVRWG8wMGVzaG5UTXZKMEg?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-06T13:14:00.000Z",
+      "excerpt": "2026年诺贝尔物理学奖：他在南极冰层捕捉宇宙“幽灵粒子”|威斯康星大学麦迪逊分校|瑞典皇家科学院|宇宙射线|中微子|极地 新浪新闻_手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.289488
+    }
+  ],
+  "warnings": [
+    "source \"nyt-cn\" failed: AbortError: This operation was aborted"
+  ]
+}
