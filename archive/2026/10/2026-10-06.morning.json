@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-06",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-06T02:14:12.948Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "7173bb873c1800a2",
+      "title": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-06T02:14:12.948Z",
+      "score": 997,
+      "excerpt": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "aea85bce5afb9850",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-05T22:46:45.000Z",
+      "score": 265,
+      "author": "rdmuser",
+      "excerpt": "265 points · 145 comments · https://news.ycombinator.com/item?id=49971846",
+      "section": "tech",
+      "rankScore": 0.918117
+    },
+    {
+      "id": "c1e3ff2ac79acf86",
+      "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-05T22:42:14.000Z",
+      "author": "Allison",
+      "excerpt": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one…",
+      "section": "tech",
+      "rankScore": 0.641116
+    },
+    {
+      "id": "cfb4e3f5e42d2e59",
+      "title": "Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging",
+      "url": "https://nivdayan.github.io/dostoevsky.pdf",
+      "source": "lobsters",
+      "publishedAt": "2026-10-05T20:18:23.000Z",
+      "author": "nivdayan.github.io via typesanitizer",
+      "section": "tech",
+      "rankScore": 0.586129
+    },
+    {
+      "id": "f30bedbde88a6f1e",
+      "title": "Akka Tests Spec-Driven AI Delivery Across 65 Open Source Projects",
+      "url": "https://www.infoq.com/news/2026/10/ai-spec-driven-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-05T13:58:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Akka used 65 open-source projects to examine how specification structure, context, model selection, automated validation, and delivery guardrails affect AI assisted software porting.",
+      "section": "tech",
+      "rankScore": 0.532658
+    },
+    {
+      "id": "e1b3524663427955",
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "verge",
+      "publishedAt": "2026-10-05T23:09:55.000Z",
+      "author": "Stevie Bonifield",
+      "excerpt": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes…",
+      "section": "tech",
+      "rankScore": 0.454164
+    },
+    {
+      "id": "0570b9c35e476c18",
+      "title": "v2.1.290",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.290",
+      "source": "anthropic",
+      "publishedAt": "2026-10-05T23:33:17.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added serverToolUses to the result of a mod's turn.step hook: the tool calls the API ran itself (the advisor), each with its id, name, input, start and end Added agentId to the tool.check event of plugin hooks, so a hook can tell a subagent's permission check from the main session's…",
+      "section": "ai",
+      "rankScore": 0.819121
+    },
+    {
+      "id": "113a00008134b95d",
+      "title": "Quoting Felix Rieseberg",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-05T23:56:47.000Z",
+      "excerpt": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session.",
+      "section": "ai",
+      "rankScore": 0.794189
+    },
+    {
+      "id": "ce6c3679d2d9d761",
+      "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
+      "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-06T02:14:12.948Z",
+      "excerpt": "美团在 MTGR 基础上提出统一推荐基座大模型 MTFM，首次实现外卖多个主要业务的统一精排模型。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "0ab7a1be6cf16181",
+      "title": "90后站上C位：姚顺雨、罗福莉、刘大一恒、陈宇森、周畅们接管国产大模型",
+      "url": "https://www.36kr.com/p/4012967999852425",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-06T01:56:46.000Z",
+      "author": "Tech星球",
+      "excerpt": "2026年9月，国产大模型公司密集交出了一份成绩单。 9月21日，阿里巴巴在云栖大会开幕前一天确认，1993年出生的刘大一恒担任ATH事业群TokenFoundry Qwen大语言模型项目负责人，主论坛演讲排序仅在阿里集团主席蔡崇信、CEO吴泳铭之后。 9月22日，同一场大会上，1992年出生的陈宇森以阿里巴巴集团副总裁、 千问 办公CEO身份首次公开亮相。 此前，他从长亭科技创始人变成钉钉CEO，再变成 千问 办公事业部负责人，职级从P10升到P11（M6）。 同一天，小米也在这天发布MiMo-V2.6系列，同时内部晋升名单传出：1995年出生的罗福莉升到22级，小米职级体系的最高点。",
+      "section": "cn-tech",
+      "rankScore": 0.625638
+    },
+    {
+      "id": "e4d4577ef266f1f4",
+      "title": "Termexo v0.10.10 发布：19 个本地 MCP 工具，五种编程 Agent 自动接入",
+      "url": "https://www.oschina.net/news/502845",
+      "source": "oschina",
+      "publishedAt": "2026-10-05T23:39:06.000Z",
+      "excerpt": "AI 生成概念图，非产品界面。 MIT 开源的 Windows AI 编程工作台 Termexo 发布 v0.10.10。新版把终端、任务和部分设置开放为 19 个本地 MCP 工具，并支持在 Termexo 新启动的 Claude Code、Codex、OpenCode、Grok Build 和 Antigravity 终端中自动添加连接。 工作台能力作为工具开放 Agent 可以查询工作区和终端，读取指...",
+      "section": "cn-tech",
+      "rankScore": 0.591221
+    },
+    {
+      "id": "de691a73874fd3a1",
+      "title": "因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划",
+      "url": "https://www.solidot.org/story?sid=85538",
+      "source": "solidot",
+      "publishedAt": "2026-10-05T14:27:52.000Z",
+      "excerpt": "因涌入大量无效的 AI bug 报告，Google 宣布冻结其 Bug 悬赏计划 Open Source Software Vulnerability Reward Program (OSS VRP)，该决定于 10 月 1 日生效。Google 承诺将于 2027 年第一季度提供相关更新，期间将对该项目进行调整。Google 鼓励参与者探索其它 bug 奖励计划。",
+      "section": "cn-tech",
+      "rankScore": 0.554171
+    },
+    {
+      "id": "cb44d9a2e7d791d7",
+      "title": "开发 Windows 桌面应用，大家用什么 AI 模型和工具比较顺手？",
+      "url": "https://www.v2ex.com/t/1246519",
+      "source": "v2ex",
+      "publishedAt": "2026-10-05T09:02:44.000Z",
+      "score": 10,
+      "author": "Purpole",
+      "excerpt": "最近在做一个 Windows 桌面工具，主要用 Tauri + Vue / TypeScript + Rust ，只考虑 Windows 10 及以上。 除了普通界面，还有一些透明置顶的悬浮窗，涉及鼠标穿透、悬停交互、焦点切换等，对资源占用也有要求。 目前比较想解决的是 AI 写代码之后怎么验证的问题。前端页面可以在浏览器里看，但窗口行为和交互需要放到实际 Windows 环境里测试。 所以想问问： 这种前端 + Rust + Windows 原生交互的项目，用什么模型比较顺手？尤其是跨语言定位问题、修改现有项目的能力。",
+      "section": "cn-tech",
+      "rankScore": 0.534129
+    },
+    {
+      "id": "d045f11acfa7d9a4",
+      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+      "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-05T11:46:25.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.",
+      "section": "security",
+      "rankScore": 0.458945
+    },
+    {
+      "id": "be6b272e6da72bc7",
+      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-05T10:38:50.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.",
+      "section": "security",
+      "rankScore": 0.440172
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 35 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
