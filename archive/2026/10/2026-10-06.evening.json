@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-06",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-06T18:19:10.363Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "34f6f5d8a8a68e58",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-06T18:19:10.363Z",
+      "score": 2963,
+      "excerpt": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "1efc922470da2e36",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "source": "hn-front",
+      "publishedAt": "2026-10-06T13:15:49.000Z",
+      "score": 1062,
+      "author": "Philpax",
+      "excerpt": "1062 points · 693 comments · https://news.ycombinator.com/item?id=49977979",
+      "section": "tech",
+      "rankScore": 0.990654
+    },
+    {
+      "id": "fc2c72c941d43d64",
+      "title": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+      "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-06T18:19:10.363Z",
+      "excerpt": "EmbeddingGemma 2 is a new 740M open-weight multimodal model that maps text, images, video, and audio into a unified vector space for privacy-first, on-device retrieval.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "f201c9d002988d68",
+      "title": "Why LLMs Agree With You Even When You’re Wrong",
+      "url": "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-06T15:31:18.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "When LLMs sometimes agree with incorrect claims, it is mostly because their training rewards such behaviour. This reward system is built on several things at once, such as accuracy, helpfulness, politeness, and responses that people like.",
+      "section": "tech",
+      "rankScore": 0.682067
+    },
+    {
+      "id": "8cd9220a8ce1b65d",
+      "title": "Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems (2023)",
+      "url": "https://www.usenix.org/system/files/fast23-lu.pdf",
+      "source": "lobsters",
+      "publishedAt": "2026-10-06T18:11:34.000Z",
+      "author": "usenix.org via typesanitizer",
+      "excerpt": "Abstract: The newly-emerging “fail-slow” failures plague both software and hardware where the victim components are still functioning yet with degraded performance. To address this problem, this paper presents PERSEUS, a practical fail-slow detection framework for storage devices.",
+      "section": "tech",
+      "rankScore": 0.678969
+    },
+    {
+      "id": "c7cb4c2d4aac7633",
+      "title": "Tales from the 2026 Developer Survey results",
+      "url": "https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-10-06T17:00:00.000Z",
+      "author": "Phoebe Sajor",
+      "excerpt": "Ryan chats with Erin Yepis, Senior Analyst at Stack Overflow, about the results from this year’s Annual Developer Survey, including the overwhelming daily usage of AI coding assistants despite lingering developer trust issues, the critical role of well-organized documentation in providing…",
+      "section": "tech",
+      "rankScore": 0.629184
+    },
+    {
+      "id": "1cc5850b8a221249",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "source": "openai",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "excerpt": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "section": "ai",
+      "rankScore": 0.792159
+    },
+    {
+      "id": "916bd5fef31c5a74",
+      "title": "Scrimshaw Jukebox",
+      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-06T15:17:39.000Z",
+      "excerpt": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me.",
+      "section": "ai",
+      "rankScore": 0.736273
+    },
+    {
+      "id": "d0ae2f186b4d6685",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "huggingface",
+      "publishedAt": "2026-10-06T06:44:39.000Z",
+      "section": "ai",
+      "rankScore": 0.415434
+    },
+    {
+      "id": "7f41b2e917cf94ab",
+      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "source": "latent-space",
+      "publishedAt": "2026-10-06T06:28:43.000Z",
+      "excerpt": "A small win for US open source",
+      "section": "ai",
+      "rankScore": 0.397856
+    },
+    {
+      "id": "75856b0dc7e5bce1",
+      "title": "又一个知名大厂程序员被判，很好奇这是怎么被抓到的？",
+      "url": "https://www.v2ex.com/t/1246702",
+      "source": "v2ex",
+      "publishedAt": "2026-10-06T16:14:00.000Z",
+      "score": 22,
+      "author": "LeBronJames1996",
+      "excerpt": "总结一下犯法的主要原因： 靠“越狱”大模型，专挑大模型安全防线下刀子。 绕过防护网后，用户充完值就能挑角色、开黄腔。聊天记录还能消耗积分，一键合成静态或动态的违规影像。 这是怎么被抓的？ 1 、这套系统在海外正式上线。后台直连**“第四方支付平台”，挂接虚拟货币收款通道，直接结算盈利。 2 、应该不可能使用国产的大模型 补充一下原文链接： https://mp.weixin.qq.com/s/wnJ5vOXW7rsaXKElCf04ig",
+      "section": "cn-tech",
+      "rankScore": 0.711355
+    },
+    {
+      "id": "7bb0c67bfb4bd3fc",
+      "title": "从依赖专家到开发者自助：一家银行的平台文化转型",
+      "url": "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-06T15:00:00.000Z",
+      "author": "作者：Ben Linders",
+      "section": "cn-tech",
+      "rankScore": 0.605156
+    },
+    {
+      "id": "25adfa530780616f",
+      "title": "门后面有handler，客户端看到的是401上一篇收尾在一个反直觉的数上：一条只改了一个变量的对照实验里，120ms",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOWUZlZk94ZndhSndiWGF1eUpDc0Fza3Azb1BGZUdmZlVjSnA5TVZvendKbnR2b212Y0RZcmhZa2h1Q0tuR0M2NXpGaDZ3RVljUk5jcw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-06T15:07:23.000Z",
+      "excerpt": "门后面有handler，客户端看到的是401上一篇收尾在一个反直觉的数上：一条只改了一个变量的对照实验里，120ms 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.42607
+    },
+    {
+      "id": "198263cee82fc8b1",
+      "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+      "url": "https://sspai.com/post/115416",
+      "source": "sspai",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "author": "大大大K",
+      "excerpt": "密码管理服务的数据，当然要掌握在自己手里。",
+      "section": "cn-tech",
+      "rankScore": 0.369839
+    },
+    {
+      "id": "bef2cad196f5dabd",
+      "title": "数学要「毕业」了，xAI联创宣判：两千年英雄史彻底落幕",
+      "url": "https://www.36kr.com/p/4013928129122184",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "excerpt": "两千多年来，人类最聪明的大脑， 一直在攀登同一片山脉，数学 。 从欧几里得、高斯，到希尔伯特、怀尔斯， 每征服一座山峰，都要赌上一生 。 但如今， 这个属于数学的英雄时代，结束了。 xAI联合创始人Christian Szegedy的一篇长文《数学何去何从？》，在X上炸了。 在他笔下，数学家是原始丛林里徒手攀岩的探险家， AI是一架飞机，已经把旗插上了没人爬上去过的山顶 。 孤独攀登者的时代正在结束，测绘整片大陆的时代正在开启。 数学，要毕业了 。它会走出象牙塔，变成一切科学技术进步的地基。 这一天，他押了十年 把时间拨回Szegedy的少年时代。",
+      "section": "cn-tech",
+      "rankScore": 0.338926
+    },
+    {
+      "id": "32f4a54778d87fac",
+      "title": "Hitachi Energy Asset Suite",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Hitachi Energy is aware of unauthenticated servlet access vulnerabilities that affect Asset Suite product versions listed in this document. These vulnerabilities can be exploited to potentially cause confidentiality, integrity and availability impact on the product.",
+      "section": "security",
+      "rankScore": 0.519442
+    },
+    {
+      "id": "e4360dfb5c9fb75d",
+      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+      "url": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-06T11:57:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro.",
+      "section": "security",
+      "rankScore": 0.518013
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 36 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
