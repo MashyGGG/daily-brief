@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-07",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-07T17:47:47.929Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "24b751bcb88631a0",
+      "title": "中外交部发言人对高市直呼其名 日外务省指国际礼仪上应予尊重称已提交涉",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261007-%E4%B8%AD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E5%AF%B9%E9%AB%98%E5%B8%82%E7%9B%B4%E5%91%BC%E5%85%B6%E5%90%8D-%E6%97%A5%E5%A4%96%E5%8A%A1%E7%9C%81%E6%8C%87%E5%9B%BD%E9%99%85%E7%A4%BC%E4%BB%AA%E4%B8%8A%E5%BA%94%E4%BA%88%E5%B0%8A%E9%87%8D%E7%A7%B0%E5%B7%B2%E6%8F%90%E4%BA%A4%E6%B6%89",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-07T16:37:03.000Z",
+      "author": "弗林",
+      "excerpt": "日本外务省发言人北村俊博周三（7日）在记者会上，就中国外交部发言人在例行记者会上直呼日本首相高市早苗姓名，不加头衔一事表示，对一国领导人给予尊重是“国际礼仪上的理所当然之事”，并透露已向中方阐明日本的立场。",
+      "section": "news",
+      "rankScore": 0.663719
+    },
+    {
+      "id": "c6e50f52a6c0905f",
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-07T17:29:46.000Z",
+      "excerpt": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+      "section": "news",
+      "rankScore": 0.621677
+    },
+    {
+      "id": "77e3a5366515c688",
+      "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化",
+      "url": "https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-07T10:24:31.000Z",
+      "excerpt": "俄羅斯一名實驗室技術員在西伯利亞一家鼠疫研究中心死亡，引發了人們對實驗室可能發生病毒洩漏的疑慮。",
+      "section": "news",
+      "rankScore": 0.567211
+    },
+    {
+      "id": "8d33a4e603f16be5",
+      "title": "Rubio Presses Trump’s Demands for More European Defense Spending",
+      "url": "https://www.nytimes.com/2026/10/07/us/politics/rubio-greece-defense-immigration.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-07T17:44:56.000Z",
+      "author": "Edward Wong",
+      "excerpt": "Secretary of State Marco Rubio praised Greece for spending more on defense, while saying it needs to address “mass migration.”",
+      "section": "news",
+      "rankScore": 0.558824
+    },
+    {
+      "id": "32ca2cae8f00ce14",
+      "title": "Judge orders Tennessee to preserve all evidence from botched Christa Pike execution attempt – latest updates",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/07/christa-pike-lawyers-live-updates-tennessee-execution",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-07T17:36:40.000Z",
+      "author": "Maya Yang",
+      "excerpt": "Christa Pike’s lawyer says request to unshackle her from hospital bed denied as he confirms she is speaking ‘limitedly’ Christa Pike’s lawyers said that Pike remains shackled to her hospital bed.",
+      "section": "news",
+      "rankScore": 0.555433
+    },
+    {
+      "id": "466ab33a9c4ec81f",
+      "title": "US mortgage rates hit their highest level in three years",
+      "url": "https://www.aljazeera.com/economy/2026/10/7/us-mortgage-rates-hit-their-highest-level-in-three-years?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-07T17:05:10.000Z",
+      "excerpt": "Rising borrowing costs have pushed mortgage applications to their lowest level since February 2025.",
+      "section": "news",
+      "rankScore": 0.54251
+    },
+    {
+      "id": "70c7eb1239a7da4d",
+      "title": "From Iran to the U.K., Trump Is Being Forced Into Retreat",
+      "url": "https://www.nytimes.com/2026/10/07/us/politics/trump-iran-retreat.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-07T17:44:26.000Z",
+      "author": "David E. Sanger and Eric Schmitt",
+      "excerpt": "A war that was intended to demonstrate the reach of American power has now done the opposite. It is a lesson in unintended consequences.",
+      "section": "news",
+      "rankScore": 0.488792
+    },
+    {
+      "id": "a3929b8eb6ff2027",
+      "title": "Chrysler Building taken over as New York luxury office market booms",
+      "url": "https://www.ft.com/content/d72a1a53-4989-4e48-88e7-5ca467708823?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-07T17:20:49.000Z",
+      "excerpt": "New owners to pay $235mn and plan an upgrade for the landmark suffering from low occupancy and disrepair",
+      "section": "news",
+      "rankScore": 0.480314
+    },
+    {
+      "id": "514127da5a3a7987",
+      "title": "世卫组织：全球5至19岁患有肥胖症儿童和青少年超过1.7亿",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142947",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "excerpt": "世界卫生组织周三发布的一份报告指出，2024年，全球有1.7亿5至19岁儿童和青少年患有肥胖症，其中包括7000万名5至9岁儿童和1亿名10至19岁青少年。自1990年以来，该年龄段的肥胖患病率已翻了两番，从2%上升至8%。",
+      "section": "news",
+      "rankScore": 0.469477
+    },
+    {
+      "id": "3945067ca5517534",
+      "title": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
+      "source": "npr-news",
+      "publishedAt": "2026-10-07T16:15:26.000Z",
+      "author": "Selena Simmons-Duffin",
+      "excerpt": "As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely illegal.",
+      "section": "news",
+      "rankScore": 0.456843
+    },
+    {
+      "id": "29d6a83da0ad61ec",
+      "title": "伊朗高级官员：伊朗绝不会放弃铀浓缩权利",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12SE95U1Zkc1VJVUxLT01ROVl2bVZWOV9mTDZ6cVVzb1lFbmg5WXotM3JSWXhVVXVvbGtyTEdESGdmTmdRRmJ5RXN1OE9TVmstRG9VajNtc09YRVdOY1I3bw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-07T17:29:39.000Z",
+      "excerpt": "伊朗高级官员：伊朗绝不会放弃铀浓缩权利 东方财富 万斯：伊朗须“实质性”削减铀浓缩能力才能结束战事 央视网 特朗普宣称“不知道究竟谁在掌管伊朗”，伊朗回应：你们非常清楚；万斯最新表态 ThePaper.cn 伊朗必须作出实质性削减，才能结束战争 观察者网 不接受“画饼”！万斯摊牌美伊停战硬门槛：伊朗必须先削减铀浓缩能力-市场参考 金十数据",
+      "section": "news",
+      "rankScore": 0.414416
+    },
+    {
+      "id": "0b3411fd0b5417b1",
+      "title": "Critical funding gap threatens health response in Yemen",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168541",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "excerpt": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
+      "section": "news",
+      "rankScore": 0.312985
+    },
+    {
+      "id": "d4f935e476903fad",
+      "title": "分子也有“左右之分”，今年诺贝尔化学奖为何研究“偏心”？",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708836.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-07T16:18:48.000Z",
+      "excerpt": "2026 年 10 月 7 日，瑞典皇家科学院将诺贝尔化学奖授予亨利·B·卡甘(Henri B. Kagan)和硖合宪三(Kenso Soai)，以表彰他们发现不对称有机合成中的非线性效应和自催化现象。他们的研究到底是什么意思，又有什么意义呢？让我们从左手和右手讲起。",
+      "section": "cn-news",
+      "rankScore": 0.719796
+    },
+    {
+      "id": "252018b72ab4cfcc",
+      "title": "韩国“世界”号运载火箭第五次发射取得成功",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708815.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-07T12:59:27.000Z",
+      "excerpt": "中新社首尔10月7日电 (记者 金旭)据韩国宇宙航空厅当地时间7日消息，韩国自主研制的运载火箭“世界”号第五次发射取得成功。此次发射搭载的5颗对地观测卫星均已与地面完成首次通信。",
+      "section": "cn-news",
+      "rankScore": 0.662555
+    },
+    {
+      "id": "c7843ea2de4a01c7",
+      "title": "寒露到，我省自北向南出现初霜冻",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNNWNJVUFwZUdydFhQbEE4clBNb29kc2dzLURLdmo1dGJnM1BGeWRJcTQ0WTFtN0xVSVN2QkdWVE9EOFkzMGh2a1Zyc2hUcHJQelRlSUtiSVlvb25lSGc?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-07T16:01:00.000Z",
+      "excerpt": "寒露到，我省自北向南出现初霜冻",
+      "section": "cn-news",
+      "rankScore": 0.580708
+    },
+    {
+      "id": "1026bda49929b0e3",
+      "title": "小浪底引黄工程向山西运城试供水",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lbVctSFFDZFNLNzV2S1BobkhidXpaRkFNS3NDZm9JZTN2OTJ6bzZRNlI3b3p4eVhqZmdLNDl5dlN1LUhXSlFYdzVCZzBWLWMtTlhPRXFB?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-07T14:29:04.000Z",
+      "excerpt": "小浪底引黄工程向山西运城试供水 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.538277
+    },
+    {
+      "id": "9a90da272f63d27f",
+      "title": "入境游持续升温 外国游客深度体验多彩中国",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13Tjkwamx3MDRyb1Q0ZjFYdzllYTQyRDFWMDdjRlBJajdzT3FBM2M4b0NNdEZVODJHd0s4VW1nX1NpVlJqeDBWYkFjWmhIMGg4QS1SS0p4S1dkT3V0d292VkRibTRmZEN1Vkl6VWlHbw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-07T16:51:00.000Z",
+      "excerpt": "入境游持续升温 外国游客深度体验多彩中国 中国网 感知中国拥抱世界——国庆假期中外旅游“双向奔赴”|中国游客|国庆节|外国游客|国际航线|新华社 新浪财经 东西问丨从“China Travel”到“China Haul”：中国热词里，世界重新发现中国 光明网 中秋、国庆“双节”入境游数据亮眼 海外游客从“观光中国”迈向“体验中国” 搜狐网 看见中国·“温度” | 对外开放诚意满满 外国游客触摸“热辣滚烫”的“中国温度” 中国青年网",
+      "section": "cn-news",
+      "rankScore": 0.536698
+    },
+    {
+      "id": "1b5760e214e730bb",
+      "title": "（经济观察）流动中国释放假日经济新动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708824.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-07T14:22:38.000Z",
+      "excerpt": "中新社北京10月7日电 (记者 刘文文)中国交通运输部最新发布的数据显示，国庆假期(10月1日至7日)累计全社会跨区域人员流动量预计达21.44亿人次，日均3.06亿人次。长假叠加旺盛需求，假日经济活力释放，折射出中国消费市场的巨大潜力与韧性。",
+      "section": "cn-news",
+      "rankScore": 0.535308
+    },
+    {
+      "id": "96e0a81f33333e52",
+      "title": "歐中貿易談判前夕 中國官媒稱若歐盟推限制措施有工具反制",
+      "url": "https://www.cna.com.tw/news/acn/202610070360.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-07T14:47:24.000Z",
+      "excerpt": "（中央社台北7日電）在歐盟貿易專員塞夫科維奇（Maros Sefcovic）8日前往北京，與中方舉行貿易談判前夕，中國官媒發文稱，如歐方執意推出相關措施，中方必堅決予以回應；應對工具包括反歧視調查、產業鏈供應鏈安全調查、境外補貼影響調查等。",
+      "section": "cn-news",
+      "rankScore": 0.48599
+    },
+    {
+      "id": "2b17116b15ed3e98",
+      "title": "US proposes US$70,000 fee for foreign students to work after graduation",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3370097/us-proposes-us70000-fee-foreign-students-work-after-graduation?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-07T16:18:10.000Z",
+      "author": "Teresa Elena Frontado",
+      "excerpt": "The United States has proposed requiring universities and other certified schools to pay US$70,000 for each foreign student entering a post-graduation work programme, a measure that could sharply raise the cost for thousands of Chinese graduates seeking employment experience in the country.",
+      "section": "cn-news",
+      "rankScore": 0.457824
+    },
+    {
+      "id": "040f19e227920ec3",
+      "title": "安踏集团正式成为彪马第一大股东|彪马(Puma)|安踏（ANTA）|运动时尚|交易|股权",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PVV83bkRGbXFBRUs4LXhfNmp1UXRwY0kydjQ3RkpMUmgzNU9GS3kyM1NIQjY4VF9ObHBNd2FsdThKRnNfQzRMeVpUNjFJSE5VcWJiLUpEVFlqWl9yalBGdE9Lb3ZZcEVyNnBJUGxVdWpadw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-07T15:55:36.000Z",
+      "excerpt": "安踏集团正式成为彪马第一大股东|彪马(Puma)|安踏（ANTA）|运动时尚|交易|股权 新浪财经 安踏正式成为彪马第一大股东彪马将继续独立运营|安踏体育|彪马(Puma)|运动时尚|运动品牌|丁世忠 新浪财经 安踏集团15亿欧元收购彪马29.06%股权交易完成，正式成为第一大股东 ThePaper.cn 中国鞋王杀疯！安踏112亿元拿下彪马29.06%股权 成最大股东 驱动之家 安踏正式成为彪马最大股东 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.449724
+    },
+    {
+      "id": "3e2983f6add305e5",
+      "title": "国庆档电影票房破11亿！多部影片官宣海外上映计划",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sQU5zaEVNNWhKenBHclJON2M0WlVIRlBBaER1LW9OUjc0QVVtUU1kdmlKa3lHTFNlSlIyb01XblpreDd3MzNONFg3QUtMSHAxeWt2bExfanFmRnl4b1dvS2pjeEwzQVJ0b1BJajNuTQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-07T16:43:00.000Z",
+      "excerpt": "国庆档电影票房破11亿！多部影片官宣海外上映计划 中国网 2026国庆档档期票房超11.6亿|生化危机：爆发夜|神探之痕迹|什么意思夫妇|电影票房|陈思诚 新浪财经 文化新观察丨多元影片国庆上映 “电影+”释放市场活力 凤凰网 广东国庆档稳居“第一票仓”！影片多元开花，消费活动精准发力 搜狐网 内蒙古国庆电影市场热度高涨|内蒙古自治区|神探之痕迹|国庆节|电影票房|什么意思夫妇 finance.sina.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.400062
+    },
+    {
+      "id": "49f4472b188763ec",
+      "title": "国庆假期中国刑事警情同比下降23.7%",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-07/10708823.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-07T14:15:24.000Z",
+      "excerpt": "中新社北京10月7日电 记者7日从中国公安部获悉，截至7日16时，国庆假期全国社会大局稳定、治安秩序良好，刑事、治安警情同比分别下降23.7%、7%，2700余场大型活动安全顺利，全国道路交通总体平稳有序，旅游景区秩序井然。",
+      "section": "cn-life",
+      "rankScore": 0.709293
+    },
+    {
+      "id": "83be8ba66bcc043e",
+      "title": "路网畅 产业兴 民生暖——新荣区以实干之笔绘就城乡幸福生活新图景",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hSzJodldmYUJsSVBETjdVUGhQSDB0bVJyblNESmhtUEtBRThNWUxiZ2E1YVB3Tk1JTEUya19Pa0M0ZzdNaWpIV2l4VmdOZzJEWXhlVUZVZ1N2UjlvWjYwM2hDc3FXX2taenFyNlhVUkpoWHF6eXc?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-07T16:03:00.000Z",
+      "excerpt": "路网畅 产业兴 民生暖——新荣区以实干之笔绘就城乡幸福生活新图景 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.581631
+    },
+    {
+      "id": "982499b332e62e13",
+      "title": "食蟹正当时 如何兼顾美味与健康？",
+      "url": "https://www.chinanews.com.cn/life/2026/10-07/10708821.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-07T13:56:52.000Z",
+      "excerpt": "秋风起，蟹脚痒，又到了一年食蟹的好时节。这个季节的螃蟹，膏满黄肥、蟹肉鲜嫩，可谓是“螯封嫩玉双双满，壳凸红脂块块香”，让人很难不垂涎欲滴。假日聚餐，不少人都喜欢来上几只。然而，每年这个时候，医院急诊科也总会接诊不少因吃蟹而“中招”的人。从轻微过敏到严重食物中毒，一只小小的螃蟹，如果吃不对，也可能带来不小的健康隐患。",
+      "section": "cn-life",
+      "rankScore": 0.581573
+    },
+    {
+      "id": "c1e630a534bf5f98",
+      "title": "罕见“三龙戏水”震撼华南 17级超强台风冲过来（视频）",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzRlZBMXhVXzVFZUdJQ0ZTaGc0dEtEZmZvc3Y3ZlhjR3J0WE8wQkp5SHhjd0wxTjYzRGJtbjhwLU9NNVFSNjlIWFBsRjBpY1J4SHczSWMyZ2wwYWd5M0t3UC1famFHQQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-07T15:07:34.000Z",
+      "excerpt": "罕见“三龙戏水”震撼华南 17级超强台风冲过来（视频） 人民报手机版",
+      "section": "cn-life",
+      "rankScore": 0.556047
+    },
+    {
+      "id": "992cb5a92f89df53",
+      "title": "搭建赋能平台 精准链接智造供需",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51aEphNWVTM2tfdmJvTkwzcTJsWURWTmp6V3d0SVpPOEh1emNpWm9wYlo5TU4tUDAwYmR3U2ctQ0l2RlRrOXlPWlJSS19hYWdaenRCXzVFaUhReHh3Um9vbUtB?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-07T17:13:57.000Z",
+      "excerpt": "搭建赋能平台 精准链接智造供需 常州市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.546113
+    },
+    {
+      "id": "1192e3c4c126446e",
+      "title": "丰田汽车因存在熄火风险召回31,000辆RAV4插电式混合动力车 - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkprSEE0WnpNamdzMjN1aTdWWElkUm1Oa1M4Y2pHQTItNUZQdnRqT0ZmcEhGaWlXay1nVm40YWhMeHpCWE1zRS1xM2F3VS1vRUJoRzJFbkIzYnIyS2E4clRXNVBPcHBlYzNiblVYV1ktUVdSeHJzM1RaY1EtWWh1YnZTVjAtYm1LSkZqZHBCZFpnNHUzSWxMRVZUZDZkV1gydkJ6RmlSdjBmaTZxYnpj?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-07T17:21:16.000Z",
+      "excerpt": "丰田汽车因存在熄火风险召回31,000辆RAV4插电式混合动力车 Moomoo",
+      "section": "cn-life",
+      "rankScore": 0.480476
+    },
+    {
+      "id": "ac1dd7162c882767",
+      "title": "神经元p38α在反复性轻度创伤性脑损伤中的性别依赖性神经后果",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNWU5oUzFfV2V5RTFudDFMUGFIaHQtNWRoMDVoRlRXTHNoVFZRaTdvX1k4M1JXSVZRQ1Z5V2o5dS1JeVhJMnV0NFFJTHZ2THZWcy1qVjBja0dBUkJvY3BwbVJENUFLcTBLallLV013?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-07T16:12:35.000Z",
+      "excerpt": "神经元p38α在反复性轻度创伤性脑损伤中的性别依赖性神经后果 生物通",
+      "section": "cn-life",
+      "rankScore": 0.45582
+    },
+    {
+      "id": "a8b91a17443d3138",
+      "title": "皖西学院发布2027年硕士研究生招生简章",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45VnEwODlqa3U2b1BtNWNwT3dhN2pMVkc3TGhLOExaU1ZPZVhaZ0EyX1V1Tmo2a1hfalVKSDdNSkJPaGJ1NFBvbGx0MTEzdzc4cW9ZZmFfRVBHbDMzMGhHaVZXUXZ2dTlFaWxUaG55blh6NERTc3c?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-07T15:52:00.000Z",
+      "excerpt": "皖西学院发布2027年硕士研究生招生简章 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.38437
+    }
+  ],
+  "warnings": []
+}
