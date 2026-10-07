@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-07",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-07T01:28:29.151Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "e6f6b2abd84dbd53",
+      "title": "openai/math",
+      "url": "https://github.com/openai/math",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-06T21:47:02.000Z",
+      "score": 2074,
+      "author": "openai",
+      "excerpt": "(no description) — ★2074 · Lean",
+      "section": "tech",
+      "rankScore": 1.066182
+    },
+    {
+      "id": "20ee8b141fc789cd",
+      "title": "JetBrains reports revenue growth, net financial loss for 2025",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "source": "hn-front",
+      "publishedAt": "2026-10-06T11:45:55.000Z",
+      "score": 573,
+      "author": "thw_9a83c",
+      "excerpt": "573 points · 532 comments · https://news.ycombinator.com/item?id=49977072",
+      "section": "tech",
+      "rankScore": 0.90331
+    },
+    {
+      "id": "150d0c81771725e2",
+      "title": "When random is not actually random enough",
+      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
+      "source": "lobsters",
+      "publishedAt": "2026-10-07T00:43:47.000Z",
+      "author": "ersc.io via fanf",
+      "section": "tech",
+      "rankScore": 0.670393
+    },
+    {
+      "id": "2645eae637ec6306",
+      "title": "Stacked pull requests generally available",
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-06T20:16:41.000Z",
+      "author": "Allison",
+      "excerpt": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public…",
+      "section": "tech",
+      "rankScore": 0.613388
+    },
+    {
+      "id": "ef93aafe6f995ba1",
+      "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+      "url": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
+      "source": "kubernetes",
+      "publishedAt": "2026-10-06T18:00:00.000Z",
+      "excerpt": "In Linux, cgroups (control groups) are a kernel feature used for managing system resources. Kubernetes uses cgroups to allocate resources like CPU and memory to containers, ensuring that applications run smoothly without interfering with each other.",
+      "section": "tech",
+      "rankScore": 0.575421
+    },
+    {
+      "id": "b3ef146e6f1a19e9",
+      "title": "The keys to the Internet change on October 11. Are you ready?",
+      "url": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
+      "source": "cloudflare",
+      "publishedAt": "2026-10-06T17:50:11.000Z",
+      "excerpt": "On October 11, 2026, the DNS root switches to a new key-signing key (KSK-2024). Learn what this means for you, and how RFC 8509 trust anchor sentinels allow you to test whether your DNS resolver is ready for the rollover.",
+      "section": "tech",
+      "rankScore": 0.515424
+    },
+    {
+      "id": "4b8212d53baf4805",
+      "title": "llm-openai-decisions 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-06T23:04:13.000Z",
+      "excerpt": "Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API , as previously announced at last week's DevDay. Since I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra read the new OpenAI API documentation and build an llm-openai-decisions plugin…",
+      "section": "ai",
+      "rankScore": 0.79191
+    },
+    {
+      "id": "8358dd9cf3f3f5b2",
+      "title": "llm-mistral 0.16",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-06T21:32:34.000Z",
+      "excerpt": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning",
+      "section": "ai",
+      "rankScore": 0.76136
+    },
+    {
+      "id": "5ed59913bac31c6a",
+      "title": "v2.1.292",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.292",
+      "source": "anthropic",
+      "publishedAt": "2026-10-06T18:59:30.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added --marketplace <source> to claude plugin install : adds the marketplace if needed, under the same policy checks as claude plugin marketplace add , then installs the plugin from it Added an effort parameter to the Agent tool, so Claude runs a sub-agent at the effort level you…",
+      "section": "ai",
+      "rankScore": 0.739935
+    },
+    {
+      "id": "2d397d3e3b4dd24f",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "source": "openai",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "excerpt": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "section": "ai",
+      "rankScore": 0.594276
+    },
+    {
+      "id": "9d5a6bf3b59480ed",
+      "title": "手太痒了，终于开发了个操作系统，免安装那种",
+      "url": "https://www.v2ex.com/t/1246642",
+      "source": "v2ex",
+      "publishedAt": "2026-10-06T07:35:49.000Z",
+      "score": 89,
+      "author": "zackkk",
+      "excerpt": "[先问] 朋友们，谁用过 Windows 98? 有没有完全没有见过 Windows 98 的朋友？ 从 Dos 时代开始，到了 Windows 98 ，太迷了人，我对那种立体强交互反馈的 Windows classic 设计，喜欢得要命 理想中的电脑交互界面就是那样。家里永远有一台旧电脑是装着 w98 的，隔段时间打开来看看，就像那个黄昏坐在那间吵得要命的机房角落一样，扣代码劲儿就更大了 终于动手了。",
+      "section": "cn-tech",
+      "rankScore": 0.593261
+    },
+    {
+      "id": "cdb5e3642325bc22",
+      "title": "大家还搞 Python 吗 , 感觉现在用的不多了啊",
+      "url": "https://www.v2ex.com/t/1246645",
+      "source": "v2ex",
+      "publishedAt": "2026-10-06T08:00:57.000Z",
+      "score": 24,
+      "author": "iorilu",
+      "excerpt": "以前我主要用 python 得, 包括后台, gui(pyside)等等 因为综合易用性(好写, 易懂), 跨平台, 功能性(覆盖面广) 但了解得都知道, 这些东西现在可能不一定还成立了, 或者说选择太多了 首先, python 本身大量重要库都是基于 rust 得, 那可能就要问下了, 为啥不直接用 rust, 以前可能还有学习曲线陡得问题, 现在 ai 其实很擅长写编译型语言 库多, 现在随便移植, 任何平台你看上其他平台某个库, 必然就有人移植, 或者你自己让 ai 干也用不了多少 token 所以我现在好像用 python 不多了, 现在后台更偏向 go, 或者 rust gui,…",
+      "section": "cn-tech",
+      "rankScore": 0.522402
+    },
+    {
+      "id": "57d3933fc5ce0db0",
+      "title": "一笔画出一座城：AI水墨城市海报提示词教程（附案例）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JNmRsMDZiWEdSVm1uQXUzTVVUNGxlRUwzNzRqVlVoODBvZWMyQTlJVWFWUVVucEQ5dlJwVzMweGNmOUF6bXpwdjNFUDJfV2t5YUNlaw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-06T22:48:40.000Z",
+      "excerpt": "一笔画出一座城：AI水墨城市海报提示词教程（附案例） 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.458924
+    },
+    {
+      "id": "1f9c5fc1cf1036a0",
+      "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+      "url": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "author": "QCon全球软件开发大会",
+      "section": "cn-tech",
+      "rankScore": 0.442087
+    },
+    {
+      "id": "b91545e1a3c5b81f",
+      "title": "比起核电站，美国人为什么更反感数据中心？",
+      "url": "https://www.36kr.com/p/4013845198507910",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-06T06:00:05.000Z",
+      "excerpt": "AI、数据中心，这些看起来是完完全全的高科技。 但美国，好像刮起一股“逆流”。 比如，今年，美国加州洛杉矶县的蒙特利公园市，原本计划搞一座峰值用电约50兆瓦的超大数据中心。 但这个“高科技项目”，却被当地居民硬生生拦了下来。 而且，当地选民以88.34%的赞成率，让蒙特利公园市成了“全美首个由市民投票禁建数据中心的城市”。 蒙特利公园市 不光现在不搞，以后永远也不搞数据中心。 面对AI时代的突飞猛进，一个自诩全球AI霸主的国家，民众为什么这么反感对数据中心？ 01 美国不让建数据中心了？ 在如今的国际格局下，谁拥有大规模、低成本的算力集群，谁就掌握了下一轮科技红利的入场券。",
+      "section": "cn-tech",
+      "rankScore": 0.337899
+    },
+    {
+      "id": "19a080c4b1caad0e",
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-06T18:38:55.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.",
+      "section": "security",
+      "rankScore": 0.586231
+    },
+    {
+      "id": "4080b3531e7c8756",
+      "title": "Savannah lwIP SMTP client",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-02",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of this vulnerability could crash the device being accessed; a buffer overflow condition may allow remote code execution.",
+      "section": "security",
+      "rankScore": 0.475421
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 36 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
