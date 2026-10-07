@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-07",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-07T18:55:19.299Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "64281935d998c870",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-07T18:55:19.299Z",
+      "score": 828,
+      "excerpt": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "section": "tech",
+      "rankScore": 1.08
+    },
+    {
+      "id": "3dc60909288f2786",
+      "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "source": "hn-front",
+      "publishedAt": "2026-10-07T15:09:59.000Z",
+      "score": 293,
+      "author": "DeepLogin",
+      "excerpt": "293 points · 163 comments · https://news.ycombinator.com/item?id=49993914",
+      "section": "tech",
+      "rankScore": 0.921235
+    },
+    {
+      "id": "8b7b94f163ff4eb8",
+      "title": "Building resilient systems with Sam Newman",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-10-07T17:19:58.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development.",
+      "section": "tech",
+      "rankScore": 0.720052
+    },
+    {
+      "id": "510713b94b9fa130",
+      "title": "Calling a function in C without naming it",
+      "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-07T18:15:02.000Z",
+      "author": "wiro.world by mrnossiom",
+      "section": "tech",
+      "rankScore": 0.663795
+    },
+    {
+      "id": "dd53696a77b6374b",
+      "title": "How Netflix Taught an LLM to Recommend Movies So That You Keep Watching",
+      "url": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-07T15:31:48.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we will look at how GenRec was built.",
+      "section": "tech",
+      "rankScore": 0.663393
+    },
+    {
+      "id": "5fc29743dcb78105",
+      "title": "Purpose-built model for leaked secret detection",
+      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-07T16:13:56.000Z",
+      "author": "Allison",
+      "excerpt": "Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware…",
+      "section": "tech",
+      "rankScore": 0.623148
+    },
+    {
+      "id": "d7eedaf192259de3",
+      "title": "v2.1.293",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+      "source": "anthropic",
+      "publishedAt": "2026-10-07T18:10:20.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added Claude Haiku 5.5 ( claude-haiku-5-5 ), now the default Haiku model on the Anthropic API — 1M context, $0.10/$0.50 per Mtok ($0.50/$2.50 for prompts over 100K) Added agentType to the subagentStatusLine payload, so scripts can tell custom subagent types apart Added isDeferred to…",
+      "section": "ai",
+      "rankScore": 0.848221
+    },
+    {
+      "id": "11c66de7b7ee8e1f",
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "huggingface",
+      "publishedAt": "2026-10-07T16:54:33.000Z",
+      "section": "ai",
+      "rankScore": 0.722801
+    },
+    {
+      "id": "abefda7123b80c78",
+      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+      "url": "https://www.latent.space/p/stacklok",
+      "source": "latent-space",
+      "publishedAt": "2026-10-07T14:10:45.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud.",
+      "section": "ai",
+      "rankScore": 0.620939
+    },
+    {
+      "id": "b7bed11e4040af43",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "source": "openai",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "excerpt": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "section": "ai",
+      "rankScore": 0.449213
+    },
+    {
+      "id": "911bb328790f7b11",
+      "title": "我有个很缺德的想法",
+      "url": "https://www.v2ex.com/t/1246808",
+      "source": "v2ex",
+      "publishedAt": "2026-10-07T10:59:01.000Z",
+      "score": 27,
+      "author": "Facilis",
+      "excerpt": "做个 web 放到暗网上 每天记录拉的屎的照片 留个收款码，满 100 美金网站下线 24 小时",
+      "section": "cn-tech",
+      "rankScore": 0.665869
+    },
+    {
+      "id": "8972bdddf3acfe7d",
+      "title": "为迎接 iPhone Duo，iOS 开发者需要对应用做出哪些调整",
+      "url": "https://www.infoq.cn/article/CFbVqLXwQvbbhiTMy83e?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-07T16:00:00.000Z",
+      "author": "作者：Sergio De Simone",
+      "section": "cn-tech",
+      "rankScore": 0.616514
+    },
+    {
+      "id": "454a4e001de89465",
+      "title": "最强文件传输助手「虾传」重构上线",
+      "url": "https://www.v2ex.com/t/1246777",
+      "source": "v2ex",
+      "publishedAt": "2026-10-07T07:41:52.000Z",
+      "score": 7,
+      "author": "cmlanche",
+      "excerpt": "虽然有点自吹自擂，但是确实现在最新版虾传在我心中是最强的，从最初开发“闪电藤”，到现在虾传也二次重构，现在已经初步能够让我满意，虽然 UI 上还差点意思，但后面会慢慢优化起来的。 局域网自动发现+互传 广域网传输，多 s3 源+webdav 免登录即可打通单向网络，无需关闭防火墙，无需担心上下游特殊路由场景 断点续传 接收不再中转，直接落到外部目标存储目录 速度打满带宽 全平台支持，包括安卓、iOS 、鸿蒙、windows 、Mac 和网页 突出说几个特性，首先是我们提供了网页版，通过 xiachuan.net/chat…",
+      "section": "cn-tech",
+      "rankScore": 0.521376
+    },
+    {
+      "id": "e6184d5299dd531c",
+      "title": "ESP32-C3 Super Mini 无法连接wifi ESP-IDF先吐一波苦水，我真的吐了，我之前用ESP32-C",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3S2d0dHk0bG5ReWR0RGg5UkJQc2FmdUhWWE05bzlkQnl5YW1oenBVeW1nMDN5WllrU3JsMUNYcVVfazBId0NPX3RtSGF5NzFoU2s5SA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-07T15:03:42.000Z",
+      "excerpt": "ESP32-C3 Super Mini 无法连接wifi ESP-IDF先吐一波苦水，我真的吐了，我之前用ESP32-C 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.412793
+    },
+    {
+      "id": "e4192a9514614f1f",
+      "title": "可灵上市，快手如何自洽",
+      "url": "https://www.36kr.com/p/4015326443329157",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-07T07:08:21.000Z",
+      "author": "象先志",
+      "excerpt": "可灵如果独立上市，快手需要给投资者一个继续持有母公司的理由。 只看好AI视频的资金，将有机会直接购买可灵股票。买快手，则意味着同时接受它的广告、电商、直播，以及管理层接下来怎样使用这些业务赚到的钱。快手可以继续控制可灵，却可能失去一部分只想投资可灵的买家。 10月6日，据IT之家援引彭博报道，可灵已选定中金、高盛和瑞银筹备香港IPO，可能募资至少10亿美元，目标最早在2027年上市，时间和规模仍可能调整。 上市方向此前已有消息，这次更具体的是投行名单和募资目标。 可灵有理由争取属于自己的投资人。它向创作者收取订阅费，向企业提供视频生成API，客户购买的能力可以用于快手以外。",
+      "section": "cn-tech",
+      "rankScore": 0.327012
+    },
+    {
+      "id": "56566eff6995a15c",
+      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-07T17:43:20.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx.",
+      "section": "security",
+      "rankScore": 0.66572
+    },
+    {
+      "id": "fccbaa9cec3bf66d",
+      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-07T16:17:44.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions.",
+      "section": "security",
+      "rankScore": 0.624958
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 37 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
