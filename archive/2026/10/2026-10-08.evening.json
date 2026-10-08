@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-08",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-08T18:49:28.464Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "825583e6fb208323",
+      "title": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-08T18:49:28.464Z",
+      "score": 2510,
+      "excerpt": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "52fee1faabdec910",
+      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "url": "https://news.ycombinator.com/item?id=50006366",
+      "source": "hn-front",
+      "publishedAt": "2026-10-08T14:39:47.000Z",
+      "score": 556,
+      "author": "lukehandcool",
+      "excerpt": "556 points · 143 comments · https://news.ycombinator.com/item?id=50006366",
+      "section": "tech",
+      "rankScore": 0.937319
+    },
+    {
+      "id": "1682b629346b1a45",
+      "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+      "url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-08T18:49:28.464Z",
+      "excerpt": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference implementation that runs beside your production agent in Google Cloud, sweeps and…",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "da0d34889108592d",
+      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-10-08T16:55:51.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Also: do us engineers truly enjoy ‘hard problems’, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more",
+      "section": "tech",
+      "rankScore": 0.710482
+    },
+    {
+      "id": "b2b92dcf61d3aee1",
+      "title": "Screen readers can navigate timelines as lists",
+      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-08T16:00:56.000Z",
+      "author": "Allison",
+      "excerpt": "Screen readers can now navigate issue and pull request timelines as a list. When you move through a timeline, assistive technology can announce the list structure, item count, current position,…",
+      "section": "tech",
+      "rankScore": 0.619742
+    },
+    {
+      "id": "a637dc00e23a45aa",
+      "title": "The history of the Hetzner Cloud network stack",
+      "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-08T15:02:28.000Z",
+      "author": "hetzner.com via eatonphil",
+      "section": "tech",
+      "rankScore": 0.577104
+    },
+    {
+      "id": "bfafe410bea39f86",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "source": "openai",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "excerpt": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "section": "ai",
+      "rankScore": 0.774122
+    },
+    {
+      "id": "3ca3a02ee46f1805",
+      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+      "url": "https://www.latent.space/p/periodic",
+      "source": "latent-space",
+      "publishedAt": "2026-10-08T16:27:54.000Z",
+      "excerpt": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
+      "section": "ai",
+      "rankScore": 0.695842
+    },
+    {
+      "id": "cb53f5fa769bf405",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "openai",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "excerpt": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "section": "ai",
+      "rankScore": 0.631265
+    },
+    {
+      "id": "875df5fa891d97d7",
+      "title": "v2.1.294",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.294",
+      "source": "anthropic",
+      "publishedAt": "2026-10-08T05:03:54.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Fixed prompt and agent hooks written as instructions (such as \"Block commands that...\") allowing what they should block Improved how prompt hooks on Stop and SubagentStop written as instructions (such as \"Carry on if the build is broken\") are judged, so Claude is less likely to stop…",
+      "section": "ai",
+      "rankScore": 0.383587
+    },
+    {
+      "id": "64b6bf3056567bd7",
+      "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+      "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-08T18:49:28.464Z",
+      "excerpt": "ACL 2026杰出论文奖（Outstanding Paper）揭晓，全球共 18 篇入选，其中包含美团履约技术团队的1篇论文。本文介绍了一种专为 RLVR 设计的低秩训练方法，以及它在业务 Agentic RL 中的落地经验。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "68aabec55adebf66",
+      "title": "智谱原来真是蒸馏别人的数据",
+      "url": "https://www.v2ex.com/t/1247153",
+      "source": "v2ex",
+      "publishedAt": "2026-10-08T11:25:41.000Z",
+      "score": 22,
+      "author": "netblue",
+      "excerpt": "本来问它下载 Zcode 有啥活动，它竟然说 zcode 是啥，是哪家的，然后说自己是 claude https://img.cdn1.vip/i/6ac77d3758451_1791458615.webp https://img.cdn1.vip/i/6ac77d352a7b0_1791458613.webp https://img.cdn1.vip/i/6ac77d35d118f_1791458613.webp https://img.cdn1.vip/i/6ac77d363d55d_1791458614.webp",
+      "section": "cn-tech",
+      "rankScore": 0.682804
+    },
+    {
+      "id": "361d486a690c4084",
+      "title": "谷歌借助 AI 与差分模糊测试将 C 语言依赖库改写为 Rust",
+      "url": "https://www.infoq.cn/article/LVsjSV4pIlh3Liz0KZZE?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-08T17:12:00.000Z",
+      "author": "作者：Olimpiu Pop",
+      "section": "cn-tech",
+      "rankScore": 0.653584
+    },
+    {
+      "id": "599a1f630fdafb3c",
+      "title": "Manus 成功融资逾 5 亿美元",
+      "url": "https://www.solidot.org/story?sid=85554",
+      "source": "solidot",
+      "publishedAt": "2026-10-08T13:59:39.000Z",
+      "excerpt": "经历收购风波的中国 AI 企业 Manus 完成超过 5 亿美元融资，创始人肖弘也已解除边控，让这家一度卷入中美科技博弈、前途未卜的公司迎来“重启”，也彰显了中国资本市场对 AI 的热情。 Manus 的母公司蝴蝶效应，星期四（10月8日）在公众号宣布融资消息。这是中国 AI 应用领域迄今规模最大的单轮融资之一，由中国私募股权基金博裕资本和老牌美元基金 IDG 领投，老股东腾讯、红杉中国、真格基金跟投。 公司投后估值达到 40 亿美元，也让 Manus 成为中国估值最高的 AI 智能体初创企业。 去年 12 月 Meta 斥资 20 亿美元收购 Manus，但交易被中国监管部门要求撤回。",
+      "section": "cn-tech",
+      "rankScore": 0.618187
+    },
+    {
+      "id": "acb7365134497a81",
+      "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
+      "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-10-08T15:04:46.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。...",
+      "section": "cn-tech",
+      "rankScore": 0.607821
+    },
+    {
+      "id": "6efcc0be6f12e3e8",
+      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-08T18:32:21.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8. The company, Integrity Technology Group, has been…",
+      "section": "security",
+      "rankScore": 0.691846
+    },
+    {
+      "id": "09eb4c086f092226",
+      "title": "Grid Protection Alliance openPDC and openHistorian",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-02",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary The following versions of Grid Protection Alliance openPDC and openHistorian are affected: openPDC <2.9.477, <2.9.482 (CVE-2026-104629, CVE-2026-100730, CVE-2026-105281, CVE-2026-85479, CVE-2026-101022) openPDC (Docker image) <2.9.477, <2.9.482 (CVE-2026-104629, CVE-2026-100730,…",
+      "section": "security",
+      "rankScore": 0.505012
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 38 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
