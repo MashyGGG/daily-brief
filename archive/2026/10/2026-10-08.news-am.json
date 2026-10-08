@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-08",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-08T02:14:35.460Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "3ff2e258bef17ced",
+      "title": "派拉蒙合併華納兄弟：可能以四種方式影響你的生活",
+      "url": "https://www.bbc.com/zhongwen/articles/cwvgdlgq3110o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-08T01:10:42.000Z",
+      "excerpt": "流媒體平台會漲價？CNN 和 CBS 獨立性如何保證？以及總計156部電影的上映承諾。",
+      "section": "news",
+      "rankScore": 0.818703
+    },
+    {
+      "id": "0432caf65f31be74",
+      "title": "中国的“自力更生”战略正在颠覆中欧贸易格局",
+      "url": "https://cn.nytimes.com/business/20261008/china-europe-trade-manufacturing/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-08T02:00:40.000Z",
+      "author": "黄瑞黎",
+      "excerpt": "过去十年里，中国向旨在减少对外国供应商依赖的产业和技术倾注了大量资源。政府推动经济更加自力更生，扩大国内生产商品种类。这导致中欧贸易逆差日益加剧。 Felix Schmitt for The New York Times 去年在慕尼黑车展上，中国最大电动汽车制造商比亚迪的一款汽车。",
+      "section": "news",
+      "rankScore": 0.765745
+    },
+    {
+      "id": "9200d49475ab994c",
+      "title": "在中国，一胎孩只想跟同样是一胎孩的结婚，其他人就靠边站吧！",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261007-%E5%9C%A8%E4%B8%AD%E5%9B%BD%EF%BC%8C%E4%B8%80%E8%83%8E%E5%AD%A9%E5%8F%AA%E6%83%B3%E8%B7%9F%E5%90%8C%E6%A0%B7%E6%98%AF%E4%B8%80%E8%83%8E%E5%AD%A9%E7%9A%84%E7%BB%93%E5%A9%9A%EF%BC%8C%E5%85%B6%E4%BB%96%E4%BA%BA%E5%B0%B1%E9%9D%A0%E8%BE%B9%E7%AB%99%E5%90%A7",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-07T23:04:21.000Z",
+      "author": "珍妮特",
+      "excerpt": "在中国，爱情的标准清单上又增加了一条新要求：找到一个既没有兄弟也没有姐妹的伴侣。那些一胎孩只想跟同样是一胎孩的结婚，其他人就靠边站吧！",
+      "section": "news",
+      "rankScore": 0.647155
+    },
+    {
+      "id": "9f090335294bb0b7",
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-08T00:53:46.000Z",
+      "excerpt": "Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority.",
+      "section": "news",
+      "rankScore": 0.609794
+    },
+    {
+      "id": "4b9b6ea6c55dcedd",
+      "title": "Trump repeats his false claim that Iran could destroy Los Angeles or San Diego – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-08T02:03:59.000Z",
+      "author": "Robert Mackey, Shrai Popat, Marina Dunbar and Tom Ambrose",
+      "excerpt": "This live blog is now closed. Sign up for the Breaking News US email Tonight, we’ll have another set of midterm debates. In Iowa, we’ll see the Republican nominee for US Senate, Ashley Hinson , face off against Democrat Josh Turek , a state representative and Paralympian at 8pm ET.",
+      "section": "news",
+      "rankScore": 0.557643
+    },
+    {
+      "id": "7cc8a5e2f887de89",
+      "title": "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge",
+      "url": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-08T02:00:19.000Z",
+      "author": "Avishag Shaar-Yashuv and Isabel Kershner",
+      "excerpt": "Gali and Ziv Berman were taken hostage when their kibbutz was attacked on Oct. 7, 2023. They were freed a year ago but are still adjusting to freedom and trying to rebuild their lives.",
+      "section": "news",
+      "rankScore": 0.556828
+    },
+    {
+      "id": "8ef04c81cf8bf5de",
+      "title": "Why is Guantanamo prison still open?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-08T01:49:11.000Z",
+      "excerpt": "Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open",
+      "section": "news",
+      "rankScore": 0.554354
+    },
+    {
+      "id": "06d91286e2cca726",
+      "title": "Newsom Mulls Sparing Lives of All 563 Prisoners on Death Row in California",
+      "url": "https://www.nytimes.com/2026/10/07/us/newsom-death-row-prisoners-california.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-08T01:53:21.000Z",
+      "author": "Laurel Rosenhall",
+      "excerpt": "Gov. Gavin Newsom ramped up talks after a botched execution in Tennessee.",
+      "section": "news",
+      "rankScore": 0.48587
+    },
+    {
+      "id": "e53c00ab5a9b9e9f",
+      "title": "Samsung profit surges ninefold to $80bn on AI chip demand",
+      "url": "https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-08T01:50:30.000Z",
+      "excerpt": "World’s largest memory-chip maker posts record earnings for the three months to September",
+      "section": "news",
+      "rankScore": 0.485316
+    },
+    {
+      "id": "b994206b42dc41e2",
+      "title": "This surprising mammal fossil is giving scientists something to chew on",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest",
+      "source": "npr-news",
+      "publishedAt": "2026-10-07T19:59:16.000Z",
+      "author": "Ari Daniel",
+      "excerpt": "It's likely you've already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs still reigned.",
+      "section": "news",
+      "rankScore": 0.41702
+    },
+    {
+      "id": "549e1f7586f028f8",
+      "title": "粮农组织评估：南半球渔业每年至少导致3万只海鸟遭误捕",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142955",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "excerpt": "联合国粮农组织周三表示，一项关于海鸟与远洋延绳钓渔业相互作用的大型新合作评估显示，在所评估的远洋延绳钓渔业中，每年至少有3万只海鸟被作为兼捕物捕获。",
+      "section": "news",
+      "rankScore": 0.416352
+    },
+    {
+      "id": "666fd818eebf8b00",
+      "title": "沙特主导联军：摧毁胡塞武装袭击利雅得的导弹设施",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXRScm1JMlVienphQU1seW1Ydlo5Q09tVlpCVV9Gb1NsMnN1OEZ4c0w4UEhPbGcyMEotMlplQzgyRHUxTkp2aE1KaDIwLUxRTjZENkhSTHVBVEVjakwxWUJJQ0hSVUVKdWo4bHRPM2dRZVJOQkM4cXVPQ3lmNmNpOGtKdzJDZXg3RmlUYldwS0NKUHhmNUpzQ0VR?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-08T01:34:32.000Z",
+      "excerpt": "沙特主导联军：摧毁胡塞武装袭击利雅得的导弹设施 新华网客户端 冲突再升温 也门局势走向何方？ 新浪财经 沙特主导联军：在也门荷台达省打击胡塞武装目标 凤凰网 也门胡塞武装：沙特24小时发动156次袭击 搜狐网 沙特又开始犯糊涂作大死了，中东全新大变局出现了 风闻",
+      "section": "news",
+      "rankScore": 0.413324
+    },
+    {
+      "id": "6b94a1437953d8c7",
+      "title": "后备箱装十箱矿泉水被罚？专家：私家车载物有四个前提",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-08/10708881.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-08T01:37:45.000Z",
+      "excerpt": "近日，网传一名车主在后备箱装了十箱矿泉水被扣3分、罚款100元，网传说法还称，交警给出的解释是，这种行为是“客货混装”，且私家车属于非营运车辆，在后备箱装载大量整装商品即构成违法。这一网传案例是否属实、处罚逻辑又是否符合法律规定呢？私家车后备箱装物品，怎么装、装到什么程度算违法违规？",
+      "section": "cn-news",
+      "rankScore": 0.82772
+    },
+    {
+      "id": "d8ed34a505681f5d",
+      "title": "最高人民法院、全国工商联联合发布典型案例，聚焦解决拖欠企业账款纠纷",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708908.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-08T02:07:57.000Z",
+      "excerpt": "为贯彻落实党中央、国务院关于清理拖欠企业账款问题的重要部署，落实民营经济促进法对保障民营经济组织账款权益的有关规定，充分发挥调解在解决企业账款拖欠问题中的重要作用，引导民营企业通过自愿和合法原则进行调解，今日，最高人民法院与全国工商联联合发布第二批民营经济领域纠纷多元化解典型案例。",
+      "section": "cn-news",
+      "rankScore": 0.767971
+    },
+    {
+      "id": "e8aa289c224b7ce4",
+      "title": "从先行区到中试基地 浙江如何构筑“AI+文旅”制度底座？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708891.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-08T02:02:10.000Z",
+      "excerpt": "中新网杭州10月8日电 题：从先行区到中试基地 浙江如何构筑“AI+文旅”制度底座？",
+      "section": "cn-news",
+      "rankScore": 0.626894
+    },
+    {
+      "id": "c96ca170a60b334a",
+      "title": "寒露 露冷秋深 雁南归",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ycFhUYTRFNkZlOERPdTFTRTlCSlFubW1MUzU3MTlPbEx6T295QjhqVXA0dlh5a1dDbTk3akEyUE9zU3RjX1BqckdlZWJoWk9wM3RxMFhDbU1fYlY4dTZyaA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-08T01:53:22.000Z",
+      "excerpt": "寒露 露冷秋深 雁南归 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.624694
+    },
+    {
+      "id": "9408d7d169a6e091",
+      "title": "大学堂｜从内陆到先声：鹿传霖与四川中西学堂的创立",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3RlFBTFhoU1FCX004Z1UxZmpGcTVUeXQ1U3c2dUp1MTk5UkVQVngyOWthZnVBeGhueGlvSXBzLVFGazFPdGJCZGg1dFNBeEVFUFcwSW5pZURkckdPdFFZZQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-08T00:01:00.000Z",
+      "excerpt": "大学堂｜从内陆到先声：鹿传霖与四川中西学堂的创立",
+      "section": "cn-news",
+      "rankScore": 0.596602
+    },
+    {
+      "id": "462afa1cd4a816c4",
+      "title": "文化中国行｜城市作舞台 众客入戏来",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRmxyNklPOTd5WThZRWNwZ1FoYzVFWTBoT1I0T3FaeW1uYmw5VWtKS1l3OWJBRU43RUFTUExlbEhSN0pkbzRhVVNaYWNmMzdDcElqWjBfZUt4V0JXNWdmR3dWVGR6dHN4R0g3NWhTZVRGUHdweXJpOXNMOTdpSFlOdFZn?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-08T01:42:09.000Z",
+      "excerpt": "文化中国行｜城市作舞台 众客入戏来 新华网",
+      "section": "cn-news",
+      "rankScore": 0.552791
+    },
+    {
+      "id": "ceba61cdae6bec2c",
+      "title": "暴涨782.5%！三星创下韩国企业史上首个单季百万亿韩元营业利润",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XZGw0OXdzUy1DZUgyMEVVdE50bEp5VE1oSVNQYndxaGdMVTc5M2FjaUZ0ZDA3dTZLOHprRVUxb280UEpYQTRYTUNGcXM5VGFoVHZXRUxGaDFVcmRaTGFLTkMwRU9kMjF4TVR3UnRB?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-08T01:57:09.000Z",
+      "excerpt": "暴涨782.5%！三星创下韩国企业史上首个单季百万亿韩元营业利润 同花顺 “存储荒”持续！三星Q3营业利润猛增近8倍 史上首破100万亿韩元大关 财联社 存储巨头，业绩暴增近800% 凤凰网财经 同比翻8倍 1个季度利润超800亿美元！三星发财报：还会对内存涨价 手机PC等遭殃 驱动之家 三星电子Q3利润再创纪录仍略逊预期，AI内存热潮成主引擎 但高股价与周期疑虑并存 金融界",
+      "section": "cn-news",
+      "rankScore": 0.486609
+    },
+    {
+      "id": "96569525c120b65b",
+      "title": "Beyond the summit: how US-China relations could still unravel",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3369893/beyond-summit-how-us-china-relations-could-still-unravel?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-08T01:00:10.000Z",
+      "author": "Chow Chung-yan",
+      "excerpt": "This year’s Chinese National Day reception in Washington felt noticeably jollier than those I have attended in recent years. The mood was more relaxed and Chinese Ambassador Xie Feng’s opening speech was upbeat. He even joked about the panda ambassadors at his own expense.",
+      "section": "cn-news",
+      "rankScore": 0.475529
+    },
+    {
+      "id": "87d570bd5228d939",
+      "title": "陈梦：竞技体育，没有捷径",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmxYM25SWVE0ek5wTTJxVklmNlNLMWJvX0RyN1VOaWhpeWdkbHFsSmtWaF9TQV9OTHhnVFlhZGZfNndyaTVTdWF5Q2ZlWjM3amxDSkFhOEtHSG1KaTFoODJSWjRBVmc1RC03MkxoQkxRR0FWVDIzbkhnb1ZDMW9RSm5RUmRCVWplQ1ByUXJpY3lnVXJmLVk1VDVB?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-08T02:09:33.000Z",
+      "excerpt": "陈梦：竞技体育，没有捷径 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.41916
+    },
+    {
+      "id": "b6049ab8b91d4e07",
+      "title": "中國前記者洪廣玉涉尋釁滋事被刑拘 疑因助大連櫻桃種植戶維權",
+      "url": "https://www.cna.com.tw/news/acn/202610070351.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-07T13:52:03.000Z",
+      "excerpt": "（中央社台北7日電）中國媒體財新報導，北京科技報前記者、知名科普博主洪廣玉9月19日被大連市警方以涉嫌尋釁滋事罪刑事拘留。消息人士稱，這跟他參與2022年大連櫻桃種植戶的維權活動有關。目前，該文章在財新已被刪除。",
+      "section": "cn-news",
+      "rankScore": 0.394991
+    },
+    {
+      "id": "9773177e8e25475b",
+      "title": "国庆假期，“村咖”还火吗？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-08/10708897.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-08T02:10:01.000Z",
+      "excerpt": "中新网杭州10月8日电(林波)国庆假期，在浙江省永康市后吴村，清晨的阳光穿过存诚堂的古木梁，落在百年树龄的铁树上。该村首家咖啡馆主理人王珍珍推开木门，开始研磨、闷蒸、注水，手冲咖啡的香气在古宅厅堂里慢慢散开。",
+      "section": "cn-life",
+      "rankScore": 0.838475
+    },
+    {
+      "id": "800b59ba15976aa0",
+      "title": "鸡蛋存放前别水洗 正确保鲜攻略请收好",
+      "url": "https://www.chinanews.com.cn/life/2026/10-08/10708864.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-08T00:19:56.000Z",
+      "excerpt": "鸡蛋做法多样、营养丰富",
+      "section": "cn-life",
+      "rankScore": 0.668151
+    },
+    {
+      "id": "dac9027ad573848a",
+      "title": "习近平：加强普惠性、基础性、兜底性民生建设",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCYXc1S1NoLTdxOWhxVGpSUHF0MEkyZGJ3Z0hZSGEzUjU1cjEzV0JXdVI4Nlkxc0FJZVBfWThScTNLYThmbE9DSEFwVWdETVFieU1SdVdUQk4xZw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-08T01:57:26.000Z",
+      "excerpt": "习近平：加强普惠性、基础性、兜底性民生建设 南京信息工程大学",
+      "section": "cn-life",
+      "rankScore": 0.625711
+    },
+    {
+      "id": "5b2058a66438c218",
+      "title": "福建诏安：抗台风“硬核”大水门成国庆新晋打卡点",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5UWc4ZkpwVldtd1h6akd3YngwVXRVZ3pQV1ZnUVYzM1otamFEcEwxT05KdzYwcDBtcUlVR3JKRmdjbDRSZ2lLVmJNQmI1b3gtSVJOaUl5NlEwN0xMV3FoYnh1NlpRRTdMWXpNcWlXdmY?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-08T01:54:50.000Z",
+      "excerpt": "福建诏安：抗台风“硬核”大水门成国庆新晋打卡点 中新网福建",
+      "section": "cn-life",
+      "rankScore": 0.625061
+    },
+    {
+      "id": "95bf729d638d4e98",
+      "title": "城投集团档案数字化建设及测评咨询服务（二次）公开招标（自主）采购公告-通知公告",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JdTJPbXZVUS1uUWd5eDBIR1IzUHA5NDVTSGZVVi0wYmpoWEdvWHVKcWQwbkR0U1ZOQTloUXhFUllyeFc3RzZDcnIxeF85bzhHT1JPRDNEV3ZjUmZVc2w0bk5GWDRfZ25BaXlsSjB2YTU?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-08T02:12:35.000Z",
+      "excerpt": "城投集团档案数字化建设及测评咨询服务（二次）公开招标（自主）采购公告-通知公告 龙岗政府在线",
+      "section": "cn-life",
+      "rankScore": 0.559554
+    },
+    {
+      "id": "f57a2174370bdafe",
+      "title": "2026全国食安周重点活动举行，皇家小虎受邀分享全链条治理经验",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kTHZRd2hlaTV6Q3NxeXJhM2twNHFCekV4ZEl4Z1BYS1ZqSzhjOXlZc3RxTkxydTFiZDdXSGFzWVpWTGdoRE91bXdRVlRla0IxaFM1X00yU0N1NlR3QUE?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-08T01:48:10.000Z",
+      "excerpt": "2026全国食安周重点活动举行，皇家小虎受邀分享全链条治理经验 中华网",
+      "section": "cn-life",
+      "rankScore": 0.484862
+    },
+    {
+      "id": "a59fd9bfef7d0fae",
+      "title": "母体摄入THC影响恒河猴后代神经发育与情绪行为的纵向多模态研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzR0dYY1FHcWVfMXpEMVJMSWdjdTdyTmRobHBtb25GU2o4eFp5clk3LUpRUGd6VGJzSVpmYVJHUzZ6Szc5b1AwaExGbW5DY3JtZXlLZEg5aFE3VlpPVTVmdGk5LXVBUTJwaEw4ZE5n?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-08T00:11:51.000Z",
+      "excerpt": "母体摄入THC影响恒河猴后代神经发育与情绪行为的纵向多模态研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.466134
+    },
+    {
+      "id": "2927cfe24a787d05",
+      "title": "欧洲多国掀学生抗议浪潮 预算紧缩激化教育积怨",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vV3VnRmkxM0EyQVBsVXM0aXJhVUJFc3ppMG1oYWpOQlZRWW9pZ2xUT0sydXhiYS00dWJEYk1jX1ZoWU1XVk4yTHNGWDNoMnJJNmlDRW9jQ0xVM1FwLXpnRTlZQlJzS1lLVkE?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-08T01:58:24.000Z",
+      "excerpt": "欧洲多国掀学生抗议浪潮 预算紧缩激化教育积怨 联合早报",
+      "section": "cn-life",
+      "rankScore": 0.417302
+    }
+  ],
+  "warnings": []
+}
