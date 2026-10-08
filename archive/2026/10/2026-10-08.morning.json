@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-08",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-08T01:51:40.373Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "05eab19a3e94a492",
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "source": "hn-front",
+      "publishedAt": "2026-10-07T21:16:18.000Z",
+      "score": 723,
+      "author": "muglug",
+      "excerpt": "723 points · 82 comments · https://news.ycombinator.com/item?id=49998895",
+      "section": "tech",
+      "rankScore": 1.091066
+    },
+    {
+      "id": "a5f13c6de6e35172",
+      "title": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-08T01:51:40.373Z",
+      "score": 619,
+      "excerpt": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "section": "tech",
+      "rankScore": 1.02
+    },
+    {
+      "id": "9850faa8cf9aa858",
+      "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
+      "url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-08T01:51:40.373Z",
+      "excerpt": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date documentation across Firebase, Google Cloud, Android, and more.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "7b637ade3e60f3de",
+      "title": "When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection",
+      "url": "https://resilience.ocf.tw/web/report/en.html",
+      "source": "lobsters",
+      "publishedAt": "2026-10-07T19:44:06.000Z",
+      "author": "resilience.ocf.tw via 7tehdt3cnw6kir6o",
+      "section": "tech",
+      "rankScore": 0.582949
+    },
+    {
+      "id": "e1cc198d0daa8dea",
+      "title": "Part 3: Knowing when your agent doesn’t know: the confidence layer",
+      "url": "https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-10-07T20:40:29.000Z",
+      "author": "Varun Jindal",
+      "section": "tech",
+      "rankScore": 0.582881
+    },
+    {
+      "id": "830e267edc39905e",
+      "title": "Grab Redesigns Counter Service Storage for 50% Lower P99 Latency",
+      "url": "https://www.infoq.com/news/2026/10/grab-counter-aerospike-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-07T14:30:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Grab migrated its high-volume Counter Service from a wide column database to Aerospike using storage abstraction, shadow traffic, data parity validation, and gradual traffic migration. The redesigned data model consolidated time buckets into map-based records.",
+      "section": "tech",
+      "rankScore": 0.548945
+    },
+    {
+      "id": "f2fac7c564ca7c9e",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "huggingface",
+      "publishedAt": "2026-10-07T12:45:31.000Z",
+      "section": "ai",
+      "rankScore": 0.541826
+    },
+    {
+      "id": "13eecf811ee13767",
+      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "source": "latent-space",
+      "publishedAt": "2026-10-07T04:55:44.000Z",
+      "excerpt": "Our head hurts.",
+      "section": "ai",
+      "rankScore": 0.386241
+    },
+    {
+      "id": "036f14f75460f2ba",
+      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-08T01:51:40.373Z",
+      "excerpt": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "7207280cc2bd136a",
+      "title": "ZCode 增强工具：功能增强、样式自定义、多种插件管理",
+      "url": "https://www.v2ex.com/t/1246873",
+      "source": "v2ex",
+      "publishedAt": "2026-10-07T19:48:26.000Z",
+      "score": 5,
+      "author": "duanluan",
+      "excerpt": "ZCode Pro 给 ZCode 桌面版加了一层界面增强，不修改客户端的任何文件——用 “ZCode Pro” 快捷方式启动就自动生效，用官方原有入口启动则完全不加载，随用随走。 支持 Windows / macOS / Linux ，Arch 用户可直接装 AUR 包。 功能一览 侧栏与项目 项目自定义别名：把侧栏里的一长串路径换成短名字，只改显示、随时可恢复 切换文件夹：项目指向另一个目录，侧栏、标签页与任务历史一并迁移 打开文件夹 / 复制路径：项目 “更多” 菜单直达系统文件管理器 会话拖动排序：拖动置顶、项目与分组里的会话都能调顺序，刷新后保持 “新建任务 / 搜索 / 自动化…",
+      "section": "cn-tech",
+      "rankScore": 0.77544
+    },
+    {
+      "id": "3fd3baa4cceefa93",
+      "title": "Apollo 3.0：迈向 Agent First 的配置管理",
+      "url": "https://www.oschina.net/news/502867",
+      "source": "oschina",
+      "publishedAt": "2026-10-08T00:52:08.000Z",
+      "excerpt": "大模型正在从“生成内容”走向“执行任务”。Agent 已经开始参与编码、测试、运维和软件交付流程。当 Agent 真正进入这些工作流后，读取配置、修改配置、发布和回滚，也会逐渐成为自然需求。 但配置中心与普通工具不同。它既承载着生产环境的运行控制，也可能包含敏感配置。面向 Agent 开放配置管理能力，不能只是增加几...",
+      "section": "cn-tech",
+      "rankScore": 0.615115
+    },
+    {
+      "id": "351cf1f3fa54c883",
+      "title": "不写代码的人，正在涌入 GitHub",
+      "url": "https://www.36kr.com/p/4013875644682372",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-08T00:32:00.000Z",
+      "author": "极客公园",
+      "excerpt": "可能没人料到，三年时间，GitHub 竟成了全球用户规模增长最快的应用之一。 2023 年初，GitHub 用户刚刚突破 1 亿；2025 年 9 月，已经达到 1.8 亿人；根据微软前不久披露的数据，截至 2026 年 7 月，已经突破 2.25 亿人。 但是 GitHub 用户规模为何增长如此迅猛？GitHub 官方也解释不清楚。他们曾在此前的官方报告里坦诚地承认： 「我们看到了 AI 在推动软件开发的兴趣，但无法完全解释数据所反映的激增（但我们会继续研究）。」 GitHub 是全世界程序员存放代码、协作开发的地方。多出来的用户，只靠职业程序员的增长解释不了。",
+      "section": "cn-tech",
+      "rankScore": 0.610082
+    },
+    {
+      "id": "461f34ec587da83c",
+      "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+      "url": "https://sspai.com/post/115455",
+      "source": "sspai",
+      "publishedAt": "2026-10-08T00:16:57.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。",
+      "section": "cn-tech",
+      "rankScore": 0.53895
+    },
+    {
+      "id": "a2686aa22540d98b",
+      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-07T15:33:51.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet.",
+      "section": "security",
+      "rankScore": 0.528383
+    },
+    {
+      "id": "85395f89e6a5c23a",
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-07T11:57:05.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens.",
+      "section": "security",
+      "rankScore": 0.46817
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 37 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
