@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-09",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-09T18:19:51.614Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "9f6e64e1069fc035",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-09T18:19:51.614Z",
+      "score": 323,
+      "excerpt": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "section": "tech",
+      "rankScore": 1.02
+    },
+    {
+      "id": "365c08a57e4e5036",
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "source": "hn-front",
+      "publishedAt": "2026-10-09T13:12:47.000Z",
+      "score": 409,
+      "author": "ahlCVA",
+      "excerpt": "409 points · 168 comments · https://news.ycombinator.com/item?id=50020014",
+      "section": "tech",
+      "rankScore": 0.926346
+    },
+    {
+      "id": "7d4357592dd81d33",
+      "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
+      "url": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-09T17:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "Google has released Android Bench 2.0, a major update to its benchmark framework for evaluating AI models and agents on Android development tasks. The update introduces long-horizon tasks (LHTs), agent-based evaluation, and continuous scoring to better assess performance on complex, multi-step…",
+      "section": "tech",
+      "rankScore": 0.711619
+    },
+    {
+      "id": "07f07a64aaed53a5",
+      "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
+      "url": "https://blueberrywren.dev/blog/primes/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-09T14:30:28.000Z",
+      "author": "blueberrywren.dev by blueberrywren",
+      "section": "tech",
+      "rankScore": 0.575996
+    },
+    {
+      "id": "5ab232fe53d58d66",
+      "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+      "url": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+      "source": "cloudflare",
+      "publishedAt": "2026-10-09T13:00:00.000Z",
+      "author": "Dominik Picheta",
+      "excerpt": "On-demand CPU and memory profiling for Cloudflare Workers and Durable Objects is now available. Now you can generate interactive flamegraphs directly in production to quickly track down memory leaks and performance bottlenecks.",
+      "section": "tech",
+      "rankScore": 0.492917
+    },
+    {
+      "id": "7402ce832585bd03",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "source": "verge",
+      "publishedAt": "2026-10-09T18:06:57.000Z",
+      "author": "Stevie Bonifield",
+      "excerpt": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr.",
+      "section": "tech",
+      "rankScore": 0.485697
+    },
+    {
+      "id": "a1674551d9d26a2e",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "huggingface",
+      "publishedAt": "2026-10-09T15:20:29.000Z",
+      "section": "ai",
+      "rankScore": 0.691405
+    },
+    {
+      "id": "b1a02c3b7d2e2ba7",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "source": "openai",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "section": "ai",
+      "rankScore": 0.470321
+    },
+    {
+      "id": "86ef7b9fc6676be9",
+      "title": "感觉 cc 是真正的许愿池，其他都只是普通工具，无法许愿太难受了",
+      "url": "https://www.v2ex.com/t/1247459",
+      "source": "v2ex",
+      "publishedAt": "2026-10-09T13:45:19.000Z",
+      "score": 11,
+      "author": "aslehx",
+      "excerpt": "目前 5 个 claude pro 都用满了，完全不够用，太好用了。一键切换 session 用户+外置 agent 任务编排系统，有种韩信点兵的感觉，token 多多益善，再多的 session 并发都能驾驭",
+      "section": "cn-tech",
+      "rankScore": 0.714838
+    },
+    {
+      "id": "2d78420c0f2d8ead",
+      "title": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+      "url": "https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-09T17:53:58.000Z",
+      "author": "褚杏娟",
+      "section": "cn-tech",
+      "rankScore": 0.68767
+    },
+    {
+      "id": "7e93322db6dd42a5",
+      "title": "Let's Encrypt 从 2027 年起切换到有效期为 64 天的证书",
+      "url": "https://www.solidot.org/story?sid=85568",
+      "source": "solidot",
+      "publishedAt": "2026-10-09T15:12:31.000Z",
+      "excerpt": "Let’s Encrypt 去年宣布到 2028 年将证书有效期从现在的 90 天缩短至 45 天。此举是为了遵守 Certification Authority Browser Forum (CA/Browser Forum)通过的缩短证书有效期决议。Let’s Encrypt 将分多个阶段逐步缩短至 45 天有限期，它宣布从 2027 年 2 月 10 日起签发的证书有效期缩短为 64 天，意味着自该日期起签发或续期的任何证书，其有效期都将为 64 天，最后一批 90 天有效期的证书预计将于 2027 年 5 月 11 日到期。在此期间 Let’s Encrypt 表示不会吊销有效证书。",
+      "section": "cn-tech",
+      "rankScore": 0.671868
+    },
+    {
+      "id": "05a77165d06a0c77",
+      "title": "一边造AI，一边挖地堡，硅谷精英们在怕什么",
+      "url": "https://www.36kr.com/p/4018587738148993",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-09T13:36:47.000Z",
+      "author": "摩登AI",
+      "excerpt": "十年前，奥特曼告诉《纽约客》，自己备好了枪、黄金、抗生素和防毒面罩，还在加州大苏尔留有一片可以飞过去的土地。 十年后，这位OpenAI的掌舵人向公众解释，为什么大家应该接受AI带来的部分风险。 据路透社10月4日报道，奥特曼在接受采访时主张， 为了获取AI的巨大收益并保留人们使用技术的自主权，社会必须容忍一些“坏事”的发生，比如黑客攻击、诈骗和技术滥用。 一边呼吁大众承担风险，一边为自己暗备退路，这不是奥特曼一个人的独特操作。据《华尔街日报》等媒体披露，Anthropic的部分早期员工也正考虑在美国偏远地区购买土地，以便在“AI出问题时”能迅速撤离。",
+      "section": "cn-tech",
+      "rankScore": 0.508681
+    },
+    {
+      "id": "44574820f1ca65de",
+      "title": "将已存在的git 仓库移动到新建的父仓库下",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WTFdkVm5DSUZ2ZldvY3diVTd1TXhXZ21yRDZvU2Z6U283M1FFanJQd3ZTMGdWa3pKSmI3cDE3Vmo1TmJMUGU5TTRmOUdEX1c2RzIyUg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-09T15:15:16.000Z",
+      "excerpt": "将已存在的git 仓库移动到新建的父仓库下 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.428469
+    },
+    {
+      "id": "37e9220b1f7904f5",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-09T16:29:55.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2…",
+      "section": "security",
+      "rankScore": 0.647646
+    },
+    {
+      "id": "b4263beb7778cfca",
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-09T13:22:53.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are and how separate it is from China.",
+      "section": "security",
+      "rankScore": 0.558582
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 39 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
