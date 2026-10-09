@@ -106,7 +106,8 @@
     "3a1b7bf3ad9eb13b",
     "bfafe410bea39f86",
     "cb53f5fa769bf405",
-    "b6cfd4cbf9c25880"
+    "b6cfd4cbf9c25880",
+    "4f159b58b1206f70"
   ],
   "huggingface": [
     "9e1e6a898bac9ad8",
@@ -159,7 +160,8 @@
     "d0ae2f186b4d6685",
     "11c66de7b7ee8e1f",
     "f2fac7c564ca7c9e",
-    "dfdd8766c2d9eca0"
+    "dfdd8766c2d9eca0",
+    "77bd5f69b5e22a6f"
   ],
   "anthropic": [
     "d112cba902a55689",
@@ -208,7 +210,9 @@
     "d7eedaf192259de3",
     "875df5fa891d97d7",
     "18b43da354a997ef",
-    "69703a3867b1b6ed"
+    "69703a3867b1b6ed",
+    "de8b601a1ff14332",
+    "7f810f711901a99c"
   ],
   "tldr-ai": [
     "3e10de878b3472d9",
@@ -314,7 +318,8 @@
     "fc2c72c941d43d64",
     "beedf15dab668ef5",
     "9850faa8cf9aa858",
-    "1682b629346b1a45"
+    "1682b629346b1a45",
+    "e6570d781835bdb8"
   ],
   "javascript-weekly": [
     "67b3f4c8956c1ec3",
