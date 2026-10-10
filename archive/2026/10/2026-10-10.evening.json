@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-10",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-10T17:19:32.079Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "90c897f4dfadb1fa",
+      "title": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-10T17:19:32.079Z",
+      "score": 515,
+      "excerpt": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "590fe66033148d04",
+      "title": "Lobbying is corruption",
+      "url": "https://carette.xyz/posts/lobbying_and_corruption/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-10T13:05:58.000Z",
+      "score": 417,
+      "author": "LucidLynx",
+      "excerpt": "417 points · 204 comments · https://news.ycombinator.com/item?id=50032556",
+      "section": "tech",
+      "rankScore": 0.995104
+    },
+    {
+      "id": "f7cf1b2999f85cca",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-10T17:19:32.079Z",
+      "score": 279,
+      "excerpt": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "section": "tech",
+      "rankScore": 0.93
+    },
+    {
+      "id": "85cb3b75aadea1b3",
+      "title": "SNTPings, draw on a canvas using ICMPv6",
+      "url": "https://pings.utwente.io/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-10T17:05:41.000Z",
+      "author": "pings.utwente.io via Levitating",
+      "section": "tech",
+      "rankScore": 0.676069
+    },
+    {
+      "id": "72c8aea8a3783a6a",
+      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+      "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+      "source": "verge",
+      "publishedAt": "2026-10-10T15:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October […]",
+      "section": "tech",
+      "rankScore": 0.443488
+    },
+    {
+      "id": "ad4ebb35634a847a",
+      "title": "One with the world? A new look at brains transformed by psychedelics.",
+      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+      "source": "ars-technica",
+      "publishedAt": "2026-10-10T11:15:35.000Z",
+      "author": "Jacek Krywko",
+      "excerpt": "Participants meditated inside an MRI tube, with and without psilocybin.",
+      "section": "tech",
+      "rankScore": 0.368683
+    },
+    {
+      "id": "7d8e9b311f40f9c9",
+      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+      "url": "https://www.latent.space/p/standard-bots",
+      "source": "latent-space",
+      "publishedAt": "2026-10-10T14:04:11.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
+      "section": "ai",
+      "rankScore": 0.667673
+    },
+    {
+      "id": "4ad8f2e0c3679bdb",
+      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "source": "latent-space",
+      "publishedAt": "2026-10-10T06:45:57.000Z",
+      "excerpt": "Wow.",
+      "section": "ai",
+      "rankScore": 0.438122
+    },
+    {
+      "id": "af249864d613b97c",
+      "title": "模型开放之后，AI能力为什么仍难以复用？",
+      "url": "https://www.infoq.cn/article/rKRPT18fGxtjipPAeaLa?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-10T17:10:50.000Z",
+      "author": "世界人工智能开源大赛",
+      "section": "cn-tech",
+      "rankScore": 0.695857
+    },
+    {
+      "id": "4b30d345e634fb06",
+      "title": "AI 时代为什么硬件工程师反而不焦虑",
+      "url": "https://www.v2ex.com/t/1247677",
+      "source": "v2ex",
+      "publishedAt": "2026-10-10T09:08:06.000Z",
+      "score": 31,
+      "author": "sh537612856486",
+      "excerpt": "各个论坛都是讨论 IT 行业何去何从，反而很少看到硬件工程师吐槽的，有 V 友是硬件工程师，能谈下吗",
+      "section": "cn-tech",
+      "rankScore": 0.662385
+    },
+    {
+      "id": "8db6f8fdfbec3848",
+      "title": "三周估值暴涨37倍，Jev背后公司，融资58.6亿",
+      "url": "https://www.36kr.com/p/4019993444503425",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-10T13:51:02.000Z",
+      "author": "智东西",
+      "excerpt": "智东西10月10日消息，一款不生成文本的AI模型 Jev 于9月15日发布，仅几周，便使其开发公司 TypeSafe AI 的估值达到了 75亿美元（约合505亿人民币） 。 Jev解决的是LLM输出文本、代码却需要结构化判断的错配——不生成文本，直接返回类型化值和概率分布，即直接给代码返回决策。 其开发公司TypeSafe AI近日完成 8.7亿美元（约合58.6亿人民币） 的融资，由a16z领投，红杉资本、DCVC参投。a16z称，这是今年“最大的叙事反转”，也是他们见过增长最快的模型：发布仅3天，生成量就达到1万亿token，财富500强中已有约三分之一的企业接入。",
+      "section": "cn-tech",
+      "rankScore": 0.540642
+    },
+    {
+      "id": "e1c1124ca6b6d172",
+      "title": "DDR4 内存条再次回归",
+      "url": "https://www.solidot.org/story?sid=85574",
+      "source": "solidot",
+      "publishedAt": "2026-10-10T09:05:17.000Z",
+      "excerpt": "由于 DDR5 内存条过于昂贵，上一代的 DDR4 内存条再次回归。技嘉宣布将于 2027 年初上市支持 DDR4 内存的新的 Intel LGA 1700 主板，而今年八月技嘉宣布推出了支持 DDR4 内存的新 AMD AM4 主板。DDR4 内存于 2014 年上市，很快被新一代的 DDR5 内存取代。由于 AI 热耗尽了主要内存厂商的内存产能，DDR5 内存的价格在一年内飙升了可能高达 10 倍。今天一套 32GB 的 Corsair 品牌 Vengeance DDR5 内存售价为 620 美元，而同规格的 DDR4 内存只需要 260 美元。DDR5 内存价格两倍多于 DDR4 内存。",
+      "section": "cn-tech",
+      "rankScore": 0.511106
+    },
+    {
+      "id": "088e017fc3f54041",
+      "title": "被字节索赔 800 万的实习生“出道”：20 万符号造 AI 词典，打造世界模型创业公司估值 2 亿美元",
+      "url": "https://www.oschina.net/news/502956",
+      "source": "oschina",
+      "publishedAt": "2026-10-10T11:09:58.000Z",
+      "excerpt": "打进字节训练集群、污染同事的模型训练，然后被辞退、被索赔 800 万、被法院判赔 50 万——两年后，同一个人的新实验室拿到近 3000 万美元融资，投后估值 2 亿美元。彭博社 10 月 8 日报道了这个名字：田柯宇，前字节跳动实习研究员，北大在读。他创办的这家还没有名字、也没有产品的隐身公司，押注的是世界模型。 把时间...",
+      "section": "cn-tech",
+      "rankScore": 0.471614
+    },
+    {
+      "id": "4d9a6c7342769abc",
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-10T11:00:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on.",
+      "section": "security",
+      "rankScore": 0.519269
+    },
+    {
+      "id": "4f0f6d54a6a9243a",
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-10T09:18:45.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites.",
+      "section": "security",
+      "rankScore": 0.471055
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 40 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
