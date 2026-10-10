@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-10",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-10T01:53:46.174Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "679100d679723019",
+      "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
+      "url": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-09T20:33:46.000Z",
+      "excerpt": "烏克蘭總統表示，容許俄羅斯出售石油產品，只會延長這場本應結束的戰爭。",
+      "section": "news",
+      "rankScore": 0.733332
+    },
+    {
+      "id": "a74a331898c7c7b6",
+      "title": "特朗普宣布，放宽对俄罗斯柴油的制裁限制",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261009-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%EF%BC%8C%E6%94%BE%E5%AE%BD%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E6%9F%B4%E6%B2%B9%E7%9A%84%E5%88%B6%E8%A3%81%E9%99%90%E5%88%B6",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-09T23:28:20.000Z",
+      "author": "法广",
+      "excerpt": "美国总统特朗普于2026年10月9日宣布与俄罗斯总统普京达成共识，美国将通过颁发临时通用许可，放宽对俄罗斯柴油的制裁限制。",
+      "section": "news",
+      "rankScore": 0.659601
+    },
+    {
+      "id": "ba62b56b16257b17",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-10T00:45:51.000Z",
+      "excerpt": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "section": "news",
+      "rankScore": 0.61302
+    },
+    {
+      "id": "4a4db9618633f631",
+      "title": "Dual quakes devastate southern Panama",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-10T00:53:15.000Z",
+      "excerpt": "Panama’s president has declared a major disaster after two earthquakes struck the country’s south.",
+      "section": "news",
+      "rankScore": 0.546551
+    },
+    {
+      "id": "e6eedcefc81f2920",
+      "title": "‘Life-threatening storm surge’ headed to US Gulf coast as residents brace for Isaias",
+      "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-10T00:18:15.000Z",
+      "author": "Adam Gabbatt",
+      "excerpt": "Alabama, Florida and Mississippi declare emergencies, with preparations under way for ‘long-duration power outages’ Hurricane Isaias neared landfall Friday evening, barreling toward the US Gulf coast coast as a dangerous category 2 storm and prompting emergency declarations in Alabama, Florida and…",
+      "section": "news",
+      "rankScore": 0.538773
+    },
+    {
+      "id": "0e419eb02e1c286e",
+      "title": "Inside Erik Prince’s Mercenary Deal in Congo",
+      "url": "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-09T22:55:07.000Z",
+      "author": "Declan Walsh",
+      "excerpt": "The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder’s growing role in one of Africa’s most intractable conflicts.",
+      "section": "news",
+      "rankScore": 0.520299
+    },
+    {
+      "id": "59510152c119463b",
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-10T01:19:55.000Z",
+      "author": "Kate Conger, Mike Isaac, Julian E. Barnes and David E. Sanger",
+      "excerpt": "The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House to call for better disclosure of rogue A.I. behavior.",
+      "section": "news",
+      "rankScore": 0.483417
+    },
+    {
+      "id": "68be4af4123803ca",
+      "title": "Chinese camera rivals battle for dominance after GoPro’s decline",
+      "url": "https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-10T01:00:03.000Z",
+      "excerpt": "DJI and Insta360 engaged in ‘civil war’ to become world’s top smart camera maker",
+      "section": "news",
+      "rankScore": 0.479555
+    },
+    {
+      "id": "6c4f428a561bd8d3",
+      "title": "Kalshi taps former FBI agent to fight against money laundering",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
+      "source": "npr-news",
+      "publishedAt": "2026-10-09T22:23:11.000Z",
+      "author": "Bobby Allyn",
+      "excerpt": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
+      "section": "news",
+      "rankScore": 0.449053
+    },
+    {
+      "id": "638a11d549ec90f0",
+      "title": "世卫组织呼吁从机构化照护转向社区精神卫生照护",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142970",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "excerpt": "在10月10日世界精神卫生日到来之际，世界卫生组织发布了一份新指南，支持各国摆脱以精神病院长期住院为中心的机构化精神卫生照护模式，转向以人为本、尊重人的权利和选择的社区照护模式。",
+      "section": "news",
+      "rankScore": 0.421558
+    },
+    {
+      "id": "23aa6944a469afc3",
+      "title": "特朗普政府要求AI公司在发生安全事件后立即上报",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Td1BadDQ5RFpjT3hrc2Y5ZkFiVGVFMFBxRUVaNUMxOUVWWGpmVnNzV0ppMzFlZUhReGdkQTc0aDM5YUdZOW1RbEM4NnBsTWpYWGswTU1QQlBSMktkb0t6TzBLVF9wVmVD?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-10T00:39:25.000Z",
+      "excerpt": "特朗普政府要求AI公司在发生安全事件后立即上报 央广网",
+      "section": "news",
+      "rankScore": 0.407608
+    },
+    {
+      "id": "d21a218a11c4daad",
+      "title": "战争造成燃油短缺，俄罗斯人开始拥抱中国电动汽车",
+      "url": "https://cn.nytimes.com/world/20261009/russia-ukraine-war-ev-sales/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-09T03:20:52.000Z",
+      "author": "IVAN NECHEPURENKO",
+      "excerpt": "由于与乌克兰的战争导致燃油短缺，越来越多俄罗斯人开始购买电动汽车，政府也推出补贴措施。中国品牌销量激增彰显了莫斯科为应对西方战时制裁而进行的经济转向。 Pavel Bednyakov/Associated Press 6月，莫斯科一处加油站的排队情况。",
+      "section": "news",
+      "rankScore": 0.356613
+    },
+    {
+      "id": "e6403a2a62606b88",
+      "title": "英国拟未来四年投入10亿英镑扶持创新集群",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710018.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-10T01:31:53.000Z",
+      "excerpt": "中新网伦敦10月10日电 (记者 欧阳开宇)英国政府9日发布消息称，未来四年将投入10亿英镑专项资金，扶持英国各地创新集群，以此优化产业布局、提振整体经济活力。",
+      "section": "cn-news",
+      "rankScore": 0.832705
+    },
+    {
+      "id": "034c1cc1a1e48d45",
+      "title": "水利部发布8项水利行业标准",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710013.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-10T01:12:14.000Z",
+      "excerpt": "中新网10月10日电 据中国水利微信公众号消息，近日，水利部发布2026年第18号公告，批准发布《土壤侵蚀分类分级标准》等8项水利行业标准。相关标准将于2026年12月11日起实施。",
+      "section": "cn-news",
+      "rankScore": 0.757308
+    },
+    {
+      "id": "82e46bde264688c6",
+      "title": "今年第七期和第八期凭证式国债今天开售",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710030.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-10T01:42:58.000Z",
+      "excerpt": "今天(10日)起，2026年第七期储蓄国债(凭证式)和2026年第八期储蓄国债(凭证式)开始发行，单一个人购买单期储蓄国债(凭证式)金额最高为50万元。这两期国债均为固定利率、固定期限品种。",
+      "section": "cn-news",
+      "rankScore": 0.627299
+    },
+    {
+      "id": "b9d9d1a58426e3b8",
+      "title": "专访｜黄鸿玺：十年“夜奔”，把武林搬进客栈",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UbU95U20wM0JycDNRVGNtZjVuZER2WFladWc5S2g1QzlCRzJBeW11N05aRTNxcktEQTV4NkY3N0tDcEwxd0tXeFRfTkNXOENadTlxLUJZMVkzSUNscExZOA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-10T00:47:00.000Z",
+      "excerpt": "专访｜黄鸿玺：十年“夜奔”，把武林搬进客栈",
+      "section": "cn-news",
+      "rankScore": 0.613308
+    },
+    {
+      "id": "d0ef2585d4eccb87",
+      "title": "零售板块局部异动，国芳集团涨停",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1meE9OS3pJdmN5WmFFMGdKQndrOGtDZzhTakdwMHpJV2g3M3NtNlFVd3M3WERWbG43Vzl2TEY0SGZLeHJNX2VvX0RmVzdZeDNNOXFINW1n?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-09T23:08:57.000Z",
+      "excerpt": "零售板块局部异动，国芳集团涨停 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.588795
+    },
+    {
+      "id": "bb4b888fa63716c8",
+      "title": "建立休学学生心理康复机制",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sQ2JneGdESUhGV3NxNVBPZGNYTTZjeWlkbmJ3Tnc4SHFBVWlDZE45ZklEdTZhbjdVUzhUUlJrT0RXRGtHb21HSUZDcXJfcHN1enhOc0N2Q1daSHhOcVJn?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-10T00:44:51.000Z",
+      "excerpt": "建立休学学生心理康复机制 人民政协网 根据学科五育融合！北京中小学心理健康教育有了“操作手册” 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.544685
+    },
+    {
+      "id": "0cbf5d5ff9ef39b3",
+      "title": "超长假期激活“舌尖经济” 多地餐饮享红利",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00MTBFVm4wRWYtdDNvVXhvSlYtNjJuY2VZRm9keGRxaEdwR3piM1ZxQXdzaDE2akd6aGdmdFZJRDhPallZUC1TY1NMVzdCQ0xnZVlfbFJwQ1Zwa2RBM01YdUpQQXpCd2VrVHlTYS1HUWlBd2N1ajlUMzBud0V3dw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-10T01:38:34.000Z",
+      "excerpt": "超长假期激活“舌尖经济” 多地餐饮享红利 新华网 海底捞午前涨超3% 国庆假期海底捞客流翻台率双双走高 新浪财经 国庆餐饮AB面：营收涨，客单价却降得更狠 36Kr 国庆餐饮热度“拖尾”明显，多品牌年夜饭开始接单 搜狐网 排队超百桌、糖饼日销近千张，西城区老字号国庆消费热力值拉满 京报网",
+      "section": "cn-news",
+      "rankScore": 0.487044
+    },
+    {
+      "id": "569c83f233ec8bdb",
+      "title": "Modi and Xi can’t bridge the India-China divide by themselves",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3370033/modi-and-xi-cant-bridge-india-china-divide-themselves?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-10T01:30:04.000Z",
+      "author": "Brian Y. S. Wong",
+      "excerpt": "Last month, President Xi Jinping travelled to New Delhi to attend the Brics summit – his first visit in seven years. On the summit’s sidelines, Xi and Indian Prime Minister Narendra Modi had an in-depth conversation that explored topics of shared interest between them, such as leveraging…",
+      "section": "cn-news",
+      "rankScore": 0.485391
+    },
+    {
+      "id": "4d24f8f7c5b5d552",
+      "title": "中网综合：郑钦文重返四强 张帅组合创最佳战绩",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdExVZGZ5YTFqMlhlcjBrV0ppMzNkRUFJZFY3bVhhMG5MbzBSQXZfaUlJR1pTYktjeng0RG9XSVdFZnpHdEpqbmMycjh1S0dyaWNUYXJhc3hnMW92QUxiZjR3ZHQ5MFIybnFzTDZoczNaWkFicXZUYWN3Sk9QSkxNYzdnNnpuUTY4a210MFp0R0FrSDFFMTZjSWF3?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-10T01:41:30.000Z",
+      "excerpt": "中网综合：郑钦文重返四强 张帅组合创最佳战绩 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.417955
+    },
+    {
+      "id": "837e328d7f1b4600",
+      "title": "美歐等國共同聲明反產能過剩 北京：如損中方利益將做必要回應",
+      "url": "https://www.cna.com.tw/news/acn/202610090259.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-09T14:27:38.000Z",
+      "excerpt": "（中央社記者呂佳蓉北京9日電）針對美加日澳德法等國共同發表聲明反對產能過剩，中國商務部今天表示，如果未來有關經濟體以此為藉口，採取損害中方利益的措施，中方將作出必要回應。",
+      "section": "cn-news",
+      "rankScore": 0.407525
+    },
+    {
+      "id": "c51a1ffec6f5a52b",
+      "title": "理响中国·讲好“中国式商量”故事 ｜ 鹭岛“商量”记",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710031.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-10T01:44:06.000Z",
+      "excerpt": "“每年4月，大批栗喉蜂虎会来到五缘湾筑巢、繁殖，这里也是候鸟南北迁徙的重要驿站。”厦门市政协委员、市观鸟协会会长彭志伟向记者介绍。",
+      "section": "cn-life",
+      "rankScore": 0.836777
+    },
+    {
+      "id": "e54f43a23aa6f528",
+      "title": "长假过后，你的作息调过来了吗？",
+      "url": "https://www.chinanews.com.cn/life/2026/10-10/10710003.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-10T00:57:13.000Z",
+      "excerpt": "羊城晚报记者 陈辉",
+      "section": "cn-life",
+      "rankScore": 0.684291
+    },
+    {
+      "id": "8164269c94b48a6c",
+      "title": "媒体持续发声：国企职工可“视同缴社保” 农民交公粮不算？",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVzFpUkx1ZWZLUXVmTnBDSHhWMmFYOUpWRF9kbF9HWjlDWXVWWEd2N2tmNVhlLWo0bk03SFJuU2Q3YTdPWGZuN2FyX1RpVG5RdS1wenpKNl9vUnBlVXNGQVpVZVpFbVBnaFFGQkRyU2tNaE5LQUIyNHVhR0NkN0xaN1VFVWFjRU0yTW5YMQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-10T01:36:05.000Z",
+      "excerpt": "媒体持续发声：国企职工可“视同缴社保” 农民交公粮不算？ 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.625578
+    },
+    {
+      "id": "3d14a2c05630bab3",
+      "title": "巴拿马发生6.6级地震",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWUwNW1WQXNfNWlJUmhNeHp6U09yNmNBcGF2TGlkR0Q5czUxVkhGckxTa0loT2lkbEg0QThfLXRwSjFoUGQyZV85X2hSSWtMdUxUTWJIMDRfTjNmUG9VMFVRZW1GdUpJcmJOcWl1ZmpWSFBnZ1EtZ0MtazA3Q1BoNDNXNEI0aFZudHN3?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-10T01:31:30.000Z",
+      "excerpt": "巴拿马发生6.6级地震 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.624433
+    },
+    {
+      "id": "d21ed413f5c72040",
+      "title": "香港首个沉浸式太空主题展览吸引众多市民参观",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXNGFrU0c1LWhvQVRNZk5HajBCZUdzUl9OWWJwWWJVWWVnNm0zRklsNHhkWWVLdHlYeHFYRnVnOHpVd1NRbkJjOHNfYkRFZkY2NG0xc21WLWx5VTdGU1Y5UkdJRTJDSlRnRDRWUXZ3SXJPRTcxVDJxYlRn?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-10T01:27:45.000Z",
+      "excerpt": "香港首个沉浸式太空主题展览吸引众多市民参观 国务院港澳事务办公室",
+      "section": "cn-life",
+      "rankScore": 0.554218
+    },
+    {
+      "id": "7ad230f580476b27",
+      "title": "【秋日防敏】过敏性鼻炎除了口服药，针灸也是一种选择",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeEQtNDc0ZlJtQTc4TXpOeDJESkJ3eHVjMlZNbE50LVZHTFQzLUxpZW1KeUE4djlGMndicmZBRjduYnZrdkJTUTUwUFg2dHNqM0t0NmRnZFRHV2JYbEhHSnZhNVZTYVRVVUVsRHJpY3JUcUp1Z0hJU1l3Y0l1elZsWmZUVQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-10T01:32:50.000Z",
+      "excerpt": "【秋日防敏】过敏性鼻炎除了口服药，针灸也是一种选择 北京市卫生健康委员会 秋高气爽却总被鼻炎“憋醒”？一根细针，为患者打开呼吸“开关” 搜狐网 喷嚏不断、鼻塞难愈？镇江市中医院开展过敏性鼻炎公益诊疗 紫牛新闻 走进秋天，鼻子不舒服怎么办？这些防护要点请收好！丨健康过假期 新浪财经 人不会无缘无故患上鼻炎！医生发现：得鼻炎的人，背后有5个因素-yeeyi yeeyi",
+      "section": "cn-life",
+      "rankScore": 0.485929
+    },
+    {
+      "id": "298875ce9d679d3b",
+      "title": "市场监管总局召开网络平台食品安全行政指导会",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50X3NqYS1OY05EUXgtOWpGS1QxVGs1elVvcHBqS0NHQkxDZ2FxenA2UzZ5c29TSVJtc2ppaU5XUWJMVXR2Snhpa21BaFdWcVUyaDhua0dkN0xiYXc3RTlwS0NiVlktOTJUdTFpb3c1UFR0Ui1rVTY4bg?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-10T00:56:15.000Z",
+      "excerpt": "市场监管总局召开网络平台食品安全行政指导会 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.478816
+    },
+    {
+      "id": "84c1a3fa920367b4",
+      "title": "入村直播 助农增收",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zelhRRjdzTldkOW1KTFNnRkxPTXZfZUZscXZpX3lHNzZmSkx0MDVpRkE0RWhZUWhZQUFDanJneXdVeWR0ZkIxWmlCRFpsMFBQT0pHNEs0d0R3ZUZaMEJIYUlJNXpOVlBVVE9j?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-10T01:20:26.000Z",
+      "excerpt": "入村直播 助农增收 中国教育新闻网",
+      "section": "cn-life",
+      "rankScore": 0.414444
+    }
+  ],
+  "warnings": []
+}
