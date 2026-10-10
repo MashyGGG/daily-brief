@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-10",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-10T16:12:59.599Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "fb7a7b6575e8c7aa",
+      "title": "新冠疫情時期武漢市長周先旺受賄罪判囚14年",
+      "url": "https://www.bbc.com/zhongwen/articles/crkg7xppy4zwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-10T13:49:24.000Z",
+      "excerpt": "周先旺於2020年新冠疫情爆發時，曾暗示北京須對披露疫情不及時負責；法院稱其受賄行為涵蓋武漢市長任內。",
+      "section": "news",
+      "rankScore": 0.751635
+    },
+    {
+      "id": "5e85883d4251fe82",
+      "title": "欧盟拟采取保障措施 旨将中国混动车进口量削减一半 或于12月实施",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261010-%E6%AC%A7%E7%9B%9F%E6%8B%9F%E9%87%87%E5%8F%96%E4%BF%9D%E9%9A%9C%E6%8E%AA%E6%96%BD-%E6%97%A8%E5%B0%86%E4%B8%AD%E5%9B%BD%E6%B7%B7%E5%8A%A8%E8%BD%A6%E8%BF%9B%E5%8F%A3%E9%87%8F%E5%89%8A%E5%87%8F%E4%B8%80%E5%8D%8A-%E6%88%96%E4%BA%8E12%E6%9C%88%E5%AE%9E%E6%96%BD",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-10T16:10:31.000Z",
+      "author": "弗林",
+      "excerpt": "据彭博社援引知情人士报导称，欧盟有意采取保障措施，将从中国进口的混合动力汽车数量削减一半。欧盟委员会贸易和经济安全委员谢夫乔维奇（Maros Sefcovic）向欧洲官员通报称，尽管有关限制进口机制的具体事宜仍需下周与欧盟领导人讨论，但预计将采取保障措施。其中一位知情人士称，如果达成一致，这些措施可能于今年12月实施。",
+      "section": "news",
+      "rankScore": 0.69873
+    },
+    {
+      "id": "7c87f51b52c43161",
+      "title": "威特科夫等据报威胁若不停止袭击俄炼油厂或断情报支持 泽连斯基担心阿拉斯加2.0",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261010-%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB%E7%AD%89%E6%8D%AE%E6%8A%A5%E5%A8%81%E8%83%81%E8%8B%A5%E4%B8%8D%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB%E4%BF%84%E7%82%BC%E6%B2%B9%E5%8E%82%E6%88%96%E6%96%AD%E6%83%85%E6%8A%A5%E6%94%AF%E6%8C%81-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%85%E5%BF%83%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A02-0",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-10T15:50:41.000Z",
+      "author": "弗林",
+      "excerpt": "据英国《金融时报》报导，美国官员加大了对乌克兰的施压，要求其停止袭击俄罗斯炼油厂，并威胁若不听劝阻，将切断关键的情报共享；与此同时，美国总统特朗普宣布与俄方达成一项向全球市场供应柴油的协议。",
+      "section": "news",
+      "rankScore": 0.688559
+    },
+    {
+      "id": "816e5a1574cf2455",
+      "title": "以「山巔之城」論台灣：賴清德雙十演說想傳達什麼訊息？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lyk794d8p7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-10T11:37:11.000Z",
+      "excerpt": "台灣總統賴清德在「雙十」國慶大會引用《聖經》「山巔之城」概念，被外界認為是向華府釋出維持穩定台美關係的訊息。",
+      "section": "news",
+      "rankScore": 0.670271
+    },
+    {
+      "id": "badbafe35fa33bbd",
+      "title": "Several injured as Saudi capital airport reportedly hit again",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-10T16:05:18.000Z",
+      "excerpt": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+      "section": "news",
+      "rankScore": 0.626449
+    },
+    {
+      "id": "d39fe7fe4331d211",
+      "title": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’",
+      "url": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-10T15:52:21.000Z",
+      "author": "Sammy Gecsoyler",
+      "excerpt": "March is first since Ed Miliband declared UK’s position was that Israel’s occupation of West Bank was unlawful Thousands of people have gathered in central London to express their support for Palestinians after three years of “genocide” carried out against them by Israel.",
+      "section": "news",
+      "rankScore": 0.551531
+    },
+    {
+      "id": "341e789c0312810a",
+      "title": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
+      "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-10T15:45:36.000Z",
+      "excerpt": "Storm damage stretches across Florida and Alabama as officials warn of continued flooding and possible tornadoes.",
+      "section": "news",
+      "rankScore": 0.548762
+    },
+    {
+      "id": "af913a89ee1bd22b",
+      "title": "From a Sikh Sanctuary to Chaotic Streets, Protesters Brave Police in Delhi",
+      "url": "https://www.nytimes.com/2026/10/10/world/asia/india-cjp-cockroach-protest.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-10T14:51:21.000Z",
+      "author": "Suhasini Raj",
+      "excerpt": "A group of demonstrators used a house of worship known as a gurdwara as a staging ground before their long-shot effort to reach a locked-down protest site in New Delhi.",
+      "section": "news",
+      "rankScore": 0.526505
+    },
+    {
+      "id": "f22171106ccd89eb",
+      "title": "A.I. Hurricane Models Were Front and Center as Isaias Headed Toward Land",
+      "url": "https://www.nytimes.com/2026/10/09/weather/ai-models-hurricane-isaias.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-10T15:41:29.000Z",
+      "author": "Judson Jones",
+      "excerpt": "Expert forecasters say the new technology is helping them understand where a storm will go.",
+      "section": "news",
+      "rankScore": 0.478689
+    },
+    {
+      "id": "4b4a2d70d970e118",
+      "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
+      "url": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-10T13:32:58.000Z",
+      "excerpt": "Donald Trump’s administration delivered threat after Volodymyr Zelenskyy criticised diesel deal with Moscow",
+      "section": "news",
+      "rankScore": 0.432555
+    },
+    {
+      "id": "be4fdbae754bc177",
+      "title": "Opinion: Can I keep the baseball I caught?",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
+      "source": "npr-news",
+      "publishedAt": "2026-10-10T12:00:00.000Z",
+      "author": "Scott Simon",
+      "excerpt": "What would you do if you caught a baseball during the MLB playoffs? Give it to a kid nearby or keep it? This very scenario played out this week, with a fan deciding to keep the ball.",
+      "section": "news",
+      "rankScore": 0.399182
+    },
+    {
+      "id": "1d8e4a6cde16b21f",
+      "title": "乌克兰、美国和欧洲国家提前结束迈阿密会谈",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lVjluT1BQNWxZN0VzY1pkTFFqTU9oaFA0RkhKWWRQTklvaDR1MlhoS0haMXkzaEVVTWdtYU5IOFJKTjEtbmlGRVU3Qlc3Z3FiVjZWLUFEaDBoeTVMcElxaUZ2VHZxbHB3Umc?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-10T14:38:00.000Z",
+      "excerpt": "乌克兰、美国和欧洲国家提前结束迈阿密会谈 紫牛新闻",
+      "section": "news",
+      "rankScore": 0.390771
+    },
+    {
+      "id": "160e4bb0ab2a2a0d",
+      "title": "中法举行战略对话",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710786.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-10T14:09:08.000Z",
+      "excerpt": "中新社北京10月10日电 中共中央政治局委员、中央外办主任王毅10日在大同与法国总统外事顾问博纳举行第二十八次中法战略对话，就深化中法战略合作长时间深入沟通，达成广泛共识。双方还肯定了中欧贸易投资磋商机制取得的积极成果。",
+      "section": "cn-news",
+      "rankScore": 0.763778
+    },
+    {
+      "id": "889dc15d89fa80b1",
+      "title": "外交部：暂无中国公民在巴拿马地震中伤亡报告",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710856.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-10T15:22:44.000Z",
+      "excerpt": "中新社北京10月10日电 巴拿马10日发生7.6级地震，已发生100余次余震。中国外交部发言人10日在答记者问时表示，中方向巴拿马政府和灾区人民致以慰问。截至目前，暂无中国公民在地震中伤亡报告。",
+      "section": "cn-news",
+      "rankScore": 0.741648
+    },
+    {
+      "id": "5748996aca685c9c",
+      "title": "政企面对面恳谈 杭州助新兴赛道企业破解“成长的烦恼”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710828.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-10T14:03:44.000Z",
+      "excerpt": "中新网杭州10月10日电(蓝伊旎)10月10日，杭州市民营经济发展联席会议召开2026年第三期政企恳谈会。来自具身智能、生物医药等领域的杭企代表与杭州市发改委、金融办、经信局、市场监管局等职能部门的负责人围坐一堂，共同探讨发展的难点堵点与化解路径。",
+      "section": "cn-news",
+      "rankScore": 0.570342
+    },
+    {
+      "id": "1ba32933b2e458cd",
+      "title": "夜读丨下一次，换我奔向你",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4TjFCcUhhQ0tPV25GSGVnQWgwNlp2STUxa2x5X2o4YkU2SkQ4ajI5RmZ0Q1FZVGpQd3FEY1hQb1hPQzRjWGF3ZUZINW5Nell0MDJULUxGWVRjaklmQ2FZaA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-10T13:18:00.000Z",
+      "excerpt": "夜读丨下一次，换我奔向你",
+      "section": "cn-news",
+      "rankScore": 0.549234
+    },
+    {
+      "id": "1005a0e65de0c70d",
+      "title": "被字节开除的田柯宇创业冲上热搜，项目投后估值2亿美元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IelhfR0RaamNsRjVKODFmUlV0dm1fMEVDSzA2Y3ViQzQ1UHRydk1GVS1xZV9ka1VHX1BsdkxlRmVkaDF1bkpBMGtkLXZKNk9PYllKNi1HVk8?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-10T12:49:47.000Z",
+      "excerpt": "被字节开除的田柯宇创业冲上热搜，项目投后估值2亿美元 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.536211
+    },
+    {
+      "id": "a31eaa085893695c",
+      "title": "@所有人 拉萨深秋雪景“体验卡”还在发放，速来！",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2UzdrUkUtUlpQMFM1M3p5QzNrbTk3ejltOHgxc2JEZmFoLVU1RFJYWk1DS0V5ZndxNC1vUHZuck1uN1gtZTJPR3RUTmw3SDdVaWgzV05WZWp5c0RJNW5PX2xta01nUHlYR3Z2cm5oNVR0dw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-10T14:24:01.000Z",
+      "excerpt": "@所有人 拉萨深秋雪景“体验卡”还在发放，速来！ 西藏自治区文化和旅游厅 西藏当雄那根拉山口遭遇风吹雪 公路养护人员紧急抢险保通 中国新闻网 游客注意！明日西藏这些地方有小到中雨（雪） 西藏自治区文化和旅游厅 游客注意！西藏未来十天天气情况 西藏自治区文化和旅游厅 游客注意！拉萨降温、降（雨）雪 西藏自治区文化和旅游厅",
+      "section": "cn-news",
+      "rankScore": 0.515292
+    },
+    {
+      "id": "46db5158198c6380",
+      "title": "歐中貿易談判 中國歐盟商會：實際影響待評估",
+      "url": "https://www.cna.com.tw/news/acn/202610100216.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-10T13:54:15.000Z",
+      "excerpt": "（中央社台北10日電）歐中貿易與投資諮商第二次會議昨天在北京落幕。對於磋商成果，中國歐盟商會今天表示歡迎，但提到由於聯合聲明缺乏具體細節，目前仍難以評估本輪談判的實際影響。",
+      "section": "cn-news",
+      "rankScore": 0.50308
+    },
+    {
+      "id": "6f2d3ce8b039145d",
+      "title": "四部门出手！禁止全隐藏式门把手、折叠屏，汽车“噱头设计”迎来监管",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GX2NweHdoNzBQWHlBLUJRUkNFb2EwRHBneFhFZ1VxaXQ2YmpxTWhLUjFWWk1iNi1mbjRXd0ZZWlpsdllaUjJvUlc1RHBBNzVyRmhRdWxmemltdkxGR19lUm13TDQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-10T15:06:00.000Z",
+      "excerpt": "四部门出手！禁止全隐藏式门把手、折叠屏，汽车“噱头设计”迎来监管 新京报 加强汽车产品创新设计等方面管理四部门征求意见|汽车产业|信息化部|工信部|测试|可靠性 新浪财经 四部门立新规，全隐藏式门把手、折叠屏拟被禁 凤凰网 剑指跟风推新品、测试验证不充分！四部门围绕汽车创新产品征求意见，严禁全隐藏门把手、折叠屏幕 ThePaper.cn 制动系统极限工况，拟被写进新车准入 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.465951
+    },
+    {
+      "id": "9f2a0e6adf2d2392",
+      "title": "Are Chinese military aircraft already using a new joint air facility in Laos?",
+      "url": "https://www.scmp.com/news/china/military/article/3370439/are-chinese-military-aircraft-already-using-new-joint-air-facility-laos?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-10T14:00:06.000Z",
+      "author": "Gabriel Dominguez",
+      "excerpt": "Chinese military aircraft may already be using a new joint aviation facility in Laos, with satellite imagery showing twice as many K-8/JL-8-family trainer aircraft there as the Laotian air force is assessed to possess.",
+      "section": "cn-news",
+      "rankScore": 0.442295
+    },
+    {
+      "id": "f9036364a49cb21a",
+      "title": "祝贺！2-0胜比利时球员，郑钦文首进中网女单决赛",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQ2t0dUVsbm9VOExjVWhval9JY0paVktiSTJJYmFXbVZld29menp6c0VGTHR0TnNrR24tRkZ3VHV5Y2duYXZGRXVSQTAxYzRFTG5B?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-10T14:54:45.000Z",
+      "excerpt": "祝贺！2-0胜比利时球员，郑钦文首进中网女单决赛 三湘都市报 创历史！郑钦文成为打进中网女单决赛首位中国球员 新浪新闻 郑钦文晋级女单决赛 刷新个人中网最佳战绩 中国日报网 [流言板]郑钦文2-0胜梅尔滕斯，生涯首进中网女单决赛 虎扑体育 郑钦文vs梅尔滕斯 攻防大战一触即发 中华网",
+      "section": "cn-news",
+      "rankScore": 0.395925
+    },
+    {
+      "id": "c93968be045f6122",
+      "title": "昔日长征落脚点“圈粉”八方游客",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710845.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-10T14:36:37.000Z",
+      "excerpt": "中新社陕西延安10月10日电 (记者 杨英琦 李一璠) “乡亲们，我们进城啦！”夜幕降临，金延安景区的沉浸式剧场里，“老乡”热情地挽起胳膊，簇拥着游客穿过城门，仿佛踏入1935年的峥嵘岁月。抬眼望去，初秋的宝塔山满目葱茏，延河两岸高楼林立。历史与现实在这片黄土地上交叠，陕西延安已是新颜。",
+      "section": "cn-life",
+      "rankScore": 0.780691
+    },
+    {
+      "id": "6f279ce54421943a",
+      "title": "牛奶为什么能解辣？灯泡为何是梨形？一起get科普小知识",
+      "url": "https://www.chinanews.com.cn/life/2026/10-10/10710855.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-10T14:48:46.000Z",
+      "excerpt": "牛奶为什么能解辣？",
+      "section": "cn-life",
+      "rankScore": 0.656807
+    },
+    {
+      "id": "1c8a61e1b2c04683",
+      "title": "扩大服务业就业总量！人社部将出台服务业发展促就业文件",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fUDNmbEFWdkdxbVA2QUgtbldsY1pUUVI4UlJUUkVpbzltVDZIUnlZSEJ6UE1UMTg5MXJRcUs2QW9zc2Y5Ulc0TE8yY0hwTG54MDhiX051YVdzdUoyZnBkWTBoU2NOdzVyeEVJOGpDdkx5THloQ1RPVw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-10T16:00:16.000Z",
+      "excerpt": "扩大服务业就业总量！人社部将出台服务业发展促就业文件 finance.sina.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.624126
+    },
+    {
+      "id": "5bd3f9418125af4f",
+      "title": "巴拿马再发生5级浅层地震 暂无中国公民伤亡报告",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdktoNjBqdTZ1XzgweHNtdmdLalhLbGlYWGtlb0NvVFlkV0RPb01ESVdDRVFBS1dFOWlKU2F1UFhrVG8wTXVOeGR2eDBod2o2bGFURkNITlZoa0R1TlZuTzdPNC10SzFKbHViT0lld203SzhNY2ZCYXlVcFA1dXRNSVZ4eWZxbVdRUkl3SDNqRGYwd1hTVV91WUpwOWZuSWxzbGRZ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-10T14:55:00.000Z",
+      "excerpt": "巴拿马再发生5级浅层地震 暂无中国公民伤亡报告 香港電台網站",
+      "section": "cn-life",
+      "rankScore": 0.594003
+    },
+    {
+      "id": "d9b612863fe96c39",
+      "title": "习近平总书记同卫生健康工作者的故事",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xUTVidVRsX1lscjI0RUpEWmZEdUJ4dXhmZ19mTlRyUi1tTElPV01LWWdBek1zd2NDc0hwVW9xc3ZsNnhuVld2SXYxNmQwVjhSTnE5c2w3Z3BzX0o3TjNTUXRn?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-10T14:30:42.000Z",
+      "excerpt": "习近平总书记同卫生健康工作者的故事 中华人民共和国最高人民法院",
+      "section": "cn-life",
+      "rankScore": 0.518034
+    },
+    {
+      "id": "cde1385b4e1632ef",
+      "title": "回应突出问题，食品安全法迎来又一次大修！",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd3B6THhkMEtZVWNRWGRDNlM4WUo3ZEp3TjNCVGlibGFSSUZrMXVWcklPZElVWUhhWUlTYUV4dGpuWTZZVVBWaFd4b2RFaXZHd2xERndiS01LQ3Zua1V6bFRXTkI0cjF4SEF3MnlzNnRXa2QwMk1hMTRmQi0zQmExV3JtRjI4VW1NQ2hQNQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-10T15:40:01.000Z",
+      "excerpt": "回应突出问题，食品安全法迎来又一次大修！ 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.478162
+    },
+    {
+      "id": "c576215df71f39ad",
+      "title": "湘雅二医院多学科协作 为96岁高龄患者完成高难度心脏联合介入治疗",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmpqdEFYZERqbXRXODYzX3hWcXEwd0tjTXNHVWxQNnBFV01nSXFaQWhQNnZiakxvZzhNV2dKMFBLb3g4dGZGV3hGV0MzZURqY09fNXU1OFluLVFha29VVlVjbU9LazVwT3l1TWlsajFGZlgzZDdLeTU0LTEtdWE0SEJDWFd2Znd5R0pFTg?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-10T14:29:26.000Z",
+      "excerpt": "湘雅二医院多学科协作 为96岁高龄患者完成高难度心脏联合介入治疗 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.452825
+    },
+    {
+      "id": "5e9ac41753584bf1",
+      "title": "甘肃省2027年普通高考10月21日开始报名|甘肃省教育考试院|高考报名|资格审查|考生|资格",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMVBHVEpheU5CcXlkZDNteDVtQ2tNUnZmMThWSDNnN0RCeV8zV0pBSWFGMGdReGxISEFKUkNmdlVpQXp0akEzdUVKZTIzZTlYbjJMeTdNc2htY2o5aUJURGNuY1YxT1F4b1Z5NERLenlSMXNoWS1NYkJESkVVSDloM3pEaWktQQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-10T14:25:09.000Z",
+      "excerpt": "甘肃省2027年普通高考10月21日开始报名|甘肃省教育考试院|高考报名|资格审查|考生|资格 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.386817
+    }
+  ],
+  "warnings": []
+}
