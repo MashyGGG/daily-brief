@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-11",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-11T17:40:22.574Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 11,
+  "items": [
+    {
+      "id": "cda432062ed25c59",
+      "title": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-11T17:40:22.574Z",
+      "score": 872,
+      "excerpt": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "6b49012b1ab8012a",
+      "title": "Bot traffic from Yandex",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "source": "hn-front",
+      "publishedAt": "2026-10-11T10:27:53.000Z",
+      "score": 524,
+      "author": "walrus01",
+      "excerpt": "524 points · 195 comments · https://news.ycombinator.com/item?id=50041619",
+      "section": "tech",
+      "rankScore": 0.912861
+    },
+    {
+      "id": "2f1df30d87dc8eba",
+      "title": "Arena Allocators in C",
+      "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-11T16:59:58.000Z",
+      "author": "eliasebner.com by eliasebner",
+      "section": "tech",
+      "rankScore": 0.663738
+    },
+    {
+      "id": "ef657c3d1d7ebdda",
+      "title": "Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs",
+      "url": "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-11T14:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "Researchers from Meta, MIT, and the University of Washington introduce Context Language Models (CLMs), a new approach that enables language models to manage and edit their own context rather than relying on predefined mechanisms for summarization, compression, and information retrieval, reporting…",
+      "section": "tech",
+      "rankScore": 0.639688
+    },
+    {
+      "id": "b45e5dac18e5169b",
+      "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+      "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+      "source": "verge",
+      "publishedAt": "2026-10-11T17:31:07.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a […]",
+      "section": "tech",
+      "rankScore": 0.486913
+    },
+    {
+      "id": "97e33195d5f29357",
+      "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+      "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+      "source": "ars-technica",
+      "publishedAt": "2026-10-11T14:50:24.000Z",
+      "author": "Jennifer Ouellette",
+      "excerpt": "Also: new trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic , Godzilla Minus One",
+      "section": "tech",
+      "rankScore": 0.433341
+    },
+    {
+      "id": "b740ec539550d382",
+      "title": "gpt 相比其他模型废话多好多，你们是怎么优化的",
+      "url": "https://www.v2ex.com/t/1247908",
+      "source": "v2ex",
+      "publishedAt": "2026-10-11T15:48:57.000Z",
+      "score": 4,
+      "author": "labay",
+      "section": "cn-tech",
+      "rankScore": 0.702246
+    },
+    {
+      "id": "657e10f180b42db1",
+      "title": "英国水果蔬菜营养价值下降最高五成",
+      "url": "https://www.solidot.org/story?sid=85580",
+      "source": "solidot",
+      "publishedAt": "2026-10-11T14:27:04.000Z",
+      "excerpt": "Deep Science Ventures 研究人员的一项研究发现，英国水果和蔬菜的营养价值自 1960 年代以来减少最高五成。英国民众现在需要食用两倍数量的蔬菜，才能摄入与 60 年前同等水平的矿物质如钾、镁或铜。许多农作物中几种关键营养素的含量减少了 20%-50%。营养和维生素含量的下降主要归因于土壤质量的退化，以及作物在育种时过度追求快速生长，而忽视了其营养价值。正使用减肥药物的人群面临的营养匮乏风险可能最大，因为减肥药会导致他们的食物摄入量显著减少。",
+      "section": "cn-tech",
+      "rankScore": 0.668743
+    },
+    {
+      "id": "4ee083a993d9fd5b",
+      "title": "利用 AI 代码智能体优化软件架构的五种方法",
+      "url": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-11T10:04:31.000Z",
+      "author": "作者：Pierre Pureur, Kurt Bittner, Todd Miller",
+      "section": "cn-tech",
+      "rankScore": 0.482924
+    },
+    {
+      "id": "eee408214eec9c7e",
+      "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
+      "url": "https://www.36kr.com/p/4020977744449666",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-11T10:57:53.000Z",
+      "excerpt": "只要和一个人聊得足够久，大模型就能成为他的「数字分身」吗？ 从虚拟用户、合成受访者，到个性化AI Agent，一条越来越流行的技术路线是：先通过访谈、问卷和个人资料了解一个真实的人，再让大模型扮演这个人，预测他在没见过的问题上会如何回答。 但这里有一个更难的问题： AI即使已经学会了你现在怎么想，换一个此前没问过的新情境，它还能不能继续答得像你？ 为检验这一点，麻省理工等机构研究者提出HugAgent，让大模型基于真实参与者的访谈，预测他们在全民医疗、公共监控和住房增密等新情境下的回答。",
+      "section": "cn-tech",
+      "rankScore": 0.457503
+    },
+    {
+      "id": "03407f0c565f3ac1",
+      "title": "animation-and-transitions[20261011152808]# euv 动画与过渡效果> 项目代",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53d3BISTN0MkZkdEtSTG9pZDhiLW9KRzlYRU5ocEZmRVVQclBMSERGWEQ3TmtIY0NvMHZ0OUdUWmtETV9WblU4TVFkckI4MHJ2VGtEQg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-11T15:28:12.000Z",
+      "excerpt": "animation-and-transitions[20261011152808]# euv 动画与过渡效果> 项目代 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.445941
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 41 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
