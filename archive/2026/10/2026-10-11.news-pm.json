@@ -1,0 +1,323 @@
+{
+  "date": "2026-10-11",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-11T16:37:53.205Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "84bdd30028199211",
+      "title": "特朗普新任白宫发言人与北京渊源颇深",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261011-%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E4%BB%BB%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E4%B8%8E%E5%8C%97%E4%BA%AC%E6%B8%8A%E6%BA%90%E9%A2%87%E6%B7%B1",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-11T16:26:23.000Z",
+      "author": "华盛顿特约记者 陈米亚",
+      "excerpt": "美国总统特朗普（Donald Trump）新任白宫发言人扎卡里亚（Katie Zacharia）即将走上白宫记者会讲台，但她过去在中国工作的经历，以及多则遭删除的社群媒体贴文，已引起外界关注。",
+      "section": "news",
+      "rankScore": 0.694101
+    },
+    {
+      "id": "4865b70aeff81379",
+      "title": "特朗普称俄乌能源停火即刻生效，双方均已同意 泽连斯基：对我来说是条新闻",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261011-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B9%8C%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB%E5%8D%B3%E5%88%BB%E7%94%9F%E6%95%88%EF%BC%8C%E5%8F%8C%E6%96%B9%E5%9D%87%E5%B7%B2%E5%90%8C%E6%84%8F-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA-%E5%AF%B9%E6%88%91%E6%9D%A5%E8%AF%B4%E6%98%AF%E6%9D%A1%E6%96%B0%E9%97%BB",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-11T15:13:30.000Z",
+      "author": "弗林",
+      "excerpt": "美国总统特朗普周日在其社媒平台“真相社交”上发文称，“即刻起，俄乌战争中的能源停火生效。双方均已同意。切勿破坏！” 对此，乌克兰总统泽连斯基则向Axios新闻网表示，这一宣布“对我来说是条新闻。但如果俄方同意能源停火，乌克兰也会同意”。",
+      "section": "news",
+      "rankScore": 0.656725
+    },
+    {
+      "id": "da58ca153825df7b",
+      "title": "泽连斯基喊话特朗普：请转告普京给我们60天全面停火，我们就会组织选举",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261011-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE-%E8%AF%B7%E8%BD%AC%E5%91%8A%E6%99%AE%E4%BA%AC%E7%BB%99%E6%88%91%E4%BB%AC60%E5%A4%A9%E5%85%A8%E9%9D%A2%E5%81%9C%E7%81%AB%EF%BC%8C%E6%88%91%E4%BB%AC%E5%B0%B1%E4%BC%9A%E7%BB%84%E7%BB%87%E9%80%89%E4%B8%BE",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-11T14:37:22.000Z",
+      "author": "弗林",
+      "excerpt": "针对美国总统特朗普周六声称“乌克兰是时候换新总统了”的言论，乌克兰总统泽连斯基周日在受访时表示，如果俄罗斯总统普京同意停火60天，乌克兰便可以举行选举。",
+      "section": "news",
+      "rankScore": 0.638195
+    },
+    {
+      "id": "9b01195636f0c391",
+      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-11T15:32:32.000Z",
+      "excerpt": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "section": "news",
+      "rankScore": 0.599837
+    },
+    {
+      "id": "d266e3666cc3987d",
+      "title": "Pakistan Seizes Control of an Opposition-Led Province",
+      "url": "https://www.nytimes.com/2026/10/11/world/middleeast/pakistan-federal-control-khyber-pakhtunkhwa.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-11T16:25:43.000Z",
+      "author": "Zia ur-Rehman",
+      "excerpt": "The federal government, speaking of “a severe breakdown in law and order” in Khyber Pakhtunkhwa amid militant violence, named a politically allied official as in charge.",
+      "section": "news",
+      "rankScore": 0.555007
+    },
+    {
+      "id": "85e2ee33b22d2ffe",
+      "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim responsibility for attack that killed 12",
+      "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-11T16:18:45.000Z",
+      "author": "Frances Mao",
+      "excerpt": "Statement claims strikes against Dammam airport and Saudi Aramco facilities but it is unclear if group also claims today’s reported attack Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace.",
+      "section": "news",
+      "rankScore": 0.552149
+    },
+    {
+      "id": "f2fccf704a42129e",
+      "title": "Football fans speak about City’s charges as they face Liverpool",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-11T16:18:45.000Z",
+      "excerpt": "Fans have been speaking to Al Jazeera as Liverpool face Manchester City at Anfield.",
+      "section": "news",
+      "rankScore": 0.552149
+    },
+    {
+      "id": "14b70a97efc7dcfa",
+      "title": "澤連斯基譴責美俄柴油交易，特朗普稱「烏克蘭該換總統了」",
+      "url": "https://www.bbc.com/zhongwen/articles/ck0j0g16e8j8o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-11T07:08:18.000Z",
+      "excerpt": "烏克蘭領導人曾表示，與俄羅斯達成向美國輸送柴油的協議將有助於莫斯科為戰爭籌集資金。",
+      "section": "news",
+      "rankScore": 0.489485
+    },
+    {
+      "id": "37fdf6413b8b9b6b",
+      "title": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
+      "url": "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-11T16:28:58.000Z",
+      "author": "Nick Corasaniti and Haiyun Jiang",
+      "excerpt": "A Times investigation has found that violent threats have become a new normal among public officials, reshaped private lives, cost millions in security and pushed people out of office.",
+      "section": "news",
+      "rankScore": 0.486798
+    },
+    {
+      "id": "548bd83e4d0a7a35",
+      "title": "Democrats need a foreign policy",
+      "url": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-11T15:13:30.000Z",
+      "excerpt": "Trump’s approach to the world has left Republicans floundering as the midterms approach. Liberals should plan their own strategy now",
+      "section": "news",
+      "rankScore": 0.459707
+    },
+    {
+      "id": "ddcf9633fef80144",
+      "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
+      "source": "npr-news",
+      "publishedAt": "2026-10-11T12:10:54.000Z",
+      "author": "The Associated Press",
+      "excerpt": "The eye of Hurricane Simon was just off the Pacific coast of Mexico early Sunday and was expected to move inland later in the day as an extremely powerful storm.",
+      "section": "news",
+      "rankScore": 0.394159
+    },
+    {
+      "id": "c159441c929782f5",
+      "title": "英国：不支持美俄就俄提供柴油达成一致 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTJxY0dKVGdPOW5fQ3p5NjFXcTByQjdINk5SMGkzUWstOWxGVUtmaUtSMTVpZHk1YXduVnNvdmpEQ19QMS1RTXVid3lvNExjMEdlRlJOSnJUYTJYYUlhSjZLTEp5ckpWUmxVbmxkTjFJemFfTGVIY2dILXhDZVc3TDVIOUpuVk10dkRWTg?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-11T14:31:00.000Z",
+      "excerpt": "英国：不支持美俄就俄提供柴油达成一致 21财经",
+      "section": "news",
+      "rankScore": 0.380958
+    },
+    {
+      "id": "352d93b262c352db",
+      "title": "泰国前外长：乐见中方调停斡旋泰柬边境冲突",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-11/10711145.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-11T15:31:41.000Z",
+      "excerpt": "中新社深圳10月11日电 (记者 郭超凯)由中国外交学院主办的第三次中柬泰二轨对话会11日在深圳举行。泰国前外长甲西·披龙耶在参会期间接受中新社记者采访时表示，乐见中方调停斡旋泰柬边境冲突，泰柬须尊重中国对两国释放的善意。",
+      "section": "cn-news",
+      "rankScore": 0.732654
+    },
+    {
+      "id": "770e83de8e05088d",
+      "title": "一移民船在吉布提沿海倾覆致至少109人死亡，包括15名儿童",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-11/10711074.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-11T11:05:12.000Z",
+      "excerpt": "中新网10月11日电 据法新社等媒体报道，当地时间10月11日，国际移民组织表示，10月8日至9日夜间，一艘移民船在吉布提海岸附近沉没，造成至少109人死亡，其中包括15名儿童，另有约116人失踪。",
+      "section": "cn-news",
+      "rankScore": 0.63527
+    },
+    {
+      "id": "123dd33d9cd37fda",
+      "title": "胡塞武装称沙特对也门塔伊兹省进行三次空袭",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPcXllTjFYNjNXTkttTFJOWm9UN0NGekFpOUszSU1uUW9VTi1OMTN2NkJxQng5V2Q5WDF3S0lnZm5fSXFIUE9CV2ltNkE5amdnMVdDZzJxQ2M?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-11T15:06:50.000Z",
+      "excerpt": "胡塞武装称沙特对也门塔伊兹省进行三次空袭 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.587975
+    },
+    {
+      "id": "2267d9431c7dc5ad",
+      "title": "明晰噪声侵权裁判规则 守护群众居住安宁权益",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kSEhOaEkwV1NjNm1JQ3lhSE1HTTJRTWVSdWYxeG8yV2pkcGxMQ1JYSFg2Ym1EOHNfLXJpN19sVDR5Mllyd3ZXU1YwT2Y5cXk5blN3c3c0TWZ2WFNBb0E?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-11T14:45:00.000Z",
+      "excerpt": "明晰噪声侵权裁判规则 守护群众居住安宁权益",
+      "section": "cn-news",
+      "rankScore": 0.577898
+    },
+    {
+      "id": "ef43cd51bf93217f",
+      "title": "2026总票房破310亿！国产电影加速出海 “电影+”持续释放大能量",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711115.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-11T12:33:03.000Z",
+      "excerpt": "截至10月11日",
+      "section": "cn-news",
+      "rankScore": 0.516998
+    },
+    {
+      "id": "5306944fd29b0cc2",
+      "title": "特写：新老照片，见证跨越八十四年的重逢",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONDRBT3JidFdjUDJGTmM4NkkzQ0tNYUNGMzhBejkzZl9NOTdPdWRaNFI2Yk51Zm9adDBfZXlfZnlReXBxU3c3ZHkwOGZSWjdCVGYyNVNUUVNwY2VucjJwYkU5dDlNdHZiT3JMa3R1N0xmNXVkeFZoZWhNVWtmbklxYWlYTWM4QkRya0FCcU1KUy1aT1QtLXRzVC1B?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-11T14:31:22.000Z",
+      "excerpt": "特写：新老照片，见证跨越八十四年的重逢 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.508094
+    },
+    {
+      "id": "5dc412ef789a4fd0",
+      "title": "共軍12至17日 渤海、黃海、東海、南海密集展開軍事行動",
+      "url": "https://www.cna.com.tw/news/acn/202610110203.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-11T13:31:22.000Z",
+      "excerpt": "（中央社台北11日電）中國多地海事部門8日起接連發布航行警告，明日開始，共軍將陸續在渤海、黃海、東海和南海等至少5處海域進行實裝訓練、實彈射擊及軍事訓練，相關活動將持續至17日。",
+      "section": "cn-news",
+      "rankScore": 0.483479
+    },
+    {
+      "id": "93b0918382451986",
+      "title": "天津出台实施意见支持现房销售及“好房子”项目",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2pkNXFEdlZiN1NZQm0zMjUzaHZJaFNESi1MN3lTTFJmQkhBSWFzdFlwMHFGT1Jjcnl1eEJtclNab1JjWTlfSU1yNmt3d1dSSGEwTHVWMTJKX1pQU2tNN1YxOEJEUG1XeHNDYkNhajRIbThaeTJMaG1wbl9sbkpvZE93TEd5d3BV?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-11T14:14:37.000Z",
+      "excerpt": "天津出台实施意见支持现房销售及“好房子”项目 新华网 从细则到土拍规则，房地产新政进入落地阶段 凤凰网财经 机构：核心城市限制性政策优化等方向仍有较大放松空间，维持房地产行业“看好”评级 搜狐 华泰证券：对地产板块转向积极，重点关注更能适应新模式的房企-36氪 36kr 现房销售正以“确定性”提振楼市信心 m.zqrb.cn",
+      "section": "cn-news",
+      "rankScore": 0.43857
+    },
+    {
+      "id": "d5be42d0e027658c",
+      "title": "Wuhan’s Covid mayor Zhou Xianwang jailed for 14 years for corruption",
+      "url": "https://www.scmp.com/news/china/science/article/3370481/wuhans-covid-mayor-zhou-xianwang-jailed-14-years-corruption?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-11T14:00:16.000Z",
+      "author": "Phoebe Zhang",
+      "excerpt": "Zhou Xianwang, the former mayor of Wuhan widely criticised for the initial handling of the Covid-19 outbreak, has been sentenced to 14 years in prison for corruption.",
+      "section": "cn-news",
+      "rankScore": 0.433418
+    },
+    {
+      "id": "3b91ad522b27b300",
+      "title": "生涯1000赛首冠！郑钦文击败安德烈耶娃夺得中网女单冠军",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tRlN0NE1jNUt4NW1iWnM3emlfbmdqVzVLa1BTcGdWenhuaWNpN2RrbV9jRGdkMk5OYWUxbnFBT1FvTzhBS3oyWkljeVRpbmFnbWRxd0Ywak5VMWl6bjJr?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-11T14:42:57.000Z",
+      "excerpt": "生涯1000赛首冠！郑钦文击败安德烈耶娃夺得中网女单冠军 华商网 中网｜郑钦文夺得女单冠军 新华网 李娜之后，中国女网真正的领跑者，今夜被盖章了——郑钦文 凤凰网 武汉市委市政府向郑钦文致贺电 finance.sina.com.cn 决赛前紧张到呕吐，郑钦文：最后那口气我顶住了 ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.384635
+    },
+    {
+      "id": "475883851e064895",
+      "title": "“袁稻思源”杂交水稻智能育种平台长沙发布 AI赋能育种创新",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-11/10711148.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-11T15:46:44.000Z",
+      "excerpt": "中新社长沙10月11日电 (记者 唐小晴)“袁稻思源”杂交水稻智能育种平台11日在长沙正式上线。这意味着湖南杂交水稻育种告别传统经验模式，迈入数据驱动、智能决策的全新发展阶段。",
+      "section": "cn-life",
+      "rankScore": 0.808521
+    },
+    {
+      "id": "0f6c09daec9405d7",
+      "title": "一周辟谣 | 办理社保卡金卡每月发放补贴？人社部最新提醒",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVjJjaWUzbmdRZ2ZBSF9zU1NuQXJ4Y1c5bG1ENW5fbUY4dzVYcEozdFpNanlySW14MUxDZHpmbFVmVkQ2ODBMQ2J3a0h6RVFkOThpNWNvNE4tMDQ1MVVKdC14N0YxdUMza0g5X09weXk3VGwxSWNILXBCVUFSbXBEM0F0eERXXzdmNXc?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-11T15:26:20.000Z",
+      "excerpt": "一周辟谣 | 办理社保卡金卡每月发放补贴？人社部最新提醒 广州日报新花城",
+      "section": "cn-life",
+      "rankScore": 0.596975
+    },
+    {
+      "id": "35073acfb5ae435d",
+      "title": "三个秋台风巅峰强度均达超强台风级！未来汕头天气→ - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZWNUTnhZclN3djRDME5lS3J6dFhtbnUwcWJ0NnVlM05OLXlERVpjbnpzMmt0dlhLVlFOSzdJOTd5emxRZ2RBaTYtbWdhNzU4OTlLcGlITkl4OXFCa096MkRGRk00MlRlaktpQklHU0xuU2VwcVlBVzU0MDdEMnZ2RUJMcmVhVkZoalB3cS1kNA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-11T14:36:00.000Z",
+      "excerpt": "三个秋台风巅峰强度均达超强台风级！未来汕头天气→ 21财经",
+      "section": "cn-life",
+      "rankScore": 0.573745
+    },
+    {
+      "id": "96ddab6053e5d48b",
+      "title": "一边秋雨降温，一边暖热犹盛，南北方上演“冬夏并存”",
+      "url": "https://www.chinanews.com.cn/life/2026/10-11/10711077.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-11T11:26:36.000Z",
+      "excerpt": "今天，北方冷空气登场，西北地区率先受到影响，秋雨与降温同步上线。",
+      "section": "cn-life",
+      "rankScore": 0.540366
+    },
+    {
+      "id": "bb79105220080842",
+      "title": "奖赏相关目标视觉注意过程的神经生理关联及其与精神分裂型特质的关系",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iR2lHTTM0cnFCX095UFdVazIxTTl2a1N3TU83amhuODZSVEVTYlV4WmtDeG5CdHlEX3FDNXhlcGxiVV9TODN4enpaczZlYkl5dEp0dzRlTDlWMXcxek5qV1JXSm9TTGhMa0g3WlBR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-11T16:00:31.000Z",
+      "excerpt": "奖赏相关目标视觉注意过程的神经生理关联及其与精神分裂型特质的关系 生物通",
+      "section": "cn-life",
+      "rankScore": 0.476585
+    },
+    {
+      "id": "a1f457500a632d19",
+      "title": "佳木斯市委书记王铁到抚远市调研检查边境管控、安全生产、项目建设及秋收生产等工作",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IOWNzN19GeDZxNnhaQWNmeDkwaEdnZU1rcWdtMUx5emFCc0d5cXQ3aUVYbUdzQzVoYWNQUGN1NF9oY1U1NUhpZFo0cHRnV2NlMnNvQjAzV3NXdXNUZlg5LVVQaFNzSlRYQ0UxeQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-11T12:28:00.000Z",
+      "excerpt": "佳木斯市委书记王铁到抚远市调研检查边境管控、安全生产、项目建设及秋收生产等工作 黑龙江省人民政府",
+      "section": "cn-life",
+      "rankScore": 0.457482
+    },
+    {
+      "id": "e5293836a8826208",
+      "title": "主播说联播丨食品安全法大修！直面痛点，守护“舌尖上的安全”",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHZkMjVoVk9WWFhYYkRzVUdEZUlkamlsNXFEdUtNaGp4LV9FVnQxLWNrWVlQWUxIRVQ3bEd1RFBna2Z0WjdOdXFBVVBXUFg3NGh2NlFSYS1IcWlSUzZyVFhzOGJqVVpDR3NRYVBaWjVjaXIwclhqY3BiNUJSVWREeFUwOGRBYjFlX2JfaHdoVVBSLW16MmlKSQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-11T15:01:30.000Z",
+      "excerpt": "主播说联播丨食品安全法大修！直面痛点，守护“舌尖上的安全” finance.sina.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.4554
+    },
+    {
+      "id": "63189c7a10f36f8a",
+      "title": "清华AIGE红皮书解读（1）：为智能社会奠定认知基础 — 人工智能通识教育的历史意义",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ONWdzSlNqNzF4bVlJQWZpMGtrb0w0T1R5VnM0eUhXSTZKalkzTXU2cEd0dTdsTzMzdm5qUDlTdTBFeXUtM2xyTjJLeEZtY1FHTG04T1JyUVI2QmV3X3dOMm9UTVhqSE1xbTJtZTluV2pOT2JZMnFTTEVfSEtfZw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-11T16:25:00.000Z",
+      "excerpt": "清华AIGE红皮书解读（1）：为智能社会奠定认知基础 — 人工智能通识教育的历史意义 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.416035
+    }
+  ],
+  "warnings": [
+    "source \"un-news-en\" failed: AbortError: This operation was aborted"
+  ]
+}
