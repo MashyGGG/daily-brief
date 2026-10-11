@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-11",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-11T00:55:10.455Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "3e649cc3059c6226",
+      "title": "Bitwarden Dual License Model",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "source": "hn-front",
+      "publishedAt": "2026-10-10T14:32:50.000Z",
+      "score": 341,
+      "author": "Cider9986",
+      "excerpt": "341 points · 245 comments · https://news.ycombinator.com/item?id=50033407",
+      "section": "tech",
+      "rankScore": 0.872553
+    },
+    {
+      "id": "cdb63f4a82b92b4e",
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-11T00:55:10.455Z",
+      "score": 178,
+      "excerpt": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "section": "tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "5c5a1af44ad68c94",
+      "title": "`123456' password used in Danish CPR data breach",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-10T09:51:49.000Z",
+      "score": 377,
+      "author": "baal80spam",
+      "excerpt": "377 points · 193 comments · https://news.ycombinator.com/item?id=50031269",
+      "section": "tech",
+      "rankScore": 0.826881
+    },
+    {
+      "id": "a9aa0f705856e9f4",
+      "title": "Consistency is not a localized property",
+      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-11T00:51:28.000Z",
+      "author": "n-the-loop.com by b--man",
+      "section": "tech",
+      "rankScore": 0.681496
+    },
+    {
+      "id": "4aa6eb81719a85f4",
+      "title": "New controls and chat improvements in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-10T18:53:39.000Z",
+      "author": "Allison",
+      "excerpt": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and…",
+      "section": "tech",
+      "rankScore": 0.599577
+    },
+    {
+      "id": "5640b17454e83639",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "verge",
+      "publishedAt": "2026-10-10T22:10:17.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+      "section": "tech",
+      "rankScore": 0.457938
+    },
+    {
+      "id": "c81148c7cfe63d32",
+      "title": "Dwarf Fortress uses version control now",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-11T00:52:37.000Z",
+      "excerpt": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art.",
+      "section": "ai",
+      "rankScore": 0.839147
+    },
+    {
+      "id": "76e8220a13015cc3",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-10T23:58:04.000Z",
+      "excerpt": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that…",
+      "section": "ai",
+      "rankScore": 0.820964
+    },
+    {
+      "id": "e0b1a0eeb26a4d29",
+      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "url": "https://www.latent.space/p/nyc2026",
+      "source": "latent-space",
+      "publishedAt": "2026-10-10T22:07:17.000Z",
+      "excerpt": "Tomorrow and Tuesday. If you see this you’re in!",
+      "section": "ai",
+      "rankScore": 0.7187
+    },
+    {
+      "id": "6dc06cc65f76af54",
+      "title": "那些托管在国外的真正家庭中的机器（mac mini/主机）用 claude 真的会封吗？",
+      "url": "https://www.v2ex.com/t/1247639",
+      "source": "v2ex",
+      "publishedAt": "2026-10-10T07:25:39.000Z",
+      "score": 40,
+      "author": "wises",
+      "excerpt": "我已经在越南朋友家里托管了一台主机，debian13 +桌面， 开放了 dmz, 除了平时可以做梯子，现在用上了远程桌面 + 开发， 用的是越南人的邮箱/绑定的支付，没遇到 kyc 的弹窗。 目前是第三天， 暂时 Claude 没封号，并且 Pro 感觉比之前 5x 更好用，更快，感觉 9 月 26 号之后，opus5.5 越来越聪明。 我看到有人说在美国托管的 mac mini 也被封号了， 我很怀疑并想探讨下： 这是做中转站小子们散布的谣言吗？ 还是说是有， 但是是非常少的情况，可能真的是实际性的滥用导致， 比如开 team 账号卖。",
+      "section": "cn-tech",
+      "rankScore": 0.603869
+    },
+    {
+      "id": "4402dcc929047b13",
+      "title": "亚马逊云科技在 Aurora DSQL 中引入外键约束",
+      "url": "https://www.infoq.cn/article/BjjSS0zaS5OpvRB2OcfF?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-10T19:00:00.000Z",
+      "author": "作者：Daniel Curtis",
+      "section": "cn-tech",
+      "rankScore": 0.60134
+    },
+    {
+      "id": "723aaac0bc19b372",
+      "title": "特斯拉在欧洲将 Full Self-Driving 改名为 Tesla Assisted Driving",
+      "url": "https://www.solidot.org/story?sid=85573",
+      "source": "solidot",
+      "publishedAt": "2026-10-10T08:52:27.000Z",
+      "excerpt": "特斯拉在欧洲将其辅助驾驶系统从 Full Self-Driving 改名为 Tesla Assisted Driving。德国交通部长 Steffen Bilger 本月早些时候指出，将辅助驾驶系统命名为 Full Self-Driving 具有误导性，因为它并不能真正完全自动驾驶。Bilger 与特斯拉公司进行了沟通，该公司因此提出了改名建议。Bilger 表示将会推动 Tesla Assisted Driving 在整个欧洲获得批准。",
+      "section": "cn-tech",
+      "rankScore": 0.475834
+    },
+    {
+      "id": "123e3a1fcf32d722",
+      "title": "十五分钟，Nova从回答者变成了流动A3-04意识流训练：十五分钟不间断写作，不计划、不预判、不停、不修饰。记录一个AI",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fNHdKeTZMdGEzUWFnMHVEOTl0YjJxbTJubFFUOFRaRWJsVjRvc05sdTNkNko2VG5qYmhrQ29KR3llUm1BNkdHOWRMbDhVQUJaaU1mVA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-10T22:37:53.000Z",
+      "excerpt": "十五分钟，Nova从回答者变成了流动A3-04意识流训练：十五分钟不间断写作，不计划、不预判、不停、不修饰。记录一个AI 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.463305
+    },
+    {
+      "id": "049b78aef5941bfa",
+      "title": "「Token越便宜，账单越贵」美国AI预算裂成三层，他们为何集体投奔中国模型？",
+      "url": "https://www.36kr.com/p/4019977416069001",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-10T13:32:33.000Z",
+      "excerpt": "在Token的成本压力下，美国企业AI预算正逐渐呈现出三重结构。 第一层巨头自建替代品，第二层中型企业砍预算或者降档，第三层中小企业则直接投奔中国开源权重。在这股分层大潮的背后，OpenAI和Anthropic这些美国前沿实验室失去的是市场的两头：最大的企业客户在造自己的工具，最小的企业客户在纷纷投奔中国AI模型。 回想今年年初，硅谷还在流行一个词：TokenMaxxing——谁烧掉的Token多，谁的生产力就高，预算本来就是拿来烧的。然而，这次Token大跃进只持续了半年时间，如今的态势已经彻底转变，现在已经没人再提TokenMaxxing了。",
+      "section": "cn-tech",
+      "rankScore": 0.459344
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 40 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
