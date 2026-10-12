@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-12",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-12T01:43:10.220Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "0607804c7d1300c6",
+      "title": "美國停止公開處決已近一個世紀，如今為何重啟？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-12T00:08:36.000Z",
+      "excerpt": "五角大廈表示，胡德堡槍擊案槍手納達爾·馬里克·哈桑（Nidal Malik Hasan）的處決將進行直播，但專家認為，官員可能誤判了美國民意。",
+      "section": "news",
+      "rankScore": 0.808477
+    },
+    {
+      "id": "c13db77dcac2f46e",
+      "title": "緬甸年輕人的恐懼：走在街頭，隨時被「抓壯丁」賣給軍方",
+      "url": "https://www.bbc.com/zhongwen/articles/c63el43dw8pko/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-12T00:08:15.000Z",
+      "excerpt": "陷入困境的軍政府正與各民族武裝組織及平民抵抗力量展開一場消耗戰。",
+      "section": "news",
+      "rankScore": 0.80836
+    },
+    {
+      "id": "de5608a8146f952d",
+      "title": "中欧就混动汽车贸易达成谅解，避免经贸摩擦升级",
+      "url": "https://cn.nytimes.com/business/20261012/china-european-union-trade/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-12T00:29:13.000Z",
+      "author": "KEITH BRADSHER",
+      "excerpt": "混动汽车一直是中欧贸易关系中最具争议的问题之一。欧盟官员表示，中国可能在未来四年内将出口欧盟的混动汽车数量削减一半，双方未提及征收关税的问题。 Kyodo, via Reuters Connect 欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京出席记者会。",
+      "section": "news",
+      "rankScore": 0.747403
+    },
+    {
+      "id": "a8bf3916a7f71c69",
+      "title": "美议员：美俄柴油协议违法",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261011-%E7%BE%8E%E8%AE%AE%E5%91%98-%E7%BE%8E%E4%BF%84%E6%9F%B4%E6%B2%B9%E5%8D%8F%E8%AE%AE%E8%BF%9D%E6%B3%95",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-11T21:15:53.000Z",
+      "author": "法广",
+      "excerpt": "周日，民主党和共和党议员质疑华盛顿和莫斯科就俄罗斯柴油供应达成的协议的合法性，声称该协议违反了美国国会通过的一项法律。",
+      "section": "news",
+      "rankScore": 0.625754
+    },
+    {
+      "id": "fac04486e5edf72d",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-11T22:45:58.000Z",
+      "excerpt": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "section": "news",
+      "rankScore": 0.585699
+    },
+    {
+      "id": "77153a143b9f08f0",
+      "title": "Australian politics live: Taylor defends CV after Hanson dubs him a ‘smarmy management consultant’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-12T01:37:02.000Z",
+      "author": "Krishani Dhanji",
+      "excerpt": "Follow the day’s news live Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino , says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not watering this down.",
+      "section": "news",
+      "rankScore": 0.558636
+    },
+    {
+      "id": "98dd15a052e76ca0",
+      "title": "Bridge washed away by torrent of water in Nepal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-12T01:24:26.000Z",
+      "excerpt": "Flash floods along Nepal’s Budhi Gandaki River swept away homes and bridges, forcing residents to flee to higher ground.",
+      "section": "news",
+      "rankScore": 0.555836
+    },
+    {
+      "id": "7c5abdba7170d887",
+      "title": "Saudi and Yemeni Airports Hit in New Round of Strikes",
+      "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-11T23:45:12.000Z",
+      "author": "Euan Ward and Vivian Nereim",
+      "excerpt": "At least one person was killed in the Saudi capital, Riyadh, kingdom authorities said. The Houthis said Saudi aircraft hit the Yemeni capital’s airport.",
+      "section": "news",
+      "rankScore": 0.533784
+    },
+    {
+      "id": "b191cace9af69f0e",
+      "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+      "source": "npr-news",
+      "publishedAt": "2026-10-11T23:54:21.000Z",
+      "author": "Adrian Florido",
+      "excerpt": "Forecasters say the storm, which brought heavy rain and coastal flooding, is a preview of what may be in store as California braces for a possibly record-setting El Niño.",
+      "section": "news",
+      "rankScore": 0.46884
+    },
+    {
+      "id": "1228390194fc6b66",
+      "title": "Mamdani to Skip Columbus Day Parade. Some Italian Americans Are Glad.",
+      "url": "https://www.nytimes.com/2026/10/11/nyregion/mamdani-columbus-day-parade-nyc.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-11T23:51:15.000Z",
+      "author": "Joseph Goldstein and Miles G. Cohen",
+      "excerpt": "City Hall confirmed that the mayor would not join Monday’s procession up Fifth Avenue, but would host an Italian American heritage reception soon.",
+      "section": "news",
+      "rankScore": 0.468238
+    },
+    {
+      "id": "2be6767253d93891",
+      "title": "How to pay for social care",
+      "url": "https://www.ft.com/content/dcdc4427-2104-4b6f-91e5-af9d13bb49a1?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-11T23:01:03.000Z",
+      "excerpt": "Automatic enrolment worked for pensions — a similar scheme could pool the risk of heavy costs from illness and infirmity in later life",
+      "section": "news",
+      "rankScore": 0.458477
+    },
+    {
+      "id": "adf09d0df4058e49",
+      "title": "吉布提近海发生严重沉船事故：109人遇难，116余人失踪 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZaUF0M29zNnRpOFZxWGVPdUV1SVhpWHFrUUcxM2JUNEljSURUTlB4R2lscmxmTlFYY0Rwb3RFeW52WTI0RThCQUpyRUdhQ29uQzUwbXZCRQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-12T01:15:01.000Z",
+      "excerpt": "吉布提近海发生严重沉船事故：109人遇难，116余人失踪 UN News 一移民船在吉布提沿海倾覆致至少109人死亡，包括15名儿童|国际移民组织|法新社|也门|幸存者|女性 新浪财经 吉布提沿海移民船只倾覆事故死亡人数升至139人 央视网 吉布提海域移民船翻覆 至少139死84人失踪 联合早报 一移民船在吉布提外海倾覆 109人死亡 116人失踪 RFI",
+      "section": "news",
+      "rankScore": 0.415308
+    },
+    {
+      "id": "33081cfc5dc76314",
+      "title": "昆明一道路突发塌方 官方：现场搜救未发现人员伤亡",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711206.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-12T01:25:34.000Z",
+      "excerpt": "中新网10月12日电 据“昆明西山发布”微信公众号消息，10月11日晚，云南省昆明市西山区交通运输局发布情况通报：2026年10月11日16时20分许，昆明市西山区碧鸡街道车家壁至营盘山道路K1+200处突发塌方，致路边停放的12辆车辆(车上无驾乘人员)和3辆行驶中的车辆受困、道路交通中断，有关部门迅速开展现场救援处置，现场搜救未发现人员伤亡，周边居民已转移至安全区域妥善安置。现场救援、道路抢修和调查处置工作正在开展中。",
+      "section": "cn-news",
+      "rankScore": 0.834132
+    },
+    {
+      "id": "14c6d4ca598d7158",
+      "title": "“中国天眼”让我国天文学家站上人类视野最前沿",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711202.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-12T01:18:55.000Z",
+      "excerpt": "“中国天眼”累计发现一千三百余颗脉冲星，我国天文学家站上人类视野最前沿",
+      "section": "cn-news",
+      "rankScore": 0.762589
+    },
+    {
+      "id": "0208f4999a036e6e",
+      "title": "A股周一开盘：超2900只个股飘绿，三大指数集体低开",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711827.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-12T01:38:54.000Z",
+      "excerpt": "A股周一开盘：超2900只个股飘绿，三大指数集体低开；通信设备、电子元器件、半导体、房地产下跌；贵金属、文化传媒上涨",
+      "section": "cn-news",
+      "rankScore": 0.628932
+    },
+    {
+      "id": "46cf760ef053dea5",
+      "title": "粮食概念股盘初拉升，金健米业涨停",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aa1RtWGR6QVBaZ0NWcHB0QktMZEZwNGlIQjVYeU9kaWFaTlJYeFEycjN3OTRoSzR5V0FaUUVlVWJpSXY2QlY0NlBLRFBVSTQwMDNULXRpZXo?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-12T01:36:54.000Z",
+      "excerpt": "粮食概念股盘初拉升，金健米业涨停 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.628432
+    },
+    {
+      "id": "267c2053478a802f",
+      "title": "500年嘉定竹刻的“刀笔文心”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ORlFxQUR0ZzREZC1jMlBvZUx6Q3dUckhyNTR6VzZZQWl6RzBQbEl4MlpkSERWZmFzOURzQWQyVVY5aGp4QVZpYXFsbUF6S2Y5MkViYU5sMUhyM252U2NNUA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-11T23:54:00.000Z",
+      "excerpt": "500年嘉定竹刻的“刀笔文心”",
+      "section": "cn-news",
+      "rankScore": 0.602707
+    },
+    {
+      "id": "30c49ea66b012d65",
+      "title": "中国侨联成立70周年主题展讲述家国同心向复兴",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnU3UyZkpGTVBhSWtnODEtcl8wUTRUdlczbGpHa19WVzBMVG93RnloTlYzVVZFeDBtV2dHNWV5dzNfb0o3NDlnV2E2NVB0Wm5nZHVONXBVNTZPZjB6bl9lekkzUi1XaXVoaGZiRWgtWFFzbFowNDZCaVZUVTQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-12T01:32:47.000Z",
+      "excerpt": "中国侨联成立70周年主题展讲述家国同心向复兴 求是 庆祝中国侨联成立70周年书画展在海口举行 新华网 奋进新征程 同心向复兴 人民日报 纪念中国侨联成立70周年 浙江侨联系列活动聚侨心汇侨智 央视网 \"侨力量·影像云南\"主题摄影展昆明开幕 近百幅影像串联70载侨界历程 搜狐",
+      "section": "cn-news",
+      "rankScore": 0.557692
+    },
+    {
+      "id": "e84432279170bfa3",
+      "title": "能源管理如何助力汽车制造业实现“双碳”目标",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZ0lnd2wyelZ6Uks1OU5WQjlEeXBZWmxtOHZBZjRXbUk0RXRHOHFZa0hVQzIzemhuNkptWHFwSXRYYjM4d0lfV2QyWG1hQ0QzQUF4Sy1hMkM4dmZQNUVJOHFVSnMzdHJHUVVtTmRxbUM?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-12T01:31:33.000Z",
+      "excerpt": "能源管理如何助力汽车制造业实现“双碳”目标 中国能源新闻网",
+      "section": "cn-news",
+      "rankScore": 0.48774
+    },
+    {
+      "id": "c4067acab187b5a3",
+      "title": "Kurt Campbell on US deterrence, the Quad, Aukus and Taiwan after Xi-Trump summit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3370485/kurt-campbell-us-deterrence-quad-aukus-and-taiwan-after-xi-trump-summit?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-11T22:00:15.000Z",
+      "author": "Shi Jiangtao,William Zheng",
+      "excerpt": "Kurt Campbell is a veteran US diplomat and strategist who has played a leading role in shaping Washington’s approach to China and the Indo-Pacific for more than a decade.",
+      "section": "cn-news",
+      "rankScore": 0.446654
+    },
+    {
+      "id": "93a9678d3c944340",
+      "title": "“以人带史”风格独具匠心 《伟大的长征》首播收视夺冠",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaXh5RE0wa0FFU3FybHJndTdlMnREbGl3c2RvaVpVeEcyRnljazctajVjOThxa0ZhR1Blb0RsLXZpZmR5dWw4VzJyRmQ5Z0dtS0dZeTd5a0Npckptd3MtOGNTdXExak0zLUU0RFpwckFRcjdrZ3ZlQUxZSUtKNzJBbXh0MA?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-12T01:22:12.000Z",
+      "excerpt": "“以人带史”风格独具匠心 《伟大的长征》首播收视夺冠 新华网 《伟大的长征》开播即收视第一 新浪财经 博瑞传播联合出品《征途》总台黄金档收官，长征史诗激荡荧屏 每日经济新闻 《伟大的长征》首播收视第一，16字点评道出观众心声 凤凰网 马上评｜为什么说《伟大的长征》特别值得当代青年观看 ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.416505
+    },
+    {
+      "id": "168b341fdb10c8f1",
+      "title": "GNC大股東 中國哈藥股份：總裁蘆傳有被立案留置",
+      "url": "https://www.cna.com.tw/news/acn/202610110206.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-11T14:11:33.000Z",
+      "excerpt": "（中央社記者馮昭上海11日電）中國老牌醫藥上市公司哈藥集團股份有限公司（哈藥股份）今天公告，近日收到相關監察委員會關於公司董事、總裁蘆傳有的立案和留置通知書。哈藥股份是美國知名保健品「健安喜」（GNC）的大股東。",
+      "section": "cn-news",
+      "rankScore": 0.406307
+    },
+    {
+      "id": "c9f399a675920cb6",
+      "title": "房主私自把住宅变成“民宿”“网约房”，邻居不堪其扰……怎么办？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10711196.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-12T01:15:19.000Z",
+      "excerpt": "有读者反映，未经相关业主同意，小区内有人就开展经营性住宿服务——",
+      "section": "cn-life",
+      "rankScore": 0.830715
+    },
+    {
+      "id": "410793bc8efe102d",
+      "title": "打卡跟练、大数据定制食谱……AI成职场人“减重搭子”",
+      "url": "https://www.chinanews.com.cn/life/2026/10-12/10711167.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-11T23:30:28.000Z",
+      "excerpt": "打卡跟练、拍照识热量、大数据定制食谱……AI成职场人“减重搭子”",
+      "section": "cn-life",
+      "rankScore": 0.663138
+    },
+    {
+      "id": "7f20ad1b56d8b94b",
+      "title": "江西大爷让700多人躲过泥石流！12天内两次精准预警",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZTZJWHM5dmRSNkdaNDZTZE1PTUV5MU9vWjc0cjAyNXdGZFpwZXpFYkY5bDZBOHUzNE92aklEenVCRFVTRFI3N2RGM2xYbWxsLVh2ZUhJczNhS2JvajVqc3l0cXZsOVkwNmNrMW1Lb3hzMkgtOFg1SzZwUGp3YXN0cUotdWh0cG9kNG5JY3NMSnVQUHFJQ3N2ZG1OVFo4WktLYUhaZ2dqbEhoaTAtUGp6eVVGMmpOalNxaTkyTVBjZ0d3cXJaODlnT0xGckh3NGkxT0gzNkFKMFpxZw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-12T01:40:09.000Z",
+      "excerpt": "江西大爷让700多人躲过泥石流！12天内两次精准预警 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.629245
+    },
+    {
+      "id": "10cc157806c620fe",
+      "title": "人社部：截至9月底，全国基本养老保险参保人数达10.79亿人 社保体系持续优化",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxdU50LUh3UmhVSEpVdnI4RjZBUnlNRHFrY1pqNmVvNDN5OUhJSXpUSHd3WFF4QjZsVDJWZ3RsUUthOFk5R0Q4Qy1uQXpocXpzWXIxcXZtc0JWdFZFOHpxWllIMmZzYW4wZTdKVE5UU2k?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-12T01:25:51.000Z",
+      "excerpt": "人社部：截至9月底，全国基本养老保险参保人数达10.79亿人 社保体系持续优化 中华网",
+      "section": "cn-life",
+      "rankScore": 0.62567
+    },
+    {
+      "id": "615060cf8839e497",
+      "title": "第八次全国科技援疆工作会议召开",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsX0YzV0pKUUV6dU1FWlNTTjNiY1I5VmlaTjQxVmFZQ3FNME03N2Zjd3lKQ0o3QTFYcGhiV1hmX3ZDR0s3UTFybndrLUd1RFBNOTdocVpMY3NON3FKLW9pR0p5V2cxcGdkdmx5NUl4SUVEZw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-12T01:40:19.000Z",
+      "excerpt": "第八次全国科技援疆工作会议召开 西藏自治区科学技术厅",
+      "section": "cn-life",
+      "rankScore": 0.559366
+    },
+    {
+      "id": "2f44dbda29323d2b",
+      "title": "食品安全法大修！直面痛点，守护“舌尖上的安全” - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0Q0WWpNcDYwOGdpMld2dW1YclppS3ZWdk4zZHlPajdQVVpBZUpKVVRnaHZNSGllaXp5S0R3cnNVQTRFd1ZNSWtlZWpVYUh6VlEyaElERTB6R1NPZHJMYU81TjEyX1NVLXVnWmZyY0RBd3RTeWVtbDdveXgzYnRCaHh1VE96cENWT180T2FKQQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-12T01:00:00.000Z",
+      "excerpt": "食品安全法大修！直面痛点，守护“舌尖上的安全” 21财经",
+      "section": "cn-life",
+      "rankScore": 0.481606
+    },
+    {
+      "id": "d811169743004245",
+      "title": "氧化缺乏与氧化应激的自身免疫时间框架：从生理性活性氧信号不足到病理性氧化损伤的交互",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pTHhUaFhRZlh0bzVxeDJ1b3gwTFVieHI5UGhXSDNsUXJBdFUySjJCc3hyWmUzdUxQaVVOT2lOYXhTSTdyQ1pZN3I5M2tJenhDVG4tSm1YUVV6cEhqV0EwREh5MldrQkdyYnZnVGRR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-12T00:50:46.000Z",
+      "excerpt": "氧化缺乏与氧化应激的自身免疫时间框架：从生理性活性氧信号不足到病理性氧化损伤的交互 生物通",
+      "section": "cn-life",
+      "rankScore": 0.47981
+    },
+    {
+      "id": "d7899f481272abf8",
+      "title": "近千师生金紫荆广场向国旗敬礼 教育局：继续携手各界推动国民教育",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iZWtkYlV0ODNNNElJcGRJTlRIeGF5dThkQlZjQXJldUNOUFNscUxieENoZjItZktiZXg4UlF5ak9HZ25KY2FNWDJMLURnVmZSSHdKRFRIa3l3Zm81cXF0eFpEWlYzUmExbzUyQjNZUHllUWo2NThydEJR?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-12T01:28:02.000Z",
+      "excerpt": "近千师生金紫荆广场向国旗敬礼 教育局：继续携手各界推动国民教育 国务院港澳事务办公室",
+      "section": "cn-life",
+      "rankScore": 0.417477
+    }
+  ],
+  "warnings": [
+    "source \"un-news-en\" failed: AbortError: This operation was aborted"
+  ]
+}
