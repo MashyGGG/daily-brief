@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-12",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-12T21:15:02.111Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "8b4c998ad5965b90",
+      "title": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-12T21:15:02.111Z",
+      "score": 705,
+      "excerpt": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "section": "tech",
+      "rankScore": 1.08
+    },
+    {
+      "id": "4dd8987a392a3fc6",
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "source": "hn-front",
+      "publishedAt": "2026-10-12T16:48:01.000Z",
+      "score": 432,
+      "author": "meetpateltech",
+      "excerpt": "432 points · 216 comments · https://news.ycombinator.com/item?id=50059115",
+      "section": "tech",
+      "rankScore": 0.964341
+    },
+    {
+      "id": "cd90ed2365b3abe9",
+      "title": "512 bytes at a time: reconstructing IBM i save-file checksums",
+      "url": "https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-12T18:12:46.000Z",
+      "author": "blog.silentsignal.eu via calvin",
+      "section": "tech",
+      "rankScore": 0.597875
+    },
+    {
+      "id": "b76da3395737373e",
+      "title": "How to Build Models Without Language, with Logical Intelligence",
+      "url": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-12T15:00:45.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Something unusual happened in a public Sudoku experiment early this year.",
+      "section": "tech",
+      "rankScore": 0.573946
+    },
+    {
+      "id": "064a024425e3529c",
+      "title": "Push attribution for commits in limited public preview",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-12T16:30:11.000Z",
+      "author": "Allison",
+      "excerpt": "GitHub now durably records the authenticated user who pushed each commit and surfaces that pusher identity in the UI and API alongside the existing author and committer fields. Commit author…",
+      "section": "tech",
+      "rankScore": 0.564356
+    },
+    {
+      "id": "65b6b541cc7a3d1c",
+      "title": "Spotify More Than Doubled Monthly Code Changes as AI Accelerated Development",
+      "url": "https://www.infoq.com/news/2026/10/spotify-ai-quality-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-12T13:57:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Spotify reports that AI-assisted development more than doubled monthly merged changes, prompting a review of quality and reliability controls across its engineering organization.",
+      "section": "tech",
+      "rankScore": 0.528268
+    },
+    {
+      "id": "12a39a25bd332b04",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-12T18:15:38.000Z",
+      "excerpt": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing…",
+      "section": "ai",
+      "rankScore": 0.737485
+    },
+    {
+      "id": "835fa2f30d530ee7",
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "source": "latent-space",
+      "publishedAt": "2026-10-12T18:18:17.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
+      "section": "ai",
+      "rankScore": 0.677416
+    },
+    {
+      "id": "0be8e19d19b5699e",
+      "title": "美国核反应堆开始整合 AI 助手",
+      "url": "https://www.solidot.org/story?sid=85592",
+      "source": "solidot",
+      "publishedAt": "2026-10-12T16:04:33.000Z",
+      "excerpt": "加州公司 Atomic Canyon 与核工业组织合作推出了针对核反应堆运营的 AI 助手 NIVA——代表 Nuclear Industry Virtual Assistant。该 AI 助手已进行试点，目前向美国全部 94 座核反应堆开放使用。另一家核能领域的 AI 初创公司 Nuclearn 表示其产品已服务于逾 65 家美国合作伙伴，其中包括传统核电站，也包括开发先进小型核反应堆的公司如 NuScale Power。Nuclearn 首席财务官兼联合创始人 Jerrold Vincent 指出，AI 是解决核工业最紧迫难题的理想工具。",
+      "section": "cn-tech",
+      "rankScore": 0.607365
+    },
+    {
+      "id": "b68c9d9aac0efcf9",
+      "title": "从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕",
+      "url": "https://www.infoq.cn/article/DpieQJ598YdxQC8Ymjso?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-12T17:19:27.000Z",
+      "author": "QCon全球软件开发大会",
+      "section": "cn-tech",
+      "rankScore": 0.587817
+    },
+    {
+      "id": "9a241a8aba6b5492",
+      "title": "让 AI 改自己看不懂的东西，真的心好累",
+      "url": "https://www.v2ex.com/t/1248137",
+      "source": "v2ex",
+      "publishedAt": "2026-10-12T08:27:25.000Z",
+      "score": 18,
+      "author": "SilenceLL",
+      "excerpt": "ai 改完 -> ai Review -> 有问题 -> 继续改，说是改好了 -> 再 Review -> 又有问题，卡死在这个循环了，搞了一下午，感觉心里好疲惫。 用的是 GPT-6.1-Sol Medium ，又慢，问题又多，真是绝绝子。",
+      "section": "cn-tech",
+      "rankScore": 0.544021
+    },
+    {
+      "id": "59efd1aeb8b584a9",
+      "title": "17 年谷歌老兵揭秘 Gemini 研发内幕：鼓励团队说出坏消息，产品不好就不发了",
+      "url": "https://www.36kr.com/p/4022497163448450",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-12T14:22:02.000Z",
+      "excerpt": "当 AI 模型每隔几个月就更新一轮，昨天还做不到的事情，今天可能已经能用一段提示词实现，产品团队该怎样规划未来？是紧盯模型榜单，追逐每一次能力升级，还是尽快做出原型，看看用户是否愿意留下来？更棘手的是，当做产品越来越容易，团队又该凭什么判断，哪些值得继续投入，哪些应该及时放弃？ 在这期 Lenny’s Podcast 中 ，谷歌 17 年老兵，负责 Google Labs、Gemini 应用和 AI Studio 的 Josh Woodward，分享了他对这些问题的观察。他的工作横跨两个差异很大的场景：一边是尚未证明需求、从零起步的实验项目，另一边是面向大规模用户的 AI 产品。",
+      "section": "cn-tech",
+      "rankScore": 0.452999
+    },
+    {
+      "id": "76a4af78c472ed4d",
+      "title": "分享一个超好用的AI 办公工具WorkBuddyWorkBuddy 是腾讯出品的AI 办公助手：150+ 专家协作",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sYjdUR3ZjYzRndUpnekZSb254V3otMlFkamRtTlNZaEtyS25FTTk5d091WWtBUHFueURBVHk5U0J1VWRBSWg4MXo1NTVqV3VQVWpJLQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-12T15:17:11.000Z",
+      "excerpt": "分享一个超好用的AI 办公工具WorkBuddyWorkBuddy 是腾讯出品的AI 办公助手：150+ 专家协作 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.370716
+    },
+    {
+      "id": "885b6c78a91003ba",
+      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-12T15:16:26.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem.",
+      "section": "security",
+      "rankScore": 0.529237
+    },
+    {
+      "id": "cf959e1ff7cfeb78",
+      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-12T11:21:48.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller.",
+      "section": "security",
+      "rankScore": 0.417507
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 42 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
