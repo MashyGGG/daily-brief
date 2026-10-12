@@ -1,0 +1,334 @@
+{
+  "date": "2026-10-12",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-12T20:15:24.785Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "10574e2dc566f653",
+      "title": "中美之间令人担忧的军备竞赛-人形战争机器人",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261012-%E4%B8%AD%E7%BE%8E%E4%B9%8B%E9%97%B4%E4%BB%A4%E4%BA%BA%E6%8B%85%E5%BF%A7%E7%9A%84%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B-%E4%BA%BA%E5%BD%A2%E6%88%98%E4%BA%89%E6%9C%BA%E5%99%A8%E4%BA%BA",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-12T19:08:26.000Z",
+      "author": "珍妮特",
+      "excerpt": "长期以来，人形机器人能够在战场上作战的概念一直只存在于科幻小说中，如今军方正在认真研究这一概念。以中国和美国为首的这场超级机器人战士研发竞赛正在加速进行。",
+      "section": "news",
+      "rankScore": 0.665651
+    },
+    {
+      "id": "714b09d1af270276",
+      "title": "非洲:马里首都前市长等多人受审",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261012-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E9%A9%AC%E9%87%8C%E9%A6%96%E9%83%BD%E5%89%8D%E5%B8%82%E9%95%BF%E7%AD%89%E5%A4%9A%E4%BA%BA%E5%8F%97%E5%AE%A1",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-12T18:57:43.000Z",
+      "author": "尼古拉",
+      "excerpt": "在非洲内陆国马里（le Mali），包括首都巴马科（Bamako）前市长及一名前省长在内的多人，因被控卷入莫迪博·凯塔国际机场（Aéroport International Modibo Keïta，即原巴马科-塞努国际机场 (Aéroport international de Bamako-Sénou）周边土地的大规模投机案，于2026年10月12日出庭受审。这是本台（法国国际广播电台 RFI）法语通讯员周一当天发自非洲大陆的最新实地消息之一。此案预计将至少审理三天，所有被告均称自己无辜。辩方律师否认相关指控。同一报道提到，相关指令据说出自马里的一名前总统。",
+      "section": "news",
+      "rankScore": 0.660156
+    },
+    {
+      "id": "10b8d337efc174a3",
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-12T18:31:32.000Z",
+      "excerpt": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "section": "news",
+      "rankScore": 0.582056
+    },
+    {
+      "id": "4e372590d3468bc6",
+      "title": "Australia politics live: Labor’s $630m funding boost for charities; Greens at odds about Ukraine weapons",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-12T20:03:59.000Z",
+      "author": "Guardian staff",
+      "excerpt": "Follow the day’s news live. Australia sending tanks, weapons, infantry and ammunition to Ukraine has put Greens politicians at odds. Sarah Hanson-Young on Monday said she supported giving Kyiv military aid if that’s what was needed, contradicting her party’s freshly minted leader David Shoebridge…",
+      "section": "news",
+      "rankScore": 0.555311
+    },
+    {
+      "id": "41eb2a1b4c89c500",
+      "title": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
+      "url": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-12T20:03:05.000Z",
+      "author": "Marc Santora and Steven Erlanger",
+      "excerpt": "With the Russians intensifying sabotage, arson and cyberattacks against European nations supporting Ukraine, NATO divulged a blueprint, in case of war, to deter the Kremlin.",
+      "section": "news",
+      "rankScore": 0.554942
+    },
+    {
+      "id": "f107816c07380105",
+      "title": "Elon Musk spends $366m to bolster Republican Party in US midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-12T19:48:21.000Z",
+      "excerpt": "The barrage of spending comes as Republicans fight to overcome Trump's slipping popularity and cost of living concerns.",
+      "section": "news",
+      "rankScore": 0.548897
+    },
+    {
+      "id": "426466cda2c1416b",
+      "title": "胡塞武裝空襲對華重要窗口利雅德機場 中東衝突又一危險時刻",
+      "url": "https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-12T11:06:34.000Z",
+      "excerpt": "胡塞武裝加強了對沙特阿拉伯領土的攻擊，儘管實體損害能夠迅速修復，但其穩定聲譽正遭受重創。",
+      "section": "news",
+      "rankScore": 0.502248
+    },
+    {
+      "id": "e156b9c6cb4f4d23",
+      "title": "Bosnia warns US of pro-Russia Serb enclave’s lobbying efforts",
+      "url": "https://www.ft.com/content/31b02094-19db-4764-b79f-0b0fcf902c63?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-12T19:46:58.000Z",
+      "excerpt": "Foreign minister expresses concern about public funds used for ‘political influence in the US’ on behalf of Moscow allies",
+      "section": "news",
+      "rankScore": 0.479788
+    },
+    {
+      "id": "05af6e2cef574769",
+      "title": "A Trump Loyalist, a Turkish Investor and a Battle for Wealth and Influence",
+      "url": "https://www.nytimes.com/2026/10/12/us/politics/a-trump-loyalist-a-turkish-investor-and-a-battle-for-wealth-and-influence.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-12T17:42:50.000Z",
+      "author": "Anatoly Kurmanaev and Tyler Pager",
+      "excerpt": "A Turkish businessman once allied with the Maduro regime has tied the knot with President Trump’s former personal lawyer, Alina Habba, at the same time he is seeking to retain a big contract in Venezuela.",
+      "section": "news",
+      "rankScore": 0.435228
+    },
+    {
+      "id": "177f43799498c4c9",
+      "title": "世卫组织大流行病中心设定目标：24小时内发现新发疫情",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142983",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "excerpt": "世界卫生组织周一表示，已为其大流行病和流行病情报中心启动新的五年战略：到2030年，每个国家都能在新发卫生威胁出现后24小时内将其发现并加以研判。世卫组织表示，加强快速检测是全球卫生安全的基石，有助于各国在疫情升级为更大规模流行病或向国际扩散之前将其遏制。",
+      "section": "news",
+      "rankScore": 0.401348
+    },
+    {
+      "id": "20e336adda3188dd",
+      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+      "source": "npr-news",
+      "publishedAt": "2026-10-12T11:29:56.000Z",
+      "author": "Brittney Melton",
+      "excerpt": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader.",
+      "section": "news",
+      "rankScore": 0.301366
+    },
+    {
+      "id": "47cff3035fc727b1",
+      "title": "UN aid operation underway in Nepal following fresh floods",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168576",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "excerpt": "The United Nations has rushed to assist Nepal following new flash floods in the central Gorkha district on Sunday that swept away homes and bridges just weeks after catastrophic flooding in the north.",
+      "section": "news",
+      "rankScore": 0.267565
+    },
+    {
+      "id": "88fbd27e0f6b348c",
+      "title": "王毅与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712340.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-12T15:14:25.000Z",
+      "excerpt": "中新社北京10月12日电 10月12日，中共中央政治局委员、中央外办主任王毅在北京与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤。",
+      "section": "cn-news",
+      "rankScore": 0.600207
+    },
+    {
+      "id": "fa5b30f99608c44f",
+      "title": "赵乐际同越南国会主席陈青敏会谈并共同主持中越立法机构联合委员会第二次会议",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712330.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-12T14:22:24.000Z",
+      "excerpt": "中新社北京10月12日电 全国人大常委会委员长赵乐际12日在北京人民大会堂同越南国会主席陈青敏举行会谈，并共同主持中越立法机构联合委员会第二次会议。",
+      "section": "cn-news",
+      "rankScore": 0.570864
+    },
+    {
+      "id": "5e7a5cdddb50e81a",
+      "title": "李强同新西兰总理拉克森通电话",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712316.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-12T13:48:14.000Z",
+      "excerpt": "中新社北京10月12日电 中国国务院总理李强10月12日下午应约同新西兰总理拉克森通电话。",
+      "section": "cn-news",
+      "rankScore": 0.551591
+    },
+    {
+      "id": "62123ff66ee0bf46",
+      "title": "北京接诉即办改革论坛开幕 70余国嘉宾共探城市治理路径",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712285.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-12T13:35:21.000Z",
+      "excerpt": "中新社北京10月12日电 (记者 徐婧)2026北京接诉即办改革论坛12日开幕。本届论坛吸引超过3200名嘉宾参会，包括来自70余个国家的240余名国际嘉宾。与往届相比嘉宾规模更大、规格更高，论坛国际化专业性更强。",
+      "section": "cn-news",
+      "rankScore": 0.544323
+    },
+    {
+      "id": "4e6cc7c1ed5b753d",
+      "title": "上海举办专题学术报告会 解码长征中四路红军缘何殊途同归",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712293.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-12T13:35:11.000Z",
+      "excerpt": "中新网上海10月12日电(范宇斌)2026年是中国工农红军长征胜利90周年。近日，上海市统一战线理论研究会、上海市社会主义学院联合主办纪念红军长征胜利90周年专题学术报告会，特邀原中央党史研究室主任、中央组织部原副部长欧阳淞作题为《长征中四路红军殊途同归的历史考察与当代启示》的专题报告。",
+      "section": "cn-news",
+      "rankScore": 0.544229
+    },
+    {
+      "id": "39e4f9d21b7b55ac",
+      "title": "雪域欢歌响彻全国 西藏队斩获中国农民丰收节村歌大赛一等奖",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10712304.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-12T13:34:59.000Z",
+      "excerpt": "中新网拉萨10月12日电(白玛玉珍)2026中国农民丰收节村歌大赛全国总决赛10月10日在宁夏永宁县闽宁镇落下帷幕。由西藏自治区农业农村厅和自治区农牧民体协推荐，山南市加查县安绕镇拉岗村表演的原创民俗歌舞《望果欢歌》，从全国众多优秀队伍中脱颖而出，斩获全国总决赛一等奖。",
+      "section": "cn-news",
+      "rankScore": 0.544117
+    },
+    {
+      "id": "fd66b4bb9fc4dc79",
+      "title": "税务部门曝光5起涉税中介违规帮助他人偷逃税案件",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712214.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-12T11:28:06.000Z",
+      "excerpt": "中新网10月12日电 据国家税务总局网站消息，10月12日，安徽、贵州、广西、浙江、山东等地税务部门依法查处并曝光5起涉税中介违规帮助他人偷逃税案件。",
+      "section": "cn-news",
+      "rankScore": 0.5155
+    },
+    {
+      "id": "2cc5b2672fa0f42a",
+      "title": "世界最大室外冰雪主题乐园今冬规划园区面积规模创新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712339.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-12T15:31:03.000Z",
+      "excerpt": "中新社广州10月12日电 哈尔滨冰雪大世界12日公布2026年—2027年冰雪季新规划，园区面积扩至125万平方米，创下历届规模新高。全园将打造超千座冰雪建筑，并应广大游客需求，新增一组超长冰滑梯。",
+      "section": "cn-news",
+      "rankScore": 0.498756
+    },
+    {
+      "id": "9b4e2526da026ed1",
+      "title": "李強通話紐西蘭總理 稱希望加快自貿協定談判",
+      "url": "https://www.cna.com.tw/news/acn/202610120298.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-12T14:10:54.000Z",
+      "excerpt": "（中央社台北12日電）中國國務院總理李強今天下午與紐西蘭總理盧克森（Christopher Luxon）通話。李強表示，希望雙方加快推進中紐自貿協定服務貿易負面清單談判，雙方並同意在新能源等領域拓展合作。",
+      "section": "cn-news",
+      "rankScore": 0.410456
+    },
+    {
+      "id": "76c534ef729a2985",
+      "title": "Why China is likely to be cautious about recent Trump-Putin diesel deal",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3370620/why-china-likely-be-cautious-about-recent-trump-putin-diesel-deal?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-12T14:00:06.000Z",
+      "author": "Dewey Sim,Alyssa Chen",
+      "excerpt": "China is likely to view the latest US dealings with Russia as “transactional”, according to observers, who said Beijing was likely to wait and see what the longer-term impact would be given the possibility that Donald Trump might abruptly change course again.",
+      "section": "cn-news",
+      "rankScore": 0.355272
+    },
+    {
+      "id": "731219b912379344",
+      "title": "中外专家考察平陆运河 探访工程建设经验",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712333.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-12T15:06:56.000Z",
+      "excerpt": "中新社广西钦州10月12日电 (陈秋霞)参加第37届世界运河大会的中外嘉宾12日赴中国西部陆海新通道骨干工程平陆运河考察。内河航道国际组织(IWI)主席莎伦·莱顿表示，中国人把从漫长历史里学到的治水智慧，运用到了平陆运河项目当中。",
+      "section": "cn-life",
+      "rankScore": 0.650166
+    },
+    {
+      "id": "9470a9a9da3d186d",
+      "title": "北京提升社区公共空间品质 鼓励住宅“推窗见绿”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712328.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-12T14:06:43.000Z",
+      "excerpt": "中新社北京10月12日电 (记者 陈杭)北京市规划和自然资源委员会12日发布的《关于本市住宅公共空间品质提升的意见(试行)》提出，北京鼓励采用下沉庭院、立体绿化等方式开展景观设计，鼓励采用屋顶绿化、垂直绿化等方式，增加社区绿色空间，做到“推窗见绿”。",
+      "section": "cn-life",
+      "rankScore": 0.61311
+    },
+    {
+      "id": "d81fc9d256fad692",
+      "title": "广西持续强化食品安全全链条监管 广泛动员民众参与监督",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712317.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-12T13:44:58.000Z",
+      "excerpt": "中新网南宁10月12日电 (韦佳秀 胥雅婷)10月12日，广西壮族自治区副主席曹志强在百色市宣布2026年全国食品安全宣传周广西主场活动正式启动。",
+      "section": "cn-life",
+      "rankScore": 0.599725
+    },
+    {
+      "id": "c0b6e7de748d613f",
+      "title": "余电不再“远走” 浙江温岭绿电就近消纳助力企业出口",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712313.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-12T13:42:56.000Z",
+      "excerpt": "中新网台州10月12日电(周健 赵碧莹)一度绿电，如何从园区光伏企业的屋顶，直达园区用能企业的车间？",
+      "section": "cn-life",
+      "rankScore": 0.598474
+    },
+    {
+      "id": "29a4d800921b3c11",
+      "title": "浙江鄞州“商聚四海”：海内外鄞商的家乡情",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712309.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-12T13:42:12.000Z",
+      "excerpt": "中新网宁波10月12日电 题：浙江鄞州“商聚四海”：海内外鄞商的家乡情",
+      "section": "cn-life",
+      "rankScore": 0.598023
+    },
+    {
+      "id": "d9933f9ed775b276",
+      "title": "湖南湘江新区非遗出海观察：湘绣出海，不只挂在墙上",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712308.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-12T13:42:10.000Z",
+      "excerpt": "中新网长沙10月12日电 (胡语桐)2026年3月，纽约联合国总部相关展厅，湘绣国家级非遗代表性传承人江再红把绣绷支了起来。丝线细如发丝，在她指间上下穿梭，围观的国际友人蹲下身，从绷架底下往上探，想看清那双翻飞的手在变什么戏法。她带去30余件作品。《千里江山图》长卷前有人驻足，但更令她欣慰的是，手帕、围巾、绣花扇、绣花鞋等日用品展台前，人流始终不断。",
+      "section": "cn-life",
+      "rankScore": 0.598002
+    },
+    {
+      "id": "13bd17b27d487e23",
+      "title": "利斯特谈如何获得诺奖：追寻热爱、尝试不同、目标远大",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712296.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-12T13:38:27.000Z",
+      "excerpt": "中新网上海10月12日电 (记者 陈静)“尽管我无法提供一个获得诺贝尔奖的完整‘配方’，但我会告诉大家，想要赢取诺贝尔奖，需要做到什么。”2021年诺贝尔化学奖得主、德国马克斯·普朗克煤炭研究所主任本亚明·利斯特(Benjamin List)12日在上海演讲时给出答案：追寻热爱、尝试不同、目标远大。",
+      "section": "cn-life",
+      "rankScore": 0.595715
+    },
+    {
+      "id": "45f370ab3e0a7638",
+      "title": "黑龙江南下广州推介冰雪旅游 发冬游龙江邀约",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-12/10712282.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-12T13:35:27.000Z",
+      "excerpt": "中新网广州10月12日电 (记者 程景伟)“冰雪之冠 龙江有约”黑龙江省冰雪旅游发展促进会2026-2027冰雪季推介会暨启动仪式12日在广州举行。",
+      "section": "cn-life",
+      "rankScore": 0.593869
+    }
+  ],
+  "warnings": [
+    "source \"gn-world-zh\" failed: Error: HTTP 503",
+    "source \"jiemian\" failed: Error: HTTP 503",
+    "source \"thepaper\" failed: Error: HTTP 503",
+    "source \"gn-nation-zh\" failed: Error: HTTP 503",
+    "source \"gn-business-zh\" failed: Error: HTTP 503",
+    "source \"gnews-cn\" failed: Error: HTTP 503",
+    "source \"gn-minsheng\" failed: Error: HTTP 503",
+    "source \"gn-disaster\" failed: Error: HTTP 503",
+    "source \"gn-govcn\" failed: Error: HTTP 503",
+    "source \"gn-health-zh\" failed: Error: HTTP 503",
+    "source \"gn-food\" failed: Error: HTTP 503",
+    "source \"gn-edu\" failed: Error: HTTP 503",
+    "source \"gn-science-zh\" failed: Error: HTTP 503"
+  ]
+}
