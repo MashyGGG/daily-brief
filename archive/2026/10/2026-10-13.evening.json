@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-13",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-13T19:13:39.553Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "6e41ee48004735c6",
+      "title": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-13T19:13:39.553Z",
+      "score": 2277,
+      "excerpt": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "section": "tech",
+      "rankScore": 1.02
+    },
+    {
+      "id": "9f54e56bda356872",
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-13T13:02:12.000Z",
+      "score": 520,
+      "author": "etothet",
+      "excerpt": "520 points · 631 comments · https://news.ycombinator.com/item?id=50071017",
+      "section": "tech",
+      "rankScore": 0.889556
+    },
+    {
+      "id": "d2864d424a6e1c37",
+      "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+      "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-13T19:13:39.553Z",
+      "excerpt": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source Python Agent Development Kit (ADK).",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "5fd93bfcddd34047",
+      "title": "Data-oriented Design for Mortals",
+      "url": "https://www.youtube.com/watch?v=uI1Yx1CJAB0",
+      "source": "lobsters",
+      "publishedAt": "2026-10-13T18:54:29.000Z",
+      "author": "youtube.com via rcalixte",
+      "section": "tech",
+      "rankScore": 0.673597
+    },
+    {
+      "id": "438b266cae868c33",
+      "title": "Audit GitHub Code Quality finding dismissals and reopenings",
+      "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-13T17:58:36.000Z",
+      "author": "Allison",
+      "excerpt": "You can now review manual dismissals and reopenings of GitHub Code Quality findings in your organization or enterprise audit log. Findings may appear in either your repository’s default-branch backlog or…",
+      "section": "tech",
+      "rankScore": 0.664258
+    },
+    {
+      "id": "560316d6803451b7",
+      "title": "The Craft of Practitioner Voice",
+      "url": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
+      "source": "martinfowler",
+      "publishedAt": "2026-10-13T14:06:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "A couple of months ago Jim Highsmith explained how practitioners writing for each other forms a distinct style of writing. He now adds a section to the article with more detail on the craft of how we write in this style.",
+      "section": "tech",
+      "rankScore": 0.664195
+    },
+    {
+      "id": "52b7fe0729873bfd",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "huggingface",
+      "publishedAt": "2026-10-13T17:05:48.000Z",
+      "section": "ai",
+      "rankScore": 0.719004
+    },
+    {
+      "id": "d9e05362d00e7244",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "openai",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "excerpt": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "section": "ai",
+      "rankScore": 0.61687
+    },
+    {
+      "id": "a5d6b2e99568bf7d",
+      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "source": "latent-space",
+      "publishedAt": "2026-10-13T09:37:04.000Z",
+      "excerpt": "MSL’s emergence as a frontier lab is finally complete.",
+      "section": "ai",
+      "rankScore": 0.467975
+    },
+    {
+      "id": "46a6caf1b666ef4b",
+      "title": "8 月 1 号到现在，我完成了接近 2000 个开发任务，放到以前简直不敢想象",
+      "url": "https://www.v2ex.com/t/1248529",
+      "source": "v2ex",
+      "publishedAt": "2026-10-13T14:09:14.000Z",
+      "score": 15,
+      "author": "dualface",
+      "excerpt": "虽然我从 25 年就开始一直用 AI 辅助编程了，但真正完全让 AI 写代码，大概是从今年 3 月开始。 从 3 月到现在，我做了 [QuickTUI]( https://quicktui.ai ) 这个项目，提交了 2 万次，发了 350 多个 iOS TestFlight 版本，代码累计超过 120 万行。。。跨越 Go/Rust/Swift/Kotilin 等等。 期间还给公司搞了两个十几万行的 Go 项目，其中一个用户量都接近 9KW 了。 最初 AI 写的代码还是自己 Review ，后来干脆让 AI Review 。",
+      "section": "cn-tech",
+      "rankScore": 0.742532
+    },
+    {
+      "id": "c3c2ccb8aa342bac",
+      "title": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+      "url": "https://www.infoq.cn/article/2QXm6PqYYX57AOxTYyO0?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-13T18:32:43.000Z",
+      "author": "褚杏娟",
+      "section": "cn-tech",
+      "rankScore": 0.680504
+    },
+    {
+      "id": "064956412f268918",
+      "title": "蜜蜂的螫针如何泵送毒液",
+      "url": "https://www.solidot.org/story?sid=85603",
+      "source": "solidot",
+      "publishedAt": "2026-10-13T15:25:58.000Z",
+      "excerpt": "众所周知，工蜂蜇人之后会将螫针留在皮肤上自己飞走，而螫针会自行穿透皮肤组织泵送毒液。发表在 PNAS 期刊上的一项研究利用高速摄像技术揭示了蜜蜂螫针如何泵送毒液的过程。工蜂留下螫针的现象被称为自切（autotomy），自然界里相当罕见。螫针由三个互锁部件组成，共同构成了排毒管：一个向外扩展形成主泵室的管心针（stylet），以及两根尖锐的、可前后滑动的刺针（lancets），它们刺入组织并将毒液注入目标。研究人员利用镊子取下活工蜂的螫针，将其插入人工凝胶块，利用体视显微镜和高速彩色摄像技术捕捉了排毒动作。视频显示，连接在每根刺针上的瓣膜在前后滑动泵送时会改变形状。",
+      "section": "cn-tech",
+      "rankScore": 0.650732
+    },
+    {
+      "id": "36fac8e4253ae630",
+      "title": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态",
+      "url": "https://www.36kr.com/p/4024176632713350",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-13T13:18:12.000Z",
+      "author": "碧根果",
+      "excerpt": "Personal Agent正在成为AI行业的新主线。 海外市场上，Google推出可以在后台持续工作的Gemini Spark，Meta发布面向普通用户的个人智能体Muse，OpenAI也用常驻型智能体Dots进入竞争。 资本同样开始重注这一赛道：个人AI助手公司Town完成5500万美元A轮融资，主打通用个人AI入口的Hark获得7亿美元融资，AI助手Instinct也被曝以25亿美元估值融资2.5亿美元。 大厂密集入场与高额融资同时出现，意味着行业争夺的已经不只是聊天工具，而是能够长期理解用户、连接个人数据并代为完成任务的下一代个人入口。 国内市场的动作同样密集。",
+      "section": "cn-tech",
+      "rankScore": 0.47766
+    },
+    {
+      "id": "d3e2b5354d61b22f",
+      "title": "拾趣 Magpie：macOS 划词 AI 工具",
+      "url": "https://www.oschina.net/news/503004",
+      "source": "oschina",
+      "publishedAt": "2026-10-13T11:31:28.000Z",
+      "excerpt": "macOS 划词 AI 工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现；复制、搜索、写入 Obsidian、预填日历，结果直接落地。图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，无需迁入对话窗口。 https://gitee.com/anziguoer/Magpie https://github.com/demo007x/Magpie...",
+      "section": "cn-tech",
+      "rankScore": 0.431917
+    },
+    {
+      "id": "58847419bbd708d8",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-13T18:20:57.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.",
+      "section": "security",
+      "rankScore": 0.6749
+    },
+    {
+      "id": "257892cbca8bae7e",
+      "title": "Swann Communications SWIFI-SE2KIC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-02",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to view video information without authentication. The following versions of Swann Communications SWIFI-SE2KIC are affected: SWIFI-SE2KIC firmware <=2.0.22 (CVE-2026-107605, CVE-2026-107606, CVE-2026-107607)…",
+      "section": "security",
+      "rankScore": 0.493496
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 43 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
