@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-13",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-13T02:59:55.844Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "c1fe6a7bbb646b68",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "source": "hn-front",
+      "publishedAt": "2026-10-12T18:29:04.000Z",
+      "score": 484,
+      "author": "whimblepop",
+      "excerpt": "484 points · 245 comments · https://news.ycombinator.com/item?id=50060694",
+      "section": "tech",
+      "rankScore": 0.986512
+    },
+    {
+      "id": "01058df4f7c736b1",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-13T02:59:55.844Z",
+      "score": 157,
+      "excerpt": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "section": "tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "d5cbb0831b865260",
+      "title": "Vi Hart's Big Navier-Stokes Post",
+      "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
+      "source": "lobsters",
+      "publishedAt": "2026-10-13T01:29:49.000Z",
+      "author": "patreon.com via archagon",
+      "section": "tech",
+      "rankScore": 0.658094
+    },
+    {
+      "id": "4665560df6bdea15",
+      "title": "Podcast: What Does It Really Mean To Program With AI: A Conversation with Joy Ebertz",
+      "url": "https://www.infoq.com/podcasts/what-really-mean-program-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-12T11:00:00.000Z",
+      "author": "Joy Ebertz",
+      "excerpt": "In this podcast, Michael Stiefel spoke to Joy Ebertz about how the use of artificial intelligence is changing the way architects and developers do their jobs. Focusing on the long term success of the business is one of the most neglected tasks of an architect.",
+      "section": "tech",
+      "rankScore": 0.465854
+    },
+    {
+      "id": "8d05f3f5ef9f543a",
+      "title": "Beyond the AI noise: How Stack Overflow is rethinking tech hiring",
+      "url": "https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-10-12T14:00:00.000Z",
+      "author": "Tom Harvey",
+      "excerpt": "It’s gotten exponentially harder to identify talent that we feel is a good fit for our teams at the top of the application funnel.",
+      "section": "tech",
+      "rankScore": 0.459185
+    },
+    {
+      "id": "bae89228e5bcbe56",
+      "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+      "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+      "source": "ars-technica",
+      "publishedAt": "2026-10-12T21:54:35.000Z",
+      "author": "Beth Mole",
+      "excerpt": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
+      "section": "tech",
+      "rankScore": 0.430627
+    },
+    {
+      "id": "bb3e0dcb8051ac4a",
+      "title": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-12T15:54:36.000Z",
+      "excerpt": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself.",
+      "section": "ai",
+      "rankScore": 0.618223
+    },
+    {
+      "id": "500fcd4681836bcf",
+      "title": "datasette-ports 0.4",
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-12T04:57:07.000Z",
+      "excerpt": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler . Tags: datasette",
+      "section": "ai",
+      "rankScore": 0.399062
+    },
+    {
+      "id": "fbe75ba2ff7ceb16",
+      "title": "现在 AI 是不是逐渐能取代很多高水平程序员了",
+      "url": "https://www.v2ex.com/t/1248259",
+      "source": "v2ex",
+      "publishedAt": "2026-10-13T00:35:14.000Z",
+      "score": 50,
+      "author": "sunxfancy",
+      "excerpt": "一句话，codex 帮我把光追加入到了我正在开发的游戏引擎中，感觉我已经不用干啥了。 这在以前好像是很难想象的。 目标是给 vulkan 渲染器加上光追，但一次就写对，并完美整合到现有代码中，这种能力其实已经说明了 AI 对很多代码的理解度不再比人类差了。下面是我发的视频，大伙可以看下效果： [我只说了“要有光”，codex 就帮我加好了光追] https://www.bilibili.com/video/BV1sHpX6EEci/?share_source=copy_web&vd_source=dc379818946312063729495537a1e411 P.S 我正在设计适合 AI…",
+      "section": "cn-tech",
+      "rankScore": 0.836826
+    },
+    {
+      "id": "ae21a24cdb137ed6",
+      "title": "TikTok CEO 周受资的新判断：AI 将在三年内改写科学，字节的筹码是什么",
+      "url": "https://www.36kr.com/p/4022968162195079",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-13T02:59:44.000Z",
+      "author": "Tech商业",
+      "excerpt": "周受资很少在公开场合专门聊科学。 10 月 12 日，新加坡星展银行首届亚洲未来前瞻论坛上，TikTok CEO 穿着一件深色西装走上台，和星展集团零售银行主管许志坤做了一场对谈，主题叫“在 AI 时代释放人类潜能”。 他没有聊短视频，没有聊电商，没有聊地缘政治。他说的是物理学、生物技术、化学和材料科学。 “未来两到三年，我们将在这些领域取得真正的科学突破，而这一切都将得益于 AI。这非常、非常、非常有可能。” 这不是一个随口说说的预测。周受资是字节跳动出身的人，他说的每一句话，大概率都能在字节跳动过去两年的组织架构和资金流向里找到对应物。",
+      "section": "cn-tech",
+      "rankScore": 0.629951
+    },
+    {
+      "id": "c4d2045d2a7f4f54",
+      "title": "AI 让代码量涨了 30%，软件产出却纹丝不动 —— 瓶颈卡在人类 code review",
+      "url": "https://www.oschina.net/news/502990/ai-coding-agents-generate-more-code-but-not-more-software",
+      "source": "oschina",
+      "publishedAt": "2026-10-13T02:57:47.000Z",
+      "excerpt": "让 AI 写代码，公司真的产出了更多软件吗？一份对超 700 家公司真实工程数据的分析给出了一个反直觉的答案：代码是多了，软件没多。哈佛的两位学者 Fiona Chen 和 James Stratton 用 Jellyfish 的工程团队聚合数据做研究，覆盖 3 亿个独立工作事件（commit、PR 等）、超过 70 万名员工的记录、700 多家软件公司，时间从 ...",
+      "section": "cn-tech",
+      "rankScore": 0.629463
+    },
+    {
+      "id": "4fef2e030bbec4b3",
+      "title": "亚马逊放弃 Fire 品牌改为推出 Alexa 平板",
+      "url": "https://www.solidot.org/story?sid=85591",
+      "source": "solidot",
+      "publishedAt": "2026-10-12T15:22:12.000Z",
+      "excerpt": "亚马逊最近更新了一系列自有品牌产品线，其中自有品牌平板产品发生了重大变化。过去 15 年亚马逊一直销售 Fire 平板电脑，如今 Fire 品牌名被放弃，亚马逊改为推出 Alexa 平板，而且运行的是经过 Google 认证的 Android 操作系统。以前 Fire 平板运行的 Fire OS 是亚马逊定制的 Android 版本，亚马逊还提供了自己的应用商店，如今应用商店已经关闭，Alexa 平板运行的是完全 Google 化的 Android 操作系统，以及 Google Play 商店和其它常规应用。",
+      "section": "cn-tech",
+      "rankScore": 0.556804
+    },
+    {
+      "id": "937e548baf94cb14",
+      "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
+      "url": "https://sspai.com/post/116033",
+      "source": "sspai",
+      "publishedAt": "2026-10-13T00:01:49.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互 ...",
+      "section": "cn-tech",
+      "rankScore": 0.520419
+    },
+    {
+      "id": "d4f3bfc790c1cea8",
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-12T10:36:56.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.",
+      "section": "security",
+      "rankScore": 0.426945
+    },
+    {
+      "id": "3c8884358b63c2c1",
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-12T09:02:14.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.",
+      "section": "security",
+      "rankScore": 0.40064
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 42 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
