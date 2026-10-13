@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-13",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-13T03:08:59.484Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "1c28d96d98b2a18a",
+      "title": "廣州開發電玩遊戲「喚醒」威爾士民間傳說潛力",
+      "url": "https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-13T00:12:26.000Z",
+      "excerpt": "開發商廣州深藍互動表示，威爾斯神話與該遊戲的主題產生了強烈共鳴。",
+      "section": "news",
+      "rankScore": 0.781147
+    },
+    {
+      "id": "312e4182d8d9a761",
+      "title": "欧洲为何对中国电动汽车爱恨交加",
+      "url": "https://cn.nytimes.com/business/20261013/europe-china-evs-hybrids/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-13T02:05:52.000Z",
+      "author": "JAMES PATON",
+      "excerpt": "在欧洲各国，消费者越来越希望购买价格低廉的中国电动汽车。但政策制定者正试图阻止这股潮流，以缓解欧洲汽车制造商的困境，保护产业免受不公平竞争的影响。 Owen Richards for The New York Times 位于英国利兹的一家比亚迪展厅。在欧洲售出的汽车中，大约每10辆就有一辆是中国汽车。",
+      "section": "news",
+      "rankScore": 0.750712
+    },
+    {
+      "id": "0422ab8fe94dac6c",
+      "title": "特朗普送大礼普京也意外？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261012-%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E5%A4%A7%E7%A4%BC%E6%99%AE%E4%BA%AC%E4%B9%9F%E6%84%8F%E5%A4%96",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-12T22:34:01.000Z",
+      "author": "安德烈",
+      "excerpt": "特朗普宣布俄乌能源停火不到几小时，乌克兰总统泽连斯基周一表示，尽管周日夜晚至周一，乌克兰未对俄罗斯能源设施发起任何攻击，俄罗斯至少攻击六处乌克兰能源目标，这足以证明莫斯科对特朗普宣布的能源停火毫无兴趣。泽连斯基明确表示，如果俄罗斯不立即停止攻击乌克兰能源网络，基辅不会坐以待毙。",
+      "section": "news",
+      "rankScore": 0.623618
+    },
+    {
+      "id": "62e05eecbe9cf9db",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-13T01:26:02.000Z",
+      "excerpt": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "section": "news",
+      "rankScore": 0.60426
+    },
+    {
+      "id": "392ecd70673f68a4",
+      "title": "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels",
+      "url": "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-13T03:03:48.000Z",
+      "author": "Guardian staff and agencies",
+      "excerpt": "National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rate Heavy rainfall fuelled by a supersized El Niño weather pattern briefly forced Argentinian authorities to close tourist access to the famed…",
+      "section": "news",
+      "rankScore": 0.558846
+    },
+    {
+      "id": "4581e53099411ea0",
+      "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+      "url": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-13T01:46:25.000Z",
+      "excerpt": "The Tigray conflict puts the UAE’s backing of Ethiopia and Saudi Arabia’s diplomatic role under scrutiny.",
+      "section": "news",
+      "rankScore": 0.54165
+    },
+    {
+      "id": "29ffd8f1534cceb8",
+      "title": "Dozens Killed in Airstrikes Near Sudan-Egypt Border",
+      "url": "https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-12T21:49:59.000Z",
+      "author": "Abdalrahman Altayeb, Declan Walsh and Malachy Browne",
+      "excerpt": "The attacks occurred at a remote gold mine hundreds of miles from the front lines of Sudan’s devastating civil war. Videos showed what appeared to be Egyptian munitions.",
+      "section": "news",
+      "rankScore": 0.489109
+    },
+    {
+      "id": "f8f4288e2984ad3b",
+      "title": "Chip stocks slide as fears mount over scale of AI investment",
+      "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-13T02:58:54.000Z",
+      "excerpt": "‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul",
+      "section": "news",
+      "rankScore": 0.488038
+    },
+    {
+      "id": "e77a8953266560f1",
+      "title": "I.M.F. Warns Mideast War Will Widen Gap Between Rich and Poor Countries",
+      "url": "https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-13T02:58:49.000Z",
+      "author": "Patricia Cohen",
+      "excerpt": "Persistent conflicts, high energy costs and technological upheavals will slow global growth and raise prices, the organization forecast.",
+      "section": "news",
+      "rankScore": 0.488022
+    },
+    {
+      "id": "3517c22d9fb8c27a",
+      "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+      "source": "npr-news",
+      "publishedAt": "2026-10-12T22:17:43.000Z",
+      "author": "Brian Mann",
+      "excerpt": "Katie Zacharia worked for one of Trump's companies and raised her profile appearing on conservative-leaning talk shows. She also amplified right-wing conspiracy theories. Now she'll be the president's chief spokesperson.",
+      "section": "news",
+      "rankScore": 0.433363
+    },
+    {
+      "id": "f7367d5122138104",
+      "title": "胡塞武装警告美国勿侵略",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrYy1XRnFYcjZORU5nUU03VWV2ZHFPX0MwVl9vbEkyRS1GaHgxcExjNHJoUXo2dzdwLTVpeHVPNzA2cHVzdkRoUE4xZ21qNlVkUTUyajR0WERKSDJtdnREYjJiQ1NBQQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-13T02:03:39.000Z",
+      "excerpt": "胡塞武装警告美国勿侵略 东方财富 美国为何突然松口了？背后有哪些考量？ 中华网 美国考虑开辟也门新战线，胡塞或威胁沙特旅游业 Jiemian.com 胡塞武装警告若美国介入冲突 将面临“沉重打击” 联合早报 “青年运动”警告：美国若介入也门战争 将遭到“痛苦的回应” 诗华日报",
+      "section": "news",
+      "rankScore": 0.40911
+    },
+    {
+      "id": "2cf2e3c7a1b5ce2b",
+      "title": "开发署：全球多维贫困自2010年以来首次上升",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142984",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "excerpt": "根据联合国开发计划署与牛津大学牛津贫困与人类发展倡议联合发布的《2026年全球多维贫困指数更新报告》，全球生活在多维贫困中的人口数量自2010年该指数设立以来首次上升，达12亿，较上一次更新增加5150万人。",
+      "section": "news",
+      "rankScore": 0.402752
+    },
+    {
+      "id": "72e278e278e69b3e",
+      "title": "第十六届中国航展将于12月7日至13日举办 展览规模再创新高",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713562.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-13T02:11:31.000Z",
+      "excerpt": "10月13日，第十六届中国国际航空航天博览会新闻发布会在北京举行，集中介绍本届航展筹备进展和参展亮点。",
+      "section": "cn-news",
+      "rankScore": 0.820842
+    },
+    {
+      "id": "08e84562940c7a13",
+      "title": "全国大遗址工作会召开 大地上的遗产迎来更严保护",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713588.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-13T02:57:53.000Z",
+      "excerpt": "10月13日，全国大遗址工作会在河南郑州召开。会议总结“十四五”期间大遗址工作成绩，部署“十五五”重点任务。",
+      "section": "cn-news",
+      "rankScore": 0.766606
+    },
+    {
+      "id": "d64c26019a56d5bd",
+      "title": "大商所：期货价格已纳入长协煤钢联动浮动值计算，并成为部分煤炭龙头企业的定价参考",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82Y25fakNyd2pjRDlxQlMzQmtuQ1RFZndsRUY0dmh3SEhKWkNBbEw3WUZYYU1rZEVaSEo1YmNVOUFrNy1yT2RZeEdlWWJSVm9veUIzeURxMW8?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-13T02:56:14.000Z",
+      "excerpt": "大商所：期货价格已纳入长协煤钢联动浮动值计算，并成为部分煤炭龙头企业的定价参考 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.62681
+    },
+    {
+      "id": "dc7e09d1296718b9",
+      "title": "为人民币汇率发声 央行首次系统阐明政策立场",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713581.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-13T02:46:16.000Z",
+      "excerpt": "10月8日，《中国人民银行关于人民币汇率的政策立场》(以下简称《立场》)发布，强调中国实施以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，坚持让市场在汇率形成中发挥决定性作用。这是央行首次系统阐明人民币汇率的政策立场。",
+      "section": "cn-news",
+      "rankScore": 0.624319
+    },
+    {
+      "id": "d86df87b640b81d9",
+      "title": "西宁市出台居家养老服务工作指引",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SYkhhTW9lWjFwZ2JYUkZfVkotVVhfeWdJenJaSlFDcUFwV2paZEdsVVgzZzM0SjZFa0gxWThtc3NoNUhQOVJpbmk5VUNSNjNWR05BMXp6bVFoSzA1MkE?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-13T01:55:00.000Z",
+      "excerpt": "西宁市出台居家养老服务工作指引",
+      "section": "cn-news",
+      "rankScore": 0.611502
+    },
+    {
+      "id": "52898f69a1319b6b",
+      "title": "【答卷】天津电视台《天津新闻》：天津大学坚持“四个面向” 深耕基础研究",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0ZEl4b2lMeDZMdHBfVzZERFRaTVIwbnBFZUZ5VkFFXy14d2NMbEdPZHprSk5uY09LQ0s2VzBvb3BOLW1pUVVyUGl6R3JGb3RFekhCZUcwQQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-13T02:47:36.000Z",
+      "excerpt": "【答卷】天津电视台《天津新闻》：天津大学坚持“四个面向” 深耕基础研究 天津大学新闻网",
+      "section": "cn-news",
+      "rankScore": 0.555246
+    },
+    {
+      "id": "0b1b22a15f9b5931",
+      "title": "沙特计划进一步提高东西输油管道输送能力",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uSF9EVnEya09vYldCYjRleEJFME82enBMVElBVVota2FhcERRUEd5c3FwelE5clY1MXpHaFJkOWlLTndXeWo1Snd5aXRrV21TLXNTNGxNbmJralhrSC0wZ25VZE51dHlVWkdFTzFfWThUalRSQ0gyeC12RkhfZw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-13T02:49:27.000Z",
+      "excerpt": "沙特计划进一步提高东西输油管道输送能力 新华网 凌卫任江西省委宣传部副部长、省文化和旅游厅党组书记 新浪财经 沙特拟将输油管道能力扩至1000万桶/日，天然气管道或临时转用输油 华尔街见闻 沙特石油出口回升，特朗普总统预测伊朗冲突结束后油价将“暴跌” 美国之音 一、过去3天，没有VLCC从SIDI装载， 说明目前延布港的出货仍有阻碍 雪球",
+      "section": "cn-news",
+      "rankScore": 0.4862
+    },
+    {
+      "id": "1766e6591602db6a",
+      "title": "China keeps extending the Shenzhen Apec deadline. Why are US execs so unenthused?",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3370574/china-keeps-extending-shenzhen-apec-deadline-why-are-us-execs-so-unenthused?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-13T01:00:09.000Z",
+      "author": "William Zheng,Nayan Seth,Khushboo Razdan",
+      "excerpt": "Some senior American executives are lukewarm about attending the Asia-Pacific Economic Cooperation summit and related business events in Shenzhen next month, according to people familiar with the matter.",
+      "section": "cn-news",
+      "rankScore": 0.464948
+    },
+    {
+      "id": "df9ef56c34582090",
+      "title": "第六届粤港澳大湾区文化艺术节10月31日启幕",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tSmtkSE4wRlpCVHhQTnhPMktrR3ZScDAtQkRUYk92d0o4aWhwU3RLUGpkeG1mLTRGSHhlRXNaQ040REh4MUxHdVM3cXQzUy1XcU1KYUtxa184U3VYaXRHX2lWYWlSV2JhOFhjQ0lMRQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-13T02:12:36.000Z",
+      "excerpt": "第六届粤港澳大湾区文化艺术节10月31日启幕 中山网",
+      "section": "cn-news",
+      "rankScore": 0.410601
+    },
+    {
+      "id": "33563def434b33d8",
+      "title": "何立峰會見蘋果庫克 稱歡迎各國科企深化對中合作",
+      "url": "https://www.cna.com.tw/news/acn/202610120284.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-12T12:58:21.000Z",
+      "excerpt": "（中央社台北12日電）剛卸任蘋果公司執行長的庫克近日以執行董事長新身分到訪中國，並於今午與中國國務院副總理何立峰會面。何立峰表示，歡迎蘋果等各國科技企業深化對中合作；庫克則表示，將為推動美中經貿關係穩定健康發展貢獻力量。",
+      "section": "cn-news",
+      "rankScore": 0.370969
+    },
+    {
+      "id": "e91f8a4027fbe74b",
+      "title": "国际减灾日，来了！",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-13/10713573.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-13T02:34:22.000Z",
+      "excerpt": "今天(10月13日)",
+      "section": "cn-life",
+      "rankScore": 0.828458
+    },
+    {
+      "id": "f177188cc92d8186",
+      "title": "最新！2026年河南省社保缴费基数调整|社会保险费|医疗保险|工伤保险|养老保险|失业保险",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQi1UVG4wcHFzalVDWlZvMGtTSXZWdkk2WTBqdmhlMXhabHNvVGZtUnhGYjQwRlI3ZkpIcWRCTzFxVlVUWTlBek11aUxzRDNsRC1qbktVSVgtVVdIX0VMVDIyT2F1LXA5VTVoYTBKRGlOc3YyMjhvYWt5anEyaUY4UlEwVXROdWtHSUdVS25Jc1pSdVpJaUNWZnM3ODBqWkhYWkZnQlRPNEhsQWpmMW1zZFFFZEF1aUNkNE9MRng1X3JzYmJGOF9wLUR3ZjBnWXoyc0VHY1JhUQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-13T03:08:17.000Z",
+      "excerpt": "最新！2026年河南省社保缴费基数调整|社会保险费|医疗保险|工伤保险|养老保险|失业保险 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.629823
+    },
+    {
+      "id": "86f24ea1da1909c8",
+      "title": "第30号台风或将生成，未来是否影响我国还未知",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zeGVPRHNQQ1NZTU5RY2xoMEhCNjZudEtZVTZScWE0bk1LX29HSFBmQnF1bVZ1NVU1dTUyQXN6X0ZqZnZoT21EUE0zR3pYZmZBc21GVmQ2Z0JHQkI3RldpLTY2emdweEZINkltSQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-13T02:46:13.000Z",
+      "excerpt": "第30号台风或将生成，未来是否影响我国还未知 温州新闻",
+      "section": "cn-life",
+      "rankScore": 0.624306
+    },
+    {
+      "id": "67476dc7785fe78a",
+      "title": "深圳市龙岗区第四人民医院医用耗材、试剂公开采购公告（采购编号：SZLGDSRMYY-HC-2026039 第二次）",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rdkpJSVJRNV84Y3lvR0lPVkg1OTZoWTVmZnRLV3hDYjdBSFBVYlpiMFFCYVdybUx6eU9nc2VOX3pKYkM1OElYOG94eGstQ1JaRUdTSFpTOE9JT09RSUU0UDVDb1hacndlRVVwblkydnNmcjlFckx5emd3?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-13T03:06:12.000Z",
+      "excerpt": "深圳市龙岗区第四人民医院医用耗材、试剂公开采购公告（采购编号：SZLGDSRMYY-HC-2026039 第二次） 龙岗政府在线",
+      "section": "cn-life",
+      "rankScore": 0.55938
+    },
+    {
+      "id": "f938fd56606866da",
+      "title": "山口镇：聚焦食品安全调研 筑牢民生安全屏障",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rcnVIMTBqSl9yMGQyMkxfS0F4dXlNSEdfTFJxc2hqUmo0ZUVUVTNmaUV6cmlqWTFDdzVsQXJsMDRpeEx2UHFtRUtkZDZhVWxzTzNCcE9FYzdXcWhzTmlMVUVwVU1IVk5FdGxMcQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-13T02:51:28.000Z",
+      "excerpt": "山口镇：聚焦食品安全调研 筑牢民生安全屏障 鲁网",
+      "section": "cn-life",
+      "rankScore": 0.486592
+    },
+    {
+      "id": "9e50be8cb648ea26",
+      "title": "青少年不健康食物组共同摄入与较小的海马、杏仁核及前额叶体积相关：Cogni-Action项目",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YcHpfbmM1aUdFaEE3LWxBVUpoNEdLT1pQNUExTDh3YWE0NER1TTFJdllXTV9KZ1dzcmlOZVVHQUpmenBnY005eEdhSWN1aFc1YXJqZHpTajdVTlQzU3NBazhVbGU0UE5yaVdZbXNB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-13T00:36:23.000Z",
+      "excerpt": "青少年不健康食物组共同摄入与较小的海马、杏仁核及前额叶体积相关：Cogni-Action项目 生物通",
+      "section": "cn-life",
+      "rankScore": 0.460326
+    },
+    {
+      "id": "bbf307ca733e5ff2",
+      "title": "今晚报：图书馆学家、图书馆学教育家于良芝教授在津去世 她是追求学术臻于极致的“女神”",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNNmM3dHN1SkZGdUFMeUVVZWYtZ1RFYVc3dWctNHhGeXczaVVFclZjY0N4YUg0UlNCUEQ0MndtdlUtSkd0N3BPcEZKSTkwNEZtUExmZHF5UEc3eERjdkstZ2RhclJjeVB0ZWVrTkZzYllRdm8?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-13T02:16:26.000Z",
+      "excerpt": "今晚报：图书馆学家、图书馆学教育家于良芝教授在津去世 她是追求学术臻于极致的“女神” 南开大学新闻",
+      "section": "cn-life",
+      "rankScore": 0.41124
+    },
+    {
+      "id": "c5695b302faa14a0",
+      "title": "“电驴”带娃隐患多 别图方便存侥幸",
+      "url": "https://www.chinanews.com.cn/life/2026/10-12/10711972.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-12T05:53:10.000Z",
+      "excerpt": "本报记者 代丽丽 王琪鹏",
+      "section": "cn-life",
+      "rankScore": 0.345604
+    }
+  ],
+  "warnings": []
+}
