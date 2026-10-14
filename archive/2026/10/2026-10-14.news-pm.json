@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-14",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-14T15:48:29.855Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "027380f300a427b4",
+      "title": "薄熙來前搭檔受查：重慶政壇「不倒翁」黃奇帆是誰？",
+      "url": "https://www.bbc.com/zhongwen/watch/c83vq5lwy6wlo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-14T14:46:38.000Z",
+      "excerpt": "中共中紀委宣佈，已退出政壇多年的前重慶市長黃奇帆涉嫌「嚴重違紀違法」，正接受調查。此消息正值中共五中全會前夕，引發外界關注。",
+      "section": "news",
+      "rankScore": 0.80193
+    },
+    {
+      "id": "7afec0b8bdd862f9",
+      "title": "希腊: 美国大使被召回成为政治对抗和媒体焦点",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261014-%E5%B8%8C%E8%85%8A-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E8%A2%AB%E5%8F%AC%E5%9B%9E%E6%88%90%E4%B8%BA%E6%94%BF%E6%B2%BB%E5%AF%B9%E6%8A%97%E5%92%8C%E5%AA%92%E4%BD%93%E7%84%A6%E7%82%B9",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-14T15:06:07.000Z",
+      "author": "古莉",
+      "excerpt": "周三，希腊反对党要求保守派政府就美国驻希腊大使被解职一事作出解释；该大使被指卷入了经济利益纠葛，特别是在该国能源领域。",
+      "section": "news",
+      "rankScore": 0.678266
+    },
+    {
+      "id": "224a3319846bdd4c",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-14T15:26:14.000Z",
+      "excerpt": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "section": "news",
+      "rankScore": 0.619724
+    },
+    {
+      "id": "fd60e5cc0df5ac5d",
+      "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
+      "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-14T15:42:26.000Z",
+      "author": "Josephine de La Bruyère and Elisabetta Povoledo",
+      "excerpt": "The pontiff, 71, is expected to spend about a week in the hospital recovering from surgery that found lung cancer. Messages of support have flooded in from far and wide.",
+      "section": "news",
+      "rankScore": 0.557512
+    },
+    {
+      "id": "e20ef9a5509d26dc",
+      "title": "Andy Burnham hosts Volodymyr Zelenskyy at Downing Street – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-14T15:35:07.000Z",
+      "author": "Andrew Sparrow",
+      "excerpt": "Burnham welcomes Ukraine’s president to No 10 for the first time since he became PM PMQs is about to start. Here is the list of MPs down to ask a question.",
+      "section": "news",
+      "rankScore": 0.55451
+    },
+    {
+      "id": "89c1a6cefe65210e",
+      "title": "Why Martinez highlighted Manchester United’s woes in Madrid meltdown",
+      "url": "https://www.aljazeera.com/sports/2026/10/14/manchester-united-premier-league-carrick-ratcliffe?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-14T15:24:08.000Z",
+      "excerpt": "Amid Premier and Champions League woes, Man United players and fans ponder how preseason optimism has turned to despair.",
+      "section": "news",
+      "rankScore": 0.550004
+    },
+    {
+      "id": "2b64c82af56f9632",
+      "title": "Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons",
+      "url": "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-14T15:23:53.000Z",
+      "excerpt": "Shares of conglomerate that owns AOL and Vimeo jumped more than 40% on news of expanded investment before dropping back",
+      "section": "news",
+      "rankScore": 0.481164
+    },
+    {
+      "id": "0591da7ef01edefe",
+      "title": "6 Things Longevity Experts Wish People Would Stop Saying",
+      "url": "https://www.nytimes.com/2026/10/13/well/longevity-experts-advice.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-14T15:13:38.000Z",
+      "author": "Melinda Wenner Moyer",
+      "excerpt": "Living longer and healthier is important. But don’t believe everything you hear.",
+      "section": "news",
+      "rankScore": 0.477485
+    },
+    {
+      "id": "25428100a5583562",
+      "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
+      "source": "npr-news",
+      "publishedAt": "2026-10-14T13:33:44.000Z",
+      "author": "Scott Horsley",
+      "excerpt": "Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.",
+      "section": "news",
+      "rankScore": 0.441623
+    },
+    {
+      "id": "913171fb84edf02f",
+      "title": "伊朗革命卫队称“全天候”监控霍尔木兹海峡",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jX190TVVuQnZjdXBXQ1RuSGFlQmRvLTlmeDViRzJEZ3dlbUtuVDgyZGZuMFFGT3F2YVUwVUR4Rkg4QnVXdE9TeFpvak91NndtdHpN?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-14T15:28:22.000Z",
+      "excerpt": "伊朗革命卫队称“全天候”监控霍尔木兹海峡 第一财经 一集装箱船在霍尔木兹海峡触雷沉没 中国日报网 凤凰记者：伊朗国内谈判路线分歧明显 强硬派主张施压改革派求协议 凤凰网 美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控 浙江在线 伊朗媒体：一艘违规油轮在霍尔木兹海峡东部起火。 手机新浪网",
+      "section": "news",
+      "rankScore": 0.413806
+    },
+    {
+      "id": "d6153385e6fdd35d",
+      "title": "从特朗普“准儿媳”到被解职的美国驻希腊大使",
+      "url": "https://cn.nytimes.com/usa/20261014/guilfoyle-fall/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-14T04:59:32.000Z",
+      "author": "ELISABETH BUMILLER",
+      "excerpt": "金伯莉·吉尔福伊尔经历了从风光无限到黯然失势的转变。她曾与总统的长子小唐纳德·特朗普订婚，后获特朗普提名出任驻希腊大使，但在媒体曝光其不当行为后遭解职。 Doug Mills/The New York Times 3月，金伯莉·吉尔福伊尔与特朗普总统在白宫的一场活动上。宣布辞职时，吉尔福伊尔谴责了她所称的虚假指控。",
+      "section": "news",
+      "rankScore": 0.403918
+    },
+    {
+      "id": "a0020e56afb7a4bd",
+      "title": "WHO calls for urgent health action across the Eastern Mediterranean",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "excerpt": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world’s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory.",
+      "section": "news",
+      "rankScore": 0.349693
+    },
+    {
+      "id": "a423da18731a3e43",
+      "title": "全国职工红色主题阅读活动走进甘肃会宁",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714737.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-14T15:25:13.000Z",
+      "excerpt": "中新网北京10月14日电 (记者 余湛奕)甘肃省白银市会宁县是红军长征三大主力会师的红色圣地。10月14日，“重走长征路 书香悟初心”全国职工红色主题阅读活动走进甘肃会宁，引导广大职工在红色阅读中传承红色基因，汲取奋进力量。",
+      "section": "cn-news",
+      "rankScore": 0.756867
+    },
+    {
+      "id": "4ca0e3da31f9de6d",
+      "title": "“长城”观察：人工智能时代如何推进国际反恐合作？",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714646.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-14T13:06:01.000Z",
+      "excerpt": "中新社北京10月14日电 (记者 李纯)“无论是国内还是国际上，大家都在谈论人工智能技术以及它对人们的影响。”正在北京参加“长城-2026”反恐国际论坛的科威特国民卫队安全事务负责人阿德尔对中新社记者说，具体到反恐领域，人工智能技术带来的影响可谓“有好有坏”。",
+      "section": "cn-news",
+      "rankScore": 0.740012
+    },
+    {
+      "id": "c2fb154d95816d3f",
+      "title": "（经济观察）70年广交会，见证中国与世界的双向奔赴",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714744.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-14T15:30:51.000Z",
+      "excerpt": "中新社北京10月14日电 题：70年广交会，见证中国与世界的双向奔赴",
+      "section": "cn-news",
+      "rankScore": 0.621855
+    },
+    {
+      "id": "ab4ac1c9c08d8802",
+      "title": "慈文传媒：微短剧《开标之战》投资规模较小，目前归属于公司收入约50万元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aZTRqNGdYaVFBVjkzX1ZacXpZcXJHdmZkQmhZWTFwOXlvQ3J1NmlLZmZyRGRUVks2UHNKR1R5T2hQUDljamR4UHJGLVJ1WUFLU01YN2VRWks?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-14T14:07:31.000Z",
+      "excerpt": "慈文传媒：微短剧《开标之战》投资规模较小，目前归属于公司收入约50万元 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.583393
+    },
+    {
+      "id": "be149c8da2138c64",
+      "title": "塔吉克斯坦边防部队少将：希望未来中塔进一步加强反恐合作",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrYVJOa01EWS1yLTAtd3hoRFZETUxiM3dGblFCaHBMaWVGNmVqcTZtanFWcThBSzEyYWZRemdlSlJZUjJWenc2cUtDZFhhTHBIOWpzdl9JVnlPSC1rYkFCUw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-14T13:32:00.000Z",
+      "excerpt": "塔吉克斯坦边防部队少将：希望未来中塔进一步加强反恐合作",
+      "section": "cn-news",
+      "rankScore": 0.567001
+    },
+    {
+      "id": "cdd2d1d7914bde06",
+      "title": "中國9月新增人民幣貸款高於預期 分析：刺激措施可能發揮作用",
+      "url": "https://www.cna.com.tw/news/acn/202610140345.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-14T14:25:41.000Z",
+      "excerpt": "（中央社台北14日電）中國人民銀行（中國央行）今天公布，今年前3季人民幣貸款增加11.52兆元（約新台幣55.27兆元），據路透社計算，9月新增人民幣貸款1.08兆元，高於市場預期，認為貸款回升顯示中國近期推出新一輪刺激措施可能開始發揮作用。",
+      "section": "cn-news",
+      "rankScore": 0.526025
+    },
+    {
+      "id": "738ff27447baa1fb",
+      "title": "2026“南大港杯”国际湿地摄影大赛征稿启事",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXQ0NXZwczZwaUZEOFFERnhpMlBpOUp3ZzBGMlFJTjVLejc0NUFsMERrYlBmQzZNcVNBeVhMT04weHpaX3FIMmNyRVVHSjhmaHNRSFBXRFpnNGJUSGcxUWRQdVpJQk5FYmhBeFpwb3BNZ1NmN1IzNHQwRkxrS2dtaWgxM1AwQncwbk16TDhfbTk1NEdJUHZuQXRR?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-14T14:10:52.000Z",
+      "excerpt": "2026“南大港杯”国际湿地摄影大赛征稿启事 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.519946
+    },
+    {
+      "id": "b3c91a99dd27800d",
+      "title": "EU leaders to ‘urgently’ call for new trade weapons to tackle China shock",
+      "url": "https://www.scmp.com/news/china/article/3370914/eu-leaders-urgently-call-new-trade-weapons-tackle-china-shock?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-14T14:45:07.000Z",
+      "author": "Finbarr Bermingham",
+      "excerpt": "Leaders of the EU’s 27 member states will instruct Brussels to “urgently” come up with new weapons to counter the imbalances they believe are caused by China’s economic policies, at a meeting in the Belgian capital on Thursday.",
+      "section": "cn-news",
+      "rankScore": 0.467248
+    },
+    {
+      "id": "ffd9580cfe547a00",
+      "title": "我国发布15项氢能国家标准",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMlEwSlBpNFlvbm9Wbi1iMHJpNHppeE10bUo3a0FwMzFLNEx6RGtISEhQM0x0S2Z6Q196YXVDb1JkdUxnS211MHRQTFJuendmbWcxQ0V6Rk9MRWxYb1d6RTNBMWo2ZFNzYWZIT09ieFFXV0JjUThNU1BIOWx6WFlHSHpycw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-14T13:41:07.000Z",
+      "excerpt": "我国发布15项氢能国家标准 新华网 行进中国｜一罐氢的“突围” 人民网－四川频道 氢风东渐：中国氢能的“成年礼” 中华网财经 中国氢能产业迈入规模化新阶段，标准建设进入“加速跑” 搜狐 15项！市场监管总局发布氢能领域国家标准 每日经济新闻",
+      "section": "cn-news",
+      "rankScore": 0.444274
+    },
+    {
+      "id": "4a0ad46a96cd4b60",
+      "title": "新鸭绿江大桥建成12年终于通车 中朝或就经济分歧达成妥协",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4Zk5DME9TZ28wcmVZNzBqN2l4ZGU4S2ZPZmlIcUhKVHA3T0owZjV5YkFHYllMcU44eGR0eE82eUl3a3NTWE9qcWUwOWdoeTJzeE1NNl9uUlB0ZVNmVXNNeGZBNFpUN3V3aEE?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-14T14:34:57.000Z",
+      "excerpt": "新鸭绿江大桥建成12年终于通车 中朝或就经济分歧达成妥协 联合早报 中朝跨鸭绿江新桥周四正式通车 RFI 江西人都收到这条短信了吧|国际减灾日|自救方法|地震预警|山体滑坡|沙尘暴 新浪财经 中朝新鸭绿江大桥明日开通，外交部回应 观察者网 界面晚报 | 9月中国出口同比增长36.3%；中朝新鸭绿江大桥明日正式开通 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.39737
+    },
+    {
+      "id": "b7bfe7c8499a2f4d",
+      "title": "从“煤焦重镇”到“智算高地”：解读山西临汾产业跃迁密码",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-14/10714735.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-14T15:21:58.000Z",
+      "excerpt": "中新网临汾10月14日电 (任丽娜)10月14日，2026临汾市“人工智能+”产业生态暨招商引资交流会举行。这场以“智汇临汾·数创未来”为主题的大会，正悄然改写着这座传统资源型城市的产业底色。",
+      "section": "cn-life",
+      "rankScore": 0.823673
+    },
+    {
+      "id": "5f6327bf78a365a9",
+      "title": "河南职工你的医保个人账户可以为家人代缴2027年度居民医保了……|职工医保|河南省|参保|缴费|保费",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUHNWSlRubFFjWFdtQU5jR0tXOHBHTG1pNFJXYndabTh3Nkg3VTVkLXdGZE9SOFVuTG9HVE9Tek9jNFhzV005MGZNM0Nocmg3V28xUEZRUEpqUEVLcTd5aWRHcUJzT0VGM1BhMWVjTXVKUmU5RTEzazh6R0hIYmk1YWZfVDVhT252ZFZLSWRlbzM1U29nWWJQZmY1WGlYNEcxLVpFUGN2TlhNQ0dLejRwekd3LVlGY0FXbkx0RDRFTHdIeVNQaEUzOVpVamFqSDBaNmUyVERBYXU?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-14T15:34:24.000Z",
+      "excerpt": "河南职工你的医保个人账户可以为家人代缴2027年度居民医保了……|职工医保|河南省|参保|缴费|保费 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.623493
+    },
+    {
+      "id": "c8f7091f266f4bb2",
+      "title": "大雨、暴雨！滇西南局部仍有强降水",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKTDdOWnRaejl6dlE5Q3lYWlVPU2dPcWxkVGpoeWttUF9aZUczejBBLXBpZmJDZDhnZHlLNE1mbTRzaVZEdHh6a25NNGpkNkZhRjlLRVVVeGZxdEZFcE1qcXc2eTdKUQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-14T14:15:54.000Z",
+      "excerpt": "大雨、暴雨！滇西南局部仍有强降水 昆明信息港",
+      "section": "cn-life",
+      "rankScore": 0.587263
+    },
+    {
+      "id": "b9253adb44f1f4ff",
+      "title": "中巴“喀喇昆仑-2026”陆军联合训练举行开训仪式",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JN0FIWjkyRlI1R1lJRGpXclVSZ2RMSHU3MFdXNTBsYVBIYlpHY29IdEs2QmoxN0N2cXNKTzRqSWVnaS1pMVB0X1czOFpyOXZwX0lrYWVnSks?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-14T14:54:27.000Z",
+      "excerpt": "中巴“喀喇昆仑-2026”陆军联合训练举行开训仪式 中华人民共和国国防部",
+      "section": "cn-life",
+      "rankScore": 0.537827
+    },
+    {
+      "id": "e6a6d04359d795f1",
+      "title": "流感疫苗“四价转三价” 保护效果会降低吗？",
+      "url": "https://www.chinanews.com.cn/life/2026/10-14/10714450.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-14T07:54:54.000Z",
+      "excerpt": "秋冬季，我国大部分地区天气转凉，气温下降，流感高发，所以9月、10月也是流感疫苗的接种黄金期。有人在接种疫苗时发现，往年接种的都是“四价”流感疫苗，今年却变成了“三价”。",
+      "section": "cn-life",
+      "rankScore": 0.457129
+    },
+    {
+      "id": "813dc2224d9894f3",
+      "title": "监管升级 “互联网+AI”提升网络食品安全监管效能 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTJsUWVvQXh6c2VKc3c5enVhamdMYmVnN19kLV9sUzVSTnhIMkJNeFlpOHVteEpUa241eEVJbGx0bW8walU2N0VXMTBvOE82cUZWZVVWNHBZRDdsQmVYbHRSeGY5bXRvTVc1TGYzOVN0WWphWlJDUFJVdzloUDJCekVOeXZ3Vm1xdzhZZzFDVQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-14T13:56:00.000Z",
+      "excerpt": "监管升级 “互联网+AI”提升网络食品安全监管效能 21财经",
+      "section": "cn-life",
+      "rankScore": 0.449616
+    },
+    {
+      "id": "414e1e0bce0667d7",
+      "title": "医我看丨咳嗽、气喘别只当感冒，珠海一56岁女子因罕见肺炎致呼吸衰竭",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMZkFXZzNNTk9zZ2J6QWZ6SHBhYk5RWVAyM0phSm5zblBDckt4bDV3UzFQdDR4blBiVm53eDlna1BIYVNVNmtNUXdWRVY3Mzdubzg5QjBZSTM2MlVIU2R5c1l1WWtXbGJjT2FRaVJ2eE1oUVVzblYw?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-14T13:48:00.000Z",
+      "excerpt": "医我看丨咳嗽、气喘别只当感冒，珠海一56岁女子因罕见肺炎致呼吸衰竭 珠海网",
+      "section": "cn-life",
+      "rankScore": 0.446744
+    },
+    {
+      "id": "135ea10eab13096e",
+      "title": "广州开放大学举办秋季开学典礼，开放教育与技工教育实现融合发展",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV0RTdktNRm9DVnRzaEtDZGowZE9WRWthV0dKX2xHSDJzQkppVUJUMVd0ZHE0LVVYRFN6UC02akFlOTV1ZHVpUUJxdzBSY1Q5NFNsc3hYb2FzZFNKWU9FNW4xMXdnNGFiUTJKaXh3b2l1Z2tJZ2p2WmVZZXk5eVZ5UGtldFYwRXM2REE?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-14T15:36:53.000Z",
+      "excerpt": "广州开放大学举办秋季开学典礼，开放教育与技工教育实现融合发展 广州日报新花城",
+      "section": "cn-life",
+      "rankScore": 0.416426
+    }
+  ],
+  "warnings": []
+}
