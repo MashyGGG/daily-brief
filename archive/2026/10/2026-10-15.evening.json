@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-15",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-15T16:55:48.739Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "07aac6777358155d",
+      "title": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-15T16:55:48.739Z",
+      "score": 725,
+      "excerpt": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep.",
+      "section": "tech",
+      "rankScore": 1.08
+    },
+    {
+      "id": "3dba7e684fe61d1b",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "source": "hn-front",
+      "publishedAt": "2026-10-15T13:23:44.000Z",
+      "score": 227,
+      "author": "FinalDestiny",
+      "excerpt": "227 points · 94 comments · https://news.ycombinator.com/item?id=50103338",
+      "section": "tech",
+      "rankScore": 1.027383
+    },
+    {
+      "id": "25b4449a8940915b",
+      "title": "Three layers, one repo: a tour of google/adk-recipes",
+      "url": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-15T16:55:48.739Z",
+      "excerpt": "The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "77479c8547b4193e",
+      "title": "The Pulse: OpenAI software engineer accused of spying",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-10-15T16:55:18.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+      "section": "tech",
+      "rankScore": 0.769732
+    },
+    {
+      "id": "0d60d32e427f10e2",
+      "title": "When Software Meets Hardware",
+      "url": "https://martinfowler.com/articles/software-meets-hardware.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-10-15T13:25:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "When software meets hardware, engineering principles remain largely the same, but the sensible defaults often change. Kuldeep Singh describes our experience modernizing a large IoT fleet of battery-powered sensors. Our familiar principles remained important; what changed was how we applied them.",
+      "section": "tech",
+      "rankScore": 0.719536
+    },
+    {
+      "id": "af11f7c63834ab2b",
+      "title": "My C23 Conventions",
+      "url": "https://abner.page/post/c23-conventions-1/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-15T15:32:15.000Z",
+      "author": "abner.page by abnercoimbre",
+      "section": "tech",
+      "rankScore": 0.643703
+    },
+    {
+      "id": "091b91b8244f42b7",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "openai",
+      "publishedAt": "2026-10-15T13:00:00.000Z",
+      "excerpt": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "section": "ai",
+      "rankScore": 0.734636
+    },
+    {
+      "id": "36b2d08bd2adfb9f",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-15T13:04:03.000Z",
+      "excerpt": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday.",
+      "section": "ai",
+      "rankScore": 0.707564
+    },
+    {
+      "id": "043f09cd3a16faa3",
+      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "source": "latent-space",
+      "publishedAt": "2026-10-15T10:08:08.000Z",
+      "excerpt": "Sandboxes are all you need.",
+      "section": "ai",
+      "rankScore": 0.556454
+    },
+    {
+      "id": "b53681b5e4b9c510",
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "huggingface",
+      "publishedAt": "2026-10-15T09:08:45.000Z",
+      "section": "ai",
+      "rankScore": 0.537288
+    },
+    {
+      "id": "40afc56873f59675",
+      "title": "美团智播——数字人直播技术创新与实践",
+      "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-15T16:55:48.739Z",
+      "excerpt": "美团智播围绕 AI 主播「长得真→动得准→演得活→卖得好」构建了完整技术闭环：真人 1:1 复刻、换装换背景身份不跑偏；动作自然流畅，告别「木偶戏」；边说边动、音画一致；背后还有推理加速技术支撑万路并发开播，让普惠落地成为可能。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "b00d78ed4272cfe6",
+      "title": "美国银行雇佣千名合同工修复 AI 工具发现的软件漏洞",
+      "url": "https://www.solidot.org/story?sid=85625",
+      "source": "solidot",
+      "publishedAt": "2026-10-15T16:03:23.000Z",
+      "excerpt": "美国银行（Bank of America）CEO Brian Moynihan 透露该公司雇佣了千名合同工帮助修复 Anthropic Mythos 等 AI 工具发现的软件漏洞。他表示：“我们在第二季度聘请了 1000 名合同工协助进行修复工作。除了原本负责该领域的 3000 名员外，这些合同工至今仍留在公司内，继续提供协助。”他向分析师透露，美国银行第三季度在软件修复以及与反洗钱合规相关的监管问题上投入了数亿美元以上的资金。这是美国大型企业首次披露其为保护软件系统免受 Mythos 影响所投入的人力和资金规模。",
+      "section": "cn-tech",
+      "rankScore": 0.742537
+    },
+    {
+      "id": "7b97fb93748268a1",
+      "title": "AI 太牛逼了，总想用 ai 来搞点副业，怎么办？",
+      "url": "https://www.v2ex.com/t/1249152",
+      "source": "v2ex",
+      "publishedAt": "2026-10-15T12:44:15.000Z",
+      "score": 11,
+      "author": "iamnotarobot0",
+      "excerpt": "我用 ai 扫了一圈不少的苹果论坛，reddit 等等，ai 发现有 18 个方向，但是深入调查下来的结论，要么门槛太低，要么就是手机系统已有类似功能，再不就是市场太拥挤了。 该如何破局？",
+      "section": "cn-tech",
+      "rankScore": 0.732188
+    },
+    {
+      "id": "918d814af7e5acd5",
+      "title": "代码不再稀缺之后，软件工程还剩下什么？",
+      "url": "https://www.infoq.cn/article/DTZRRtodmCvpfYwbpWbF?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-15T14:30:04.000Z",
+      "author": "QCon全球软件开发大会",
+      "section": "cn-tech",
+      "rankScore": 0.630597
+    },
+    {
+      "id": "9bf5d45927772f55",
+      "title": "共建共享，智联丝路——开源中国与吉尔吉斯斯坦-土耳其玛纳斯大学签署《中国—中亚人工智能共建共享合作备忘录》",
+      "url": "https://www.oschina.net/news/503042",
+      "source": "oschina",
+      "publishedAt": "2026-10-15T12:10:31.000Z",
+      "excerpt": "西安，2026年10月15日 —— 今日，\"2026中国—中亚青年科学家人工智能对话活动\"在西安举行。开幕式上，开源中国旗下开源大模型公共平台模力方舟与吉尔吉斯斯坦-土耳其玛纳斯大学正式签署《中国—中亚人工智能共建共享合作备忘录》。开源中国副总裁、教育及创新生态业务CEO李晨与玛纳斯大学校方代表阿马尔·尤纳斯博士共同...",
+      "section": "cn-tech",
+      "rankScore": 0.50773
+    },
+    {
+      "id": "d3219a9d7423db87",
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-15T16:00:26.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of…",
+      "section": "security",
+      "rankScore": 0.673629
+    },
+    {
+      "id": "8bb811dbbf9433a9",
+      "title": "J4Care dcm4che",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-02",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-15T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to delete stored medical images, disclose patient information, inject forged studies, reassign patient records, overwrite files, and cause a denial-of-service condition.",
+      "section": "security",
+      "rankScore": 0.559137
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"css-tricks\" looks stale: newest item is 45 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
