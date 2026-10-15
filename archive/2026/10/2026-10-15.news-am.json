@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-15",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-15T00:48:45.960Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "88553666e9b4ca59",
+      "title": "美國中期選舉2026：贏會贏在哪裏，輸會輸在哪裏？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lyezge4xywo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-15T00:20:29.000Z",
+      "excerpt": "BBC深入分析將界定特朗普總統任期最後兩年的選舉前景，包括關鍵民調、選戰以及議題。",
+      "section": "news",
+      "rankScore": 0.830572
+    },
+    {
+      "id": "f84849baf2a7bfab",
+      "title": "中国出口激增，年度贸易顺差有望再次刷新纪录",
+      "url": "https://cn.nytimes.com/business/20261015/china-exports-trade-surplus/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-15T00:37:34.000Z",
+      "author": "KEITH BRADSHER",
+      "excerpt": "中国9月出口再次飙升，成为史上贸易顺差第二高的月份，这也使其有望大幅超过去年创纪录的贸易顺差。中国出口激增可能进一步加剧与贸易伙伴的紧张关系。 Gilles Sabrié for The New York Times 货币疲软使中国商品在海外更具竞争力，同时提高了国内进口产品的成本。",
+      "section": "news",
+      "rankScore": 0.766578
+    },
+    {
+      "id": "eb65ac71b9042a93",
+      "title": "泽连斯基是否被背叛了",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261014-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%98%AF%E5%90%A6%E8%A2%AB%E8%83%8C%E5%8F%9B%E4%BA%86",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-14T22:33:43.000Z",
+      "author": "安德烈",
+      "excerpt": "乌克兰的这个冬天将非常严酷，最大的打击不只是俄罗斯日复一日轰炸该国的能源设施，还有来自美国总统特朗普突然的战略转向。他不仅要求泽连斯基遵守其与普京达成的“能源停火协议”，还扬言“乌克兰该换总统了！”此言正中普京下怀。更使乌克兰雪上加霜的是，其境内的“星链”系统突然遭到使用限制，严重阻碍了乌方大部分无人机行动及防空体系的正常运作。",
+      "section": "news",
+      "rankScore": 0.662486
+    },
+    {
+      "id": "23d17963e80951ed",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-14T22:31:10.000Z",
+      "excerpt": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "section": "news",
+      "rankScore": 0.5956
+    },
+    {
+      "id": "72f6186dc83cd483",
+      "title": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
+      "url": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-15T00:24:03.000Z",
+      "excerpt": "President Laura Fernandez says mega-prison is part of 'tough-on-crime model' embraced by her government.",
+      "section": "news",
+      "rankScore": 0.554508
+    },
+    {
+      "id": "a3090f43b53962d3",
+      "title": "Labor and Coalition set to reject bill to stop incarcerated women being shackled in childbirth",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/labor-coalition-bill-banning-shackling-incarcerated-women-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-15T00:22:33.000Z",
+      "author": "Krishani Dhanji and Tory Shepherd",
+      "excerpt": "Liberal Paul Scarr breaks ranks to condemn major parties, saying he will write to Queensland attorney general Labor and the Coalition are set to reject a bill that would have banned the shackling of incarcerated women during childbirth, with the government saying it was the responsibility of the…",
+      "section": "news",
+      "rankScore": 0.554174
+    },
+    {
+      "id": "98fb5094cb6ab71c",
+      "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+      "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-14T23:30:02.000Z",
+      "author": "Constant Méheut",
+      "excerpt": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
+      "section": "news",
+      "rankScore": 0.542504
+    },
+    {
+      "id": "c5d640e997d3a775",
+      "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+      "url": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-14T23:57:26.000Z",
+      "author": "Lauren Hirsch and Sri Muppidi",
+      "excerpt": "The company held an investor meeting on Wednesday as it plans a blockbuster initial public offering as soon as next month.",
+      "section": "news",
+      "rankScore": 0.480019
+    },
+    {
+      "id": "27adfeafa86fd10b",
+      "title": "Top UK law firms pull away from smaller rivals in race for profits",
+      "url": "https://www.ft.com/content/d685e248-058e-475c-8dd7-053b491e35ab?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-14T23:01:06.000Z",
+      "excerpt": "Biggest firms for the first time took home more than half of the revenue pool of the top 100",
+      "section": "news",
+      "rankScore": 0.469065
+    },
+    {
+      "id": "0738d9f5292c62fb",
+      "title": "粮食署：也门战事阻断80万人援助，或将引发人道主义灾难",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143000",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "excerpt": "联合国世界粮食计划署周三表示，也门战事升级导致的战线变化、道路受阻和安全局势恶化，严重限制了援助人员进入塔伊兹市及其他冲突地区。目前，全国约80万人无法获得旨在拯救生命的援助。",
+      "section": "news",
+      "rankScore": 0.437809
+    },
+    {
+      "id": "c75eadf4172b8df8",
+      "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+      "source": "npr-news",
+      "publishedAt": "2026-10-14T19:42:03.000Z",
+      "author": "Dave Davies",
+      "excerpt": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
+      "section": "news",
+      "rankScore": 0.430361
+    },
+    {
+      "id": "91a7da756eb1ae70",
+      "title": "乌克兰官员：SpaceX限制星链服务，无人机作战受阻",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ra2dZbzhPVWVCMmNfb09BNFJCUHZNd1RaMnA5dGhMQzBpYkR1ZmNrQVZfSlZrZzQ3NWJlYko0QVRtRXQxam1MQVhQSU83OUdnSjhQdnJPUDRkVXVBOHJuSlNPSTlUXzVCZzhGZ2dQSW95Vms?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-15T00:16:00.000Z",
+      "excerpt": "乌克兰官员：SpaceX限制星链服务，无人机作战受阻 观察者网 乌克兰官员：“星链”限速致乌军多个任务中断 凤凰网 思摩尔国际：受托人根据股份奖励计划购买622.9万股 新浪财经 泽连斯基指责特朗普和马斯克限制乌军使用卫星技术 搜狐 俄称星链不应被用于军事目的！ 中华军事",
+      "section": "news",
+      "rankScore": 0.414539
+    },
+    {
+      "id": "4f935ca6362da5be",
+      "title": "“北溪”天然气管道爆炸案嫌疑人在德国受审",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-15/10714764.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-15T00:14:40.000Z",
+      "excerpt": "中新社柏林10月14日电 德国汉堡汉萨高等地方法院14日开庭审理2022年9月“北溪”天然气管道爆炸案。涉嫌主导袭击行动的乌克兰籍男子谢尔吉·K(Serhii K)当天出庭受审。这是“北溪”天然气管道爆炸事件发生以来，首次有涉案嫌疑人出庭接受刑事审判。",
+      "section": "cn-news",
+      "rankScore": 0.828634
+    },
+    {
+      "id": "7ae413f85b99c160",
+      "title": "第140届广交会今日开展 展期持续至11月4日",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714775.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-15T00:36:49.000Z",
+      "excerpt": "今天(10月15日)，第140届广交会在广州开展。今年恰逢广交会创办70周年，本届广交会展览规模达155万平方米，分3期举办，展期将持续到11月4日。",
+      "section": "cn-news",
+      "rankScore": 0.627013
+    },
+    {
+      "id": "5595b86ae81fe1c2",
+      "title": "湖南发布暴雨黄色预警",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MdVJzaHJUT250TkpVZHNZRmNIVURlT3Z2dWJ6V2lnTzlRbDAtTV9lcmpLX05GODROcV9zelR3QlNxSDdlclhVZ2JwMGRUR0JxdW9hRG9ZdUY?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-15T00:29:46.000Z",
+      "excerpt": "湖南发布暴雨黄色预警 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.62525
+    },
+    {
+      "id": "770148e3b6133b6e",
+      "title": "科大卫：19世纪初期商业诉讼中的地方官员",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xcVd1UWZhYlJONGdPSUwyVDMtTUV0THBFWGVHZzgzQkRPd3kyYkpDeGxlRXgyNXM0Tnp0a0swVHV2aVduN3F1cDNqTkQyRVNLRV9QbnA4Y1FIMWtSTEFMNg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-14T23:51:00.000Z",
+      "excerpt": "科大卫：19世纪初期商业诉讼中的地方官员",
+      "section": "cn-news",
+      "rankScore": 0.615559
+    },
+    {
+      "id": "d427e0c519bd420d",
+      "title": "李强在第140届中国进出口商品交易会开幕式上的主旨演讲（全文）",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714723.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-14T13:58:44.000Z",
+      "excerpt": "新华社广州10月14日电",
+      "section": "cn-news",
+      "rankScore": 0.571379
+    },
+    {
+      "id": "795172e096dff727",
+      "title": "[CGTN]从中国发展看世界，如何在变局中寻找新机遇",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vVTlFNEF1LW9NTV9KeEFKNm5HSlZMSVZxSUxGZkV1eTJ4N1hvRVJ2Vmc1Zm5jOHE5OTk4NHdoMkk1OTZQUi05MW80LUl2aWkxSXdqVHlxMWl3OWs3?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-15T00:42:05.000Z",
+      "excerpt": "[CGTN]从中国发展看世界，如何在变局中寻找新机遇 人大新闻网 通州·全球发展论坛（2026）“未来能源与未来产业”分论坛举行 中国日报网 陆克文说“没人是中国通”，这才是对中国该有的态度 风闻 从“和而不同”到携手发展，亚太如何作答？ 搜狐 通州·全球发展论坛（2026）举行 中国人民大学发布系列研究成果 新华网",
+      "section": "cn-news",
+      "rankScore": 0.558515
+    },
+    {
+      "id": "440e90465b4ec095",
+      "title": "前三季度外贸同比增长18.8% 三季度出口首次突破8万亿元",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vckRpZUFkUXlGZlMteUhjaHdqLVFLVldQT2FybU5QWUdsWU95aThGMlJkZko4VGFpOGJ6eGdpSEpZQlJWa0tIRWhMMlR0eFlqYzk1R2xTUEhkRnMxMFYwUWNtd01CQQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-14T23:48:34.000Z",
+      "excerpt": "前三季度外贸同比增长18.8% 三季度出口首次突破8万亿元 东方财富 前三季度我国外贸增势强劲 同比增长18.8% 上海热线 进口增速快于出口，中国大市场澎湃全球新机遇 中国网新闻中心 江西人都收到这条短信了吧 新浪财经 海关总署：互利共赢 与“一带一路”共建国家合作空间不断拓展 光明网",
+      "section": "cn-news",
+      "rankScore": 0.478295
+    },
+    {
+      "id": "24fb9a440487313a",
+      "title": "‘China shock 3.0’ to be driven by AI, biotech and robot exports, economist says",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3370925/china-shock-30-be-driven-ai-biotech-and-robot-exports-economist-says?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-14T22:00:47.000Z",
+      "author": "Han Li",
+      "excerpt": "The world is on the cusp of a “China shock 3.0” driven by exports of artificial intelligence (AI), biotechnology and robots, which could hit harder than the current wave, a leading economist on China has said.",
+      "section": "cn-news",
+      "rankScore": 0.457337
+    },
+    {
+      "id": "14c9723d36a0178c",
+      "title": "分析：油價高 推升中國9月CPI漲幅擴大",
+      "url": "https://www.cna.com.tw/news/acn/202610140341.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-14T14:12:32.000Z",
+      "excerpt": "（中央社記者馮昭上海14日電）中國國家統計局今天公布9月消費者物價指數（CPI），年增率漲幅比8月擴大。經濟專家分析，9月中東局勢造成國際油價再上漲，油價漲幅擴大，是推動當月整體CPI年增率漲幅略有擴大的主因。",
+      "section": "cn-news",
+      "rankScore": 0.418615
+    },
+    {
+      "id": "ae4eddf0cdadfafc",
+      "title": "天籁之声致敬家乡，珠海学子唱响第六届珠海艺术节",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtOTZZa0wyS09McDlISngtemVNcGxyTmktNjJLWVJLOUF6RTRjMlM0QVp5ekxWdHdUbVhWeXY0eTdjc1pmbzhDQmU4SURmemYwZ0ZVUHFtT0VRTzI2czBfb3ZaRC1LbGtOYW1ZR3h4d2FPOXZnYkhj?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-15T00:21:00.000Z",
+      "excerpt": "天籁之声致敬家乡，珠海学子唱响第六届珠海艺术节 珠海网 到底给孩子们唱什么？珠海艺术节“听见珠海的爱”合唱艺术沙龙为音乐老师支招 珠海网 你言我语｜让“艺术下沉”成为流动风景线 珠海网 在不经意间与艺术偶遇！珠海艺术节“艺术下沉”活动走进拱北商圈 珠海网",
+      "section": "cn-news",
+      "rankScore": 0.415372
+    },
+    {
+      "id": "e160dcfbdb2d784a",
+      "title": "超重、大件、爬楼订单有望多拿钱，外卖骑手额外劳动该如何定价？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-15/10714758.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-14T23:50:27.000Z",
+      "excerpt": "超重 大件 爬楼订单有望多拿钱 外卖骑手额外劳动该如何定价？",
+      "section": "cn-life",
+      "rankScore": 0.820561
+    },
+    {
+      "id": "16a19b814155a429",
+      "title": "心血管不好的人，真心建议你吃点“高钾食物”",
+      "url": "https://www.chinanews.com.cn/life/2026/10-15/10714761.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-15T00:04:37.000Z",
+      "excerpt": "不少朋友为了养护心血管",
+      "section": "cn-life",
+      "rankScore": 0.687736
+    },
+    {
+      "id": "e57e54ca49aab74e",
+      "title": "巴拿马7.6级地震致1人死亡20余人受伤",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0hpSUs2bUtzZTJJVjRSWmJQZVNCVzgxcWExaWVhSE5fMUpyREJlOHZiVkxlQXVZX18yN2F2Zy11MWhrQzNHLWNvdXBCUi1fVHdCd1hVVVZIZnpQZC0xclRpako0cTREYldkdlRGZ29CWTJfUTJYcWN6R1dxRzU5SjJoVl9JSW1W?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-15T00:25:04.000Z",
+      "excerpt": "巴拿马7.6级地震致1人死亡20余人受伤 搜狐",
+      "section": "cn-life",
+      "rankScore": 0.624075
+    },
+    {
+      "id": "dbb7d63d14cffeff",
+      "title": "中国好人守诚信 人大代表为民生",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5naFhQMmhWanhDWjF4OC11S1B6ODFkdG5Laml3djI5VzhnNmdTYjNOQ0RqOG1GclJCcVFUZFNZS3FaTy1SRHJ1Z05ZZTVuenVKNE1UcGE1aFBBSHVreGlqRFc5cXB3OHV2?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-14T23:38:00.000Z",
+      "excerpt": "中国好人守诚信 人大代表为民生 大众网",
+      "section": "cn-life",
+      "rankScore": 0.612309
+    },
+    {
+      "id": "f8643d1eaf639279",
+      "title": "省人大常委会执法检查组来我市开展执法检查",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55X2NON203RjZrWkt1OXJkSzRCbm1oRDQ3a0ctX1hXV1hBM21iMjUzdUxfWGtGOUZDYW9XV0NyZDRrekNLeFpWMHRCWVZyOHllSXhTQnRZZkhnOVF2d3BkRmkxdTBhTUE3ZkVqMDh2UQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-15T00:48:02.000Z",
+      "excerpt": "省人大常委会执法检查组来我市开展执法检查 威海新闻网",
+      "section": "cn-life",
+      "rankScore": 0.489858
+    },
+    {
+      "id": "0de2c4c26e9bc9be",
+      "title": "9.4 T旋转坐标系自旋锁定心脏磁共振成像可表征小鼠进行性高血压心脏病中的弥漫性纤维化",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvSlN1Qm5OMndKTXc1NFRiV1BEbjJjTHEwd09tZWhtbFpkNDhtcW5RcW8tVGZOejNZeWFkeE5MR2xtcDVxaVNYb3hHdUJVOTc2MF9NejJueGxGNGEtYWluTW9abTVneFROZWRobHlB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-15T00:08:02.000Z",
+      "excerpt": "9.4 T旋转坐标系自旋锁定心脏磁共振成像可表征小鼠进行性高血压心脏病中的弥漫性纤维化 生物通",
+      "section": "cn-life",
+      "rankScore": 0.48208
+    },
+    {
+      "id": "924319116be658ce",
+      "title": "前三季数据会商：穿透式深挖症结，九分力持续落实",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84R0RTZklteXZJVFB0ajZaX1V5VHp6LWZMNmczYzVFSE1Ldk1DN0Y4cTVia25Odnp5dG40N3VZM1hzeFRHRjRyLU1La2JkQVJkektkZ3Vsb19lYV9EWTY0MEFn?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-14T14:32:15.000Z",
+      "excerpt": "前三季数据会商：穿透式深挖症结，九分力持续落实 中华人民共和国最高人民法院",
+      "section": "cn-life",
+      "rankScore": 0.422996
+    },
+    {
+      "id": "92d2129f10ee53e9",
+      "title": "【巡视整改进行时】（95）以巡视整改成效推动继续教育事业高质量发展",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85T2d4OENqNXRHNnk1MjktRzZxMExRYzZ4RDlQUG1HN3RNMTJZeTNuWHdycmxBNFJPWVVXbUVyWTNmUkc1VjNMN3drMEpPdXhKWHlubFNSVm5WQXRNNFJPWEZKSGRlNWg1c29HT1R3U2xyOE9qeHNZ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-15T00:34:11.000Z",
+      "excerpt": "【巡视整改进行时】（95）以巡视整改成效推动继续教育事业高质量发展 西北农林科技大学",
+      "section": "cn-life",
+      "rankScore": 0.41757
+    }
+  ],
+  "warnings": []
+}
