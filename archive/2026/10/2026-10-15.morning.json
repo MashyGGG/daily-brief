@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-15",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-15T00:28:44.085Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "e8a910a0fccec297",
+      "title": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-15T00:28:44.085Z",
+      "score": 1025,
+      "excerpt": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "f06365767b143418",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "source": "hn-front",
+      "publishedAt": "2026-10-14T17:45:23.000Z",
+      "score": 820,
+      "author": "latexr",
+      "excerpt": "820 points · 442 comments · https://news.ycombinator.com/item?id=50091788",
+      "section": "tech",
+      "rankScore": 1.05115
+    },
+    {
+      "id": "668340f37c0845d5",
+      "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
+      "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-15T00:28:44.085Z",
+      "excerpt": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "29678d3a1ef0ab5b",
+      "title": "Fixing C Strings With String Views",
+      "url": "https://eliasebner.com/blog/guides/fixing-strings-in-c/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-14T21:04:44.000Z",
+      "author": "eliasebner.com by eliasebner",
+      "section": "tech",
+      "rankScore": 0.62725
+    },
+    {
+      "id": "5c0ac70b01753ba5",
+      "title": "HydraFusion updates and new Max option",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-14T20:01:35.000Z",
+      "author": "Allison",
+      "excerpt": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot…",
+      "section": "tech",
+      "rankScore": 0.625791
+    },
+    {
+      "id": "b244f331f8210eab",
+      "title": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela",
+      "url": "https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-10-14T17:12:00.000Z",
+      "author": "Ryan Donovan",
+      "excerpt": "While the whispers say that everyone is becoming a generalist, that's not where headcount is going.",
+      "section": "tech",
+      "rankScore": 0.549751
+    },
+    {
+      "id": "63349dc890df5362",
+      "title": "Tree Appreciator",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-14T21:23:01.000Z",
+      "excerpt": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game…",
+      "section": "ai",
+      "rankScore": 0.778094
+    },
+    {
+      "id": "1ce81e1253d5051a",
+      "title": "v2.1.300",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
+      "source": "anthropic",
+      "publishedAt": "2026-10-14T18:24:25.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added virtualText to a mod's prompt decorations: text drawn in the prompt box that never enters the draft or the submitted prompt Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry api_request event, splitting cache writes by lifetime Added $.ui.view({…",
+      "section": "ai",
+      "rankScore": 0.748501
+    },
+    {
+      "id": "af02a8b2a6e6421f",
+      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+      "url": "https://www.latent.space/p/crossing-the-threshold",
+      "source": "latent-space",
+      "publishedAt": "2026-10-14T21:40:52.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
+      "section": "ai",
+      "rankScore": 0.718707
+    },
+    {
+      "id": "6f4ce321f867d85a",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "source": "openai",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "excerpt": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "section": "ai",
+      "rankScore": 0.615023
+    },
+    {
+      "id": "20251ce7b7037bc9",
+      "title": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
+      "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-15T00:28:44.085Z",
+      "excerpt": "本文精选了美团技术团队被 KDD 2026 收录的 8 篇论文进行分享，这些论文覆盖了推荐大模型、生成与奖励建模框架、智能体搜索、Transformer 框架、元泛化框架等技术领域。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "a94c074b0c3c027d",
+      "title": "跟知名中文技术媒体 InfoQ 小编互怼了？",
+      "url": "https://www.v2ex.com/t/1248809",
+      "source": "v2ex",
+      "publishedAt": "2026-10-14T11:09:25.000Z",
+      "score": 16,
+      "author": "MindMindMax",
+      "excerpt": "1.缘起：今天 OP 下午刚刚刷完 youtuber 做的视频，评测 REA ，目前无法很好的脱壳🫠。没想到微信也推送给我 InfoQ 公众号的一篇相关文章：《软件完蛋了吗？ REA 三天狂揽 12 万星：无需源码，Agent 就能克隆一切软件》 2.于是乎：OP 刚到的外卖还没吃呢，奔着质疑的态度跟小编互（留）动（言）了下 没想呀~ 我滴乖乖，中文小编还能搞人身攻击的🙂。而是是高度依赖 DeepSeek 的。",
+      "section": "cn-tech",
+      "rankScore": 0.661599
+    },
+    {
+      "id": "c29d65943a68cb7c",
+      "title": "研究估计到 2050 年每年新增痴呆症人数将会翻倍",
+      "url": "https://www.solidot.org/story?sid=85615",
+      "source": "solidot",
+      "publishedAt": "2026-10-14T16:46:34.000Z",
+      "excerpt": "一项新研究估计，2023 年有 1140 万人患上痴呆症，到 2050 年预计这一数字将增加一倍以上，新增痴呆症人数将达到 2470 万。研究发现女性的痴呆症发病率高于男性，且低中收入国家的发病率远高于高收入国家。在校正年龄因素后，女性发病为每千人年 10.6 例，男性为 8.6 例。低中收入国家的发病率为每千人年 13.6 例，而高收入国家为 8.3 例。目前全世界有逾 5700 万人受痴呆症困扰，到 2050 年这一数字将达到 1.5 亿。每年新增 2400 万痴呆症病例，将给个人、家庭、卫生系统及经济带来巨大压力。",
+      "section": "cn-tech",
+      "rankScore": 0.628782
+    },
+    {
+      "id": "1e4a7f74bd28a25d",
+      "title": "企业真正需要的，不是更聪明的 Agent ？",
+      "url": "https://www.infoq.cn/video/Wss036X3C6APXsS41HwC?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-14T18:36:53.000Z",
+      "author": "QCon全球软件开发大会",
+      "section": "cn-tech",
+      "rankScore": 0.602263
+    },
+    {
+      "id": "b37eb3be24e06160",
+      "title": "多市场行情进入Pandas 后，如何处理时区、交易日与缺失K 线？摘要当A 股、港股和美股行情进入同一个Pan",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BTktiQVoxcUlmLUVqdVNxbFBUU2FfOUhKSldKWmlkVjVjcElyeDBmR3NjdEhDYnExN2NBWXc0UmZWdVB4RG5DREU3aXRHTFlRZkhRNQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-14T23:02:00.000Z",
+      "excerpt": "多市场行情进入Pandas 后，如何处理时区、交易日与缺失K 线？摘要当A 股、港股和美股行情进入同一个Pan 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.473135
+    },
+    {
+      "id": "a5c21373d41a6e69",
+      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
+      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-14T17:38:31.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10.",
+      "section": "security",
+      "rankScore": 0.586051
+    },
+    {
+      "id": "e898bfc1303ef2e2",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-0322 Palo Alto Networks PAN-OS Code Injection Vulnerability CVE-2026-76519 Cisco Secure Email Gateway Relative Path Traversal Vulnerability…",
+      "section": "security",
+      "rankScore": 0.492018
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 44 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
