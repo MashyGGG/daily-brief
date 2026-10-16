@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-16",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-16T16:34:26.889Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "5dcd37bf68f3ed2a",
+      "title": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-16T16:34:26.889Z",
+      "score": 879,
+      "excerpt": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "3aaf3df57c495974",
+      "title": "Uber Automates Dependency Analysis Across Its Service Mesh",
+      "url": "https://www.infoq.com/news/2026/10/uber-automated-dependency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-16T14:39:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Uber has developed an automated dependency analysis system that uses RPC middleware and production metrics to correlate caller and downstream failures.",
+      "section": "tech",
+      "rankScore": 0.693402
+    },
+    {
+      "id": "688a4277443d162e",
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "source": "lobsters",
+      "publishedAt": "2026-10-16T15:41:08.000Z",
+      "author": "calif.io via friday",
+      "section": "tech",
+      "rankScore": 0.657747
+    },
+    {
+      "id": "b9a1c2cc2e7d5e59",
+      "title": "The Folders Programming Language",
+      "url": "https://danieltemkin.com/esolangs/folders",
+      "source": "hn-front",
+      "publishedAt": "2026-10-16T05:11:28.000Z",
+      "score": 172,
+      "author": "gurst",
+      "excerpt": "172 points · 30 comments · https://news.ycombinator.com/item?id=50114342",
+      "section": "tech",
+      "rankScore": 0.629725
+    },
+    {
+      "id": "1adcad61abe1892f",
+      "title": "Continuous accountability for Verified bots",
+      "url": "https://blog.cloudflare.com/verified-bots-accountability/",
+      "source": "cloudflare",
+      "publishedAt": "2026-10-16T13:00:00.000Z",
+      "author": "Chris Tsoukaladelis",
+      "excerpt": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.",
+      "section": "tech",
+      "rankScore": 0.538094
+    },
+    {
+      "id": "128dd2006e3af823",
+      "title": "The new Apple TV 4K just got its first (very small) discount",
+      "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+      "source": "verge",
+      "publishedAt": "2026-10-16T16:02:22.000Z",
+      "author": "Sheena Vasani",
+      "excerpt": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first…",
+      "section": "tech",
+      "rankScore": 0.479306
+    },
+    {
+      "id": "060af88cac74934f",
+      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "source": "latent-space",
+      "publishedAt": "2026-10-16T04:16:45.000Z",
+      "excerpt": "Nick Cammarata out of nowhere with some major claims!",
+      "section": "ai",
+      "rankScore": 0.383587
+    },
+    {
+      "id": "7bd8ff906484063d",
+      "title": "SLM 生成式高并发推理引擎：延迟约束下的有效吞吐优化",
+      "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-16T16:34:26.889Z",
+      "excerpt": "本文为SLM（Small Language Model， 小参数量语言模型0.5~1B）在搜推场景的大规模落地提供了一套高性能、可复用的工程实践。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "48a3cb926384f509",
+      "title": "印象中 aws ses 邮箱服务不是很难申请生产模式吗",
+      "url": "https://www.v2ex.com/t/1249463",
+      "source": "v2ex",
+      "publishedAt": "2026-10-16T12:36:18.000Z",
+      "score": 5,
+      "author": "trumpmaga",
+      "excerpt": "之前申请过一次，没有通过，而且客服的回复也让人摸不着头脑！ 今天申请直接秒通过了，我准备了好多字的小作文（申请说明）都没用上，开心一整天了要😆",
+      "section": "cn-tech",
+      "rankScore": 0.707937
+    },
+    {
+      "id": "e51e2cab15e2b63f",
+      "title": "谷歌的 Android 安全状态库支持组件级安全校验",
+      "url": "https://www.infoq.cn/article/yZh3MeRrBa7IbsB1PrUp?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-16T14:17:00.000Z",
+      "author": "作者：Sergio De Simone",
+      "section": "cn-tech",
+      "rankScore": 0.634549
+    },
+    {
+      "id": "068427668e60d5dc",
+      "title": "人与猫的催产素水平正相关",
+      "url": "https://www.solidot.org/story?sid=85633",
+      "source": "solidot",
+      "publishedAt": "2026-10-16T10:27:47.000Z",
+      "excerpt": "日本京都大学的研究人员在 iscience 期刊上发表了一篇论文，他们在一个月内测量了 19 名主人和 29 只宠物猫的催产素和皮质醇水平，评估主人的情绪，通过蓝牙信号监视主人和猫之间的距离。结果显示，主人与猫的催产素水平呈正相关，皮质醇水平之间的关联很小。猫的催产素水平越高，与主人皮质醇水平就越低和负面情绪越少相关，主人更高的皮质醇水平与更多的负面情绪相关。主人与猫之间距离越近，主人的活力水平就越高。探索性行为测试则将猫的催产素与社会接近行为联系起来，将皮质醇与对陌生人的接近减少联系在一起。",
+      "section": "cn-tech",
+      "rankScore": 0.577937
+    },
+    {
+      "id": "6dcf01b8f5aeba04",
+      "title": "GOTC 系列活动 || 在 AI Native 时代，招募 200 位少年一起来创造！",
+      "url": "https://www.oschina.net/news/503065",
+      "source": "oschina",
+      "publishedAt": "2026-10-16T11:50:05.000Z",
+      "excerpt": "Technology Anchors the Future Sailing Toward the Stars and the Sea 在AI Native时代招募200位少年 一起来创造！ GOTC少年系列活动 | 北京亦庄 GOTC Youth Series · Beijing Etown 这是一场什么样的黑客松？ 2026年11月7日-8日，由北京大学计算机学院与北京亦庄实验中学共建的北京亦庄少年人工智能学院，联合开源中国...",
+      "section": "cn-tech",
+      "rankScore": 0.508129
+    },
+    {
+      "id": "1701f38b40521915",
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-16T16:16:44.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google…",
+      "section": "security",
+      "rankScore": 0.691564
+    },
+    {
+      "id": "6c029cfdeb250aa5",
+      "title": "Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials",
+      "url": "https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "CISA and the Federal Bureau of Investigation (FBI) released a Public Service Announcement (PSA) warning election and campaign officials about cyber threats during the 2026 U.S. midterm elections.",
+      "section": "security",
+      "rankScore": 0.56931
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"css-tricks\" looks stale: newest item is 46 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
