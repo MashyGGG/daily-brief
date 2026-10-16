@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-16",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-16T15:21:26.980Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "bc72f90ad9117d71",
+      "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
+      "url": "https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-16T11:44:49.000Z",
+      "excerpt": "BBC事實查核（BBC Verify）對英國海事機構數據的分析顯示，過去一星期內有12艘船隻遭到襲擊。",
+      "section": "news",
+      "rankScore": 0.706687
+    },
+    {
+      "id": "c8a1d974facd7278",
+      "title": "中国拟限禁AI、生物医药和光伏三领域共40项技术的出口",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261016-%E4%B8%AD%E5%9B%BD%E6%8B%9F%E9%99%90%E7%A6%81ai-%E7%94%9F%E7%89%A9%E5%8C%BB%E8%8D%AF%E5%92%8C%E5%85%89%E4%BC%8F%E4%B8%89%E9%A2%86%E5%9F%9F%E5%85%B140%E9%A1%B9%E6%8A%80%E6%9C%AF%E7%9A%84%E5%87%BA%E5%8F%A3",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-16T14:19:46.000Z",
+      "author": "弗林",
+      "excerpt": "中国商务部、科技部周五（16日）发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》（以下简称《目录》）公开征求意见，并对相关技术实施出口前登记的临时管理措施。",
+      "section": "news",
+      "rankScore": 0.668368
+    },
+    {
+      "id": "5df42ee0624d98bd",
+      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-16T14:57:51.000Z",
+      "excerpt": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
+      "section": "news",
+      "rankScore": 0.619108
+    },
+    {
+      "id": "03a90a890a81c461",
+      "title": "‘This is my answer’: Zelenskyy smiles at suggestion he is a scapegoat for Trump’s problems – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-16T15:04:29.000Z",
+      "author": "Jakub Krupa",
+      "excerpt": "Ukraine president also says Starlink speeds not fully restored and Kyiv working with France on other options Several leaders offered Zelenskyy very friendly welcome or, in some cases, simply a big hug as he walked into the room before the formal part of the meeting got under way.",
+      "section": "news",
+      "rankScore": 0.553039
+    },
+    {
+      "id": "8df6e9d0f04357c3",
+      "title": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake",
+      "url": "https://www.nytimes.com/2026/10/16/world/asia/japan-earthquake-warning-false-alarm.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-16T15:01:28.000Z",
+      "author": "Kiuko Notoya and Claire Moses",
+      "excerpt": "Officials on Friday withdrew an alert sent when they believed a 9.9-magnitude earthquake had taken place. In the end, the tremor was hardly felt.",
+      "section": "news",
+      "rankScore": 0.551802
+    },
+    {
+      "id": "ceb3ef761136ae14",
+      "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-16T14:19:36.000Z",
+      "excerpt": "Sheikh Mohammed also discussed Israeli 'violations' in Lebanese territory with Prime Minister Nawaf Salam.",
+      "section": "news",
+      "rankScore": 0.534626
+    },
+    {
+      "id": "e11820f9a8244664",
+      "title": "This Texas Region Flipped for Trump. Will It Stay Red?",
+      "url": "https://www.nytimes.com/2026/10/16/opinion/texas-border-voters-midterms-trump.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-16T14:43:38.000Z",
+      "author": "Mara Gay and Emily Holzknecht",
+      "excerpt": "With control of the Senate at stake, Mara Gay traveled to this Texas border region to hear from voters.",
+      "section": "news",
+      "rankScore": 0.476425
+    },
+    {
+      "id": "00054cc6653a1c7c",
+      "title": "Treasuries head for best week since February as AI jitters halt bond rout",
+      "url": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-16T14:13:05.000Z",
+      "excerpt": "Borrowing costs fall back from highest levels in decades as investors seek safety in government debt",
+      "section": "news",
+      "rankScore": 0.465458
+    },
+    {
+      "id": "fcbc33dfe9088a91",
+      "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
+      "url": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
+      "source": "npr-news",
+      "publishedAt": "2026-10-16T13:26:43.000Z",
+      "author": "The Associated Press",
+      "excerpt": "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.",
+      "section": "news",
+      "rankScore": 0.448814
+    },
+    {
+      "id": "f6fd9f5adbc36995",
+      "title": "以民主换柴油，特朗普的交易令所有人蒙羞",
+      "url": "https://cn.nytimes.com/opinion/20261016/trump-russia-oil-putin/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-16T04:36:15.000Z",
+      "author": "托马斯·弗里德曼",
+      "excerpt": "没有任何美国核心价值是特朗普不会出卖的，他珍视的是金钱而非民主。当他利用美国总统职位牟利的时候，那就是我们集体的耻辱。 Photo illustration by Kim Hoeckele for The New York Times",
+      "section": "news",
+      "rankScore": 0.406041
+    },
+    {
+      "id": "8b62eb91fe856c0b",
+      "title": "特朗普称美国可能会对伊朗镐山核设施发动打击",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GSlB5RlNkT3VPaDJTcXZYaGFfS3dHUlF3TTJzSlVZYWd1eFVmWlNoQlJYYXd5Z3oyYk9zMVhEWTNjT19GNXhxWFI4YUk2THpZWW1vbmNXUGw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-16T14:22:37.000Z",
+      "excerpt": "特朗普称美国可能会对伊朗镐山核设施发动打击 青岛日报 特朗普称不会对伊朗用核武器|唐纳德·特朗普|美国总统|炸弹|地面部队|财讯 finance.sina.com.cn 美军考虑用“炸弹之母”打击伊朗核设施 凤凰网 美国考虑使用\"炸弹之母\"空袭伊朗 局势或将显著升级 中华网 以色列官员称美以就打击伊朗预案进行磋商 ThePaper.cn",
+      "section": "news",
+      "rankScore": 0.401898
+    },
+    {
+      "id": "3fd8214c1792caa9",
+      "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "excerpt": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.",
+      "section": "news",
+      "rankScore": 0.358015
+    },
+    {
+      "id": "9d8dc7d6c97b56af",
+      "title": "从过路客到留量客 社科专家为西双版纳勐海茶文旅康融合“开方”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-16/10716030.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-16T14:56:26.000Z",
+      "excerpt": "中新网云南西双版纳10月16日电 (肖弼钰)“茶好喝，才吸引游客，我们从不愁客源。”南糯山村丫口新寨，哈尼族民宿老板散三的院子里，采茶制茶、茶山徒步、非遗体验等项目一应俱全。说起生意，这位从茶山起步的汉子语气笃定。",
+      "section": "cn-news",
+      "rankScore": 0.755888
+    },
+    {
+      "id": "ba36a5dab8313ccf",
+      "title": "中国公民被诱骗转运案件频发，泰国人口贩运为何难以根治？",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zNFJzaVhMNlYxQnpYNlJNb19yT21ITEw2dkdqcTRadFNLbS0zNE1mcUpPMHBPd2phWklEQkl4ZnZfdnVoLWJrQV80QUlIVV9yT3hZRnRiRFA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-16T15:19:19.000Z",
+      "excerpt": "中国公民被诱骗转运案件频发，泰国人口贩运为何难以根治？ Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.629016
+    },
+    {
+      "id": "b5be48b197f2f70b",
+      "title": "东西问｜爱德华·博阿滕：从零关税到“人文交流年”，中非如何为全球南南合作提供范式？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/10-16/10715795.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-16T09:28:35.000Z",
+      "excerpt": "中新社长沙10月16日电 题：从零关税到“人文交流年”，中非如何为全球南南合作提供范式？",
+      "section": "cn-news",
+      "rankScore": 0.622851
+    },
+    {
+      "id": "530f5abf1eb903c9",
+      "title": "价格改革推动普惠养老服务提质扩面",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716039.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-16T14:31:57.000Z",
+      "excerpt": "养老迎来新变化，关系大家钱包。",
+      "section": "cn-news",
+      "rankScore": 0.607154
+    },
+    {
+      "id": "5e39b61f1fa73b42",
+      "title": "男子中千万彩票大奖，不到一个月挥霍到只剩28.13元，后又骗合伙人449万，称花718万打赏女主播，获刑15年",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yY0pOY09wdkpncHhTRmZneFBNWHd4VXQxeDdYQl9oYnpFd2hya3pLS0NGR2lFZ01GZG5ieEVwMVFiMEJuLWFvVWlCMEt1RnJfMGpxaDBnajRubUxPdDdtMw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-16T13:36:00.000Z",
+      "excerpt": "男子中千万彩票大奖，不到一个月挥霍到只剩28.13元，后又骗合伙人449万，称花718万打赏女主播，获刑15年",
+      "section": "cn-news",
+      "rankScore": 0.581331
+    },
+    {
+      "id": "9e0745136efb10a7",
+      "title": "第一观察丨总书记考察绿色算力产业 指引因地制宜发展新质生产力",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDbzB0X2JwUFhhWnowSjRndTBEUHA5b2hTeng0VzBLcklBVHZSMVJVandSdTRtZ3ROV0szcHVSZkQwSjZyRS0xZnBCeUJWSHFYemNKSUJYZ1VsRHYyaG9QRGxEb3FiTEFVVTlCOGdjUllmYVJmVjBB?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-16T14:19:06.000Z",
+      "excerpt": "第一观察丨总书记考察绿色算力产业 指引因地制宜发展新质生产力 新华网 习近平在内蒙古乌兰察布考察时强调统筹高质量发展和高水平保护坚定不移走生态优先绿色发展之路 央视网 从乌兰察布发展绿色算力，感悟因地制宜方法论 人民网 这个努力种土豆的五线小城市，要靠AI翻身了 风闻 习近平在内蒙古乌兰察布考察 中国日报网",
+      "section": "cn-news",
+      "rankScore": 0.534421
+    },
+    {
+      "id": "73dbeefcb7c44766",
+      "title": "歐盟擬擴大貿易限制 中國：不能幻想以施壓換好處",
+      "url": "https://www.cna.com.tw/news/acn/202610160346.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-16T13:41:03.000Z",
+      "excerpt": "（中央社台北16日電）歐盟領袖峰會舉行之際，傳出歐盟擬擴大對中國的貿易防衛措施。對此，中國商務部今晚放話，歐方不能幻想以施壓換取好處，更不要低估中方維護自身利益的決心和能力。",
+      "section": "cn-news",
+      "rankScore": 0.51881
+    },
+    {
+      "id": "49f485158ca485cb",
+      "title": "让资金更早抵达硬科技——天津五大道金融论坛观察",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODBhd2dWXzRWZkg1cTBNbkNTWnZ1dXdYR2pKX3BlU3dxTzRPaUdpZ2VvbGJYVDRCWHJuZVB5bXB5M3d6alo2Z1E2SlloWU9sbWhiQ016Zmx5NUEtaFBxR1FVb29UZVFDNkF5dElZRElaSzhUOXBPYmFDQ05KMlNEWkNXMHZqMHhO?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-16T14:51:18.000Z",
+      "excerpt": "让资金更早抵达硬科技——天津五大道金融论坛观察 新华网 2026天津五大道金融论坛开幕 搜狐网 共话大国创新与金融强国2026天津五大道金融论坛举办- 中国日报网 China Daily 寻找差异化路径中原证券打造科技金融“河南范式”_证券要闻 证券之星 经济参考报：与创新同频 与产业共振——天津赋能新质生产力的金融实践 南开大学新闻",
+      "section": "cn-news",
+      "rankScore": 0.479177
+    },
+    {
+      "id": "ce50883a055499f9",
+      "title": "Japan taps foreign tech to plug defence gaps as China’s power grows. Will it pay off?",
+      "url": "https://www.scmp.com/news/china/military/article/3371170/japan-taps-foreign-tech-plug-defence-gaps-chinas-power-grows-will-it-pay?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-16T14:00:10.000Z",
+      "author": "Gabriel Dominguez",
+      "excerpt": "Japan is increasingly turning to foreign companies to accelerate its military modernisation, drawing on overseas technology, expertise and production capacity to plug defence gaps that could prove critical in a potential regional conflict involving China.",
+      "section": "cn-news",
+      "rankScore": 0.460821
+    },
+    {
+      "id": "f096833bf3000329",
+      "title": "《伟大的长征》再现“一只青花碗” 感人故事催人泪下",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52ZTdtMzBXRUEtR2lDWUVIRFBUZmd0R1d2am8yRkZrTHgwSWxXemNldEJ0MmJRNElZUmF4NUptWkZTR1FmNmR4SU51ZVhSZEZXUXRtbXhrcS1vQmxnTHEyYjZsbkNPaU45dzJBVHMxcTU?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-16T14:05:47.000Z",
+      "excerpt": "《伟大的长征》再现“一只青花碗” 感人故事催人泪下 中华网 伟大的长征导演谈演员选择|于和伟|何政军|张永新|北京日报|领袖 finance.sina.com.cn “打草鞋的本事不能丢啊” 人民网 《伟大的长征》主创团队谈创作方法论 用接地气的真人真事写真情实感 新华网 《伟大的长征》开播收视飘红口碑爆发，“以人带史”全景展现红军征程 搜狐",
+      "section": "cn-news",
+      "rankScore": 0.396718
+    },
+    {
+      "id": "7b596b8d7b5260a2",
+      "title": "青海多部门协同打击非法进入三江源国家公园行为",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-16/10716008.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-16T14:23:13.000Z",
+      "excerpt": "中新网西宁10月16日电 (记者 潘雨洁)16日，青海省多部门联合召开新闻发布会，聚焦非法进入三江源国家公园突出风险，介绍源头预防、协同打击等相关治理情况。",
+      "section": "cn-life",
+      "rankScore": 0.804164
+    },
+    {
+      "id": "5d92c98176dbc1f7",
+      "title": "AI短剧台词“吃了不烧心”刷屏，“不烧心”就是好食材吗？医生一句话戳破：两码事",
+      "url": "https://www.chinanews.com.cn/life/2026/10-16/10716002.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-16T13:35:38.000Z",
+      "excerpt": "最近",
+      "section": "cn-life",
+      "rankScore": 0.645735
+    },
+    {
+      "id": "937501a61539e14d",
+      "title": "最强17级！台风“蔷琵”路径有变！或登陆我国！福建天气将迎反转",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByNGIxOEFYYWRXaC15X19FN0NROF9EWVZDNEVEeURhZmZLVUFmMWxZcFUxalpDaWUtLWVlMk1SR3N3MkQ4UjdRY1VnNmcxYmJNcG95N2dBSzJLQlE1bU5SbUZCRTk?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-16T14:10:54.000Z",
+      "excerpt": "最强17级！台风“蔷琵”路径有变！或登陆我国！福建天气将迎反转 福州新闻网",
+      "section": "cn-life",
+      "rankScore": 0.597439
+    },
+    {
+      "id": "087160bfb32e8a6d",
+      "title": "《资阳市长期护理保险实施细则》10月17日开始施行！",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zNURfQkZkQVdpT2s4VFp5UlBZVU9QN3JDODIwNVp2N20ydmZEazVCUHRXcXEtcnY5YTRFNXI5QV9vZTMweERrWEFody1ZbTVkYnRqSU5vT1VfSG9VaUM2TGY3Qng?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-16T13:18:32.000Z",
+      "excerpt": "《资阳市长期护理保险实施细则》10月17日开始施行！ 四川在线",
+      "section": "cn-life",
+      "rankScore": 0.573269
+    },
+    {
+      "id": "8fdc2b316fc984e9",
+      "title": "克罗地亚总统米拉诺维奇会见王毅",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jQ0hYeW5zb24zckh0RC1xYmczaExxLUxhRFNjOWFHWDVWdXdiUEtKTGoxZWhmT183VkxWOERHT1VSRUl2dHhKNkJyYS1SR2lwaUVsaVlGVnJtdnhxLXhjbkxRU1czaHBuVjAzeGVR?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-16T15:00:00.000Z",
+      "excerpt": "克罗地亚总统米拉诺维奇会见王毅 中华人民共和国外交部",
+      "section": "cn-life",
+      "rankScore": 0.5512
+    },
+    {
+      "id": "31d0bf13c30b63a9",
+      "title": "圣诺生物子公司特利加压素注射液获药品注册证书",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BbWtzS1pUS2x1LUNxc1MwWS1uY3JuQnVPU3RxakxGUVFjWFdMWWF3Wks1QTI1S0dHNkFxX1V2MGpEOU5nOFEwalRkR2tvT0FfR29RaGppZEgtMUxHdlcyTWFB?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-16T14:52:03.000Z",
+      "excerpt": "圣诺生物子公司特利加压素注射液获药品注册证书 观点网",
+      "section": "cn-life",
+      "rankScore": 0.479446
+    },
+    {
+      "id": "9a6c4e58748d0816",
+      "title": "跨模型转录组分析比较 PEDV 感染 IPEC-J2 细胞与仔猪空肠的宿主反应",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15S0xQSlZiVnRWQko3S0lwa1hGb0UtSkpKVUo0Q2FGZjFuVUdOMVZMbDBTcVE2UDloYTVaLUtiT3VSS3hnX1pFand3al9UTC1XdDBUSXFiM004c0pRWlgwenpBMjRtZ1hHemZOVWZNSQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-16T13:52:15.000Z",
+      "excerpt": "跨模型转录组分析比较 PEDV 感染 IPEC-J2 细胞与仔猪空肠的宿主反应 生物通",
+      "section": "cn-life",
+      "rankScore": 0.45798
+    },
+    {
+      "id": "0cc9b3486180d95c",
+      "title": "【学术研究】比较教育研究 | 裘晓兰：“为全民”还是“为精英”——日本学校科学教育的发展演进、体系构建与实践反思",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDJGYkkzYW84VzN0cTN4bGpuNDdueFFXX3ZWS3EtN2JJWVZmOEIwQmd4SGZSVW1rNURrRGgzZVRNTUMyVGIyMGRPWldXQ2FobkFxVnlBdzdlTU9qQ2UwYmVKYmNiSll5VGZ3RFhVaUVPUnRIMERLRzlQdGYtWWVIMWtwUm9KYkJ1b2tRTktpN3FOX0xORlJVcDVRdWZSNnNkdWZFSg?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-16T14:32:56.000Z",
+      "excerpt": "【学术研究】比较教育研究 | 裘晓兰：“为全民”还是“为精英”——日本学校科学教育的发展演进、体系构建与实践反思 搜狐",
+      "section": "cn-life",
+      "rankScore": 0.405072
+    }
+  ],
+  "warnings": []
+}
