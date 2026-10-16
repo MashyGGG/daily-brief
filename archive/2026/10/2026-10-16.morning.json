@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-16",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-16T00:19:38.471Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "d29b3da0f19fe8a8",
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "source": "hn-front",
+      "publishedAt": "2026-10-15T17:47:39.000Z",
+      "score": 583,
+      "author": "bigwheels",
+      "excerpt": "583 points · 327 comments · https://news.ycombinator.com/item?id=50107379",
+      "section": "tech",
+      "rankScore": 1.049336
+    },
+    {
+      "id": "6914eefdfc530fa4",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-16T00:19:38.471Z",
+      "score": 582,
+      "excerpt": "An agentic skills framework & software development methodology that works.",
+      "section": "tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "ac4ba358fd1ed2e2",
+      "title": "Announcing Rust 1.99.1",
+      "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-15T23:03:00.000Z",
+      "author": "blog.rust-lang.org via BD103",
+      "section": "tech",
+      "rankScore": 0.661743
+    },
+    {
+      "id": "240dddeb3bdae92b",
+      "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-15T19:35:13.000Z",
+      "author": "Allison",
+      "excerpt": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date…",
+      "section": "tech",
+      "rankScore": 0.620993
+    },
+    {
+      "id": "a089d4621b5699d3",
+      "title": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
+      "url": "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-10-15T17:00:00.000Z",
+      "author": "Eira May",
+      "excerpt": "Most engineering teams capable of building an internal AI knowledge system think they should. But six months later, it's a platform team's full-time job. Building an in-house AI context layer costs more money and energy than you think.",
+      "section": "tech",
+      "rankScore": 0.548984
+    },
+    {
+      "id": "3209dbfcd665ffab",
+      "title": "A fully programmable secure web gateway",
+      "url": "https://blog.cloudflare.com/programmable-gateway-dlp/",
+      "source": "cloudflare",
+      "publishedAt": "2026-10-15T17:11:12.000Z",
+      "excerpt": "Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform.",
+      "section": "tech",
+      "rankScore": 0.52289
+    },
+    {
+      "id": "42b76880156c718b",
+      "title": "v2.1.301",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.301",
+      "source": "anthropic",
+      "publishedAt": "2026-10-15T19:22:06.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added CLAUDE_CODE_RETRY_WATCHDOG_MAX_USAGE_LIMIT_WAIT_MS so unattended retry mode ( CLAUDE_CODE_RETRY_WATCHDOG ) ends a request at a usage limit that resets too far away instead of waiting Added OpenTelemetry tracing guidance to the claude-api skill, including setting up trace…",
+      "section": "ai",
+      "rankScore": 0.771687
+    },
+    {
+      "id": "b37e32b03a0996b4",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "openai",
+      "publishedAt": "2026-10-15T19:00:00.000Z",
+      "excerpt": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "section": "ai",
+      "rankScore": 0.764013
+    },
+    {
+      "id": "16736a2a6c1d5e81",
+      "title": "Chirp Pong",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-15T19:47:52.000Z",
+      "excerpt": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work!",
+      "section": "ai",
+      "rankScore": 0.749408
+    },
+    {
+      "id": "417269d053bd8505",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "huggingface",
+      "publishedAt": "2026-10-15T20:34:01.000Z",
+      "section": "ai",
+      "rankScore": 0.716992
+    },
+    {
+      "id": "1d47078a07bea6e9",
+      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+      "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-16T00:19:38.471Z",
+      "excerpt": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "a799093896fd9545",
+      "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
+      "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-10-16T00:02:56.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。...",
+      "section": "cn-tech",
+      "rankScore": 0.712743
+    },
+    {
+      "id": "36daee02c7022503",
+      "title": "拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+      "url": "https://www.infoq.cn/article/wMMAbsA4UOtYlAl1fH4T?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-15T23:06:01.000Z",
+      "author": "青和",
+      "section": "cn-tech",
+      "rankScore": 0.679549
+    },
+    {
+      "id": "0bc38a7f9dde67fa",
+      "title": "40+找出路在何方~~",
+      "url": "https://www.v2ex.com/t/1249124",
+      "source": "v2ex",
+      "publishedAt": "2026-10-15T10:59:53.000Z",
+      "score": 11,
+      "author": "xmgrl2023",
+      "excerpt": "rt ，40+，公司在优化、降薪，现在没有目标，迷茫~~，技术出生，搞逆向，木有前途啊，想跳出技术，奈何没有方向",
+      "section": "cn-tech",
+      "rankScore": 0.666311
+    },
+    {
+      "id": "8e2468a8e901dd84",
+      "title": "AI漫剧火了，万兴科技的机会来了？",
+      "url": "https://www.36kr.com/p/4027110374510983",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-15T23:24:16.000Z",
+      "author": "连线Insight",
+      "excerpt": "不久前，影视圈曾掀起一场讨论，“AI能替代真人演员吗？” 这个问题背后是复杂的社会现象，有观众对传统影视产能、创作模式的审视，也有AI短剧和漫剧爆发后，行业对AI内容生产的期待与焦虑。 讨论还在进行，资本市场就已经开始为AI剧集概念股投票了。 近几日AI剧集、AI漫剧及短剧概念板块持续走高。尤其是10月12日，传媒出版、影视院线板块掀起涨停潮，其中新华传媒录得10天10板，德才股份走出4天3板，中文在线、慈文传媒、上海电影等十几只标的多日连板或大幅飙升。 涨停的个股大多集中在内容出品、IP 储备环节，而上游AI生产工具赛道也同样被带动，万兴科技的股价也跟着暖了起来。",
+      "section": "cn-tech",
+      "rankScore": 0.616156
+    },
+    {
+      "id": "752079c6ea2b5366",
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-15T20:24:36.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it.",
+      "section": "security",
+      "rankScore": 0.634711
+    },
+    {
+      "id": "ce1472e963661108",
+      "title": "CISA Malcolm",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-15T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary The following versions of CISA Malcolm are affected: Malcolm <=v26.07.1 (CVE-2026-107336, CVE-2026-107361, CVE-2026-107337, CVE-2026-107335, CVE-2026-107334) Malcolm <=v26.08.0 (CVE-2026-107333, CVE-2026-107362) CVSS Vendor Equipment v3 8.1 CISA Malcolm 6 Vulnerabilities…",
+      "section": "security",
+      "rankScore": 0.494544
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 45 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
