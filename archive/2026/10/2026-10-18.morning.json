@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-18",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-17T23:59:21.484Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 11,
+  "items": [
+    {
+      "id": "ee9dbdb569b36f5e",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-17T23:59:21.484Z",
+      "score": 580,
+      "excerpt": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "section": "tech",
+      "rankScore": 1.08
+    },
+    {
+      "id": "e22d73f1ed8ea8c0",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-17T14:01:01.000Z",
+      "score": 453,
+      "author": "xbmcuser",
+      "excerpt": "453 points · 300 comments · https://news.ycombinator.com/item?id=50131256",
+      "section": "tech",
+      "rankScore": 0.972861
+    },
+    {
+      "id": "e9d997bbd604332b",
+      "title": "EP229: 8 Chunking strategies for RAG-based agents",
+      "url": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-17T15:30:51.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Which chunking strategy are you running in production?",
+      "section": "tech",
+      "rankScore": 0.614623
+    },
+    {
+      "id": "cbffc73099174728",
+      "title": "Abolish AI! Manifesto",
+      "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-17T18:25:58.000Z",
+      "author": "abolish-ai.net via janus",
+      "section": "tech",
+      "rankScore": 0.592206
+    },
+    {
+      "id": "bdb055674e711b86",
+      "title": "TikTok bans Musk documentary account",
+      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "source": "verge",
+      "publishedAt": "2026-10-17T19:32:23.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment.",
+      "section": "tech",
+      "rankScore": 0.438088
+    },
+    {
+      "id": "36dd0d0cca58bf3a",
+      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+      "source": "ars-technica",
+      "publishedAt": "2026-10-17T11:00:21.000Z",
+      "author": "Samuel Axon",
+      "excerpt": "The single-player is just OK, but according to the players, that doesn't matter.",
+      "section": "tech",
+      "rankScore": 0.338526
+    },
+    {
+      "id": "7b63a4f5a8fc453d",
+      "title": "DeepSeek-V4.1-Flash-1017 发布了，今晚我让它通宵写代码（Day 4）",
+      "url": "https://www.v2ex.com/t/1249671",
+      "source": "v2ex",
+      "publishedAt": "2026-10-17T16:25:08.000Z",
+      "score": 8,
+      "author": "chaxiu",
+      "excerpt": "今天是挑战第 4 天，正好赶上 DeepSeek-V4.1-Flash-1017 发布。 看官方刚放出的评测跑分，代码与 Agent 几项指标都很猛，已经逼近 GPT 和 Claude 第一梯队了。 原本在我的 AI 公司里，Gemini 4 当高管和主力研发，DeepSeek 只负责打下手。既然新模型这么强，今晚我决定给它升职，让它承担核心研发任务，自己挂机通宵跑一夜。",
+      "section": "cn-tech",
+      "rankScore": 0.741444
+    },
+    {
+      "id": "57a8ac3b458ccb75",
+      "title": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
+      "url": "https://www.solidot.org/story?sid=85638",
+      "source": "solidot",
+      "publishedAt": "2026-10-17T15:55:34.000Z",
+      "excerpt": "协作游戏逆向工程网站 decomp.dev 宣布将关闭，管理员称 AI 让游戏反编译变得快且易于操作，基于人工的社区协作模式实际上已经瓦解，无法再区分哪些项目是以人工为主导的，哪些是由 AI 完成的。decomp.dev 管理员 Encounter 在官网声明中表示，从历史上看，匹配反编译一直是极其困难且耗时的任务，即便是对那些有适量活跃贡献者的中等规模游戏来说，反编译要以“年”为单位计时，但 GPT-6-Astra 之类的前沿 AI 模型最近已让反编译游戏变得极其轻松：它们在遵循复杂指令、为符号或调试信息交叉检索资源，以及在获得充分指引的情况下编写自然代码方面，要强得多。",
+      "section": "cn-tech",
+      "rankScore": 0.622175
+    },
+    {
+      "id": "3e63b4a35e0ae8a6",
+      "title": "天文学家发现第一颗绿色恒星",
+      "url": "https://www.solidot.org/story?sid=85637",
+      "source": "solidot",
+      "publishedAt": "2026-10-17T15:29:26.000Z",
+      "excerpt": "天文学家可能发现了第一颗绿色恒星——名为 WD J1330+6435 的白矮星，位于地球 326 光年外。部分死亡恒星——即白矮星——在吞噬围绕其运行的行星后，可能会呈现出绿色。WD J1330+6435 一直在吸积其行星伴星上的岩石物质。这一过程使其大气中富含钙、锂和钠元素。模型表明这些元素的存在使得 WD J1330+6435 呈现绿色。WD J1330+6435 是已知首颗真正呈现绿色的恒星。研究人员称，白矮星大气中残留的钠元素吸收了光谱中的橙色部分，留下了幽灵般的绿光。",
+      "section": "cn-tech",
+      "rankScore": 0.61419
+    },
+    {
+      "id": "8fe5e65f8045501f",
+      "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "url": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-17T10:00:00.000Z",
+      "author": "QCon全球软件开发大会",
+      "section": "cn-tech",
+      "rankScore": 0.466845
+    },
+    {
+      "id": "667200e0b81abaf1",
+      "title": "徽章墙",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQemJDZW1WSndFYmxwcmdVb2tOVFdlZlhPR3g1T3pLVEhEdXRuaEFvVy1uOFhFTmFDS0xUbDJDX3lHWFVPektGSW15anBVZTJ6NUE?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-17T15:59:25.000Z",
+      "excerpt": "徽章墙 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.396678
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"css-tricks\" looks stale: newest item is 47 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
