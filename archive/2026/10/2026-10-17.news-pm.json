@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-17",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-17T14:10:53.394Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "fc1c6bb248646090",
+      "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
+      "url": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-17T12:54:47.000Z",
+      "excerpt": "為何已在韓國定居的脫北者，如今對前往中國感到憂慮？BBC深入了解韓國警方發出旅遊警告的背景，以及脫北者實際遭中國當局拒絕入境的個案。",
+      "section": "news",
+      "rankScore": 0.793165
+    },
+    {
+      "id": "9ed4e02e8a628596",
+      "title": "日政府考虑提高法人税筹措防卫费财源 防卫费或攀至每年逾10万亿日元",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261017-%E6%97%A5%E6%94%BF%E5%BA%9C%E8%80%83%E8%99%91%E8%BF%BD%E5%8A%A0%E6%B3%95%E4%BA%BA%E7%A8%8E%E7%AD%B9%E6%8E%AA%E9%98%B2%E5%8D%AB%E8%B4%B9%E8%B4%A2%E6%BA%90-%E9%98%B2%E5%8D%AB%E8%B4%B9%E8%A7%84%E6%A8%A1%E6%88%96%E6%94%80%E8%87%B3%E6%AF%8F%E5%B9%B4%E9%80%BE10%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-17T13:54:56.000Z",
+      "author": "弗林",
+      "excerpt": "据悉，围绕旨在加强防卫力的“安保三文件”修订工作，日本执政阵营内部出现了针对企业的法人税进一步增税的方案，旨在为预计将大幅增加的防卫费筹措财源。多位相关人士于周六透露了这一消息。",
+      "section": "news",
+      "rankScore": 0.691817
+    },
+    {
+      "id": "4bfccfe04bc1fc86",
+      "title": "比利时首相谈欧盟对华贸易态度转变：大家都陷入赤字，反而促成共识",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261017-%E6%AF%94%E5%88%A9%E6%97%B6%E9%A6%96%E7%9B%B8%E8%B0%88%E6%AC%A7%E7%9B%9F%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E6%80%81%E5%BA%A6%E8%BD%AC%E5%8F%98-%E6%88%96%E8%AE%B8%E5%A4%A7%E5%AE%B6%E9%83%BD%E9%99%B7%E5%85%A5%E8%B5%A4%E5%AD%97%EF%BC%8C%E5%8F%8D%E4%BF%83%E6%88%90%E5%85%B1%E8%AF%86",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-17T13:11:36.000Z",
+      "author": "弗林",
+      "excerpt": "比利时首相德韦弗（Bart De Wever）周四晚间表示，比利时制药行业必须得到保护——这并非因为该行业存在竞争力问题，而是出于美国和中国所采取的态度。",
+      "section": "news",
+      "rankScore": 0.669595
+    },
+    {
+      "id": "8b7fdf0add41b474",
+      "title": "特朗普暂停部分对俄新制裁 莫斯科基辅一家欢乐一家愁",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261017-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%82%E5%81%9C%E9%83%A8%E5%88%86%E5%AF%B9%E4%BF%84%E6%96%B0%E5%88%B6%E8%A3%81-%E8%8E%AB%E6%96%AF%E7%A7%91%E5%9F%BA%E8%BE%85%E4%B8%80%E5%AE%B6%E6%AC%A2%E4%B9%90%E4%B8%80%E5%AE%B6%E6%84%81",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-17T12:13:06.000Z",
+      "author": "艾娃",
+      "excerpt": "美国对俄罗斯的制裁政策，再次出现重大转折。美国总统特朗普周五签署行政令，根据俗称《格雷厄姆制裁俄罗斯和伊朗法案》中的豁免条款，暂停实施其中多项对俄制裁措施。消息传出后，普京的经济顾问称，这是一个“重要且真正具有历史意义的时刻”。而乌克兰总统泽连斯基则对此予以谴责，称这是对普京的“奖赏”，也是对他继续实施“侵略”行为的“鼓励”。",
+      "section": "news",
+      "rankScore": 0.639595
+    },
+    {
+      "id": "4d11368c8cc77ee0",
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-17T12:11:58.000Z",
+      "excerpt": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+      "section": "news",
+      "rankScore": 0.575112
+    },
+    {
+      "id": "5bd5529acee27645",
+      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+      "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-17T13:56:29.000Z",
+      "excerpt": "Newsom signed an executive order to examine kill switches for AI models and other measures he had earlier vetoed.",
+      "section": "news",
+      "rankScore": 0.55409
+    },
+    {
+      "id": "6f7d4997b5b8abf8",
+      "title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-17T13:42:27.000Z",
+      "author": "Elisabetta Povoledo",
+      "excerpt": "By announcing his lung condition himself, Leo has been more forthcoming than many popes. But mysteries remain, prompting scrutiny of papal statements for hidden meaning.",
+      "section": "news",
+      "rankScore": 0.548332
+    },
+    {
+      "id": "8755e759010517be",
+      "title": "Isabel Allende wins €1m Spanish literary prize under pseudonym",
+      "url": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-17T13:01:51.000Z",
+      "author": "Emma Loffhagen and Ella Creamer",
+      "excerpt": "Chilean-American author awarded Premio Planeta for sequel to her 1982 debut novel, The House of the Spirits The Chilean-American author Isabel Allende has won Spain’s €1m (£843,000) Premio Planeta, one of the world’s most lucrative literary prizes, under a pseudonym, with a sequel to her…",
+      "section": "news",
+      "rankScore": 0.531676
+    },
+    {
+      "id": "2f5e5af17e9d35fa",
+      "title": "Trump Revives 2020 Election Conspiracies, With Help From the Federal Government",
+      "url": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-17T12:58:49.000Z",
+      "author": "Richard Fausset",
+      "excerpt": "Voting rights advocates fear the Trump administration may use the federal government to cast doubt on the election, discourage participation or try to delegitimize results.",
+      "section": "news",
+      "rankScore": 0.464128
+    },
+    {
+      "id": "e5b7ed2c90d15ff6",
+      "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
+      "url": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-17T12:53:53.000Z",
+      "excerpt": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
+      "section": "news",
+      "rankScore": 0.462357
+    },
+    {
+      "id": "2a80e08fa4e943bb",
+      "title": "Perspective: Midterm money madness",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+      "source": "npr-news",
+      "publishedAt": "2026-10-17T12:00:00.000Z",
+      "author": "Scott Simon",
+      "excerpt": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
+      "section": "news",
+      "rankScore": 0.443014
+    },
+    {
+      "id": "be8b5729af9e1548",
+      "title": "泽连斯基称乌克兰能源系统遭大规模袭击",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDcxMVVRQXpneUV4TGNwYnVBdlF3ODZISVJQajNBbWI1Q1dncFpZYnE2ZVFUcjNtdVduLWpGMHpXQVFlckcxVE14SFZVWWJnS3BMa3ppelZvWmV5QjBnSG9UakxJNEpaNE10a2JRZmMyVjhudktVRml1eldsYjhFb3VNc2dCYUVLSjVoQmJELWwyRVBCb1Vidi1R?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-17T12:57:49.000Z",
+      "excerpt": "泽连斯基称乌克兰能源系统遭大规模袭击 新华网客户端 泽连斯基称乌能源设施遭俄军大规模袭击 新浪财经 美智库：美国柴油价格高与乌克兰袭击俄炼油厂关系不大，与美以伊战事时间重合 凤凰网 俄将对乌攻击俄能源物流设施作出回应 反击措施即将实施 中华网 普京：将对乌攻击俄能源和物流设施作出回应 ThePaper.cn",
+      "section": "news",
+      "rankScore": 0.397516
+    },
+    {
+      "id": "45359e8e48e4df7d",
+      "title": "中新健康｜秋季儿童传染病高发，家长最关心的几个问题一次说清",
+      "url": "https://www.chinanews.com.cn/jk/2026/10-17/10716388.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-17T12:49:12.000Z",
+      "excerpt": "中新网北京10月17日电(记者 赵方园)一场秋雨一场寒。进入十月中旬，天气日渐转凉，昼夜温差加大。儿童免疫系统尚在发育，抵抗力相对较弱，容易受到各种病原体侵袭；校园内人员密集、接触密切，又会增加感染和传播风险，稍不注意就可能“中招”，让家长颇为头疼。",
+      "section": "cn-news",
+      "rankScore": 0.789729
+    },
+    {
+      "id": "dacee6eaa53bd656",
+      "title": "《孙中山上海主要行迹路线》在沪发布",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716446.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-17T13:03:15.000Z",
+      "excerpt": "中新社上海10月17日电 (记者 缪璐)“铭记光复荣光 共绘融合新篇”台湾光复纪念日设立一周年暨孙中山先生诞辰160周年主题活动17日在沪举行。活动上，《孙中山上海主要行迹路线》正式发布，以一条条可感可寻的城市路线，串联起孙中山先生在上海留下的奋斗足迹。",
+      "section": "cn-news",
+      "rankScore": 0.731844
+    },
+    {
+      "id": "a05822b23d524977",
+      "title": "塞内加尔前总统宣布退出联合国秘书长竞选",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05OXJKTlVNdUdMQi1qOVRXdHFMMklSR0xBMFVNbXFsbnZZOVowYkFUX0JzQmhsZTZVRVI4cXpQelR0NmpCTk5FbU81UUFmbzh5WHR1OUJ5MUo?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-17T13:38:28.000Z",
+      "excerpt": "塞内加尔前总统宣布退出联合国秘书长竞选 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.615035
+    },
+    {
+      "id": "9191e4c916d965f8",
+      "title": "当AI开始替人做决定，谁在杀死“租流量”的品牌？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716410.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-17T13:31:04.000Z",
+      "excerpt": "很多老板最近都在焦虑：AI越来越聪明，消费者以后买东西是不是直接让AI比价、比参数了？既然AI能自动筛选出“性价比最高”的产品，那品牌是不是就不重要了？",
+      "section": "cn-news",
+      "rankScore": 0.61162
+    },
+    {
+      "id": "8ce5c1ec7e3ecaca",
+      "title": "知名男歌手宣布：将开26场演唱会，观众须封存手机，现场不得交谈、欢呼、拍手、跟唱",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01U0JmNF9yOFRqQnFqeWJ6ZGhqTVZyTkp2WFJQUHBpRHBCOUY1eGViZUNiaXE3Q1ZfZVlvM2ZReEg2ZzdRaXVuZGp4R05jZUZ3c3VIN3Nua1NmVUJjZXFvZg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-17T11:41:00.000Z",
+      "excerpt": "知名男歌手宣布：将开26场演唱会，观众须封存手机，现场不得交谈、欢呼、拍手、跟唱",
+      "section": "cn-news",
+      "rankScore": 0.56082
+    },
+    {
+      "id": "b282123ca80f3c28",
+      "title": "写在APEC领导人非正式会议倒计时一个月之际",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdGdKdm84LVNZRnQ1d0RrRk9qSGZRRjZwT1lBbm9wWjYxZ3VNNXJiV0RoVzNVd1BreWRzQjFwTklibWg1eDl3NnFhZUtIcENYRG51QWhSTkkxeGVCQmhPbW1vTTJvNGJrS3hidUF2c05qQm9KSEZZUXN3RXd5Tzg?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-17T12:05:37.000Z",
+      "excerpt": "写在APEC领导人非正式会议倒计时一个月之际 新华网 “圳先锋”大讲堂2026年第七场讲座暨“圳在宣讲”市直机关专场活动开讲 人民网 倡导绿色出行，鼓励带薪休假！深圳宣布APEC会议期间交通保障措施 新浪财经 深圳举行APEC倒计时30天主题活动 以绿色出行聚共识 搜狐网 APEC主题花坛亮相深圳莲花山公园 新华网",
+      "section": "cn-news",
+      "rankScore": 0.508606
+    },
+    {
+      "id": "a985bc8c16b72a06",
+      "title": "中國三部門聯查尊界風波 分析：重點在背後華為因素",
+      "url": "https://www.cna.com.tw/news/acn/202610170160.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-17T11:14:43.000Z",
+      "excerpt": "（中央社台北17日電）華為新能源車「尊界V800」煞車踏板支架斷裂風波發酵多日後，官方宣布中國國家工信部等三部門成立聯合調查組。港媒今天分析，事件引起如此高層級關注並非因為單純一款新車的品質爭議，重點在於背後的華為因素。",
+      "section": "cn-news",
+      "rankScore": 0.487724
+    },
+    {
+      "id": "fe5fe5ca016de360",
+      "title": "How Taiwan’s new AI satellite system aims to speed up early warning against PLA moves",
+      "url": "https://www.scmp.com/news/china/military/article/3371252/how-taiwans-new-ai-satellite-system-aims-speed-early-warning-against-pla-moves?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-17T14:00:07.000Z",
+      "author": "Lawrence Chung",
+      "excerpt": "Taiwan will acquire an AI-powered satellite imagery system capable of rapidly identifying People’s Liberation Army ships, aircraft and missile launchers, as it seeks to boost early-warning capabilities in the face of growing military pressure from Beijing.",
+      "section": "cn-news",
+      "rankScore": 0.486133
+    },
+    {
+      "id": "ad10ac9a8a962f41",
+      "title": "“彩电第一股”退市，康佳被谁打败了？ | 新京报快评",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPWFdxRFVhWTkxMC1mZUQtTGFWYjRXMWtaRGlybWM5eklCZ2dFbUI3QThQWVhiOGdxSHdVV2xLTWU4Z2t0OEh0cjJ6akEyekMtZDRoU0ZiYmlrMmtCbHhQMC0tTWQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-17T12:46:00.000Z",
+      "excerpt": "“彩电第一股”退市，康佳被谁打败了？ | 新京报快评 新京报 确定退市！“彩电第一股”，将于5个交易日内摘牌|归母净利润|深康佳A|深交所|公司股票|股东会 finance.sina.com.cn 000016，终止上市 凤凰网 昔年“彩电一哥”谢幕：康佳确定退市，连续 4 年累亏约 203 亿元 同花顺 “彩电第一股”确定退市 昔日龙头告别A股舞台 中华网",
+      "section": "cn-news",
+      "rankScore": 0.459527
+    },
+    {
+      "id": "6de7ec74176255eb",
+      "title": "第二十五届中国上海国际艺术节今晚在上海大歌剧院开幕，陈吉宁出席，孙业礼、朱忠明致辞",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3Z2poMTJuZS1YVjh6ZEtPTWRyREFDNUQ1OGZTZndQNGpPa0VIWkZKYXZ4MjBtMzlBU0RiMEd1WG5fX3Eza3laM2QxTXRfRDMwRG9BaU9WYzJPRzFNaE5Vbg?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-17T13:53:00.000Z",
+      "excerpt": "第二十五届中国上海国际艺术节今晚在上海大歌剧院开幕，陈吉宁出席，孙业礼、朱忠明致辞 ThePaper.cn 上海大歌剧院开幕音乐会｜吕其明《红旗颂》奏响“第一声” ThePaper.cn 大幕将启，何以上海？看一座城市的文化跃迁 中国青年网 浦江之滨展开“中国扇”上海大歌剧院正式启幕 搜狐网 第二十五届中国上海国际艺术节启幕 搜狐",
+      "section": "cn-news",
+      "rankScore": 0.414495
+    },
+    {
+      "id": "ca41e96cb55e425f",
+      "title": "（乡村行·看振兴）“茶”中建起黄金屋 湖南苗寨产业焕新见闻",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716414.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-17T13:34:02.000Z",
+      "excerpt": "中新网湘西10月17日电 题：“茶”中建起黄金屋 湖南苗寨产业焕新见闻",
+      "section": "cn-life",
+      "rankScore": 0.817319
+    },
+    {
+      "id": "d30da3d49a1485c7",
+      "title": "“乐业上海优+”行动进行中！浦东这些就业服务活动喊你来参加",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWhXeVFEb0ZzVno2OXgyV3JETlhET1FKQW5jZzNRUk04Yk9uNEpZMlRvTjh3QWlRQkFTZWpBdnh5MGJwV3A2aHUwOHJUV1R2T2QzR29vVHhxWF9FSTdjWVFPSkpMWGd2NmE0eXdkaElEQ1EzOTR2eWI3TFhCWTdzQnlhZElqN2tUZG1hUw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-17T13:04:36.000Z",
+      "excerpt": "“乐业上海优+”行动进行中！浦东这些就业服务活动喊你来参加 搜狐",
+      "section": "cn-life",
+      "rankScore": 0.599405
+    },
+    {
+      "id": "b90a50014b215494",
+      "title": "防灾减灾进万家，北京怀柔消防联合应急局开展国际减灾日活动",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2ExRi1TTmNZbzZPZjA2Q1A4WXNWeFdnQW5PQlQySVhKbGtXMTFaMy15S2dFMzlpOW00eW5SV1dMaURaa3JqN0NiYjBhUldEWC1JU1NNU2dNQUwxeUp3ZURtdDY4VWNKNjk2MWNBQk5icEd3dldQSGxfdXVKZUprYnFWem1raWVPWEFKVjFn?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-17T12:56:00.000Z",
+      "excerpt": "防灾减灾进万家，北京怀柔消防联合应急局开展国际减灾日活动 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.595435
+    },
+    {
+      "id": "dd252263716522f5",
+      "title": "登录",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2FWZC1XeTliTXFYcnpUdTFKX25fbUpDQldzeW9qLTkwZndtQWNsamRDdWpKeVl5UVI3dTVXZ01RZnd1MG1qVm13akZXWGlkN3FmbkRJbUJwY2trMXpyWmZ2THJQNUpzNDd5eHpkMDY3MlhYUVYzVU9ud3huaTZKLUNDRzhMeEVJdkc3QjZB?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-17T12:23:59.000Z",
+      "excerpt": "登录 中国征兵网",
+      "section": "cn-life",
+      "rankScore": 0.516141
+    },
+    {
+      "id": "2cb869d6ad5bd97f",
+      "title": "药品安全“最后一公里”怎样走通？ ——宁夏推动风险监测、质量监管与基层服务有效衔接",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDZTejJhRm96UEE0QkZGTE5XY3FLYnd2WTdTSDQ4WGdQZVBLS002SVJjeEladXAyTG05LWdfMGF2R3dlTVlYQ21XNlhhMnc3V250eGdJQXBoNHliWFZ6SVhvT2JRZTdkd0lwOUdqRk9CcG8xRXM4WU0zMWFVQjFPcnI2U1VUOXhW?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-17T13:54:00.000Z",
+      "excerpt": "药品安全“最后一公里”怎样走通？ ——宁夏推动风险监测、质量监管与基层服务有效衔接 搜狐",
+      "section": "cn-life",
+      "rankScore": 0.483937
+    },
+    {
+      "id": "7002bd800a4092d2",
+      "title": "年长者食欲减退8原因恐得了这个病 - VanPeople",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10aThmdEs2TEt1d0Z0QzVBb1g3cDhDdEV2UjlGYjVIODQ5X3QwLVlBR1JXZ2s3dWxjVkpfS1Z6Y2kzdk9xWHRfN29pU0o4aVZl?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-17T13:09:29.000Z",
+      "excerpt": "年长者食欲减退8原因恐得了这个病 VanPeople",
+      "section": "cn-life",
+      "rankScore": 0.467957
+    },
+    {
+      "id": "89e83f7503e4c370",
+      "title": "血管“杀手”常换马甲 警惕配料表中的这些词",
+      "url": "https://www.chinanews.com.cn/life/2026/10-17/10716162.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-17T04:32:45.000Z",
+      "excerpt": "损伤血管",
+      "section": "cn-life",
+      "rankScore": 0.403518
+    },
+    {
+      "id": "882ef1a00caa258b",
+      "title": "张希赴湖南师范大学附属中学开展科普活动暨招生宣讲",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nT2JZV2FzWGZuZ1dUQV9BbEV1U0xoSDhCT3BKRU9qa21yczlFYTVfVE9MbnY5NFp6dUtxaDV5SDhiU3RjbnR5MW54WERTSXJ2NUgzdlhR?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-17T13:03:16.000Z",
+      "excerpt": "张希赴湖南师范大学附属中学开展科普活动暨招生宣讲 吉林大学",
+      "section": "cn-life",
+      "rankScore": 0.399193
+    }
+  ],
+  "warnings": []
+}
