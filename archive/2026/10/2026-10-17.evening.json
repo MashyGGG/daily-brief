@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-17",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-17T15:29:00.234Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "5501437f09a3cfe3",
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-17T15:29:00.234Z",
+      "score": 829,
+      "excerpt": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "6172973fd534c401",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "source": "hn-front",
+      "publishedAt": "2026-10-17T08:37:46.000Z",
+      "score": 447,
+      "author": "theanonymousone",
+      "excerpt": "447 points · 233 comments · https://news.ycombinator.com/item?id=50129121",
+      "section": "tech",
+      "rankScore": 0.875007
+    },
+    {
+      "id": "19ed308a6ce376f6",
+      "title": "Ship Your Interpreter",
+      "url": "https://www.basis.ai/blog/ship-your-interpreters/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-17T14:16:33.000Z",
+      "author": "basis.ai via edoput",
+      "section": "tech",
+      "rankScore": 0.648861
+    },
+    {
+      "id": "986652cd7e1c319a",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "verge",
+      "publishedAt": "2026-10-17T15:04:36.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: …",
+      "section": "tech",
+      "rankScore": 0.481865
+    },
+    {
+      "id": "e645c45694606160",
+      "title": "Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL",
+      "url": "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-17T06:00:00.000Z",
+      "author": "Gianmarco Nalin",
+      "excerpt": "Amazon has acquired DuckLabs, the company behind the analytical database DuckDB. Co-founders Hannes Mühleisen and Mark Raasveldt will continue to lead the team under AWS. The acquisition aims to enhance the development and reach of DuckDB while maintaining its open-source status.",
+      "section": "tech",
+      "rankScore": 0.461224
+    },
+    {
+      "id": "9752c67c66810604",
+      "title": "Science says your boss should talk less in meetings",
+      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "source": "ars-technica",
+      "publishedAt": "2026-10-17T11:15:11.000Z",
+      "author": "Lesley Evans Ogden, Knowable Magazine",
+      "excerpt": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "section": "tech",
+      "rankScore": 0.405393
+    },
+    {
+      "id": "cced13d82f2b6866",
+      "title": "[AINews] High Taste Testers Ep. 1",
+      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+      "source": "latent-space",
+      "publishedAt": "2026-10-17T07:47:38.000Z",
+      "excerpt": "a quiet day lets us pilot a new show",
+      "section": "ai",
+      "rankScore": 0.52833
+    },
+    {
+      "id": "1f1c58dfa15bb974",
+      "title": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+      "url": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-17T15:00:00.000Z",
+      "author": "作者：Leela Kumili",
+      "section": "cn-tech",
+      "rankScore": 0.686189
+    },
+    {
+      "id": "07f52ef575a4d664",
+      "title": "肉身在墙外，现在做物理机远程 Claude 的生意怎么样？",
+      "url": "https://www.v2ex.com/t/1249581",
+      "source": "v2ex",
+      "publishedAt": "2026-10-17T06:55:02.000Z",
+      "score": 29,
+      "author": "Voyager2718",
+      "excerpt": "最近在 X 发现了一个趋势就是好像越来越多的人想要用墙外的物理 mac Mini 跑 Claude 了。 我人在加拿大，想看看这个生意咋样？ 你们能够接受一个月花多少钱在中转和机器上？",
+      "section": "cn-tech",
+      "rankScore": 0.612227
+    },
+    {
+      "id": "5ac1deed3c1363f2",
+      "title": "MQTT实战 - Topic设计12条军规：90%的消息混乱都源于命名错误（三）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xcENNbXJTeXZLdFAzTGZCVXZtekhoQS1MU3NKUnlHZVdBZ0JqaW9jUzhEVXhHSExtSmtsMzJmUTRmWmw4TWR3eTNoMndxZEdqdnEtOA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-17T11:58:41.000Z",
+      "excerpt": "MQTT实战 - Topic设计12条军规：90%的消息混乱都源于命名错误（三） 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.419893
+    },
+    {
+      "id": "cac67523b9ee200a",
+      "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
+      "url": "https://sspai.com/post/104231",
+      "source": "sspai",
+      "publishedAt": "2026-10-17T06:58:04.000Z",
+      "author": "叁思Santh",
+      "excerpt": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。",
+      "section": "cn-tech",
+      "rankScore": 0.365357
+    },
+    {
+      "id": "f6493ed7cc57f179",
+      "title": "ToolForge v0.1.10 发布：支持在线安装插件，WASM 插件生态正式起步！",
+      "url": "https://www.oschina.net/news/503069/toolforge-0-1-10-released",
+      "source": "oschina",
+      "publishedAt": "2026-10-17T03:15:55.000Z",
+      "excerpt": "今天，ToolForge v0.1.10 正式发布！ ToolForge 是一款基于 Rust + Tauri 2 构建的开源桌面工具箱，面向开发者和效率工作者，希望通过一个应用整合日常开发、数据处理、文件管理和效率工具。 从 v0.1.7 到 v0.1.9，我们一直在丰富内置工具的功能。 而这次 v0.1.10，我希望解决一个更加重要的问题： 工具越来越多，是否每...",
+      "section": "cn-tech",
+      "rankScore": 0.31582
+    },
+    {
+      "id": "30333c4287f8ceeb",
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-17T11:11:56.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\"",
+      "section": "security",
+      "rankScore": 0.577585
+    },
+    {
+      "id": "32ca7e715f473aad",
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-17T06:16:46.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments.",
+      "section": "security",
+      "rankScore": 0.43703
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"css-tricks\" looks stale: newest item is 47 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
