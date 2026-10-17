@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-17",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-17T00:22:58.768Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "15e2fb04286b1ee4",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-17T00:22:58.768Z",
+      "score": 1057,
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "e7df8c0e843f2496",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "hn-front",
+      "publishedAt": "2026-10-16T18:55:59.000Z",
+      "score": 617,
+      "author": "ahlCVA",
+      "excerpt": "617 points · 256 comments · https://news.ycombinator.com/item?id=50122800",
+      "section": "tech",
+      "rankScore": 1.031001
+    },
+    {
+      "id": "756ee4c94bb0e489",
+      "title": "There's never been a better time to go into math",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "source": "lobsters",
+      "publishedAt": "2026-10-16T20:49:12.000Z",
+      "author": "youtube.com via lilac",
+      "section": "tech",
+      "rankScore": 0.624601
+    },
+    {
+      "id": "1ffb3dfaa016324f",
+      "title": "Mini book: Evolutionary Architecture in Practice",
+      "url": "https://www.infoq.com/minibooks/evolutionary-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-16T11:30:00.000Z",
+      "author": "InfoQ",
+      "excerpt": "Discover how to keep software evolvable as systems, technology, and teams shift. This edition explores agentic fitness functions for semantic drift, treating human comprehension as a core design metric, cross-cloud guardrails for regional autonomy, and aligning technical boundaries with Conway’s…",
+      "section": "tech",
+      "rankScore": 0.52168
+    },
+    {
+      "id": "dfbc9194b1df84b1",
+      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source": "verge",
+      "publishedAt": "2026-10-16T22:51:22.000Z",
+      "author": "Jay Peters",
+      "excerpt": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes,…",
+      "section": "tech",
+      "rankScore": 0.472186
+    },
+    {
+      "id": "4c62626e4e35875c",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "source": "ars-technica",
+      "publishedAt": "2026-10-16T20:20:07.000Z",
+      "author": "Ashley Belanger",
+      "excerpt": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "section": "tech",
+      "rankScore": 0.442777
+    },
+    {
+      "id": "5d77522bac0bc66b",
+      "title": "v2.1.302",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
+      "source": "anthropic",
+      "publishedAt": "2026-10-16T20:53:06.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added CLAUDE_CODE_AUTO_MODE_MODEL to choose the model the client-side auto mode classifier uses; it does not change the model for server-side auto mode Added an Idle compaction row to /config for turning idle compaction off or back on; the notices shown after an idle compaction now…",
+      "section": "ai",
+      "rankScore": 0.802125
+    },
+    {
+      "id": "c32c50a5633206ea",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "huggingface",
+      "publishedAt": "2026-10-16T01:44:47.000Z",
+      "section": "ai",
+      "rankScore": 0.363064
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-17T00:22:58.768Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "e277aac3d60c0b30",
+      "title": "避雷这家发卡网",
+      "url": "https://www.v2ex.com/t/1249441",
+      "source": "v2ex",
+      "publishedAt": "2026-10-16T10:10:38.000Z",
+      "score": 7,
+      "author": "chanyeow999",
+      "excerpt": "朋友推荐到这里买 google 账号。里面说是老 google 账号，其实并不是，是 10 月份的账号。其次，页面上的客服不回消息，小飞机上的客服也不回消息。全程不读不回，但是小飞机始终 online ，今早我消息发的早它已读了一次，后续就不读不回了。 商品页面上说 24 小时登录不上包售后，其实是假的，是不会搭理你的。 目前我在这里买的账号已经不可以登录了。8 块钱损失，意义不大，警惕一下就行。 https://mjj.728.hk/buy/94",
+      "section": "cn-tech",
+      "rankScore": 0.653163
+    },
+    {
+      "id": "04cfdbaadf8d78bc",
+      "title": "英国中年男性自杀率达到历史最高水平",
+      "url": "https://www.solidot.org/story?sid=85635",
+      "source": "solidot",
+      "publishedAt": "2026-10-16T16:43:42.000Z",
+      "excerpt": "英国中年男性自杀率达历史最高水平。英国国家统计局 2025 年的数据显示，50 岁出头的男性自杀风险最高。2025 年登记的自杀死亡人数为 6162 人，略低于 2024 年的 6190 人，总体自杀率基本不变，即每 10 万人有 11.3 人死于自杀。接近三分之一死者为 45-64 岁男性，该年龄段自杀人数比 2024 年增加 49 人，该年龄段自杀率达到每 10 万人 23.8 人，高于 2024 年的 23.2 人，为 1981 年开始统计该数据以来的最高纪录。其中 50-54 岁男性自杀率达到每 10 万人 28 人。",
+      "section": "cn-tech",
+      "rankScore": 0.629665
+    },
+    {
+      "id": "053704ac556c444b",
+      "title": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+      "url": "https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-16T17:45:51.000Z",
+      "author": "汪竹",
+      "section": "cn-tech",
+      "rankScore": 0.589686
+    },
+    {
+      "id": "692dec3290dc5447",
+      "title": "从\"会用工具\"到\"能创造工具\"，中国—中亚\"校长π圆桌\"，共话AI时代科技人才培养",
+      "url": "https://www.oschina.net/news/503064",
+      "source": "oschina",
+      "publishedAt": "2026-10-16T11:22:57.000Z",
+      "excerpt": "西安，2026年10月16日 —— \"2026中国—中亚青年科学家人工智能对话活动\"第二日议程中，开源中国副总裁、教育及创新生态业务CEO李晨出席\"校长π圆桌：AI时代科技人才培养路径\"对话环节，与中学、科普场馆、高校的一线教育者及中外青年学子同台对话，系统阐述开源生态赋能青少年AI人才培养的路径与实践。 本场圆桌由西安国...",
+      "section": "cn-tech",
+      "rankScore": 0.434993
+    },
+    {
+      "id": "0ca5e1b150e44406",
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-16T16:43:39.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and…",
+      "section": "security",
+      "rankScore": 0.572408
+    },
+    {
+      "id": "d95a260e3e4670f7",
+      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
+      "url": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "The National Institute of Standards and Technology (NIST), National Security Agency’s Super Intelligence Security Center (NSA SISC) and Cybersecurity and Infrastructure Security Agency (CISA) published Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation…",
+      "section": "security",
+      "rankScore": 0.493617
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"css-tricks\" looks stale: newest item is 46 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
