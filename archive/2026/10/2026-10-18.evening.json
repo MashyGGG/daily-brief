@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-18",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-18T15:48:42.815Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 12,
+  "items": [
+    {
+      "id": "211319e81e6d961f",
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-18T15:48:42.815Z",
+      "score": 513,
+      "excerpt": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "4167ff59eb7b2fde",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-18T15:48:42.815Z",
+      "score": 502,
+      "excerpt": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "section": "tech",
+      "rankScore": 0.984
+    },
+    {
+      "id": "d3e8e3e03371a602",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-18T06:50:36.000Z",
+      "score": 390,
+      "author": "fagnerbrack",
+      "excerpt": "390 points · 198 comments · https://news.ycombinator.com/item?id=50138531",
+      "section": "tech",
+      "rankScore": 0.852507
+    },
+    {
+      "id": "4d8a37fdf1663c5e",
+      "title": "Using timers to perform weekly tasks",
+      "url": "https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks",
+      "source": "lobsters",
+      "publishedAt": "2026-10-18T14:52:34.000Z",
+      "author": "mbork.pl via 7tehdt3cnw6kir6o",
+      "section": "tech",
+      "rankScore": 0.656432
+    },
+    {
+      "id": "8b67c8465b5b2702",
+      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+      "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+      "source": "verge",
+      "publishedAt": "2026-10-18T15:00:00.000Z",
+      "author": "Cameron Faulkner",
+      "excerpt": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage […]",
+      "section": "tech",
+      "rankScore": 0.473762
+    },
+    {
+      "id": "b9a218e07c53f9c9",
+      "title": "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours",
+      "url": "https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-18T05:30:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "On October 24, AWS will operate its European Sovereign Cloud without a connection to the AWS Global Network backbone, with a team of EU residents and the region’s own hardware and software.",
+      "section": "tech",
+      "rankScore": 0.435778
+    },
+    {
+      "id": "5db5a94b29ae1719",
+      "title": "退休教授因阻止 Uber Eats 机器人送货被捕",
+      "url": "https://www.solidot.org/story?sid=85642",
+      "source": "solidot",
+      "publishedAt": "2026-10-18T14:43:08.000Z",
+      "excerpt": "宾夕法尼亚大学 78 岁的荣休教授 Marvin 本周因拒绝给 Uber Eats 的送货机器人让路而被捕。她表示自己记不得多少次挡住机器人的路了，称自己在进行抗议，旨在反对“为增加自身利润而用机器人取代人类送货员的企业”。Marvin 说，她在现场停留了“相当长一段时间”，警察过来要求她让路，让机器人完成送货任务。在她多次拒绝后，警方以扰乱治安为由将她逮捕。Marvin 并未因这次逮捕而退缩，她计划以“美国宪法第一修正案赋予的抗议权利”为由，对这项指控提出抗辩。她打算继续阻挡 Uber Eats的 机器人，并与那些好奇询问她在做什么的路人交流。",
+      "section": "cn-tech",
+      "rankScore": 0.735648
+    },
+    {
+      "id": "97f7ac43944d1646",
+      "title": "以后对程序员的考核指标将变为单位时间内谁用最少的 token 完成目标",
+      "url": "https://www.v2ex.com/t/1249794",
+      "source": "v2ex",
+      "publishedAt": "2026-10-18T11:31:05.000Z",
+      "score": 13,
+      "author": "nkidgm",
+      "excerpt": "在 token 的成本不容忽视的情况下，高效使用 token 将会是另一种新能力。",
+      "section": "cn-tech",
+      "rankScore": 0.708587
+    },
+    {
+      "id": "5fec006b952d11ef",
+      "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+      "url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-18T10:00:00.000Z",
+      "author": "QCon全球软件开发大会",
+      "section": "cn-tech",
+      "rankScore": 0.533946
+    },
+    {
+      "id": "86181129bad22ba3",
+      "title": "从记者到千亿富豪，“最牛文科生”赌中AI",
+      "url": "https://www.36kr.com/p/4031197049100169",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-18T09:48:11.000Z",
+      "author": "字母AI",
+      "excerpt": "“奇点已经到来。” 10月17日，在曼谷举行的国际货币基金组织（IMF）与世界银行年会期间，Anthropic联合创始人杰克·克拉克（Jack Clark）登上佩尔·雅各布森讲座的演讲台，抛出了这个判断。 他向台下的经济学家与政策制定者描绘了一个未来： 一位人类科学家，可以带领成百上千名AI科学家同时开展研究。 如今全球只有约千万名科研人员，而未来，可能会出现十亿名虚拟科学家。 克拉克对AI的未来一直相当笃定，早在十年前，他就把自己的前途押了上去。 那时候，他还是彭博社的一名科技记者。 2016年8月2日，克拉克告诉同事乔·韦森塔尔（Joe Weisenthal），自己已经离开了彭博社。",
+      "section": "cn-tech",
+      "rankScore": 0.475487
+    },
+    {
+      "id": "2457e539ddb50cb5",
+      "title": "个人AI助理记忆持久层架构（小微版）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mMGpkLUNPdG5JMi1oMWYyY1c1MVU5RXhQazB6MmxhZHZoTEx6R2tScVNxQ0NYTzRaNHVnWDlvQWNOXzVQaUhhUWNaemtfbjMxOXNVMQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-18T14:36:52.000Z",
+      "excerpt": "个人AI助理记忆持久层架构（小微版） 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.466051
+    },
+    {
+      "id": "c8aa35f8eb2c98d3",
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-18T08:23:02.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants.",
+      "section": "security",
+      "rankScore": 0.487771
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 48 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
