@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-18",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-18T00:14:53.248Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "76d21fd14db1dee5",
+      "title": "中共二十届五中全会下周举行 全北京维稳升级",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261017-%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E4%B8%8B%E5%91%A8%E4%B8%BE%E8%A1%8C-%E5%85%A8%E5%8C%97%E4%BA%AC%E7%BB%B4%E7%A8%B3%E5%8D%87%E7%BA%A7",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-17T23:16:27.000Z",
+      "author": "法广",
+      "excerpt": "中共二十届五中全会将于下周举行，今年10月17日是前中共领导人赵紫阳107岁冥诞，而且是四通桥事件4周年；三件事加在一起，全北京维稳升级。",
+      "section": "news",
+      "rankScore": 0.683767
+    },
+    {
+      "id": "40724bec506d8ee2",
+      "title": "法国各界面对暴力 不同派别态度不同 极左翼继续将批评重心对准政府",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261017-%E6%B3%95%E5%9B%BD%E5%90%84%E7%95%8C%E9%9D%A2%E5%AF%B9%E6%9A%B4%E5%8A%9B-%E4%B8%8D%E5%90%8C%E6%B4%BE%E5%88%AB%E6%80%81%E5%BA%A6%E4%B8%8D%E5%90%8C-%E6%9E%81%E5%B7%A6%E7%BF%BC%E5%B0%86%E6%89%B9%E8%AF%84%E9%87%8D%E5%BF%83%E5%AF%B9%E5%87%86%E6%94%BF%E5%BA%9C",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-17T23:10:02.000Z",
+      "author": "肖曼",
+      "excerpt": "10月17日星期六的抗议活动从九月份就开始筹备。尤其是在社交媒体上的呼吁不断增加，试图重新激活“黄背心”运动。自八年前诞生以来，黄背心运动抗议再次集中在燃油价格、生活成本、购买力和税务上。",
+      "section": "news",
+      "rankScore": 0.681985
+    },
+    {
+      "id": "8279dcb3592b25f0",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-17T22:09:50.000Z",
+      "excerpt": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "section": "news",
+      "rankScore": 0.598736
+    },
+    {
+      "id": "e98593beb10e1728",
+      "title": "Building set ablaze and more than 1,200 arrested as police clash with protesters across France",
+      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-18T00:01:12.000Z",
+      "author": "Kim Willsher in Paris and William Christou",
+      "excerpt": "Police fire teargas in Paris and Limoges town hall ‘largely lost’ to fire – with officials blaming violence on ‘ultra-left’ More than 1,200 people were arrested in France on Saturday after protesters supporting high school students clashed with police, with some demonstrations later spiralling out…",
+      "section": "news",
+      "rankScore": 0.556958
+    },
+    {
+      "id": "f8990097bfca0ca1",
+      "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+      "url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-17T23:21:57.000Z",
+      "excerpt": "Forces intercepted and destroyed four drones over Saudi Arabia's Riyadh, Eastern Province and southern region.",
+      "section": "news",
+      "rankScore": 0.548236
+    },
+    {
+      "id": "77e47181721d3339",
+      "title": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
+      "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-17T21:39:47.000Z",
+      "author": "Pranav Baskar",
+      "excerpt": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved.",
+      "section": "news",
+      "rankScore": 0.525532
+    },
+    {
+      "id": "f5bf92cc9d1ef188",
+      "title": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
+      "url": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-17T23:54:30.000Z",
+      "author": "Tim Balk",
+      "excerpt": "As he stumps for midterm candidates, the president has been especially eager to talk about the physical appearance of some men.",
+      "section": "news",
+      "rankScore": 0.486036
+    },
+    {
+      "id": "ca9f27dfeda36c99",
+      "title": "上任僅五天便下台，特朗普的白宮新聞秘書出了甚麼問題？",
+      "url": "https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-17T05:43:01.000Z",
+      "excerpt": "BBC駐北美記者分析，距離關鍵的國會中期選舉只剩幾個星期，白宮正面臨愈來愈多的挑戰。",
+      "section": "news",
+      "rankScore": 0.469376
+    },
+    {
+      "id": "36af92f3c592052c",
+      "title": "印度加尔各答踩踏事故已致19人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WbXk2WUlrcXVleGlQeHh5ekZYQ0E4TDlzaWtpWVIwRl9uYm5KcmZCRzM3ckZ5VlMxMUtjSnAwZ0hURGdYUHRMNmRseldGTkFDMTI4d0FoS1ZBLVgxRjNB?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-17T23:49:20.000Z",
+      "excerpt": "印度加尔各答踩踏事故已致19人死亡 华商网",
+      "section": "news",
+      "rankScore": 0.415741
+    },
+    {
+      "id": "16527c5ab35b19c9",
+      "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
+      "source": "npr-news",
+      "publishedAt": "2026-10-17T11:43:14.000Z",
+      "author": "Peter Cox",
+      "excerpt": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.",
+      "section": "news",
+      "rankScore": 0.343845
+    },
+    {
+      "id": "5bafa2e59c3b9746",
+      "title": "Lula turns to selfie videos in election fightback",
+      "url": "https://www.ft.com/content/425cc873-23d8-4028-9ad0-13276bdbccf7?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-17T11:00:02.000Z",
+      "excerpt": "Leftwing leader was beaten by hard-right Flávio Bolsonaro in first round of voting",
+      "section": "news",
+      "rankScore": 0.335445
+    },
+    {
+      "id": "02f48167d2427890",
+      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-17T12:00:00.000Z",
+      "excerpt": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
+      "section": "news",
+      "rankScore": 0.297519
+    },
+    {
+      "id": "e3164b6b1fe568f6",
+      "title": "辽宁省沈阳市委原常委、政法委原书记郭忠孝被“双开”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716465.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-17T14:30:42.000Z",
+      "excerpt": "中新网10月17日电 据辽宁省纪委监委消息，日前，经辽宁省委批准，辽宁省纪委监委对沈阳市委原常委、政法委原书记，沈阳市铁西区委原书记郭忠孝严重违纪违法问题进行了立案审查调查。",
+      "section": "cn-news",
+      "rankScore": 0.645271
+    },
+    {
+      "id": "23cae1a327d4353e",
+      "title": "鲁比奥：白宫无人下令降低乌克兰接入“星链”的速度",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KRGk4SG5nZU9mc0d2aXpxTzVOakRmbHpFQ1NwVkNKWEpvbHJ6T3UtVU1CakEwVnFDazF4MHFrUlhZcWpEU2J5N0E3QXBQcXNfYi1IUE5jV3k?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-18T00:07:11.000Z",
+      "excerpt": "鲁比奥：白宫无人下令降低乌克兰接入“星链”的速度 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.628074
+    },
+    {
+      "id": "23dd631dce77b96d",
+      "title": "蛋挞拉长就出圈了，餐饮创新到底在拼什么？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54SFRub1RjM203eW8zTXJENFVqRWxaU3FJbTJBeV94ZGYyREtpLXR0QkRVWUJHQWE2LWJVM1dvbEs1a196dDdTa2FmbWRHMHJNSE5uVzI1eGtidmg4alQ0Wg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-17T23:25:33.000Z",
+      "excerpt": "蛋挞拉长就出圈了，餐饮创新到底在拼什么？",
+      "section": "cn-news",
+      "rankScore": 0.617666
+    },
+    {
+      "id": "a23d5694b56e5e40",
+      "title": "冀中能源集团董事会原董事陈亚杰接受审查调查",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716463.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-17T14:32:30.000Z",
+      "excerpt": "中新网10月17日电 据河北省纪委监委消息，冀中能源集团有限责任公司董事会原董事，峰峰集团有限公司原党委书记、董事长陈亚杰涉嫌严重违纪违法，目前正接受河北省纪委监委纪律审查和监察调查。",
+      "section": "cn-news",
+      "rankScore": 0.592048
+    },
+    {
+      "id": "eb0b9633b2cda942",
+      "title": "东北和南方多地降水频繁 长江以北地区气温持续偏低",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwa191cjRMVFV5aF9tb2pmTmFMTFFYMDFRQWRJanZKU1BPR1hLb1pwMzZicXcyM2tOTy1MLXk0WmNRY0NWWXNTQlltV0hES0o3T3hTcldBeHp5OEll?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-17T23:59:33.000Z",
+      "excerpt": "东北和南方多地降水频繁 长江以北地区气温持续偏低 天气网 大范围降水进入最强时段 北方多地气温将创下半年来新低 新浪新闻_手机新浪网 明天东北局地或现大到暴雪 新一轮降水将接踵而至 光明网 冷空气登场拉响“秋裤预警” 南北方温差可达15℃以上 中国青年网 北方大部气温刷新下半年新低，内蒙古、黑龙江等地大到暴雪，局部大暴雪；中央气象台发暴雨预警：湖南、湖北、江西、安徽局地暴雨或大暴雨 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.556592
+    },
+    {
+      "id": "679808e8f742be6c",
+      "title": "（友城故事）福建拓国际友城务实合作 达成系列合作成果",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716471.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-17T14:12:45.000Z",
+      "excerpt": "中新社福州10月17日电 (记者 闫旭)“马普托是南部非洲重要滨海港口城市，与福建在海洋产业、临港经济合作潜力巨大。”莫桑比克马普托市市长拉萨克·马尼克17日在福州表示，希望深化与福建友好城市交往，拓展海洋经济务实合作。",
+      "section": "cn-news",
+      "rankScore": 0.479466
+    },
+    {
+      "id": "985962ff4c8621cd",
+      "title": "Beyond EVs and perception, how China is gaining ground in Central Asia",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371232/beyond-evs-and-perception-how-china-gaining-ground-central-asia?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-17T22:00:08.000Z",
+      "author": "Fan Chen",
+      "excerpt": "In Kazakhstan’s futuristic capital Astana, car dealer Auyez Kabdygali is planning a big change to his business as he switches from importing European cars to Chinese electric vehicles.",
+      "section": "cn-news",
+      "rankScore": 0.463798
+    },
+    {
+      "id": "50576847c25737a8",
+      "title": "美股牛市第五年刚开局 半导体股蒸发2万亿美元",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sMi1OLVlSMWhQeW1oN3dhd2xNUmdwVDNrOGtQWTNFRXJJSm1IYWJZVUdlRlBNMjM4M0MtT3NFVV9uTHFOT3ZDRXJOSTBBWEZXU0FqYkRXbkNFQnUzdDJjWTE4Y0xEZHB4?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-17T19:59:45.000Z",
+      "excerpt": "美股牛市第五年刚开局 半导体股蒸发2万亿美元 文学城 美芯片股八连跌！2万亿美元市值蒸发，创2008年来最长跌势 华尔街见闻 美股科技股重挫纳指大跌摘要 新浪新闻_手机新浪网 资金大规模出逃！美股做空者，7天暴赚2140亿元 凤凰网财经 美股牛市四年，闪迪涨41倍成最大赢家！第五年刚开局，半导体股市值蒸发2万亿美元，最大的风险是“缺钱” 同花顺",
+      "section": "cn-news",
+      "rankScore": 0.44039
+    },
+    {
+      "id": "72f1eadac063be47",
+      "title": "重阳养生做好这几件事 安康过秋冬 补养护关键",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xUUxmczZINUlHZl9wcklzTjFBWVl6aXRhLTVRUWZPY2ctaUd3T2dxY3BQUDZQY3VoZkwyYjZSb0NJaVZuT0hSazZOb1Q5WGFpd05OQnN2YVdacVZlaDI2MTBSYkZ6eUhjYVRBYXZNeF8?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-17T23:23:06.000Z",
+      "excerpt": "重阳养生做好这几件事 安康过秋冬 补养护关键 中华网 重阳节前夜，增城4492人登高蕉石岭！ finance.sina.com.cn 【网络中国节·重阳】九九重阳，久久相伴 搜狐 人民日报｜江苏省人医专家：增强免疫力，重在构筑防线 人民网－江苏频道 重阳将至，重视“重样”里的健康隐患 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.411369
+    },
+    {
+      "id": "20b4e8a652d15af7",
+      "title": "中國消費轉型 蘇州台灣美食節調整策略客流量激增",
+      "url": "https://www.cna.com.tw/news/acn/202610170078.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-17T05:44:42.000Z",
+      "excerpt": "（中央社記者馮昭蘇州17日電）第5屆蘇州台灣美食節16日晚上揭幕，因應中國正面臨消費轉型期，主辦單位策展方向是品質提升，定價更親民，加上嘗試新的行銷策略，開展首日白天的客流量已是上屆的5倍。",
+      "section": "cn-news",
+      "rankScore": 0.313292
+    },
+    {
+      "id": "aaac31f4a21782c0",
+      "title": "澳门卫生局局长：发挥澳门独特优势 助力中医药创新出海",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716469.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-17T14:21:39.000Z",
+      "excerpt": "中新社北京10月17日电 (记者 李纯 周昕 马帅莎)2026世界传统医药大会17日在北京启幕。澳门特区政府卫生局局长罗奕龙当日在接受媒体采访时表示，依托制度优势，澳门持续深化中医药守正创新，搭建传统医药国际交流桥梁，服务健康中国与粤港澳大湾区建设。",
+      "section": "cn-life",
+      "rankScore": 0.642254
+    },
+    {
+      "id": "43e96b16145b7253",
+      "title": "大风预警！降雨正式开始，合肥最低气温将降至10℃",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXg5Nzd2TjhHZHVIYnFkUzFmZDVEczJ3NGdtU1d0OEJJMVBkZkdEcGNDbm85TmxZQ1BRd0JwcXppMDBldzFXcEZLMkp1VHFJSG9OWm9rTlo0bzl2M1RJUXFKSnVwNHBNMGdoSFc0R1huU1UzcHFpSXc4aWNUMkZyZDMwTXZGaWxyZWNQMw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-18T00:10:58.000Z",
+      "excerpt": "大风预警！降雨正式开始，合肥最低气温将降至10℃ 搜狐",
+      "section": "cn-life",
+      "rankScore": 0.62902
+    },
+    {
+      "id": "7bc3c7e055d1fd8d",
+      "title": "广发银行第六届“自在卡杯”广场舞大赛启幕",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3FweVRHZXdQR2IteWdYVWtTRm5Lazk3N3hta2pNamN4OWxLSDNheTJNYlNpVlEtNUNCYXYtVVJaN0llbmpiUldmZXlIRHU3OWpzWHNITVAyckVnOGlDcFBDZjlEZmNwdHhncmoyX2NGdElCbDYyV01JNzRNMy1MVkVROFRsN3hjZUM4Mw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-17T23:52:17.000Z",
+      "excerpt": "广发银行第六届“自在卡杯”广场舞大赛启幕 搜狐",
+      "section": "cn-life",
+      "rankScore": 0.624349
+    },
+    {
+      "id": "119d0bc12b9669f8",
+      "title": "“2元买1粒布洛芬”引热议，记者亲测：成都两个机场均可购买单粒应急药，且确保药品可追溯",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1F5VDM4dDlJOTBVWXBCenlNdmZOby1FSWlYM1ZiZm1HQS1vcUxaOHZLaE12bHctdDhMTkRBa1Yyc1ZsQktic1FsNG9TaTNCX2lBSkczanZ0TnRTZWYzeW0wa2tLdEw3a2tuOGs2WUhzWU5CNzRQSUpCemhzR08xTGR6enZObjUzQXZhZXkyYw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-17T22:33:36.000Z",
+      "excerpt": "“2元买1粒布洛芬”引热议，记者亲测：成都两个机场均可购买单粒应急药，且确保药品可追溯 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.470305
+    },
+    {
+      "id": "1d6d66ead86b0902",
+      "title": "找痛点攻难点 打通AI进车间“最后一米”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XR1BPVVNDU3JWVU91dHcxSkR1LXpMbUxTb3ZyemtLZ0o0N3FDNE1Pd0xXVzRCOFVYbHV5SnZTcl9ncUJXTGZsWFU5SW1feWtocWZWQ0dUMWVYY1hMMktNNQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-17T17:10:29.000Z",
+      "excerpt": "找痛点攻难点 打通AI进车间“最后一米” 常州市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.465688
+    },
+    {
+      "id": "7cfc282feb204fe8",
+      "title": "瘦型与肥胖型代谢功能障碍相关脂肪性肝病的心血管代谢风险谱差异：一项纵向健康体检队列研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BRVFHUGYySWNnbF8zbE5BMDN1Z0xEYllvY285LWFZZ2pxbmRZbDFLandwNHhmV1otMXhSRG05YldiTVNMS0pfaktIZ05EblpscVFSclRZLTlaZjBUcE1IaU9xYXNIZXNFRXZ5WUhR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-17T18:27:14.000Z",
+      "excerpt": "瘦型与肥胖型代谢功能障碍相关脂肪性肝病的心血管代谢风险谱差异：一项纵向健康体检队列研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.422401
+    },
+    {
+      "id": "9f4dcc5ba31be4c5",
+      "title": "基于教学设计的健康相关离散选择实验教育材料优化：一项理论驱动方法的随机对照研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yaFREbEVjV0lLQ0lQaXJtN052RFZ5bUlKbVVNaF82cUpwUmZSd3NmT2hqalZjQ0tEM1UtbGU4RGhRZzlHcHdXTFZ4NEpxRC1fOXYtNGdEeldwc0ktMUVNLUN5a2h5RGFpYnIyVWln?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-18T00:10:14.000Z",
+      "excerpt": "基于教学设计的健康相关离散选择实验教育材料优化：一项理论驱动方法的随机对照研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.419224
+    },
+    {
+      "id": "11b9121049460b7b",
+      "title": "两名顶尖生物学家离开美国高校 加入中国民办西湖大学",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TU3pNMTZobnFCc2czYzVtaHZXdWtGQjNTWnhSQ0xVaEc2bzZoZC1zcE9SVE5jQTdPWnBnUVl1U3dMQXZlci1ucG45Rk51TzMyQTBMdl9tRG1NZ3pSU3ZHdVBDZ3NiM1VPMUE?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-17T07:00:54.000Z",
+      "excerpt": "两名顶尖生物学家离开美国高校 加入中国民办西湖大学 联合早报",
+      "section": "cn-life",
+      "rankScore": 0.206391
+    }
+  ],
+  "warnings": []
+}
