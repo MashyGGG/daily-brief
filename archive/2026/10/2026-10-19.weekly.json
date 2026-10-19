@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-19",
+  "slot": "weekly",
+  "scheduleId": "weekly",
+  "generatedAt": "2026-10-19T01:20:19.676Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 168,
+  "itemCount": 20,
+  "items": [
+    {
+      "id": "211319e81e6d961f",
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-18T15:48:42.815Z",
+      "score": 513,
+      "excerpt": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "15e2fb04286b1ee4",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-17T00:22:58.768Z",
+      "score": 1057,
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "5dcd37bf68f3ed2a",
+      "title": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-16T16:34:26.889Z",
+      "score": 879,
+      "excerpt": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "5501437f09a3cfe3",
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-17T15:29:00.234Z",
+      "score": 829,
+      "excerpt": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "e8a910a0fccec297",
+      "title": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-15T00:28:44.085Z",
+      "score": 1025,
+      "excerpt": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "f8b87631b2db540c",
+      "title": "v2.1.303",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
+      "source": "anthropic",
+      "publishedAt": "2026-10-18T22:26:54.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Bug fixes and reliability improvements",
+      "section": "ai",
+      "rankScore": 0.83903
+    },
+    {
+      "id": "19d3425a543886be",
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-18T23:43:09.000Z",
+      "excerpt": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used https without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+      "section": "ai",
+      "rankScore": 0.830885
+    },
+    {
+      "id": "e799b174ecc9dd03",
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-18T23:16:16.000Z",
+      "excerpt": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it.",
+      "section": "ai",
+      "rankScore": 0.821924
+    },
+    {
+      "id": "573e4996ac15f78e",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-14T16:26:53.000Z",
+      "excerpt": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new…",
+      "section": "ai",
+      "rankScore": 0.817469
+    },
+    {
+      "id": "5d77522bac0bc66b",
+      "title": "v2.1.302",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
+      "source": "anthropic",
+      "publishedAt": "2026-10-16T20:53:06.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added CLAUDE_CODE_AUTO_MODE_MODEL to choose the model the client-side auto mode classifier uses; it does not change the model for server-side auto mode Added an Idle compaction row to /config for turning idle compaction off or back on; the notices shown after an idle compaction now…",
+      "section": "ai",
+      "rankScore": 0.802125
+    },
+    {
+      "id": "d0a2feb9c81480ce",
+      "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+      "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-19T00:10:29.613Z",
+      "excerpt": "搭载美团 LongCat 2.0 的全场景 AI Agent 平台 CatPaw 正式上线，我们将模型能力从“跑得动”推向“用得好”。CatPaw 提供开箱即用的 AI 智能工作台与企业级 Agent 开发托管能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-17T00:22:58.768Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "7bd8ff906484063d",
+      "title": "SLM 生成式高并发推理引擎：延迟约束下的有效吞吐优化",
+      "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-16T16:34:26.889Z",
+      "excerpt": "本文为SLM（Small Language Model， 小参数量语言模型0.5~1B）在搜推场景的大规模落地提供了一套高性能、可复用的工程实践。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "1d47078a07bea6e9",
+      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+      "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-16T00:19:38.471Z",
+      "excerpt": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "40afc56873f59675",
+      "title": "美团智播——数字人直播技术创新与实践",
+      "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-15T16:55:48.739Z",
+      "excerpt": "美团智播围绕 AI 主播「长得真→动得准→演得活→卖得好」构建了完整技术闭环：真人 1:1 复刻、换装换背景身份不跑偏；动作自然流畅，告别「木偶戏」；边说边动、音画一致；背后还有推理加速技术支撑万路并发开播，让普惠落地成为可能。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "d028145ee260ff5d",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "source": "krebs",
+      "publishedAt": "2026-10-13T23:24:53.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+      "section": "security",
+      "rankScore": 0.737845
+    },
+    {
+      "id": "1701f38b40521915",
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-16T16:16:44.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google…",
+      "section": "security",
+      "rankScore": 0.691564
+    },
+    {
+      "id": "d87997e3f5898f7e",
+      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+      "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-14T16:34:31.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.",
+      "section": "security",
+      "rankScore": 0.684859
+    },
+    {
+      "id": "58847419bbd708d8",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-13T18:20:57.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.",
+      "section": "security",
+      "rankScore": 0.6749
+    },
+    {
+      "id": "d3219a9d7423db87",
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-15T16:00:26.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of…",
+      "section": "security",
+      "rankScore": 0.673629
+    }
+  ],
+  "warnings": []
+}
