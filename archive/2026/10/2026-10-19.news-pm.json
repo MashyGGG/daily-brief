@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-19",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-19T17:26:46.659Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "2ce259b6d984b598",
+      "title": "特朗普一次次改变立场，还有谁仍然相信他呢？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%9B%BD%E9%99%85%E7%BA%B5%E6%A8%AA/20261019-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E6%AC%A1%E6%AC%A1%E6%94%B9%E5%8F%98%E7%AB%8B%E5%9C%BA%EF%BC%8C%E8%BF%98%E6%9C%89%E8%B0%81%E4%BB%8D%E7%84%B6%E7%9B%B8%E4%BF%A1%E4%BB%96%E5%91%A2",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-19T16:33:25.000Z",
+      "author": "阿曼亭",
+      "excerpt": "欢迎收听国际纵横节目。我是阿曼亭，本次节目关注的是在俄乌战争问题上，美国总统特朗普再度改变态度，松绑对俄罗斯的制裁，同时极力施压乌克兰。特朗普一次次改变立场，谁还会再相信唐纳德·特朗普呢？",
+      "section": "news",
+      "rankScore": 0.672635
+    },
+    {
+      "id": "88736c692d27817a",
+      "title": "韩议员：过去三年左右，通过海路非法入境的绝大多数是中国人",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261019-%E9%9F%A9%E8%AE%AE%E5%91%98-%E8%BF%87%E5%8E%BB%E4%B8%89%E5%B9%B4%E5%B7%A6%E5%8F%B3%EF%BC%8C%E9%80%9A%E8%BF%87%E6%B5%B7%E8%B7%AF%E9%9D%9E%E6%B3%95%E5%85%A5%E5%A2%83%E7%9A%8497-6-%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-19T16:02:27.000Z",
+      "author": "弗林",
+      "excerpt": "周一，在韩国国会农林畜产食品海洋水产委员会对韩国海警进行的国政监查中，最大在野党、国民力量党议员金善教指出，在过去三年左右的时间里，42名海上非法入境者中，有41人（97.6%）是中国籍。另有议员质疑，韩国海警旨在防止非法海上入境的监视系统存在严重缺陷。",
+      "section": "news",
+      "rankScore": 0.656755
+    },
+    {
+      "id": "52803bb6a7ab30af",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-19T17:18:04.000Z",
+      "excerpt": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "section": "news",
+      "rankScore": 0.62598
+    },
+    {
+      "id": "f46b6f6097f03ebe",
+      "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-19T17:13:09.000Z",
+      "author": "Lucy Campbell (now); Jakub Krupa and Martin Belam (earlier)",
+      "excerpt": "Sébastien Lecornu says new measures will be put in place from tonight Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, which…",
+      "section": "news",
+      "rankScore": 0.554409
+    },
+    {
+      "id": "8d5a845cfd3c811a",
+      "title": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
+      "url": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-19T17:10:33.000Z",
+      "author": "Catherine Porter",
+      "excerpt": "The National Rally, already ahead in the polls, presented itself as the party best placed to restore law and order.",
+      "section": "news",
+      "rankScore": 0.553343
+    },
+    {
+      "id": "879b8b19ec033b2f",
+      "title": "《孤獨的美食家》：一個人吃飯，為什麼能紅遍全亞洲？",
+      "url": "https://www.bbc.com/zhongwen/watch/c6x2wvlxqjr8o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-19T09:37:41.000Z",
+      "excerpt": "開播至今14年，《孤獨的美食家》從日本深夜劇成長為風靡亞洲的電視作品。觀眾跟隨主角井之頭五郎穿梭街巷尋找美食和故事。主演松重豐希望讓更多海外觀眾透過美食認識日本文化。",
+      "section": "news",
+      "rankScore": 0.551327
+    },
+    {
+      "id": "011dc087e6811f82",
+      "title": "Iran War backlash threatens Republican control of Congress",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-19T16:24:30.000Z",
+      "excerpt": "Public opposition to the Iran War could threaten Republican control of Congress, as economic fallout fuels voter anger.",
+      "section": "news",
+      "rankScore": 0.53445
+    },
+    {
+      "id": "ae4401c559c29d75",
+      "title": "Judge Grills Witnesses About Decisions Behind Trump’s Plan for DC Golf Course",
+      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-19T17:16:41.000Z",
+      "author": "Zach Montague",
+      "excerpt": "The Justice Department clashed with Judge Ana C. Reyes over testimony by several government witnesses about the chain of decisions surrounding East Potomac Golf Links.",
+      "section": "news",
+      "rankScore": 0.486376
+    },
+    {
+      "id": "fcb02816b8958d32",
+      "title": "US prosecutors allege Saudi royal links in OpenAI bugging case",
+      "url": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-19T16:13:28.000Z",
+      "excerpt": "Prosecutors argue Abdulrahman Alfozan should continue to be detained in the US due to his ‘considerable support from a foreign government’",
+      "section": "news",
+      "rankScore": 0.463683
+    },
+    {
+      "id": "9d517d9e9247cb0b",
+      "title": "胡塞武装：48小时内6袭沙特石油设施等目标",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uMURIb3ZNaFkwS1UwNm9IalVpNjdhb3l1eEFyQzhBd2luNFUyeXY3UUFFQlNScHdyQ1RMeENLNF9OZXZ6THh0bWQ3X0VLSWItZ0d6Ym1MTEg2eGpLZm5lbk41Zm1UalJyN2Y0dWVMUGEwLTlOOFFvcVJPLVgxdFk?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-19T16:59:12.000Z",
+      "excerpt": "胡塞武装：48小时内6袭沙特石油设施等目标 新华网",
+      "section": "news",
+      "rankScore": 0.411515
+    },
+    {
+      "id": "a9d5c8e63fcfa75f",
+      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+      "source": "npr-news",
+      "publishedAt": "2026-10-19T11:15:43.000Z",
+      "author": "Brittney Melton",
+      "excerpt": "More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country.",
+      "section": "news",
+      "rankScore": 0.356799
+    },
+    {
+      "id": "0b3ff600623a2c66",
+      "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "excerpt": "UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
+      "section": "news",
+      "rankScore": 0.319453
+    },
+    {
+      "id": "74592f794a544cad",
+      "title": "四川绵阳北川县发生4.1级地震 暂未收到人员伤亡报告",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717465.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-19T13:52:23.000Z",
+      "excerpt": "中新社成都10月19日电 (记者 岳依桐 刘忠俊)据中国地震台网正式测定，10月19日18时57分，四川绵阳市北川县发生4.1级地震。截至记者发稿时，当地相关部门仍在核查本次地震是否造成人员伤亡及财产损失。",
+      "section": "cn-news",
+      "rankScore": 0.708065
+    },
+    {
+      "id": "3c4f7441df8c9699",
+      "title": "西藏拉萨“两会”即将开幕 过去五年履职答卷亮眼",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10717512.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-19T14:42:24.000Z",
+      "excerpt": "中新网拉萨10月19日电 (贡嘎来松)19日，西藏自治区拉萨市召开市十三届人大一次会议、市政协十三届一次会议新闻发布会，通报过去五年市人大、市政协履职成效，并公布新一届“两会”召开时间。",
+      "section": "cn-news",
+      "rankScore": 0.677274
+    },
+    {
+      "id": "3ad830ac0c40e9f5",
+      "title": "“浙里出海”报告会开讲 专家为浙企解析全球经贸变局",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717528.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-19T14:54:58.000Z",
+      "excerpt": "中新网杭州10月19日电(蓝伊旎)10月19日，第三期“浙里出海”宏观形势报告会在杭州举办，来自浙江外向型企业、相关机构的代表共320余人参会。",
+      "section": "cn-news",
+      "rankScore": 0.559933
+    },
+    {
+      "id": "bbfd939e47b3e312",
+      "title": "每人1万元！柳州267万元救助金发放到位，为这些群体解决“燃眉之急”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fNGdvcElRTlk1Q3YwZFkycmZtT2owak9va3poU01tOEdLRFhZYndFMEJQb0VabGZnbHFrZG5wQ3lDTzlldzRBRzEzWUhyVWpHNHFtMGUyRnBfSFRZUk1OUg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-19T13:40:00.000Z",
+      "excerpt": "每人1万元！柳州267万元救助金发放到位，为这些群体解决“燃眉之急”",
+      "section": "cn-news",
+      "rankScore": 0.525333
+    },
+    {
+      "id": "eae3fe8ac5df31c8",
+      "title": "中国农大食堂“蛤蟆”蛋糕因造型另类逼真而走红，一块9.9元，常被学生抢购一空",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjUkhmS3VXNUJkQ0JPVlFvNU5UdE9hSUJ0VGlFRWVBOHRPYkFNOEtZRXNfQUxUQldTbkp4S19JMXQtWnpIRmVDZ2lqQjNObWd0Nm4xNWZCZTVUTUFJVkpseQ?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-19T13:13:17.000Z",
+      "excerpt": "中国农大食堂“蛤蟆”蛋糕因造型另类逼真而走红，一块9.9元，常被学生抢购一空 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.513003
+    },
+    {
+      "id": "e52dd5facc31a653",
+      "title": "女子冲入酒铺砸酒警方介入 围观者无人上前",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pRWZCMVVFOTdrdkZXcURTNDN4cGg5NHN1SC12LVo2VU1hOFp2bm0wUEl0SDJXN3N6ZmQwUDFXZVlkTlQtUTd0d2lTNHk2ZHdVY1FXSWRsSEpVRjhXcW1EQzJIRlNtSVJfblhVTGZWNDE?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-19T14:38:33.000Z",
+      "excerpt": "女子冲入酒铺砸酒警方介入 围观者无人上前 中华网 女子在酒水铺砸毁约30万元名酒，警方通报 凤凰网 四川宜宾警方通报“女子打砸酒水店铺”：突然情绪失控，已被送往医疗机构诊断治疗 ThePaper.cn 女子冲入酒铺打砸损失超10万 事件引发广泛关注 中华网 四川宜宾一女子打砸酒水经营店铺，警方通报 观察者网",
+      "section": "cn-news",
+      "rankScore": 0.490984
+    },
+    {
+      "id": "169737ca9b2c82aa",
+      "title": "吸引外資 中國金監總局：將推進金融制度型開放",
+      "url": "https://www.cna.com.tw/news/acn/202610190272.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-19T14:28:53.000Z",
+      "excerpt": "（中央社台北19日電）中國國家金融監督管理總局局長丁向群今天表示，將推進金融領域制度型開放各項舉措，支持更多外資機構和長期資本赴中國展業興業。她還提到，將嚴厲打擊非法金融活動，依法將所有金融活動全部納入監管。",
+      "section": "cn-news",
+      "rankScore": 0.487018
+    },
+    {
+      "id": "02e600824fe69988",
+      "title": "伦敦股市19日下跌",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGttUzBNSlJTcklPZ2JGcU9qTlVJN0xTdUJ0SXZDcWhZTktFWVlqcmFPcXVlVWFoUDlZaVF2aUNYMGZHcTdzcUxSUFNRTFNoM0I2N296c3hEdmFkMlVNVVY2VkVQS2JfWWIzQjRVa3kzaTBubzJEQl9EODdycGN1SkNkYXlMU21k?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-19T17:04:01.000Z",
+      "excerpt": "伦敦股市19日下跌 新华网 今日英国股市：银行股与矿业股领跌，股市跌势延续 提供者 Investing.com 英为财情 Investing.com 德国DAX指数、法国CAC40指数日内跌幅达1% 21财经 欧洲主要股指开盘集体下跌 东方财富 【环球财经】伦敦股市13日下跌 搜狐",
+      "section": "cn-news",
+      "rankScore": 0.481829
+    },
+    {
+      "id": "45da9953bdd13f8b",
+      "title": "Is China building a fleet of drone motherships to extend its naval reach?",
+      "url": "https://www.scmp.com/news/china/military/article/3371390/china-building-fleet-drone-motherships-extend-its-naval-reach?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-19T14:00:06.000Z",
+      "author": "Gabriel Dominguez",
+      "excerpt": "A second unusual Chinese vessel suspected of being designed to launch and recover large underwater drones has appeared in Guangzhou, raising questions over whether Beijing is developing a fleet of specialised motherships to extend its undersea operations beyond coastal waters.",
+      "section": "cn-news",
+      "rankScore": 0.415808
+    },
+    {
+      "id": "a577aceeb5f078dd",
+      "title": "被问急了？鲁比奥：我不知道，你问泽连斯基",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hOHRxemNvbUQ4MTJWSFhqd1NLV2JyeVI2VFE5SGZrdWM4YWhDRkNCcWt3Z2VBRzd5bnNjN2dzOVlXU2pPMk8wYU5ncE5tcFhaN0RjY1lpOVlSQVN5MUtqS1hFOFlpVTJTYlBjMHhPNlBXdEU?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-19T14:57:00.000Z",
+      "excerpt": "被问急了？鲁比奥：我不知道，你问泽连斯基 观察者网 卢比奥：美国希望结束俄乌战争 美国之音 乌克兰还算盟友吗？美财长连躲三次，转头警告泽连斯基 观察者网 泽连斯基称与美方代表讨论下一步外交行动_7x24快讯_新浪财经 手机新浪网 美乌的友谊小船，要翻了？ 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.373915
+    },
+    {
+      "id": "d5fe8e25b484f1a6",
+      "title": "青海举办第二届藏传佛教寺庙消防技能竞赛活动",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717533.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-19T15:01:37.000Z",
+      "excerpt": "中新网青海海南10月19日电(祁绣娟 涂少雯)10月15日至16日，青海省第二届藏传佛教寺庙消防技能竞赛在海南藏族自治州举办。青海省委常委、统战部部长班果出席开幕式并宣布活动开幕。",
+      "section": "cn-life",
+      "rankScore": 0.75067
+    },
+    {
+      "id": "67e7ef3ce8aaddb9",
+      "title": "行业人士齐聚重庆 共议移动互联条件下的报业媒体矩阵打造",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10717532.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-19T14:59:11.000Z",
+      "excerpt": "中新网重庆10月19日电 (张旭)10月19日下午，第五届中国报业创新发展大会分会议在重庆举行。与会行业人士围绕“建强主阵地：打造移动互联条件下的报业媒体矩阵”主题，分享实践体会与真知灼见，共同探索深化主流媒体系统性变革、推动深度融合发展的新路径。",
+      "section": "cn-life",
+      "rankScore": 0.749173
+    },
+    {
+      "id": "89e6323d7317669c",
+      "title": "央视《新闻联播》采用永年社保便民典型",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdU1LQTVQaEVOcnN5bUQzcU9YOFNuVHdnY2ZlTnVzX3pyVkNwUGdWQnFpOWpPYjZnWGQtbmhoLWNjNFlRUXpXS2NLMV9kazFFYXFSWUhSRHFiYlQwdzlSZ1BVUUNhZWlnQzZ3RWR3QTNiYXQyMUlIWEJ5a3QtLWQyYkFzQzFpTE1QU0ZIc3Aycw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-19T16:07:39.000Z",
+      "excerpt": "央视《新闻联播》采用永年社保便民典型 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.59348
+    },
+    {
+      "id": "8553181ddb974d0a",
+      "title": "台风“蔷琵”海上发展蓄力，已达超强台风级，维持超强台风强度级别超40小时，可能北上转向日本， 也可能继续西行登陆我国",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UaG5Ua0ltMjBuN2xvOG55ODR5SXlvTVNkOS0zTTY5SmY5NVA4dzFfMF9GTUN1ZUxDbjlwNG9Sb2FFb216UVdIUjFBTlgxVWoxVnNNMDU3ZnhZV2NlQU9oVnM2MXZNUXFlZnow?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-19T15:05:43.000Z",
+      "excerpt": "台风“蔷琵”海上发展蓄力，已达超强台风级，维持超强台风强度级别超40小时，可能北上转向日本， 也可能继续西行登陆我国 华龙网",
+      "section": "cn-life",
+      "rankScore": 0.564895
+    },
+    {
+      "id": "2fefcfd7a3198d44",
+      "title": "李强会见白俄罗斯总理图尔钦",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XX2FldlNGWTU3b2hBVHdQdTJobVRSWnVCWXlKMEplTllzUHpId2s0MHk2VGVfS2lfM3k1LTAwbkhySG1xcTBlLTFfY0dvT2pTQkNPY0VpXzJZaTNQVTEtV1Z5ZU5PM1VQMkQ3bkEySnJ6REZGUUlJbTZFWGc?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-19T15:03:05.000Z",
+      "excerpt": "李强会见白俄罗斯总理图尔钦 驻苏黎世总领事馆",
+      "section": "cn-life",
+      "rankScore": 0.501048
+    },
+    {
+      "id": "fd7950566ae2bcf3",
+      "title": "外侧缰核时空重塑标记抑郁相关表型发生起始",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvUVRLNThIVG82RlNLc3FoWEJjZG50VmF6N2g0cVh0WVZJQ1pDY3NVQ2VqV1dLSlV0ZzhEQTN2WFk4eWNpMUJqX3lOaGs1M1BEUVVXY2gxOHEwajZpQ1lKNVhOZTc5NHBmdWtJYUxR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-19T16:21:24.000Z",
+      "excerpt": "外侧缰核时空重塑标记抑郁相关表型发生起始 生物通 内侧前额叶皮层神经元颗粒蛋白前体介导应激诱导的绝望样行为与神经可塑性损伤 生物通",
+      "section": "cn-life",
+      "rankScore": 0.466531
+    },
+    {
+      "id": "98ae63e17061d69b",
+      "title": "Swisse抗糖丸召回背后：健合中国ANC业务八成收入靠跨境，召回却难触达",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWS1UTWNKbU1WT0ptNXhMR0JfMGdZQ2Z3MGRxZ0llOV81QXZ2VjRoSTljeTZpTUZjLU9UUHYyazFnWm80Y1o4bnhWQTlIV2lwVk9DUEZ2TlhkZzJrTEY1QTBnVXdfc2tlM2g0OXVKV0hBYzlWOF9oM190NXhpMlIzQ1cwZjhWaHpG?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-19T15:36:30.000Z",
+      "excerpt": "Swisse抗糖丸召回背后：健合中国ANC业务八成收入靠跨境，召回却难触达 搜狐",
+      "section": "cn-life",
+      "rankScore": 0.450413
+    },
+    {
+      "id": "1c8990abc06aebcd",
+      "title": "福建师范大学举办“廉小葵”大学生廉洁教育艺术大课堂",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2RZNk5IUUNLSDM1aHhRdzFOcmdVd3pyMXlIeVdYekFMVGh1VURnb2pGLVJaZjJxc0dZd1I4Ukk4SGV3VUFyM0lNeGtYRGJfTGpSbWVRTTZhZVdSUFpqZXdlZDZEbEFzN3ZhVWJpb09Cb04wVHJ2SWZ0VWRFbWEwMnEzVkkyZl8zeTFfa252dXlMbUlMRWRZeWU4eG9lV1phTGw0M256UmltRnpxRXp0UGVHWk45OWxRbDIzM01PS1NoQTFCaHBCWk0tTUxzdw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-19T15:25:05.000Z",
+      "excerpt": "福建师范大学举办“廉小葵”大学生廉洁教育艺术大课堂 欧洲头条",
+      "section": "cn-life",
+      "rankScore": 0.382556
+    }
+  ],
+  "warnings": []
+}
