@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-19",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-19T18:41:58.970Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "b56da44c0087fee8",
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-19T18:41:58.970Z",
+      "score": 1011,
+      "excerpt": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "1a4e4ec396850724",
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "source": "hn-front",
+      "publishedAt": "2026-10-19T13:35:34.000Z",
+      "score": 345,
+      "author": "iamnothere",
+      "excerpt": "345 points · 94 comments · https://news.ycombinator.com/item?id=50152307",
+      "section": "tech",
+      "rankScore": 0.886444
+    },
+    {
+      "id": "e9e409b4c2506ab4",
+      "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
+      "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-19T18:41:58.970Z",
+      "excerpt": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "102d27f70901c485",
+      "title": "Pinterest Uses Event Time Watermarks to Finalize Petabyte Scale Data Partitions",
+      "url": "https://www.infoq.com/news/2026/10/pinterest-event-time-partition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-19T14:37:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Pinterest has introduced event time-based partition finalization for its database ingestion framework. The mechanism uses Apache Flink to track event time and Apache Iceberg metadata to publish a non-regressing watermark, helping downstream jobs determine when continuously ingested CDC data is…",
+      "section": "tech",
+      "rankScore": 0.627092
+    },
+    {
+      "id": "1a1217d6d0748504",
+      "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
+      "url": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
+      "source": "lobsters",
+      "publishedAt": "2026-10-19T16:42:07.000Z",
+      "author": "futhark-lang.org via NoahTheDuke",
+      "section": "tech",
+      "rankScore": 0.626848
+    },
+    {
+      "id": "a0a5e495322b0f6c",
+      "title": "Introducing Clairic, a new System One class of extraction models",
+      "url": "https://blog.cloudflare.com/clairic-extraction-model/",
+      "source": "cloudflare",
+      "publishedAt": "2026-10-19T17:48:26.000Z",
+      "excerpt": "Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs.",
+      "section": "tech",
+      "rankScore": 0.60705
+    },
+    {
+      "id": "dd9a7a2ec902a567",
+      "title": "下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知",
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-19T18:41:58.970Z",
+      "excerpt": "过去一年，我们见证了 Search Agent 能力的显著演进。在 BrowseComp 等评测上，顶尖模型准确率从最初的 30% 区间迅速攀升至 90% 以上。然而，当基准迅速饱和，其区分模型能力的价值也随之递减。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "ef0ef5dc70ad09e6",
+      "title": "谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”",
+      "url": "https://www.infoq.cn/article/AD1M3mJ2SH1dJrTA1r5q?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-19T18:22:05.000Z",
+      "author": "褚杏娟",
+      "section": "cn-tech",
+      "rankScore": 0.690524
+    },
+    {
+      "id": "1563fbc1c03f73b4",
+      "title": "ESA Hera 探测器准备飞越 DART 撞击的小行星",
+      "url": "https://www.solidot.org/story?sid=85652",
+      "source": "solidot",
+      "publishedAt": "2026-10-19T13:59:09.000Z",
+      "excerpt": "ESA Hera 探测器将在一个月后书写历史，它即将与执行首次行星防御测试的两颗小行星交会。NASA 执行双小行星重定向测试（Double Asteroid Redirection Test ，DART）任务的探测器于 2022 年 9 月撞击了 Didymos-Dimorphos 双小行星之一的 Dimorphos。Didymos 是双小行星系统中的主体，直径约 780 米，Dimorphos 直径约 151 米。DART 的撞击使得 Dimorphos 的轨道周期缩短了约 32 分钟。Hera 探测器于 2024 年 10 月 7 日发射，其任务之一是近距离观察这次撞击成果。",
+      "section": "cn-tech",
+      "rankScore": 0.621849
+    },
+    {
+      "id": "766ec54336635c66",
+      "title": "感觉自己的人生好失败",
+      "url": "https://www.v2ex.com/t/1250044",
+      "source": "v2ex",
+      "publishedAt": "2026-10-19T07:43:13.000Z",
+      "score": 51,
+      "author": "1300296933",
+      "excerpt": "从高中开始就靠着兴趣学编程，也小有成果，自认为在同龄人中水平也算优秀了，当时搞了反汇编，读了各种设计的书，去开发游戏，靠自己去找人，找团体，还自学画画去做游戏，当时在这上面也挺自豪的 读了大学也享受着高中学到的技术带来的红利，开始搞 c++，什么东西都搞，而且很喜欢底层，越往底层越喜欢搞，也是找组织找社团，虽然好像没什么真正意义上很重大的成果，但起码自己内心是富足的，是认可自己的。",
+      "section": "cn-tech",
+      "rankScore": 0.587672
+    },
+    {
+      "id": "9156a7c60ade56b1",
+      "title": "出走、回购与Cue，Manus的Personal AI“本土化”大考",
+      "url": "https://www.36kr.com/p/4032555073771393",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-19T13:09:13.000Z",
+      "author": "奇点研究社",
+      "excerpt": "当AI开始替人行动，它究竟该以谁的身份办事？身份由谁授予，权限如何划定，出了差错又由谁负责？ AI助理开始给自己配“身份证”了。 9月28日，Manus推出个人AI助理Cue：每个Agent都可以拥有独立邮箱、电话号码、数字钱包和专属电脑，即使用户退出登录，它也能继续工作。Cue想做的已经超出一个随叫随到的工具，它要以自己的身份，替人处理邮件、接打电话、安排日程，甚至在预算范围内付款。 这套设想把Personal AI推向一个更具体、也更难回避的问题： 当AI开始替人行动，它究竟该以谁的身份办事？身份由谁授予，权限如何划定，出了差错又由谁负责？",
+      "section": "cn-tech",
+      "rankScore": 0.487386
+    },
+    {
+      "id": "89e1ae4db4dd2ae6",
+      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
+      "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-19T16:28:47.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a security notice published on October 16.",
+      "section": "security",
+      "rankScore": 0.636572
+    },
+    {
+      "id": "9cb405e9187aa642",
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "source": "krebs",
+      "publishedAt": "2026-10-19T13:48:56.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned.",
+      "section": "security",
+      "rankScore": 0.616498
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 49 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
