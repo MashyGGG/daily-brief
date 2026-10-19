@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-19",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-19T00:26:34.722Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "368c364627f69054",
+      "title": "矽谷這座城市垃圾太臭居民受不了 就讓科技來幫忙",
+      "url": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-19T00:08:13.000Z",
+      "excerpt": "垃圾場和工業設施散發的氣味正受到更嚴格的監測，但這有幫助嗎？",
+      "section": "news",
+      "rankScore": 0.833879
+    },
+    {
+      "id": "1819eb34141baf59",
+      "title": "我們的廣告提到了「懷孕」 結果給 Instagram 下架了",
+      "url": "https://www.bbc.com/zhongwen/articles/cr1ex0l8l9z5o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-19T00:08:09.000Z",
+      "excerpt": "創作者們表示，她們在社群媒體上發布女性健康內容時遭到了「秘密封鎖」，這背後究竟發生了什麼事？",
+      "section": "news",
+      "rankScore": 0.833857
+    },
+    {
+      "id": "39d52568bd0ca756",
+      "title": "特朗普：法国出现的暴力事件要怪罪移民",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261018-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%B3%95%E5%9B%BD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6%E8%A6%81%E6%80%AA%E7%BD%AA%E7%A7%BB%E6%B0%91",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-18T21:35:07.000Z",
+      "author": "肖曼",
+      "excerpt": "对于法国各地昨天民众抗议活动出现严重混乱，使得许多商家和政府机关遭纵火破坏。美国总统特朗普周日表示，这些状况要怪罪移民，他呼吁法国收紧相关法规。",
+      "section": "news",
+      "rankScore": 0.652372
+    },
+    {
+      "id": "62d75185b3d9dbd3",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-19T00:06:25.000Z",
+      "excerpt": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "section": "news",
+      "rankScore": 0.624959
+    },
+    {
+      "id": "0151b824a9096661",
+      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-18T23:59:34.000Z",
+      "excerpt": "Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+      "section": "news",
+      "rankScore": 0.553997
+    },
+    {
+      "id": "c630dc5e50cb6821",
+      "title": "Outrage after Meta suspends No Kings Instagram account during protests",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-18T23:53:48.000Z",
+      "author": "Sanya Mansoor",
+      "excerpt": "‘Meta owes us an explanation,’ group says as organizers fear censorship after account goes dark for several hours The coalition leaders behind nationwide pro-democracy protests that have drawn millions of Americans to the streets in recent years were frustrated when its Instagram account was…",
+      "section": "news",
+      "rankScore": 0.552716
+    },
+    {
+      "id": "55d0cc7f641802c3",
+      "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+      "url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-18T23:46:21.000Z",
+      "author": "Ian Austen and Vjosa Isai",
+      "excerpt": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil.",
+      "section": "news",
+      "rankScore": 0.55106
+    },
+    {
+      "id": "203c87b76c213fb8",
+      "title": "US rate rises are being amplified in global markets",
+      "url": "https://www.ft.com/content/cea20e2a-379c-4ea2-af94-353b1896b748",
+      "source": "ft-world",
+      "publishedAt": "2026-10-18T23:01:02.000Z",
+      "excerpt": "The Iran war and shifts by China are tightening the supply of dollars in international markets",
+      "section": "news",
+      "rankScore": 0.473366
+    },
+    {
+      "id": "d1b00d0292265265",
+      "title": "At Cornell, a Subdued Scene on First Weekend of Fraternity Party Ban",
+      "url": "https://www.nytimes.com/2026/10/18/nyregion/cornell-university-fraternity-party-ban.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-18T22:33:23.000Z",
+      "author": "Chelsia Rose Marcius",
+      "excerpt": "The moratorium is among the safety measures that the university put in place following the uproar over a former student’s sexual assault lawsuit.",
+      "section": "news",
+      "rankScore": 0.46799
+    },
+    {
+      "id": "aefa83c736962f2f",
+      "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+      "source": "npr-news",
+      "publishedAt": "2026-10-18T18:38:49.000Z",
+      "author": "Kristin Wright",
+      "excerpt": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
+      "section": "news",
+      "rankScore": 0.42238
+    },
+    {
+      "id": "ea0922c4255c523c",
+      "title": "俄美柴油交易新动向！俄副总理：俄柴油将在合同签署后20天内抵美",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00dlJlTGhBWEhUbjF5VWlxYlpQbW9pNHJPX2o2ZmpBVklXTEUwbkx1VFlHbGJpLUc2SVZyMTdSX1BTQ0ZpNklSbw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-19T00:07:00.000Z",
+      "excerpt": "俄美柴油交易新动向！俄副总理：俄柴油将在合同签署后20天内抵美 财联社 俄副总理：俄柴油将在签署合同后15-20天进入美市场|唐纳德·特朗普|俄罗斯政府|总统普京|俄罗斯|诺瓦克 新浪新闻 特朗普称俄将对美供油 拒回应泽连斯基指责 搜狐网 泽连斯基：感觉“被背叛” ThePaper.cn 美松绑对俄油贸易制裁有何影响 中国经济网",
+      "section": "news",
+      "rankScore": 0.416737
+    },
+    {
+      "id": "08757635a3074f36",
+      "title": "Inside the New York ‘time machine’ racing to save a century of sound and film",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168608",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-18T12:00:00.000Z",
+      "excerpt": "“I tell my kids I work in a time machine,” said Rhony Dostaly. In a basement beneath Lincoln Center, the media preservation engineer rescues moments from the past. “I go back in time, and I grab elements, and I make them available for people today.”",
+      "section": "news",
+      "rankScore": 0.29557
+    },
+    {
+      "id": "b373166a259bc4db",
+      "title": "新一股冷空气将影响我国中东部大部地区",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716932.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-19T00:15:49.000Z",
+      "excerpt": "中新网10月19日电 据中央气象台网站消息，19日至21日新一轮冷空气影响中东部地区，关注大风降温、雨雪天气对人体健康、交通出行等的影响，做好森林草原和城乡防火工作。20日开始，新疆北部将出现明显雨雪天气，防范对交通运输、城市运行等的影响。",
+      "section": "cn-news",
+      "rankScore": 0.836413
+    },
+    {
+      "id": "269ef4f2c8dffa9a",
+      "title": "中央档案馆向社会集中开放5000余件长征专题档案",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716931.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-18T23:54:00.000Z",
+      "excerpt": "为纪念中国工农红军长征胜利90周年，弘扬伟大长征精神，19日，中央档案馆向社会集中开放一批长征专题档案，共计5千余件。",
+      "section": "cn-news",
+      "rankScore": 0.760045
+    },
+    {
+      "id": "d0e1aef545f8d2a2",
+      "title": "中信建投：预计2027年国内储能仍有增长的动力和潜力",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NV2swZS04cjhnX1c3eWVRRGdTUm9oQ0lzRXFGWUswdWpXTm04MmhDU0ZOVm5XSmZMckdZRFdmS3d2Ujc1RjlMQm1vekhkcWxJc3pIZkxVdXk?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-19T00:22:01.000Z",
+      "excerpt": "中信建投：预计2027年国内储能仍有增长的动力和潜力 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.628859
+    },
+    {
+      "id": "ed33f3ae02e08df3",
+      "title": "一杯奶茶钱的惠民保如何更有吸引力？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716928.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-18T23:40:01.000Z",
+      "excerpt": "因保费低、带病可保而走红，却也因免赔额高被吐槽小病“够不着”——",
+      "section": "cn-news",
+      "rankScore": 0.618359
+    },
+    {
+      "id": "48e959143c6bd81d",
+      "title": "对话孙立宁：从拧瓶盖到能做饭，具身智能离真正理解环境还有多远？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qTGNyMFo1cmRZSlkwd3JlYnh0bDBKTFA0UTQ0NVBWSmJ2WWFoY3pZMm1GWi1FRU9TVEVFX0tvc29sZTJTNEtLMkxhamJRa3A3Y0F2bmZCMUFjMWRleF9BVA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-18T23:35:00.000Z",
+      "excerpt": "对话孙立宁：从拧瓶盖到能做饭，具身智能离真正理解环境还有多远？",
+      "section": "cn-news",
+      "rankScore": 0.617105
+    },
+    {
+      "id": "21a59f548e227fa1",
+      "title": "培育新质生产力在行动丨内蒙古乌兰察布：绿色算力成为核心竞争力",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnT2YyUUxQV1kydXdHSnhaT3lOeWNEb2lwSWRLTTVLdmtpTi1DUzg1NTZQdjZ4dEJwZDhyZ3pEZVE1ZGpNVDBfbEM2YzJOQXdyRG5nZ0pWT2dPNEM1am9WbGxaMW5yWjN0RmFIMVplUXA?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-18T23:56:17.000Z",
+      "excerpt": "培育新质生产力在行动丨内蒙古乌兰察布：绿色算力成为核心竞争力 中国科技网 习近平总书记关切事｜让湖泊扮靓美丽中国 新华网 第一观察丨从乌梁素海到黄旗海 总书记的生态关切一以贯之 央视网 时政微观察丨内蒙古之行，总书记考察算力产业有何深意？ China Daily 从“薯都”到“token之都”，中国草原跑出算力黑马 光明网",
+      "section": "cn-news",
+      "rankScore": 0.553268
+    },
+    {
+      "id": "b316b599b038c905",
+      "title": "消息称 AI 云厂商 Nscale IPO 估值目标遭投资者反对：砍半才有人买单 - IT之家",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sbkZtUUZ6dXpDRnZuOWlMdzRVT2Z1bXNlTUU5MWNJbVJqTmRrc2E2TE4yOUZSQTBVV29IOFVnNHVhN3VLWUQtMEFRSGo?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-18T23:09:03.000Z",
+      "excerpt": "消息称 AI 云厂商 Nscale IPO 估值目标遭投资者反对：砍半才有人买单 IT之家 Nscale IPO估值目标遭投资者砍半 微软退出合作致进程放缓 finance.sina.com.cn 消息称AI云厂商Nscale IPO估值目标遭投资者反对：砍半才有人买单 凤凰网科技 微软取消AI相关合作，英国本土数据中心先锋企业遭遇重大挫折 36氪 微软退出英国数据中心项目 Nscale拟IPO融资至多30亿美元 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.474925
+    },
+    {
+      "id": "3bbe5e439055b7cd",
+      "title": "日系車商陷苦戰 日產9月中國汽車銷量大跌6成、本田減半",
+      "url": "https://www.cna.com.tw/news/acn/202610180192.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-18T14:00:26.000Z",
+      "excerpt": "（中央社台北18日電）受中國內需市場疲軟、油價上漲與本土車企競爭加劇等因素影響，日系車商在中國市場陷入苦戰。日本車企日產（Nissan）9月在中國市場的新車銷量較去年同期大跌6成、本田（Honda）減5成。",
+      "section": "cn-news",
+      "rankScore": 0.420857
+    },
+    {
+      "id": "ad77ed4fe4ff965f",
+      "title": "华泰证券A股策略：关注三季报盈利环比加速板块",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41ckJOa1dfWC1JeDdkcVc5ekpPdmJaanpsWlpaR1c4cUxjYjVSRGh0M1FZR3BPVG1OVWtNdHk5NTkyQVdmTUVINEgyUWhLbTZuM1NXa013amt3X0dUOUtKd1liZ2xnZw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-18T23:46:38.000Z",
+      "excerpt": "华泰证券A股策略：关注三季报盈利环比加速板块 东方财富",
+      "section": "cn-news",
+      "rankScore": 0.413342
+    },
+    {
+      "id": "8bae1aaea66e6de5",
+      "title": "Katie Zacharia and Mao Ning – a study in contrasts in US and China media strategies",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371317/katie-zacharia-and-mao-ning-study-contrasts-us-and-china-media-strategies?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-18T13:30:09.000Z",
+      "author": "Amber Wang",
+      "excerpt": "Katie Zacharia may have lasted just five days as the White House press secretary but still managed to set off a diplomatic incident with China. In an interview with a conservative commentator on Thursday, Zacharia referred to China as a place that “doesn’t even have proper toilets”. Chinese…",
+      "section": "cn-news",
+      "rankScore": 0.362361
+    },
+    {
+      "id": "8660bfd64cbebd02",
+      "title": "老年人口逐年增加 城乡多元模式破解照护难题",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-19/10716930.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-18T23:46:13.000Z",
+      "excerpt": "近几年，我国老年人口的数量在逐年增加，数据显示，截至2023年底、2024年底、2025年底，全国60周岁及以上老年人口分别是2.97亿、3.10亿和3.23亿人。而另一方面，同样是这三年的统计数据，全国各类养老机构和设施中养老床位的数量却在逐年减少。这两个数据一增一减，背后的原因是什么？能否满足社会养老需求？各地有何应对举措？目前我国养老体系建设面临哪些挑战和发展趋势？",
+      "section": "cn-life",
+      "rankScore": 0.826546
+    },
+    {
+      "id": "6f6c4b1cb28d729f",
+      "title": "外骨骼康复训练项目纳入多地医保 机器人应用场景不断突破",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iNE1NVVdFUkZ5TThEaS15emNZVFJZRExYRFBFc0lRbFlGUXJXek5tdS1wT1lqemhaSXZrZTlzbTFoZldhUlJkM2Z0LURTY1hoVnNJV1g0Q1RTVzRRendjSXpfM3IyR1EyYXJJd1RuTll5UQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-19T00:16:23.000Z",
+      "excerpt": "外骨骼康复训练项目纳入多地医保 机器人应用场景不断突破 中金在线",
+      "section": "cn-life",
+      "rankScore": 0.627451
+    },
+    {
+      "id": "def88788bee2a031",
+      "title": "冷空气加台风！广州或将明显降温，还是湿冷 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzV6NnJtbGF5QWNMYmFKZjRNdWhCRjFzNk1hNFRYNHRqa3dDYm4xWDBuNnJwS3MxbVJQTVVOeDZ1QlZreE1wSGFob2xVVE5TSTJId3dvVUFjSkFKQmhrV3lPUmtKQjV0X0lkemxpdDh3dUdwc2pCMkQ0YU93eFZTVHFzZTUyOEV1cEVuZlI5cw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-19T00:09:46.000Z",
+      "excerpt": "冷空气加台风！广州或将明显降温，还是湿冷 21财经",
+      "section": "cn-life",
+      "rankScore": 0.625797
+    },
+    {
+      "id": "9592ee9af7f0b8ea",
+      "title": "黑龙江省发明专利数量快速增长",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00cEpyU0Y1OGtISHo1Wl9OOC1NU2xEQ0JPRWFvZk15MEwyM3lQQ29UOUgxbTgtZEVjdmJpejRLNkdNUWFNUnctZlVvQzUxLV9jRWI5d29VbjlIZ0p4R1kzR1M2VWxIUDRJUVd6eQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "excerpt": "黑龙江省发明专利数量快速增长 黑龙江省人民政府",
+      "section": "cn-life",
+      "rankScore": 0.554094
+    },
+    {
+      "id": "5fc42e1b9b4721d5",
+      "title": "印度食品安全局要求雀巢和印度联合利华就营养声明作出解释",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5U3VsLTJaQ0cxSFlFNmx2VDRzM3BfWjhHMWp4VkpFR3VkUnNDQ0diS3pFdldqaVhuLVdUc3pKWXpKOVRIZy0tYWItYk5EZUFSdHVNWDR4bDdXdlRfUWstRWFsUUptRmJT?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-19T00:11:41.000Z",
+      "excerpt": "印度食品安全局要求雀巢和印度联合利华就营养声明作出解释 Dairynews.today",
+      "section": "cn-life",
+      "rankScore": 0.487104
+    },
+    {
+      "id": "74e1b97956c943d1",
+      "title": "绝经生殖泌尿综合征中阴道、尿道周围及泌尿系微生物群落间的相互作用以及局部雌激素治疗的影响",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pZnVadmQ1TFNOaVVSY0JtcjZjdWl1eGVFYkFxSXNFR2tUNUhnZzlmMDNicEhrX2k4QmdmZmpNVEkyMTFZbnQ4Y0s1cDRhUU1pZGlmM3JjdnBQUmZJcFg4dnRaU2dnbjhSck1Fcld3?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-18T23:55:53.000Z",
+      "excerpt": "绝经生殖泌尿综合征中阴道、尿道周围及泌尿系微生物群落间的相互作用以及局部雌激素治疗的影响 生物通",
+      "section": "cn-life",
+      "rankScore": 0.484031
+    },
+    {
+      "id": "c425e71049b269e7",
+      "title": "“红色高等教育与教育强国建设”主题活动发布会在中国人民大学发布",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BSURiRV9md3dSOUx3aDRfRWQ0TzRRQm1EbjdUc0RmY01GMmdwaWZ2SmFpWlhITEdhZXBGTlNuWVBsVF91aG9NMk1KXzZtOFlOb0JXTGhHVF8tYTZq?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-19T00:18:50.000Z",
+      "excerpt": "“红色高等教育与教育强国建设”主题活动发布会在中国人民大学发布 人大新闻网",
+      "section": "cn-life",
+      "rankScore": 0.418709
+    },
+    {
+      "id": "6275b8d01bee9818",
+      "title": "古埃及早期王陵旁发现大量头部重伤46具头骨中有18具留有致命创伤迹象",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91Q09feGJNMmZlR0dObUFrcmlhLXNVYnU0YUh5OWtONGtZZ3RtNGNUcmVwVlZLenBzVlVjWDdqdjZpNTdKbWhuZUQwcUo0VkdqX21qQVFZcTVCYlRQRmFKei1WUE8?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-18T05:55:00.000Z",
+      "excerpt": "古埃及早期王陵旁发现大量头部重伤46具头骨中有18具留有致命创伤迹象",
+      "section": "cn-life",
+      "rankScore": 0.195614
+    }
+  ],
+  "warnings": []
+}
