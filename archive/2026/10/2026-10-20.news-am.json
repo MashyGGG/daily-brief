@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-20",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-20T01:13:30.424Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "5aee760f3b42fd9a",
+      "title": "香港演員鍾雪瑩、袁澧林發聲之後，她們分享親歷的性別冒犯",
+      "url": "https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-20T00:26:42.000Z",
+      "excerpt": "BBC中文訪問了四位來自不同行業的女性，了解言語冒犯是如何在工作環境中出現；當性別冒犯被包裝成「玩笑」，她們是如何應對。",
+      "section": "news",
+      "rankScore": 0.824398
+    },
+    {
+      "id": "3ce43f056183b6af",
+      "title": "法国陷入骚乱与动荡，极右翼从中看到了机会",
+      "url": "https://cn.nytimes.com/world/20261020/france-far-right-protests-riots/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-20T00:58:33.000Z",
+      "author": "CATHERINE PORTER",
+      "excerpt": "法国将于六个月后举行大选，周末发生的骚乱让民众感到震惊，也让极右翼国民联盟看到了机会。该党将自己标榜为法律与秩序之党，同时主张驱逐非法移民。 Philippe Lopez/Agence France-Presse — Getty Images 周日波尔多市中心抗议活动后的景象。",
+      "section": "news",
+      "rankScore": 0.76543
+    },
+    {
+      "id": "7548b848f68bbf9f",
+      "title": "日本MMX探测器正在前往火星的卫星",
+      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261019-%E6%97%A5%E6%9C%ACmmx%E6%8E%A2%E6%B5%8B%E5%99%A8%E6%AD%A3%E5%9C%A8%E5%89%8D%E5%BE%80%E7%81%AB%E6%98%9F%E7%9A%84%E5%8D%AB%E6%98%9F",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-19T23:14:45.000Z",
+      "author": "阿曼亭",
+      "excerpt": "日本宇宙航空研究开发机构（JAXA）宣布，MMX探测器已启程前往火星卫星。",
+      "section": "news",
+      "rankScore": 0.667012
+    },
+    {
+      "id": "9a1c22ea3f775633",
+      "title": "US church on frontline of battle against drug known as 'tranq'",
+      "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-20T00:02:32.000Z",
+      "excerpt": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+      "section": "news",
+      "rankScore": 0.612257
+    },
+    {
+      "id": "ff7d4e9c9ddb6f1f",
+      "title": "Helen Haines live updates: independent MP in critical but stable condition as Asio boss warns about ‘violent rhetoric’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-20T01:03:51.000Z",
+      "author": "Kat Wong (now), Stephanie Convery and Martin Farrer (earlier)",
+      "excerpt": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s very clear that this…",
+      "section": "news",
+      "rankScore": 0.557854
+    },
+    {
+      "id": "c811335422681616",
+      "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-20T01:00:18.000Z",
+      "author": "David E. Sanger",
+      "excerpt": "The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.",
+      "section": "news",
+      "rankScore": 0.557065
+    },
+    {
+      "id": "bbf4244d7262926d",
+      "title": "‘Release Epstein files’, protester interrupts JD Vance’s speech",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-20T00:18:48.000Z",
+      "excerpt": "A protester demanding the release of the Epstein files interrupted US Vice President JD Vance's speech.",
+      "section": "news",
+      "rankScore": 0.547843
+    },
+    {
+      "id": "0c6b8c2148636e74",
+      "title": "Applying to High School in New York City Is a Soul-Destroying Nightmare",
+      "url": "https://www.nytimes.com/2026/10/19/opinion/high-school-new-york-city-application.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-20T00:34:45.000Z",
+      "author": "Michelle Goldberg",
+      "excerpt": "I thought my worst New York City experience was getting punched in the face. That was before I started trying to get my kid into a public high school.",
+      "section": "news",
+      "rankScore": 0.482464
+    },
+    {
+      "id": "835985c0ad8f0ff9",
+      "title": "Healey rules out increasing capital gains tax in the Budget",
+      "url": "https://www.ft.com/content/f7433f80-a926-4582-8355-67c07aebe5ea?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-19T22:22:15.000Z",
+      "excerpt": "Chancellor decides against raising CGT rates after business leaders warned it would damage confidence in the economy",
+      "section": "news",
+      "rankScore": 0.4567
+    },
+    {
+      "id": "7c23fed9ce1b3a95",
+      "title": "Schools struggle to measure how much AI experiments are helping",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
+      "source": "npr-news",
+      "publishedAt": "2026-10-19T20:59:57.000Z",
+      "author": "Lee V. Gaines",
+      "excerpt": "Schools are experimenting with AI, and a lot of them are encountering the same problem: It's hard to measure whether the technology is good or bad for students.",
+      "section": "news",
+      "rankScore": 0.440697
+    },
+    {
+      "id": "406f33f52f332d5b",
+      "title": "加沙粮食援助因资金短缺大幅缩减，约50万人失去援助",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143026",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "excerpt": "联合国世界粮食计划署周一表示，资金短缺迫使该署将加沙粮食援助覆盖人数削减约三分之一，从9月的160万人降至本月的110万人。随着冬季临近，继续获得援助的家庭也面临食品配给和现金支持减少。",
+      "section": "news",
+      "rankScore": 0.431623
+    },
+    {
+      "id": "abd3591a3e92579b",
+      "title": "特朗普直白批评泽连斯基：应更换乌克兰谈判代表",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QSDM4WUgwVElqM21LZEM5eXVQSmZ3a3VsU0JQY0RQQkVEaHYtLTZMUUl4RGROcEtPbDlDMmw2SUhfa2N2S21fb3hBbjhDak5uSktnWmItX2IxR3V0YUR0UWlTVm9qZw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-20T00:55:31.000Z",
+      "excerpt": "特朗普直白批评泽连斯基：应更换乌克兰谈判代表 东方财富",
+      "section": "news",
+      "rankScore": 0.417002
+    },
+    {
+      "id": "3ade9659a41d1a02",
+      "title": "遣返、开除……中国留学生披旭日旗事件最新进展",
+      "url": "https://www.chinanews.com.cn/hr/2026/10-20/10717577.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-20T00:31:44.000Z",
+      "excerpt": "近日，一名陈姓中国留学生在莫斯科大学历史系课堂中身披日本军国主义旭日旗的相关画面在网络传播，引发社会广泛关注。《环球时报》记者从莫斯科大学历史系学生处获悉，在该系中国留学生的集体请愿下，校方于19日下午召开专题座谈会，表示将尽快公布对这名陈姓学生的开除决定，并会通过学校官网以及社交媒体渠道公开事件经过和校方立场。",
+      "section": "cn-news",
+      "rankScore": 0.826075
+    },
+    {
+      "id": "62f85d7338fd9ba9",
+      "title": "以场带产 产城融合 商业航天发展持续提速",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717567.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-19T23:50:50.000Z",
+      "excerpt": "活力中国调研行丨以场带产 产城融合 商业航天发展持续提速",
+      "section": "cn-news",
+      "rankScore": 0.744739
+    },
+    {
+      "id": "b5125c8e58de9bc5",
+      "title": "机构风向标 | 世纪瑞尔(300150)2026年三季度已披露持仓机构仅2家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jYlFSdlY0RDFwUVNOVmRGOU5rZVIyTXZTd21YOGVZc05YUk91d0Jya1VPM1BVNW4tYkVwQ1FjNzJ5YVZLcHNCeEszUGMwMXBtUExSTmhKRVc?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-20T01:11:35.000Z",
+      "excerpt": "机构风向标 | 世纪瑞尔(300150)2026年三季度已披露持仓机构仅2家 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.629519
+    },
+    {
+      "id": "e971771a66515f61",
+      "title": "冰雪经济持续升温 多元业态“花式”上新",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717582.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-20T00:55:38.000Z",
+      "excerpt": "乘坐热气球看雪景，体验滑翔伞、雪地摩托车……滑雪场上的新业态越来越多。10月16日，在2026国际冬季运动博览会(以下简称“冬博会”)“破界·融合——景区新文旅与冰雪全季运营论坛”现场，北京体育大学体育休闲与旅游学院院长、教授蒋依依分享了她观察到的冰雪消费新变化：上海一家滑雪场推出全国首个室内雪场京剧主题滑雪秀，把京剧脸谱带上雪道。",
+      "section": "cn-news",
+      "rankScore": 0.625532
+    },
+    {
+      "id": "2b75c092688f7af2",
+      "title": "“行是知之始”，与读者共成长，行知读书会迎来8周年",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oN1l1Rm9kcHJsdUxEMzVTTDhIbVBZQzBkajNjYXo2M1VteVE4U1BPZ3pIV1JOb2dpZG1hSXFTLV9NcXBRcV9yaUs1V2FVR1J0dExkNURoZEU0V3lmamd5WQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-20T00:05:00.000Z",
+      "excerpt": "“行是知之始”，与读者共成长，行知读书会迎来8周年",
+      "section": "cn-news",
+      "rankScore": 0.612873
+    },
+    {
+      "id": "4b3d3ce4280cd28e",
+      "title": "习近平总书记关切事·长征丨革命老区奋进新程",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHdkpYR2kyb2Y0VmN1d0dYYm1pcEgtdzlCYldBXzFrNHhncjE0S19wWnFRUk80QVVuTEVkLUY2ZHlzLWZjVjIwMno3SXBEQXQ4ZW82MVlCb1pZNVkxeUV6MHJuajU2eHFoVnlpLTJjcFlZV3hueTFraXc1dUE?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-20T00:32:23.000Z",
+      "excerpt": "习近平总书记关切事·长征丨革命老区奋进新程 求是",
+      "section": "cn-news",
+      "rankScore": 0.550861
+    },
+    {
+      "id": "c2bf95f569554647",
+      "title": "商务部答中经报：让中小微企业、个体工商户享受科技兴商的发展红利",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55UFV0Z01MMHNZOUMxMGNNR1JSMUlhQkNEcWlydXBLc2pMZDRBWTdmQV81VHA3YTVod0Z6NFF2enJfYndCSUZXMGZsbHlFWmVMTHhrNzVQcV9wYTBGcmd0RWRSOFZ5dw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-20T01:05:32.000Z",
+      "excerpt": "商务部答中经报：让中小微企业、个体工商户享受科技兴商的发展红利 东方财富 9部门首提“科技兴商” ，18条举措重塑商贸全链条 新浪新闻_手机新浪网 商务部：加强重点产品电商平台联网核查 ThePaper.cn 商务部：将继续强化企业在科技创新中的主体地位 搜狐 中国发布 | 《关于加快推进科技兴商的意见》提出18条具体举措 中国网新闻中心",
+      "section": "cn-news",
+      "rankScore": 0.48845
+    },
+    {
+      "id": "9068ef6f07fa0c40",
+      "title": "Cell publisher investigates editor accused of soliciting bribes from China",
+      "url": "https://www.scmp.com/news/china/science/article/3371384/cell-publisher-investigates-editor-accused-soliciting-bribes-china?utm_source=rss_feed",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-20T01:00:11.000Z",
+      "author": "Dannie Peng",
+      "excerpt": "Cell Press, one of the world’s leading scientific publishers, has launched an investigation after prominent Chinese biologist Rao Yi accused the editor-in-chief of a top medical journal of soliciting bribes from mainland authors.",
+      "section": "cn-news",
+      "rankScore": 0.487409
+    },
+    {
+      "id": "d05a4e46380d5edb",
+      "title": "绿茵连山海 援青谱新篇——“援青杯”足球邀请赛综述",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmpmelZmVEtjamJJZFY1aWE3OTRFVWxiVndCUU5Qancxckd6UEtGUkFfNkE0WHhrd1FtOUxhMDRMY1BoTHc0LTVGSzRtTVpuQnpsaE5fMG1ianBKa3lHOUJHQzFYamVHMnR0MXJvZnZMRGdLMEx6LVEtbTlxdEROSFl3?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-20T00:47:39.000Z",
+      "excerpt": "绿茵连山海 援青谱新篇——“援青杯”足球邀请赛综述 新华网 绿茵牵山海 援青续新章 finance.sina.com.cn 当足球翻滚在“援青杯”上，真正的主角不止在场上 ThePaper.cn 决战河湟绿茵场 “援青杯”足球邀请赛闭幕 人民网 新华视评·现场｜首届“援青杯”：赛场之外才是真正的主场 搜狐",
+      "section": "cn-news",
+      "rankScore": 0.41569
+    },
+    {
+      "id": "c32f9cf4d9fb356d",
+      "title": "中國首度管制盾構機出口 調整挖泥船、無人機管制",
+      "url": "https://www.cna.com.tw/news/acn/202610190263.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-19T13:43:33.000Z",
+      "excerpt": "（中央社台北19日電）中國今天公布新一批軍民兩用物項出口管制措施，首次對盾構機（隧道鑽掘機）實施出口管制，並調整挖泥船與無人機的出口管制措施。相關措施將於11月18日起正式實施。",
+      "section": "cn-news",
+      "rankScore": 0.406676
+    },
+    {
+      "id": "372093e415e19f26",
+      "title": "人这一辈子，一定要去看一次世界连片面积最大原生胡杨林！",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10717579.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-20T00:49:51.000Z",
+      "excerpt": "秋风掠过塔克拉玛干北缘",
+      "section": "cn-life",
+      "rankScore": 0.832114
+    },
+    {
+      "id": "caa90c7f72ca2249",
+      "title": "“爸爸AB型妈妈A型女儿O型”登上热搜，这些情况可能生出血型“不匹配”的孩子→",
+      "url": "https://www.chinanews.com.cn/life/2026/10-20/10717590.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-20T01:07:46.000Z",
+      "excerpt": "近日，话题“爸爸AB型妈妈A型女儿O型”登上热搜。网友：这可能吗？医生：这事真有可能！",
+      "section": "cn-life",
+      "rankScore": 0.698405
+    },
+    {
+      "id": "898f26394587929a",
+      "title": "新疆巴音郭楞州尉犁县发生4.3级地震，震源深度19千米",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5acGpkbWRXSFQtQjhGMWdabmxNcU5laHFEdGQtc1p0TmRIci1vVkc2UmtxSVJpRk8yMWFPV2d5WXVIb1RKNWRPcGJoSjhWN3pQeFVXMg?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-20T01:07:00.000Z",
+      "excerpt": "新疆巴音郭楞州尉犁县发生4.3级地震，震源深度19千米 第一财经",
+      "section": "cn-life",
+      "rankScore": 0.628373
+    },
+    {
+      "id": "546c6e9493c81acb",
+      "title": "珠海海天社区暖新驿站揭牌，服务地图同步上线 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVC04cklveHU0Q3pVZ3dweDdNZlFJUDNUNER3czd1blJQamlTT0JGQ0x3SlZweFJBS3UxU2ktdDdNV09kSFFfQ0toeUpRSVE4YWhreFoyeHlPeko3VHNNczRHMzRiYVVLSnhhUnpWbU5uSUU5UmFMakZXVS04U2FJLUVaenJ0OVZHWXNpOFJ2QQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-20T00:11:00.000Z",
+      "excerpt": "珠海海天社区暖新驿站揭牌，服务地图同步上线 21财经",
+      "section": "cn-life",
+      "rankScore": 0.614373
+    },
+    {
+      "id": "5cfc5239552babb1",
+      "title": "内蒙古谋划99个重点项目建强综合交通物流通道-交通要闻",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12QXRLRHRPV0VCemNsNkZaVDJyeUdIZmJqSXJ4dVRjbVhwc0NoR09uS0hyLXZfQ1F5bFA1cHlBMndGNjVNNEMzVURqVUxtQjQyM0U5ZXVOc1dtcHZ0ZEpabGstWTk1TzRoeUcxT1VhdkxIVlMyb2J0bGZQeHdIZWM?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-20T00:48:00.000Z",
+      "excerpt": "内蒙古谋划99个重点项目建强综合交通物流通道-交通要闻 中华人民共和国交通运输部",
+      "section": "cn-life",
+      "rankScore": 0.554332
+    },
+    {
+      "id": "0f2d73f638adfccb",
+      "title": "面向生物力学仿真的主动脉瓣与钙化自动几何建模：双分支深度学习统一模板变形与符号距离场重建",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41Q0xKMjk0WGk1UVlKRXNDaC1CZ3dNYXE5WlcwcnZXa1NNREtrcG1VV0xCbnRhNkkzZGJMT2I3ODdXVDVoVTFVREk0NVQzMlhvX0JENVVvZ3VUZ21kcWF6VWhmT04wSzZvSTM4dzNB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-20T00:01:07.000Z",
+      "excerpt": "面向生物力学仿真的主动脉瓣与钙化自动几何建模：双分支深度学习统一模板变形与符号距离场重建 生物通",
+      "section": "cn-life",
+      "rankScore": 0.475924
+    },
+    {
+      "id": "d3eb318bef4ef41e",
+      "title": "埃塞俄比亚亚的斯亚贝巴学校供餐计划（School Feeding Program, SFP）中食品处理人员的食品安全知识、态度、实践及相关因素：一项纳入632名食品处理人员的横断面研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sM2l1aTJFenNVZTJkbnRhQ0czOHd4NUk1WlpUaGhuSlgyRlZiblBDQS13VThGb0d5STRfLUpHS0o5TWl6M2ttRWxaNU1FaURmcDZhNGJKdXRmU2xPbnByZjFfSWRPQ0hITi11YUdB?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-20T00:01:07.000Z",
+      "excerpt": "埃塞俄比亚亚的斯亚贝巴学校供餐计划（School Feeding Program, SFP）中食品处理人员的食品安全知识、态度、实践及相关因素：一项纳入632名食品处理人员的横断面研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.475924
+    },
+    {
+      "id": "748c4342e74286e0",
+      "title": "2027河南高考报名时间定了 为你解答这些疑问",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkF2X1p5RUx2TWotQ1V1NG9BMzdHVk9VWV9UcmdoRWtsRGhaZEU0Y0hYSkx4ZWI3VFMzQTNKaENWdVZnWlFuejVkQkNEamd3SVVzczNYa1VFZUFuYXlGRkpsZlJjS2FXTmU4S2l1TEVQbzVRWW5PYWxyamlOLTBiblZB?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-20T00:38:00.000Z",
+      "excerpt": "2027河南高考报名时间定了 为你解答这些疑问 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.414082
+    }
+  ],
+  "warnings": []
+}
