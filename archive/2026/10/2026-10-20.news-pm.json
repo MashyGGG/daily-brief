@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-20",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-20T15:38:06.751Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "a7ead151bbcc1951",
+      "title": "朝鮮發佈金正恩照片：為何他的死亡傳言總是捲土重來？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-20T14:58:04.000Z",
+      "excerpt": "在未經證實的傳言傳開後，朝鮮官媒發布了這位獨裁者與其女兒的照片。",
+      "section": "news",
+      "rankScore": 0.815356
+    },
+    {
+      "id": "f4d260eac381a737",
+      "title": "泽连斯基回应普京的俄中美峰会提议 鲁比奥：不存在旨在损害乌克兰的蓄意政治指令",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261020-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BF%84%E4%B8%AD%E7%BE%8E%E5%B3%B0%E4%BC%9A%E6%8F%90%E8%AE%AE-%E9%B2%81%E6%AF%94%E5%A5%A5-%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%97%A8%E5%9C%A8%E6%8D%9F%E5%AE%B3%E4%B9%8C%E5%85%8B%E5%85%B0%E7%9A%84%E8%93%84%E6%84%8F%E6%94%BF%E6%B2%BB%E6%8C%87%E4%BB%A4",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-20T14:28:37.000Z",
+      "author": "弗林",
+      "excerpt": "乌克兰总统泽连斯基（Volodymyr Zelenskyy）周二与美国国务卿鲁比奥（Marco Rubio）通话，讨论了提供弹道导弹拦截系统、针对俄罗斯弹道导弹袭击的预警情报共享，以及“星链”服务的恢复等问题。",
+      "section": "news",
+      "rankScore": 0.664361
+    },
+    {
+      "id": "26e1fc78f250db4d",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-20T15:31:51.000Z",
+      "excerpt": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "section": "news",
+      "rankScore": 0.62711
+    },
+    {
+      "id": "0b9cc9eb3b488e33",
+      "title": "Ban ‘intrusive’ cameras on mental health wards in England, say bereaved families",
+      "url": "https://www.theguardian.com/society/2026/oct/20/ban-intrusive-cameras-mental-health-wards-england-bereaved-families",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-20T15:32:52.000Z",
+      "author": "Matthew Weaver",
+      "excerpt": "Lawyers tell inquiry ‘patients’ lives are at stake’ through improper use of Oxevision system for most vulnerable Families bereaved by the misuse of an “intrusive” camera monitoring system for vulnerable patients used in half of England’s mental health wards, have called for it to be banned to help…",
+      "section": "news",
+      "rankScore": 0.557848
+    },
+    {
+      "id": "434f38b795235cf6",
+      "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
+      "url": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-20T15:21:16.000Z",
+      "author": "Natan Odenheimer",
+      "excerpt": "Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election.",
+      "section": "news",
+      "rankScore": 0.553089
+    },
+    {
+      "id": "3abcce1ada9b1640",
+      "title": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
+      "url": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-20T15:19:17.000Z",
+      "excerpt": "The vote recognises Ankara's maritime deal with Tripoli, ending Haftar's 2020 boycott.",
+      "section": "news",
+      "rankScore": 0.552275
+    },
+    {
+      "id": "6bcebe461566dd4e",
+      "title": "世卫组织报告探讨非传染性疾病及其风险因素方面存在的不平等现象",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143031",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "excerpt": "世界卫生组织周二发布的一份报告显示，非传染性疾病影响着世界各地的人们，但并非所有人都面临相同的风险，也并非所有人都能平等地获得预防、诊断和治疗服务。",
+      "section": "news",
+      "rankScore": 0.529333
+    },
+    {
+      "id": "3fed9cc0bce3603c",
+      "title": "France is adrift",
+      "url": "https://www.ft.com/content/616c796b-a288-4013-a363-70e94429b60e",
+      "source": "ft-world",
+      "publishedAt": "2026-10-20T15:22:55.000Z",
+      "excerpt": "The country faces multiple crises and the political class seems incapable of responding",
+      "section": "news",
+      "rankScore": 0.484545
+    },
+    {
+      "id": "3ce46147d645100f",
+      "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
+      "url": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-20T15:21:49.000Z",
+      "author": "Kevin Draper",
+      "excerpt": "Under the Harvest Fuel Relief program, the Agriculture Department will provide economic aid for farmers hurt by high diesel prices.",
+      "section": "news",
+      "rankScore": 0.48415
+    },
+    {
+      "id": "5b2aaa863252f141",
+      "title": "以方证实以总理会见美防长 就中东局势展开密谈",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wUWNQcWpSbk5OX05VR3FPcExUU0JRazZNUS1Yci1fczFEQWVNREtoUm9zQV9JWk5xaTRmd0pqQXJIMWlkbVRZSlFvTzJLQ3ZlTUNHZ2V3MnNGRW5HWnc?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-20T15:16:06.000Z",
+      "excerpt": "以方证实以总理会见美防长 就中东局势展开密谈 同花顺 事先未宣布，美防长与以总理会晤引关注 新华网 以方证实以总理会见美防长，就中东局势展开密谈 凤凰网 美媒：赫格塞思突访以色列，与内塔尼亚胡会晤 观察者网 “未经事先宣布”，美媒爆料：美防长突访以色列，并与内塔尼亚胡会面 华尔街见闻",
+      "section": "news",
+      "rankScore": 0.413227
+    },
+    {
+      "id": "d49b4cd30bd3d789",
+      "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+      "source": "npr-news",
+      "publishedAt": "2026-10-20T11:04:49.000Z",
+      "author": "Brittney Melton",
+      "excerpt": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.",
+      "section": "news",
+      "rankScore": 0.391894
+    },
+    {
+      "id": "5b0d45fd747a44db",
+      "title": "一个万亿美元的产业如何洗白“脏黄金”",
+      "url": "https://cn.nytimes.com/world/20261020/gold-mines-investigation-takeaways/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-20T03:52:39.000Z",
+      "author": "JUSTIN SCHECK",
+      "excerpt": "时报调查发现，采金业侵犯人权与犯罪的行为随处可见，而本应把“脏黄金”阻拦在合法市场之外的监管机构已多次允许由犯罪团伙、贩毒集团和儿童开采的黄金进入市场。 Lynsey Addario for The New York Times 在世界各地无证经营的金矿中，劳工虐待与犯罪现象并不难被发现。前提是有人前去查看。",
+      "section": "news",
+      "rankScore": 0.372047
+    },
+    {
+      "id": "2e8545d01c38d09f",
+      "title": "以军袭击导致加沙地带4人死亡",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-20/10718157.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-20T13:58:48.000Z",
+      "excerpt": "中新社北京10月20日电 综合消息：巴勒斯坦卫生部门称，当地时间20日，以军空袭和枪击在加沙地带造成至少4名巴勒斯坦人死亡。",
+      "section": "cn-news",
+      "rankScore": 0.778885
+    },
+    {
+      "id": "5e9c4f7236937dd6",
+      "title": "中埃签署地震减灾合作谅解备忘录 深化地震监测预警合作",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718197.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-20T15:00:04.000Z",
+      "excerpt": "中新网北京10月20日电 (记者 孙自法)据中国地震局10月20日消息，近日，中国地震局与埃及高教科研部国家天文和地球物理研究所签署地震减灾合作谅解备忘录，就深化地震监测预警等领域合作达成共识。",
+      "section": "cn-news",
+      "rankScore": 0.748538
+    },
+    {
+      "id": "e527eb5fed3a59c0",
+      "title": "2026中国品牌国际化论坛在海口开幕 探讨中国品牌出海路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718202.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-20T15:21:35.000Z",
+      "excerpt": "中新网海口10月20日电 (记者 王子谦)以“潮涌自贸港·品牌链全球”为主题的2026中国品牌国际化论坛20日在海口开幕。论坛汇聚超2000名中外嘉宾，共同探讨中国品牌从“产品出海”迈向“品牌出海”的战略路径。",
+      "section": "cn-news",
+      "rankScore": 0.622371
+    },
+    {
+      "id": "ae3341e4c3990eae",
+      "title": "夜读｜副刊不“副”，参天大树",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPNUVQN0pObWtYak9uVFFsSlFQd0d2M3RKeGx5aUtFNnQzOURyeG40Ums3SURBeERrRXJHRGU3YnFnWWRlaFJPN0c2a3dpc2R6azlBbWc1MUF0Q1FoNUJKSw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-20T13:20:00.000Z",
+      "excerpt": "夜读｜副刊不“副”，参天大树",
+      "section": "cn-news",
+      "rankScore": 0.566256
+    },
+    {
+      "id": "3949f6ec65c7eb5c",
+      "title": "美制裁中國籍前Google工程師相關公司 北京促撤回措施",
+      "url": "https://www.cna.com.tw/news/acn/202610200381.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-20T14:59:13.000Z",
+      "excerpt": "（中央社台北20日電）美國19日以「涉及竊取商業秘密」為由，制裁與中國公民、前谷歌（Google）軟體工程師丁林葳有關的5個實體。中國商務部今晚對此表示「堅決反對」，並敦促美方糾正做法，否則將予以回擊。",
+      "section": "cn-news",
+      "rankScore": 0.544043
+    },
+    {
+      "id": "baaa20a42eef5faf",
+      "title": "坚持正确政治方向夯实共同思想根基——习近平总书记致中央社会主义学院建院70周年的贺信汇聚同心奋进新征程强大力量",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zLU9tLTBNeDN2RFFnOWZKWGR3YUg2em9jQ2RJMWo2bDZlYTI5c1h1THBBcWhnVmdsalhhSFFBNXVwOGlrV0xZc1Z0VWtoREdwQThKZXdGNnBvWXRFVkZwNjNDYlFUd2EtMUE?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-20T14:43:00.000Z",
+      "excerpt": "坚持正确政治方向夯实共同思想根基——习近平总书记致中央社会主义学院建院70周年的贺信汇聚同心奋进新征程强大力量 中国科技网 【央视快评】持续加强政治培训广泛凝聚政治共识- 中国日报网 China Daily 同心铸辉煌 奋进新征程 人民日报 一堂课、两场展、七十年——走进中央社会主义学院建院70周年开放日活动 搜狐 来了！新闻晚八点-新闻中心 青海新闻网",
+      "section": "cn-news",
+      "rankScore": 0.53739
+    },
+    {
+      "id": "cce40f8b874e5afc",
+      "title": "国家发展改革委：正在研究制定扩大内需战略实施方案",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXSGZHbVItd1UtMmlMNEdSM1B6WGxkREJIUllTaTZKcUlzM1A1SVVxeGZGeHpid0lPR3VlMEljbVBjNGNuOXZnTnVfLUdzV0NuN0cyci1oOUU?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-20T11:07:30.000Z",
+      "excerpt": "国家发展改革委：正在研究制定扩大内需战略实施方案 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.505102
+    },
+    {
+      "id": "1c12ab9b97db4762",
+      "title": "Will Xi, Trump, Putin meet at Apec? First, they must agree on an agenda",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371544/will-xi-trump-putin-meet-apec-first-they-must-agree-agenda",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-20T15:00:07.000Z",
+      "author": "Dewey Sim,Khushboo Razdan",
+      "excerpt": "While US President Donald Trump has said he is open to sitting down with his Chinese and Russian counterparts Xi Jinping and Vladimir Putin at the Apec summit, it remains far from certain that the three leaders will actually meet in a few weeks.",
+      "section": "cn-news",
+      "rankScore": 0.47636
+    },
+    {
+      "id": "0d23d0fd8f378047",
+      "title": "美股市值前十公司盘初全线下跌 Meta跌2.36%跌幅居前",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlVkZoNUlHNHNzNGpscXNBajVZLTJ6ZlRwZTQ0OGNRZGRmNERnMnExaFoyT0V0TEhzRlBFU2diYTBVVy13a3FXcmRBaDhyZUVtWW1obDNWUWtfVXdZZXgwdW1B?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-20T13:55:08.000Z",
+      "excerpt": "美股市值前十公司盘初全线下跌 Meta跌2.36%跌幅居前 观点网 AI交易紧张情绪暂缓，美股指转涨，CoreWeave涨超5%，礼来涨近5%股价创新高，美元走软 华尔街见闻 美股市值前十公司盘初罕见全线下跌 英伟达、苹果等集体承压 手机新浪网 美股开盘：三大指数集体低开，SK海力士跌超3%，闪迪跌超2% 凤凰网 美股收盘：科技题材全线下挫 纳指跌近2% 伯克希尔十连涨 搜狐",
+      "section": "cn-news",
+      "rankScore": 0.453033
+    },
+    {
+      "id": "ab69096fc6657e51",
+      "title": "探寻从“运动员”到“职场人”的转型密码 上海市优秀运动员职业发展大讲堂开讲",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBscGRkaHhiMDUwSlB3bWU4Tm5kaW5tcTh3MmNRaFhnUmxFVlhPUDhLb2F1MWFIdU1GX2x0M1RaVklucTdNS0d1SXdnVVRBWXotNEhSSS1yOVlSYkFkQnhGNk1FOVlVSWps?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-20T14:30:54.000Z",
+      "excerpt": "探寻从“运动员”到“职场人”的转型密码 上海市优秀运动员职业发展大讲堂开讲 中国新闻网",
+      "section": "cn-news",
+      "rankScore": 0.399319
+    },
+    {
+      "id": "49f55adeeab2f735",
+      "title": "邯郸涉县“独臂信使”：五十载坚守报答乡土恩情",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-20/10718206.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-20T15:26:01.000Z",
+      "excerpt": "中新网邯郸10月20日电 题：邯郸涉县“独臂信使”：五十载坚守报答乡土恩情",
+      "section": "cn-life",
+      "rankScore": 0.832556
+    },
+    {
+      "id": "43421f2ccb2ecda4",
+      "title": "台风“蔷琵” 靠近、冷空气来袭！江西降温就在......",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQVIwRUhMRGxZb3I2Rld3VDRhLXJCXzFWS2xRSnRIZUd5MG91WXhvenpwb0c4Q0ZFU3RiTzhIbkV5cTk3ZHpIeEFxX2ozcHZRNC1EN1BjeEZWVGlCaFBEQmNtdm5GTXpkRVZDWnh5ODI4aUx3emgxamctMVFwU0p3WTRqSkdOeG9Sa1BPUVdoMm5MbXJHeU5xRE1UQVBGcm1fRlNKSkxKVUdPcTVfLXBwaUpyT2J4LW0zZDhESzJIU1hNMnVsanhyamdselRLTlIxakNnQ3hVQmprZw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-20T15:06:33.000Z",
+      "excerpt": "台风“蔷琵” 靠近、冷空气来袭！江西降温就在...... 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.615433
+    },
+    {
+      "id": "33e690edc02b3fe4",
+      "title": "广东打工人请注意！你的医保余额可以“寄”给外省爸妈了，阿福App就能转",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeU44b0NEOEFGdEZIcDBNdVdOWWZBY0N4VXJpMVpaNzBnZUFEMTJMQm9JZkhCMUQyeGd2Q2djdHdFNTdFcXY5YWdPaEpkY2taRW03QW5OR1gxTTRzWEk5UnJqZTlvNzF5dEphSE5HWnBqbW1lekE3UUZpbXZmdWE2OHM3a0VpeWZsMEFNbzZhcUswM1N5QlFKSmtUSGd1WTNQMmNDZFBkQlBiQVVNSDdmNTFxbERoS3Nhc3kwekNzWkFhU29qQkNzd0MzdHNjSTdSUmtmUVBPalE?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-20T14:38:23.000Z",
+      "excerpt": "广东打工人请注意！你的医保余额可以“寄”给外省爸妈了，阿福App就能转 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.602433
+    },
+    {
+      "id": "e4101d7f4ef583ac",
+      "title": "冷空气喊你添衣啦！全国秋裤预警地图出炉 超15省份需秋裤保暖",
+      "url": "https://www.chinanews.com.cn/life/2026/10-20/10717988.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-20T10:40:05.000Z",
+      "excerpt": "中国天气网讯 近期，冷空气一股接一股。今明天(10月20日至21日)，新一股冷空气将给我国中东部大部地区带来降温，多地气温将创今年下半年来新低。寒凉感加重，秋裤该登场了。中国天气网推出全国秋裤预警地图，看哪里冷飕飕秋裤要上身，哪里寒意重秋裤需加厚。",
+      "section": "cn-life",
+      "rankScore": 0.547165
+    },
+    {
+      "id": "aca18c2770fc5ce0",
+      "title": "到医院照顾患乳癌女儿 母接受建议检查 揭有1cm肿瘤罹乳癌4期",
+      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQUFlEd0E4ZDZVUG9DU2JKYXlBaUxTSE5sU2hsdnlhUWp6a29pTERnUC1EbWUtRlJLMzJDZjV5TXpsVnVLMnFQMTMwWHpjU2tYbHB3Q2Y5VmVtdW9qZ19fVm9Ua05lbC1kSnNZaVE5VjZrVW1kdWxhenZtUS1PUWpPNXBHR3VJMGtQSVdCVjNQZXQtY3NIelhpcHVWVU80NmVTVGlQeDcwN3FYYlJHcEhGTHlhOVRHZmtoYVVQblBXZkJMLWxoWjZpTjZPdEtGSEdqQ0NQd1lpdlVmM3hacEFQVkM2bDlDMS1hMjgtM1JwUXo0d3puOXNqSFRRNi1tSUJydFhlRDNuMHJNenktRERmeXJsb3JIT1dYZlNwZXNxVUcyODFLaXVFXzhfWmFVRU5UUEdBaVh3bTh5ZVdzOXZWcEY3Z3YtWGpnMmV0aUVkcFA0aXBmaUVGdHMwSWFvVEhPSllPdUx6UmQ3VXlZczFRaHhFenl6VWdPUlZMYlJMV3JWS01JZl94a29hZmdMUWhaUlZ2ZzVpN3JkaFhiT2dIVGEwVUdsbFd6eEJjX1pn?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-20T15:02:00.000Z",
+      "excerpt": "到医院照顾患乳癌女儿 母接受建议检查 揭有1cm肿瘤罹乳癌4期 香港01",
+      "section": "cn-life",
+      "rankScore": 0.477037
+    },
+    {
+      "id": "c6bc08e6e2598afa",
+      "title": "华海药业关于获得药品注册证书的公告",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ES0hLX2FfNU1qdFMwdlhwV3pqc0NxbmtobURtY1llNG1UX29MNHNLLUVpQVM2cllrSWZJMmJ0TF82eXlaUlQtcGFFX0g2UTlDOW5GNFZnbnNFaTZwQXF2MjQwV3VqbXpDUGs2N3lTNllNMzR1QzYyOA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-20T14:30:44.000Z",
+      "excerpt": "华海药业关于获得药品注册证书的公告 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.465813
+    },
+    {
+      "id": "73449b363cf57086",
+      "title": "海丰县2026年乡科级干部进修班（第三期）开班",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Nd3hXT1FKdXctcXJybHR4SGUwRnV4WmpVODh5TTVNYzZ6LXY0aTMxOUNna2h0LTdmcnBZbVhNQXZTbkxUdjFzcHpQUml6SGpNaXdKUlNMS3ZSR3hiYmc0alRoWElmRHZ4dDd0emJIV18?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-20T11:47:00.000Z",
+      "excerpt": "海丰县2026年乡科级干部进修班（第三期）开班 海丰县人民政府",
+      "section": "cn-life",
+      "rankScore": 0.465185
+    },
+    {
+      "id": "cf473672a0e588a5",
+      "title": "刘明：教育品牌出海已转向“产品+标准+生态”输出",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1pUUGtKM1JqR2piTGxBcE1CbDB4bWZLQ2ZnMTF0aVY5RktiN3RfZjlnSzlqNm05RUM4SDdKTFNwYjVPazJ0Z2J4R2xrQldvZTBkNUZUMWctUzZxUTBkOEZVamtzQW9KazFJUm9Zdm11NzFMRFZzMUxwcGFWZnRKS0Z3VnpITG9F?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-20T15:05:50.000Z",
+      "excerpt": "刘明：教育品牌出海已转向“产品+标准+生态”输出 搜狐",
+      "section": "cn-life",
+      "rankScore": 0.410068
+    }
+  ],
+  "warnings": []
+}
