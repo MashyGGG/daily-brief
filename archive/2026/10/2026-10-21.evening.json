@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-21",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-21T17:07:08.056Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "aa94276eb254229d",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-21T17:07:08.056Z",
+      "score": 1434,
+      "excerpt": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "section": "tech",
+      "rankScore": 1.148571
+    },
+    {
+      "id": "7b220f89816d6810",
+      "title": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "source": "hn-front",
+      "publishedAt": "2026-10-21T13:45:33.000Z",
+      "score": 689,
+      "author": "tuyuri",
+      "excerpt": "689 points · 280 comments · https://news.ycombinator.com/item?id=50180873",
+      "section": "tech",
+      "rankScore": 1.048809
+    },
+    {
+      "id": "387433abd5a8260e",
+      "title": "The revised rules of engineering management with Will Larson",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-10-21T16:58:21.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Will Larson, CTO of Imprint, explores how AI and shifting industry expectations are changing engineering management, career ladders, and the path from engineer to CTO.",
+      "section": "tech",
+      "rankScore": 0.765399
+    },
+    {
+      "id": "39ec02c44d88a4b9",
+      "title": "LLM Prompt Caching Versus Semantic Caching",
+      "url": "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-21T15:31:08.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we’ll look at how LLM caching works in detail.",
+      "section": "tech",
+      "rankScore": 0.719714
+    },
+    {
+      "id": "4b4967c8420473e1",
+      "title": "Your AI agent fixed the bug, but what else did it change?",
+      "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-21T16:07:01.000Z",
+      "author": "blog.trailofbits.com via sarciszewski",
+      "section": "tech",
+      "rankScore": 0.654588
+    },
+    {
+      "id": "455caebc6407a47e",
+      "title": "Netflix Bridges AWS IAM and Internal Identity with Workload Attestation",
+      "url": "https://www.infoq.com/news/2026/10/netflix-workload-attestation-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-21T13:45:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Netflix has developed a workload attestation mechanism for Apache Spark jobs running on Amazon EMR. The design combines AWS IAM identity with signed claims from Netflix’s control plane before issuing short-lived internal X.509 certificates, allowing managed compute workloads to authenticate to…",
+      "section": "tech",
+      "rankScore": 0.649027
+    },
+    {
+      "id": "3809d6347facfc28",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "url": "https://simonwillison.net/2026/Oct/21/panache/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-21T16:25:16.000Z",
+      "excerpt": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro!",
+      "section": "ai",
+      "rankScore": 0.816076
+    },
+    {
+      "id": "034696b775aee014",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "source": "huggingface",
+      "publishedAt": "2026-10-21T16:04:43.000Z",
+      "section": "ai",
+      "rankScore": 0.754062
+    },
+    {
+      "id": "425cb9e037dd234b",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "openai",
+      "publishedAt": "2026-10-21T13:00:00.000Z",
+      "excerpt": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "section": "ai",
+      "rankScore": 0.727896
+    },
+    {
+      "id": "af3d46b2d8c55582",
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "url": "https://www.latent.space/p/claude-mods",
+      "source": "latent-space",
+      "publishedAt": "2026-10-21T13:04:19.000Z",
+      "author": "Dan McAteer",
+      "excerpt": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+      "section": "ai",
+      "rankScore": 0.64281
+    },
+    {
+      "id": "e51376495170805c",
+      "title": "看到今天爆出的 PHP 漏洞，聊聊老项目转 Go 这事",
+      "url": "https://www.v2ex.com/t/1250753",
+      "source": "v2ex",
+      "publishedAt": "2026-10-21T14:28:39.000Z",
+      "score": 15,
+      "author": "KentonMercer",
+      "excerpt": "今天看到 PHP 爆了两个严重漏洞，官方马上发修复版本，手头有线上服务的还得先准备更新。不过看到这消息，又有点纠结老项目要不要转 Go 。 开新坑选语言很容易，Go 可以，ts 也行。但一个稳定跑了好几年的 PHP 老项目，推倒重写，实在下不去手，或者说很难下定决心去重构。 想问问实际做过 PHP 迁 Go 的 V 友：当初真正促使你们动手的原因是什么？跑了一段时间后，体感提升最明显的是性能、部署，还是日常维护？",
+      "section": "cn-tech",
+      "rankScore": 0.802078
+    },
+    {
+      "id": "69ee428df5409463",
+      "title": "鸟类是地球最重要的养分搬运者之一",
+      "url": "https://www.solidot.org/story?sid=85678",
+      "source": "solidot",
+      "publishedAt": "2026-10-21T15:25:51.000Z",
+      "excerpt": "鸟类在塑造地球化学环境上的作用被低估了，它们是地球最重要的养分搬运者之一。研究人员揭示了鸟类如何通过自身的排泄物和身躯，将养分在陆地、湖泊和海洋之间搬运。这一过程深深影响着从土壤和水体的化学性质，到动植物的生长。飞行能力让鸟类能跨越广阔的距离，甚至逾越海洋和山脉等天然屏障。鸟类在处理和循环养分上也极其高效。鸟类的食物摄入率比体型相当的哺乳动物高出约 30%。因此鸟类始终处于进食状态——它们大量摄取富含氮和磷的种子、昆虫、无脊椎动物及果实——并以极高的速率释放出养分。鸟类会将高浓度的养分集中在小片区域内，为当地的植物及其它生物提供关键资源。",
+      "section": "cn-tech",
+      "rankScore": 0.716946
+    },
+    {
+      "id": "276a8b3ceec386b8",
+      "title": "金融智能分析本体：四大核心要素与五条建设路线",
+      "url": "https://www.infoq.cn/article/Be94YQbRtbWj3pzZ9rSh?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-21T16:13:17.000Z",
+      "author": "张阳",
+      "section": "cn-tech",
+      "rankScore": 0.674357
+    },
+    {
+      "id": "a0fc521f1d90d0dd",
+      "title": "2026 上海开源大赛「智算云赛道」决赛名单公布",
+      "url": "https://www.oschina.net/news/503144",
+      "source": "oschina",
+      "publishedAt": "2026-10-21T14:16:01.000Z",
+      "excerpt": "2026 上海开源软件应用创新大赛「智算云赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 10 月 29 日在上海张江人工智能创新小镇参加总决赛。 现将入围名单按报名时间顺序公示如下： 项目名称 团队负责人 代码仓库地址 ShannonBase 李浩 https://github.com/Shannon-Data/ShannonBase 女娲 Nuwax AIOS 邱超 ...",
+      "section": "cn-tech",
+      "rankScore": 0.556664
+    },
+    {
+      "id": "020a61d5680ff7ed",
+      "title": "KAYDON 薄壁轴承截面惯性矩：升一档截面，厚 33%，刚度 ×3空间够就别在KAA 系列里挑精度等级，直接升到K",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYVUQ1YnpZa2pUWHB3bUJRNmVta2FaY1JhV1VSdXpFUFZQN0ppakFFd0VVQkgyal9HWS1mYzN3S3NlRUtaVlZZZHhOVDRFTUtzOE1HMA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-21T14:39:44.000Z",
+      "excerpt": "KAYDON 薄壁轴承截面惯性矩：升一档截面，厚 33%，刚度 ×3空间够就别在KAA 系列里挑精度等级，直接升到K 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.440866
+    },
+    {
+      "id": "4950b06bef54c841",
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "source": "krebs",
+      "publishedAt": "2026-10-21T15:26:07.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers.",
+      "section": "security",
+      "rankScore": 0.717086
+    },
+    {
+      "id": "7f999acef9710280",
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-21T13:15:09.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.",
+      "section": "security",
+      "rankScore": 0.589531
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"css-tricks\" looks stale: newest item is 51 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
