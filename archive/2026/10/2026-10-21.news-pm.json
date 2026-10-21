@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-21",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-21T15:55:49.286Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "212ff9f1436d7b9b",
+      "title": "華東颱風強、印尼野火烈——厄爾尼諾現象影響世界的五個方面",
+      "url": "https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-21T13:14:41.000Z",
+      "excerpt": "有記錄以來最強的厄爾尼諾現象持續增強之際，全球各地已經感受到哪些天氣模式方面的影響？BBC首席氣象預報員莎拉·基斯—盧卡斯（Sarah Keith-Lucas）檢視相關證據。",
+      "section": "news",
+      "rankScore": 0.740838
+    },
+    {
+      "id": "b3e9e3864e73bf56",
+      "title": "特朗普再度施压泽连斯基推动新一波外交努力能有多少胜算",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261021-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E5%BA%A6%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8E%A8%E5%8A%A8%E6%96%B0%E4%B8%80%E6%B3%A2%E5%A4%96%E4%BA%A4%E5%8A%AA%E5%8A%9B%E8%83%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E8%83%9C%E7%AE%97",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-21T14:31:42.000Z",
+      "author": "瑞迪",
+      "excerpt": "美国总统同时维特科夫20日在挪威首都与乌克兰总统泽连斯基会谈之后，21日已经抵达俄罗斯圣彼得堡，与俄罗斯总统普京会谈。特朗普显然正试图重新启动一波谈判，谋求尽快结束乌克兰战争。但特朗普2025年1月25日重返白宫后的多次尝试目前都无果而终，这一次新尝试能有多大胜算难以预料。但无可置疑的是，俄乌双方目前在战场上仍然处于相持不下的胶着状态，频繁的相互打击行动不断造成伤亡，而美国的支持力度大减令乌克兰更显被动之际，此时的欧洲似乎也都因内政问题，有些自顾不暇。",
+      "section": "news",
+      "rankScore": 0.656861
+    },
+    {
+      "id": "2fe3f8fd13e4f28e",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-21T15:53:32.000Z",
+      "excerpt": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+      "section": "news",
+      "rankScore": 0.628944
+    },
+    {
+      "id": "e4e7dd614ab77576",
+      "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
+      "url": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-21T15:42:11.000Z",
+      "author": "Ana Ionova",
+      "excerpt": "Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.",
+      "section": "news",
+      "rankScore": 0.554405
+    },
+    {
+      "id": "593cc17bb0d842a1",
+      "title": "Reform UK claims racism exposé has left some members ‘psychologically damaged’ as it reports ITV to police – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-21T15:35:43.000Z",
+      "author": "Andrew Sparrow",
+      "excerpt": "Zia Yusuf claims undercover investigation broke the law as broadcaster stands by its journalism Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision.",
+      "section": "news",
+      "rankScore": 0.551752
+    },
+    {
+      "id": "9def8f5934c73f14",
+      "title": "Russia to send first diesel tanker to the US amid Trump deal",
+      "url": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-21T14:54:55.000Z",
+      "excerpt": "Russia will send on Thursday its first diesel tanker to the US to an undisclosed port.",
+      "section": "news",
+      "rankScore": 0.535013
+    },
+    {
+      "id": "37c71666bc83553b",
+      "title": "Abbott to spin off nutrition unit at centre of baby formula lawsuits",
+      "url": "https://www.ft.com/content/7f407bde-ef26-4914-bcbe-baf858bc81d7?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-21T15:54:56.000Z",
+      "excerpt": "US healthcare group plans to create standalone public company with $8.5bn in annual sales",
+      "section": "news",
+      "rankScore": 0.489681
+    },
+    {
+      "id": "82be74c23db55f5c",
+      "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
+      "source": "npr-news",
+      "publishedAt": "2026-10-21T15:46:27.000Z",
+      "author": "Jaclyn Diaz",
+      "excerpt": "The Supreme Court ruled Wednesday that the Trump administration has to continue providing gender-affirming care to inmates in federal prisons as litigation on efforts to change the policy continues.",
+      "section": "news",
+      "rankScore": 0.486636
+    },
+    {
+      "id": "dd59cb5bb76e060a",
+      "title": "In France, Raging Against the Luxury Machine",
+      "url": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-21T15:30:58.000Z",
+      "author": "Vanessa Friedman",
+      "excerpt": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
+      "section": "news",
+      "rankScore": 0.481078
+    },
+    {
+      "id": "3f4d603f74b621de",
+      "title": "法国多地爆发骚乱，现在去巴黎旅游安全吗？",
+      "url": "https://cn.nytimes.com/travel/20261021/france-travel-riots/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-21T04:56:21.000Z",
+      "author": "CEYLAN YEGINSU,TARIRO MZEZEWA",
+      "excerpt": "巴黎成为法国示威活动的中心，共和国广场及周边大道发生重大冲突和骚乱。未来两周还有更多示威活动计划举行。我们整理了前往法国旅行之前需要了解的信息。 Abdul Saboor/Reuters 周一，抗议者封锁了巴黎卢浮宫的入口。在马赛、里尔和尼斯等法国多个城市都举行了声援公共教育及抗议生活成本高涨的示威活动。",
+      "section": "news",
+      "rankScore": 0.39799
+    },
+    {
+      "id": "bf62b76ad3c5cff7",
+      "title": "首批运往美国的俄罗斯柴油22日启运",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1OHh4RGlhamRzWlhDRDBYT1dsNTA2emxSR3o4TE82bmJJWmdOVnhXcFJoVC1nV2xDUlc4U0lQazZvQWxBNEZRM3gwN1V5OTA5Q1Nob0xrUS1Jc2dFWmtLVXQ2Ujd5d3ZSTE5FUHZlT0NNTGs?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-21T14:38:08.000Z",
+      "excerpt": "首批运往美国的俄罗斯柴油22日启运 观察者网 美俄达成原油和石油产品合作 人民日报 俄副总理：首艘装载俄柴油的油轮将于22日启程前往美国 搜狐 美国柴油供应紧张之际暂缓对俄制裁，以进口俄柴油缓解油价压力 虎嗅 俄副总理：俄柴油将在签署合同后15-20天进入美市场 新浪财经",
+      "section": "news",
+      "rankScore": 0.396096
+    },
+    {
+      "id": "5316752adf7473c8",
+      "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168638",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "excerpt": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.",
+      "section": "news",
+      "rankScore": 0.34744
+    },
+    {
+      "id": "509a2c6df0789654",
+      "title": "日本新农相连曝多起丑闻 民众对高市政府不信任感加剧",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718434.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-21T13:57:21.000Z",
+      "excerpt": "中新网10月21日电 据日本共同社21日报道，日本农林水产大臣武部新上任仅数日，便连续被曝出多起丑闻。武部新上任数日就出现“政治与金钱”相关问题，使高市早苗政府的危机管理能力备受质疑，高市的任命责任或将面临严厉审视。",
+      "section": "cn-news",
+      "rankScore": 0.767095
+    },
+    {
+      "id": "b25c1a087b9a3e63",
+      "title": "第四届海洋负排放开放科学大会厦门举行 推进全球气候治理行动",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718801.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-21T15:22:49.000Z",
+      "excerpt": "中新网厦门10月21日电 (李思源 戴佩琪)第四届海洋负排放开放科学大会21日在福建厦门开幕。本届大会由厦门大学、海洋负排放国际大科学计划(以下简称ONCE计划)联合主办。来自中国、美国、法国、英国、德国、巴西和智利等17个国家的专家学者、国际组织代表、政府官员及厦大师生代表围绕“拓展海洋负排放国际合作，推进全球气候治理行动”主题，共商海洋负排放科学创新、国际标准与全球协同治理大计。",
+      "section": "cn-news",
+      "rankScore": 0.751382
+    },
+    {
+      "id": "7456428fa057d057",
+      "title": "2026金融街论坛年会金融科技大会在京举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718797.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-21T15:24:45.000Z",
+      "excerpt": "中新网北京10月21日电 2026金融街论坛年会正在北京举行。20日，以“智能驱动 融合共生——智能经济新形态下的金融科技”为主题的2026金融街论坛年会金融科技大会在京开幕。",
+      "section": "cn-news",
+      "rankScore": 0.615659
+    },
+    {
+      "id": "b88bff3a3201349e",
+      "title": "诺贝尔生理学/医学奖得主：AI不会取代医生本身，人不是由工程师修理的机器人",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84T0xQRmhLcHRQeF9TUTRCZlFyZjNUdlpIY0k2S3VPOXRzU09TanNQVFJ6M3hWSHdGYUFqWUlRaExWREh6YlRjVFhMVTQyVmM4MG5DcnVEZHFoSUdkWDk4Mw?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-21T14:12:07.000Z",
+      "excerpt": "诺贝尔生理学/医学奖得主：AI不会取代医生本身，人不是由工程师修理的机器人 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.582136
+    },
+    {
+      "id": "504202e1c3f702cf",
+      "title": "最新 | 雷军发声！",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xV2lRelhoN01HclM5aHczdDRmVm5JT05FcWtzRjhTRjlhYkJSTUZvbjFpU2FjdXVBRG9mRHhnY3o2ZUdMYXB1ZFdpT3daZmlyUzdqZFBiWHVidGtoMFRWWQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-21T13:40:00.000Z",
+      "excerpt": "最新 | 雷军发声！",
+      "section": "cn-news",
+      "rankScore": 0.567313
+    },
+    {
+      "id": "3ea2d93fa76e8650",
+      "title": "国际调解院举办一周年庆祝招待会",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uVDhmR2IxRmI2ZjVCZmc2Y280M3lUWlFsX19qVF9wU3hTOXVBRUU0NUxKNENRZkU2c3QtYTNGLVhTMi1QX013bkQ3Nk5FX1JBdDZrZk94UQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-21T14:04:47.000Z",
+      "excerpt": "国际调解院举办一周年庆祝招待会 中国一带一路网 外交部：国际调解院已调解了国际商事争议案件，得到争端方的高度认可 新浪财经 郑若骅：即便输 我也要让对方赢的费点力气 中国日报网 国际调解院举行一周年庆祝招待会--大湾区频道 人民网 港澳会客厅｜国际调解院秘书长郑若骅：调解的优势在于尊重当事人自主权 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.514446
+    },
+    {
+      "id": "13a75c156285f647",
+      "title": "国内商品期货夜盘开盘 主力合约多数下跌",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kbV9tYUx6YUlKSXB4TDhSZkxqU0tQSU5OM2tfTmxYTU5sSE1Rc25yQkVma0pLYV9XQ0tva3dlcXJKSlM0dGZ2enNXOTBEQWJLZVBkcGV0MzdQczZfODZDWlVZenJlZw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-21T14:20:36.000Z",
+      "excerpt": "国内商品期货夜盘开盘 主力合约多数下跌 东方财富 开盘|国内期货主力合约跌多涨少 乙二醇（EG）跌超3% 新浪财经 期货午评：燃油涨超6%领涨！苹果跌4%，乙二醇等集体走弱 同花顺财经 国内期市夜盘收盘 烧碱跌超2% 证券之星 商品日报（10月19日）：燃料油续创新高 双焦盘中跳水焦煤跌超5% 中国金融信息网",
+      "section": "cn-news",
+      "rankScore": 0.455818
+    },
+    {
+      "id": "9a0f85a6e3787f74",
+      "title": "Taiwan’s Iran-style attack drone could swamp PLA air defences: analysts",
+      "url": "https://www.scmp.com/news/china/military/article/3371648/taiwans-iran-style-attack-drone-could-swamp-pla-air-defences-analysts",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-21T14:00:09.000Z",
+      "author": "Gabriel Dominguez",
+      "excerpt": "A flight-tested attack drone similar to Iran’s Shahed model that its Taiwanese maker says could reach military targets in mainland China is meant to swamp PLA air defences, analysts said.",
+      "section": "cn-news",
+      "rankScore": 0.448477
+    },
+    {
+      "id": "b594066434297700",
+      "title": "陸再批沈伯洋 陸委會：毫不掩飾介入台灣選舉意圖",
+      "url": "https://www.cna.com.tw/news/acn/202610210296.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-21T10:41:13.000Z",
+      "excerpt": "（中央社記者李雅雯台北21日電）中國大陸國台辦發言人張晗今天再批台北市長候選人沈伯洋。陸委會表示，國台辦將記者會當作個別候選人批鬥大會，毫不掩飾介入台灣選舉的意圖。",
+      "section": "cn-news",
+      "rankScore": 0.430931
+    },
+    {
+      "id": "3bcb9c89ec609349",
+      "title": "鲁比奥甩锅：乌克兰“星链”受限别找我们，要怪就怪马斯克",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96R3RjNmNfRmlRQWx6empSQnJtZFBNUm1aSjdWUnJUcUUyMmRjZnZhc0VhZmROMUhnR19BWFkxN0R2UEZfVk5MUWppRUg2YTd6YWxETU9KTkZlbG5MZ0thZmM5QXJjbkw4QjhCa3FJOHA?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-21T13:35:00.000Z",
+      "excerpt": "鲁比奥甩锅：乌克兰“星链”受限别找我们，要怪就怪马斯克 观察者网 美媒：马斯克下令限制乌军使用“星盾” 新华网 美媒称马斯克下令对乌使用星盾限速 手机新浪网 知情人士：是马斯克下令对乌克兰军方星链限速 凤凰网 美国务卿称乌“星链”限速系马斯克所为 搜狐",
+      "section": "cn-news",
+      "rankScore": 0.37667
+    },
+    {
+      "id": "e30be0bc25dee1de",
+      "title": "中俄界湖秋色“出圈” 兴凯湖五彩林海成千里打卡“目的地”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718799.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-21T15:24:09.000Z",
+      "excerpt": "中新网哈尔滨10月21日电 (王妮娜 刘方正)10月21日，中俄界湖兴凯湖秋色铺展，湖岗上的“网红树洞”迎来观赏旺季。辽阔湖水与五彩林海相映，吸引各地游客不远千里前来打卡。",
+      "section": "cn-life",
+      "rankScore": 0.82051
+    },
+    {
+      "id": "3f737fa618fc4ec1",
+      "title": "超强台风“蔷琵”23日起影响本市！这份安全提示请收好→",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNC1Pd0ZTSUhvT2hOaUU3OUQ2SWhoTUpiVkZvTVZHaFVOWWZjaEVzNXdCdGE3MHJXbENfVnlNaHNEb2ZuYlFlTkhEeDBzT2lfLVZmNmdpdDVBYVVlMlF4a1FjRHF0YmtncGUwa01fNnFyUFR3T0IxOA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-21T15:30:36.000Z",
+      "excerpt": "超强台风“蔷琵”23日起影响本市！这份安全提示请收好→ 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.618359
+    },
+    {
+      "id": "2abc1cd2aedb94ab",
+      "title": "厦门湖里区：精准救助・三维赋能” 织密民生兜底保障网- 本网原创",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aSHNJanpUSUdWNHoydkNob2hMRXVPbTVkM0hVVWhqbFJmejVrQzdUVmFLWUJXdkp0UHFHcXIwNTRMUkpnWGNwRUdVbDFuOEd0UmZoVmMydGxad2ljbVU4Uw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-21T14:13:00.000Z",
+      "excerpt": "厦门湖里区：精准救助・三维赋能” 织密民生兜底保障网- 本网原创 东南网",
+      "section": "cn-life",
+      "rankScore": 0.582544
+    },
+    {
+      "id": "6aa3ea70f10aea9c",
+      "title": "更好统筹发展和安全 紫帽镇湖盘村：排查整治除隐患 常态治理守安全",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tdWN5elo3MzRDd2w4ektLRm53eHYxU0k0UXhzRjNINzc5SGktRlNxd2NUYnFYd2pveFpvMDd0cGFxRUxHOE8wbm5GTXQtNy0zLUtHZlRXRnpvTnZfcVlrRXdnbzYxT0tzdE5LWTBwS2dzZVRB?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-21T12:54:00.000Z",
+      "excerpt": "更好统筹发展和安全 紫帽镇湖盘村：排查整治除隐患 常态治理守安全 晋江市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.485407
+    },
+    {
+      "id": "909177c502213b0a",
+      "title": "尚德守法共享食安 厦门海沧2026食品安全宣传周正式启动",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1URDE3a192Y2lHbG1aQ0RUQ3VxbTNSd2VseVZDMEFVRVVQYU45aTJTdnMzeF9MUFZ2OUQ2ZERNMy1MWDB1QmY4bmdBcEFTZ3pCUHM0d0EzMTlLMHgxS0VfTA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-21T14:13:00.000Z",
+      "excerpt": "尚德守法共享食安 厦门海沧2026食品安全宣传周正式启动 东南网",
+      "section": "cn-life",
+      "rankScore": 0.45309
+    },
+    {
+      "id": "b3700d26ca56fa6a",
+      "title": "德国团队将80岁血细胞重编程为＜20岁表型：分子年龄逆转超60年 ｜#科学资讯# #再生医学# #细胞老化#",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWG1zME1qOFdsUk5Pbk5KZVdJYmlFS3VvREVsRk5VckJaOW8wNmhMdVd4bURPVG9lZ1hlWUtFLUVPU2xlcDl0T19MS2RWV2c3Mm1WeEhjLV96RDZHc3ZHUWUybE1WclNLcE9ldmZTaFFGZU85UC1lZ3NEdTV0ZEpRRFpVTlVPT2NuaGxZQg?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-21T13:08:15.000Z",
+      "excerpt": "德国团队将80岁血细胞重编程为＜20岁表型：分子年龄逆转超60年 ｜#科学资讯# #再生医学# #细胞老化# 搜狐",
+      "section": "cn-life",
+      "rankScore": 0.429846
+    },
+    {
+      "id": "804d342ada95c29c",
+      "title": "第四届香港中小学、幼儿园“中华传统文化校长研修班”结业仪式举行",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Skd2ZV9XeVkwM05QRHhEVUhlMHFZVGhiWHZRWDV3WFlNZDFOUllFa1hXN19MLS1PTTBHV1U2UXk2c0NVM29KWDV5ZVFvakUxaTFOU0VR?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-21T13:53:06.000Z",
+      "excerpt": "第四届香港中小学、幼儿园“中华传统文化校长研修班”结业仪式举行 南京大学",
+      "section": "cn-life",
+      "rankScore": 0.38224
+    },
+    {
+      "id": "2fae05c0cfab8ffb",
+      "title": "研究700个罪案后，我发现“人性本欲”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PZVg1WlA5aVI1NEZlX2d6b1ROWFJFVmFhVzdGT1JVU2F3a0xaZUVsVFFzbGxyUGhGZUVMT0NGUEVtVFJGU21RNkRBV1VPWFo5VmQxcmpjVnZGWTMyMHU3RFJWVTlWdHR0?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-21T07:29:17.000Z",
+      "excerpt": "研究700个罪案后，我发现“人性本欲” 文学城",
+      "section": "cn-life",
+      "rankScore": 0.220118
+    }
+  ],
+  "warnings": []
+}
