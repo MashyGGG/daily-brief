@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-21",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-21T00:52:09.937Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "b4fa44d669db22aa",
+      "title": "翻看英國統計 為何從未吸煙的人也開始對電子煙上癮？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmp3gepg90x6o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-21T00:17:33.000Z",
+      "excerpt": "根據英國國家統計局（ONS）數據，目前有超過100萬名電子煙使用者過去從未吸煙。",
+      "section": "news",
+      "rankScore": 0.828461
+    },
+    {
+      "id": "95f2c1139a131d67",
+      "title": "欧洲中间派政党为何正在失去民心",
+      "url": "https://cn.nytimes.com/world/20261021/france-protests-europe-centrist-far-right/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-21T00:44:14.000Z",
+      "author": "STEVEN ERLANGER",
+      "excerpt": "经济增长低迷、通胀高企、政府债台高筑以及年轻人前景黯淡所引发的愤怒正在欧洲多国催生抗议。随着中间派政党陷入困境，极右翼和极左翼民粹主义政党正在崛起。 Kiran Ridley/Agence France-Presse — Getty Images 周一，经历周末骚乱后，巴黎伊夫·图迪克街上的一辆被烧毁的汽车。",
+      "section": "news",
+      "rankScore": 0.767576
+    },
+    {
+      "id": "a1bda3697e56d8a8",
+      "title": "马斯克承诺捐赠SpaceX股份给每个美国儿童 潜在捐赠额达107亿美元",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261021-%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AF%BA%E6%8D%90%E8%B5%A0spacex%E8%82%A1%E4%BB%BD%E7%BB%99%E6%AF%8F%E4%B8%AA%E7%BE%8E%E5%9B%BD%E5%84%BF%E7%AB%A5-%E6%BD%9C%E5%9C%A8%E6%8D%90%E8%B5%A0%E9%A2%9D%E8%BE%BE107%E4%BA%BF%E7%BE%8E%E5%85%83",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-21T00:44:50.000Z",
+      "author": "珍妮特",
+      "excerpt": "埃隆·马斯克承诺明年将向每位美国儿童赠送SpaceX公司的股份，价值约107亿美元（95亿欧元）。但他并未具体说明哪些儿童有资格获得股份，也未说明股份将如何分配。",
+      "section": "news",
+      "rankScore": 0.697963
+    },
+    {
+      "id": "573c8f920b8070bf",
+      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-20T23:51:43.000Z",
+      "excerpt": "A \"Super El Niño\" has boosted wildfires in Indonesia and made hundreds of thousands of people sick.",
+      "section": "news",
+      "rankScore": 0.614888
+    },
+    {
+      "id": "0116e6ed9615dbc8",
+      "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+      "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-21T00:48:25.000Z",
+      "author": "Ephrat Livni",
+      "excerpt": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
+      "section": "news",
+      "rankScore": 0.559167
+    },
+    {
+      "id": "0988d9d964bc9640",
+      "title": "Why former FDLR fighters are returning to Rwanda",
+      "url": "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-21T00:25:43.000Z",
+      "excerpt": "From the forest to Mutobo, former fighters face the challenge of rebuilding their lives after leaving the armed group.",
+      "section": "news",
+      "rankScore": 0.554122
+    },
+    {
+      "id": "54b10d97e9591515",
+      "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-20T23:49:04.000Z",
+      "author": "Dani Anguiano (now); Uwa Ede-Osifo, Robert Mackey, Shrai Popat and Maya Yang (earlier)",
+      "excerpt": "President also announces incentive program for people to report fraud, as administration continues attack on Minnesota Sign up for the Breaking News US email Send us your questions about immigration and the midterms A new survey reveals a widening “empathy gap” between Republicans and white…",
+      "section": "news",
+      "rankScore": 0.545978
+    },
+    {
+      "id": "ef50a15d9a0d28f8",
+      "title": "Christina Applegate Says Her MS Was Misdiagnosed",
+      "url": "https://www.nytimes.com/2026/10/20/well/christina-applegate-misdiagnosis-ms.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-21T00:12:10.000Z",
+      "author": "Maggie Astor",
+      "excerpt": "The actress, who was given a diagnosis of multiple sclerosis in 2021, was told by a doctor that she doesn’t have it after all.",
+      "section": "news",
+      "rankScore": 0.482222
+    },
+    {
+      "id": "918c7ff22879ef19",
+      "title": "Lula fast-tracks Brazil welfare payments days before run-off vote",
+      "url": "https://www.ft.com/content/e2bce5a9-0cb2-4166-8a14-3adeb5af6545?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-20T23:13:35.000Z",
+      "excerpt": "Veteran leftwinger aiming to close the gap with rightwing challenger Flávio Bolsonaro before Sunday’s ballot",
+      "section": "news",
+      "rankScore": 0.470831
+    },
+    {
+      "id": "a405c2cb956ce2c2",
+      "title": "秘书长特别代表：中非共和国和平进程取得进展，东北部安全形势仍面临挑战",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143034",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "excerpt": "安理会周二上午举行中非共和国局势公开会议。秘书长特别代表表示，中非共和国当前正处于从和平维持向和平巩固过渡的重要阶段。过去一年以来，地方选举顺利推进、解除武装工作取得进展、国家机构影响力有所扩大，这些都反映出积极变化；但东北部边境地区动荡加剧、跨境威胁持续存在以及部分地区武装活动活跃，因此，和平成果远未稳固。",
+      "section": "news",
+      "rankScore": 0.436959
+    },
+    {
+      "id": "490211f1c1613e04",
+      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+      "source": "npr-news",
+      "publishedAt": "2026-10-20T20:19:16.000Z",
+      "author": "The Associated Press",
+      "excerpt": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
+      "section": "news",
+      "rankScore": 0.436936
+    },
+    {
+      "id": "b90668fb8c348ab3",
+      "title": "意大利政府增派军人并批准法令以应对骚乱",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa3RhWVprYURRV1Jqa1hWNGpMNDY1c3M1RFhxWENyVm9rRzlSZzYyX0lXQ2Rjcjd5cTVEcmJXeGVUbHFzTlNTQ3RqLXlCdUVMaGM0S0xSV2F0cWc4OFFJZ0ppZk5rSEplXzJPcmRCd2Vta1lzc0tlTDZTYjJNSnlROXB2RTBmVTBnSlU5alF3NG5NdFF0MXc3Q1B3?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-21T00:15:06.000Z",
+      "excerpt": "意大利政府增派军人并批准法令以应对骚乱 新华网客户端",
+      "section": "news",
+      "rankScore": 0.413822
+    },
+    {
+      "id": "f0099e196facc1bb",
+      "title": "台风“蔷琵”继续向西偏北方向移动 中东部地区仍有大风降温天气",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718246.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-21T00:30:51.000Z",
+      "excerpt": "中新网10月21日电 据中央气象台网站消息，21日，冷空气继续影响我国中东部地区，关注大风降温、雨雪天气对人体健康、交通出行等的影响，做好森林草原和城乡防火工作；渤海、黄海等海域关注海上大风影响。21日至24日，新疆北部将有持续雨雪和大风降温天气，局地累计降水量大，需加强对交通、旅游和农畜牧业等安全管理。关注台风“蔷琵”发展移动趋势及对我国东南部海域、华东沿海等地的风雨影响。",
+      "section": "cn-news",
+      "rankScore": 0.832895
+    },
+    {
+      "id": "11b978f1897164b7",
+      "title": "“神话与怪兽”：亚洲艺术的奇幻美学",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04V1hWVl81YWdzRGNnaGxHYndRZU5hc05jeHFYSzR6NF9FVWgyR24tSWxzTlN4UmdfQzIta2JoOVpFM0dMQmNTaWJ1S2xrTGlicXVvUWd4cHoxV01LZFdGbQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-21T00:29:00.000Z",
+      "excerpt": "“神话与怪兽”：亚洲艺术的奇幻美学",
+      "section": "cn-news",
+      "rankScore": 0.624209
+    },
+    {
+      "id": "8223a2cece974941",
+      "title": "56.5%受访者希望住宿预订平台减少“杀熟”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718245.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-21T00:03:41.000Z",
+      "excerpt": "56.5%受访者希望住宿预订平台减少“杀熟”",
+      "section": "cn-news",
+      "rankScore": 0.617879
+    },
+    {
+      "id": "83fa8b48c5c11e08",
+      "title": "国考报名时间过半，热门岗位报录比超2800:1",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-21/10718213.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-20T16:01:37.000Z",
+      "excerpt": "中新网北京10月21日电(记者 李京统)2027年度国考报名已经过半，报名热度持续攀升，热门岗位报录比超2800:1。",
+      "section": "cn-news",
+      "rankScore": 0.607888
+    },
+    {
+      "id": "fab2ff34ca6c91c9",
+      "title": "长征路上新藏寨 | 归来的年轻人",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11VlNjT3JfRnQ1QUZUaVE3QnpCZHRxNVp2WTg5SVVoTTR0OE1TVnZ6VTRlYXRsRkl0VlhwZTgzUG53Z0pBY3J1aWNjdTRLVTE0SEQ0TEctMlcwSFVVYkVVVjhFOHFXWVZVYkJhWFo5LXZmd0VMeTdHQWE0X2s?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-21T00:40:08.000Z",
+      "excerpt": "长征路上新藏寨 | 归来的年轻人 求是",
+      "section": "cn-news",
+      "rankScore": 0.557326
+    },
+    {
+      "id": "1060bfab41bdd2e0",
+      "title": "国标拟新增自动驾驶系统标志灯要求 L2及以下禁用",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52X0lzZVhmQnpyeFBDejRNYzg1RHVLVmdxZnRLNmp1SnZwRUluMW1rVnVCZENueTNPc3Z1WTNtLVJlenk0Szg2T3JkOW5QajMzQW5ITDVCV3NoaVhFa2xDNUJQVGVORTM4cU53ai1ZM0NIb0N4SHFUNlRwcTg?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-21T00:41:29.000Z",
+      "excerpt": "国标拟新增自动驾驶系统标志灯要求 L2及以下禁用 新华网 “小蓝灯” 乱象被规范，智驾ADS标志灯迎来新国标 新浪财经 【网通社快报】深蓝汽车董事长邓承浩发文支持工信部车灯和智驾标志新国标 凤凰网汽车 工信部就智驾“小蓝灯”入国标征求意见：不具备L3级功能禁止安装 观察者网 车灯禁止显示表情包 新规约束智能驾驶灯光 中华网",
+      "section": "cn-news",
+      "rankScore": 0.487923
+    },
+    {
+      "id": "7cc834c8daa52f9e",
+      "title": "US troops in South Korea must be ready for missions beyond peninsula, commander says",
+      "url": "https://www.scmp.com/news/us/article/3371562/us-troops-south-korea-must-be-ready-missions-beyond-peninsula-commander-says",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-20T21:52:49.000Z",
+      "author": "Seong Hyeon Choi",
+      "excerpt": "The commander of the US Eighth Army in South Korea said his troops must be ready for deployment outside the Korean peninsula if ordered, arguing that it would be “irresponsible” to focus “myopically” on threats there.",
+      "section": "cn-news",
+      "rankScore": 0.455127
+    },
+    {
+      "id": "b08cb544c18ac669",
+      "title": "中國混合動力車趕在歐盟限制前出貨 9月出口年增204.2%",
+      "url": "https://www.cna.com.tw/news/acn/202610200380.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-20T14:52:11.000Z",
+      "excerpt": "（中央社台北20日電）據中國海關總署的數據，中國9月出口到歐盟的油電混合動力汽車較8月增加18.9%，也較去年9月增加204.2%。分析認為，12月歐盟限制進口中國油電混合動力汽車前，中國的出口量會保持在高點。",
+      "section": "cn-news",
+      "rankScore": 0.426671
+    },
+    {
+      "id": "f4a6bec51e94d6f1",
+      "title": "中国男团摘得体操世锦赛铜牌 锁定洛杉矶奥运会团体参赛席位",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PZlFKMXEzOHZEbUpURW9GOEttRXZlM2pqZ09FeHFVNXFJZ0xGVVVTTC1aREF1ZDRUbE1ydU9lbzJIQ0xBTUpDSzVBaXQtT2tsN2Nsai0zOVAybDhRd2o3OEVBUGVlQUIyUzBSa2hkYnhBaS1fT1hRcmI4bw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-21T00:44:04.000Z",
+      "excerpt": "中国男团摘得体操世锦赛铜牌 锁定洛杉矶奥运会团体参赛席位 中国日报网",
+      "section": "cn-news",
+      "rankScore": 0.41865
+    },
+    {
+      "id": "82351c05152840e2",
+      "title": "国家数据集团成立",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpc1YyeGNvWEtYU1FvUHdFbWk1SnN3d3hROHVZZHhVU2lpRU1VVEhmMFNaRW01S2tLNzhOeHJPVjJ2VFRaVnhQSHVqbFY1LTY5WHRKa1dfT3E?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-20T10:36:23.000Z",
+      "excerpt": "国家数据集团成立 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.416054
+    },
+    {
+      "id": "6b3fa757b6bcfe3b",
+      "title": "中东部大部降水稀少 江南多地降温如换季",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718250.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-21T00:40:27.000Z",
+      "excerpt": "中国天气网讯 今天(10月21日)起，中东部大部降水稀少，新疆北部雨雪增多。同时，受冷空气影响，东北、西南、江南、华南等地气温下降，江南不少地方降温猛烈，隔日如换季。明天起，中东部气温自北向南开始陆续反弹。",
+      "section": "cn-life",
+      "rankScore": 0.836095
+    },
+    {
+      "id": "0be1aa0c93609782",
+      "title": "台风、大风双预警！“蔷琵”逐渐向台湾以东洋面靠近，福建紧急通知：相关人员全部撤离！",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYnpRTnNrU1ZtbmRZeGdQWVFBcmVqOEhNcV9xM2FlQzRfOUJJMzVzN2RTV1FKamNWMjZ6NVUwR0dyNGdoaHZablRVQnRVUmVlaTNqNjVvamxxazVxRGFvTmwzYi01emdZOEV6UFBLMHlKNm5zUFJWVTVFR19TN0Y5QkZRalNfcDY2LThYcTVPSzVIOEwyMTYxc0t2Nk9xWjYtdnBxUVR6dE50dFhsclZpYTdlT1ZDODV1RXNXSk03RC0zclBzeEZJTEFxRkRfQkFILVJlQUdJWQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-21T00:45:47.000Z",
+      "excerpt": "台风、大风双预警！“蔷琵”逐渐向台湾以东洋面靠近，福建紧急通知：相关人员全部撤离！ 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.628404
+    },
+    {
+      "id": "e35da2e5b0d17b30",
+      "title": "2026年杭州城管系统停车与道路民生实事提前交卷",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92bmxVZ3JZVTdJWDRFeHJlcnRpRWp1RWJvTGNCRTBZNHMxYXAza1B4Q3N2M2NZM2NZWXdWRDJvdkptUlJnekFqcThSeWFpZjUwR0JSLVFsR0t5U1dNdEFLaVViNUp3SVZYT1BnaGZmVEJvZWRWaF9hQ09LZXdpdw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-21T00:41:41.000Z",
+      "excerpt": "2026年杭州城管系统停车与道路民生实事提前交卷 杭网议事厅",
+      "section": "cn-life",
+      "rankScore": 0.627379
+    },
+    {
+      "id": "ebf688446eb7b863",
+      "title": "咨询武乡县办理个体工商户营业执照的渠道",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5seTJuUjYwNkhrRW85NFZSenpjRXB6UUlDSmxmaWw1UVYtYTZ3ZDBsYTdfOUdpOXlOQklaa1RnWENFXzdVbzh2WG5Eb0RqaWc5N25zaU8zTFFKSmdNQnZicnpkRG5TZE1TNHFyS1VUMUR4Z1RvVlkwQzRDT0Q?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-21T00:10:00.000Z",
+      "excerpt": "咨询武乡县办理个体工商户营业执照的渠道 长治市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.55063
+    },
+    {
+      "id": "42d68763cc22228a",
+      "title": "经皮冠状动脉介入术后瑜伽心脏康复对冠心病患者生活质量、体力活动及心理健康影响的随机对照研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KU0pVYTJYb1k2N19CTW5Zdk4xWENlczM3U2MzenBsTFpqTjlpd3dVdFltMG9mRm11bnVPZXBHZ1FHQnpIa2k0MmpSenBLRXBPOHVpaFM4ckNKbEpJTE1iUUpmbldROTBRTTVCZGZB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-21T00:28:01.000Z",
+      "excerpt": "经皮冠状动脉介入术后瑜伽心脏康复对冠心病患者生活质量、体力活动及心理健康影响的随机对照研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.485304
+    },
+    {
+      "id": "4e452648b2b547dd",
+      "title": "Rote Liste®药品命名系统定性分析：品牌名与用药错误风险关联研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tQlBWR291X3p1dGlTeTFLdHBCU0htV3BSWGljT3gzcnhEeUpGVzhLaEtoeGt2cm5zcFp2MWhueWlMWmF4TGZDS2sydWp3Sy1YUDNpRFJLaWhDV2FOTnVGWk1VbFR2SS01dDEwX25R?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-21T00:27:57.000Z",
+      "excerpt": "Rote Liste®药品命名系统定性分析：品牌名与用药错误风险关联研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.485291
+    },
+    {
+      "id": "a93c5aa91262a9a0",
+      "title": "全国首批中小学科技教育实验区实验校评选 温州“一区五校”上榜",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKcFZkVU83Umh1OU84TkRvVVNLZnl2Tkk4amdHVjlKSUZKU3cyWVFPTFRJenFDRnMxNDFRTjFCMEVEMFZFZEJiLTZYZzNNOGZJZ29PWm12d3lMb0FrdFozVkd6S1YyUQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-21T00:41:44.000Z",
+      "excerpt": "全国首批中小学科技教育实验区实验校评选 温州“一区五校”上榜 温州新闻",
+      "section": "cn-life",
+      "rankScore": 0.418261
+    },
+    {
+      "id": "cf34b58e31d8c80e",
+      "title": "红霉素软膏不是“万能药”！这几种情况千万别乱用",
+      "url": "https://www.chinanews.com.cn/life/2026/10-20/10717584.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-20T01:03:48.000Z",
+      "excerpt": "红霉素软膏是很多人家里的常备药膏，不少人用它治疗蚊虫叮咬、唇炎、痤疮、孩子尿布疹，甚至用来缓解黑眼圈。注意！千万别把红霉素软膏当成“万能药”↓",
+      "section": "cn-life",
+      "rankScore": 0.303232
+    }
+  ],
+  "warnings": []
+}
