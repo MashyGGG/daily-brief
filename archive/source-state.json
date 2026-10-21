@@ -122,7 +122,9 @@
     "9bf6b48f7e70def8",
     "95f9915a9bb4788c",
     "2259b8fb737ef71b",
-    "143c2527091042a6"
+    "143c2527091042a6",
+    "1da9a9febaaff431",
+    "95fa9d12a740f2b8"
   ],
   "huggingface": [
     "9e1e6a898bac9ad8",
@@ -191,7 +193,8 @@
     "57b3e5c84e9cb263",
     "25e58a9bb63cbf24",
     "2fd58a39aa0b428c",
-    "b68893e8d3c0039f"
+    "b68893e8d3c0039f",
+    "31b7c8a2b8219f84"
   ],
   "anthropic": [
     "d112cba902a55689",
@@ -253,7 +256,8 @@
     "5d77522bac0bc66b",
     "f8b87631b2db540c",
     "0cd5cc59d69cc29a",
-    "e7741a5eba3f48f1"
+    "e7741a5eba3f48f1",
+    "28117a19bf4548b1"
   ],
   "tldr-ai": [
     "3e10de878b3472d9",

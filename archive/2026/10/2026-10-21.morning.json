@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-21",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-21T00:33:57.038Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "04fe01baf66e5d2c",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-21T00:33:57.038Z",
+      "score": 1208,
+      "excerpt": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "947549604ab8fedf",
+      "title": "SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-20T18:29:09.000Z",
+      "score": 509,
+      "author": "pcai",
+      "excerpt": "509 points · 270 comments · https://news.ycombinator.com/item?id=50170593",
+      "section": "tech",
+      "rankScore": 0.996582
+    },
+    {
+      "id": "bbe64d0dcfd2440a",
+      "title": "leanin: A Tokio-inspired concurrency library for Lean 4, with machine-checked proofs",
+      "url": "https://github.com/scidonia/leanin/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-20T23:04:37.000Z",
+      "author": "github.com via felixyz",
+      "section": "tech",
+      "rankScore": 0.658305
+    },
+    {
+      "id": "01e987e58970fbfc",
+      "title": "Announcing TypeScript 7.1 Beta",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
+      "source": "ts-devblog",
+      "publishedAt": "2026-10-20T17:53:06.000Z",
+      "author": "Daniel Rosenwasser",
+      "excerpt": "Today we’re excited to announce the beta release of TypeScript 7.1! npm install -D typescript@beta Let’s take a look at what’s new in TypeScript 7.1! Support for Import Attributes in Ambient Modules Import attributes are metadata that are attached to import statements.",
+      "section": "tech",
+      "rankScore": 0.647518
+    },
+    {
+      "id": "4ce37a435d2b2c56",
+      "title": "8 eMudhra certificates are compromised. Here's what you need to know",
+      "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+      "source": "cloudflare",
+      "publishedAt": "2026-10-20T22:20:16.000Z",
+      "excerpt": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next.",
+      "section": "tech",
+      "rankScore": 0.596579
+    },
+    {
+      "id": "8db0692d493719f0",
+      "title": "Bulk migrate branch protections to rulesets for a repository",
+      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-20T18:06:21.000Z",
+      "author": "Allison",
+      "excerpt": "You can now convert all branch protection rules of a repository to rulesets in a single action. This is an extension of the ability to convert a single branch protection…",
+      "section": "tech",
+      "rankScore": 0.592333
+    },
+    {
+      "id": "28117a19bf4548b1",
+      "title": "v2.1.305",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.305",
+      "source": "anthropic",
+      "publishedAt": "2026-10-20T20:46:50.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added sandbox.allowNestedUserNamespaces so sandboxed commands on Linux can create user namespaces (Chromium, rootless podman); this lets them get around the sandbox's file protections Added CLAUDE_CODE_RETRY_WATCHDOG_USAGE_LIMIT_RECHECK_MS so unattended retry mode (…",
+      "section": "ai",
+      "rankScore": 0.79614
+    },
+    {
+      "id": "ae8b03a6a76b966a",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-20T19:34:19.000Z",
+      "excerpt": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more…",
+      "section": "ai",
+      "rankScore": 0.740122
+    },
+    {
+      "id": "31b7c8a2b8219f84",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "source": "huggingface",
+      "publishedAt": "2026-10-20T18:17:47.000Z",
+      "section": "ai",
+      "rankScore": 0.669948
+    },
+    {
+      "id": "1da9a9febaaff431",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "source": "openai",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "excerpt": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "section": "ai",
+      "rankScore": 0.571545
+    },
+    {
+      "id": "63d5d33148a6253a",
+      "title": "你们用过苹果的轻应用吗？",
+      "url": "https://www.v2ex.com/t/1250468",
+      "source": "v2ex",
+      "publishedAt": "2026-10-20T16:44:51.000Z",
+      "score": 12,
+      "author": "MagicCoder",
+      "excerpt": "⚒️ 前阵子发现的，就捣鼓了一个，大家拿出 iPhone ，打开相机，对着下图试试看，能不能弹窗出来。⚒️",
+      "section": "cn-tech",
+      "rankScore": 0.737725
+    },
+    {
+      "id": "50e4f8f850b88760",
+      "title": "比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+      "url": "https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-21T00:26:48.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.698014
+    },
+    {
+      "id": "8d4a969c4d020a20",
+      "title": "AI新云神话破灭？明星股暴跌，云大厂退单，被预言80%活不过四年",
+      "url": "https://www.36kr.com/p/4034167970206594",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-21T00:32:51.000Z",
+      "author": "智东西",
+      "excerpt": "AI算力赛道正上演冰火两重天！ AI算力需求依旧火热，但曾风光无两的Neocloud（新型云服务商）正遭遇一轮市场抛售，多家上市企业股价暴跌。Garnter的一则报告更是直接断言，到2030年将有 80% 的Neocloud企业终止独立运营。 这一波风波中，被视作英伟达“亲儿子”称号的CoreWeave陷入“股债双杀”困境，其在过去8天内股价暴跌超23%，相比今年峰值股价下跌 55.7% ；公开披露的最新总负债达到 720.46亿美元（约合人民币4812亿元） 。",
+      "section": "cn-tech",
+      "rankScore": 0.629725
+    },
+    {
+      "id": "46a86a96a467e4c9",
+      "title": "AI slop 游戏充斥着 Steam 新品节",
+      "url": "https://www.solidot.org/story?sid=85667",
+      "source": "solidot",
+      "publishedAt": "2026-10-20T15:33:08.000Z",
+      "excerpt": "Steam 新品节于 10 月 19 日拉开帷幕，玩家立即注意到其中充斥着大量的 AI slop 游戏。曾经以发掘隐藏瑰宝著称的游戏活动，如今沦为廉价 AI 生成游戏的展示场。玩家通过社交媒体呼吁运营 Steam 平台的 Valve 公司引入 AI 过滤器功能，一键过滤掉这些 AI 生成游戏。随着 AI 工具的进步，逆向工程比以往任何时候都轻松，以至于部分游戏开发商不太愿意公开免费的 DEMO 试玩，担心 DEMO 会被破解会被克隆，被人抢在开发商之前发布克隆产品。",
+      "section": "cn-tech",
+      "rankScore": 0.60475
+    },
+    {
+      "id": "91c77abe4d2e7ff6",
+      "title": "AI 每日小报｜2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ERzBDcEZLY0dlNXJMdmt2MXloVWhsTnlTLTJSMTEyT0dQQW04ZUd3ejRWZjJjeFE1eVRyMzRtUmZkV2xVSWpWOURJN1RpUzBZS1VuQg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-20T23:59:33.000Z",
+      "excerpt": "AI 每日小报｜2026-10-20 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.483311
+    },
+    {
+      "id": "2fef39186f00b06d",
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-20T15:32:27.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors.",
+      "section": "security",
+      "rankScore": 0.549583
+    },
+    {
+      "id": "997ffc7adeffe9bb",
+      "title": "Hitachi Energy RTU500 Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. These vulnerabilities if exploited can have impact on confidentiality, integrity and availability of the product.",
+      "section": "security",
+      "rankScore": 0.490569
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 50 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
