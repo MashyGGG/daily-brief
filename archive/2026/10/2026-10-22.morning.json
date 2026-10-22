@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-22",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-22T00:38:32.690Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "c0454a051637b2fd",
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-22T00:38:32.690Z",
+      "score": 575,
+      "excerpt": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "fd6d606a205e0d42",
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-21T15:48:56.000Z",
+      "score": 663,
+      "author": "ejohnso49",
+      "excerpt": "663 points · 327 comments · https://news.ycombinator.com/item?id=50182987",
+      "section": "tech",
+      "rankScore": 0.969463
+    },
+    {
+      "id": "5cfdcf8ced3cb74d",
+      "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
+      "url": "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-22T00:38:32.690Z",
+      "excerpt": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "815dfc7fe7ab39a5",
+      "title": "Understanding Nix flakes",
+      "url": "https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-21T23:53:40.000Z",
+      "author": "lwn.net via vinipsmaker",
+      "section": "tech",
+      "rankScore": 0.670345
+    },
+    {
+      "id": "b77ea5b4fd9a43de",
+      "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+      "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-21T16:43:23.000Z",
+      "author": "Allison",
+      "excerpt": "You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores an expiring access token alongside a…",
+      "section": "tech",
+      "rankScore": 0.568011
+    },
+    {
+      "id": "98b0e46ffef3c449",
+      "title": "Fragments: October 21",
+      "url": "https://martinfowler.com/fragments/2026-10-21.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-10-21T10:51:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out?",
+      "section": "tech",
+      "rankScore": 0.564152
+    },
+    {
+      "id": "4d6cedf01106e2be",
+      "title": "v2.1.307",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
+      "source": "anthropic",
+      "publishedAt": "2026-10-21T22:17:02.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added /claude-api api-version to move Claude API code to API version 2026-10-21 Added the claude_code.safety_event OpenTelemetry event for each tool call a permission rule, auto mode, a safety check, a hook or the sandbox stopped, prompted or sent back Fixed requests failing with a…",
+      "section": "ai",
+      "rankScore": 0.825864
+    },
+    {
+      "id": "a2c274381136fd52",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "openai",
+      "publishedAt": "2026-10-21T21:00:00.000Z",
+      "excerpt": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "section": "ai",
+      "rankScore": 0.799116
+    },
+    {
+      "id": "80f75a6abb813bbf",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "huggingface",
+      "publishedAt": "2026-10-21T18:26:30.000Z",
+      "section": "ai",
+      "rankScore": 0.671236
+    },
+    {
+      "id": "30ed0ef65fe9d1cb",
+      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "source": "latent-space",
+      "publishedAt": "2026-10-21T06:54:09.000Z",
+      "excerpt": "An open source “bomb” drops from China",
+      "section": "ai",
+      "rankScore": 0.444768
+    },
+    {
+      "id": "036f14f75460f2ba",
+      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-22T00:38:32.690Z",
+      "excerpt": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "fc56bd5d7ed666af",
+      "title": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+      "url": "https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-21T21:18:40.000Z",
+      "author": "王一鹏",
+      "section": "cn-tech",
+      "rankScore": 0.644478
+    },
+    {
+      "id": "09e425b154522d28",
+      "title": "3大巨头、19款应用，争抢AI时代的第一张船票",
+      "url": "https://www.36kr.com/p/4035697724266375",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-22T00:31:48.000Z",
+      "author": "AIX财经",
+      "excerpt": "今年以来，办公Agent经历了一轮又一轮快速迭代，大厂之间的竞争，也开始有了更直观的数据对比。 10月20日，QuestMobile发布2026年三季度AI应用市场报告。9月，AI办公赛道月活达到1.42亿，同比增长50.6%。其中，腾讯 WorkBuddy 以3235万月活位居办公Agent榜首，百度搭子、 千问 办公紧随其后。 而另一张AI原生App榜单则呈现出不同的格局： 豆包 以4.19亿月活稳居第一， 千问 、 DeepSeek 分别以1.58亿、1.23亿位列第二、第三。 通用AI助手的流量争夺逐渐进入头部竞争阶段，格局趋于稳定，大厂们又把目光投向了办公场景。",
+      "section": "cn-tech",
+      "rankScore": 0.628314
+    },
+    {
+      "id": "71b8815afb034a46",
+      "title": "日本首相高市早苗就 PHP 漏洞发表推文 敦促更新🤣",
+      "url": "https://www.v2ex.com/t/1250756",
+      "source": "v2ex",
+      "publishedAt": "2026-10-21T14:49:40.000Z",
+      "score": 10,
+      "author": "SadBox",
+      "excerpt": "真没想 PHP 还有这待遇？！ 原推文: https://x.com/takaichi_sanae/status/2112890642590564386",
+      "section": "cn-tech",
+      "rankScore": 0.60278
+    },
+    {
+      "id": "765c68320e9b5105",
+      "title": "uni-app 切后台、锁屏后GPS 定位不回调了？Android 后台定位权限+ 前台服务实战笔记一、为什么一切后",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tdDlKN25pX3JzZkFxWUEzZkU5VFFLZWR4SUtkQ2Uwa256M1NYOWhwajNOcHFVNmlvNDFoWldCb1FGN3RPSlNFbmw3QVlTX2pVd2hoQw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-21T23:39:03.000Z",
+      "excerpt": "uni-app 切后台、锁屏后GPS 定位不回调了？Android 后台定位权限+ 前台服务实战笔记一、为什么一切后 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.478432
+    },
+    {
+      "id": "7e460af1e01d1483",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-21T18:57:34.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014.",
+      "section": "security",
+      "rankScore": 0.605284
+    },
+    {
+      "id": "f51d8e983a9503ae",
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-21T18:01:57.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind.",
+      "section": "security",
+      "rankScore": 0.589835
+    }
+  ],
+  "warnings": [
+    "source \"solidot\" failed: TypeError: fetch failed",
+    "source \"css-tricks\" looks stale: newest item is 51 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
