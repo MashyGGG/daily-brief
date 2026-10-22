@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-22",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-22T00:52:01.835Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "17151067d3391be8",
+      "title": "吃什麼能保持年輕肌膚？",
+      "url": "https://www.bbc.com/zhongwen/articles/ckjwe7jzn21no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-22T00:21:30.000Z",
+      "excerpt": "植物、脂肪和發酵食品可以減少皺紋，促進膠原蛋白生長，並改善皮膚質地。",
+      "section": "news",
+      "rankScore": 0.829823
+    },
+    {
+      "id": "90954be859c51dec",
+      "title": "特朗普纵容 普京梦想与中美举行新雅尔塔会议",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261021-%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%B5%E5%AE%B9-%E6%99%AE%E4%BA%AC%E6%A2%A6%E6%83%B3%E4%B8%8E%E4%B8%AD%E7%BE%8E%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%9B%85%E5%B0%94%E5%A1%94%E4%BC%9A%E8%AE%AE",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-21T22:41:47.000Z",
+      "author": "安德烈",
+      "excerpt": "普京梦想着背着乌克兰人与美中举行峰会商讨瓜分该国，如同1945年在雅尔塔决定瓜分势力范围的方式。据华尔街日报报道，这是普京最新的构想，据称已在10月9日与美国总统特朗普电话交谈时提出。该计划设想三位领导人将在11月18日至19日在中国深圳举行的亚太峰会期间“商讨结束俄乌战争”。",
+      "section": "news",
+      "rankScore": 0.66382
+    },
+    {
+      "id": "b1751816d0b8c65a",
+      "title": "The real reasons US politicians are getting older",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-21T23:52:12.000Z",
+      "excerpt": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+      "section": "news",
+      "rankScore": 0.615042
+    },
+    {
+      "id": "00f1f5d56ab8b85d",
+      "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-22T00:34:52.000Z",
+      "author": "Dani Anguiano (now); Uwa Ede-Osifo, Shrai Popat, Lucy Campbell and Frances Mao (earlier)",
+      "excerpt": "‘That was great, man. Wow. Man, I loved that,’ the president says from podium as multiple protesters interrupt his remarks Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli military has detained about 80 US, Israeli…",
+      "section": "news",
+      "rankScore": 0.556186
+    },
+    {
+      "id": "10e3fe194327cf63",
+      "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+      "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-22T00:25:41.000Z",
+      "excerpt": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
+      "section": "news",
+      "rankScore": 0.554145
+    },
+    {
+      "id": "56e5f694eafc16ee",
+      "title": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+      "url": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-21T23:13:39.000Z",
+      "author": "Frances Robles",
+      "excerpt": "Four members of El Salvador’s military were abducted Sunday in Haiti, and their president wants them back.",
+      "section": "news",
+      "rankScore": 0.538138
+    },
+    {
+      "id": "a6da14752c8e4e4b",
+      "title": "Citing 'challenges,' AIPAC halts endorsements and direct contributions to candidates",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+      "source": "npr-news",
+      "publishedAt": "2026-10-22T00:22:48.000Z",
+      "author": "Saige Miller",
+      "excerpt": "The pro-Israel lobbying group and influential political donor announced it would no longer endorse candidates or give directly to campaigns, instead mobilizing its members to give individually.",
+      "section": "news",
+      "rankScore": 0.484316
+    },
+    {
+      "id": "7e02ed706ad6ccea",
+      "title": "Why a Pillar of Christian Journalism is in Turmoil",
+      "url": "https://www.nytimes.com/2026/10/21/us/christianity-today-magazine-layoffs.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-21T23:45:26.000Z",
+      "author": "Ruth Graham",
+      "excerpt": "Former employees of Christianity Today say new leadership has been pushing back on independent journalism. About half of its staff members have left or been laid off over 14 months.",
+      "section": "news",
+      "rankScore": 0.477051
+    },
+    {
+      "id": "b058ac239af32006",
+      "title": "Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’",
+      "url": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-21T23:20:30.000Z",
+      "excerpt": "Researchers used OpenAI and Google models to find severe faults in software used on the majority of websites around the world",
+      "section": "news",
+      "rankScore": 0.472202
+    },
+    {
+      "id": "59a5734c1fb50fc0",
+      "title": "世卫组织协助尼日利亚应对首例埃博拉输入病例",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143042",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "excerpt": "世界卫生组织周三表示，尼日利亚已确认该国首例布恩迪布焦型埃博拉病毒病例。患者为一名近期从乌干达入境的女性，目前正接受隔离治疗。当地卫生部门已识别44名接触者并开展健康监测，世卫组织正协助加强疫情调查和感染防控。",
+      "section": "news",
+      "rankScore": 0.436992
+    },
+    {
+      "id": "7a29a4caff9ec439",
+      "title": "伊朗最高领袖会见议长 讨论战争影响",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNV9RMG5Bdzdya0F2MDRzSWk1YXkxdHBORG9XZWtqNXNoY205dnJ4OUgtMTJudVpGZ0g4dkh4MzQybW9kVkd3SENiLTJwYUxDcTIyTGF2SWZUYzloZXJwQnUwT3BYRkkzWFpIX1FPbU9yaFpLd1pLOHU4dzBDWmZZeE0wbzNqNjVzLWN6eUVwRUFXb0h3cXpSU0Jn?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-22T00:19:31.000Z",
+      "excerpt": "伊朗最高领袖会见议长 讨论战争影响 新华网客户端 伊朗最高领袖会见议会议长卡利巴夫 凤凰网 伊朗最高领袖会见议会议长 商讨最新局势 搜狐 伊朗议长卡利巴夫会见哈梅内伊大阿亚图拉—— 阿纳多卢通讯社 UA.NEWS 接任最高领袖后首次公开露面 穆杰塔巴会见伊朗议长商讨战局 8world",
+      "section": "news",
+      "rankScore": 0.414581
+    },
+    {
+      "id": "d90e686fc1337dae",
+      "title": "特朗普前律师的5000万美元薪酬与一位亿万富翁的特赦",
+      "url": "https://cn.nytimes.com/usa/20261021/julio-herrera-pardon-alina-habba/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-21T04:55:10.000Z",
+      "author": "TYLER PAGER",
+      "excerpt": "出身于委内瑞拉的亿万富翁埃雷拉在美国面临指控。在寻求特赦无果后，他的家族重金聘用了特朗普的前私人律师哈巴。数周后，特朗普授予埃雷拉全面无条件的赦免。 Carlos Giusti/GFR Media, via Imago 2022年8月，胡里奥·埃雷拉·韦卢蒂尼在波多黎各圣胡安，此前他因涉嫌参与一桩行贿该地区总督万达·瓦斯奎兹的阴谋而被起诉，该阴谋旨在让瓦斯奎兹解雇一名正在调查其银行的监管人员。",
+      "section": "news",
+      "rankScore": 0.404292
+    },
+    {
+      "id": "2307117672893663",
+      "title": "90年了，这群拼命赶路的人，不能忘！",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718843.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-22T00:32:34.000Z",
+      "excerpt": "1934年",
+      "section": "cn-news",
+      "rankScore": 0.764053
+    },
+    {
+      "id": "1389cec4328abfd9",
+      "title": "AI制药能改变创新药“三个十定律”吗",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718827.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-21T23:28:32.000Z",
+      "excerpt": "AI制药正在成为当前医药研发领域的热点。",
+      "section": "cn-news",
+      "rankScore": 0.609126
+    },
+    {
+      "id": "3794733266409573",
+      "title": "蓝佛安：第33届APEC财长会达成一系列务实成果",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718743.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-21T13:18:20.000Z",
+      "excerpt": "中新社香港10月21日电 (记者 戴小橦)第33届亚太经济合作组织(APEC)财长会21日在香港顺利闭幕，会议主席、中国财政部部长蓝佛安在会后举行的新闻发布会上表示，本次会议达成一系列务实成果，取得圆满成功。",
+      "section": "cn-news",
+      "rankScore": 0.608768
+    },
+    {
+      "id": "9e70731ee6a389bd",
+      "title": "Meta第三季度营收646亿美元，同比增长26%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3ck1BVkJIUHNjNGM0SXVxOE05SUQ0cnFTcWpHSFFkUmFOeEowb3l2Y2NjdVdKbF9SNG5iX3hGdWp0QXBGRUV6UVRZMU1OQW05YS15WWtTeGM?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-21T23:01:32.000Z",
+      "excerpt": "Meta第三季度营收646亿美元，同比增长26% 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.602376
+    },
+    {
+      "id": "ccf5892bb92a65af",
+      "title": "求是网评论员：把习近平党建思想贯彻到党的建设全过程各方面",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V01qVHB6dDhFVkV1MUNyOHFFVWVMUHpzYjVCUUU2cXZXVmI1QkFlcHctaGlnS29oZ29sSk44UzBacDZyR09ZX3psYkZpdDAtbWJhOG9CYWd1UWJ4d29KQ1c4d2tjbE1ZSXJjMmllaFZXdnVHWVRHcmo4LS0?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-22T00:31:22.000Z",
+      "excerpt": "求是网评论员：把习近平党建思想贯彻到党的建设全过程各方面 求是网 以学铸魂丨坚持思想建党理论强党 中央纪委国家监委网站 《习近平党建文选》第一卷丨（45）不断开辟当代中国马克思主义、二十一世纪马克思主义新境界 江苏宣传网 《求是》杂志发表习近平总书记重要文章 坚持用马克思主义及其中国化创新理论武装全党 北京市人民政府门户网站 明体达用方为学（连云港 刘航先） 江苏先锋",
+      "section": "cn-news",
+      "rankScore": 0.555408
+    },
+    {
+      "id": "09a5e7dc173f5fe2",
+      "title": "“人怎么能聪明到这种程度”，男子捡到一个包，内有3.8万元现金及身份证，于是写了份“防伪”失物招领",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oN1dXTklOczdPbmpoWHVuNzJRSU4yRkVFc1lEYUowT1pBT290OEhzaXk3aGZmZnl2ZklKWmFUc3p0MTM4SWZFUHF6TGNHTDg4eTJmRUkzT0xFRVFORV9tMg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-21T15:41:00.000Z",
+      "excerpt": "“人怎么能聪明到这种程度”，男子捡到一个包，内有3.8万元现金及身份证，于是写了份“防伪”失物招领",
+      "section": "cn-news",
+      "rankScore": 0.492242
+    },
+    {
+      "id": "12152862cd7bfeef",
+      "title": "GDP增速4.6%，全球领先！中国经济怎么看",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mek4xVGdyX2x5ZlVtQUlhTjR3bWdaUUpfcGw5eGt1bW9NdlIxSE5zOWN0R0VBblFENEFOZ3o4RWltYkpYd1lkS3ZBX0VRSU5jTDJIZGphSW83QQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-22T00:03:00.000Z",
+      "excerpt": "GDP增速4.6%，全球领先！中国经济怎么看 上观新闻 新兴领域良性循环加快形成 人民日报 特稿丨创新驱动 开放赋能——海外人士解读中国经济“三季报” 经济频道 晶采观察丨增长4.6%背后！中国经济新动能孕育新机遇 中国日报网 经纬度：消费、进口、物价共同传递内需改善信号 中国网",
+      "section": "cn-news",
+      "rankScore": 0.480466
+    },
+    {
+      "id": "507489efe643ded8",
+      "title": "‘Comrade Raul’: Beijing defends Cuba’s ex-leader over Florida murder warrant",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371697/comrade-raul-beijing-defends-cubas-ex-leader-over-florida-murder-warrant",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-21T23:02:27.000Z",
+      "author": "Igor Patrick",
+      "excerpt": "China on Wednesday condemned an arrest warrant issued in the US state of Florida for former Cuban president Raul Castro over the 1996 downing of two civilian planes, accusing the United States of using the courts to pressure Havana.",
+      "section": "cn-news",
+      "rankScore": 0.468693
+    },
+    {
+      "id": "8527126df0c855fb",
+      "title": "特斯拉飛天跑車在中國受關注 人民日報：像漂亮的概念秀",
+      "url": "https://www.cna.com.tw/news/acn/202610210364.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-21T14:46:45.000Z",
+      "excerpt": "（中央社台北21日電）電動車廠特斯拉（Tesla）日前發布採用火箭推進器的跑車Roadster，在中國網路備受關注，有人擔心中國在全球汽車產業競爭中正失去優勢。人民日報今天發表評論文章，指「比起一款能日常開的車，它更像一場漂亮的概念秀」。",
+      "section": "cn-news",
+      "rankScore": 0.425493
+    },
+    {
+      "id": "e0f4d8979b4af283",
+      "title": "在守护文化遗产中延续文明根脉",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lSWt5bHB6SGU0bHRjS2pienpMWmt0VmJiNmF6SjJLM09jSnRROUEtaEtQWGxnc0JYazlBb24yZUh1TmRTMDV6SWNlSmhQV1RxY2VlTW9HbGhYaTJ2MW1KMDNIM1UweXhTcUpNUw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-22T00:17:13.000Z",
+      "excerpt": "在守护文化遗产中延续文明根脉 中国社会科学网 良渚考古发现：“王陵”边上有房子，房子可能是“享殿” 新华网 “南昌礼物”亮相2026良渚文创市集（图） 凤凰网 当设计师“遇到”良渚先民 看科技和创意如何让五千年文明“可玩可购” 浙江新闻 良渚玉脉赴径山之约，千年文脉在市集相逢 央视网",
+      "section": "cn-news",
+      "rankScore": 0.414198
+    },
+    {
+      "id": "8f90cb21eec4ca28",
+      "title": "旅客预订机票后因病申请退票被拒产生纠纷 专家解析",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10718830.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-21T23:42:11.000Z",
+      "excerpt": "旅客预订机票后因病申请退票被拒产生纠纷 专家指出",
+      "section": "cn-life",
+      "rankScore": 0.816718
+    },
+    {
+      "id": "5e26ed5211ce4241",
+      "title": "差价数十倍 概念“乱如麻” 网红钛制品真有那么神奇吗？",
+      "url": "https://www.chinanews.com.cn/life/2026/10-22/10718831.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-21T23:42:33.000Z",
+      "excerpt": "从保温杯、汤锅到餐盘餐具，钛制日用消费品正在走红。同样打着“钛”标签的产品，价格却相差数十倍。有的号称纯钛，有的只是表面镀上一层钛膜，这些商品往往宣称具有抑菌、保鲜、活化食材等作用。各类养生概念铺天盖地，普通消费者却很难分辨材质真伪与宣传虚实。面对热度持续走高的钛制品市场，消费者该如何擦亮眼睛？",
+      "section": "cn-life",
+      "rankScore": 0.6807
+    },
+    {
+      "id": "8bea05e9f05f4862",
+      "title": "学生就业创业指导中心党支部召开伟大长征精神专题学习研讨会",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CaFp2ZVZSdm5PcmNiSFYtMDVFb1lmYlhMYUlJZkxlejR1VVRsTnJyNW9wd1RneEc1RUVLMl9XazB4MjNPa0NPZDNCdFg4MmZpRl93WjBfZk5LRHdv?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-22T00:38:41.000Z",
+      "excerpt": "学生就业创业指导中心党支部召开伟大长征精神专题学习研讨会 人大新闻网",
+      "section": "cn-life",
+      "rankScore": 0.626663
+    },
+    {
+      "id": "0c1a61b23d721361",
+      "title": "中央气象台继续发布台风蓝色预警：预计“蔷琵”强度继续减弱",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3c3BmbUc5NE1haEJaS3M5TVdZQ1FaLWc1OEl0dTE3emNSd0FSUVdVdlgzWU91aGNlVGlRTFpaaExDRjA0T1lLSjZrZ3hTbmo4RFZNZWpDWWZRa1M4bjRXQQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-22T00:26:00.000Z",
+      "excerpt": "中央气象台继续发布台风蓝色预警：预计“蔷琵”强度继续减弱 ThePaper.cn",
+      "section": "cn-life",
+      "rankScore": 0.623492
+    },
+    {
+      "id": "d03ee9c01cef90b0",
+      "title": "国家防总办公室、应急管理部组织多部门会商部署台风“蔷琵”防范应对工作",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZTI5R09oOXp5MFk2bW1OMjhQOWtwWm5Va1k4VDV5N0Z6cFRlMS1vSW9ObXNhR0VwTllJbTlUSk9pd0pMS0lZclNyczlwdlF5S1hQWTFwbjgxNGJTLW1mZnpteHZWYU80VG45Vg?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-22T00:38:00.000Z",
+      "excerpt": "国家防总办公室、应急管理部组织多部门会商部署台风“蔷琵”防范应对工作 中华人民共和国应急管理部",
+      "section": "cn-life",
+      "rankScore": 0.556882
+    },
+    {
+      "id": "892439f4726bca74",
+      "title": "深部子宫内膜异位症患者下尿路症状的病理生理机制与临床意义：一项叙述性综述",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrSFV6YlRBQVJuRUxPekx3ZmNTa3hWYWdidjdseXh2QXJLbmtIZWRTUFJZd2huVW9FUTNUS3kwajdIOURNVjYtWnk1LURldE05TEsxVVpPWjUybnowcVdxcU9tMzNuZF9DbzdkRnd3?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-22T00:35:44.000Z",
+      "excerpt": "深部子宫内膜异位症患者下尿路症状的病理生理机制与临床意义：一项叙述性综述 生物通 基于二硫键降解的子宫内膜异位症分子亚型免疫特征及五基因诊断标志物研究 生物通 单细胞RNA测序解析卵巢子宫内膜异位囊肿致卵巢功能障碍的细胞图谱与分子机制 生物通",
+      "section": "cn-life",
+      "rankScore": 0.486831
+    },
+    {
+      "id": "f0f09354c7bd263a",
+      "title": "聚焦群众关切 织密安全防线",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzM1UmRHd1RaQkdnNGZYZXl1YjNmbE51VmRUYTkya1BVM0dTWEQ5c2daYWpvaTRjLWlTYjFpT21pZmVmOHZkZGFzMC02WG4yM1ZPOVdSMnp2dVh4VmpRQ3J6ckgyamY2RG4tbWd3NEREWDRWUXAwS3lqTnpWelZMbTBvYngyR0Z6bnFBUVRxYkRvZ1otejNpag?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-22T00:14:56.000Z",
+      "excerpt": "聚焦群众关切 织密安全防线 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.482787
+    },
+    {
+      "id": "b43380ea28e71e3a",
+      "title": "以差异代替差距：AI 时代，教育重在发现与唤醒",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW9DczctSmVmWW1BdFZlT0xWU0lhNWxHdHNxUUpUVW9hUklUZTI2Y0kyNnFsM2hwUElsRjIwR1NBMFJBSTlzbFY3Rkp2eGhLNkI3Tm44MmRjeGZEdGZ5b2xIUW9QNW9YR1U0RmJPS2VWT3dfTnBwbTVGS3oxMVA5b3Q1bVF2dHdNd050THZyYUFRTDU5WTYyUFk0X2cxdGFiY29VbzdpNkE3ZURkTktCYml0NA?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-22T00:48:52.000Z",
+      "excerpt": "以差异代替差距：AI 时代，教育重在发现与唤醒 新浪教育",
+      "section": "cn-life",
+      "rankScore": 0.419473
+    }
+  ],
+  "warnings": []
+}
