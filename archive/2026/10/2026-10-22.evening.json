@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-22",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-22T17:06:39.186Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "732c15ddabc3215e",
+      "title": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-22T17:06:39.186Z",
+      "score": 683,
+      "excerpt": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "3d99b3291a4d18df",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "source": "hn-front",
+      "publishedAt": "2026-10-22T13:33:39.000Z",
+      "score": 527,
+      "author": "bo0tzz",
+      "excerpt": "527 points · 408 comments · https://news.ycombinator.com/item?id=50195110",
+      "section": "tech",
+      "rankScore": 1.042284
+    },
+    {
+      "id": "008fff6e0840c1fc",
+      "title": "Architecting Governed, Self-Evolving AI Agents on the Gemini platform",
+      "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-22T17:06:39.186Z",
+      "excerpt": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self-evolving AI agents that remediate live…",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "361228e26b1b59a8",
+      "title": "Why Distributed Systems Prefer Independence over Coordination",
+      "url": "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-22T15:30:47.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we’ll look at why coordination is a challenge for distributed systems.",
+      "section": "tech",
+      "rankScore": 0.719783
+    },
+    {
+      "id": "5dd6fda1a316866d",
+      "title": "Industry comparisons in the Copilot impact dashboard",
+      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-22T16:28:24.000Z",
+      "author": "Allison",
+      "excerpt": "The Copilot impact dashboard now includes an “Industry comparison” section. Enterprises, and organizations that aren’t owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks…",
+      "section": "tech",
+      "rankScore": 0.681784
+    },
+    {
+      "id": "0f2371faac5017d9",
+      "title": "Expose only share links of a private service with caddy",
+      "url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
+      "source": "lobsters",
+      "publishedAt": "2026-10-22T16:30:14.000Z",
+      "author": "dataswamp.org via ggpsv",
+      "section": "tech",
+      "rankScore": 0.665591
+    },
+    {
+      "id": "44c64f55f65e19a1",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-22T15:34:13.000Z",
+      "excerpt": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
+      "section": "ai",
+      "rankScore": 0.787179
+    },
+    {
+      "id": "8c107e26ea7e2579",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "source": "huggingface",
+      "publishedAt": "2026-10-22T16:11:31.000Z",
+      "section": "ai",
+      "rankScore": 0.757963
+    },
+    {
+      "id": "abd6f5e146688f23",
+      "title": "You are the Team — Anekha Sokhal, Moshi",
+      "url": "https://www.latent.space/p/moshi",
+      "source": "latent-space",
+      "publishedAt": "2026-10-22T14:03:40.000Z",
+      "excerpt": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
+      "section": "ai",
+      "rankScore": 0.67415
+    },
+    {
+      "id": "267008da25baa323",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "deepmind",
+      "publishedAt": "2026-10-22T14:30:24.000Z",
+      "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "section": "ai",
+      "rankScore": 0.563034
+    },
+    {
+      "id": "60d35c9578caf4a2",
+      "title": "从 LOOP 到图探索 —— 算法模型的 AutoResearch 自进化系统架构演进之路",
+      "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-22T17:06:39.186Z",
+      "excerpt": "本文分享这套系统的设计理念、架构演进与可信度设计，希望对大家有所帮助或启发。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "852638904a3d583c",
+      "title": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+      "url": "https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-22T16:24:28.000Z",
+      "author": "极客邦科技",
+      "section": "cn-tech",
+      "rankScore": 0.679911
+    },
+    {
+      "id": "0a5626331734dff1",
+      "title": "昨晚笑 PHP 的, 今天可以笑 Java 了 🤪",
+      "url": "https://www.v2ex.com/t/1251008",
+      "source": "v2ex",
+      "publishedAt": "2026-10-22T09:28:24.000Z",
+      "score": 18,
+      "author": "GodSppp",
+      "excerpt": "今天 Oracle 也发布了一个 CVE 漏洞: https://www.oracle.com/security-alerts/alert-cve-2026-91403.html",
+      "section": "cn-tech",
+      "rankScore": 0.676606
+    },
+    {
+      "id": "1c8fd464a9b267e1",
+      "title": "Gemini 4 Argon Token消耗量暴涨3倍，谷歌CEO首谈砍掉3.5 Pro内幕，还剧透了5.0",
+      "url": "https://www.36kr.com/p/4036933567288968",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-22T13:40:20.000Z",
+      "author": "划重点",
+      "excerpt": "上线72小时，吞吐近25万亿Token，消耗量是上一代Gemini 3.0同期的3倍。 这是Google最新旗舰模型Gemini 4 Argon交出的首秀成绩单。哪怕是家底丰厚的Google，面对瞬间涌入的调用需求，也不得不再次实施算力限流。 在科技播客《Sources》的最新访谈中，Google CEO桑达尔·皮查伊复盘了Gemini 4 Argon的发布细节，首次公开解释了Gemini 3.5 Pro为何神秘消失，以及DeepMind核心管理层变动的幕后原因。",
+      "section": "cn-tech",
+      "rankScore": 0.541577
+    },
+    {
+      "id": "cd79f5562ef94405",
+      "title": "“开源 Windows” ReactOS 迎来重大进展：NTFS 驱动近十年终于可用、系统向 NT6 迁移",
+      "url": "https://www.oschina.net/news/503163/open-source-windows-reactos-finally-gets-ntfs-support",
+      "source": "oschina",
+      "publishedAt": "2026-10-22T11:13:50.000Z",
+      "excerpt": "ReactOS 官方向社区宣布了两个重大进展：NTFS 驱动终于可用了，系统正在向 NT6 架构迁移。对等了近十年的开源 Windows 项目来说，这两件事合在一起，意味着它真的在接近「能用」了。 先说 NTFS。ReactOS 官方用「BREAKING NEWS: NTFS moment!」来宣布——经过近十年的努力，NTFS 驱动终于大幅改进，可以真正用 NTFS 安装...",
+      "section": "cn-tech",
+      "rankScore": 0.478792
+    },
+    {
+      "id": "47de5e4aacdb6d61",
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-22T16:12:31.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018.",
+      "section": "security",
+      "rankScore": 0.674221
+    },
+    {
+      "id": "c196e7f8969b3a71",
+      "title": "Managing AI Token Consumption for Operational Resilience",
+      "url": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-22T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "CISA, the Canadian Centre for Cyber Security (Cyber Centre), and partners are releasing joint guidance, Managing AI Token Consumption for Operational Resilience , to help organizations understand and manage token usage in support of operations.",
+      "section": "security",
+      "rankScore": 0.553975
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" failed: Error: HTTP 415",
+    "source \"solidot\" failed: TypeError: fetch failed",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}

@@ -133,7 +133,10 @@
     "1458740db7428ed3",
     "78882dd3a9fb2a37",
     "a2c274381136fd52",
-    "7b770e3dea7c128e"
+    "7b770e3dea7c128e",
+    "0c142af105bfcfca",
+    "e1a7dfa7bc441aca",
+    "fa4249f1ec137a15"
   ],
   "huggingface": [
     "9e1e6a898bac9ad8",
@@ -208,7 +211,9 @@
     "c74c2c4f021d9fae",
     "46ef75087cd06290",
     "80f75a6abb813bbf",
-    "c0f4e920b37cfe6d"
+    "c0f4e920b37cfe6d",
+    "8c107e26ea7e2579",
+    "daf6980a7a10bfa3"
   ],
   "anthropic": [
     "d112cba902a55689",
@@ -273,7 +278,8 @@
     "e7741a5eba3f48f1",
     "28117a19bf4548b1",
     "bef3ef8508da3bba",
-    "4d6cedf01106e2be"
+    "4d6cedf01106e2be",
+    "86951d10d8c7ea37"
   ],
   "tldr-ai": [
     "3e10de878b3472d9",
@@ -319,7 +325,8 @@
     "8caada4958ce9df4",
     "87a799b6818ddea6",
     "8ad89333e23436ea",
-    "944f266063483d92"
+    "944f266063483d92",
+    "f77bf7d3ca98c3b8"
   ],
   "tldr-tech": [
     "ae2e1741e57ba0ec",
@@ -365,7 +372,8 @@
     "ad83423ae8eafa8c",
     "4138ac62b99bfd9d",
     "67768c92db04cf6e",
-    "e792e12a9afad0b4"
+    "e792e12a9afad0b4",
+    "7f4320a662405eef"
   ],
   "google-developers": [
     "cd25aaa0b5ba58fc",
@@ -411,7 +419,9 @@
     "ef0877932f6fa22c",
     "0c7a82009816ae74",
     "e70df74aa5c49f06",
-    "5cfdcf8ced3cb74d"
+    "5cfdcf8ced3cb74d",
+    "04a807755581a9f6",
+    "008fff6e0840c1fc"
   ],
   "javascript-weekly": [
     "67b3f4c8956c1ec3",
@@ -421,6 +431,7 @@
     "83aa01cdc100223c",
     "3624f8192e2d27ec",
     "9c86f96fd0befd0d",
-    "96399aaf5657f498"
+    "96399aaf5657f498",
+    "070a624eb7ed8d08"
   ]
 }
