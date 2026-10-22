@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-22",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-22T15:51:59.758Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "68addf01cf84585e",
+      "title": "欧洲议会2026年萨哈罗夫奖授予国际刑事法院",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261022-%E6%AC%A7%E6%B4%B2%E8%AE%AE%E4%BC%9A2026%E5%B9%B4%E8%90%A8%E5%93%88%E7%BD%97%E5%A4%AB%E5%A5%96%E6%8E%88%E4%BA%88%E5%9B%BD%E9%99%85%E5%88%91%E4%BA%8B%E6%B3%95%E9%99%A2",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-22T14:31:13.000Z",
+      "author": "古莉",
+      "excerpt": "欧洲议会周四将2026年萨哈罗夫奖授予了被美国总统特朗普政府针对的国际刑事法院。",
+      "section": "news",
+      "rankScore": 0.658575
+    },
+    {
+      "id": "00b8c41b2d32e044",
+      "title": "不點單，沒座位：星巴克中國推出新門店政策",
+      "url": "https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-22T09:50:32.000Z",
+      "excerpt": "星巴克表示，隨著與本土競爭對手展開競爭，公司正致力改善顧客的店內體驗。",
+      "section": "news",
+      "rankScore": 0.617561
+    },
+    {
+      "id": "072065c60b9f066a",
+      "title": "French weekend protests to be limited to union demos only, says Macron",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-22T15:22:48.000Z",
+      "excerpt": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed.",
+      "section": "news",
+      "rankScore": 0.616525
+    },
+    {
+      "id": "0fd3d21d22dd5012",
+      "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-22T15:44:46.000Z",
+      "author": "Koba Ryckewaert",
+      "excerpt": "The win is a show of support for the International Criminal Court as the Trump administration moves to thwart its work.",
+      "section": "news",
+      "rankScore": 0.557034
+    },
+    {
+      "id": "d11b79ab18cc9779",
+      "title": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
+      "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-22T15:40:03.000Z",
+      "author": "Graeme Wearden",
+      "excerpt": "Chief executive agrees to remain in California for eight years even if the state brings in a one-off wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires.",
+      "section": "news",
+      "rankScore": 0.555099
+    },
+    {
+      "id": "a6c5076ac76beedc",
+      "title": "16-year-old Malaysian student attacks his teacher with axe",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/16-year-old-malaysian-student-attacks-his-teacher-with-axe?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-22T15:31:58.000Z",
+      "excerpt": "A 16-year-old Malaysian student attacked his teacher and fellow school pupils with an axe.",
+      "section": "news",
+      "rankScore": 0.551783
+    },
+    {
+      "id": "5d746d6b62315cd6",
+      "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+      "url": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-22T15:21:37.000Z",
+      "author": "Tiffany Hsu, Steven Lee Myers and Julian E. Barnes",
+      "excerpt": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
+      "section": "news",
+      "rankScore": 0.479095
+    },
+    {
+      "id": "4e9954dd4fa72ae6",
+      "title": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
+      "url": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-22T14:58:27.000Z",
+      "excerpt": "Social media group’s market value tumbles more than $100bn after it forecasts ‘hundreds of billions of dollars’ in spending",
+      "section": "news",
+      "rankScore": 0.470778
+    },
+    {
+      "id": "8cf4afb74db293bd",
+      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+      "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+      "source": "npr-news",
+      "publishedAt": "2026-10-22T13:50:55.000Z",
+      "author": "Carrie Kahn",
+      "excerpt": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
+      "section": "news",
+      "rankScore": 0.446536
+    },
+    {
+      "id": "a2b2ea16a28a703b",
+      "title": "Politics",
+      "url": "https://www.economist.com/the-world-this-week/2026/10/22/politics",
+      "source": "economist-week",
+      "publishedAt": "2026-10-22T12:59:25.000Z",
+      "excerpt": "The world this week",
+      "section": "news",
+      "rankScore": 0.428048
+    },
+    {
+      "id": "6538b9b608462de1",
+      "title": "泽连斯基称考虑停火但不考虑撤军",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IRExDLTcyRlE0ZEpoZmVLMzRFV25DNXQyczRTLUlub282MXhvUjNBRk9vMS1JQVpHdkVrQUZ0SFhpNnljQnU1NHJRX0dPRDhGZ3g3bjgwYlBabHZ0bDRXUlhjMTl2eHVKOGhpYk93ekU3dlQxREo4cy1iNXdQMms?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-22T13:53:48.000Z",
+      "excerpt": "泽连斯基称考虑停火但不考虑撤军 新华网",
+      "section": "news",
+      "rankScore": 0.383632
+    },
+    {
+      "id": "75258d0e88565d2e",
+      "title": "当法国人将愤怒砸向奢侈品橱窗",
+      "url": "https://cn.nytimes.com/style/20261022/france-riots-luxury-dior-hermes/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-22T03:57:51.000Z",
+      "author": "VANESSA FRIEDMAN",
+      "excerpt": "长期以来，奢侈品被当作社会和经济不公的替身。在巴黎这座自诩奢侈品之都的城市，八年来第三次发生针对奢侈品牌的实体攻击，暴露了这些光鲜靓丽的品牌背后隐藏的裂痕。 Thibaud Moritz/Agence France-Presse — Getty Images 周六，法国马赛一家爱马仕门店的店面遭到破坏。",
+      "section": "news",
+      "rankScore": 0.367148
+    },
+    {
+      "id": "6c701a0dca6dfcee",
+      "title": "西藏那曲市巴青县发生7.0级地震 震源深度10千米",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719432.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-22T14:49:32.000Z",
+      "excerpt": "中新网10月22日电 据中国地震台网官方微博消息，中国地震台网正式测定：10月22日22时33分在西藏那曲市巴青县(北纬32.40度，东经93.79度)发生7.0级地震，震源深度10千米。",
+      "section": "cn-news",
+      "rankScore": 0.801561
+    },
+    {
+      "id": "567a48ed3518930e",
+      "title": "全国台企联西南西北区第六十届会长联谊会在广西玉林举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719426.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-22T14:39:56.000Z",
+      "excerpt": "中新网玉林10月22日电(翟李强 曾玉红)10月22日，全国台企联西南西北区第六十届会长联谊会暨玉林市台湾同胞投资企业协会第五届理监事就职典礼，在广西玉林市举行。长期扎根玉林的台商谢固本接任玉林市台湾同胞投资企业协会理事会第五届会长。",
+      "section": "cn-news",
+      "rankScore": 0.729349
+    },
+    {
+      "id": "3e90f1c43ecb0487",
+      "title": "2026中国·安平国际丝网博览会开幕 海外客商点赞“数字智造”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719427.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-22T14:55:34.000Z",
+      "excerpt": "中新网衡水10月22日电 (赵丹媚 孟宪峰)2026中国·安平国际丝网博览会22日在河北衡水安平启幕，吸引了来自俄罗斯、白俄罗斯、巴基斯坦、埃及、意大利等60多个国家的300余名境外采购商现场洽谈贸易与合作。",
+      "section": "cn-news",
+      "rankScore": 0.603956
+    },
+    {
+      "id": "12562263c3e7f4bb",
+      "title": "夜读丨家乡的星星最亮",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TUmtoWDRpbExCQ29GVlljMUtENFM5NXJDcmpBaFJlS0xHZldndnZUS28wc2w0Q3hCY0pBRnh1RVdzdjd0OUVMWmZfUW9ld29WY0Mtd0tRNTJIVTgxaWZfcA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-22T13:18:00.000Z",
+      "excerpt": "夜读丨家乡的星星最亮",
+      "section": "cn-news",
+      "rankScore": 0.558925
+    },
+    {
+      "id": "5c980fca318225b6",
+      "title": "舞剧《长联·大观》在昆明上演",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYkVxTERzUnlzdnFxb3NjV3ZKZHFoTExSWDA3SHJXLXhXU3hVUC1XS1AyMDBhN2hrQ21sb28zdUFrY3hfcDgzQ2x6WWk0VzNpY0MxY3lWZ2ZwVGJPTlhYU3dOcXZBSnBNbnpQYUQ2cURCcnJtQzNMTVROSnJucmIxaXlIblVRdw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-22T14:09:24.000Z",
+      "excerpt": "舞剧《长联·大观》在昆明上演 新华网 原创舞剧《长联·大观》在云南昆明首演 人民网云南 原创舞剧《长联·大观》在昆明首演 搜狐 舞剧《长联·大观》昆明首演 180字“天下第一长联”跃然舞台 搜狐网 科技赋能舞台 完美演绎文学意象——探访舞剧《长联·大观》幕后的视觉世界 昆明信息港",
+      "section": "cn-news",
+      "rankScore": 0.517909
+    },
+    {
+      "id": "fb007a305656cca7",
+      "title": "中國前9個月召回逾2000萬輛智慧汽車 警告勿犧牲安全搶上市",
+      "url": "https://www.cna.com.tw/news/acn/202610220386.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-22T12:38:10.000Z",
+      "excerpt": "（中央社台北22日電）中國官員表示，今年前9個月，共召回2039.38萬輛智慧聯網汽車，其中逾7成是因督促調查召回。",
+      "section": "cn-news",
+      "rankScore": 0.48048
+    },
+    {
+      "id": "7ffce25a75295a76",
+      "title": "Quad confirmed, Manila envoy signals likely ‘Squad’ talks before Trump-Xi summit",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3371804/quad-confirmed-manila-envoy-signals-likely-squad-talks-trump-xi-summit",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-22T15:00:05.000Z",
+      "author": "Nayan Seth,Khushboo Razdan",
+      "excerpt": "The Philippine ambassador to the United States signalled possible meetings of the “Squad” bloc ahead of the Association of Southeast Asian Nations gathering in Manila, as Washington confirmed that the Quadrilateral Security Dialogue would hold its first leaders’ summit in more than two years on…",
+      "section": "cn-news",
+      "rankScore": 0.471365
+    },
+    {
+      "id": "315833e7c5cf0b0a",
+      "title": "PHP重大漏洞致日本多网站暂停服务",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXNlRm93bGpqenhESzA3MFB4T1UtU1g3Ym50VUdVd0F6dVRyX1ZTVWVEbkFnTlFnWFZ5QVFsZ2g4a1lid3JtZjUwOUdtNnJUWXNXSzVaRlZpb2FtYlhFZ1Y1Ylk3WkFSMmZPNzVESGl6OUx6alJ3S1V1cGkwZTN4TUZGSkpzOGNzd1VVcTF2eDMzb1Nmenc5N2R3?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-22T14:20:10.000Z",
+      "excerpt": "PHP重大漏洞致日本多网站暂停服务 新华网客户端 PHP高危漏洞或冲击全球七成网站，多国机构、云厂商等紧急预警 手机新浪网 OpenAI发现PHP重大安全漏洞，成为影响力最大的漏洞之一 安全内参 PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网 爱范儿 腾讯云、谷歌紧急预警，PHP高危漏洞波及全球互联网 观察者网",
+      "section": "cn-news",
+      "rankScore": 0.457036
+    },
+    {
+      "id": "964965cde4de2f3a",
+      "title": "eBay再裁员上千人，为年内第二次精简团队",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85c3U2LXZkeUM2SWpTVmRwNlAtVkxObFJDVzBzMm8wX085aTZNVHZmUm1hSWZ1SjRsUjVzZ2oxRWhVUU1FZUhUUGJNRTYyYkVUUFVTZGFvRFQ?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-22T07:53:17.000Z",
+      "excerpt": "eBay再裁员上千人，为年内第二次精简团队 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.409056
+    },
+    {
+      "id": "a24ed64ab748c8cd",
+      "title": "丁晓星：泽连斯基奥斯陆态度软化，美乌关系有望得到一定修复",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvOUxiSjB2WmN6Y2U2OFlCa0liY1Rrck1xNk90WHFWTGxTa0lkNkwxVlFvNF85X3U5UnN1bm1iREplUUtUUUhWSWwyN2Z1NHQ3cEE?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-22T12:38:50.000Z",
+      "excerpt": "丁晓星：泽连斯基奥斯陆态度软化，美乌关系有望得到一定修复 凤凰网 批评特朗普？泽连斯基遭美总统特使“斥责” 新浪新闻_手机新浪网 泽连斯基和特朗普，彻底决裂了？ 观察者网 特朗普称援乌数千亿却毫无收获 呼吁达成俄乌协议 中华网 美媒：美特使将向普京提交俄乌和平新方案 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.360565
+    },
+    {
+      "id": "afc5d642bda43681",
+      "title": "中国地震局对西藏那曲市巴青县地震启动二级应急响应",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719438.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-22T15:30:26.000Z",
+      "excerpt": "中新网10月22日电 据中国地震局网站消息，据中国地震台网正式测定，2026年10月22日22时33分，在西藏那曲市巴青县(北纬32.40度，东经93.79度)发生7.0级地震，震源深度10公里。中国地震局启动二级应急响应。",
+      "section": "cn-life",
+      "rankScore": 0.826731
+    },
+    {
+      "id": "7fa6381979c2f2d5",
+      "title": "西藏那曲市巴青县发生7.0级地震，中国地震局启动二级应急响应",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mOXNuU0tnb1pjb2QwVDRPY1JiM1YxNzNHd0hEa0pIYnAyYURYV01fNkpQaUZRZlYwT2wyYnliTEtjRDBDdTF6dXVoR2h6QmdaNVQ1RlA2ZU93SFBxbzZMeA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-22T15:31:00.000Z",
+      "excerpt": "西藏那曲市巴青县发生7.0级地震，中国地震局启动二级应急响应 ThePaper.cn",
+      "section": "cn-life",
+      "rankScore": 0.62031
+    },
+    {
+      "id": "1d8549fb21b8f4da",
+      "title": "社保进万家 一卡行江淮",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15cThYdWQ0aFZhOFAxM2hJbzh6X094NGJOa3dJeHc3Qk5jRHJCV0Y0QzU5WXJtV2ZHTWNVX2NWM2M4MDY2c3ZpM1FCR09FM2RNYU16QkY2TXgzWmdRNjFXenM0YnVLZDhJUWwtUmFOdl9hT2s?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-22T14:52:53.000Z",
+      "excerpt": "社保进万家 一卡行江淮 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.602717
+    },
+    {
+      "id": "ac0b8286fdb3ba23",
+      "title": "第一观察丨党和人民军队铿锵前进的制胜之道",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02VERuUWFMaExDSTBtRGNCbHVzcy1BNzJOdHhqRlpES3Z5SUlNbGRJLXNuU01fSUp4blBIVWtOMUlxT0ZwY1NaNWp6b1NmLTBDSlc1WWFhcVc2TUY4YkZ3TURB?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-22T15:40:13.000Z",
+      "excerpt": "第一观察丨党和人民军队铿锵前进的制胜之道 中华人民共和国最高人民法院",
+      "section": "cn-life",
+      "rankScore": 0.555167
+    },
+    {
+      "id": "00cffcc46beff3dc",
+      "title": "谎称显卡“官方召回”实施诈骗 湘潭公安破案挽损2.4万元",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rcjhLU3BVbFA1NFdEZGF0OTRxX3RMU3hWRTdpRFV4dmVxSktKZHVDSUdWb0hmUWlJRThoRHBVNy1CajlSUmZRWVp4TU95UQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-22T14:07:32.000Z",
+      "excerpt": "谎称显卡“官方召回”实施诈骗 湘潭公安破案挽损2.4万元 凤凰网",
+      "section": "cn-life",
+      "rankScore": 0.452501
+    },
+    {
+      "id": "9853f050fe374c2b",
+      "title": "鱼油补脑无明显保护作用：两年随机双盲试验显示无认知获益 ｜#科学资讯# #神经科学# #鱼油补充剂#",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMkhiakJZUEgyR0FVNldfMW9vMEFKd2N5WURlU2dfYmRSOVlzRjUzSGl1c3lTOHRyUWpOLUJ4RUNyMHprb1VvNElLc185T2pPZWZWZDBXaWttSDJ2N2ZYZnpsVEh0dW9KdElfMkVTS0RhN2lXSkZicW5ncmVVRWFwUnVnV2pkd1NjRkh3Qw?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-22T13:05:04.000Z",
+      "excerpt": "鱼油补脑无明显保护作用：两年随机双盲试验显示无认知获益 ｜#科学资讯# #神经科学# #鱼油补充剂# 搜狐",
+      "section": "cn-life",
+      "rankScore": 0.430077
+    },
+    {
+      "id": "6d736632563d767b",
+      "title": "如何跟随学龄人口“涨落”调整学校？记者独家探访杭州首所“潮汐学校” - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12RUhkTFdtY3dqSTV6aVhNTmhnRm5JQy1FTzJURDQ4MkV1Z2Q3bENzVW4xMkxGWHVZVzZaWXI4aEFmclYxZ19HdWpWN3h5azJac1hGeV9lTjFjRk5JVmxyQll1LXZwN2k2MXBpSDltc3dRT0U1TkE?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-22T15:23:00.000Z",
+      "excerpt": "如何跟随学龄人口“涨落”调整学校？记者独家探访杭州首所“潮汐学校” 新浪新闻_手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.411078
+    },
+    {
+      "id": "e4cf5bc86dab92a9",
+      "title": "【抽奖】核聚变首发！清大光德 Switch2 护眼膜 ×10 免费抽",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qTXhOajQtaEZ5VmF2THZQTXB0am1hV0pmeW1SX3B0Mk5SNzNRcTM0aVA1UGxlLVA5MGl2VTVKWnBVUEdxRTlYZDh3aHFhVkE?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-22T10:30:03.000Z",
+      "excerpt": "【抽奖】核聚变首发！清大光德 Switch2 护眼膜 ×10 免费抽 机核",
+      "section": "cn-life",
+      "rankScore": 0.26745
+    }
+  ],
+  "warnings": []
+}
