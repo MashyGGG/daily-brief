@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-23",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-23T00:54:18.304Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "0187c8e07d47b033",
+      "title": "中共五中全會前瞻：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
+      "url": "https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-23T00:41:11.000Z",
+      "excerpt": "中國政壇至今沒有明確的接班人。受訪專家認為，這反映習近平面臨兩難：不指定接班人有助維持權威，指定接班人則可能提前形成新的權力中心。",
+      "section": "news",
+      "rankScore": 0.835626
+    },
+    {
+      "id": "c9c57e2c98539232",
+      "title": "伊朗战争：中国是伊朗的低调但却重要的支持者",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261022-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89-%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%BC%8A%E6%9C%97%E7%9A%84%E4%BD%8E%E8%B0%83%E4%BD%86%E5%8D%B4%E9%87%8D%E8%A6%81%E7%9A%84%E6%94%AF%E6%8C%81%E8%80%85",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-22T23:26:38.000Z",
+      "author": "阿曼亭",
+      "excerpt": "法国世界报周四刊出的文章表示，在伊朗战争中，中国是站在伊朗背后的低调但却重要的支持者。中国支持伊朗的方式主要有三种：继续购买德黑兰的石油，向伊朗提供军民两用物资，并通过部署在阿曼海的情报船只，为伊朗提供技术情报支持。",
+      "section": "news",
+      "rankScore": 0.675647
+    },
+    {
+      "id": "2a97e2cdb2eafb49",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-23T00:10:46.000Z",
+      "excerpt": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "section": "news",
+      "rankScore": 0.619115
+    },
+    {
+      "id": "8855455043d6c0d9",
+      "title": "Trump defends Ohio Democrat’s estranged mother after Ramaswamy’s widely criticized campaign ad – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-23T00:33:59.000Z",
+      "author": "Robert Mackey (now); Shrai Popat, Lucy Campbell and Frances Mao (earlier)",
+      "excerpt": "Trump defends Amy Acton’s estranged mother, who stayed with her husband charged with raping her daughter, and touts Vivek Ramaswamy’s ‘well coordinated’ attack ad Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad Reporting from…",
+      "section": "news",
+      "rankScore": 0.555484
+    },
+    {
+      "id": "c105e8c9d196abd7",
+      "title": "UK Conservative Party leader responds to Al Jazeera investigation",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-22T23:34:46.000Z",
+      "excerpt": "UK Conservative Party MP says the party does not condone former member's conduct, revealed in Al Jazeera investigation.",
+      "section": "news",
+      "rankScore": 0.542325
+    },
+    {
+      "id": "e65bedbe21696ab3",
+      "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+      "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-22T21:31:29.000Z",
+      "author": "Karla Adam and Dustin Volz",
+      "excerpt": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
+      "section": "news",
+      "rankScore": 0.514929
+    },
+    {
+      "id": "578c69d468d837b7",
+      "title": "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition",
+      "url": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-23T00:40:08.000Z",
+      "author": "Ed Shanahan and Dana Rubinstein",
+      "excerpt": "A passenger’s death in June became the impetus for the City Council to ban the practice, but the bill will likely face a court challenge before being implemented in 2028.",
+      "section": "news",
+      "rankScore": 0.487244
+    },
+    {
+      "id": "3fb1610b5ad4eb3d",
+      "title": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
+      "url": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-22T23:13:15.000Z",
+      "excerpt": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech",
+      "section": "news",
+      "rankScore": 0.47035
+    },
+    {
+      "id": "0efa9ef221468157",
+      "title": "刚果（金）：埃博拉疫情蔓延，防疫人员面临压力",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143048",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-22T12:00:00.000Z",
+      "excerpt": "随着致命的埃博拉疫情蔓延至刚果民主共和国（刚果（金））的第八个省，调查人员周四正全面追查相关线索，以评估该疾病在西非国家尼日利亚传播的风险。",
+      "section": "news",
+      "rankScore": 0.436424
+    },
+    {
+      "id": "b8b7af336a026826",
+      "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+      "url": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
+      "source": "npr-news",
+      "publishedAt": "2026-10-22T20:12:52.000Z",
+      "author": "Neda Ulaby",
+      "excerpt": "Skerritt was Captain Dallas in Alien , Viper in Top Gun , and a small town sheriff in the TV series Picket Fences .",
+      "section": "news",
+      "rankScore": 0.435276
+    },
+    {
+      "id": "5a2ffc6bfee2b298",
+      "title": "韩国就韩朝非军事区地雷爆炸事件致函联合国安理会",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KSlB0d1cwTEsxdVRLVzdsaXZBWVVLWDZfVDNKenFhODdzUXIzSjFCZWt2TGZ5akVaWThuU3NRMHVobmFwTXh3bzk5NmxGa1Bkd2Rsc2h0SGYtSFhqd3c?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-22T23:56:24.000Z",
+      "excerpt": "韩国就韩朝非军事区地雷爆炸事件致函联合国安理会 同花顺 金正恩要求南北界线永久化要塞化 金与正警告重启对韩广播心战 财新 朝鲜多名高官视察朝韩边境要塞化工地 finance.sina.com.cn 金与正：再强词夺理，韩国就会面临“最凄惨”事态 凤凰网 韩国呼吁韩朝建立和平管理军事分界线所需沟通机制 ThePaper.cn",
+      "section": "news",
+      "rankScore": 0.410349
+    },
+    {
+      "id": "a1ef5f3c878c1047",
+      "title": "民调显示，中期选举两周前特朗普支持率跌至新低",
+      "url": "https://cn.nytimes.com/usa/20261022/trump-midterm-election-poll/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-22T03:07:26.000Z",
+      "author": "LISA LERER,RUTH LGIELNIK",
+      "excerpt": "据《纽约时报》与锡耶纳学院联合发布的最新全国民调，仅36%的潜在选民认可特朗普的执政表现，59%表示不认可。选民不满意其对经济、伊朗战争和高油价问题的处理。 Jillian Vordick/The New York Times 数据基于《纽约时报》/锡耶纳于10月12日至19日对全美3494名潜在选民开展的民调。",
+      "section": "news",
+      "rankScore": 0.370678
+    },
+    {
+      "id": "70c29804d6ce5773",
+      "title": "全国蛋价跌回“4元时代” 未来还会降吗？走势预测→",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719473.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-22T23:45:48.000Z",
+      "excerpt": "鸡蛋是老百姓菜篮子里的刚需品，国庆节前还挺贵的鸡蛋，现在价格明显回落，不少市民买鸡蛋都感受到了实惠。",
+      "section": "cn-news",
+      "rankScore": 0.817165
+    },
+    {
+      "id": "2156b8c9d0373eb2",
+      "title": "中国红十字会总会紧急向西藏地震灾区调拨救灾物资",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719490.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-23T00:41:33.000Z",
+      "excerpt": "2026年10月22日22时33分，在西藏那曲市巴青县发生7.0级地震，震源深度10公里。针对西藏自治区等地地震灾害和救灾需求，中国红十字会总会启动应急响应，紧急向受灾地区调拨赈济家庭包、卫生包、取暖炉、棉帐篷、冲锋衣、折叠床、棉被等救灾物资3800件(套)，并派出工作组赴灾区指导受灾地区做好群众转移安置和生活保障工作。",
+      "section": "cn-news",
+      "rankScore": 0.766103
+    },
+    {
+      "id": "b9e5a0a2dc843f6e",
+      "title": "三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tMmwwVHZIYUpSc2gxQXVxQXhvQThxTUZwYldGanNTWDNRV2V2N1BXWlZ3OXVrQVg0WHZPaWRXcnY5bnp5aEdlNDRfSVhPdDhhT1JDZ0ZMYmVVSjNYX2puQw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-22T23:45:00.000Z",
+      "excerpt": "三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？",
+      "section": "cn-news",
+      "rankScore": 0.612674
+    },
+    {
+      "id": "986d79b5727403f6",
+      "title": "全球超八成新船订单涌向中国",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719464.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-22T23:13:16.000Z",
+      "excerpt": "今天(23日)，工业和信息化部发布2026年1—9月全国船舶工业统计数据，造船业三大指标持续全球领跑，中国造船继续占据全球市场主导地位。",
+      "section": "cn-news",
+      "rankScore": 0.60474
+    },
+    {
+      "id": "8daddc8c99d21aa9",
+      "title": "西藏那曲市巴青县地震已造成16人遇难",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53MkxVSVVNWXNyZ0ZoZXZKTGdvWXh4MVVNRFVMNFFHcEJ5TVZFZEZIaUhRa3V4dGp1UjE4b2tpUnNVS3ZaX0VLRjZYbGtrRDV6ZlMwWThYSUd6a2MxZm9ESHZIemtGSzN3aXhGb09fYVg?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-22T23:34:43.000Z",
+      "excerpt": "西藏那曲市巴青县地震已造成16人遇难 中国科技网",
+      "section": "cn-news",
+      "rankScore": 0.542314
+    },
+    {
+      "id": "7908d3182ed566c0",
+      "title": "西藏那曲地震規模7深度僅10公里 已知16死32傷、逾300屋倒",
+      "url": "https://www.cna.com.tw/news/acn/202610230013.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-22T21:49:47.000Z",
+      "excerpt": "（中央社台北23日電）西藏那曲市巴青縣昨晚發生規模7地震，震源深度僅10公里。根據中國官媒新華社，截至今晨2時25分，這次地震已造成16人遇難，32人受傷，其中重傷11人、輕傷21人，房屋倒塌339戶。",
+      "section": "cn-news",
+      "rankScore": 0.518995
+    },
+    {
+      "id": "e58197f653092bab",
+      "title": "科技早报 | 编程语言PHP高危漏洞或冲击全球七成网站；iPhone Duo微信不适配？微信回应",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YSjRtMkJLNWhXUDMwRWpoVjBLRUkzbG81ZWlrdHp5ZUJFWmdxcjRxMXM1N1d2QlFsTVQ3RU9VMnQwRzNhUDRGYzJqMWFwLUxBMWR5Vjh5WkMyN01icTZjWEw0SDhYQQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-23T00:24:28.000Z",
+      "excerpt": "科技早报 | 编程语言PHP高危漏洞或冲击全球七成网站；iPhone Duo微信不适配？微信回应 东方财富 AI发现编程语言重大漏洞，企业与政府紧急抢修 美国之音 印度程序员的骚操作 昨天差点炸了全球互联网 驱动之家 国家信息安全漏洞共享平台：对PHP远程代码执行漏洞的综合评级为“高危” 手机新浪网 腾讯云、谷歌紧急预警，PHP高危漏洞波及全球互联网 观察者网",
+      "section": "cn-news",
+      "rankScore": 0.484198
+    },
+    {
+      "id": "02bd9919e33d2cd1",
+      "title": "Asia Society announces new permanent home in historic Washington building",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371837/asia-society-announces-new-permanent-home-historic-washington-building",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-22T23:05:58.000Z",
+      "author": "Mark Magnier",
+      "excerpt": "The Asia Society announced on Thursday that it had marked out territory on the Washington policy landscape with the purchase of a US$17.5 million building that will give it a permanent spot alongside other US capital think tanks dating back more than a century, striving for influence.",
+      "section": "cn-news",
+      "rankScore": 0.468934
+    },
+    {
+      "id": "3cd2967431e73819",
+      "title": "弦音拉近心距离 古老非遗唱响民族团结“同心曲”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80VlBCWWtmWjd6elVzNnBGcXFnbmNaT2t6b051Y2tQQ0ZSOG9SZXlOVjQwTldrZFh0REc2anNFdVRiOWg1eU0waWk3aktUYjJaRDhuT0thY2R1d1JBWkE?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-22T12:13:42.000Z",
+      "excerpt": "弦音拉近心距离 古老非遗唱响民族团结“同心曲” 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.439849
+    },
+    {
+      "id": "3bcc8cd3dd903ff4",
+      "title": "爱知·名古屋亚残运会 滇将郑婷婷、阮靖淞夺得两金",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3TTJxNVBQY3R6VExuVExJbWFGcEZKNW01ZHdHaXgyZUJ2aURRQzFKQm0wMkQyR3U4VlFCVHNLTXAyZEE5RFZSeFZYOXBUcXA4MGw5MGtFNTNRdzY1UW1wNFdBbkhRZw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-23T00:29:32.000Z",
+      "excerpt": "爱知·名古屋亚残运会 滇将郑婷婷、阮靖淞夺得两金 昆明信息港 山东运动员亚残运会已夺11金2银1铜 创境外参赛历史最好成绩 凤凰网山东 “在水里，我不需要拐杖” 浙江姑娘蒋裕燕亚残运上连夺三金 浙江新闻 （体育）游泳——亚残运会女子100米蝶泳S9级：中国选手徐佳玲夺冠 搜狐网 游泳——亚残运会游泳赛况 新华网",
+      "section": "cn-news",
+      "rankScore": 0.415871
+    },
+    {
+      "id": "0947c4e2f7503f2c",
+      "title": "“送餐路上的故事”频频出圈，聚光灯下的小哥如何回归日常？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719483.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-23T00:33:40.000Z",
+      "excerpt": "跑单经历、暖心善举持续引发网络关注，越来越多的外卖骑手成为“网红”",
+      "section": "cn-life",
+      "rankScore": 0.833121
+    },
+    {
+      "id": "8620b960c832ea84",
+      "title": "【经管学院】两期就业大学堂赋能学生多元发展",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56NkNrRmxVUG5abWROR1hqZlUtUXZCSU1kX01udWp2MGhtcUFZQ2poS2VJNENqc3J2aDJxejZXbGlJd2JLNFpRT0RLQzZWQ2Q3Z2xtSndhb3V6RV84NVk1aEx3RmtsbmtKdlhwb04yR0lodGdJOHJF?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-23T00:39:17.000Z",
+      "excerpt": "【经管学院】两期就业大学堂赋能学生多元发展 西北农林科技大学",
+      "section": "cn-life",
+      "rankScore": 0.626245
+    },
+    {
+      "id": "f08bafc7a8d18b43",
+      "title": "西藏那曲地震已造成16人遇难46人受伤_独家采编",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1INGYwUktGaGhNd1I2dzhWcDBkNkNqM3U3NzRTc0YwRDBfUFFuSExHblNaMFQ4RnVsVTFwRTZwdjM2dWE5SUQyYjlVcjNsR2xrd3c0QWE0OWZGYlBhOFIwd3lzUG1JQjRmeHc?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-23T00:09:30.000Z",
+      "excerpt": "西藏那曲地震已造成16人遇难46人受伤_独家采编 中国西藏网",
+      "section": "cn-life",
+      "rankScore": 0.618799
+    },
+    {
+      "id": "8e8bc726c7e65d56",
+      "title": "孙镇平到上海长宁法院调研司法为民基层联系点工作",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRTFTOTlGcnhjZmRSOVBPS2p1RmNjYlg2UUhVTm1ra04tb2RieFhibG5qTEp5dl96WlBlZGEtdXpEWmVkN2lWVzNlVkZFRWJpM01FUTRtdThlTm0yTFpyNTJ3?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-23T00:47:06.000Z",
+      "excerpt": "孙镇平到上海长宁法院调研司法为民基层联系点工作 中华人民共和国最高人民法院",
+      "section": "cn-life",
+      "rankScore": 0.558399
+    },
+    {
+      "id": "d8ccf52a2a75820e",
+      "title": "汽车早报｜奥迪任命首位华人总裁 北汽与宁德时代签署换电合作",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JVEpDcTlzUmNuMG1wZ1NHUEJrYi1rRjFXVUVVZ0VxaV93LTc0YnQwQ3JqbllKS2d5QlVEVWRHdW40MHM5V3JIV3hjSnNqeTFXT0lmR3F3?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-23T00:39:50.000Z",
+      "excerpt": "汽车早报｜奥迪任命首位华人总裁 北汽与宁德时代签署换电合作 界面新闻",
+      "section": "cn-life",
+      "rankScore": 0.487186
+    },
+    {
+      "id": "24a93cfe17993ed8",
+      "title": "H1N1变异毒株来势汹汹 流感从亚洲杀到卑诗省！ - VanPeople",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xb19KMWJSWVZGUktfNy14cFdibzJlNklkS2lFU3FTWVU4SllNeFNUQW9BVzR3SVVMZVNvWTNQeHQ3WXFQekFWYkRwR1U2WGFL?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-22T22:07:30.000Z",
+      "excerpt": "H1N1变异毒株来势汹汹 流感从亚洲杀到卑诗省！ VanPeople",
+      "section": "cn-life",
+      "rankScore": 0.457566
+    },
+    {
+      "id": "9236f723de580f57",
+      "title": "广安观潮丨学习领悟《习近平党建文选》㊱加强纪律教育 养成纪律自觉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mYUxRWmVyUThPR3QzbThPU1QwRG9PY3JmakxDcDFIRFhhUWlKLTlzQmpGS3R5N0pOQWRNQzRtZ3BSQ2pVM3BFSjEyWDZIdzUtRU82RjNKRlVNLXhFOFV5Q1FzMEZZQQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-23T00:51:42.000Z",
+      "excerpt": "广安观潮丨学习领悟《习近平党建文选》㊱加强纪律教育 养成纪律自觉 河北省纪委监委",
+      "section": "cn-life",
+      "rankScore": 0.419566
+    },
+    {
+      "id": "fb3f6da9da8deb81",
+      "title": "纯度99.99998%！国产“最纯净硅”材料问世：硅基量子芯片有救了",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTOGNKbzJJczZfNGxIaktWdWJoWHJMZDk0TnVvSDUtbkNrMUd5WFIxa3N5U1FBLUFLTjU5OFJnVTBjR1pGSFdSVVFpdi1VeVBNbzdVQU5sYUc?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-22T07:29:00.000Z",
+      "excerpt": "纯度99.99998%！国产“最纯净硅”材料问世：硅基量子芯片有救了 驱动之家",
+      "section": "cn-life",
+      "rankScore": 0.204819
+    }
+  ],
+  "warnings": []
+}
