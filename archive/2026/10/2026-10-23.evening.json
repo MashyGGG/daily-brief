@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-23",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-23T17:02:32.197Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "bbf9ec02052f1029",
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "source": "hn-front",
+      "publishedAt": "2026-10-23T13:41:10.000Z",
+      "score": 475,
+      "author": "hubraumhugo",
+      "excerpt": "475 points · 323 comments · https://news.ycombinator.com/item?id=50208837",
+      "section": "tech",
+      "rankScore": 1.044931
+    },
+    {
+      "id": "830e40983906c951",
+      "title": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-23T17:02:32.197Z",
+      "score": 547,
+      "excerpt": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "section": "tech",
+      "rankScore": 1.02
+    },
+    {
+      "id": "5e88395c17b946bf",
+      "title": "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
+      "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+      "source": "lobsters",
+      "publishedAt": "2026-10-23T17:00:36.000Z",
+      "author": "queue.acm.org via misty",
+      "section": "tech",
+      "rankScore": 0.681601
+    },
+    {
+      "id": "b747137edd4c6490",
+      "title": "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS",
+      "url": "https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-23T14:30:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "CSIRO has developed Serverless Beacon, a serverless architecture for querying genomic variants without copying VCF files into a central database. The system combines Amazon S3, Lambda, Athena and DynamoDB, using metadata indexes and HTTP byte range requests to query compressed genomic regions.",
+      "section": "tech",
+      "rankScore": 0.674416
+    },
+    {
+      "id": "f2f5a86a4c14ffe5",
+      "title": "Enterprise installations for GitHub Apps generally available",
+      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-23T15:03:30.000Z",
+      "author": "Allison",
+      "excerpt": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API…",
+      "section": "tech",
+      "rankScore": 0.643316
+    },
+    {
+      "id": "800345836d5a5760",
+      "title": "The iPhone Duo should have been an iPad",
+      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "source": "verge",
+      "publishedAt": "2026-10-23T17:00:18.000Z",
+      "author": "David Pierce",
+      "excerpt": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
+      "section": "tech",
+      "rankScore": 0.489254
+    },
+    {
+      "id": "1fe17c5ac1f7349f",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "openai",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "excerpt": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "section": "ai",
+      "rankScore": 0.87349
+    },
+    {
+      "id": "96a6375ae4918c42",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "huggingface",
+      "publishedAt": "2026-10-23T16:15:50.000Z",
+      "section": "ai",
+      "rankScore": 0.76248
+    },
+    {
+      "id": "ea8480e1128084ba",
+      "title": "[AINews] Black October",
+      "url": "https://latent.space/p/ainews-black-october/",
+      "source": "latent-space",
+      "publishedAt": "2026-10-23T10:09:29.000Z",
+      "author": "swyx .ai",
+      "excerpt": "the Cyber onslaught continues.",
+      "section": "ai",
+      "rankScore": 0.553639
+    },
+    {
+      "id": "41fe5db26b4af2d8",
+      "title": "我感觉有点死了， artex 也太可怕了",
+      "url": "https://www.v2ex.com/t/1251358",
+      "source": "v2ex",
+      "publishedAt": "2026-10-23T13:09:16.000Z",
+      "score": 5,
+      "author": "chenluo0429",
+      "excerpt": "今天闲的没事，部署了一套 artex ，然后接入 ds 让它探测我在自己的 home lab 上部署的公网服务有没有漏洞。 本来是只想让它测测主域名入口的，结果它直接就发现了同 IP 存在复数个二级域名，然后就开始了无情的大调查。 目前已经探测了 37%的链路，1 个 critical ，6 个 high 的漏洞。高危的我都实时快速修复的修复，下线的下线。几个危险入口已经处理了，后面估计没啥大问题了。 总结起来几个严重的问题，从低到高： 我几年前部署的 cAdvisor 服务意外将端口暴露在防火墙之外了，估计当时是远程调试了一下，结果忘记关了。",
+      "section": "cn-tech",
+      "rankScore": 0.719027
+    },
+    {
+      "id": "f56e0640b2386d08",
+      "title": "AI 赋能开发，Spotify 月代码变更量翻倍",
+      "url": "https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-23T16:27:00.000Z",
+      "author": "作者： Leela Kumili",
+      "section": "cn-tech",
+      "rankScore": 0.683078
+    },
+    {
+      "id": "4a76da30c719b94c",
+      "title": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
+      "url": "https://www.solidot.org/story?sid=85697",
+      "source": "solidot",
+      "publishedAt": "2026-10-23T12:01:50.000Z",
+      "excerpt": "梵高于 1889 年创作的名画《The Starry Night》可能描绘的是 1889 年 7 月 22 日法国真实的夜空。《The Starry Night》被普遍认为风格化地呈现了梵高在法国普罗旺斯圣雷米的窗外看到的景象。争议在于这片夜空究竟是这位后印象派画家自己的幻想，即象征性表达，还是真实的天文观察结果。此外这幅画的具体创作日期也无法确定。为解决这一问题，韩国庆熙大学的研究人员开发了一个框架，将天文学模拟结果与星象位置测量数据、历史天气记录，以及梵高的信件结合起来。研究人员根据描绘这片景色的早期素描重建了画中的窄视场。",
+      "section": "cn-tech",
+      "rankScore": 0.612489
+    },
+    {
+      "id": "1d53b44994ae6f2e",
+      "title": "紧急刹车，五大美国银行出手，不让AI随便碰你的钱包",
+      "url": "https://www.36kr.com/p/4038314420180869",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-23T13:26:16.000Z",
+      "author": "雷科技",
+      "excerpt": "最近刷到 Axios 在2026年10月放出的一条报道，看完我后背有点发凉。 摩根大通、美国银行、摩根士丹利、富国银行、花旗这五家美国头部大行，已经开始限制、甚至直接拉黑第三方AI代理进入客户的银行账户。 简单说，就是那些能自动干活的AI智能体，现在银行不让它随便登进大家的银行卡账号里了。 为啥？因为银行在系统里检测到了“流氓AI代理”（Rogue AI Agents）在账户里自动操作。 如果你之前图省事，把银行账号密码交给某个AI助手，让它帮你查账单、做理财规划、自动管钱，那你大概率已经踩线了，很可能违反了银行的用户协议。",
+      "section": "cn-tech",
+      "rankScore": 0.537313
+    },
+    {
+      "id": "7043a4c0d5e2952e",
+      "title": "Arc 浏览器将于 12 月 22 日停止服务",
+      "url": "https://www.oschina.net/news/503188",
+      "source": "oschina",
+      "publishedAt": "2026-10-23T10:42:39.000Z",
+      "excerpt": "据官方公告，Arc 浏览器将于 12 月 22 日停止服务。The Browser Company 给出了完整时间线：10 月 22 日起停止创建新账号，11 月 23 日起停用部分功能，12 月 22 日应用无法启动、Arc 账户被停用，个人数据在 30 天内删除。 关停前的用户迁移路径也已明确：Arc 的数据导出功能会把用户无缝带到 Dia——The Browser Compa...",
+      "section": "cn-tech",
+      "rankScore": 0.467191
+    },
+    {
+      "id": "4c1561c1ffac8d13",
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-23T13:50:56.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.",
+      "section": "security",
+      "rankScore": 0.60876
+    },
+    {
+      "id": "4dbc2bb5240f7698",
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
+      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-23T11:25:43.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The…",
+      "section": "security",
+      "rankScore": 0.53961
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 53 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
