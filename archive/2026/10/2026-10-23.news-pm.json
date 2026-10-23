@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-23",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-23T15:43:23.412Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "f1041aa41c9476c3",
+      "title": "颱風薔琵：台灣釀1死171傷，大部分縣市停班停課",
+      "url": "https://www.bbc.com/zhongwen/live/c6y8lvmvj151t/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-23T15:43:23.412Z",
+      "excerpt": "颱風薔琵風暴圈籠罩全台灣，至今造成1死171傷。氣象部門預測，週五（23日）下午至週六（24日）白天風雨最大。中國沿海地區也嚴陣以待。",
+      "section": "news",
+      "rankScore": 0.84
+    },
+    {
+      "id": "80bda498c90d6edb",
+      "title": "“奥斯汀”风暴袭法国：288,600户家庭断电",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261023-%E5%A5%A5%E6%96%AF%E6%B1%80-%E9%A3%8E%E6%9A%B4%E8%A2%AD%E6%B3%95%E5%9B%BD-288-600%E6%88%B7%E5%AE%B6%E5%BA%AD%E6%96%AD%E7%94%B5",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-23T14:48:11.000Z",
+      "author": "古莉",
+      "excerpt": "今年秋季的首场风暴“奥斯汀”（Austen）周五席卷法国西北部沿海地区至巴黎大区。已有23个省份发布大风橙色警报，上午有超过28.8万户家庭断电。",
+      "section": "news",
+      "rankScore": 0.671689
+    },
+    {
+      "id": "bba9fdf8d9502bbb",
+      "title": "西藏7级强震至少16人遇难 习近平提到“重大伤亡”呼吁全力救援",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261023-%E8%A5%BF%E8%97%8F7%E7%BA%A7%E5%BC%BA%E9%9C%87%E8%87%B3%E5%B0%9116%E4%BA%BA%E9%81%87%E9%9A%BE-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%88%B0-%E9%87%8D%E5%A4%A7%E4%BC%A4%E4%BA%A1-%E5%91%BC%E5%90%81%E5%85%A8%E5%8A%9B%E6%95%91%E6%8F%B4",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-23T14:12:53.000Z",
+      "author": "古莉",
+      "excerpt": "法新社23日引述中国官媒报道，中国国家主席习近平周五呼吁竭尽全力救援受地震影响的民众。此次地震发生在西藏偏远地区，已造成至少16人遇难、76人受伤。",
+      "section": "news",
+      "rankScore": 0.653586
+    },
+    {
+      "id": "7be16113cea683e6",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-23T15:37:07.000Z",
+      "excerpt": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+      "section": "news",
+      "rankScore": 0.627105
+    },
+    {
+      "id": "b3495a8a442e72cc",
+      "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
+      "url": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-23T15:32:02.000Z",
+      "author": "Muktita Suhartono",
+      "excerpt": "Smoke from the blazes, blamed on destructive agricultural practices, has sickened hundreds of thousands and blanketed neighboring countries.",
+      "section": "news",
+      "rankScore": 0.555341
+    },
+    {
+      "id": "76c6f6556cbb46f6",
+      "title": "Trump’s justice department files lawsuit to challenge Alaska Senate results, claiming ‘voter confusion’ could favor Democrat – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-23T15:17:27.000Z",
+      "author": "Marina Dunbar (now) Shrai Popat and Fran Lawther (earlier)",
+      "excerpt": "Preliminary lawsuit claims there could be ‘voter confusion’ about the two Dan Sullivans on the ballot, which could influence the race’s outcome in favor of the Democratic nominee, Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms, my colleague Jonathan…",
+      "section": "news",
+      "rankScore": 0.549358
+    },
+    {
+      "id": "a04076d280e0bac0",
+      "title": "Carrick accepts blame for Man United slump, but ‘confident’ of a turnaround",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-23T15:04:44.000Z",
+      "excerpt": "Manchester United make worst start to a season in 40 years, but Michael Carrick 'confident' ahead of Bournemouth game.",
+      "section": "news",
+      "rankScore": 0.544141
+    },
+    {
+      "id": "dda4b22cb9e3f730",
+      "title": "Review of iPhone Duo: A New Chapter That Redefines a Smartphone’s Purpose",
+      "url": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-23T15:17:26.000Z",
+      "author": "Brian X. Chen and Camille Cohen",
+      "excerpt": "The first-generation Apple foldable may feel awkward, but it’s an intriguing step toward merging phones and tablets into one.",
+      "section": "news",
+      "rankScore": 0.480682
+    },
+    {
+      "id": "07490d85efeda29b",
+      "title": "Oil hits $116 for first time since April as global stocks knocked by AI fears",
+      "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-23T14:42:14.000Z",
+      "excerpt": "Markets face twin threats of surging crude prices and concern over durability of AI boom",
+      "section": "news",
+      "rankScore": 0.468046
+    },
+    {
+      "id": "bf1dbbdc9c4c020b",
+      "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+      "source": "npr-news",
+      "publishedAt": "2026-10-23T14:16:10.000Z",
+      "author": "Jonathan Lambert",
+      "excerpt": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?",
+      "section": "news",
+      "rankScore": 0.458689
+    },
+    {
+      "id": "d2c0a02762fea7ff",
+      "title": "韩国首尔市长吴世勋二审被判无罪",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04QXFDRWNDQmI1NnJGV1dXcXBMbkJSVUQ2cWN3LTNLdTZlbVM0LU1qTExjcVRMSkkxNGFyV241T3BSdXVST3YwcmZXYTZMdm9udlJCOTBCYndyc054eGprT2lIaTRwRHp3?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-23T15:04:16.000Z",
+      "excerpt": "韩国首尔市长吴世勋二审被判无罪 中国新闻网 韩国首尔市长二审被判无罪 中国网新闻中心 韩国首尔市长吴世勋涉嫌违反《政治资金法》案二审判决：判处其无罪 搜狐 在野党：“Oh Sehoon无罪是邪不压正”……向特检组、共同民主党追责- 阿视亚经济 아시아경제 跨过司法风险的吴世勋……31万套住房开工与江北开发提速: 政治 : 财经日报 재경일보",
+      "section": "news",
+      "rankScore": 0.407962
+    },
+    {
+      "id": "5730931b062c2978",
+      "title": "李翊云新作：“小有名气”者的宿命与悲欢",
+      "url": "https://cn.nytimes.com/culture/20261023/music-against-the-night-yiyun-li/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-23T04:55:43.000Z",
+      "author": "RADHIKA JONES",
+      "excerpt": "《抗衡黑夜的音乐》以19世纪之交两位真实古典音乐家交织的命运为主题。李翊云生动地呈现了两个年轻人的感官与情感体验，同时坦率地探讨了艺术与商业的议题。 Aldo Jarillo",
+      "section": "news",
+      "rankScore": 0.404646
+    },
+    {
+      "id": "f3c4851954d4d5cf",
+      "title": "中国人民大学区域国别学院正式成立",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720148.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-23T15:33:19.000Z",
+      "excerpt": "中新网北京10月23日电 (记者 李京泽)10月23日，“中国人民大学区域国别学院成立暨中国区域国别研究自主知识体系研究联盟启动与研讨会”在北京举办。会上，中国人民大学区域国别学院正式成立，中国区域国别学自主知识体系联盟同步启动。",
+      "section": "cn-news",
+      "rankScore": 0.764317
+    },
+    {
+      "id": "04ec81e8ded913fc",
+      "title": "关于加强外空治理的中国立场",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720042.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-23T12:57:15.000Z",
+      "excerpt": "新华社雄安10月23日电",
+      "section": "cn-news",
+      "rankScore": 0.73776
+    },
+    {
+      "id": "4ab93db30f116a19",
+      "title": "上海推动人工智能赋能工业服务业",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720144.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-23T15:24:43.000Z",
+      "excerpt": "中新网上海10月23日电 (记者 郑莹莹)据上海市经济和信息化委员会23日发布的消息，《上海市加快推动人工智能赋能工业服务业高质量发展行动方案(2027-2028年)》(简称“行动方案”)于近日印发。",
+      "section": "cn-news",
+      "rankScore": 0.621381
+    },
+    {
+      "id": "5f9e535bb23eb7de",
+      "title": "历时近五年花旗证券（中国）获批落户上海，外资独资券商扩容至七家",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxR21zSGJvTXJ4RE5RWmU5VHE2TW4xMXhnRkxGbl9TOVpxNVIzUWw3WFFDR0pNemJZV2plSHNWSVBDMWZlUUlNUi1VR0l3aTVVUW0tMGdn?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-23T15:16:42.000Z",
+      "excerpt": "历时近五年花旗证券（中国）获批落户上海，外资独资券商扩容至七家 界面新闻",
+      "section": "cn-news",
+      "rankScore": 0.617681
+    },
+    {
+      "id": "2a8994da81f1e35a",
+      "title": "“卤肉可以卖，米饭不允许”，贵阳一学校美食街卤肉饭店被禁售米饭，校方回应：为避免和食堂形成竞争，如果商户要退租，可退租金押金",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Sc3BYNUhzandTOWp2Tkkwd2VpUmJBUU9IS1lqcG1JeVZGTG90S0x3M2ZMaFlGRHRkRkI4VnY2U1diYjJpX3JoOEhjVmp5cUZGbEx4Y2piSW1Rcm9XQ3pLNQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-23T13:35:00.000Z",
+      "excerpt": "“卤肉可以卖，米饭不允许”，贵阳一学校美食街卤肉饭店被禁售米饭，校方回应：为避免和食堂形成竞争，如果商户要退租，可退租金押金",
+      "section": "cn-news",
+      "rankScore": 0.570743
+    },
+    {
+      "id": "9809855135cd86eb",
+      "title": "西藏那曲強震16死76傷 官方：未發現失聯人員",
+      "url": "https://www.cna.com.tw/news/acn/202610230281.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-23T15:00:44.000Z",
+      "excerpt": "（中央社台北23日電）西藏那曲市巴青縣昨晚發生規模7地震，是今年以來中國最強地震。當地官方通報，截至下午1時，地震已造成16人遇難、76人受傷。經過3輪全面排查，目前未發現失聯人員。",
+      "section": "cn-news",
+      "rankScore": 0.5425
+    },
+    {
+      "id": "eace9e16b90eeaca",
+      "title": "从一颗黑松露到一块手表，中国品牌在海南写下出海新故事",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yZDJhNzBHT3A0Vko1RmZqeDhMQmlEeV9YRm9JdXRyOXFOUGUwNWU4QWJFZ3l1OTBsX09xaW83d2dWZ2xPRk1wZG9WNXF3SHZvSEYwdW5XaFBRam9QbUlDMEhwX3I?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-23T14:33:00.000Z",
+      "excerpt": "从一颗黑松露到一块手表，中国品牌在海南写下出海新故事 新京报 出海企业海南现场开麦，真实案例讲透出海生意经 新浪新闻_手机新浪网 业内探讨中国智能网联汽车品牌“出海”路径 搜狐 活力中国调研行丨海南深入推进国际教育创新岛建设 新华网 2026国际新消费（医疗）旅游服务出海论坛在海口举行海南自贸港医疗服务出海联盟启动",
+      "section": "cn-news",
+      "rankScore": 0.531122
+    },
+    {
+      "id": "e54c34fb674598f7",
+      "title": "Rocket debris hitting US homeland is ‘embarrassing’ for China, says astronomer",
+      "url": "https://www.scmp.com/news/china/science/article/3371947/rocket-debris-hitting-us-homeland-embarrassing-china-says-astronomer",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-23T15:00:07.000Z",
+      "author": "Ling Xin",
+      "excerpt": "A scorched hunk of metal that turned up in a US farmer’s cornfield may have handed China an awkward moment and technically an “international incident”, according to a British astronomer who has tracked rocket launches for more than 30 years.",
+      "section": "cn-news",
+      "rankScore": 0.474466
+    },
+    {
+      "id": "b36a04bbd10f6315",
+      "title": "境外采购商在广交会看入迷了！“非遗+国潮”饰品，谁不想带回家？",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRkRSeFgxMHlhZFl1OXBkbVU1bVV0akFIODRnRGhheXM4WFFNMEdCUTNiVWxqVmkzNXFYMVh6WTJ3OFhVQ0RyTWdhcDBzN0NwTExlVExSTXU2MmtPelpYdDl1N3VGWG1JYVE2V1gzTGVRajU1QzhYdTM1YUluZUVWVjhGVXFWRGZqUEE?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-23T14:19:46.000Z",
+      "excerpt": "境外采购商在广交会看入迷了！“非遗+国潮”饰品，谁不想带回家？ 广州日报新花城 视频丨76小时“极限换装” 第140届广交会第二期开展 中国日报网 第140届广交会第二期开幕 中国经济网 铜陵市铜官区8家企业组团亮相第140届广交会 凤凰网安徽 广交新程 | 七秩风华 向“新”而兴——第140届广交会第一期交出精彩答卷 finance.sina.com.cn",
+      "section": "cn-news",
+      "rankScore": 0.459981
+    },
+    {
+      "id": "79ab978467d60365",
+      "title": "全国传统武术公开赛（八卦掌赛区）云南石林开赛",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nUEhWc2tzS2dCdDFlY1lIc1BHb1U3UW02ZHVzU0tnbkVvdkxyRzYzWFhEUzI4bHUwTWNqcFFsSmpkRXFDNkMybFNSRU5QNlVVZE5YdTRhWGpaaDVfWGxTQUozaGJCUTFl?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-23T15:08:56.000Z",
+      "excerpt": "全国传统武术公开赛（八卦掌赛区）云南石林开赛 中国新闻网 2026年江苏省传统武术锦标赛在徐州举行 中国新闻网",
+      "section": "cn-news",
+      "rankScore": 0.409398
+    },
+    {
+      "id": "a4f18e6a32fe35e0",
+      "title": "中国电建成都院驰援西藏巴青抗震救灾 调运40套板房100套取暖器",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720149.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-23T15:35:59.000Z",
+      "excerpt": "中新网拉萨10月23日电(白玛玉珍)10月22日22时33分，西藏自治区那曲市巴青县发生7.0级地震，震源深度10千米，造成重大人员伤亡。震区平均海拔接近4800米，夜间气温低，民众安置和防寒保暖成为震后最紧迫的民生任务之一。",
+      "section": "cn-life",
+      "rankScore": 0.835442
+    },
+    {
+      "id": "c0159a7be2c337db",
+      "title": "（活力中国调研行）在海南打卡周总理同款咖啡 回味一杯香醇里的浓浓侨胞情",
+      "url": "https://www.chinanews.com.cn/life/2026/10-23/10720087.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-23T13:51:26.000Z",
+      "excerpt": "中新网10月23日电 题：在海南打卡周总理同款咖啡 回味一杯香醇里的浓浓侨胞情",
+      "section": "cn-life",
+      "rankScore": 0.642586
+    },
+    {
+      "id": "dd145689073fc35b",
+      "title": "国务院办公厅：减缓人工智能应用就业替代影响",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGNxWGlLeW1TREREbzg3VjlfeTFPeFBXMHlUelBfQ3M1SUNLVy00SnI4bmpXRWctcHRxamNhbTduU1pUbFFnV1l3Nk9Ealh0NjQwaHhWWWtGQXoyX29Dc1hVa2ZxZU5kSWg0ZDRHNTRlVnlLaGw5cEcwRkVla1ZxQ0Z2S3NxUQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-23T15:35:44.000Z",
+      "excerpt": "国务院办公厅：减缓人工智能应用就业替代影响 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.626466
+    },
+    {
+      "id": "41ddc4fc79813748",
+      "title": "国务院安委办、应急管理部视频调度近期安全防范工作",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTUt5TGRXSmd2MlJZUXJPYXVhZFRlZXFIZVN0OUF0eklMZmxXZVp2WVZZVTFJeXlaM21OMXpTMHNwejNtaGNRR0lKN0Z4RU50c0ViWlZfZDdFelJoeXdzVGljaXZIOVpubzJnMko4Z2NEV2lYYmdMVkM2OFRaQ0I5YnFR?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-23T14:28:00.000Z",
+      "excerpt": "国务院安委办、应急管理部视频调度近期安全防范工作 国家矿山安全监察局",
+      "section": "cn-life",
+      "rankScore": 0.595205
+    },
+    {
+      "id": "913476b2c72d1772",
+      "title": "为完善全球治理汇智聚力为动荡变革世界增稳赋能",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4R1RqeGVQNUwxbGhoOTY5cW9RZDRybmhNdmpkS0Rqd2hYb2pVRmxHVVZtbEhQbkJmdjNiWFBFQ04zVTIyamk5MDBQLURIQk52b1dsUXVteU9RQ1hjbUZnM01ERW5SZzdoWlVVaU9QOFN6MEtp?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-23T14:28:50.000Z",
+      "excerpt": "为完善全球治理汇智聚力为动荡变革世界增稳赋能 中国驻新加坡大使馆",
+      "section": "cn-life",
+      "rankScore": 0.529413
+    },
+    {
+      "id": "27e8d3421d0fc425",
+      "title": "国家药品监督管理局药品和医疗器械审评检查京津冀分中心2026年度第二批编外人员公开招聘公告",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTZqaFdlZFNfMGxQd2NiS2VqX1lHa2M0TU1PTlY2Y1hFbW9RTW8zYzQyaU8wQU9XNTJkWTNTX2JQYV9LcW11aHBNcHEtbzRmclpJUmpGNnlpS01wVElEb2lxYmFGSElFOU1EQVhZSEUtZ2lDYkZTREZaWkFHTlNTUUduczNwVlBz?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-23T13:26:00.000Z",
+      "excerpt": "国家药品监督管理局药品和医疗器械审评检查京津冀分中心2026年度第二批编外人员公开招聘公告 搜狐",
+      "section": "cn-life",
+      "rankScore": 0.44068
+    },
+    {
+      "id": "85bdd3cc76b0f4d9",
+      "title": "大思政教育与课程思政数字化建设专题培训班开班",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zTFpiOGNYeHF1WnJhcGozQmFDZV95S0x0ODVyeEVXWGdvNjkxU2tnYlIxbUltM0hFWWg5U2FMZmNqazFhSW9HVFN6akZMSlo4QWswZmgtOURFekM4SUNuVHZ2cFJLMlNpT3c?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-23T14:36:00.000Z",
+      "excerpt": "大思政教育与课程思政数字化建设专题培训班开班 中国新闻网",
+      "section": "cn-life",
+      "rankScore": 0.399265
+    },
+    {
+      "id": "0b036a58482c5bfd",
+      "title": "我校开展流感防控与HPV癌症防治专题讲座",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51WEItSzNCdDRpNjE1R2pfSkZlclR3R1BWZ29LOGh2am9NVmUzQ2x3QkJrOGEwbFV0aFZweVhBbnJpbFAtYkFzUmJqTUJNVmtKb2FqUk9XQmR5UWxPQkE?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-23T10:11:31.000Z",
+      "excerpt": "我校开展流感防控与HPV癌症防治专题讲座 江南大学新闻网",
+      "section": "cn-life",
+      "rankScore": 0.370866
+    }
+  ],
+  "warnings": []
+}
