@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-24",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-24T00:34:39.648Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "71460f27408bf50a",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "source": "hn-front",
+      "publishedAt": "2026-10-23T16:21:50.000Z",
+      "score": 729,
+      "author": "pavel_lishin",
+      "excerpt": "729 points · 471 comments · https://news.ycombinator.com/item?id=50211474",
+      "section": "tech",
+      "rankScore": 1.014548
+    },
+    {
+      "id": "cf3e62fa64f84aeb",
+      "title": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-24T00:34:39.648Z",
+      "score": 150,
+      "excerpt": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "section": "tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "aa8c4d1c29296e63",
+      "title": "Memory is slow, Disk is fast",
+      "url": "https://www.bitflux.ai/blog/memory-is-slow-part3/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-23T20:44:07.000Z",
+      "author": "bitflux.ai via typesanitizer",
+      "section": "tech",
+      "rankScore": 0.620061
+    },
+    {
+      "id": "6d25606322b09ff1",
+      "title": "EMU deletions fix",
+      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-23T18:56:18.000Z",
+      "author": "Allison",
+      "excerpt": "Between June 1 and June 13, 2026, some Enterprise Managed User accounts that were deprovisioned through SCIM were incorrectly deleted instead of being suspended and obfuscated as expected. As a…",
+      "section": "tech",
+      "rankScore": 0.606011
+    },
+    {
+      "id": "9df191a1f9f5f2f9",
+      "title": "Origin Range Requests: Serving large files without range-request tuning",
+      "url": "https://blog.cloudflare.com/origin-range-requests/",
+      "source": "cloudflare",
+      "publishedAt": "2026-10-23T18:22:59.000Z",
+      "author": "Matthew Gumport",
+      "excerpt": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half.",
+      "section": "tech",
+      "rankScore": 0.537081
+    },
+    {
+      "id": "59c94b1bd756f640",
+      "title": "Presentation: Move Fast, Don’t Break Trust: Shipping Constantly with Humans and Beyond",
+      "url": "https://www.infoq.com/presentations/monzo-microservices-devex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-23T11:00:00.000Z",
+      "author": "Suhail Patel",
+      "excerpt": "Suhail Patel discusses how Monzo structures its software engineering organization and technical stack to ship safely hundreds of times a day. He shares insights into opinionated microservice abstractions, tenancy-based staging, static analysis checks, continuous profiling, demonstrating how a…",
+      "section": "tech",
+      "rankScore": 0.509233
+    },
+    {
+      "id": "aaa3d0132caa7808",
+      "title": "v2.1.310",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
+      "source": "anthropic",
+      "publishedAt": "2026-10-23T23:39:00.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and when telemetry or nonessential traffic is disabled; long foreground sleeps are now blocked there too Fixed requests failing behind some gateways and compatible servers that reject the effort-2025-11-24…",
+      "section": "ai",
+      "rankScore": 0.855673
+    },
+    {
+      "id": "7625c060e99711dc",
+      "title": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-23T21:35:13.000Z",
+      "excerpt": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration…",
+      "section": "ai",
+      "rankScore": 0.780185
+    },
+    {
+      "id": "99458069fcf78371",
+      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "source": "latent-space",
+      "publishedAt": "2026-10-23T15:19:48.000Z",
+      "author": "Ankit Maloo",
+      "excerpt": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+      "section": "ai",
+      "rankScore": 0.600459
+    },
+    {
+      "id": "fd734e4849647408",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "openai",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "excerpt": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "section": "ai",
+      "rankScore": 0.571298
+    },
+    {
+      "id": "51997e2bfde42cae",
+      "title": "用 muse 一个很难受的地方",
+      "url": "https://www.v2ex.com/t/1251376",
+      "source": "v2ex",
+      "publishedAt": "2026-10-23T14:28:46.000Z",
+      "score": 5,
+      "author": "jiuzhougege",
+      "excerpt": "就是给他传文件，每个文件限制 25M ，每次只能传一个文件，经常断，有时候一个 50 ＋ M 的文件，分拆成好几个，每个都要传很多次，传着传着就断了，但网络一切正常。 传到在线文档，给他链接让它下载，结果下载完毕他说在浏览器的机器上，它拿不到。 给他授予完全磁盘权限，让它自己读取，又读不到。 另外，经常性打开一直显示正在链接，这和一开始发布的时候体验差太多了。 dots 好歹还能一次贴多个文件，一起上传，等上传完毕，才可以点击发送按钮。",
+      "section": "cn-tech",
+      "rankScore": 0.714776
+    },
+    {
+      "id": "a33d1f9fda59f329",
+      "title": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+      "url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-23T19:40:29.000Z",
+      "author": "智源研究院",
+      "section": "cn-tech",
+      "rankScore": 0.618284
+    },
+    {
+      "id": "6b96c7025766926a",
+      "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
+      "url": "https://www.solidot.org/story?sid=85696",
+      "source": "solidot",
+      "publishedAt": "2026-10-23T11:07:11.000Z",
+      "excerpt": "希腊议会周五通过了一项法案，禁止 15 岁以下的儿童使用社媒平台。此举旨在回应公众对社交媒体会对未成年人的健康与安全产生负面影响之日益增长的担忧。禁令将于 2027 年 1 月 1 日生效。澳大利亚是首个通过立法限制未成年人使用社媒的国家。法国也曾通过类似法律，但于 8 月被宪法委员会裁定无效。希腊总理基 Kyriakos Mitsotakis 表示，社媒平台有 2 个半月的时间制定方案，核实用户年龄并保护其隐私。希腊政府表示，将支持家长共同遏制“无限滚动”现象——这种行为会导致儿童睡眠不足、注意力难以集中，挤占与朋友相处的时间。",
+      "section": "cn-tech",
+      "rankScore": 0.523271
+    },
+    {
+      "id": "b87b5e4fe97fdb6f",
+      "title": "Agent把测试环境写操作当成生产执行了： 我加了环境标签校验和写操作二次确认",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VVllKZ1BDOGdIMmZ4VDBZTU1OYm92UHQyRnlFNTY5Zk45QjZGVld6eFBtZWNMUkszYWdIY3BiTF84U2lTOXh6THBzTWZKMHlqR0xKeg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-23T22:38:06.000Z",
+      "excerpt": "Agent把测试环境写操作当成生产执行了： 我加了环境标签校验和写操作二次确认 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.467335
+    },
+    {
+      "id": "7c6958aefc4aa5b0",
+      "title": "刚刚，你每天在用的Skills发生了一件大事",
+      "url": "https://www.36kr.com/p/4038357510116225",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-23T13:23:59.000Z",
+      "author": "机器之心",
+      "excerpt": "AI 圈又有一件看起来很技术、实际上相当关键的事。 今天，Linux基金会旗下的 Agentic AI Foundation（AAIF）一口气迎来四个新的托管项目： Anthropic贡献 Agent Skills，OpenAI贡献 Open Responses，Hugging Face贡献 OpenEnv，阿里贡献 OpenSandbox。 覆盖 AI Agent 从获得技能、调用模型，到训练、执行任务的多个关键环节。这也是四个已有项目，被纳入同一个中立治理框架。 至此，AAIF 托管的项目总数从成立之初的 3 个增加到了 10 个。基金会成立还不到一年，会员组织数量也已经达到 305 家。",
+      "section": "cn-tech",
+      "rankScore": 0.462331
+    },
+    {
+      "id": "a5f3df2a5e56634f",
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-23T18:50:13.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.",
+      "section": "security",
+      "rankScore": 0.604321
+    },
+    {
+      "id": "e6b785699c7f7056",
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-23T17:54:08.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month.",
+      "section": "security",
+      "rankScore": 0.588742
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 53 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
