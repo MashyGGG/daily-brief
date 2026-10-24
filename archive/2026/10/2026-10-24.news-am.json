@@ -1,0 +1,334 @@
+{
+  "date": "2026-10-24",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-24T01:00:49.057Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "099706333166e67d",
+      "title": "中共五中全会在即 反腐不能停 接班人何处寻",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261023-%E4%B8%AD%E5%85%B1%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%9C%A8%E5%8D%B3-%E5%8F%8D%E8%85%90%E4%B8%8D%E8%83%BD%E5%81%9C-%E6%8E%A5%E7%8F%AD%E4%BA%BA%E4%BD%95%E5%A4%84%E5%AF%BB",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-23T22:35:56.000Z",
+      "author": "安德烈",
+      "excerpt": "周一开幕的中共五中全会的主题为“全面从严治党”，北京在近日采取的一系列密集的行动紧扣这一主题，努力做到习近平所要求的“反腐一刻不能停”，全力识别“形形色色的两面人”，剑指“第一方阵”。",
+      "section": "news",
+      "rankScore": 0.659754
+    },
+    {
+      "id": "d7cda15bee69345e",
+      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-23T20:59:39.000Z",
+      "excerpt": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+      "section": "news",
+      "rankScore": 0.569708
+    },
+    {
+      "id": "25cf1665484732a9",
+      "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-24T00:52:33.000Z",
+      "author": "Sarah Basford Canales",
+      "excerpt": "WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’ Get our new political email , free app or daily news podcast Jordon Steele-John has confirmed he will not attend parliament next week as the embattled Greens senator releases a letter…",
+      "section": "news",
+      "rankScore": 0.558163
+    },
+    {
+      "id": "acecd80d1d068778",
+      "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-24T00:50:05.000Z",
+      "excerpt": "Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights.",
+      "section": "news",
+      "rankScore": 0.557615
+    },
+    {
+      "id": "8112e8fc90a24360",
+      "title": "台灣地方選舉倒數一個月：「颱風假」牽動選情？",
+      "url": "https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-23T10:33:20.000Z",
+      "excerpt": "薔琵颱風來襲之際，台灣各縣市是否宣布停班停課，成為九合一地方選舉前的輿論焦點。有研究指出，選舉年颱風「停班停課」可能性增加。",
+      "section": "news",
+      "rankScore": 0.550839
+    },
+    {
+      "id": "bd83feef5cfaa642",
+      "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
+      "url": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-23T21:29:29.000Z",
+      "author": "Frances Robles",
+      "excerpt": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis.",
+      "section": "news",
+      "rankScore": 0.513037
+    },
+    {
+      "id": "5f008963c2f6f8af",
+      "title": "The Evening: D.O.J. Moves to Block Alaska Result if G.O.P. Loses",
+      "url": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-24T00:44:32.000Z",
+      "author": "Whet Moser and Matthew Cullen",
+      "excerpt": "Plus, a promising cancer vaccine. Here’s the latest at the end of Friday.",
+      "section": "news",
+      "rankScore": 0.486834
+    },
+    {
+      "id": "c90ba5a7a5f45f3b",
+      "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+      "source": "npr-news",
+      "publishedAt": "2026-10-24T00:40:42.000Z",
+      "author": "Ava Berger",
+      "excerpt": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.",
+      "section": "news",
+      "rankScore": 0.486088
+    },
+    {
+      "id": "48638fd6d7eec8af",
+      "title": "UK sets up AI lab to monitor biosecurity threats",
+      "url": "https://www.ft.com/content/e4481867-fecc-48fc-ad9d-4daaf05d14ba?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-23T23:01:00.000Z",
+      "excerpt": "Move comes amid widespread fears that users could create new viruses and bioweapons",
+      "section": "news",
+      "rankScore": 0.466702
+    },
+    {
+      "id": "18911bf7d53851d2",
+      "title": "联合国敦促各国消除性别刻板印象，防范人工智能助长性别暴力",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143058",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "excerpt": "联合国消除对妇女歧视委员会周五发布最新指导意见，敦促各国采取切实行动，消除根深蒂固的性别刻板印象，防止其持续助长对妇女和女童的歧视及性别暴力。委员会警告称，性别刻板印象影响社会生活的各个领域，而人工智能等新兴技术可能进一步放大偏见，助长新形式的性别暴力。",
+      "section": "news",
+      "rankScore": 0.434796
+    },
+    {
+      "id": "40e1e5cc0563e1f0",
+      "title": "普京的“棋局”：重塑美俄关系而无需作出任何让步",
+      "url": "https://cn.nytimes.com/world/20261023/putin-trump-ukraine-war/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-23T04:19:50.000Z",
+      "author": "VALERIE HOPKINS",
+      "excerpt": "特朗普放松了对克里姆林宫的经济压力，且不要求普京作出任何让步作为回报。普京正抓紧机会采取行动，将自己定位为与美国和中国平起平坐的全球大国，推动举行三方峰会。 Doug Mills/The New York Times 去年，特朗普总统与俄罗斯总统普京在阿拉斯加的安克雷奇会面。",
+      "section": "news",
+      "rankScore": 0.39081
+    },
+    {
+      "id": "17a67c69ca7286ba",
+      "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168655",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "excerpt": "As Ebola continues to spread in the Democratic Republic of the Congo (DRC), more resources are needed to fight the disease and feed patients and families, UN agencies said on Friday.",
+      "section": "news",
+      "rankScore": 0.289864
+    },
+    {
+      "id": "5dafb15c6dc05a85",
+      "title": "教堂枪击事件致7死40伤 约旦宣布全国哀悼三天",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-24/10720189.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-24T00:56:34.000Z",
+      "excerpt": "中新网10月24日电 综合外媒报道，当地时间23日，约旦南部卡拉克省一教堂内发生枪击事件，造成7人死亡，40人受伤。约旦宣布全国哀悼三天。",
+      "section": "cn-news",
+      "rankScore": 0.838583
+    },
+    {
+      "id": "8bf4cdaf7dc00223",
+      "title": "王毅宣布中方进一步落实全球治理倡议的务实行动",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720161.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-23T17:58:28.000Z",
+      "excerpt": "2026年10月23日，中共中央政治局委员、外交部长王毅在2026全球治理论坛(雄安)开幕式上表示，全球治理追求的是各国人民的共同福祉，依靠的是国际社会的共同努力。今年是新中国恢复联合国合法席位55周年。作为联合国创始会员国和安理会常任理事国，中国愿同世界各国一道，起而行之，携手共进，为构建更加公正合理的全球治理体系作出不懈努力。中方将采取以下务实行动：",
+      "section": "cn-news",
+      "rankScore": 0.640948
+    },
+    {
+      "id": "9785925dd27cec6b",
+      "title": "2026两岸青年创新创业大赛决赛举行 共吸引近千人参赛",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720147.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-23T15:32:09.000Z",
+      "excerpt": "中新网绍兴10月23日电(项菁)以“两岸同‘芯’·心向未来”为主题的2026两岸青年创新创业大赛决赛23日在浙江绍兴举行。此次大赛设置了“创新组”与“创业组”两大组别，两岸青年围绕绿色经济、数字未来、先进制造等5条赛道展开角逐。",
+      "section": "cn-news",
+      "rankScore": 0.59624
+    },
+    {
+      "id": "b873206809e2fa73",
+      "title": "民生调查局｜涂了就能摘掉眼镜？记者卧底调查护眼膏虚假宣传乱象",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719988.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-23T11:57:34.000Z",
+      "excerpt": "编者按： 这里是民生调查局，见人所未见，调查民生之变。关注你想关注的、你没关注的，调查你想看的、未看到的。 中新网北京10月23日电(钟余)“不管是近视，还是老花眼、青光眼，用了这个护眼膏就会好。”去年年底，在外工作的苏欣(化名)一回家，母亲就迫不及待地拿出新购入的护眼膏让她试用，并转述了营销人员的话。",
+      "section": "cn-news",
+      "rankScore": 0.578916
+    },
+    {
+      "id": "33a114422d0fc0cd",
+      "title": "王毅会见美国亚洲协会董事会共同主席桑顿、《纽约时报》专栏作家弗里德曼",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720094.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-23T14:27:38.000Z",
+      "excerpt": "中新社河北雄安10月23日电 (记者 曾玥 周昕)10月23日，中共中央政治局委员、外交部长王毅在河北雄安新区会见来华出席2026全球治理论坛(雄安)的美国亚洲协会董事会共同主席桑顿和《纽约时报》专栏作家弗里德曼。",
+      "section": "cn-news",
+      "rankScore": 0.576527
+    },
+    {
+      "id": "0be3e84384ac2a3b",
+      "title": "台湾退役海军少校吕礼诗天津寻根：愿两岸大家小家皆团聚",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-23/10720100.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-23T14:03:24.000Z",
+      "excerpt": "中新社天津10月23日电 (孙翼飞)台湾退役海军少校、前“新江舰”舰长吕礼诗23日到天津天后宫参访。在宫内祈福牌上，他写下“两岸大家、小家团聚”的心愿。",
+      "section": "cn-news",
+      "rankScore": 0.569122
+    },
+    {
+      "id": "be2baa9497f7f538",
+      "title": "山海好物走进上海市民“菜篮子” 603家企业携特产亮相",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720154.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-23T15:43:44.000Z",
+      "excerpt": "中新网上海10月23日电 (记者 李姝徵)第九届上海市对口地区特色商品展销会23日开幕，603家企业带着家乡好物来到上海，让市民在家门口选购远方风物，也为产地寻找更多生意机会。",
+      "section": "cn-news",
+      "rankScore": 0.490729
+    },
+    {
+      "id": "7670584ff3b3f525",
+      "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-23T22:29:03.000Z",
+      "author": "Lucy Quaggin",
+      "excerpt": "Kevin Rudd, president of the Asia Society and a former Australian prime minister, described US-China strategic competition as full-on and multidimensional at a Harvard Kennedy School Institute of Politics event on Friday.",
+      "section": "cn-news",
+      "rankScore": 0.46049
+    },
+    {
+      "id": "c13d8a93e6c045fa",
+      "title": "歐中磋商互撤企業制裁 涉艾司摩爾德國供應商",
+      "url": "https://www.cna.com.tw/news/acn/202610230263.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-23T13:43:02.000Z",
+      "excerpt": "（中央社台北23日電）歐盟與中國月初舉行貿易談判達成多項共識後，雙方據報正磋商互相解除對方一家企業的制裁。中國提出把半導體設備廠艾司摩爾的德國供應商Sindlhauser從出口管制清單中移除，以換取歐盟撤銷制裁湖北玉莎集團，該公司被指向俄羅斯買家出售敏感歐洲科技。",
+      "section": "cn-news",
+      "rankScore": 0.409381
+    },
+    {
+      "id": "071bbb16eeeb4906",
+      "title": "屯門安定邨9歲女童激動持刀 父奪刀傷女兒胸口 涉傷人被捕",
+      "url": "https://hk.news.yahoo.com/%E5%B1%AF%E9%96%80%E5%AE%89%E5%AE%9A%E9%82%A89%E6%AD%B2%E5%A5%B3%E7%AB%A5%E6%BF%80%E5%8B%95%E6%8C%81%E5%88%80-%E7%88%B6%E5%A5%AA%E5%88%80%E5%82%B7%E5%A5%B3%E5%85%92%E8%83%B8%E5%8F%A3-%E6%B6%89%E5%82%B7%E4%BA%BA%E8%A2%AB%E6%8D%95-003310208.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-10-23T16:33:10.000Z",
+      "excerpt": "執法部門接報指屯門安定邨定泰樓一單位，一名9歲女童情緒激動，持刀揮舞，父親見狀立即搶刀，混亂中，女童被刀鎅傷",
+      "section": "cn-news",
+      "rankScore": 0.39129
+    },
+    {
+      "id": "004a8d359e086831",
+      "title": "仍在黄金救援期、部分帐篷已通电 西藏7.0级地震昨夜今晨救援最新进展",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720182.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-24T00:50:20.000Z",
+      "excerpt": "10月22日22时33分许，西藏那曲市巴青县发生7.0级地震。截至10月23日13时，已造成16人遇难、76人受伤，房屋倒塌及受损339户。目前，地震抢险救援工作正在抓紧进行。",
+      "section": "cn-life",
+      "rankScore": 0.836505
+    },
+    {
+      "id": "7f7e3359f4b38176",
+      "title": "西藏巴青县地震前后遥感图发布 暂未见大面积房屋严重损毁",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720181.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-24T00:46:36.000Z",
+      "excerpt": "2026年10月22日22时33分，西藏那曲市巴青县发生7.0级地震。自然资源部国土卫星遥感应用中心启动应急响应机制，全力保障应急救援工作，制作了灾前灾后对比专题分析影像图2对。",
+      "section": "cn-life",
+      "rankScore": 0.835261
+    },
+    {
+      "id": "b667b9bf2dbedc01",
+      "title": "台风“蔷琵”逼近 多地积极应对提前转移安置避险",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720172.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-24T00:26:50.000Z",
+      "excerpt": "台风“蔷琵”正在我国近海活跃，华东沿海即将迎来强风雨。",
+      "section": "cn-life",
+      "rankScore": 0.828672
+    },
+    {
+      "id": "7e9ea388642d6a37",
+      "title": "上海举行女农人庆丰收活动 巾帼好物市集搬进田间",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720153.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-23T15:43:50.000Z",
+      "excerpt": "中新网上海10月23日电 (蒋小威)2026年上海市女农人庆丰收主题活动23日在金山区廊下镇友好村举行。活动现场设有女性社会组织市集、“金山游礼”巾帼好物后备箱市集、稻田T台秀、游园体验、萌宠互动等环节。女农人、女企业家、驻村书记等带来特色产品，摊位前人头攒动。稻田边，女农人、女企业家、女大学生等身着旗袍、羊绒服饰登台走秀，在田间展示风采。",
+      "section": "cn-life",
+      "rankScore": 0.654339
+    },
+    {
+      "id": "bf8c59b0a57c80d8",
+      "title": "撂荒土地溢菊香 青海民和山村撑起“金”产业",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720151.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-23T15:39:51.000Z",
+      "excerpt": "中新网青海民和10月23日电 题：撂荒土地溢菊香 青海民和山村撑起“金”产业",
+      "section": "cn-life",
+      "rankScore": 0.653011
+    },
+    {
+      "id": "98df0654b0b537be",
+      "title": "湖北宜昌：“电化长江” 从蓝图照进现实",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720145.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-23T15:30:03.000Z",
+      "excerpt": "中新网湖北宜都10月23日电 题：湖北宜昌：“电化长江”从蓝图照进现实",
+      "section": "cn-life",
+      "rankScore": 0.649744
+    },
+    {
+      "id": "23888ef9f688e9fe",
+      "title": "COP17中国角主题边会举行，呼吁携手应对生物多样性丧失挑战",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10720110.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-23T15:21:22.000Z",
+      "excerpt": "中新网10月23日电 当地时间10月21日，《生物多样性公约》第十七次缔约方大会(COP17)中国角系列活动之一“保护生物多样性 尊重多元文化 践行多边主义”主题边会在亚美尼亚埃里温举行。",
+      "section": "cn-life",
+      "rankScore": 0.64685
+    },
+    {
+      "id": "1872aaf2e0b460d3",
+      "title": "秋色上新！2026全国赏红叶地图发布 看哪一抹红最合你心意",
+      "url": "https://www.chinanews.com.cn/life/2026/10-23/10719931.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-23T10:59:16.000Z",
+      "excerpt": "中国天气网讯 霜降已至，秋意深。随着气温走低，山林次第晕染，叶片陆续换红妆，秋色上新，又到一年一度红叶季。中国天气网推出2026年全国赏红叶地图，盘点十大观赏胜地，带你自北向南一路寻秋，看看哪一处是你想要的那抹红。",
+      "section": "cn-life",
+      "rankScore": 0.466236
+    }
+  ],
+  "warnings": [
+    "source \"gn-world-zh\" failed: Error: HTTP 503",
+    "source \"jiemian\" failed: Error: HTTP 503",
+    "source \"thepaper\" failed: Error: HTTP 503",
+    "source \"gn-nation-zh\" failed: Error: HTTP 503",
+    "source \"gn-business-zh\" failed: Error: HTTP 503",
+    "source \"gnews-cn\" failed: Error: HTTP 503",
+    "source \"gn-minsheng\" failed: Error: HTTP 503",
+    "source \"gn-disaster\" failed: Error: HTTP 503",
+    "source \"gn-govcn\" failed: Error: HTTP 503",
+    "source \"gn-health-zh\" failed: Error: HTTP 503",
+    "source \"gn-food\" failed: Error: HTTP 503",
+    "source \"gn-edu\" failed: Error: HTTP 503",
+    "source \"gn-science-zh\" failed: Error: HTTP 503"
+  ]
+}
