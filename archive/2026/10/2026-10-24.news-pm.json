@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-24",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-24T14:28:24.303Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "36c6e165ce36c5a4",
+      "title": "五角大楼将美国境内的孔子学院列为国家安全威胁",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261024-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%B0%86%E7%BE%8E%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2%E5%88%97%E4%B8%BA%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-24T12:45:19.000Z",
+      "author": "古莉",
+      "excerpt": "美国国防部长皮特·赫格塞斯周五表示，美国国防部将中国资助、设在大学校园内的文化中心（即所谓的“孔子学院”）视为对美国国家安全的威胁。",
+      "section": "news",
+      "rankScore": 0.647134
+    },
+    {
+      "id": "be24a1ddcb96ccbb",
+      "title": "法国部署7万警力迎来新一轮抗议活动 “黄背心”卷土重来",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261024-%E6%B3%95%E5%9B%BD%E9%83%A8%E7%BD%B27%E4%B8%87%E8%AD%A6%E5%8A%9B%E8%BF%8E%E6%9D%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8-%E9%BB%84%E8%83%8C%E5%BF%83-%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-24T12:17:25.000Z",
+      "author": "古莉",
+      "excerpt": "法国在经历了暴力与抢劫事件一周后，周六迎来新一轮抗议活动：黄背心、工会、高中生及大学生将在极度紧张的氛围中举行新一轮游行。多条游行路线被禁，安保级别升高，当局部署了7万名警察和宪兵严阵以待。",
+      "section": "news",
+      "rankScore": 0.632826
+    },
+    {
+      "id": "eaefa98fa17619ba",
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-24T14:16:05.000Z",
+      "excerpt": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "section": "news",
+      "rankScore": 0.624313
+    },
+    {
+      "id": "6ffb6886af01d232",
+      "title": "【子午播报】2026年10月24日",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143064",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "excerpt": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，古特雷斯表示，从欧洲街头到全球危机，美好未来正变得遥不可及；环境署警告，本世纪末升温或将达2.8℃；81年前的今天：联合国正式成立。",
+      "section": "news",
+      "rankScore": 0.561505
+    },
+    {
+      "id": "209ce353be0b811f",
+      "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-24T14:21:34.000Z",
+      "excerpt": "Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d'Or.",
+      "section": "news",
+      "rankScore": 0.557195
+    },
+    {
+      "id": "d5897220ed47d689",
+      "title": "Live Updates: France Deploys Vast Security Force in Bid to Prevent More Riots",
+      "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-24T14:19:41.000Z",
+      "author": "The New York Times",
+      "excerpt": "As many as 70,000 police and security officers will try to avert the arson and looting that shocked the country last weekend. The interior minister estimated that 35,000 people were out on streets nationwide by midday.",
+      "section": "news",
+      "rankScore": 0.556422
+    },
+    {
+      "id": "d02ccaa4535272d1",
+      "title": "Met says it shared allegations about Meghan’s father with her but not other forces",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-24T13:52:58.000Z",
+      "author": "Harry Taylor",
+      "excerpt": "Scotland Yard says it shared letter about Thomas Markle Sr allegations in 2019 but did not pass claims to other agencies The Metropolitan police have confirmed they gave a letter to the Duchess of Sussex in 2019 concerning “alleged offending” involving her father, after accusations arose on Friday…",
+      "section": "news",
+      "rankScore": 0.545461
+    },
+    {
+      "id": "952a906cc2f7630e",
+      "title": "The Eyes of Elizabeth Holmes",
+      "url": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-24T14:02:49.000Z",
+      "author": "Maureen Dowd",
+      "excerpt": "Look into that unblinking gaze and see the abyss.",
+      "section": "news",
+      "rankScore": 0.480814
+    },
+    {
+      "id": "71c8f2c1eff8dd7b",
+      "title": "France deploys 70,000 officers to police latest protests",
+      "url": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-24T13:52:48.000Z",
+      "excerpt": "Government puts 20% more officers on the streets to boost security following last weekend’s riots",
+      "section": "news",
+      "rankScore": 0.477219
+    },
+    {
+      "id": "8446676276eb9e1f",
+      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+      "source": "npr-news",
+      "publishedAt": "2026-10-24T11:59:08.000Z",
+      "author": "The Associated Press",
+      "excerpt": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+      "section": "news",
+      "rankScore": 0.436415
+    },
+    {
+      "id": "0598e0fd0632edb2",
+      "title": "胡塞武装称沙特袭击也门一水泥厂 已致8死10伤",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kRW5KNVpzcldCQmVYanhFSFNNVVlXTk5EOEFDTUFiVng4TXUxZ1BIVTh4RnlkZXphTGk3Wlo3RWRiRWY2OGs2X0o5X2Q0eDNOUUJPRjk0RmdjMWt0cFE?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-24T14:13:12.000Z",
+      "excerpt": "胡塞武装称沙特袭击也门一水泥厂 已致8死10伤 同花顺财经 胡塞武装称沙特主导联军空袭也门多地 手机新浪网 73名新兵还没上战场就被炸死，也门军队面对胡塞已无还手之力 凤凰网 突发！沙特国防部和原油设施遇袭！刚刚，黄金、白银、纳指暴跌，油价大涨！恐慌情绪蔓延！普京重磅发声 金融界 沙特与胡塞停火死循环咋破局 历史恩怨难解 中华军事",
+      "section": "news",
+      "rankScore": 0.415322
+    },
+    {
+      "id": "48df4b25f009ba35",
+      "title": "Cover Story newsletter: The agony of liberal Europe",
+      "url": "https://www.economist.com/the-world-this-week/2026/10/24/cover-story-newsletter-the-agony-of-liberal-europe",
+      "source": "economist-week",
+      "publishedAt": "2026-10-24T10:53:01.000Z",
+      "excerpt": "An exclusive look at how we designed our cover",
+      "section": "news",
+      "rankScore": 0.412681
+    },
+    {
+      "id": "b6f25a50908f8ff7",
+      "title": "西藏巴青地震现场：救援力量帮助受灾信众找回唐卡经书等物品",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720524.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-24T14:06:05.000Z",
+      "excerpt": "中新社西藏巴青10月24日电 (记者 江飞波 贡桑拉姆)救援力量24日在西藏那曲市巴青县玛如乡曲古村开展震后财产搜寻工作，帮助受灾信众从房屋废墟中找回经书、唐卡、佛像及生活用品等。",
+      "section": "cn-news",
+      "rankScore": 0.757408
+    },
+    {
+      "id": "ec99130cda67ed47",
+      "title": "新华社权威快报｜二十届中央第八轮巡视对象公布",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720443.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-24T11:03:27.000Z",
+      "excerpt": "经党中央批准，二十届中央第八轮巡视将对教育部、北京大学、清华大学、中国人民大学、北京师范大学、复旦大学、上海交通大学、西安交通大学、中国科学技术大学、中国农业大学、北京理工大学、北京航空航天大学、西北工业大学、哈尔滨工业大学、浙江大学、南京大学、四川大学、南开大学、天津大学、武汉大学、中山大学、西北农林科技大学、吉林大学、华中科技大学、山东大学、东南大学、厦门大学、同济大学、中南大学、大连理工大学、重庆大学、兰州大学等32家单位党组织开展常规巡视。",
+      "section": "cn-news",
+      "rankScore": 0.713874
+    },
+    {
+      "id": "b4def77c4d46125c",
+      "title": "竹产业创新联盟大会在南平举行 两岸院校共谋竹产业创新发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720500.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-24T13:18:02.000Z",
+      "excerpt": "中新网南平10月24日电 (雷雨晨 鄢传奇 柯奕鑫)竹产业创新联盟大会24日在福建南平邵武市“武夷竹立方”生态科创馆举行。来自全国设计类高等院校代表、当地相关部门代表以及企业代表共百余人齐聚一堂，共谋竹产业创新发展。",
+      "section": "cn-news",
+      "rankScore": 0.597521
+    },
+    {
+      "id": "aee3432216824b68",
+      "title": "电厂 | 击穿物理AI的，也许是车企背后的千里科技",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wQ09jaUwwVndYV19xNXpKYTZXZ00weU1BTVEydlJOaXY5MGJvRndKMm91UkdLZ0JNNDFONkI2ZkM1SmhFMVQ2dmRPMHdHMHV3bzhKelg1OXE?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-24T13:04:53.000Z",
+      "excerpt": "电厂 | 击穿物理AI的，也许是车企背后的千里科技 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.591452
+    },
+    {
+      "id": "6159684ea5875a9b",
+      "title": "聚焦港澳五年规划 “一国两制”学术研讨会在深圳召开",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UUkFodGE4UVJhZmtFMHdvNkZhREtQREtnRVRST0xqRmtVOTRhcm40NHdtLVZNTkdTU28tYkxtYjRLN1VqZF91bmNHWVpxbVhtdWZBbXpyck85NGk5ZUpRc0JqTmNrZkx3SDZIcEFfR25GVUJWSkZXQndqYw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-24T14:18:39.000Z",
+      "excerpt": "聚焦港澳五年规划 “一国两制”学术研讨会在深圳召开 中央政府驻澳门联络办公室 香港五年规划多次提及东莞：从“香港之治”读懂“东莞之机” 搜狐 沈联涛：香港可做中国走向世界“中间人”，战略价值将愈发凸显 https://www.hkong.cn/ 香港首个五年规划启幕，四方面能力助力系统性监管落地 手机网易网 张海星：香港五年规划不存在“内地化” 中國評論新聞",
+      "section": "cn-news",
+      "rankScore": 0.555998
+    },
+    {
+      "id": "ecd26c0dae7704e1",
+      "title": "“大地之上”再现张雷平60年水墨探索",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqTlNIb0FKUVBTalRnMnVrSjdONmRpTi1sSHVrODVRR2FCTVQtVWdqM3l5SlpRNHlCaU9tajI3TW1sQ3hMckNRWWNzSW5CdHRYUlVoVHFTRDVLTmFDVEFQNg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-24T11:27:00.000Z",
+      "excerpt": "“大地之上”再现张雷平60年水墨探索",
+      "section": "cn-news",
+      "rankScore": 0.546275
+    },
+    {
+      "id": "53732f2a280331a6",
+      "title": "中國國新辦主任莫高義 任中共雲南省委書記",
+      "url": "https://www.cna.com.tw/news/acn/202610240190.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-24T11:47:04.000Z",
+      "excerpt": "（中央社記者呂佳蓉北京24日電）新華社報導，中國官方今天公布，中央宣傳部副部長、中國國務院新聞辦公室主任莫高義接任雲南省委書記。莫高義此前曾長期在廣東宣傳系統任職。",
+      "section": "cn-news",
+      "rankScore": 0.49381
+    },
+    {
+      "id": "d217fd38ee2d420d",
+      "title": "China’s J-20 stealth jet designers plan to put powerful radar into aircraft wing",
+      "url": "https://www.scmp.com/news/china/science/article/3371706/chinas-j-20-stealth-jet-designers-plan-put-powerful-radar-aircraft-wing",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-24T14:00:10.000Z",
+      "author": "Chao Kong",
+      "excerpt": "Fighter jets typically house their main radars behind a radome in the nose, while conventional airborne early-warning aircraft often carry large radar arrays in prominent structures above the fuselage.",
+      "section": "cn-news",
+      "rankScore": 0.479863
+    },
+    {
+      "id": "211f7f7f383f4e16",
+      "title": "硬科技早报|国内模型均价翻倍；联想系投资DeepSeek；三安光电实控人批捕",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Ym1sZ1dySmFvbmVCRHNvcVdzUVNKM0licG13M1cxYlJaT0pHV1I1ZEdSc0c1aGtBMnhJLU1DekZ5aTNON0hvM3hNczB0aTRZSks1SXBxeWFoUTUydkQ0MnhBWnI?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-24T12:31:44.000Z",
+      "excerpt": "硬科技早报|国内模型均价翻倍；联想系投资DeepSeek；三安光电实控人批捕 观察者网 《国家信息化“十五五”规划》印发：推动电信、互联网等领域有序扩大开放 加大软件和信息服务业等对外开放力度 新浪财经 智能体等应用普及率超90%，适时启动6G商用，国家信息化“十五五”规划释放了哪些信号 ThePaper.cn 中央网络安全和信息化委员会：固移动通信、智能网联汽车、无人机等产业优势 金融界 信息化“十五五”规划：研制高性能AI芯片，适时启动6G商用，加快构建全国一体化算力网 华尔街见闻",
+      "section": "cn-news",
+      "rankScore": 0.448118
+    },
+    {
+      "id": "3c8f92f3fc3c4b6d",
+      "title": "首部AI院线电影上映！观众点赞画面效果“超预期”",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OWDN2MzMwUmgwOGZiUUpQQ0xYWG9uYVVXQWNtTHdvSkY1WlNZV3VlandnNVBxakFFa2I5bEZFZDFlZlJmLWtwNXVxMDhVT0xaNEpJM1otVXEwM1FwazZUQWJEbkk0VlhLbmo4?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-24T14:02:50.000Z",
+      "excerpt": "首部AI院线电影上映！观众点赞画面效果“超预期” 华龙网 《三星堆：未来往事》上映 古蜀文明碰撞前沿科技 新华网 AI造电影 新浪财经 首部拿“龙标”的AI电影票房破50万，100分钟留得住观众吗？ 每日经济新闻 首部龙标AI电影正式上映 古蜀文明与未来危机交汇 中华网",
+      "section": "cn-news",
+      "rankScore": 0.412132
+    },
+    {
+      "id": "34a70156d301f1f1",
+      "title": "海内外各界聚首南平考亭书院纪念朱子诞辰896周年",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720497.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-24T13:10:56.000Z",
+      "excerpt": "中新网南平10月24日电(江洁 张少杰)10月24日，纪念朱子诞辰896周年活动在福建南平建阳区考亭书院举办。海内外朱子学专家学者、朱子后裔、志愿服务者、师生及社会各界代表250余人齐聚现场，以庄重古礼追思先贤，传承弘扬中华优秀传统文化。",
+      "section": "cn-life",
+      "rankScore": 0.792325
+    },
+    {
+      "id": "c45401a20ca6387b",
+      "title": "福建省调整防台风应急响应至四级",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVTJRbTJxc3ZvSVJqSjJscWpiLXZaRVdsNS0xMXN6V3NYVkdwWEhtMC1acVBNYjZEbzJJTFhQelN0cmRka1I3V3pMUjBFaHdyUGVDUXZzeXZUQ1Y2TE1Scy1uRXNzNnEtaDZCaUtVSVRaSHVnQ1BLRjl6X3VQVEtmdVM5cG4xcjZqWW9qT3V5QmJWOWg2bXprb2dEYUZvMlU2aTJOM1NWUHFaUVVqWTJKZUVLbXlvM1RYX3JuYVNNaE1sN2xUMDhGQTdNMHJ5b0xRVHlGTDhyVQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-24T14:14:07.000Z",
+      "excerpt": "福建省调整防台风应急响应至四级 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.623405
+    },
+    {
+      "id": "6335b0f688ef351c",
+      "title": "民生政务 | 我市儿童青少年“五健”促进行动正式启动",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaTctOHE0OVlnY0ZOZXZYMXlQM1MxTjUxNWk2WWRhZVM3cm4wRktTTUlpWWMtX2s1ejNuOWlsOFVMeXJtRjM5dVNfdXgycXRXczRoSmg4SjJObjRmaUFiUHY5SnVzbW5MR0ZJbzF3UGFzVjBDOEM0TUZQeU1sQldodUExeVhuZ0Q0TWctcA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-24T14:00:15.000Z",
+      "excerpt": "民生政务 | 我市儿童青少年“五健”促进行动正式启动 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.617005
+    },
+    {
+      "id": "50b592c76514b02b",
+      "title": "北京顺义构建医药健康全产业链发展格局",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FLTZYbVU1QzdBQ1ZpOEJUSVdsOWFKel9CX1NqaVhVaXVseUxoTXJDV0poTnFHcFBoRmhaU2hIblJGaHdzY1JyTW9xUjFwRXI0blQtV1A4VjNsUXhKcFluZE5hMA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-24T13:50:36.000Z",
+      "excerpt": "北京顺义构建医药健康全产业链发展格局 www.jingjiribao.cn",
+      "section": "cn-life",
+      "rankScore": 0.476429
+    },
+    {
+      "id": "cc9378328d8175b6",
+      "title": "学校完成来华留学生高等教育质量评估暨质量认证现场审查工作",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQa3NJUTItOXBKWENGUldkb2w5dkt1VmtuaXRwUWR4MWNwLWhPWjJxcFcyS2dGYms4VlBKcHBzNFU0OFdrNmdUa3VQTVdma1hndXNIakFSUGQ0dmpIZW10NmdTcVk5REk2TnF3Y3VDbVNTMFV4V3R3?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-24T14:11:11.000Z",
+      "excerpt": "学校完成来华留学生高等教育质量评估暨质量认证现场审查工作 中国农业大学新闻网",
+      "section": "cn-life",
+      "rankScore": 0.414701
+    },
+    {
+      "id": "a442fb9402817224",
+      "title": "子宫内膜癌年轻化10年倍升！32岁新婚妇月经乱确诊 附症状与预防",
+      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOcUNwVVltNmtMTDU0VDFYVVFVNlljYURuYjRRODFTN1ZERjNhYkhXaWVqWVhpWmhUanFyUjB6N2oyci0xOTQ3SURaa19VVm0xSGJkQ0Q3OEF4NFJvX1N6Nmo3UWNnRXhfM2dud0FjZS1SblZRZTV3NWlJd1JIY1RmQkRUbTZ4TEtDdmJQVzFQYWNNd0VOTnpFenRhR2draldhTFhoQUxVZTJBWktrY2tsYVNEbHdXc3hYanYtN2syNkhkQjBQUzQ1X3FzVGFuNGhWOU5sUmdGZThaZ3hyU0M3ZHY5QnVvelRsR2VMS1dMSk9VQUpLdURZYnljcWdhTVVmYlRBYmJCUXZCdG4wcGVWdnVCRldFakdXcDJXbkNPa2JoM0M0ZnJJQ05nVTdQTVA0cWNIZzlycmFxaGZFMWZEQ1FHS0tYM1lQMFROZlo2c0NTZ1BrN0pzZWxqc3RSVGQ0RkdHUk9EOVBKTlFMQlN1UEJwb2hsY3hid2dFN1BiYUFNczdESTlBY3NYdTZrTXJVbUFjYmNKaVVIVHlxMGI3VTVteW14VlU?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-24T09:40:00.000Z",
+      "excerpt": "子宫内膜癌年轻化10年倍升！32岁新婚妇月经乱确诊 附症状与预防 香港01",
+      "section": "cn-life",
+      "rankScore": 0.38647
+    },
+    {
+      "id": "c3f2eda90aa78e2f",
+      "title": "2027硕士统考报名10月24日截止， 考生需重点关注这些事项2026-10-24",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0VVZ2dpRjVPSlhZUzlyTzhxUGFweWZ4OUY3Ml9BTlBQcVNjTnEwV3pqMWc2VG44OUVXWHlKR0NfQ1BOYlpvMXh1aVh4YV9jdV9sWGZRTmtWQ0JVS1BHNGM4cUpQbUFWS1Z6ajZBaXpHRGp6UGFNamJnYndRX2lLZEZvNGJZZVQ5X0E?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-24T04:04:41.000Z",
+      "excerpt": "2027硕士统考报名10月24日截止， 考生需重点关注这些事项2026-10-24 上海市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.304114
+    },
+    {
+      "id": "e18aee1ad7de110e",
+      "title": "“炼金术”成真 美国一公司宣布成功将汞转化成黄金",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Gd0ZaY3R5R2lteld4c0t0WUtMY09oTGZWbE02cVYwNXd2ZHBCRmIwSnVOcjByS1kyaGJiVWJwb3hSRnY2MDRXSnpuZ2U2Qy1PYy16R3hmbF8?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-24T01:37:00.000Z",
+      "excerpt": "“炼金术”成真 美国一公司宣布成功将汞转化成黄金 驱动之家",
+      "section": "cn-life",
+      "rankScore": 0.152204
+    }
+  ],
+  "warnings": []
+}
