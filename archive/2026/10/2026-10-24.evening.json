@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-24",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-24T15:52:32.366Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "9c3d502b6b3d8b06",
+      "title": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-24T15:52:32.366Z",
+      "score": 1053,
+      "excerpt": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "ff1f6712a2968bae",
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-24T13:09:28.000Z",
+      "score": 289,
+      "author": "sblank",
+      "excerpt": "289 points · 313 comments · https://news.ycombinator.com/item?id=50220913",
+      "section": "tech",
+      "rankScore": 0.849673
+    },
+    {
+      "id": "2a9831b38103acc2",
+      "title": "EP230: RAG vs Agentic RAG",
+      "url": "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-24T15:30:37.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Here's how RAG and agentic RAG typically work.",
+      "section": "tech",
+      "rankScore": 0.758517
+    },
+    {
+      "id": "9336d4e4b583fd9f",
+      "title": "How to run a city builder on 16 MHz",
+      "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-24T14:18:48.000Z",
+      "author": "larstofus.com via Yogthos",
+      "section": "tech",
+      "rankScore": 0.638978
+    },
+    {
+      "id": "69052380a7c4b06c",
+      "title": "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM",
+      "url": "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-24T08:34:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "Google has made Data Agent Kit generally available, a free set of MCP tools and 37 open-source skills that connect coding agents to more than fifteen Google Data Cloud services.",
+      "section": "tech",
+      "rankScore": 0.52801
+    },
+    {
+      "id": "08489574c5772c3e",
+      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+      "source": "verge",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "author": "Sheena Vasani",
+      "excerpt": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st.",
+      "section": "tech",
+      "rankScore": 0.472487
+    },
+    {
+      "id": "5045b09939c9e408",
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "url": "https://latent.space/p/ainews-kimi-31/",
+      "source": "latent-space",
+      "publishedAt": "2026-10-24T07:18:29.000Z",
+      "author": "swyx .ai",
+      "excerpt": "We have Fable at home... or so we are being told by paid shills",
+      "section": "ai",
+      "rankScore": 0.500733
+    },
+    {
+      "id": "c3d5bfd55433b3ee",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-24T03:59:57.000Z",
+      "excerpt": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket…",
+      "section": "ai",
+      "rankScore": 0.432806
+    },
+    {
+      "id": "2f5916e382534f83",
+      "title": "一种远古病毒可能阻碍黑猩猩演化出与人类相似的大脑",
+      "url": "https://www.solidot.org/story?sid=85702",
+      "source": "solidot",
+      "publishedAt": "2026-10-24T14:30:32.000Z",
+      "excerpt": "人类与黑猩猩虽然差异巨大，但在与共同祖先分化并各自演化了约 500-600 万年后，双方只有 1.2% 的 DNA 不同。而一种远古病毒可能在其中扮演了重要角色，阻碍黑猩猩演化出与人类相似的大脑。大约 400 万年前，逆转录病毒 PTERV1 (Pan troglodytes endogenous retrovirus-1) 感染了黑猩猩但没有感染人类，它对黑猩猩的 DNA 进行了细微的改动，导致黑猩猩的大脑发育方式与人类出现重大差异。",
+      "section": "cn-tech",
+      "rankScore": 0.727044
+    },
+    {
+      "id": "ea33507de887f239",
+      "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
+      "url": "https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-24T13:00:00.000Z",
+      "author": "作者：Daniel Curtis",
+      "section": "cn-tech",
+      "rankScore": 0.617838
+    },
+    {
+      "id": "f876ff058af05953",
+      "title": "为什么突然出现那么多类 ARC 浏览器",
+      "url": "https://www.v2ex.com/t/1251519",
+      "source": "v2ex",
+      "publishedAt": "2026-10-24T09:57:42.000Z",
+      "score": 12,
+      "author": "oriver",
+      "excerpt": "功能差不多，我知道的就五六个 是 ai 逆向一切在起作用吗？",
+      "section": "cn-tech",
+      "rankScore": 0.585926
+    },
+    {
+      "id": "623d3e2ce66d004e",
+      "title": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题",
+      "url": "https://www.36kr.com/p/4039749830120583",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-24T10:50:23.000Z",
+      "author": "咏仪",
+      "excerpt": "文｜邓咏仪 编辑｜张雨忻 近一个月，包括Muse、Instinct在内的Personal AI产品引起全球轰动，成为最受关注的AI创业赛道。其中，Muse上线22天就突破500万次下载——ChatGPT当年花了56天才达到这一数字——难得地为AI应用赛道争了一口气。 一家AI公司Today AI也许比Muse探索得更早。 创始人齐俊元曾创办Teambition，之后在阿里、字节等大厂负责过各类产品。今年初组建团队后，Today AI自9月9日起陆续上线了国际版和国内版本。 用一句话概括，Today希望做的是用户的“私人助理”。",
+      "section": "cn-tech",
+      "rankScore": 0.500505
+    },
+    {
+      "id": "f201d6583c97e252",
+      "title": "AI 编程返工的根因是上下文丢失，三份文档加小步提交的可复制解法导语用AI 写代码最典型的失败模式不是「写不出来」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02ZlItTXE2VzUweWhCNkx1czJEMGJfeDgzU0hpU0h5dFI2UGJ1RDBMZnNNM1AxQ0dfVm9pMkNsS01fbmpWMzgtYklKQkllTVZYeExFMg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-24T12:33:11.000Z",
+      "excerpt": "AI 编程返工的根因是上下文丢失，三份文档加小步提交的可复制解法导语用AI 写代码最典型的失败模式不是「写不出来」 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.423548
+    },
+    {
+      "id": "eafcb9cc01b25f6b",
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-24T11:09:29.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.",
+      "section": "security",
+      "rankScore": 0.565211
+    },
+    {
+      "id": "78103975f6a92b9a",
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-24T11:03:33.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.",
+      "section": "security",
+      "rankScore": 0.562386
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 54 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
