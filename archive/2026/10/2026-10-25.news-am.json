@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-25",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-25T00:29:59.983Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "77f89dd49120cb3a",
+      "title": "金正恩过鸭绿江为何转了一圈就返回了",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261024-%E9%87%91%E6%AD%A3%E6%81%A9%E8%BF%87%E9%B8%AD%E7%BB%BF%E6%B1%9F%E4%B8%BA%E4%BD%95%E8%BD%AC%E4%BA%86%E4%B8%80%E5%9C%88%E5%B0%B1%E8%BF%94%E5%9B%9E%E4%BA%86",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-24T21:45:44.000Z",
+      "author": "安德烈",
+      "excerpt": "朝鲜领导人金正恩的专列周六驶过闲置了十几年的中朝新鸭绿江大桥，来到彼岸的中国城市丹东，访问仅持续几小时，金正恩又返回了。没有去北京，没有见习近平，原因不明。",
+      "section": "news",
+      "rankScore": 0.65437
+    },
+    {
+      "id": "7ebb4c5b7b85edf0",
+      "title": "访问普京后：德国前总理施罗德现身中国全球治理论坛",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261024-%E8%AE%BF%E9%97%AE%E6%99%AE%E4%BA%AC%E5%90%8E-%E5%BE%B7%E5%9B%BD%E5%89%8D%E6%80%BB%E7%90%86%E6%96%BD%E7%BD%97%E5%BE%B7%E7%8E%B0%E8%BA%AB%E4%B8%AD%E5%9B%BD%E5%85%A8%E7%90%83%E6%B2%BB%E7%90%86%E8%AE%BA%E5%9D%9B",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-24T21:37:56.000Z",
+      "author": "柏林特约记者 丹兰",
+      "excerpt": "德国前总理、社民党（SPD）政治人物格哈德·施罗德出席了中国全球治理论坛（Global Governance Forum）的开幕式，引发德国多份媒体惊讶。德国《明镜》周刊、《图片报》等都做了报道。",
+      "section": "news",
+      "rankScore": 0.652204
+    },
+    {
+      "id": "df40b9b825bac8b9",
+      "title": "中方敦促美国停止扩大对华投资限制",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261024-%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E7%BE%8E%E5%9B%BD%E5%81%9C%E6%AD%A2%E6%89%A9%E5%A4%A7%E5%AF%B9%E5%8D%8E%E6%8A%95%E8%B5%84%E9%99%90%E5%88%B6",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-24T21:35:10.000Z",
+      "author": "安娜",
+      "excerpt": "中国商务部周六（10月24日）敦促美国停止扩大对华投资限制，称美方针对敏感技术提出的新规将扰乱双边经贸关系。",
+      "section": "news",
+      "rankScore": 0.651435
+    },
+    {
+      "id": "e6dfc17b0511853d",
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-24T22:08:47.000Z",
+      "excerpt": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+      "section": "news",
+      "rankScore": 0.594696
+    },
+    {
+      "id": "8ffee42d43098c54",
+      "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-25T00:14:30.000Z",
+      "author": "Joseph Gedeon in Detroit, Michigan",
+      "excerpt": "Former president speaks to crowd of thousands in support of Abdul El-Sayed for US Senate and Democratic ticket Barack Obama told a Detroit crowd on Saturday that Abdul El-Sayed was “fighting for change, real change, that will get money out of politics and put money in your pocket”, as he threw his…",
+      "section": "news",
+      "rankScore": 0.556556
+    },
+    {
+      "id": "b749ae1f31451a4e",
+      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+      "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-24T22:35:45.000Z",
+      "excerpt": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
+      "section": "news",
+      "rankScore": 0.534611
+    },
+    {
+      "id": "efba14690c685cae",
+      "title": "Violent Protests Resurface in Albania: What to Know",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-24T21:54:36.000Z",
+      "author": "Fatjona Mejdini and Lynsey Chutel",
+      "excerpt": "Thousands have marched in student demonstrations over education, the cost of living, and a project linked to Jared Kushner, President Trump’s son-in-law.",
+      "section": "news",
+      "rankScore": 0.525467
+    },
+    {
+      "id": "c20bd79323f97f55",
+      "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+      "url": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-24T23:39:51.000Z",
+      "author": "Tim Balk and Emily Davies",
+      "excerpt": "The 44th president appeared in Ohio on Saturday, kicking off a two-state swing with a rebuke of President Trump and Vivek Ramaswamy, the Republican nominee for governor.",
+      "section": "news",
+      "rankScore": 0.480249
+    },
+    {
+      "id": "a03230fd7097ed20",
+      "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
+      "source": "npr-news",
+      "publishedAt": "2026-10-24T22:47:58.000Z",
+      "author": "Chandelis Duster",
+      "excerpt": "The 1,300 survivors of sexual abuse by clergy members and lay workers have all agreed to the settlement, according to an attorney for some of the plaintiffs.",
+      "section": "news",
+      "rankScore": 0.47016
+    },
+    {
+      "id": "7f1defd521ea34eb",
+      "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+      "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-24T19:19:48.000Z",
+      "excerpt": "Critics say prime minister’s proposal would turn country into an economic pariah",
+      "section": "news",
+      "rankScore": 0.429683
+    },
+    {
+      "id": "e0c797f7b5618110",
+      "title": "伊朗总统指责美国未能与伊朗达成协议",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IQkxJVTFLM0RBLWstUmNWa1hZVE45eGhDZDlqcEg4X3lhVU9wZGVrLW1lUi1ELXVxaVRSblhLYzdJN0dCVjQxWEhBNEdNZUM1?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-25T00:11:39.000Z",
+      "excerpt": "伊朗总统指责美国未能与伊朗达成协议 第一财经",
+      "section": "news",
+      "rankScore": 0.416942
+    },
+    {
+      "id": "1eefaf9c48e8e905",
+      "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "excerpt": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
+      "section": "news",
+      "rankScore": 0.295
+    },
+    {
+      "id": "a0e3dbf1b5480945",
+      "title": "被流量“选中”的打馕“阿达西”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pX0RydTNCMmdmdDE4aFVuWTRaOHJpVHFkR0NhNVRxRkNmc1kxME5nUVlhNGhvVlBVRDFOUDBTYmdqdFRDeGhjbUp4SHZOT3JUdnlJdmtyRXRGUXNqdzB1RA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-24T23:34:00.000Z",
+      "excerpt": "被流量“选中”的打馕“阿达西”",
+      "section": "cn-news",
+      "rankScore": 0.616
+    },
+    {
+      "id": "63430a07ffd61708",
+      "title": "2027国考报名截止，多职位数千人竞争一岗",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720536.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-24T16:01:14.000Z",
+      "excerpt": "中新网北京10月25日电(记者 李京统)10月24日是2027年国考报名最后一天，报名热度持续攀升，热门岗位竞争超6000：1。",
+      "section": "cn-news",
+      "rankScore": 0.614544
+    },
+    {
+      "id": "467c7f39d226cb44",
+      "title": "也门胡塞武装：沙特空袭萨那和穆哈造成多人伤亡",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsV0lUUEloR0g4NlFfcFloUExVd08xNnJIM29UUXVUcWQ0aHQ3aTBtMC1OaVMxYUl6RHh3eUFma0ktc2RfMXc5QWFqTnBlMGlmVGUxbl9R?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-24T20:04:15.000Z",
+      "excerpt": "也门胡塞武装：沙特空袭萨那和穆哈造成多人伤亡 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.563563
+    },
+    {
+      "id": "e77c51dec39086c9",
+      "title": "有序推进深化扫黑除恶专项斗争走深走实 用实实在在的成效回应人民群众期待",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14RDBISlNoRkwyaTJGUjRNZ3lMUy1vamVlb09Jc3ZfakZVbGFNTUhKRklQNWxROWxaektLX1pZSC15Nm1PQVNLVXlsaUNOYWN2Ti1wU3VrWUd6RDRIOGRrME9mUlYzMVRkdWNSTGVmSQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-24T22:03:00.000Z",
+      "excerpt": "有序推进深化扫黑除恶专项斗争走深走实 用实实在在的成效回应人民群众期待 人民网 陈文清主持召开专题会议时强调 有序推进深化扫黑除恶专项斗争走深走实 用实实在在的成效回应人民群众期待 手机新浪网 尚志市公安局集中开展扫黑除恶宣传活动 搜狐网 正阳县人民检察院：扫黑除恶进乡村 检察宣讲护平安 中国日报网 深化扫黑除恶在行动丨闽清县司法局开展扫黑除恶专项宣传活动 东南网",
+      "section": "cn-news",
+      "rankScore": 0.527333
+    },
+    {
+      "id": "81ec38a69d433328",
+      "title": "云南省委主要负责同志职务调整 莫高义任云南省委书记",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720374.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-24T08:44:16.000Z",
+      "excerpt": "新华社北京10月24日电 日前，中共中央决定：莫高义同志任云南省委委员、常委、书记，王宁同志不再担任云南省委书记、常委、委员职务。",
+      "section": "cn-news",
+      "rankScore": 0.524756
+    },
+    {
+      "id": "6f2f8356a58bb763",
+      "title": "China’s next generation of leaders waiting in the wings for more senior roles",
+      "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-24T22:00:28.000Z",
+      "author": "William Zheng",
+      "excerpt": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the fourth part of this series, William Zheng looks at how the next generation of the party is being formed.",
+      "section": "cn-news",
+      "rankScore": 0.460924
+    },
+    {
+      "id": "eb5a048c034a1284",
+      "title": "豪华智造，礼遇世界！第二代腾势D9首发车队浩荡启程服务APEC",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720493.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-24T13:02:00.000Z",
+      "excerpt": "10月22日，深圳腾势总部礼宾楼外场，一场象征着中国豪华新能源品牌迈向世界舞台的盛典——“深圳腾飞中国腾势”APEC官方指定用车首批发车仪式隆重举行。",
+      "section": "cn-news",
+      "rankScore": 0.458
+    },
+    {
+      "id": "124281192e5cf452",
+      "title": "中共五中全會在即 分析：習近平進一步鞏固權威",
+      "url": "https://www.cna.com.tw/news/acn/202610240209.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-24T14:28:50.000Z",
+      "excerpt": "（中央社台北24日電）中共五中全會將於26至29日召開。分析認為，五中全會預料不會出現重大人事變動，但中共總書記習近平將藉此機會進一步鞏固權威、推動黨內系統性變革。",
+      "section": "cn-news",
+      "rankScore": 0.426407
+    },
+    {
+      "id": "38b169e52a509aca",
+      "title": "苏超·纵览｜半决赛热血激荡，无锡常州挺进决赛",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LWWJ1ZG5EbHNQVmNLY3BJS2ktMERUMy1DNktNQ092TDZMdVRpd0hLNl91VGhnMG96MUx5cXp4SzdjVUk1MkFXWGtXS2w3dk9LTHVCV21EakJaWHRYLWZWRS1peldqckts?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-24T23:47:00.000Z",
+      "excerpt": "苏超·纵览｜半决赛热血激荡，无锡常州挺进决赛 紫牛新闻 2026“苏超”决赛对阵出炉：无锡队淘汰上届冠军 常州队零封晋级 央视网 今年“苏超”谁最强：上届倒数第二的常州杀进决赛，将与无锡争冠 ThePaper.cn 今夜，泰州队，我们不说再见！ 搜狐网 江苏联：常州总比分3-0盐城晋级，高飞双响，李霄鹏建功 虎扑",
+      "section": "cn-news",
+      "rankScore": 0.412833
+    },
+    {
+      "id": "4bf3218f09a53a38",
+      "title": "外商组团来华强北扫货，欧美购物季华强北爆单",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NcDdOdHpHTENlX3NERXFDTXpjWHdGaUY4OFAtd2FPWHNCTXBWaWhDNWVQczkxNVlvT3h2TWVpMjBHdVZjRm1yY2QzMnhXbW12NnJ5S0hBd1pGTzJEVUJlMThkSWJxUQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-24T14:10:30.000Z",
+      "excerpt": "外商组团来华强北扫货，欧美购物季华强北爆单 东方财富 贵州94家企业亮相广交会 新浪财经 第140届广交会二期开展！近64万件绿色低碳产品亮相 上海热线 我和广交会 | “广交会给企业插上了腾飞的翅膀” 央视网 从“China Haul”到“China Trade”：广交会折射中国外贸实力与活力 中国青年网",
+      "section": "cn-news",
+      "rankScore": 0.369542
+    },
+    {
+      "id": "a986e01f5a82f4e3",
+      "title": "“蔷琵”转向北上！秋台风三问",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU1lHQmk3M1dMcmJPNGttSHlMRUcyaTdyVlR3WDF5ZG9KVGZlNy10cFdQeFByakx0b05kTW53NFNCdlNIR3pYMV9JbkstUVUtbFFJUVRhRENQX3dpNURJODFJM0w1cFItNHdEOTdoaXlIWE5pZDV4ZThaM0FDZVFza2JjZG9WbXprV1pV?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-25T00:17:52.000Z",
+      "excerpt": "“蔷琵”转向北上！秋台风三问 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.626967
+    },
+    {
+      "id": "ffc2fb4f913b0bcd",
+      "title": "危房焕新筑安居 民生兜底暖彭城——徐州扎实推进低收入农户危房改造工作",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WVGhNQXRXZ1pMa2lqeDFBRFYxQmJiTHN6Q3o4UFlRV0h3UzFPUC04WW54Y05YNDR5UFJyZlpubC1lYWZ2OUx4UGREMXFjVW1Va1ROR1VmZUdBbzNrWFlTUXIzU0JucS1R?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-25T00:08:00.000Z",
+      "excerpt": "危房焕新筑安居 民生兜底暖彭城——徐州扎实推进低收入农户危房改造工作 紫牛新闻",
+      "section": "cn-life",
+      "rankScore": 0.6245
+    },
+    {
+      "id": "d4d02eb3cb5e7de4",
+      "title": "中央气象台发布台风蓝色预警：今天至明天，渤海、黄海、东海大部、台湾海峡、江苏沿海、浙江北部沿海将有6-8级大风、阵风9-10级",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5MlJJUHdZNXkzNV9IaDR3aC04LWJxeHp4aVY1YkVNc0dIUDY4bU9nM0pkcmVSdW9iOHE2RTNzQm5Hb0FLbHc5eWpxaU44LUFlT3NaT0ZHM1NwNnhESFU2Tm9vOTFLcElweVdSUVo3cXdLM20zR1E?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-24T23:40:11.000Z",
+      "excerpt": "中央气象台发布台风蓝色预警：今天至明天，渤海、黄海、东海大部、台湾海峡、江苏沿海、浙江北部沿海将有6-8级大风、阵风9-10级 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.617546
+    },
+    {
+      "id": "2b4caf600899c60a",
+      "title": "一团炉火、一碗饺子、一份守护——巴青震中见闻",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-24/10720486.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-24T13:09:22.000Z",
+      "excerpt": "巴青震中，平均海拔接近4800米。高原旷野里，远处山峰覆盖着薄薄的积雪，风吹过，涌起刺骨寒意。",
+      "section": "cn-life",
+      "rankScore": 0.613122
+    },
+    {
+      "id": "f79b5dc659c2adf8",
+      "title": "林涛、秦海翔同志任职",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHemNQWlBva05UdVBqS1ByV2VObWFEM01saldHOUY0d29IbWFzcVlsV1dlSmptOGdMeE02TEc5NEgyWXFQcUVSdFNFcXBLaVBxZ0h0ZjhFcWhhaTEwMGFtaFBOTDBQRFNMaFNsRDJqb284Zw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-24T23:54:00.000Z",
+      "excerpt": "林涛、秦海翔同志任职 福建省人民政府",
+      "section": "cn-life",
+      "rankScore": 0.552
+    },
+    {
+      "id": "7bcbd9150637843e",
+      "title": "欧洲蝙蝠宿主生活史特征驱动病毒感染频率：基于155项研究的系统综述与系统发育比较分析",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Kd2M0N2ZHcWpBVEc0LXlRT19xM2Z4OEI5TlY3YXlIT2EyalRGUDlwTlRhVm5WT2N6MUhpc3MxYWswU252aXRfV3VSRDFxaENRZ195dXcxSFFIdEpwS2F3c1QzRkZRbWVkYjV4Umtn?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-24T23:55:35.000Z",
+      "excerpt": "欧洲蝙蝠宿主生活史特征驱动病毒感染频率：基于155项研究的系统综述与系统发育比较分析 生物通",
+      "section": "cn-life",
+      "rankScore": 0.483308
+    },
+    {
+      "id": "7b77284fb6166523",
+      "title": "讴歌TLX与AMG GT召回：召回车过户前的处理流程",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zWVFzS0tfVDJ3VmxGeVJKT0JUb2FMdUNIRDZnYW1hTncyeG1TWVY3Y3N1V2JVcXhwN3hSS1RwS3dBM0FIZkNYQkFxRnZsb3JuWVB1MVlOU1VkTE5VMHlxLUdMY1pjQkpPanlr?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-24T23:43:42.000Z",
+      "excerpt": "讴歌TLX与AMG GT召回：召回车过户前的处理流程 汽车之家",
+      "section": "cn-life",
+      "rankScore": 0.480997
+    },
+    {
+      "id": "50a681bbcfca74be",
+      "title": "家庭内部教育相关多基因评分与青少年外化及内化心理健康问题的关联研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUczA1VmYzM3k3akczVmoxN0gwY2hEc0JhU1ZOczRTOHlaeTl2ak9XM2hCOUVmZC0ybFNneDdmN3doMVRMX3huc2hVdFYzYjNYWXJRV050RW01d0RQMVVGWGRWSnhwdFFUSUl4cTZR?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-25T00:18:03.000Z",
+      "excerpt": "家庭内部教育相关多基因评分与青少年外化及内化心理健康问题的关联研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.418008
+    }
+  ],
+  "warnings": []
+}
