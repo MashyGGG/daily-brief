@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-25",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-25T16:09:45.898Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 12,
+  "items": [
+    {
+      "id": "289f2a8396fc3b00",
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-25T16:09:45.898Z",
+      "score": 1359,
+      "excerpt": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "d4d98310c7020545",
+      "title": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-25T16:09:45.898Z",
+      "score": 677,
+      "excerpt": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "section": "tech",
+      "rankScore": 0.984
+    },
+    {
+      "id": "86dd56f654dd1b86",
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "source": "hn-front",
+      "publishedAt": "2026-10-25T09:00:40.000Z",
+      "score": 442,
+      "author": "vrganj",
+      "excerpt": "442 points · 300 comments · https://news.ycombinator.com/item?id=50229587",
+      "section": "tech",
+      "rankScore": 0.903372
+    },
+    {
+      "id": "2447f6a6d1ee92ec",
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "source": "hn-front",
+      "publishedAt": "2026-10-25T10:42:01.000Z",
+      "score": 242,
+      "author": "mashally",
+      "excerpt": "242 points · 147 comments · https://news.ycombinator.com/item?id=50230181",
+      "section": "tech",
+      "rankScore": 0.85843
+    },
+    {
+      "id": "2d27b3ac08e5c6ba",
+      "title": "When a glibc update accidentally breaks Chromium's audio (2021)",
+      "url": "https://refi64.dev/posts/chromium-audio-break.html",
+      "source": "lobsters",
+      "publishedAt": "2026-10-25T15:34:21.000Z",
+      "author": "refi64.dev via seb",
+      "section": "tech",
+      "rankScore": 0.666057
+    },
+    {
+      "id": "66187595ba246c0a",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "verge",
+      "publishedAt": "2026-10-25T13:25:32.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource.",
+      "section": "tech",
+      "rankScore": 0.435256
+    },
+    {
+      "id": "badca334cb8109f8",
+      "title": "深水地平线漏油事件 16 年后海洋仍未恢复",
+      "url": "https://www.solidot.org/story?sid=85705",
+      "source": "solidot",
+      "publishedAt": "2026-10-25T15:22:33.000Z",
+      "excerpt": "2010 年英国石油公司的深水地平线（Deepwater Horizon）深海钻油平台发生井喷并爆炸，引发了史上规模最大的石油泄漏事故。在封堵油井的 87 天内，有约 1.34 亿加仑原油和 77 亿标准立方英尺的天然气泄漏到墨西哥湾。16 年后，墨西哥湾的深海生态系统仍未从灾难中恢复。研究人员在 2011 年，2015-2023 年收集了样本，发现深海中上层物种的数量急剧下降。数据显示，鱼类数量下降了 63.5%，甲壳类动物下降了 62%，头足类动物（主要指鱿鱼）下降了 59.7%。小型鱼类磷虾数量下降了 72.8%，灯笼鱼下降了 62.9%，圆罩鱼下降了 69%。",
+      "section": "cn-tech",
+      "rankScore": 0.745268
+    },
+    {
+      "id": "dd580b6903248fd0",
+      "title": "我做了一个我自认为全世界最好的雅思背词网站，完全免费，完全开源。🔥🔥🔥🔥🔥",
+      "url": "https://www.v2ex.com/t/1251691",
+      "source": "v2ex",
+      "publishedAt": "2026-10-25T12:58:16.000Z",
+      "score": 7,
+      "author": "gheiisiei",
+      "excerpt": "我做了一个我自认为全世界最好的雅思背词网站，完全免费，完全开源。🔥🔥🔥🔥🔥 7,298 个雅思词，每个词一幅原创插画，英音、美音、例句全都有接近真人的配音。学会一个词，你的词汇星图上就点亮一颗星。 完全免费！！不用注册，打开就能背，代码和词库大家随便用。 希望每个人都能考过雅思。学会英语，去接触更广阔的天地，获取更多的知识。 👉 http://0xlei.tech/words 开源： http://github.com/designfuchen/word-atlas",
+      "section": "cn-tech",
+      "rankScore": 0.716679
+    },
+    {
+      "id": "373862476d0b7b96",
+      "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
+      "url": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-25T10:30:00.000Z",
+      "author": "蔡芳芳",
+      "section": "cn-tech",
+      "rankScore": 0.538207
+    },
+    {
+      "id": "442bd2b24bdef54d",
+      "title": "Codex 额度用完干着急？这个小页面帮你瞄一眼「大概啥时候恢复」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JT3J2NWhmUndlNHhsNnRrZUYyeWVtMUVIU2J2clFOQWQ1VXc4QkE4WF9JQS14aHhWZ185cWtlU09GQ3Noa2NONHFsZElaY1EtRVNPdQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-25T14:35:13.000Z",
+      "excerpt": "Codex 额度用完干着急？这个小页面帮你瞄一眼「大概啥时候恢复」 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.458484
+    },
+    {
+      "id": "3742abff47585431",
+      "title": "丈母娘也开始抢AI人了",
+      "url": "https://www.36kr.com/p/4041032701481861",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-25T09:06:39.000Z",
+      "excerpt": "最近，OpenAI连员工的桃花运都操心上了。 据报道，OpenAI在反间谍培训中提醒员工，外部人员可能用恋爱或性关系作诱饵，接近他们，获取公司机密。也就是俗称的“美人计”。 你以为对方对你有意思，对方可能对你公司的机密更有意思。有人将此事总结为“OpenAI提醒员工别忘了自己又丑又无趣”。 这个信息放在现在的硅谷着实有点微妙。 其实有人一听你在OpenAI上班，就想认识你，这事放到今天的婚恋市场，还真算不上离奇。这也许也是为什么以“美人计”接近OpenAI员工可以奏效——确实很常见啊。 在湾区婚介眼里，OpenAI和Anthropic的员工，已经排进了择偶的“第一梯队”。",
+      "section": "cn-tech",
+      "rankScore": 0.448665
+    },
+    {
+      "id": "f897130c154b6b21",
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-25T06:54:29.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.",
+      "section": "security",
+      "rankScore": 0.43558
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 55 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
