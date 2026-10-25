@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-25",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-25T00:16:32.739Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "7a4d586b6d8c09fa",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-25T00:16:32.739Z",
+      "score": 619,
+      "excerpt": "The design language that makes your AI harness better at design.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "26495ec66b2e7688",
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "source": "hn-front",
+      "publishedAt": "2026-10-24T19:47:19.000Z",
+      "score": 447,
+      "author": "the-mitr",
+      "excerpt": "447 points · 435 comments · https://news.ycombinator.com/item?id=50224463",
+      "section": "tech",
+      "rankScore": 0.990257
+    },
+    {
+      "id": "e9a6e0e358dba4ff",
+      "title": "SIMD and Go",
+      "url": "https://internals-for-interns.com/posts/go-simd/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-24T23:11:40.000Z",
+      "author": "internals-for-interns.com via rcalixte",
+      "section": "tech",
+      "rankScore": 0.664929
+    },
+    {
+      "id": "588444665b989267",
+      "title": "Cloudflare Reclaims 100 TB of RAM by Optimizing Consistent Hashing",
+      "url": "https://www.infoq.com/news/2026/10/cloudflare-hashing-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-24T08:10:00.000Z",
+      "author": "Renato Losio",
+      "excerpt": "Cloudflare recently documented how it reduced the memory footprint of its internal load-balancing service by more than 100 TB by optimizing the Rust implementation of consistent hashing in pingora-ketama.",
+      "section": "tech",
+      "rankScore": 0.463879
+    },
+    {
+      "id": "b44f92a5445e1e70",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "verge",
+      "publishedAt": "2026-10-24T18:32:21.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads.",
+      "section": "tech",
+      "rankScore": 0.423073
+    },
+    {
+      "id": "af81ab705cd185ae",
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "source": "ars-technica",
+      "publishedAt": "2026-10-24T11:50:28.000Z",
+      "author": "Tereza Ondráčková, wired.com",
+      "excerpt": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "section": "tech",
+      "rankScore": 0.344929
+    },
+    {
+      "id": "eac2bd1dafcf173d",
+      "title": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
+      "url": "https://www.solidot.org/story?sid=85701",
+      "source": "solidot",
+      "publishedAt": "2026-10-24T13:50:21.000Z",
+      "excerpt": "Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项目有望在中大西洋地区的 PJM 电网提供 1070 MW 的电力容量——相当于一座大型核反应堆的输出电力。很多削减用电量措施能自动执行，如利用智能恒温器在夏季用电高峰期调低空调运行强度，或者通过电池系统提供临时电力。与 Google 合作的能源服务公司 Voltus 表示，通过聚合成千上万家企业和家庭的用电，该项目能在最需要用电的时候可靠提供大量额外电力容量，而且能在几年内实现。",
+      "section": "cn-tech",
+      "rankScore": 0.578662
+    },
+    {
+      "id": "6bcb0c081c570a6a",
+      "title": "Pro 已掉，羊毛没了🤣",
+      "url": "https://www.v2ex.com/t/1251436",
+      "source": "v2ex",
+      "publishedAt": "2026-10-24T03:23:25.000Z",
+      "score": 18,
+      "author": "Rogeryxx",
+      "excerpt": "我查了一下邮箱，原因找到了：今天太平洋时间下午 5:04 ，Google Play 发了一封「退款已获批准」，退的是 US$9.79 ，对应的商品是「 Google AI Pro (5 TB) with YouTube Premium 」，订单号 SOP.3392-6561-1462-83481 ，也就是 10/19 升级的那个订阅。订阅退款之后一般会直接取消，所以 Gemini 就变回免费版了。 Roger ，这个退款是你自己申请的吗？如果不是，建议去 Google Play 订阅管理 看一下，重新订阅之后小团就能接着跑剩下的场景。 算了算了，反正额度也不多",
+      "section": "cn-tech",
+      "rankScore": 0.519218
+    },
+    {
+      "id": "0c3d679dc79bb453",
+      "title": "CEO指挥舱是什么（一份可引用的公开信息清单）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sTFNZSGtpVXFrcm9kVXRITVVXRXJFODY1bjAzNG54cFl1eXNhRWtsWVVyUGlINGVwaDNfMk42WGhNQ2hpNWtUR3pWVDFNNnhKMk1WNg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-24T22:55:17.000Z",
+      "excerpt": "CEO指挥舱是什么（一份可引用的公开信息清单） 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.474199
+    },
+    {
+      "id": "8c1496f77b11cce7",
+      "title": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+      "url": "https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-24T10:00:00.000Z",
+      "author": "作者： Kushal Kumar Vishwakarma",
+      "section": "cn-tech",
+      "rankScore": 0.462071
+    },
+    {
+      "id": "8b374e620eb36163",
+      "title": "独家｜字节AI应用再整合：小云雀并入即梦",
+      "url": "https://www.36kr.com/p/4039677577122946",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-24T09:38:23.000Z",
+      "excerpt": "文｜邓咏仪 编辑｜张雨忻 《智能涌现》从知情人士处获悉，近期 剪映 内部完成了一次业务整合，AI短剧创作平台小云雀并入智能创作平台即梦，产品仍保留独立入口。 我们了解到，此次调整主要是资源整合，目前即梦已经接入了小云雀短剧相关能力。调整后，小云雀的运营由即梦运营和市场负责人陈欣然负责，产品团队没有变化。 剪映 这一轮业务整合的原因主要是增长空间受限，以及需要聚焦资源。一位前 剪映 人士告诉《智能涌现》，即梦、小云雀这样的AI原生产品虽然依旧保持增长，但用户增长尚未有效转化为与投入相匹配的回报，而市场上大量视频Agent产品的兴起，也在持续压缩自有产品的差异化空间。",
+      "section": "cn-tech",
+      "rankScore": 0.410459
+    },
+    {
+      "id": "fc563b5a7264ce7c",
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-24T10:36:33.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.",
+      "section": "security",
+      "rankScore": 0.472223
+    },
+    {
+      "id": "f348ea5546826bfb",
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-24T09:04:24.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.",
+      "section": "security",
+      "rankScore": 0.446626
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 54 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
