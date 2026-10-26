@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-26",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-26T18:39:38.857Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "a62a1e8f92b544aa",
+      "title": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-26T18:39:38.857Z",
+      "score": 723,
+      "excerpt": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "cfb28263efa5a74d",
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "source": "hn-front",
+      "publishedAt": "2026-10-26T13:04:50.000Z",
+      "score": 1153,
+      "author": "SiNTEx",
+      "excerpt": "1153 points · 1067 comments · https://news.ycombinator.com/item?id=50242939",
+      "section": "tech",
+      "rankScore": 0.978678
+    },
+    {
+      "id": "14f8656a03f0e472",
+      "title": "Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive",
+      "url": "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-26T18:39:38.857Z",
+      "excerpt": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "7d35b9564fc8ce97",
+      "title": "A Deep Dive into Salesforce’s Agent Tech Stack",
+      "url": "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-26T15:30:38.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Salesforce moved to a new design, a multi-layer system that combines deterministic code with reasoning models for maximum reliability.",
+      "section": "tech",
+      "rankScore": 0.670993
+    },
+    {
+      "id": "ca8e84036f393f65",
+      "title": "Less Is More: From 1M Lines of Firmware to 300 of Assembly",
+      "url": "https://tinfoil.sh/blog/2026-10-25-less-is-more",
+      "source": "lobsters",
+      "publishedAt": "2026-10-26T17:56:24.000Z",
+      "author": "tinfoil.sh by lothan",
+      "section": "tech",
+      "rankScore": 0.662421
+    },
+    {
+      "id": "52253909cf8572e1",
+      "title": "Production AI and Engineering Team Design: InfoQ’s November Certification Cohorts",
+      "url": "https://www.infoq.com/news/2026/10/online-cohorts-nov-certification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-26T15:00:00.000Z",
+      "author": "Artenisa Chatziou",
+      "excerpt": "A preview of three November InfoQ online certification cohorts covering production AI systems, retrieval and agent design, engineering team flow, AI roles, and measurement, facilitated by Adi Polak, Lan Chu, and Olimpiu Pop. By Artenisa Chatziou",
+      "section": "tech",
+      "rankScore": 0.640061
+    },
+    {
+      "id": "4323e3f5fc0b2fd8",
+      "title": "Terra GPT-6.1 Terra A fast, efficient model for visual reasoning, precise computer use, and clear, natural writing.",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+      "source": "openai",
+      "publishedAt": "2026-10-26T18:39:38.857Z",
+      "section": "ai",
+      "rankScore": 0.875
+    },
+    {
+      "id": "c915ad475e06118c",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "google-ai",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "author": "Ronit Levavi Morad",
+      "excerpt": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "section": "ai",
+      "rankScore": 0.623977
+    },
+    {
+      "id": "69637c9b0655db36",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "openai",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "excerpt": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "section": "ai",
+      "rankScore": 0.565686
+    },
+    {
+      "id": "18b99c2c4c029bdf",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "openai",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "excerpt": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "section": "ai",
+      "rankScore": 0.458543
+    },
+    {
+      "id": "f8f781c1e686d0b0",
+      "title": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+      "url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-26T18:30:50.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.695803
+    },
+    {
+      "id": "82e27fa1b9e29128",
+      "title": "Macbook 维修导致硬盘数据丢失的可能性有多大？",
+      "url": "https://www.v2ex.com/t/1251989",
+      "source": "v2ex",
+      "publishedAt": "2026-10-26T09:43:47.000Z",
+      "score": 22,
+      "author": "zackkk",
+      "excerpt": "3 月入月的 macbook air m5 一次深度放电后，突然无论如何充电都无法启动的问题。 [表现] 接上 typec 或 MagSafe 充多久都不行。----充电默认 magsafe 灯不亮 但是：关盖，偶尔 magesafe 会变成橙色（线没有接触问题），开盖自动灭。 仍然无法开机，机身无温度，无任何亮灯的地方。 要命的是。 上月刚将几百 G 的重要视频从手机转移到电脑。 有家人极极极重要的视频。孩子 1 到 3 岁的视频。 [问] ： 如果去售后维修，你们碰到过数据丢失的情况吗？或有听过身边人的情况吗 （已知，如果拿去修就要签丢失也免责的协议) 或有别的建议吗？",
+      "section": "cn-tech",
+      "rankScore": 0.610344
+    },
+    {
+      "id": "9faf4b74829ddbd4",
+      "title": "科学家重现古罗马的分色玻璃",
+      "url": "https://www.solidot.org/story?sid=85713",
+      "source": "solidot",
+      "publishedAt": "2026-10-26T11:12:57.000Z",
+      "excerpt": "制作于公元四世纪的罗马玻璃笼子杯 Lycurgus Cup 会根据光源位置的不同而呈现不同的颜色，从前方照射呈绿色后方则呈红色。这一令人惊叹的光学工程成就数世纪以来令历史学家和玻璃工匠感到困惑。现在英国谢菲尔德大学的科学家成功复现了这一光学特性。研究人员将金和银纳米颗粒嵌入到玻璃，他们制备出高粘度熔融玻璃，当其自 1000 °C 以上的高温逐渐冷却时，金与银纳米晶体开始围绕其内部微粒结晶生长。当光线穿过玻璃时，其中的金银颗粒会阻挡蓝光和绿光，只让红光和橙光通过。而当光线从玻璃表面反射时，金银颗粒会产生散射效应，呈现出绿色。",
+      "section": "cn-tech",
+      "rankScore": 0.536016
+    },
+    {
+      "id": "c6ad68094e20c306",
+      "title": "AI教科书全错，底层公式惊天Bug曝光，Gemini率先自我修复",
+      "url": "https://www.36kr.com/p/4042646038139777",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-26T12:56:15.000Z",
+      "author": "新智元",
+      "excerpt": "各大AI框架都错了！ PyTorch错了，JAX错了。连教科书里的标准公式，也错了。 谷歌DeepMind的主任研究科学家 Jon Barron披露了这一重磅炸弹！ 本周，Google DeepMind 展示了一个问题：在 PyTorch、JAX 以及各类教科书中，该算法的每一个标准版本都一直在悄悄把某个数字舍入为零。 模型越自信，正确的训练信号反而越容易凭空消失。优化器因此失控，训练曲线剧烈震荡。 但最让人毛骨悚然，也最让人兴奋的是： 这个隐藏在全人类眼皮底下的底层逻辑漏洞，是AI（Gemini）自己抓出来的。 这次，人类只负责了事后的复核与排版。",
+      "section": "cn-tech",
+      "rankScore": 0.48283
+    },
+    {
+      "id": "bb47f5985809f204",
+      "title": "Kimi K3.1 Pro 发布：代码超 GPT-6 Astra、开放权重版主动移除网络攻防能力",
+      "url": "https://www.oschina.net/news/503221",
+      "source": "oschina",
+      "publishedAt": "2026-10-26T11:44:28.000Z",
+      "excerpt": "月之暗面发布了 Kimi K3.1 Pro，3 万亿级参数、100 万上下文，K3 系列第一个正式版本。官方给它的定位是\"迄今能力最强的模型\"，代码、3D 创作、金融研究和长程 Agent 能力提得最狠，还同步出了个 K3.1 Pro Highspeed——同样智能，输出速度约 2~3 倍，价格 2 倍。 代码这块是硬碰硬的数字。Terminal-Bench 4.0 上它得 65...",
+      "section": "cn-tech",
+      "rankScore": 0.452065
+    },
+    {
+      "id": "9465785d87c50b62",
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-26T17:45:57.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code.",
+      "section": "security",
+      "rankScore": 0.67443
+    },
+    {
+      "id": "5b108dde56331a5d",
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-26T15:52:40.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware.",
+      "section": "security",
+      "rankScore": 0.620485
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
