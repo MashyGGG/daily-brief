@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-26",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-10-26T17:18:50.552Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "3f57ce71271dd212",
+      "title": "福田康夫逝世享年90歲 長期親華的「短暫」日本首相",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-26T15:03:14.000Z",
+      "excerpt": "福田康夫出任日本首相期間才不過一年，當時曾被國內輿論批評為「不負責任」；北京讚揚其對中日關係「作出積極貢獻」。",
+      "section": "news",
+      "rankScore": 0.756548
+    },
+    {
+      "id": "49fa9f06321bc60b",
+      "title": "借鉴北约第四条 日本有意与澳法等国构建双边紧急磋商机制",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261026-%E5%80%9F%E9%89%B4%E5%8C%97%E7%BA%A6%E7%AC%AC%E5%9B%9B%E6%9D%A1-%E6%97%A5%E6%9C%AC%E6%9C%89%E6%84%8F%E4%B8%8E%E6%BE%B3%E6%B3%95%E7%AD%89%E5%9B%BD%E6%9E%84%E5%BB%BA%E5%8F%8C%E8%BE%B9%E7%B4%A7%E6%80%A5%E7%A3%8B%E5%95%86%E6%9C%BA%E5%88%B6",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-26T16:39:39.000Z",
+      "author": "弗林",
+      "excerpt": "据《读卖新闻》报导，日本政府正加紧构建一套双边紧急磋商机制，旨在确保在发生紧急事态时，能与价值观相同的志同道合国家开展有效协作。为提升协作质量并增强地区的威慑力，日本已与澳大利亚、法国等国就建立紧急磋商机制达成共识。此外，日本还计划在年内修订的《国家安全保障战略》等“安保三文件”中，明确写入加强与志同道合国家协作的方针。",
+      "section": "news",
+      "rankScore": 0.679901
+    },
+    {
+      "id": "7b5a497fa60930cf",
+      "title": "菲美日上周在南中国海进行联演 台赠菲金门舰参与跟踪辽宁舰编队",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261026-%E8%8F%B2%E7%BE%8E%E6%97%A5%E4%B8%8A%E5%91%A8%E5%9C%A8%E5%8D%97%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%BF%9B%E8%A1%8C%E8%81%94%E6%BC%94-%E5%8F%B0%E8%B5%A0%E8%8F%B2%E9%87%91%E9%97%A8%E8%88%B0%E5%8F%82%E4%B8%8E%E8%B7%9F%E8%B8%AA%E8%BE%BD%E5%AE%81%E8%88%B0%E7%BC%96%E9%98%9F",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-26T16:12:58.000Z",
+      "author": "弗林",
+      "excerpt": "菲律宾武装部队周日（25日）表示，已在西菲律宾海（菲方对其专属经济区内南中国海海域的称呼）完成了为期六天的海上演习。此次演习由菲律宾军方和日本及美国的相关力量共同参与，旨在加强各方在海事安全、后勤保障以及搜救行动方面的协调配合。",
+      "section": "news",
+      "rankScore": 0.666218
+    },
+    {
+      "id": "0e3c5188e0117339",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-26T17:00:09.000Z",
+      "excerpt": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "section": "news",
+      "rankScore": 0.621373
+    },
+    {
+      "id": "d79ffd6530565c0e",
+      "title": "Serbia’s Student List preparing for talks on forming government despite no clear leader",
+      "url": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-26T17:12:52.000Z",
+      "author": "Jon Henley and Ana Milosavljevic in Belgrade",
+      "excerpt": "Non-hierarchical movement is seeking to ‘rebuild society’ in Balkan country after years of authoritarian rule Serbia’s triumphant but untested Student List movement is preparing to start talks on forming a government capable of reversing 14 years of increasingly authoritarian nationalist rule,…",
+      "section": "news",
+      "rankScore": 0.557548
+    },
+    {
+      "id": "ebb0a3c01bc36a7a",
+      "title": "Delegations arrive in Tehran for security talks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-26T16:55:19.000Z",
+      "excerpt": "Delegations arrive in Tehran for security talks",
+      "section": "news",
+      "rankScore": 0.550348
+    },
+    {
+      "id": "d50b601a700ff51e",
+      "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+      "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-26T15:57:06.000Z",
+      "author": "Leo Sands and Henrik Pryser Libell",
+      "excerpt": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration.",
+      "section": "news",
+      "rankScore": 0.526465
+    },
+    {
+      "id": "fea9d7ae88ef59e1",
+      "title": "French bonds rally after Moody’s rating reprieve",
+      "url": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-26T17:14:34.000Z",
+      "excerpt": "France’s 10-year yield drops more than 0.1 percentage points after Paris dodges credit downgrade",
+      "section": "news",
+      "rankScore": 0.488465
+    },
+    {
+      "id": "66a174d0c6949531",
+      "title": "Can Marissa Mayer, Yahoo’s Former CEO, Help Fix A.I.’s Gender Problem?",
+      "url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-26T17:01:25.000Z",
+      "author": "Alexandra Alter",
+      "excerpt": "She made her name as a pioneer at Google, then as chief executive at Yahoo. Now Mayer is entering the crowded marketplace for A.I. assistants — and hoping to draw in more women with a product that tackles the mental load.",
+      "section": "news",
+      "rankScore": 0.483745
+    },
+    {
+      "id": "9e54483cd79ab887",
+      "title": "俄乌在赫尔松地区达成停火协议",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vZS1zaVZBVnFjNkl3Rk5jWFVIR0xTMVZFcWtsbWE3STR3Zi1ELS1kV2RBY0VPa2VXVF9IM2MwblRLc0NkREtldVNOLU1hYlUwWHJHM0VTMnV3dE9UMHc?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-26T16:06:21.000Z",
+      "excerpt": "俄乌在赫尔松地区达成停火协议 同花顺财经 俄乌同意局部停火，美俄乌会谈提上日程 凤凰网 美国第一夫人促成俄罗斯与乌克兰就奥莱什基地区达成临时停火协议 美国之音 俄乌将为奥列什基人道主义行动同步停火 新京报 美国第一夫人“立功”了 搜狐网",
+      "section": "news",
+      "rankScore": 0.397695
+    },
+    {
+      "id": "c884b5a6c62ff9d2",
+      "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+      "source": "npr-news",
+      "publishedAt": "2026-10-26T11:11:00.000Z",
+      "author": "Suzanne Nuyen",
+      "excerpt": "Republicans are spending millions on the midterms, and they still may not win districts drawn to favor them. And, Brazil's Luiz Inácio Lula da Silva won a fourth term in a stunning political comeback.",
+      "section": "news",
+      "rankScore": 0.357954
+    },
+    {
+      "id": "12fd5e657c875bc9",
+      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
+      "excerpt": "Top human rights experts investigating Russia’s full-scale invasion of Ukraine said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.",
+      "section": "news",
+      "rankScore": 0.321895
+    },
+    {
+      "id": "9a76126eeb0f544b",
+      "title": "德国总统施泰因迈尔抵达安徽开始访华",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721432.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-26T16:34:27.000Z",
+      "excerpt": "新华社合肥10月27日电(记者郭晨)德国总统施泰因迈尔10月27日抵达安徽合肥，开始对中国进行为期5天的国事访问。",
+      "section": "cn-news",
+      "rankScore": 0.744958
+    },
+    {
+      "id": "316f387a032ff85b",
+      "title": "80岁卢拉将开启第四个总统任期：工人出身，曾入狱580天，向西方喊话“巴西不是任何人后院”",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721344.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-26T13:06:45.000Z",
+      "excerpt": "中新网10月26日电(冯小妍)当地时间10月25日，巴西举行总统选举第二轮投票，劳工党候选人、现任总统卢拉战胜在首轮投票中领先的自由党候选人、前总统博索纳罗之子弗拉维奥·博索纳罗，赢得连任。胜选后，卢拉发文称：“感谢巴西人民！”",
+      "section": "cn-news",
+      "rankScore": 0.684866
+    },
+    {
+      "id": "36051c02c0bc0090",
+      "title": "湖南：到2030年，城市生活垃圾资源化利用率将力争达到76%以上",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJMm5samZLVHVVcnFEVE9uaGt5TnBPVjJfZkxtT082aG5CNGlLNkNCTzdhNlI5cEdPb1RZalZQWGJ4X3pNa1V4aU9OVW9ZNlVYSTJMeWFSbU4?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-26T14:21:16.000Z",
+      "excerpt": "湖南：到2030年，城市生活垃圾资源化利用率将力争达到76%以上 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.548042
+    },
+    {
+      "id": "43f18fea1dca5d5a",
+      "title": "四川成都：商品房预售门槛提高 购房款全部纳入监管账户",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721409.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-26T14:08:11.000Z",
+      "excerpt": "中新网成都10月26日电 (记者 刘忠俊)成都商品住房销售制度26日迎来系统性调整。成都市住建局、成都市规划和自然资源局、国家金融监督管理总局四川监管局联合出台关于贯彻落实《关于完善商品住房销售制度的通知》的实施意见。明确商品房预售门槛提高，购房资金管得更严，现房销售逐步推开。",
+      "section": "cn-news",
+      "rankScore": 0.542003
+    },
+    {
+      "id": "a99415712201637f",
+      "title": "纪念中国人民志愿军抗美援朝出国作战76周年活动在平壤举行",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiUm5TVHE1bFFYNzBKTGcwTnh1RzhmUVdfWWJlaU90UC1SZmJSTWZ2OERxdF81RzlHbXZ5WjBCRnZGclpUOWwzN2RCTHZ3TnhYb0x6VXc1MXZITmhIX3ZSYXl2NTRRNnJTWkdvbjROSFBha3NlMTBoczdvczZOOFU?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-26T15:27:30.000Z",
+      "excerpt": "纪念中国人民志愿军抗美援朝出国作战76周年活动在平壤举行 新华网 中朝共同举行中国人民志愿军抗美援朝出国作战76周年纪念活动--国际 人民网 战火中的歌声，战火中的书信——鸭绿江畔的大学生用特殊的思政课感悟抗美援朝精神 新华网 省政协科教卫体委副主任黄远通接受纪律审查和监察调查 新浪财经 致敬最可爱的人！志愿军这些话再听还是会泪目",
+      "section": "cn-news",
+      "rankScore": 0.514321
+    },
+    {
+      "id": "be2a00af8ee20468",
+      "title": "中國乘聯分會：2026年國內汽車銷量超預期低迷",
+      "url": "https://www.cna.com.tw/news/acn/202610260256.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-26T14:59:26.000Z",
+      "excerpt": "（中央社台北26日電）中國乘聯分會秘書長崔東樹今天發文表示，今年中國國內車市「超預期低迷」，預期全年零售僅1850萬台，不僅低於去年峰值，更低於2020年的低谷。今年前9個月，中國國內汽車銷量為1506.6萬輛，年減22.4%。",
+      "section": "cn-news",
+      "rankScore": 0.502806
+    },
+    {
+      "id": "2d40df0f9215f45d",
+      "title": "4070元冰柜被“仅退款”，买家称已就地销毁；山东商家跨省赴上海维权，发现冰柜正插电在后厨使用，当场报警；律师：买家涉嫌不当得利",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCX3NfXzAxTHVRaFJRYW45TDd4WTlSbXZMWnpUcXBwTUpXRkVkZ1JTRGFsOExkcWNSMVk3WVJPVFhfTnFlTDkxUXlTNlpsY0hSRWY0TlUxQVJEajhxNzY5OQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-26T12:40:00.000Z",
+      "excerpt": "4070元冰柜被“仅退款”，买家称已就地销毁；山东商家跨省赴上海维权，发现冰柜正插电在后厨使用，当场报警；律师：买家涉嫌不当得利",
+      "section": "cn-news",
+      "rankScore": 0.501303
+    },
+    {
+      "id": "f6561394b273fae5",
+      "title": "第九届进博会首批展品进馆",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjBPZTVIODZCS1RZb1BMNldQT0dZcDhmNkRKeFF6NjlWTk9JaDRCV3A0Qk1oNHYwSzlyQjExaG9naFIwSnB6ZXE2cEtYNWx4aFRERVE3T3d0UzdGem90VmpjMjk5TEgwaktDVmJ6R1M3d3lBZHdfalpCaVUxWVlNLV9TQTNWU19PQ3prTUlJZFZIZnE3Y2NuSUJR?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-26T14:59:14.000Z",
+      "excerpt": "第九届进博会首批展品进馆 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.439884
+    },
+    {
+      "id": "9d5a344fbd44b27d",
+      "title": "Win for Lula boosts China’s foothold and gives Brazil rare earths leverage",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372207/win-lula-boosts-chinas-foothold-and-gives-brazil-rare-earths-leverage",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-26T14:36:47.000Z",
+      "author": "Cao Jiaxuan",
+      "excerpt": "Brazilian President Luiz Inacio Lula da Silva’s re-election preserves Beijing’s most critical foothold in Latin America, while positioning Brasilia to leverage the US-China rivalry over its vast rare earth reserves without picking sides.",
+      "section": "cn-news",
+      "rankScore": 0.431825
+    },
+    {
+      "id": "8a081b2bd8781347",
+      "title": "全国短池游泳锦标赛：李冰洁刷新亚洲纪录 张雨霏一日两金",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3Ynp0UDFCRGVPRWNlNGdHUWhrSFB6cjdkYnV1UDRUVkx4U3pHLWN1clp6d191bkxRTTBabHN3MGhIOWM3VmdFbU1BZ3ZXQTc4YWVjZ2hNcnQ2NnAzMEF0OHhGT1Z5TzVi?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-26T15:57:17.000Z",
+      "excerpt": "全国短池游泳锦标赛：李冰洁刷新亚洲纪录 张雨霏一日两金 中国新闻网",
+      "section": "cn-news",
+      "rankScore": 0.394905
+    },
+    {
+      "id": "a34a78cc23e08a1a",
+      "title": "河北滦州小花生“长”出富民大产业",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721425.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-26T14:31:16.000Z",
+      "excerpt": "中新网唐山10月26日电 题：河北滦州小花生“长”出富民大产业",
+      "section": "cn-life",
+      "rankScore": 0.736876
+    },
+    {
+      "id": "cb5df882ad585d62",
+      "title": "国办发文定调！事关应对AI就业冲击",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92cU5WUTZuUjFFamJWN3RPRHpkSlNYMGNyT2xQbUJzVUZoZ09ocUpPaEktbThkRFpSLVJ5b0tmVkZ0ZUIyX052c0RjeTVodWRpc3FUVkhpd084ZzEwWFllczhCUzQzRXRGRlpTOW8wY09RWm9WYTVPRS1XdnBFNnM?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-26T16:39:51.000Z",
+      "excerpt": "国办发文定调！事关应对AI就业冲击 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.612003
+    },
+    {
+      "id": "8f3a003e9493e893",
+      "title": "大风蓝色预警！大风降温降水来袭，冷冷冷~",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FcGptaXhCb3hRYW9aUmZTZ09mb3BZcjBfcVlxUnBrb0cxeTBMSjUxSi1zdXo0VzRidlJ5Xy13U1RVZlRJUy1KX0VVb1U3U1Z0SUhZTDM1ZTdDWjRubXlSN3h4NklpdTk3UjJDbFNzR0kxUQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-26T16:05:00.000Z",
+      "excerpt": "大风蓝色预警！大风降温降水来袭，冷冷冷~ 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.595919
+    },
+    {
+      "id": "22236cd595194669",
+      "title": "常州市图书馆学会负责人人选公示",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40ZnlRQTZZSGc2WFRZRUxBUW42ZjFGREU3ZnR0Qko2UEJETjlWV2hrUXRnZkhPQm51V01SeFRiNVVHZmRwQ3poRDZfVHdkM3JuVXgwem12UmViaVR5T0c1SWN3?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-26T17:13:41.000Z",
+      "excerpt": "常州市图书馆学会负责人人选公示 常州市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.557883
+    },
+    {
+      "id": "78bb90d53136f881",
+      "title": "演化4000万年，牛油果树修成“雌雄同体”",
+      "url": "https://www.chinanews.com.cn/life/2026/10-26/10721281.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-26T11:32:16.000Z",
+      "excerpt": "上午开雄花，下午开雌花",
+      "section": "cn-life",
+      "rankScore": 0.522269
+    },
+    {
+      "id": "879413ee3efd1a8c",
+      "title": "大众召回超过7万台车，高镍三元锂电池有起火风险",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JOUN5WjNYa0JEQThac3g5WjVseHlEQnJUWENIbG96WEFKd1ZHWHQxZTJpcWZUNC1lVHpCZlJwWDRpWHlkUFRQV3RuM3otN2NRblNQWWFncm1pX0p2UlBFSkp0X09vQzBBeDVv?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-26T17:09:25.000Z",
+      "excerpt": "大众召回超过7万台车，高镍三元锂电池有起火风险 汽车之家",
+      "section": "cn-life",
+      "rankScore": 0.486616
+    },
+    {
+      "id": "d4ddcd680fe2cd9d",
+      "title": "家族内遗传方差解析揭示行为与非欧洲祖源复杂性状的直接遗传贡献",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1WHRCQkY0ZmlGTTZSaVcyMWE1REt6OGtCTGRHQk5HSkNzWnpjaG4xeUQ0Rm45eml3VlQwM1VHMkt6eGd1WHpZX0ZabFZNU0M1aWtDVXc3cnoyZG53cDJhV1hKM2ZhTzJKNXpjenFR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-26T17:09:06.000Z",
+      "excerpt": "家族内遗传方差解析揭示行为与非欧洲祖源复杂性状的直接遗传贡献 生物通",
+      "section": "cn-life",
+      "rankScore": 0.486503
+    },
+    {
+      "id": "7723182d234d5dba",
+      "title": "抓实党员教育实效 以过硬作风护航基层发展",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tcy0tMlpQZU92YWhTbDVtWmZ6b0E1OGtYWTI3aDVoRkhtVWhtT3B5eFJ1VndDTnFvb09OMWRDMmI1ZEFyNUJBcW1rTlhGVXdfQ1lNVjZwOF9yTXBwWXRsaEo2TndxUlh4OEk5Q2ltd2t3ck0?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-26T15:48:09.000Z",
+      "excerpt": "抓实党员教育实效 以过硬作风护航基层发展 潮新闻客户端",
+      "section": "cn-life",
+      "rankScore": 0.392095
+    }
+  ],
+  "warnings": []
+}
