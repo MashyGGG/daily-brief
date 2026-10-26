@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-26",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-26T00:13:34.753Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "cb1a82d3e47b4544",
+      "title": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-26T00:13:34.753Z",
+      "score": 647,
+      "excerpt": "A Tiny biped duck robot 🦆",
+      "section": "tech",
+      "rankScore": 1.08
+    },
+    {
+      "id": "208ff2a3b4112e1e",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "source": "hn-front",
+      "publishedAt": "2026-10-25T17:15:38.000Z",
+      "score": 394,
+      "author": "sungam",
+      "excerpt": "394 points · 189 comments · https://news.ycombinator.com/item?id=50233779",
+      "section": "tech",
+      "rankScore": 1.032992
+    },
+    {
+      "id": "2806814bc7822c0e",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-25T17:30:55.000Z",
+      "score": 369,
+      "author": "Tomte",
+      "excerpt": "369 points · 180 comments · https://news.ycombinator.com/item?id=50233929",
+      "section": "tech",
+      "rankScore": 0.982702
+    },
+    {
+      "id": "4c581707395a78a2",
+      "title": "Simple NetBSD webserver",
+      "url": "https://bsandro.tech/posts/simple-netbsd-webserver/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-25T23:13:40.000Z",
+      "author": "bsandro.tech by bsandro",
+      "section": "tech",
+      "rankScore": 0.666274
+    },
+    {
+      "id": "84d1630788206af8",
+      "title": "PHP Patches Two Critical RCE Flaws That Were Already Under Attack",
+      "url": "https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-25T18:07:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "PHP released 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities allowing unauthenticated remote code execution. Amazon recorded an exploitation attempt four days before the patches shipped, and operators spent the day working out whether they ran PHP, where to get the package,…",
+      "section": "tech",
+      "rankScore": 0.643035
+    },
+    {
+      "id": "7b5404ed403c1283",
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "source": "verge",
+      "publishedAt": "2026-10-25T21:40:27.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score.",
+      "section": "tech",
+      "rankScore": 0.460225
+    },
+    {
+      "id": "64288ebffb3c43bf",
+      "title": "想给自己做的安卓控制工具加个外网远程，和 RustDesk 认真比了一次，结论是：不做了",
+      "url": "https://www.v2ex.com/t/1251701",
+      "source": "v2ex",
+      "publishedAt": "2026-10-25T14:30:37.000Z",
+      "score": 6,
+      "author": "xxzhaoming",
+      "excerpt": "我在做一个小工具叫统一控制（ UnitCtrl ），在电脑上看、控制家里的安卓，只走局域网（ 官网 ）。人在外面的时候，我一直用 RustDesk 远程。 用着用着有点嫌它：看不到画面到底晚了多少，也看不到刷新率。于是冒出个念头：干脆自己给统一控制做个外网远程，说不定能比它好？开工前先定了规矩： 比 RustDesk 好就做，不如就算了。",
+      "section": "cn-tech",
+      "rankScore": 0.653009
+    },
+    {
+      "id": "954e196ca09f1226",
+      "title": "如果继续反弹，AI还能当主角吗？",
+      "url": "https://www.36kr.com/p/4041167569851526",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-25T23:57:32.000Z",
+      "author": "格隆汇",
+      "excerpt": "7月以来，A股这波调整，走到现在，市场里最纠结的一个问题就是：这到底是下跌中继，还是已经进入底部区间了？ 这个问题之所以难以回答，是因为两边的证据都不少。 看空的人会说，外部美债利率还在高位，美股科技股在调整，国内内需偏弱，企业盈利还没真正起来，凭什么说底到了？ 看多的人会说，估值已经压到历史低位，ETF在大额流入，政策托底信号明确，融资盘也去得差不多了，市场还能跌到哪去？ 要回答这个问题，可能得换一个思路：不是去争论“底到了没有”，而是去看“市场现在处在什么位置、什么阶段，哪些条件已经具备，哪些条件还差一口气”。",
+      "section": "cn-tech",
+      "rankScore": 0.625989
+    },
+    {
+      "id": "2db4d4fbfdbda0d3",
+      "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
+      "url": "https://www.solidot.org/story?sid=85706",
+      "source": "solidot",
+      "publishedAt": "2026-10-25T16:16:11.000Z",
+      "excerpt": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是由于猎物减少，狼群进入了附近的村庄寻找食物。 当地居民表示，由于森林里的野生动物全都离开了，狼进村了。Google 还在另一个数据中心选址砍伐了 15 万棵树。芬兰不是唯一一个为建造数据中心而生态系统遭到破坏的地方。美国西弗吉尼亚州的栗子树林以及印第安纳州的一处湿地都面临为数据中心让路。",
+      "section": "cn-tech",
+      "rankScore": 0.624129
+    },
+    {
+      "id": "c75d3d1618c84ff4",
+      "title": "MQTT实战 - MQTT Broker选型，EMQX vs Mosquitto，我用过的真实对比（八）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QNVoxM0NTOG93dGV5TUk5ZXJvajNkVHBfM3B6Q2pzSkhZd18yR0RlZDh6NFk4Sk92TEdxMXZRQkxyZW5LWjhfWVVxUEMzaVRPTF9MZg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-25T23:03:41.000Z",
+      "excerpt": "MQTT实战 - MQTT Broker选型，EMQX vs Mosquitto，我用过的真实对比（八） 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.476409
+    },
+    {
+      "id": "59945f7da7d2baf0",
+      "title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
+      "url": "https://www.infoq.cn/article/BHWP4JJDeExZZWsifFlg?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-25T09:06:00.000Z",
+      "author": "作者：Michael Redlich",
+      "section": "cn-tech",
+      "rankScore": 0.447895
+    },
+    {
+      "id": "6e2782d39d7aae2a",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-25T17:44:09.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.",
+      "section": "security",
+      "rankScore": 0.591825
+    },
+    {
+      "id": "ab5c871859b18ef3",
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-25T17:19:46.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.",
+      "section": "security",
+      "rankScore": 0.585052
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" looks stale: newest item is 55 days old (budget 30d)",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
