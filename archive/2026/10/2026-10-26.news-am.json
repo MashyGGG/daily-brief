@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-26",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-26T00:41:22.206Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "c9b18b42c1abd41e",
+      "title": "中國市場放緩，英國傳統精英私立學校紛紛進軍印度",
+      "url": "https://www.bbc.com/zhongwen/articles/cwg7xy2mjnl0o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-26T00:18:25.000Z",
+      "excerpt": "多所英國傳統精英私校近年相繼在印度開設分校，瞄準當地日益壯大的富裕階層。隨着中國教育監管收緊，加上英國私校面臨稅務壓力，印度成為新的擴張目標。",
+      "section": "news",
+      "rankScore": 0.832349
+    },
+    {
+      "id": "005a5314690aaf14",
+      "title": "习近平全面从严治党的现状 后果 走向",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261025-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E7%9A%84%E7%8E%B0%E7%8A%B6-%E5%90%8E%E6%9E%9C-%E8%B5%B0%E5%90%91",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-25T22:19:53.000Z",
+      "author": "安德烈",
+      "excerpt": "周一开幕的中共五中全会主题是“全面从严治党”，会期26日至29日，仅从主题的确定而言，中共某种程度上承认党内问题相当严重：“不以铁腕反腐将后患无穷。”",
+      "section": "news",
+      "rankScore": 0.660698
+    },
+    {
+      "id": "4422ee40b9f18cde",
+      "title": "刚果(金)现总统出击前总统造反",
+      "url": "https://www.rfi.fr/cn/rfi%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%88%9A%E6%9E%9C-%E9%87%91-%E7%8E%B0%E6%80%BB%E7%BB%9F%E5%87%BA%E5%87%BB%E5%89%8D%E6%80%BB%E7%BB%9F%E9%80%A0%E5%8F%8D",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-25T22:08:01.000Z",
+      "author": "尼古拉",
+      "excerpt": "在非洲国家刚果民主共和国（RD Congo），继前总统约瑟夫·卡比拉（Joseph Kabila）加入叛乱阵营之后，现总统费利克斯·齐塞克迪（le président congolais Félix Tshisekedi）于昨天（2026年10月24日星期六）首次发表政治讲话。在此前一天，当地时间10月23日星期五凌晨，曾是前总统约瑟夫·卡比拉（Joseph Kabila）亲信的刚果（金）前参议院议长亚历克西斯·坦布韦·姆万巴(Alexis Thambwe Mwamba)遭到逮捕，但当晚即获释。",
+      "section": "news",
+      "rankScore": 0.657402
+    },
+    {
+      "id": "0e7ea3afa286ae00",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-25T23:33:14.000Z",
+      "excerpt": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "section": "news",
+      "rankScore": 0.612966
+    },
+    {
+      "id": "5bc1b41e5ac39c2c",
+      "title": "Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son",
+      "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-26T00:33:36.000Z",
+      "author": "The New York Times",
+      "excerpt": "President Luiz Inácio Lula da Silva fended off a right-wing movement led by Flávio Bolsonaro, whose father was convicted of a coup attempt after the 2022 election. Transportation delays and bad weather disrupted Election Day.",
+      "section": "news",
+      "rankScore": 0.558273
+    },
+    {
+      "id": "1214b8eef5610951",
+      "title": "Australia politics live: ‘Helen Haines is a fighter’: parliament hears emotional tributes to Indi MP; NSW to begin gun buyback",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-26T00:29:20.000Z",
+      "author": "Kat Wong",
+      "excerpt": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter.",
+      "section": "news",
+      "rankScore": 0.557325
+    },
+    {
+      "id": "314d295f023e1e85",
+      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-26T00:02:55.000Z",
+      "excerpt": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
+      "section": "news",
+      "rankScore": 0.551455
+    },
+    {
+      "id": "1a37ad3467e5052b",
+      "title": "New Fight at Gritty Manhattan Park Is Over ‘Punk Rock’ Pull-Up Bars",
+      "url": "https://www.nytimes.com/2026/10/25/nyregion/tompkins-square-park-pull-up-bars-renovation.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-26T00:37:53.000Z",
+      "author": "Nate Schweber",
+      "excerpt": "The Parks Department has a $10 million plan to renovate the northeast corner of Tompkins Square Park, but fans of its workout bars want things to stay just as they are.",
+      "section": "news",
+      "rankScore": 0.489322
+    },
+    {
+      "id": "bb0bcf3ca42175f0",
+      "title": "Toyota takes on Tesla and China in humanoid robot race",
+      "url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-25T21:00:06.000Z",
+      "excerpt": "Japanese group uses 20 years of research to commercialise intelligent robots",
+      "section": "news",
+      "rankScore": 0.446975
+    },
+    {
+      "id": "c8beff5c45e43b0a",
+      "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+      "source": "npr-news",
+      "publishedAt": "2026-10-25T20:35:35.000Z",
+      "author": "Chandelis Duster",
+      "excerpt": "Pennsylvania is the worst hit state, with at least 1,338 cases of measles confirmed in 44 counties so far this year, according to the Pennsylvania Department of Health.",
+      "section": "news",
+      "rankScore": 0.442208
+    },
+    {
+      "id": "d189e4073cef4a21",
+      "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpbUtsN2c3QlhmNFJmcTFGTlBuZW1LMVZTMVItWXFrZWxpX1VFWWpBU3Fpc1RWX2xiUndzOE5RSURBTjNCbE9TWkp3a1NMT1hRbU44cktnd25kVmRSY0xIOFF1N3FYSDd3?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-25T22:40:50.000Z",
+      "excerpt": "特朗普：美俄乌三方会谈“很快”就会举行 中国新闻网",
+      "section": "news",
+      "rankScore": 0.399911
+    },
+    {
+      "id": "77bc3ce2d05691e7",
+      "title": "Why do planes keep circling before landing? The UN has a plan to fix it",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168666",
+      "source": "un-news-en",
+      "publishedAt": "2026-10-25T12:00:00.000Z",
+      "excerpt": "Air traffic delays cost billions and turn journeys into ordeals. Some countries are already proving that better coordination saves thousands of flying hours and cuts emissions – and the UN’s aviation agency wants the rest of the world to follow.",
+      "section": "news",
+      "rankScore": 0.293105
+    },
+    {
+      "id": "9f10bbe00eb635dc",
+      "title": "外媒：巴西总统卢拉赢得连任",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720902.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-26T00:21:42.000Z",
+      "excerpt": "中新网10月26日电 据法新社最新报道，根据巴西高等选举法院公布的计票结果，劳工党总统候选人、现任总统卢拉在2026年巴西总统选举第二轮投票中获胜，赢得连任。",
+      "section": "cn-news",
+      "rankScore": 0.833443
+    },
+    {
+      "id": "6673709e0b417c21",
+      "title": "国家数据集团成立 如何加快释放数据要素价值",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-26T00:18:49.000Z",
+      "excerpt": "国家数据集团成立，聚焦数据资源开发利用",
+      "section": "cn-news",
+      "rankScore": 0.763109
+    },
+    {
+      "id": "64b825bdb0dc1384",
+      "title": "本川智能：所有扩产全部投向高附加值产品，不再布局低端普通板",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zVDl2Rl93YlVrMzc2bHdOOUVwNzRFNFpvZkE2VDUzZzRuZkxDeGdldHVsSGFZUFA2bmZuWlAxNU96dFRXN1AyWGhMYk1fcEFSdGNlU183djc?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-26T00:32:08.000Z",
+      "excerpt": "本川智能：所有扩产全部投向高附加值产品，不再布局低端普通板 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.627691
+    },
+    {
+      "id": "2c37782f59566f80",
+      "title": "工厂、商超都在用！年产量冲刺10万台！重大“机”遇，如何抓住？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720884.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-25T23:39:31.000Z",
+      "excerpt": "2026年被业界称为人形机器人“量产元年”，但很多企业发现，从实验室里的“手搓样机”，到工厂里的批量下线，中间还有一定难度。供应链如何扩容？",
+      "section": "cn-news",
+      "rankScore": 0.614537
+    },
+    {
+      "id": "7f7d7ead43c1d15a",
+      "title": "在犹豫中继续选择，继续心跳",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhMzdCLWFUWVZGb2xYWDhBZTkzTERhQmZ4VDJIMmhaOTM4X0lFM3dIdXVzZlUzN3hHazFlc2NoT3M2TXRWZ1BuSXRIVVZLeUszNGg5S19ua0hVamUyc1FNRA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-25T23:35:00.000Z",
+      "excerpt": "在犹豫中继续选择，继续心跳",
+      "section": "cn-news",
+      "rankScore": 0.613407
+    },
+    {
+      "id": "8b6b7e404c201f9d",
+      "title": "联大第2758号决议权威不容撼动——纪念新中国恢复联合国合法席位55周年",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjZwNHVUVTc4eGZEX2NzUmZSbjZoMUl0LVFobFNMTWdhQ2c2WDFMQUY1MkRnY1Q1RVp0WU9JX2ZnRnRkZ2dISnhYdjk0Q2NnQXNpR0NacGozMnBrODk2ZmJJYzh5bVFueVVhQnJNWGZDZUdLb2VvQnAwOEJqWFJCLTIzMi1XU09iS3ktNERpUGhNajY4T3YwUl9B?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-26T00:24:49.000Z",
+      "excerpt": "联大第2758号决议权威不容撼动——纪念新中国恢复联合国合法席位55周年 新华网客户端 55年前的今天，新中国恢复在联合国合法席位 新华网 从钢梯到菌草 中国发展惠及世界 中华网 联大第2758号决议权威不容撼动！人民日报刊文驳斥荒谬论调 搜狐网 傅聪人民日报撰文：维护联合国，激活联合国，壮大联合国 ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.556321
+    },
+    {
+      "id": "3f29c5466fcb8a99",
+      "title": "Lula pulls off Brazil’s first-ever run-off comeback to beat Trump ally Flavio Bolsonaro",
+      "url": "https://www.scmp.com/news/china/article/3372099/lula-pulls-brazils-first-ever-run-comeback-beat-trump-ally-flavio-bolsonaro",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-26T00:30:22.000Z",
+      "author": "Igor Patrick",
+      "excerpt": "Brazilian President Luiz Inacio Lula da Silva won re-election on Sunday in a dramatic comeback after trailing in the first round, extending the rule of a government that has overseen record Chinese investment.",
+      "section": "cn-news",
+      "rankScore": 0.48786
+    },
+    {
+      "id": "d9de1f7d0211a029",
+      "title": "德明利Q3净利润27.29亿元，同比增长约29倍",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6emZvNTRPeUV1c25kSnEzek1MTVh2bW1neWVSQ0ROOWFCWmtwa1pWTl9yT2h5OG1rYWxSRXVRSXlFcVNFYVRmTXQ1Umc1NldNWGZ5NGZDcDNtXy1GQnRJYnJDVQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-25T23:05:56.000Z",
+      "excerpt": "德明利Q3净利润27.29亿元，同比增长约29倍 东方财富 存储龙头，三季度净利猛增超2900% 凤凰网 德明利前三季度净利润增长32399.91% 存储业务强劲驱动 中华网 存储芯片业绩暴增股价暴跌_新浪新闻 手机新浪网 “牛散夫妇”现身，存储芯片牛股，净利大增2902.75% 同花顺财经",
+      "section": "cn-news",
+      "rankScore": 0.471443
+    },
+    {
+      "id": "d8c598cd966fcbc5",
+      "title": "中國2025年老年撫養比例 首次超過少年兒童撫養比",
+      "url": "https://www.cna.com.tw/news/acn/202610250196.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-25T14:44:29.000Z",
+      "excerpt": "（中央社記者馮昭上海25日電）中國國家統計局新出版的「中國統計年鑑2026」顯示，中國2025年總撫養比為45.1%，其中少兒撫養比為22%，老年撫養比為23.1%，老年撫養比首次超過少年兒童撫養比。",
+      "section": "cn-news",
+      "rankScore": 0.427358
+    },
+    {
+      "id": "7472497a3f1beb11",
+      "title": "弘扬伟大长征精神 走好新时代的长征路",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nLW1LbU0yelc0eTBxNmNhSXJUX2xFRG1uQWxJWjk2TFprb2pmbDcxclktQzVROXVDNWUxYzBsMDdsUXdkSUhpeTE4bjkyM1BvRnQtNGZxMXpIMi12SmVKU2NhVVk?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-25T23:36:00.000Z",
+      "excerpt": "弘扬伟大长征精神 走好新时代的长征路 新京报 走好属于我们这一代人的长征路 中国青年网 纪念大会上，总书记讲到的长征故事催人奋进 中国网新闻中心 行见八闽：让思政课行走在福建的山海红土间 光明网 第一观察丨精神所在，就是力量所在 央视网",
+      "section": "cn-news",
+      "rankScore": 0.409105
+    },
+    {
+      "id": "428b9096d5b6ffd0",
+      "title": "西藏巴青7.0级地震已记录到余震2054次 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FMGw4bnNjUlFiNnNWM1FXdkUtdVpjNkdneHh0MVpKZWtXSlpUVE9kU0ppUmNwZWNiOWt6c1U1R1h2RExqcE9Hd1FEUm1VOS1ybVNoU1hpeEZvVGVIV0dDeng2TUV4VTRPTmltVUxzMFo?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-26T00:38:00.000Z",
+      "excerpt": "西藏巴青7.0级地震已记录到余震2054次 新浪新闻_手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.629157
+    },
+    {
+      "id": "298a27c4728335c9",
+      "title": "国务院办公厅发文要求稳慎把握AI在劳动密集型行业应用并开展就业风险评估",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OR3pYVEtVbGlNUHVabS1vRWVhczItNnA3c01sRWlHUXBYUS15RDI4NnN5U3BuTi02X2RXbG8yRDFrZTgyQmFuM05BWnZnaHJaOXo3dg?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-26T00:17:29.000Z",
+      "excerpt": "国务院办公厅发文要求稳慎把握AI在劳动密集型行业应用并开展就业风险评估 虎嗅网",
+      "section": "cn-life",
+      "rankScore": 0.624028
+    },
+    {
+      "id": "3e236ec38ed03323",
+      "title": "草方格锁黄沙 鹅喉羚蹄印见证中卫生态之变",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720842.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-25T13:01:52.000Z",
+      "excerpt": "中新网中卫10月25日电 题：草方格锁黄沙 鹅喉羚蹄印见证中卫生态之变",
+      "section": "cn-life",
+      "rankScore": 0.606832
+    },
+    {
+      "id": "57f1a941c6782bac",
+      "title": "聚力产销合作对接擦亮铜城农品品牌",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5YnhoamVZc0FuQmIzNDRMRThLbDY2RkI4VTUzTTIzQ2RDaDBTX2h1ckFNU2JvWjJaTEpka3RwQWZtUVp4ejRVeEo2NnMzOExLNjVpUDBjWVQzX2VlNTBjTzJyLW1QeVhNUmc?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-26T00:08:00.000Z",
+      "excerpt": "聚力产销合作对接擦亮铜城农品品牌 甘肃省商务厅",
+      "section": "cn-life",
+      "rankScore": 0.552584
+    },
+    {
+      "id": "9b15213641822711",
+      "title": "越野神车普拉多在美召回超10万辆，丰田查了两年没找到原因",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sU2tYUHpKS05vcVU0MnE1dzRNOFFrU2VPWF9PUDg5Zkg5OXNvaEpwNUV2QW5mWTVidjk1bk45VEVaTEtvNmdUZHBuMFdVRGswcVNaZlBGTEVKdnZLUHpZMTFTaDE0TGVHNjIw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-26T00:21:34.000Z",
+      "excerpt": "越野神车普拉多在美召回超10万辆，丰田查了两年没找到原因 汽车之家",
+      "section": "cn-life",
+      "rankScore": 0.486149
+    },
+    {
+      "id": "d4e7d58b9f0e2a7a",
+      "title": "让学习成为一种生活方式！上海市第二十二届全民终身学习活动周开幕",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUFtcnZUTE4tNXdaUTVwcnVSS1JNSFZoRlhMc2pkaXZ4Q0ttazg2bEp4MzdNQmJSZlFYVjdyZUNtLVJvUXBVQnhsNmZDVkMwSDNJSlZEZ3V6SU0wQ3FaUjBiSUd1WFExZkdfMVAtZ0ZWZ0lqZ1VJdjd3SlhqbVZqd3JEWUxfSHBWZ3dRWg?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-26T00:20:50.000Z",
+      "excerpt": "让学习成为一种生活方式！上海市第二十二届全民终身学习活动周开幕 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.416577
+    },
+    {
+      "id": "6e924e936fb01735",
+      "title": "老挝甘蒙省公布HIV检测数据：9300人筛查，前9个月新增89名HIV感染者",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PYy1NUHlDOFpfR0xEMTZmVHZRd293VVhKelA5eDFzOFUweXNhUk1iZzVKQVZYY29EdFFqTl9qNzRhbWcyU3VEdGVCNE4?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-25T14:38:29.000Z",
+      "excerpt": "老挝甘蒙省公布HIV检测数据：9300人筛查，前9个月新增89名HIV感染者 博度",
+      "section": "cn-life",
+      "rankScore": 0.372772
+    },
+    {
+      "id": "68232a8ce024e41a",
+      "title": "教师称开学仅一个月，每个班均有学生因心理问题休学，孩子脆弱还是教育太卷？",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95bGNsTjFXbnJpMmx5Z0FXSWI3X1ZEaWR3VEJENTVjZ21YWnZZM2IwN0dHUHZrT29YM0d6RWY1eGFUeEdxR25RQjc0SDAxeENqSlhSOFZJZGFlQ2s?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-10-25T19:09:45.000Z",
+      "excerpt": "教师称开学仅一个月，每个班均有学生因心理问题休学，孩子脆弱还是教育太卷？ 风闻",
+      "section": "cn-life",
+      "rankScore": 0.303942
+    }
+  ],
+  "warnings": []
+}
