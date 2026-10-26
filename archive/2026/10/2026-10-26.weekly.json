@@ -1,0 +1,228 @@
+{
+  "date": "2026-10-26",
+  "slot": "weekly",
+  "scheduleId": "weekly",
+  "generatedAt": "2026-10-26T01:15:46.881Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 168,
+  "itemCount": 20,
+  "items": [
+    {
+      "id": "aa94276eb254229d",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-21T17:07:08.056Z",
+      "score": 1434,
+      "excerpt": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "section": "tech",
+      "rankScore": 1.148571
+    },
+    {
+      "id": "9c3d502b6b3d8b06",
+      "title": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-24T15:52:32.366Z",
+      "score": 1053,
+      "excerpt": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "c0454a051637b2fd",
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-22T00:38:32.690Z",
+      "score": 575,
+      "excerpt": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "04fe01baf66e5d2c",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-21T00:33:57.038Z",
+      "score": 1208,
+      "excerpt": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "34a3384aa6326a35",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-20T16:58:18.158Z",
+      "score": 1680,
+      "excerpt": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "1fe17c5ac1f7349f",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "openai",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "excerpt": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "section": "ai",
+      "rankScore": 0.87349
+    },
+    {
+      "id": "aaa3d0132caa7808",
+      "title": "v2.1.310",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
+      "source": "anthropic",
+      "publishedAt": "2026-10-23T23:39:00.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and when telemetry or nonessential traffic is disabled; long foreground sleeps are now blocked there too Fixed requests failing behind some gateways and compatible servers that reject the effort-2025-11-24…",
+      "section": "ai",
+      "rankScore": 0.855673
+    },
+    {
+      "id": "8d68aeb810d723f1",
+      "title": "v2.1.309",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
+      "source": "anthropic",
+      "publishedAt": "2026-10-22T22:18:57.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Fixed sandboxed Bash commands on macOS and Linux running the shell's startup files outside the sandbox before each command Fixed macOS sandbox denyWrite glob patterns not applying at a path's real location when the pattern's folder is reached through a symlink Fixed sandboxed…",
+      "section": "ai",
+      "rankScore": 0.827424
+    },
+    {
+      "id": "4d6cedf01106e2be",
+      "title": "v2.1.307",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
+      "source": "anthropic",
+      "publishedAt": "2026-10-21T22:17:02.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added /claude-api api-version to move Claude API code to API version 2026-10-21 Added the claude_code.safety_event OpenTelemetry event for each tool call a permission rule, auto mode, a safety check, a hook or the sandbox stopped, prompted or sent back Fixed requests failing with a…",
+      "section": "ai",
+      "rankScore": 0.825864
+    },
+    {
+      "id": "3809d6347facfc28",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "url": "https://simonwillison.net/2026/Oct/21/panache/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-21T16:25:16.000Z",
+      "excerpt": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro!",
+      "section": "ai",
+      "rankScore": 0.816076
+    },
+    {
+      "id": "64b6bf3056567bd7",
+      "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+      "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-23T00:35:58.164Z",
+      "excerpt": "ACL 2026杰出论文奖（Outstanding Paper）揭晓，全球共 18 篇入选，其中包含美团履约技术团队的1篇论文。本文介绍了一种专为 RLVR 设计的低秩训练方法，以及它在业务 Agentic RL 中的落地经验。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "60d35c9578caf4a2",
+      "title": "从 LOOP 到图探索 —— 算法模型的 AutoResearch 自进化系统架构演进之路",
+      "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-22T17:06:39.186Z",
+      "excerpt": "本文分享这套系统的设计理念、架构演进与可信度设计，希望对大家有所帮助或启发。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "036f14f75460f2ba",
+      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-22T00:38:32.690Z",
+      "excerpt": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "ce6c3679d2d9d761",
+      "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
+      "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-20T01:03:47.991Z",
+      "excerpt": "美团在 MTGR 基础上提出统一推荐基座大模型 MTFM，首次实现外卖多个主要业务的统一精排模型。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "e51376495170805c",
+      "title": "看到今天爆出的 PHP 漏洞，聊聊老项目转 Go 这事",
+      "url": "https://www.v2ex.com/t/1250753",
+      "source": "v2ex",
+      "publishedAt": "2026-10-21T14:28:39.000Z",
+      "score": 15,
+      "author": "KentonMercer",
+      "excerpt": "今天看到 PHP 爆了两个严重漏洞，官方马上发修复版本，手头有线上服务的还得先准备更新。不过看到这消息，又有点纠结老项目要不要转 Go 。 开新坑选语言很容易，Go 可以，ts 也行。但一个稳定跑了好几年的 PHP 老项目，推倒重写，实在下不去手，或者说很难下定决心去重构。 想问问实际做过 PHP 迁 Go 的 V 友：当初真正促使你们动手的原因是什么？跑了一段时间后，体感提升最明显的是性能、部署，还是日常维护？",
+      "section": "cn-tech",
+      "rankScore": 0.802078
+    },
+    {
+      "id": "4950b06bef54c841",
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "source": "krebs",
+      "publishedAt": "2026-10-21T15:26:07.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers.",
+      "section": "security",
+      "rankScore": 0.717086
+    },
+    {
+      "id": "47de5e4aacdb6d61",
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-22T16:12:31.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018.",
+      "section": "security",
+      "rankScore": 0.674221
+    },
+    {
+      "id": "304ed9fb91900851",
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-20T15:38:52.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.",
+      "section": "security",
+      "rankScore": 0.662173
+    },
+    {
+      "id": "4c1561c1ffac8d13",
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-23T13:50:56.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.",
+      "section": "security",
+      "rankScore": 0.60876
+    },
+    {
+      "id": "7d9942d8cc9c48f4",
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-22T19:05:35.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it.",
+      "section": "security",
+      "rankScore": 0.608226
+    }
+  ],
+  "warnings": []
+}
