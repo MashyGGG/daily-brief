@@ -56,6 +56,76 @@
           "lastError": null
         }
       }
+    },
+    "daily": {
+      "sources": [
+        {
+          "date": "2026-10-26",
+          "slot": "morning"
+        },
+        {
+          "date": "2026-10-26",
+          "slot": "evening"
+        }
+      ],
+      "itemCount": 30,
+      "itemIds": [
+        "a62a1e8f92b544aa",
+        "cb1a82d3e47b4544",
+        "208ff2a3b4112e1e",
+        "2806814bc7822c0e",
+        "cfb28263efa5a74d",
+        "4323e3f5fc0b2fd8",
+        "14f8656a03f0e472",
+        "f8f781c1e686d0b0",
+        "9465785d87c50b62",
+        "7d35b9564fc8ce97",
+        "4c581707395a78a2",
+        "ca8e84036f393f65",
+        "64288ebffb3c43bf",
+        "84d1630788206af8",
+        "52253909cf8572e1",
+        "954e196ca09f1226",
+        "2db4d4fbfdbda0d3",
+        "c915ad475e06118c",
+        "5b108dde56331a5d",
+        "82e27fa1b9e29128",
+        "6e2782d39d7aae2a",
+        "ab5c871859b18ef3",
+        "69637c9b0655db36",
+        "9faf4b74829ddbd4",
+        "c6ad68094e20c306",
+        "c75d3d1618c84ff4",
+        "7b5404ed403c1283",
+        "18b99c2c4c029bdf",
+        "bb47f5985809f204",
+        "59945f7da7d2baf0"
+      ],
+      "contentHash": "7880e9e94da533d6",
+      "targets": {
+        "notion-archive": {
+          "platform": "notion",
+          "status": "published",
+          "postId": "4059696e-9c08-81f6-bdc0-c6f88eebc396",
+          "url": "https://app.notion.com/p/2026-10-26-4059696e9c0881f6bdc0c6f88eebc396",
+          "contentHash": "7880e9e94da533d6",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-10-26T18:44:26.697Z",
+          "lastError": null
+        },
+        "juejin": {
+          "platform": "juejin",
+          "status": "draft",
+          "postId": "7700873592036589568",
+          "url": "https://juejin.cn/editor/drafts/7700873592036589568",
+          "contentHash": "7880e9e94da533d6",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-10-26T18:44:26.697Z",
+          "lastError": null
+        }
+      }
     }
   }
 }
