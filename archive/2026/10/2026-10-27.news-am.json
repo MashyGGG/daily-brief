@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-27",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-27T01:36:15.261Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "fc389cc7737b62dc",
+      "title": "「鐵蛋白臉」真的存在嗎？從外表能否判斷缺鐵？",
+      "url": "https://www.bbc.com/zhongwen/articles/cx4g103g9jnvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-27T00:19:12.000Z",
+      "excerpt": "一些聲稱能發現缺鐵症狀的影片在網路上吸引了數百萬的點擊量。",
+      "section": "news",
+      "rankScore": 0.814315
+    },
+    {
+      "id": "981bbe7563068a9a",
+      "title": "卢拉逆转赢得巴西总统大选，打击拉美右翼浪潮",
+      "url": "https://cn.nytimes.com/world/20261027/brazil-election-president-lula-bolsonaro/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-27T01:05:48.000Z",
+      "author": "ANA LONOVA,ADAM B. ELLICK",
+      "excerpt": "卢拉逆转击败博索纳罗，后者拒绝接受选举结果，称存在舞弊。这是拉美地区过去18个月来首次出现左翼领导人胜选，但卢拉仍然面临领导一个严重分裂国家的艰巨任务。 Andre Penner/Associated Press 周日，赢得连任的卢拉在圣保罗。",
+      "section": "news",
+      "rankScore": 0.760695
+    },
+    {
+      "id": "f7d4e4a5618acb7e",
+      "title": "中国的“毒贷款”如何将赞比亚推入债务危机",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261026-%E4%B8%AD%E5%9B%BD%E7%9A%84-%E6%AF%92%E8%B4%B7%E6%AC%BE-%E5%A6%82%E4%BD%95%E5%B0%86%E8%B5%9E%E6%AF%94%E4%BA%9A%E6%8E%A8%E5%85%A5%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-26T22:47:54.000Z",
+      "author": "阿曼亭",
+      "excerpt": "法国世界报周一刊出的一篇调查文章显示了，中国的“毒贷款”是如何将赞比亚推入债务危机的。 法国世界报参加的国际调查记者同盟（ICIJ）发起了一项名为《中国资本》（China Capital）的合作调查。调查显示，自2010年代以来，中国成为赞比亚最大的债权国。中国工商银行等金融机构向赞比亚提供了大量贷款，用于建设电力设施、公路、机场等项目。这些资金一度帮助赞比亚推进基础设施建设，但是，部分贷款的利息高、项目的风险大，加上铜价下跌，通货膨胀上升，利率上涨，贷款成本越来越高，最终使赞比亚陷入严重的债务危机。",
+      "section": "news",
+      "rankScore": 0.653235
+    },
+    {
+      "id": "4d603b42d287f365",
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-26T21:31:53.000Z",
+      "excerpt": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+      "section": "news",
+      "rankScore": 0.568907
+    },
+    {
+      "id": "632ff3e20ac0b9c7",
+      "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
+      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-27T01:22:53.000Z",
+      "author": "Raja Abdulrahim",
+      "excerpt": "Nine people were killed and dozens were wounded in the attack last week on a Greek Orthodox Church in southern Jordan.",
+      "section": "news",
+      "rankScore": 0.557029
+    },
+    {
+      "id": "0514887e82417382",
+      "title": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-27T01:20:56.000Z",
+      "excerpt": "Bayern Munich and England striker Harry Kane has won his first Ballon d’Or after a record-breaking season.",
+      "section": "news",
+      "rankScore": 0.556595
+    },
+    {
+      "id": "9e5d26b746dc1329",
+      "title": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-27T00:31:37.000Z",
+      "author": "Nick Robins-Early",
+      "excerpt": "Newsom accuses Trump of ‘assault on democracy’ as DoJ claims 20,000 registered voters in state are non-citizens A US federal appeals court rejected the Trump administration’s move to block California from counting the ballots of 20,000 registered voters that the justice department claims are…",
+      "section": "news",
+      "rankScore": 0.545636
+    },
+    {
+      "id": "5e68004cde840d3f",
+      "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+      "url": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-27T00:48:05.000Z",
+      "author": "Devlin Barrett",
+      "excerpt": "Lawyers for James B. Comey said the case centered on an issue that had already been investigated and had not led to charges, of a purported leak of national security information to The Times in October 2016.",
+      "section": "news",
+      "rankScore": 0.480633
+    },
+    {
+      "id": "07ddeb78b4cc097f",
+      "title": "Channel 4 strikes streaming deal with Disney",
+      "url": "https://www.ft.com/content/ae3a1dfb-d7ba-4c88-a6da-cb28b2a1139a?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-27T00:01:06.000Z",
+      "excerpt": "Agreement comes as linear broadcasters struggle to compete with US media giants",
+      "section": "news",
+      "rankScore": 0.471498
+    },
+    {
+      "id": "78a42feb7ac149c5",
+      "title": "独立调查委员会：俄袭击乌能源设施构成国际罪行，并贩运外国人员参战",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143066",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
+      "excerpt": "由联合国人权理事会设立的乌克兰问题独立国际调查委员会周一发布的一份新报告指出，俄罗斯当局持续袭击乌克兰能源基础设施，构成蓄意攻击平民和民用物体的战争罪，以及实施其他不人道行为的危害人类罪。委员会还发现，俄罗斯当局通过欺骗和胁迫手段，从多个国家贩运人员加入俄军，违反了国际人权法。",
+      "section": "news",
+      "rankScore": 0.425936
+    },
+    {
+      "id": "b76a8a2a463a2e52",
+      "title": "乌克兰危机现缓和信号，和平之路仍漫长曲折",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CVUtfbm0tZ0NuUUprNkpLTjR5d0d0WFltbi1tNk1yTXFmc1VpTFA4REFCS185NVgtRjhMWEU1dy15THVKWDNnY2w3c1JtR2ROR1V1czlBcHp2bzNkMEFORXpjeDhOeEJvdTJDSXAwVmxxSlhQWWZjUWNR?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-27T01:09:00.000Z",
+      "excerpt": "乌克兰危机现缓和信号，和平之路仍漫长曲折 中国网 泽连斯基不接受放弃25%领土提议，普京会如何接招？ 凤凰网 乌总统称愿沿接触线冻结战事 寻求现实途径结束冲突 中华网 泽连斯基：领土议题是红线，乌克兰中立不在谈判议程之内 观察者网 多国联军，发动空袭！泽连斯基：不会为结束冲突放弃更多领土 新浪财经",
+      "section": "news",
+      "rankScore": 0.415458
+    },
+    {
+      "id": "0c37b0d35ec8503f",
+      "title": "AI giant Anthropic files for an IPO that could break records",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+      "source": "npr-news",
+      "publishedAt": "2026-10-26T14:16:23.000Z",
+      "author": "John Ruwitch",
+      "excerpt": "The AI company, which makes the popular Claude chatbot, has filed for an initial public offering that could be one of the biggest ever.",
+      "section": "news",
+      "rankScore": 0.357803
+    },
+    {
+      "id": "d4bf0eb13328c374",
+      "title": "量质齐升，中国外贸何以表现强劲？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721461.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-27T00:59:27.000Z",
+      "excerpt": "量质齐升，中国外贸何以表现强劲？(开放谈)",
+      "section": "cn-news",
+      "rankScore": 0.827732
+    },
+    {
+      "id": "8b7d9826a02f417e",
+      "title": "机构：运营力正成为衡量住房租赁资产长期价值新尺度",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721454.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-27T01:31:06.000Z",
+      "excerpt": "中新网北京10月27日电(记者 谢艺观)“当规模红利逐渐退去，运营力正在成为衡量住房租赁资产长期价值的新尺度。”ICCRA住房租赁产业研究院院长赵然在第八届领航·住房租赁产业国际论坛上如是表示。",
+      "section": "cn-news",
+      "rankScore": 0.628711
+    },
+    {
+      "id": "a0af04892bc09be9",
+      "title": "韩国交易所启动SIDECAR机制",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tQ1FrMHFVU1piVVAyVEZLOVVRd3YzbGd3ZEZvYldIUE9uUS1Eb0lxb0I4NUJ2V3dfR29DaVRjUWRfUU94eGRycW5La0ljOFdqUlhUVEZpQXU?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-27T01:20:28.000Z",
+      "excerpt": "韩国交易所启动SIDECAR机制 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.626053
+    },
+    {
+      "id": "be7d66457190d2c2",
+      "title": "全球治理论坛·专访｜米埃勒：AI若有20%的概率毁灭人类，我们该怎么办？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RMWp0LXQ3Um0yRzN5bnVkcWJQRVdNelY0aHc5czdoTlJzN1NuOVM2Ry1iUDNxM243SHUycTZ6cmtadWJPOXVsaFhyVzM0MUJWcHhTeGdmNElJenJpSUxZNA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-26T23:47:00.000Z",
+      "excerpt": "全球治理论坛·专访｜米埃勒：AI若有20%的概率毁灭人类，我们该怎么办？",
+      "section": "cn-news",
+      "rankScore": 0.602686
+    },
+    {
+      "id": "59944c6deac61d3b",
+      "title": "中国新发现或完全海生两栖动物化石 距今逾2.3亿年命名海异螈",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721431.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-26T16:03:28.000Z",
+      "excerpt": "中新网北京10月27日电 (记者 孙自法)如今地球上，并没有完全生活在海洋中的两栖动物。而几亿年前的远古地质时期是何情况，此前因缺乏化石证据而一直不得而知。",
+      "section": "cn-news",
+      "rankScore": 0.594982
+    },
+    {
+      "id": "8215f30efc0256ac",
+      "title": "数字思政自主知识体系元理论建构的逻辑与进路",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9od0xlN2dPQXZrNER6dTRVSVZzOVVBbmhKWEV4aE1zRTlEcEdSTDMtZlRKQjItRVQxMjdIQm1vaHBITll1RG8yRU1veUxGcFlrTjJmSzJ5b0FMckxfSm5BMHdDbVhmWnRRdFJXVFU1RkNjMTRsTVJraA?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-27T01:19:54.000Z",
+      "excerpt": "数字思政自主知识体系元理论建构的逻辑与进路 中国社会科学网 “聚焦新时代立德树人工程推动高校思政教育高质量发展”研修班10月23-25日在新疆乌鲁木齐成功举办 新华网 “人工智能赋能课程思政”暨课程思政建设研讨会在四川大学举办 搜狐网 AI赋能场馆思政教学研讨会在成都理工大学召开 半月谈 第八届大数据与哲学社会科学专题研讨会暨全国“人工智能时代思政课改革创新”学术论坛在天外举办 China Daily",
+      "section": "cn-news",
+      "rankScore": 0.556366
+    },
+    {
+      "id": "38c7104e6fd50a17",
+      "title": "Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure",
+      "url": "https://www.scmp.com/news/china/military/article/3372189/taiwan-looks-autonomous-swarms-counter-beijings-grey-zone-pressure",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-27T01:00:10.000Z",
+      "author": "Lawrence Chung",
+      "excerpt": "Taiwan is developing an AI-powered system to coordinate drone fleets for maritime surveillance and countering “grey-zone” activities, with researchers completing a simulation involving 20 aircraft, according to the island’s Ocean Affairs Council.",
+      "section": "cn-news",
+      "rankScore": 0.482983
+    },
+    {
+      "id": "d7b195a10ba1a00f",
+      "title": "“广交世界70年”主题展：全景呈现广交会发展历程",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMDhLdkRhWUozcDNlT3hZSmJBS1ZtUkFHQXBLanVqV0YtQndPdzY2SWVXSWdlWlphMVhmX1BfWG90LUtiTXpNdEQxWHBpbGtRV3pUTzVkSVAwLUd0U3hpdVVaVTlQSEtTSTVxMm0wSnc2WGZUZWpyWnFTVDFiYktZeDlMUDF3NThLR2ZmajQ5SzlJc1d5Rjd2Mmxn?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-27T00:51:37.000Z",
+      "excerpt": "“广交世界70年”主题展：全景呈现广交会发展历程 新华网客户端 从广交会看“超级卖家”中国的“惠邻效应” 光明网 东方美学融入轻工产品 非遗新品闯海外打开新空间 浙江在线 全球客商聚焦中国创新，六联智能携多形态AI产品亮相广交会 finance.sina.com.cn 3709家苏企“出征”第140届广交会 多项指标创历史新高 央视网",
+      "section": "cn-news",
+      "rankScore": 0.48132
+    },
+    {
+      "id": "bb2655fe17cb44e7",
+      "title": "中國2026年前3季空汙 北京天津河北PM2.5更嚴重",
+      "url": "https://www.cna.com.tw/news/acn/202610260255.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-26T14:59:24.000Z",
+      "excerpt": "（中央社記者馮昭上海26日電）中國生態環境部今天公布，中國今年前3季細懸浮微粒（PM2.5）平均濃度年減3.9%，空氣品質優良天數比例年增2.8個百分點。但京津冀及周邊地區PM2.5平均濃度年增12.1%，空汙未改善。",
+      "section": "cn-news",
+      "rankScore": 0.418477
+    },
+    {
+      "id": "0351c12f37f22e48",
+      "title": "俄称希望塞议会选举胜选者建设性对待与俄关系--国际",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PeTBlel96OVE0MWplTThBSHoyeHJYeWVEc1ViOU0xZHl6dkxnLU1GOVVnX3Mtb3kxMmdVZnFfWHVWYnBzZFVibS1oNWRlazN0RzZZVUZxNnFhQnViQUdxY200RzJYR0ViTWZJ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-27T00:37:00.000Z",
+      "excerpt": "俄称希望塞议会选举胜选者建设性对待与俄关系--国际 人民网 学生支持的反对派在塞尔维亚选举中击败了武契奇的政党 美国之音 塞尔维亚选举变局：胜选方否认将制裁俄罗斯，武契奇败选后预言新政府明年对俄行动 凤凰网 小杭夜聊买房你有不能买的楼层吗 新浪财经 中国网民很喜欢的武契奇落选了，这有什么后果？ 观察者网",
+      "section": "cn-news",
+      "rankScore": 0.410124
+    },
+    {
+      "id": "a604261c0f28cc62",
+      "title": "2026大理情歌会在“有风的地方”上演“山海和鸣”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721468.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-27T01:29:18.000Z",
+      "excerpt": "中新网大理10月27日电 (罗婕)“山海和鸣，歌叙大理。”26日晚，苍山脚下、洱海之畔，2026大理情歌会在云南省大理白族自治州大理市双廊国际艺术中心举行。",
+      "section": "cn-life",
+      "rankScore": 0.837682
+    },
+    {
+      "id": "56f0d32898330cc1",
+      "title": "“修补牙洞、抗幽门螺杆菌”宣传别轻信！买牙膏认准这8类",
+      "url": "https://www.chinanews.com.cn/life/2026/10-27/10721472.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-27T01:31:58.000Z",
+      "excerpt": "补牙洞、抗幽门螺杆菌、治牙龈出血",
+      "section": "cn-life",
+      "rankScore": 0.698809
+    },
+    {
+      "id": "554be833fa2c51d6",
+      "title": "热点追击丨人工智能助力就业友好型发展意见印发",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTld5RnNoRUFjUC10Q1VQakVOS3NkdTctMWp6eWlyaU80Rzd3WlJqcUlXMGhHMm5UeE5Pc1htMTQ1LWNuXzFBTzJoTW1CcW5wVDNGZnp4dDlldjJVcC1WbEZmTF9pZjI2WDNwYmJGdFkyZFhFNlI5S1Z6MUV1VFk?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-27T01:25:00.000Z",
+      "excerpt": "热点追击丨人工智能助力就业友好型发展意见印发 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.627186
+    },
+    {
+      "id": "12aae0797d150b66",
+      "title": "24小时与时间赛跑北京大学第三医院援藏专家紧急救治巴青地震伤员",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kSGxhaVdsbm0tNFBVelktMkk4ZHhMMUhCR2tMZl9TV3EyU0tCNzFrb1pqNWtHb01ZZzhiY0tEU0NmUzhsRzE3UHNxaVF5Sk1GS3lvQkZKdks5TXRaT21vbWcxcTQzZTR6U05UZHBWYmQzRk9YZWQwUGFYWlc?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-27T01:21:38.000Z",
+      "excerpt": "24小时与时间赛跑北京大学第三医院援藏专家紧急救治巴青地震伤员 北京市卫生健康委员会",
+      "section": "cn-life",
+      "rankScore": 0.626345
+    },
+    {
+      "id": "fd00e3620d09e6a9",
+      "title": "不动产权证遗失声明--四九镇邝巨康",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfeWM4SGVfbS1qYnViNDNXWkpaQmU5alZjVjRpSW5FaURjTDF0WERranRiRnJfdkM4ZGV1LTRZVllBeE13Z29Qdl9Ldm1lR29vM09zcXd3Q25tdlkzam5fazcydWpSMnNqNy14WWpncjNNNU56STJ4a0haYThMZw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-27T00:46:07.000Z",
+      "excerpt": "不动产权证遗失声明--四九镇邝巨康 台山市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.548858
+    },
+    {
+      "id": "1e23d5b8e26ce305",
+      "title": "绝经后出血莫轻视 典型病例敲警钟，提防子宫内膜癌",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VS3U1ZC1oVWZIU2laTnkxczhXWWxsOTBHUm40NDVQY1VDOWpuTThRNFdOVVFfRGt0SnEyWmlUb1VfRkZlY0c1UXhGZDlIV1JUZldkcW1GNHdQMzhWMkx2cHFwTl91dGVVYU1uX0RmSQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-27T00:58:00.000Z",
+      "excerpt": "绝经后出血莫轻视 典型病例敲警钟，提防子宫内膜癌 泉州网",
+      "section": "cn-life",
+      "rankScore": 0.482562
+    },
+    {
+      "id": "706e41bceffe0d7b",
+      "title": "中华人民共和国药品管理法实施条例",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vbjgtblNEMnlPYWlWRFZvQzhaY2l0cU5FdmIwbnIzb2pMTk9ubzkzS0FaX2dGU296OFFlYU9oNWZZVFNLcUtjWWltMWNYc3Q1SU1hU2FiMXBBb3phNUtqd25LSDkwN0gtSzVuSmxHWkYwdWxjRWdtag?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-27T00:34:51.000Z",
+      "excerpt": "中华人民共和国药品管理法实施条例 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.47806
+    },
+    {
+      "id": "276ab46b7b5c80d9",
+      "title": "产业往哪里走，专业就往哪里跟",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04X2d1VG9qdWhjRXpWRFFhandUMkZRUTk3cVd5YjBJMDR0OHZ3UVlTa01qemktZ1hnUDZzc0lvWXYwLUY5Q0FyN3dJV28weUdjcTB2MjJVQUlWUlB4aHBHZ0Ntbk1id2dQTDUw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-27T01:34:51.000Z",
+      "excerpt": "产业往哪里走，专业就往哪里跟 中国教育新闻网",
+      "section": "cn-life",
+      "rankScore": 0.419766
+    }
+  ],
+  "warnings": []
+}
