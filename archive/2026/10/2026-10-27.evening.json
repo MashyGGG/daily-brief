@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-27",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-27T17:57:26.779Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "b0c9318e6601e1fa",
+      "title": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-27T17:57:26.779Z",
+      "score": 1587,
+      "excerpt": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "4a64c7cdfe60eafe",
+      "title": "The US government is hiding secret court ruling about how it spies on Americans",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-27T14:06:42.000Z",
+      "score": 421,
+      "author": "helterskelter2",
+      "excerpt": "421 points · 138 comments · https://news.ycombinator.com/item?id=50259604",
+      "section": "tech",
+      "rankScore": 0.948145
+    },
+    {
+      "id": "b4e40f72f8f9a8d4",
+      "title": "Fast, reliable A2UI, with swappable inference formats",
+      "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-27T17:57:26.779Z",
+      "excerpt": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style syntax into standard A2UI JSON via Agent SDKs.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "13760f355569b83a",
+      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-10-27T16:19:22.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "“AI SRE” is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
+      "section": "tech",
+      "rankScore": 0.718625
+    },
+    {
+      "id": "94df4b909c23b20b",
+      "title": "How Apple Fits an LLM on Your iPhone",
+      "url": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-27T15:31:04.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "How is Apple able to fit such a model on an iPhone without any adverse impact on the device?",
+      "section": "tech",
+      "rankScore": 0.693325
+    },
+    {
+      "id": "1cbb3f15ad2a145d",
+      "title": "The Shift of Theseus — Toy Bit Provenance Abstract Domain",
+      "url": "https://www.pypy.org/posts/2026/10/toy-bit-provenance.html",
+      "source": "lobsters",
+      "publishedAt": "2026-10-27T17:53:09.000Z",
+      "author": "pypy.org via asb",
+      "section": "tech",
+      "rankScore": 0.680505
+    },
+    {
+      "id": "15ea2b7443acbb04",
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "huggingface",
+      "publishedAt": "2026-10-27T17:16:52.000Z",
+      "section": "ai",
+      "rankScore": 0.765761
+    },
+    {
+      "id": "2e84205bd3bc865d",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "huggingface",
+      "publishedAt": "2026-10-27T16:12:42.000Z",
+      "section": "ai",
+      "rankScore": 0.731386
+    },
+    {
+      "id": "f93b3a047db2176d",
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "url": "https://latent.space/p/offline-coding/",
+      "source": "latent-space",
+      "publishedAt": "2026-10-27T14:41:25.000Z",
+      "author": "Rittika Jindal",
+      "excerpt": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
+      "section": "ai",
+      "rankScore": 0.667318
+    },
+    {
+      "id": "acb2537d03a8cb73",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "openai",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "excerpt": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "section": "ai",
+      "rankScore": 0.483663
+    },
+    {
+      "id": "4b2b5b22457adfba",
+      "title": "你们会刻意避免让 AI 接触到自己的任何敏感信息吗？",
+      "url": "https://www.v2ex.com/t/1252346",
+      "source": "v2ex",
+      "publishedAt": "2026-10-27T12:10:05.000Z",
+      "score": 7,
+      "author": "1OF7G",
+      "excerpt": "似乎很难。随着 AI 深入到方方面面，各种账号 id ，vps 信息，各种 key ，个人真实姓名 公司 身份证 银行卡 地址 甚至各种密码，似乎都难以避免的被模型一点点得知了。 这些数据可能都一直存在某一个地方，随时可能被读取，而不像密码一样库里存的是不可复原 hash 。 也许大厂训练下一代模型会先过滤下敏感数据。不太会有，比如，GPT7 看到你名字和地址直接就想起了你的身份证号这种事。 但是中转站这种真得小心，用的时候如果不注意一点，那分分钟泄露大量隐私。且完全不能信任他们会不记录，也不能保证不会泄露。",
+      "section": "cn-tech",
+      "rankScore": 0.72113
+    },
+    {
+      "id": "5d8f82a5a6af5a40",
+      "title": "维基百科如何清理 AI 生成文本",
+      "url": "https://www.solidot.org/story?sid=85727",
+      "source": "solidot",
+      "publishedAt": "2026-10-27T15:16:06.000Z",
+      "excerpt": "2023 年维基百科志愿者发起了 WikiProject AI Cleanup 项目，旨在清理 AI 生成文本。当时的 AI 文本还很容易识别。项目创始成员 Ellia Lebleu 指出，当时的 AI 文本频繁使用奇怪短语如 stands as a testament、rich cultural heritage...甚至还喜欢插入总结性段落如 Why is this important? 但到了 2025 年 AI 生成文本特征变得更隐蔽了。AI 文本也更具结构性，偏好三法则（rule of three）、否定式平行等等。",
+      "section": "cn-tech",
+      "rankScore": 0.685485
+    },
+    {
+      "id": "754352a02baf3fe3",
+      "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
+      "url": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-27T17:17:00.000Z",
+      "author": "作者：Steef-Jan Wiggers",
+      "section": "cn-tech",
+      "rankScore": 0.68074
+    },
+    {
+      "id": "b3ef77976798a07a",
+      "title": "中国版Muse来了！蚂蚁灵光2.0领跑Personal Agent赛道",
+      "url": "https://www.36kr.com/p/4043978243953537",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-27T15:29:29.000Z",
+      "author": "碧根果",
+      "excerpt": "双11来了，对购物老手来说，下单前往往还有一长串准备工作。 先列清单，跨平台比价，计算优惠券和满减，再定好付尾款的闹钟。好不容易买完，过两天发现价格又降了，还得查保价规则、找订单、申请退差价。 足够丰富的商品和发达的互联网服务便利了人们的生活，也让人陷入到眼花缭乱的筛选和执行中。这在AI时代有什么解法吗？ 今年9月，Meta推出Muse，上线三周就达到了500万的下载量。这类Personal Agent展示了一种新可能：用户交代目标，AI在对话结束后继续工作，有变化或需要确认时再联系用户。",
+      "section": "cn-tech",
+      "rankScore": 0.566587
+    },
+    {
+      "id": "34a2ff17842bc0ea",
+      "title": "OpenAI 和 Anthropic 将大模型价格砍了八成，这门生意到底怎么算的？",
+      "url": "https://www.oschina.net/news/503251/cheap-llms",
+      "source": "oschina",
+      "publishedAt": "2026-10-27T11:41:06.000Z",
+      "excerpt": "从六月 GPT-5.6 系列发布到现在，OpenAI 和 Anthropic 的主流模型价格塌了一大截，最多砍掉 80%。Max Woolf 把这场价格战的时间线全捋了一遍，结论有点反直觉：这不像烧钱抢市场的套路。 先看数字怎么掉的。GPT-5.6 Sol 卖 $5/$30/$0.50（输入/输出/缓存读取，每百万 token），Luna 是 $1/$6/$0.10。后来 Luna 直接砍 80...",
+      "section": "cn-tech",
+      "rankScore": 0.468709
+    },
+    {
+      "id": "025c4f9279a59758",
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-27T13:59:48.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups.",
+      "section": "security",
+      "rankScore": 0.586835
+    },
+    {
+      "id": "7d9e6683f0bb0277",
+      "title": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in information disclosure, tampering with,…",
+      "section": "security",
+      "rankScore": 0.529787
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
