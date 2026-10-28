@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-28",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-10-28T01:38:46.484Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "56581e6c75d5a189",
+      "title": "「鞠躬不僅僅是一種問候」：日本肢體語言中不言而喻的規則",
+      "url": "https://www.bbc.com/zhongwen/articles/ckrey039nxryo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-10-28T00:47:51.000Z",
+      "excerpt": "從招手示意某人過來，到示意結帳，學習常見的日本手勢能幫助你在日本的社交場合中不發一語也能應對自如。我們的專家將教你如何做到。",
+      "section": "news",
+      "rankScore": 0.823025
+    },
+    {
+      "id": "804e922eab1194b0",
+      "title": "“机器人健身房”：欧洲在机器人领域追赶中国",
+      "url": "https://cn.nytimes.com/business/20261028/neura-robotics-germany-china-ai/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-10-28T00:37:35.000Z",
+      "author": "JAMES PATON",
+      "excerpt": "纽鼐机器人是致力于将人工智能应用于机器人领域的欧洲领先企业之一，对于欧洲能否缩小与中国的差距至关重要。在“机器人健身房”中，机器人接受训练，变得更像人类。 Roderick Aichinger for The New York Times",
+      "section": "news",
+      "rankScore": 0.751303
+    },
+    {
+      "id": "295c7835a902b8a7",
+      "title": "姆巴佩关于毛泽东是“独裁者”的言论，经济代价高昂！",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261027-%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%85%B3%E4%BA%8E%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%98%AF-%E7%8B%AC%E8%A3%81%E8%80%85-%E7%9A%84%E8%A8%80%E8%AE%BA%EF%BC%8C%E7%BB%8F%E6%B5%8E%E4%BB%A3%E4%BB%B7%E9%AB%98%E6%98%82",
+      "source": "rfi-zh",
+      "publishedAt": "2026-10-27T23:03:11.000Z",
+      "author": "阿曼亭",
+      "excerpt": "法国世界报周二就法国足球明星姆巴佩有关毛泽东的言论发表了文章。该报写道，在中国，姆巴佩关于毛泽东是“独裁者”的言论，经济代价高昂。",
+      "section": "news",
+      "rankScore": 0.65678
+    },
+    {
+      "id": "38641685fd10c904",
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-10-28T00:04:29.000Z",
+      "excerpt": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "section": "news",
+      "rankScore": 0.606427
+    },
+    {
+      "id": "813b61b64c773166",
+      "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-10-28T01:24:44.000Z",
+      "author": "Jonathan Yerushalmy (now); Lucy Campbell, Frances Mao and Yohannes Lowe (earlier)",
+      "excerpt": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Analysis: Rise of Palestinian parties in Knesset…",
+      "section": "news",
+      "rankScore": 0.55688
+    },
+    {
+      "id": "22073449790986cc",
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
+      "source": "nyt-world",
+      "publishedAt": "2026-10-28T01:16:55.000Z",
+      "author": "David M. Halbfinger, Max Bearak, Isabel Kershner, Aaron Boxerman and Johnatan Reiss",
+      "section": "news",
+      "rankScore": 0.555143
+    },
+    {
+      "id": "d342f69e6f2d6ab2",
+      "title": "Arab parties projected to win 18 seats in Israeli parliamentary election",
+      "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-10-28T00:43:56.000Z",
+      "excerpt": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
+      "section": "news",
+      "rankScore": 0.547813
+    },
+    {
+      "id": "1e50270bde45bb94",
+      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto",
+      "url": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-10-28T01:05:28.000Z",
+      "author": "Kenneth Chang",
+      "excerpt": "The object, known for now as 2026 ED138, is one of the first discoveries by the new Vera C. Rubin Observatory in Chile.",
+      "section": "news",
+      "rankScore": 0.483523
+    },
+    {
+      "id": "85f09aa594a88f70",
+      "title": "Healey puts UK energy reform at centre of his ‘do no harm’ Budget",
+      "url": "https://www.ft.com/content/427a7624-d710-4078-9a7e-d23fdb0b2975?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-10-27T23:35:42.000Z",
+      "excerpt": "Chancellor to pledge extra support for businesses, entrepreneurs and households during ‘difficult moment’",
+      "section": "news",
+      "rankScore": 0.466069
+    },
+    {
+      "id": "5203ff60f12ec7ab",
+      "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
+      "source": "npr-news",
+      "publishedAt": "2026-10-27T21:17:57.000Z",
+      "author": "Adam Burke",
+      "excerpt": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
+      "section": "news",
+      "rankScore": 0.439284
+    },
+    {
+      "id": "065c76c8a2da11eb",
+      "title": "世界气象组织：创纪录的二氧化碳浓度将对人类产生的影响将长达数世纪",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143076",
+      "source": "un-news-zh",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "excerpt": "世界气象组织周二表示，2025年，因燃烧化石燃料导致的大气中二氧化碳及其他主要温室气体的浓度达到创纪录高位，这将导致全球变暖趋势进一步固化。",
+      "section": "news",
+      "rankScore": 0.425306
+    },
+    {
+      "id": "d02d323e2ceb2ac5",
+      "title": "美军称在东太平洋打击“贩毒船”致5人死亡",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNk1WUmNnamVfNTVtbmhUZnhMM1ZpQVZPWGFkR0Zmd1drbW4zdlNRVHNLT3lCRGQzVmhQVjRPTFkycVJtcE9jOGtSR2FpM1d0R3JhMVVGR0FUM0RzZkt4Q3Q0LW51MDVhbHV5V3pXYjZjYWhGQTFieEZzODd1RmlMNzZCckMwb3pON3czVF9EVURVZEV6UUdjc0Nn?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-10-28T01:12:46.000Z",
+      "excerpt": "美军称在东太平洋打击“贩毒船”致5人死亡 新华网客户端 美军在东太平洋打击一艘“贩毒船” 致5人死亡 凤凰网 美军打击一艘“贩毒船” 致5人死亡 行动引发争议 中华网 突发，美军开火；多国联军，发动空袭；霍尔木兹海峡大消息，油轮起火；特朗普称美国已经击败伊朗；美股集体上涨，国际油价下跌丨每经早参 每日经济新闻 美国称袭击船只后5人死亡——《卫报》 UA.NEWS",
+      "section": "news",
+      "rankScore": 0.415665
+    },
+    {
+      "id": "b4b61692253d543f",
+      "title": "第140届广交会到会境外采购商已达27.8万名",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721988.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-10-28T01:04:40.000Z",
+      "excerpt": "中新网广州10月28日电 (记者 程景伟)第140届广交会第二期27日在广州闭幕。据广交会新闻中心通报，本届广交会10月15日开幕以来，截至10月27日17时，共有来自218个国家和地区的27.8万名境外采购商到会，比上届同期增长13.4%；152家境外工商机构、384家头部采购企业组团参会。",
+      "section": "cn-news",
+      "rankScore": 0.828631
+    },
+    {
+      "id": "0eed45cfb9f70687",
+      "title": "受冷空气影响 泉金客运航线临时停航",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721991.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-10-28T01:06:32.000Z",
+      "excerpt": "中新网泉州10月28日电 (记者 孙虹)泉(州)金(门)客运交流平台28日发布通知称，受冷空气影响，目前气候风力不满足客船通航条件，为保障旅客和船舶安全，泉金客运航线当天临时停航。",
+      "section": "cn-news",
+      "rankScore": 0.760148
+    },
+    {
+      "id": "9260a7f426b6e8b8",
+      "title": "第四届可持续植物油大会在上海举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722004.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-10-28T01:33:05.000Z",
+      "excerpt": "中新网上海10月28日电 (记者 姜煜)第四届可持续植物油大会(SVOC)27日在上海举办。大会由棕榈油生产国理事会(CPOPC)主办，印度尼西亚驻华大使馆和马来西亚驻华大使馆联合主办，这也是 SVOC首次走进中国。此前，大会在印度尼西亚、印度和荷兰相继举办。",
+      "section": "cn-news",
+      "rankScore": 0.628577
+    },
+    {
+      "id": "280f3a9cc93e750b",
+      "title": "金沙中国有限公司：拟发行优先票据",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxYmdiTF9GY3F6WWpjV3NIQjNZOUNpX2ctUVJzSFg5eW1NSDFKQV9FSzRGbXRIbFZlN0RzS2ZmSV9Fc2FXVU1aclJadnhPNHljcHI3RmROLTQ?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-10-28T00:10:40.000Z",
+      "excerpt": "金沙中国有限公司：拟发行优先票据 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.607973
+    },
+    {
+      "id": "d98db3644385c63d",
+      "title": "多地秋假安排密集落地，有网友建议景区将淡季门票提前执行",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FZUdfdVdRZUdCWm9ZUzVhVU1CdVQySHk2NTV3R1RlLU02Z3lRZFdEbnZCMGdOdk1ZYnBzRURXVGg3bzBtd2VPRkFtZTRHRzctVC1MR1Z2N1JtaXVpZURNaA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-10-27T23:16:00.000Z",
+      "excerpt": "多地秋假安排密集落地，有网友建议景区将淡季门票提前执行",
+      "section": "cn-news",
+      "rankScore": 0.594306
+    },
+    {
+      "id": "9aad44838bb6d1c3",
+      "title": "青藏铁路受地震影响区段全面取消限速",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VUzl2UUdhMDVmZHpncWh2cVVNMzgydzhUeFk4d3NKTVBtdTdPM2hhNjAwaFlLZDFhTko0SGZqR1RGNVNtSS15MmhhRnRvUnFDOWlyNjMtWHpub1NnSGFqclFvblY1M3BuUWptemstaC0?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-10-28T01:18:45.000Z",
+      "excerpt": "青藏铁路受地震影响区段全面取消限速 央广网 特写：一个好人，一群好人 新华网 震后救援进行时：华西医疗队带去“心”的支持丨川报早读 finance.sina.com.cn 人间有爱 希望永在 —— 西藏巴青地震72小时记录 光明网 海拔4500米的暖心守护 军民鱼水情在安置点持续流淌 中国青年网",
+      "section": "cn-news",
+      "rankScore": 0.55555
+    },
+    {
+      "id": "b6d65de94806ad1d",
+      "title": "Manila speaks with 2 voices on China",
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3372147/manila-speaks-2-voices-china",
+      "source": "scmp-china",
+      "publishedAt": "2026-10-28T01:30:07.000Z",
+      "author": "Mengzhen Liu,Ziya Guo",
+      "excerpt": "Manila sent two strikingly different messages to Beijing on October 13. At the Malacanang Palace, a presidential spokeswoman reaffirmed Manila’s commitment to sustaining diplomatic and economic ties with China, saying “China needs the Philippines, and the Philippines needs China”. That same day,…",
+      "section": "cn-news",
+      "rankScore": 0.488316
+    },
+    {
+      "id": "c00a0b47e0e1f10b",
+      "title": "前9个月全国规上工业企业利润同比增长15.5%",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zUkpVdWlOLVhwX1FHSjhhY1Vjc2R6WmhxUm56UXpVM2JhTlZHb29pRnhQdUVRZ1NOV3NxRFlId2tiOGYyTi11SExfRGV3S1FmdWt2cDJvTk81ZHEyWTBlbTRFcloyUl9UQk0wUHZkdDBtazF3M3VTM1VKSUJOQQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-10-28T01:07:20.000Z",
+      "excerpt": "前9个月全国规上工业企业利润同比增长15.5% 新华网 一组数据 看我国经济动能向新 经济频道 1—9月份全国规模以上工业企业利润增长15.5% 手机新浪网 电子行业与高技术制造业贡献突出 中国经济网 工业生产稳中有进（锐财经） 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.483886
+    },
+    {
+      "id": "394df9e0a2d59417",
+      "title": "中國進博會開幕在即 學者：短期可能減少貿易順差",
+      "url": "https://www.cna.com.tw/news/acn/202610270315.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-10-27T14:32:28.000Z",
+      "excerpt": "（中央社記者馮昭上海27日電）中國進口博覽會將在11月登場，是否有助減少中國貿易順差，緩和貿易戰隱憂？上海社科院學者今天指出，進博會為進口平台，短期可能影響貿易順差，但進口與出口並非割裂，貿易順差本質是產業競爭力，不能簡單以順差大小評判好壞。",
+      "section": "cn-news",
+      "rankScore": 0.411932
+    },
+    {
+      "id": "27d7858544d607f6",
+      "title": "文脉有根 表达有情 传播有道——2026紫金文化艺术节让舞台艺术邂逅青春力量",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wcl9GMldVbzg1SHh6V3JFUzRFeFl3WWZjTGdYRUtYeUJjMjJxVjRCZzVXUEw4djYyUXRhUWRFSW1BMUJXSnd0VHdnX3l6MWFQVElwRGRpbGVyV21QZlQ5VERWVi1XMGVDcnNlQ2xwQTM?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-10-28T00:29:00.000Z",
+      "excerpt": "文脉有根 表达有情 传播有道——2026紫金文化艺术节让舞台艺术邂逅青春力量 江苏省委新闻网 2026紫金文化艺术节闭幕，获奖名单出炉，青年演员站上C位 搜狐网 紫牛评紫金 | “全女班”越剧《虎踞龙盘》何以圈粉 紫牛新闻",
+      "section": "cn-news",
+      "rankScore": 0.408371
+    },
+    {
+      "id": "d0960acd6398c1ab",
+      "title": "安徽文旅发放“秋假大礼包”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722007.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-10-28T01:34:17.000Z",
+      "excerpt": "中新网合肥10月28日电 (记者 张强)10月27日，在2026年安徽省秋季(秋假)研学旅游活动现场，一份涵盖百余个旅游景区、基地的“秋假大礼包”正式向中小学生送出。",
+      "section": "cn-life",
+      "rankScore": 0.838503
+    },
+    {
+      "id": "fd00366746c0ce2c",
+      "title": "攻坚深蓝苍穹，破解民生密码！“齐鲁最美科技工作者”发布",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SM1JVSG9rNVN3N3lMa1VoVmlXLTZTTk1zLU1BcHp1Mno1NnZuY2YwU19vY19OWjlXWjA1RE9zMHAwT3U2UzNXNzFOTkRPSkJTcXhRbjYyZlRmeFBJcHl5UXQtR2FkNHM?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-10-28T01:30:14.000Z",
+      "excerpt": "攻坚深蓝苍穹，破解民生密码！“齐鲁最美科技工作者”发布 鲁网",
+      "section": "cn-life",
+      "rankScore": 0.627865
+    },
+    {
+      "id": "5791f272147dfe4d",
+      "title": "民航首个《地空多方语音通信系统使用规范》通过专家评审",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NSmtYZTNLUFBwWUd5cElmSUdNT3NIUXZ4b1NRUXM1QUdaRGd2dEhVV25Fam5GMEROenlucnliTlFSQkdBY0FkODZZUkxoZUpjbnRpbUJSM29ITjQ1ZEtUQ1R1R3Y2Ti1PWmc?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-10-28T01:22:00.000Z",
+      "excerpt": "民航首个《地空多方语音通信系统使用规范》通过专家评审 中国民航网",
+      "section": "cn-life",
+      "rankScore": 0.625806
+    },
+    {
+      "id": "356e6de05a5208d0",
+      "title": "累计149项传统医药ISO标准从上海“走出去” 中医药国际化有了“质量保证书”",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR2o3VjNCWmp5WnFEU3N4OHNDQ1dJNUJDQ05tbjFBMFREdkFzOXB3YUtZV0VUX0U5cXFZX2J4RlAyU0dUTTVtdHFWM0o5M05MOXpyOFdQRTNpcGZPbDY2dkRaeEUwbTMxYUlyVGMwTm1FLWtnYU5YNUxRdjNaazRYQmN4c0xKME4t?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-10-28T01:28:52.000Z",
+      "excerpt": "累计149项传统医药ISO标准从上海“走出去” 中医药国际化有了“质量保证书” 上海市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.557798
+    },
+    {
+      "id": "33c21714538c9324",
+      "title": "初级纤毛通过分泌蛋白BUG-1介导C. elegans特异性神经元-胶质细胞附着",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HV1hHZE1NNTVJdWdzTEdHNnVpb2hGQkNPSnJLVHBZN3l2d3NZdklidHllUlp3YnJwTDU4aXA1UDFWaE5ldzVLUzRJdm9nVFVwSGNjMnVCRTZ6UVk1eVphb0c4em13aDJFUTRyODd3?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-10-28T00:34:17.000Z",
+      "excerpt": "初级纤毛通过分泌蛋白BUG-1介导C. elegans特异性神经元-胶质细胞附着 生物通",
+      "section": "cn-life",
+      "rankScore": 0.47746
+    },
+    {
+      "id": "c0d16f5b409e92dd",
+      "title": "WHO成熟度水平视角下基于OpERA框架的非洲四国药品监管机构审评模式与上市许可批准时限比较分析（2020—2024）",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14MlFNVEJZWXR6S0RNR1dYamtleEtkM2UwNlVUN3ItbmxiSkNhVzNvSXdhTHAtLWpUeC1VVFFiY09CeFBBYlNaZUd4eDQ4WllBZG95SkcteHZ3SGhlZWxYaHJ5WVBKTUFHYlJHeC1B?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-10-28T00:16:50.000Z",
+      "excerpt": "WHO成熟度水平视角下基于OpERA框架的非洲四国药品监管机构审评模式与上市许可批准时限比较分析（2020—2024） 生物通",
+      "section": "cn-life",
+      "rankScore": 0.474067
+    },
+    {
+      "id": "dee1a09495ed4c20",
+      "title": "一到秋冬就关节疼？“三步鉴别法”帮你分辨疼痛诱因",
+      "url": "https://www.chinanews.com.cn/life/2026/10-27/10721794.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-10-27T10:41:54.000Z",
+      "excerpt": "一到秋冬就关节疼？“三步鉴别法”帮你分辨疼痛诱因 | 时令节气与健康",
+      "section": "cn-life",
+      "rankScore": 0.450868
+    },
+    {
+      "id": "99fd503455fd89cd",
+      "title": "中文传媒签订17亿元教科书供货大单",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSS1sNWhPQzhZR0NjN2wzTm5uSXAxcHFLUHpzU3VKa3l4ejNuRE80a3VRUE1nZjJVaFoxdjZiSEhYbVc4NkVmcjJqM085VUxsY1dnNHBWdmV0cEt0TEFiSGtyZTU2ZjBmNGNfTDV4d0tBT2RHWjZlV1MzTElCZHg0LXpXYjM0T3JQc2VsZmhHdmN6VFMyYnVFdk1SbHBkOGNYaFhYd2h1WmNBRmVSMGJfZFFaZzhfcmhmZjZyQnVzNXdEVHVSc1pKbHRwampYTDNQTGtqOHJTYXVrdw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-10-28T01:19:04.000Z",
+      "excerpt": "中文传媒签订17亿元教科书供货大单 finance.sina.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.416715
+    }
+  ],
+  "warnings": []
+}
