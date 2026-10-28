@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-28",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-28T18:19:33.567Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "94e30fb52eaa0132",
+      "title": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-28T18:19:33.567Z",
+      "score": 3209,
+      "excerpt": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "74eba3ef62ad631b",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-28T17:01:23.000Z",
+      "score": 338,
+      "author": "acossta",
+      "excerpt": "338 points · 265 comments · https://news.ycombinator.com/item?id=50276792",
+      "section": "tech",
+      "rankScore": 1.035328
+    },
+    {
+      "id": "81bc5c628c198d9e",
+      "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+      "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-28T18:19:33.567Z",
+      "excerpt": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side trace comparisons, and automate evaluation passes.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "3a839a56ce0d63f2",
+      "title": "How Uber Built A Gateway For AI Agents To Access Tools",
+      "url": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-28T15:31:05.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we’ll look at how Uber built this gateway in detail.",
+      "section": "tech",
+      "rankScore": 0.681751
+    },
+    {
+      "id": "d9e98366aef2a792",
+      "title": "Fragments: October 28",
+      "url": "https://martinfowler.com/fragments/2026-10-28.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-10-28T12:55:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift.",
+      "section": "tech",
+      "rankScore": 0.654537
+    },
+    {
+      "id": "15c92e83ab4b37a6",
+      "title": "Hoot 0.10.0 released",
+      "url": "https://spritely.institute/news/hoot-0-10-0-released.html",
+      "source": "lobsters",
+      "publishedAt": "2026-10-28T16:47:10.000Z",
+      "author": "spritely.institute via FedericoSchonborn",
+      "section": "tech",
+      "rankScore": 0.639603
+    },
+    {
+      "id": "6d73ce6e295980aa",
+      "title": "GitHub Octoverse 2026",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-28T16:45:23.000Z",
+      "excerpt": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic…",
+      "section": "ai",
+      "rankScore": 0.786185
+    },
+    {
+      "id": "9412cb16cc581bb5",
+      "title": "The October inflection point for vibe game development",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-28T13:55:15.000Z",
+      "excerpt": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers.",
+      "section": "ai",
+      "rankScore": 0.688966
+    },
+    {
+      "id": "cea7948628549b02",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "huggingface",
+      "publishedAt": "2026-10-28T14:58:17.000Z",
+      "section": "ai",
+      "rankScore": 0.679674
+    },
+    {
+      "id": "5be759e01bcfcb6a",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "source": "openai",
+      "publishedAt": "2026-10-28T10:00:00.000Z",
+      "excerpt": "How AI might enter the org chart—beneath, beside, and between us.",
+      "section": "ai",
+      "rankScore": 0.577643
+    },
+    {
+      "id": "50ddb7deb981d7f5",
+      "title": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
+      "url": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-28T18:14:48.000Z",
+      "author": "Tina",
+      "section": "cn-tech",
+      "rankScore": 0.697734
+    },
+    {
+      "id": "eea8119ca25e01e9",
+      "title": "女子信任 ChatGPT 的用药决策，结果因此猝死",
+      "url": "https://www.solidot.org/story?sid=85737",
+      "source": "solidot",
+      "publishedAt": "2026-10-28T14:46:03.000Z",
+      "excerpt": "一名住在西雅图的 31 岁华人女子，因依照 ChatGPT 提供的逐日减药计划，自行将抗癫痫药物逐步减量至停药后死亡。其父母向旧金山高等法院提起不当致死诉讼，控告 OpenAI 及其 CEO Sam Altman，指 ChatGPT 无照行医、提供危险且不准确的医疗建议。OpenAI 回应称这是“令人心碎的事件”，但涉案的是已经下架的早期版本。死者名为万博文(Bowen Wan)，来自江苏，毕业于亚利桑纳州立大学信息工程系，曾在亚马逊担任软件工程师，2021 年起请长期病假。她患有严重癫痫，服用多年的药物一度失效，后来改用新药，发作次数降至每月数次。",
+      "section": "cn-tech",
+      "rankScore": 0.658162
+    },
+    {
+      "id": "038f3ac010a805b5",
+      "title": "项目开发多设备同步的问题",
+      "url": "https://www.v2ex.com/t/1252607",
+      "source": "v2ex",
+      "publishedAt": "2026-10-28T09:39:47.000Z",
+      "score": 22,
+      "author": "manbudezhu",
+      "excerpt": "目前在项目开发时，遇到的一个问题。每日频繁的要在家里电脑，单位电脑、笔记本之间切换。 使用 github ，我的问题是，很多时候项目某个任务并没有开发完，并不想提交或者忘记提交代码。经常出现的情况是换了设备，新的代码没有更新过来。 后来使用自主搭建 nextcloud+github 的方式，通过 nextcloud 同步代码，但是我想保留所有的 git 提交记录方便查询和回退，在 nextcloud 同步时，选择了同步.git 目录,但是.git 时经常会报错，且有太多不必要的文件（.git 目录）。 各位大神是如何实现的，有没有好的解决方案。",
+      "section": "cn-tech",
+      "rankScore": 0.647239
+    },
+    {
+      "id": "1edb3d3393c0d1ed",
+      "title": "“软件已死”？独立开发大佬退订几乎所有工作软件：要啥让AI造",
+      "url": "https://www.36kr.com/p/4045477130392449",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-28T12:03:05.000Z",
+      "author": "新智元",
+      "excerpt": "一个做软件开发生意的人，开始大规模退订软件，还喊出了一句狠话： 软件已死。 10月11日，知名独立开发者Pieter Levels（levelsio）发文称，自己已经退掉了几乎所有工作用的软件订阅，也开始取消个人订阅。 他的办法简单粗暴：需要什么，就让AI现做；找到合适的开源项目，就让Claude改成自己顺手的样子。 要知道，Pieter自己就是独立开发圈里「一个人活成一家公司」的代表人物。 2024年，Pieter Levels做客Lex Fridman播客。 2014年，他发起「12个月推出12个创业项目」的挑战。",
+      "section": "cn-tech",
+      "rankScore": 0.468653
+    },
+    {
+      "id": "81376d1f07f03ec0",
+      "title": "EVEngine - 面向 AI Agent 的轻量游戏引擎",
+      "url": "https://www.oschina.net/p/EVEngine",
+      "source": "oschina",
+      "publishedAt": "2026-10-28T11:32:14.000Z",
+      "excerpt": "EVEngine 是一款非常适合 Agent 自己迭代造游戏的引擎 EVEngine ，核心优势有 3 个： 1. 随时热重载 - 脚本更新、资源更新不用等，立马就刷新，修改迭代时间短 2. 自带 MCP 和 debug 服务器，可以截图、控制运行、控制 debug - Agent 可以完全像人一样调试脚本 3. 可以创建编辑器给 Agent - 你写个 editor ，人能用，Age...",
+      "section": "cn-tech",
+      "rankScore": 0.455432
+    },
+    {
+      "id": "cc3ebe92a4c81e9f",
+      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-28T17:08:09.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.",
+      "section": "security",
+      "rankScore": 0.665996
+    },
+    {
+      "id": "f96695574bf01512",
+      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-28T16:23:34.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.",
+      "section": "security",
+      "rankScore": 0.644765
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
