@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-29",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-29T01:45:10.152Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "d80a160880d61882",
+      "title": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-29T01:45:10.152Z",
+      "score": 1477,
+      "excerpt": "LIST OF ALL MY JAILBREAKS",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "328f7d9600868bc3",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "source": "hn-front",
+      "publishedAt": "2026-10-28T17:13:29.000Z",
+      "score": 852,
+      "author": "hazebooth",
+      "excerpt": "852 points · 185 comments · https://news.ycombinator.com/item?id=50276998",
+      "section": "tech",
+      "rankScore": 0.957438
+    },
+    {
+      "id": "4254b28ba9e2f6c7",
+      "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+      "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-29T01:45:10.152Z",
+      "excerpt": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "b6dae221d17770a9",
+      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "source": "lobsters",
+      "publishedAt": "2026-10-28T23:01:26.000Z",
+      "author": "alpinelinux.org by durrendal",
+      "section": "tech",
+      "rankScore": 0.638155
+    },
+    {
+      "id": "11e49455f94f5287",
+      "title": "Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon",
+      "url": "https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-28T13:53:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Airbnb extended its Chronon feature platform with Push Mode and Near Real-Time Model Transform to update sequence-based recommendation embeddings within seconds.",
+      "section": "tech",
+      "rankScore": 0.539838
+    },
+    {
+      "id": "54bd256f3fe2035d",
+      "title": "GitHub intelligence puts your code, context, and history to work",
+      "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-28T15:40:00.000Z",
+      "author": "Allison",
+      "excerpt": "Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in…",
+      "section": "tech",
+      "rankScore": 0.531897
+    },
+    {
+      "id": "d5d6c40e80f926de",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "source": "openai",
+      "publishedAt": "2026-10-28T09:30:00.000Z",
+      "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "section": "ai",
+      "rankScore": 0.5364
+    },
+    {
+      "id": "20251ce7b7037bc9",
+      "title": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
+      "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-29T01:45:10.152Z",
+      "excerpt": "本文精选了美团技术团队被 KDD 2026 收录的 8 篇论文进行分享，这些论文覆盖了推荐大模型、生成与奖励建模框架、智能体搜索、Transformer 框架、元泛化框架等技术领域。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "115ceaac6f415186",
+      "title": "[公益站] 迫于 token 太多，秉持不浪费的原则分享给大家使用而开站。",
+      "url": "https://www.v2ex.com/t/1252726",
+      "source": "v2ex",
+      "publishedAt": "2026-10-29T01:07:42.000Z",
+      "score": 17,
+      "author": "kkkkkk223",
+      "excerpt": "目前国模 token 太多了，和朋友一起开站让大家也都来跑一跑 玩一玩。 目前接入了两个模型： DeepSeek：deepseek-4.1-flash 智谱：glm-5.3-flash 签到送余额。后期不够也可以联系我要。 公益站地址 https://tokenhub.icu/pricing",
+      "section": "cn-tech",
+      "rankScore": 0.721883
+    },
+    {
+      "id": "5d110063eb88d4bc",
+      "title": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+      "url": "https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-28T22:53:53.000Z",
+      "author": "蔡芳芳",
+      "section": "cn-tech",
+      "rankScore": 0.652421
+    },
+    {
+      "id": "9f468ba6bdf452c8",
+      "title": "AI主播48小时赚4万打赏，你会为AI花钱吗?",
+      "url": "https://www.36kr.com/p/4046257877046146",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-29T01:44:11.000Z",
+      "author": "TopKlout克劳锐",
+      "excerpt": "AI也开始直播“冲业绩”了。 前段时间，造梦次元联合生数科技，让AI主播紫樱开启了一场限时营业挑战。目标两个小时内攒够规定的营业值算完成任务，否则进度清零，重新挑战。 这场直播持续了48小时，累计挑战24次，最终交出一份成绩单：累计观看超过31万人，峰值在线4万人，总营收4.2万元。 图片源自抖音 屏幕另一端，观众知道她是AI，却依然愿意聊天、点歌、送礼。AI主播靠什么吸引人继续看？观众打赏时，究竟在为什么买单？当新鲜感过去，紫樱的成绩还能复制吗？跟随「克劳锐」的视角，一起来看看吧。 从“照着说”到“接着聊”，AI直播有了临场感 数字人开直播，早已不是新鲜事。",
+      "section": "cn-tech",
+      "rankScore": 0.629754
+    },
+    {
+      "id": "d4a1e21af587b30e",
+      "title": "加州亿万富翁投入逾 2.93 亿美元反对亿万富翁税",
+      "url": "https://www.solidot.org/story?sid=85736",
+      "source": "solidot",
+      "publishedAt": "2026-10-28T14:23:06.000Z",
+      "excerpt": "统计数据显示，至少 30 位加州亿万富翁累计投入逾 2.93 亿美元反对亿万富翁税。亿万富翁税将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。在反对该税的亿万富翁中，Google 联合创始人 Sergey Brin 出资最多，投入巨资的还有 Google 前 CEO Eric Sc​​hmidt、风险投资人 John Doerr、Stripe CEO Patrick Collison、加密货币行业高管 Chris Larsen 等。",
+      "section": "cn-tech",
+      "rankScore": 0.56159
+    },
+    {
+      "id": "a2a6c14bd3d8df08",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable Vulnerability These types…",
+      "section": "security",
+      "rankScore": 0.470786
+    }
+  ],
+  "warnings": [
+    "source \"hacker-news-sec\" failed: TypeError: fetch failed",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
