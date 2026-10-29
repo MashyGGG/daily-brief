@@ -156,7 +156,10 @@
     "5be759e01bcfcb6a",
     "04b6924cc903542f",
     "d5d6c40e80f926de",
-    "f0d6c6ab19d730d2"
+    "f0d6c6ab19d730d2",
+    "44eee440d87d119c",
+    "98ddf97507c137b5",
+    "7edc34a868a79d47"
   ],
   "huggingface": [
     "9e1e6a898bac9ad8",
@@ -239,7 +242,11 @@
     "4ce5c68bb56caf0e",
     "15ea2b7443acbb04",
     "2e84205bd3bc865d",
-    "cea7948628549b02"
+    "cea7948628549b02",
+    "5263d15c2cd5f1bb",
+    "a0582b49c99f2bfe",
+    "e6a20ff7676f092a",
+    "2746fca6b9690c89"
   ],
   "anthropic": [
     "d112cba902a55689",
@@ -360,7 +367,8 @@
     "8b7922e59f70113b",
     "bdb6e69fb9c52ab3",
     "7c319c00641efebb",
-    "a119158c29bc2630"
+    "a119158c29bc2630",
+    "dfe8718cbecdc0b0"
   ],
   "tldr-tech": [
     "ae2e1741e57ba0ec",
@@ -411,7 +419,8 @@
     "a12754480a6445d1",
     "6251def42fd65737",
     "8dd62c927cbdaa66",
-    "4b24d154d3355eb4"
+    "4b24d154d3355eb4",
+    "a8df3f342c9b5a8a"
   ],
   "google-developers": [
     "cd25aaa0b5ba58fc",
@@ -464,7 +473,8 @@
     "b4e40f72f8f9a8d4",
     "f6585f441e0634a0",
     "81bc5c628c198d9e",
-    "4254b28ba9e2f6c7"
+    "4254b28ba9e2f6c7",
+    "a1a1d261377ec99f"
   ],
   "javascript-weekly": [
     "67b3f4c8956c1ec3",
@@ -475,6 +485,7 @@
     "3624f8192e2d27ec",
     "9c86f96fd0befd0d",
     "96399aaf5657f498",
-    "070a624eb7ed8d08"
+    "070a624eb7ed8d08",
+    "07a357f2eff529d4"
   ]
 }

@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-29",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-29T18:26:12.617Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "6286d61c5d2cd9c2",
+      "title": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-29T18:26:12.617Z",
+      "score": 1190,
+      "excerpt": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "05d9098a1d6e52c3",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-29T14:13:21.000Z",
+      "score": 737,
+      "author": "kuberwastaken",
+      "excerpt": "737 points · 193 comments · https://news.ycombinator.com/item?id=50289418",
+      "section": "tech",
+      "rankScore": 1.033008
+    },
+    {
+      "id": "a1a1d261377ec99f",
+      "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
+      "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+      "source": "google-developers",
+      "publishedAt": "2026-10-29T18:26:12.617Z",
+      "excerpt": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "9e98589b723affbf",
+      "title": "Why are good developers so wary of agentic development?",
+      "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-10-29T13:50:00.000Z",
+      "author": "Rachel Laycock",
+      "excerpt": "TL;DR Good developers’ caution about agentic development comes from knowing that built isn’t the same as working in production. I’ve been surprised by how many excellent developers have been hesitant to go all in on coding agents.",
+      "section": "tech",
+      "rankScore": 0.682166
+    },
+    {
+      "id": "15758465066c33b8",
+      "title": "Data Movement Strategies In System Design",
+      "url": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-29T15:31:02.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "To manage this movement of data, you need to make decisions about when and how information should travel within a system and outside it.",
+      "section": "tech",
+      "rankScore": 0.678241
+    },
+    {
+      "id": "833589bdc3b6d97f",
+      "title": "Webhook IP ranges added to the Meta API",
+      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+      "source": "github-changelog",
+      "publishedAt": "2026-10-29T17:14:38.000Z",
+      "author": "Allison",
+      "excerpt": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for…",
+      "section": "tech",
+      "rankScore": 0.665916
+    },
+    {
+      "id": "44eee440d87d119c",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "openai",
+      "publishedAt": "2026-10-29T17:00:00.000Z",
+      "excerpt": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "section": "ai",
+      "rankScore": 0.823684
+    },
+    {
+      "id": "5263d15c2cd5f1bb",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "huggingface",
+      "publishedAt": "2026-10-29T13:37:07.000Z",
+      "section": "ai",
+      "rankScore": 0.632628
+    },
+    {
+      "id": "7edc34a868a79d47",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "openai",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "excerpt": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "section": "ai",
+      "rankScore": 0.466541
+    },
+    {
+      "id": "40afc56873f59675",
+      "title": "美团智播——数字人直播技术创新与实践",
+      "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-29T18:26:12.617Z",
+      "excerpt": "美团智播围绕 AI 主播「长得真→动得准→演得活→卖得好」构建了完整技术闭环：真人 1:1 复刻、换装换背景身份不跑偏；动作自然流畅，告别「木偶戏」；边说边动、音画一致；背后还有推理加速技术支撑万路并发开播，让普惠落地成为可能。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "8b70a4b59927dce8",
+      "title": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+      "url": "https://www.infoq.cn/article/aK6ADSkIvwf265yc8PuT?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-29T18:00:23.000Z",
+      "author": "木子",
+      "section": "cn-tech",
+      "rankScore": 0.687701
+    },
+    {
+      "id": "66f41ea4915c182d",
+      "title": "研究发现非英语的 token 成本更高",
+      "url": "https://www.solidot.org/story?sid=85747",
+      "source": "solidot",
+      "publishedAt": "2026-10-29T15:10:38.000Z",
+      "excerpt": "Coalition for Language Equity in AI Research 上个月发表的一项研究发现，AI 模型处理部分语言提示所需的 token 量远超英语。研究人员称之为隐性 token 税，意味着小语种用户的 AI 成本更高。研究发现，即使互联网最流行的 20 种语言，token 使用量也存在差异。最昂贵语言使用的 token 数量是最便宜语言的 1.5-5 倍。当研究人员将范围扩大到 200 种语言，差异进一步扩大，一个 AI 模型的 token 成本差距甚至增加了 17 倍。",
+      "section": "cn-tech",
+      "rankScore": 0.667555
+    },
+    {
+      "id": "f30a85d34aca63e1",
+      "title": "搞 js 混淆的思路又变广了一些",
+      "url": "https://www.v2ex.com/t/1253009",
+      "source": "v2ex",
+      "publishedAt": "2026-10-29T16:17:34.000Z",
+      "score": 3,
+      "author": "boris1993Jr",
+      "excerpt": "不多说了免得剧透，看原文吧 https://nullpt.rs/fingerprinting-bioweapons 反混淆对抗能想到这一层的真的是神人了🤣",
+      "section": "cn-tech",
+      "rankScore": 0.655867
+    },
+    {
+      "id": "036207ba14bf5d2b",
+      "title": "部署态加速，智元要打通物理AI全链路",
+      "url": "https://www.36kr.com/p/4047032889800965",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-29T14:25:57.000Z",
+      "author": "邱晓芬",
+      "excerpt": "在具身智能行业仍热衷于用高难度动作展示技术进步时，智元创新日上呈现了另外一种思路。 在这场发布会上，没有太多眼花缭乱的机器人特技，也没有太多夺眼球的集体舞蹈，反而更像是一场信息密度极高的技术研讨会。甚至，在世博中心的入口，智元还设置了一大面“论文墙”，呈现智元团队近期的核心技术进展。 过去三年，机器人学会了跑、跳、后空翻，但走出实验室才发现，单一技术突破撑不起复杂环境中的稳定工作。当GPT-6 Astra等大模型展现出物理任务规划能力后，“真实部署”已从口号，变成行业必须回答的问题。",
+      "section": "cn-tech",
+      "rankScore": 0.527031
+    },
+    {
+      "id": "92d48920ef249d2b",
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-29T15:57:05.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale.",
+      "section": "security",
+      "rankScore": 0.628987
+    },
+    {
+      "id": "ab6af4d9fc0230c0",
+      "title": "Hitachi Energy TRO600 series products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information.",
+      "section": "security",
+      "rankScore": 0.51609
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
