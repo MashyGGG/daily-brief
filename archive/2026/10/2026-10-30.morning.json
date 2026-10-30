@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-30",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-30T01:53:47.143Z",
+  "configHash": "a6d1a89e0ccd",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "6914eefdfc530fa4",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-30T01:53:47.143Z",
+      "score": 1034,
+      "excerpt": "An agentic skills framework & software development methodology that works.",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "d97cc85c1eec5363",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "source": "hn-front",
+      "publishedAt": "2026-10-29T21:38:59.000Z",
+      "score": 730,
+      "author": "Tiberium",
+      "excerpt": "730 points · 435 comments · https://news.ycombinator.com/item?id=50296470",
+      "section": "tech",
+      "rankScore": 1.075066
+    },
+    {
+      "id": "e24577ed7e1a9580",
+      "title": "If you love a website, back it up",
+      "url": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-30T01:29:00.000Z",
+      "author": "blog.mistys-internet.website via calvin",
+      "section": "tech",
+      "rankScore": 0.675787
+    },
+    {
+      "id": "1c021b050e981880",
+      "title": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks",
+      "url": "https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-29T19:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "Google's OAuth Platform has recently introduces support for Demonstrating Proof-of-Possession (DPoP), an OAuth 2.0 security mechanism designed to mitigate token theft and replay attacks. By Sergio De Simone",
+      "section": "tech",
+      "rankScore": 0.628939
+    },
+    {
+      "id": "ccfed3d2977a5cdb",
+      "title": "The reports of Stack Overflow's death are greatly exaggerated",
+      "url": "https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-10-29T22:30:00.000Z",
+      "author": "Philippe Beaudette",
+      "excerpt": "I’ve seen the recent predictions about Stack Overflow’s demise. They make for compelling headlines, but they confuse a change in how people access knowledge with the disappearance of the knowledge—and the company—behind it.",
+      "section": "tech",
+      "rankScore": 0.611223
+    },
+    {
+      "id": "c5a7ea178ce695e5",
+      "title": "Software engineering at Google & CS education with Titus Winters",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-10-29T13:37:13.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Titus Winters shares lessons from engineering at Google’s scale and explores how AI is reshaping developer productivity and computer science education.",
+      "section": "tech",
+      "rankScore": 0.544937
+    },
+    {
+      "id": "2c386769a87fced7",
+      "title": "v2.1.314",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
+      "source": "anthropic",
+      "publishedAt": "2026-10-30T01:06:26.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added permissions.blockWritesOutsideWorkingDirectories : Write, Edit and NotebookEdit refuse paths outside the working directories in every permission mode Added an optional groups list to Claude apps gateway upstreams: only developers in the listed IdP groups are sent to that…",
+      "section": "ai",
+      "rankScore": 0.858558
+    },
+    {
+      "id": "bda45bf1b0a45018",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-29T22:48:29.000Z",
+      "excerpt": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API.",
+      "section": "ai",
+      "rankScore": 0.778233
+    },
+    {
+      "id": "1d47078a07bea6e9",
+      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+      "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-30T01:53:47.143Z",
+      "excerpt": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "cd78646a1abc0f1f",
+      "title": "自己用 rust+gpui 蹬了一个专门适配超大仓库的 git gui 客户端",
+      "url": "https://www.v2ex.com/t/1253028",
+      "source": "v2ex",
+      "publishedAt": "2026-10-30T00:37:12.000Z",
+      "score": 3,
+      "author": "cmzy",
+      "excerpt": "最近被公司的 monorepo 搞得完全没脾气，仓库太大了，执行一个 git status 就需要十几秒。虽然都是 vibe coding 时代了，但是也需要 review 啊。所以自己用 rust+gpui 蹬了个客户端，速度要快，代码 diff 要能赶上 jetbrains 的风格。z 在这分享一下。 https://geetree.app/",
+      "section": "cn-tech",
+      "rankScore": 0.730854
+    },
+    {
+      "id": "81ded66fe436fec2",
+      "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
+      "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-10-30T00:13:03.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。...",
+      "section": "cn-tech",
+      "rankScore": 0.688818
+    },
+    {
+      "id": "e537b8e7477ccfb2",
+      "title": "龙虾尸骸，SaaS残梦，大厂焦虑：AI办公究竟是什么？",
+      "url": "https://www.36kr.com/p/4046972364421635",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-30T00:29:14.000Z",
+      "author": "脑极体",
+      "excerpt": "2026年，AI办公变成了每家大厂都必须做的生意。 腾讯的 WorkBuddy 发布三个月后做到单月2097万次PC端访问量；阿里把 Qoder Work、悟空、MuleRun三款Agent产品整合为“ 千问 办公”；字节的“ 豆包工作 ”在上线一周内吸引超10万家企业申请内测。 一时间，机场、地铁、电梯里到处都是AI办公的广告。打开小红书、B站，则是溢出屏幕的AI办公教程与种草。如果日常并不关注AI，看到铺天盖地的广告可能完全搞不懂发生了什么。但至少大家都会产生这样的第一印象：AI办公绝对是门好生意，否则大厂们不会如此密集地下场，不会投入如此多的资源。 但事情真的如此吗？",
+      "section": "cn-tech",
+      "rankScore": 0.608862
+    },
+    {
+      "id": "219545d8637e5596",
+      "title": "启元 CEO 田华：启元机器人接入WorkBuddy，不仅看见你的世界，还能走得到你身边",
+      "url": "https://www.infoq.cn/article/fHXiS2bsEFHDXdwVK6KP?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-29T20:22:05.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.60786
+    },
+    {
+      "id": "bfc424b3bcfe29bf",
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-29T19:11:58.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes.",
+      "section": "security",
+      "rankScore": 0.588384
+    },
+    {
+      "id": "b6f51b2d61ddeb85",
+      "title": "Hitachi Energy CoreTec Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product.",
+      "section": "security",
+      "rankScore": 0.468393
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
