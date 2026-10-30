@@ -95,7 +95,7 @@ schedules:
 
   # AI 短剧／漫剧：独立邮件，步骤提醒见 docs/ai-drama/PLAYBOOK.md。
   - id: ai-drama
-    time: '08:10'
+    time: '17:15'
     lookbackHours: 48
     sections: [drama-news, drama-tutorials, drama-tools]
     recipients: [me-mail]

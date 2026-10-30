@@ -7,7 +7,7 @@
 ## 1. 内容如何进入独立邮件
 
 ```text
-ai-drama 定时任务（08:10 Asia/Shanghai）
+ai-drama 定时任务（17:15 Asia/Shanghai）
   → 仅采集专题栏目引用的来源
   → 专题历史去重（不消费技术早晚报条目）
   → 时间／栏目过滤、基础排序、当前阶段相关性加权、来源配额
@@ -142,7 +142,7 @@ pnpm brief --schedule ai-drama --dry-run --llm-dry-run
 pnpm brief:ai-drama
 
 # 使用当前专题 cron 自动恢复模式（会发送尚未成功的收件人）
-pnpm brief --cron '10 0 * * *' --skip-if-archived
+pnpm brief --cron '15 9 * * *' --skip-if-archived
 
 # 明确强制重发某日邮件
 pnpm brief --schedule ai-drama --from-archive 2026-10-30
@@ -157,10 +157,10 @@ pnpm brief --schedule ai-drama --from-archive 2026-10-30
 1. 将工作区实现、手册和生成的 workflow 部署到 main。
 2. 核对已有 SMTP 与收件人配置；中文详细整理需要 LLM_API_KEY。
 3. 手动预览后再执行真实邮件验收；本地 dry-run 中 stdout 显示 sent 仅表示预览已输出。
-4. 外部定时器使用 `10 0 * * *` 作为 cron 输入，按北京时间 08:10 调用；内置 cron 保留作兜底。
+4. 外部定时器使用 `15 9 * * *` 作为 cron 输入，按北京时间 17:15 调用；内置 cron 保留作兜底。
 5. 查看 Summary、实际邮箱、内容归档及投递状态提交，分别判断这四件事。
 
-08:10 是启动时间；调度延迟、模型耗时与邮件服务耗时会影响到达时间。首次运行后观察耗时，当前 workflow 总上限为 10 分钟。
+17:15 是启动时间；调度延迟、模型耗时与邮件服务耗时会影响到达时间。首次运行后观察耗时，当前 workflow 总上限为 10 分钟。
 
 ## 9. 内容质量筛选（2026-10-30）
 

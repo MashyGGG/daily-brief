@@ -1,6 +1,6 @@
 # daily-brief
 
-AI 短剧／漫剧学习专题：每天北京时间 08:10 启动，独立邮件包含资讯、教程、技术更新及末尾的阶段行动提醒。
+AI 短剧／漫剧学习专题：每天北京时间 17:15 启动，独立邮件包含资讯、教程、技术更新及末尾的阶段行动提醒。
 从这里开始：[完整学习、制作与发布手册](docs/ai-drama/PLAYBOOK.md)。当前阶段在 `brief.config.yaml` 的 `aiDrama.stage` 设置。
 该专题需要本次代码部署到 main 后生效；触发时间与实际邮件送达时间有差异。
 
@@ -13,7 +13,7 @@ config file.
 
 Five issues a day: a **tech brief** at 06:10 and 20:10 (WeCom + mail), a **news
 edition** at 06:40 and 19:10 that carries the three news sections only, to mail only,
-and an **AI drama learning edition** at 08:10 (mail only)
+and an **AI drama learning edition** at 17:15 (mail only)
 ([docs/NEWS-EDITION.md](docs/NEWS-EDITION.md) records why they are separate issues rather than
 extra sections). A weekly review goes out Monday 07:20.
 
