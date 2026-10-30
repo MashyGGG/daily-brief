@@ -35,6 +35,8 @@ export function systemPrompt(policy: ResolvedPolicy, learningStage?: string): st
       ? [
           `读者正在学习 AI 短剧／漫剧制作，当前阶段：${learningStage}。`,
           '说明该内容能解决哪个制作问题。教程按原文提取实际步骤；技术更新说明变化和限制，不将产品宣传写成实测结论。',
+          '额外输出 editorialReview 对象，relevant（是否与 AI 制作或发布有关）、actionable（是否含可跟做的操作和具体参数、素材或工作流）、technicalEvidence（是否含明确技术变化或有依据的测试对比），值为布尔值；商业访谈和泛榜单不算教程，宣传口号不算技术证据。',
+          'productionNotes 另输出 whyItMatters（对当前阶段的用途）和 nextAction（依据原文建议读者做的一件事）；未知留空。',
           '额外输出 productionNotes 对象：suitableFor（适用制作环节）、difficulty（难度）、requirements（工具、版本、硬件、许可证等原文明确条件）、steps（最多5步，每步最多100字）、limitations（限制）。',
           '所有附加字段只提取原文明确内容，未知留空；不要推断显存、价格、商用许可或未提供的操作步骤。steps 无依据时返回空数组。',
         ]
@@ -51,7 +53,7 @@ export function systemPrompt(policy: ResolvedPolicy, learningStage?: string): st
     '',
     '只输出一个 JSON 对象，不要代码块围栏，不要任何解释：',
     learningStage
-      ? '{"summary":"……","takeaways":["……"],"productionNotes":{"suitableFor":"","difficulty":"","requirements":"","steps":[],"limitations":""}}'
+      ? '{"summary":"……","takeaways":["……"],"editorialReview":{"relevant":true,"actionable":false,"technicalEvidence":false},"productionNotes":{"whyItMatters":"","nextAction":"","suitableFor":"","difficulty":"","requirements":"","steps":[],"limitations":""}}'
       : '{"summary": "……", "takeaways": ["……", "……"]}',
   ].join('\n')
 }

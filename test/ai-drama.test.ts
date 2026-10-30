@@ -10,7 +10,8 @@ import { productionNotes, productionLines } from '../src/learning/content'
 import { enrichSections } from '../src/enrich'
 import { readDeliveryState } from '../src/archive/delivery'
 import { renderArchiveMarkdown } from '../src/render/markdown'
-import { dramaSection } from '../src/learning/classify'
+import { assessDramaItem, inspectDramaCandidates } from '../src/learning/quality'
+import { dramaSection, isDramaBusiness } from '../src/learning/classify'
 import { itemId } from '../src/core/normalize'
 import { configYaml, item, NOW } from './helpers'
 import type { FetchLike } from '../src/sources'
@@ -127,11 +128,14 @@ describe('AI drama learning edition', () => {
       {},
     )
     const entry = (title: string, url: string, days: number) =>
-      `<item><title>${title}</title><link>${url}</link><pubDate>${new Date(NOW.getTime() - days * 86400000).toUTCString()}</pubDate></item>`
+      `<item><title>${title}</title><link>${url}</link><description>导入参考图素材，设置提示词参数，生成分镜。</description><pubDate>${new Date(NOW.getTime() - days * 86400000).toUTCString()}</pubDate></item>`
     const stories: Record<string, string> = {
       'drama-cn-news':
         entry('AI短剧分镜实战教程', 'https://example.com/tutorial', 10) +
         entry('AI漫剧行业案例', 'https://example.com/news', 1) +
+        entry('AI短剧财报增长', 'https://example.com/finance-a', 1) +
+        entry('AI短剧融资扩大', 'https://example.com/finance-b', 1) +
+        entry('AI短剧营收增长', 'https://example.com/finance-c', 1) +
         entry('AI短剧旧消息', 'https://example.com/old-news', 10),
       'drama-cn-tutorial': entry('AI短剧分镜实战教程', 'https://example.com/tutorial', 10),
       'drama-comfy-tutorials':
@@ -169,12 +173,179 @@ describe('AI drama learning edition', () => {
       'drama-tutorials',
       'drama-tools',
     ])
-    expect(result.brief.sections[0]!.items.map((i) => i.url)).toEqual(['https://example.com/news'])
+    expect(result.brief.sections[0]!.items.map((i) => i.url)).toContain('https://example.com/news')
+    expect(result.brief.sections[0]!.items.filter((i) => i.url.includes('finance-'))).toHaveLength(
+      2,
+    )
+    expect(result.brief.sections[0]!.items).toHaveLength(3)
+    expect(result.brief.warnings.join()).toContain('不以低质量内容补足')
     expect(result.brief.sections[1]!.items).toHaveLength(1)
     expect(result.brief.sections[1]!.items[0]!.source).toBe('drama-comfy-tutorials')
     expect(result.brief.sections[2]!.items[0]!.url).toBe('https://example.com/release')
     expect(result.dedupeDropped.alreadySeen).toBe(1)
   })
+  it('keeps business interviews out of tutorials and financial forecasts out of technology', () => {
+    for (const title of [
+      '内容厂商如何守住AI短剧牌桌？对话内容厂商解密商业化爆款逻辑',
+      '【明日主题前瞻】字节跳动旗下即梦短剧工作室上线，AI短剧行业规模有望持续扩容',
+    ])
+      expect(dramaSection(item({ title, source: 'drama-cn-models' }))).toBe('drama-news')
+    expect(isDramaBusiness(item({ title: 'AI短剧出海，如何守住版权护城河' }))).toBe(false)
+    const evidence = {
+      text: '导入参考图，设置提示词参数，运行工作流并导出视频。',
+      kind: 'excerpt' as const,
+    }
+    const tutorial = assessDramaItem(item({ title: 'AI短剧制作教程' }), evidence, NOW)!
+    expect(tutorial.editorial?.difficulty).toBe('进阶')
+    expect(tutorial.editorial?.evidence).toBe('excerpt')
+    expect(
+      assessDramaItem(
+        item({ title: 'AI短剧制作教程' }),
+        { ...evidence, text: '颠覆行业，简单上手。' },
+        NOW,
+      ),
+    ).toBeNull()
+    expect(
+      assessDramaItem(
+        item({ title: 'AI Video Model Comparison' }),
+        { ...evidence, text: 'Pick the best video tool!' },
+        NOW,
+      ),
+    ).toBeNull()
+    expect(
+      assessDramaItem(
+        item({ title: 'AI Video Model Comparison' }),
+        { ...evidence, text: 'Test setup: measured latency and VRAM on the same GPU.' },
+        NOW,
+      )?.editorial?.kind,
+    ).toBe('review')
+    expect(
+      assessDramaItem(
+        item({ title: 'AI Video: Runway comeback in 2024?' }),
+        evidence,
+        new Date('2026-10-30'),
+      ),
+    ).toBeNull()
+    expect(productionLines(tutorial).join()).toContain('仅来源摘要')
+    const brief = {
+      date: '2026-10-30',
+      title: '学习日报',
+      scheduleId: 'ai-drama',
+      slot: 'ai-drama',
+      timezone: 'Asia/Shanghai',
+      generatedAt: NOW.toISOString(),
+      lookbackHours: 48,
+      sections: [{ id: 'drama-tutorials', title: '教程', items: [tutorial] }],
+      warnings: [],
+    }
+    for (const rendered of [renderHtml(brief), renderText(brief), renderArchiveMarkdown(brief)]) {
+      expect(rendered).toContain('建议行动')
+      expect(rendered).toContain('仅来源摘要')
+    }
+  })
+
+  it('rejects tutorial resource advertising, consumption gossip and unsubstantiated tested lists', () => {
+    for (const title of [
+      '最新宝藏资源：小白AI漫剧全套教程',
+      '75岁大爷熬夜刷AI短剧，医生提醒',
+      '胡锡进痛批AI短剧是电子饲料',
+    ]) {
+      expect(dramaSection(item({ title }))).toBeNull()
+    }
+    const list = item({ title: 'Best AI Video Generators 2026: Our Tested Top Picks' })
+    expect(assessDramaItem(list, { kind: 'excerpt', text: list.title }, NOW)).toBeNull()
+  })
+
+  it('checks article evidence without an LLM and falls back honestly when fetching fails', async () => {
+    const entries = [
+      item({
+        id: 'good',
+        title: 'ComfyUI 制作教程',
+        section: 'drama-tutorials',
+        url: 'https://example.com/good',
+        excerpt: '标题摘要',
+      }),
+      item({
+        id: 'bad',
+        title: 'AI短剧教程',
+        section: 'drama-tutorials',
+        url: 'https://example.com/bad',
+        excerpt: '轻松成功',
+      }),
+    ]
+    const fetchImpl = vi.fn(async (url: string) => {
+      if (url.endsWith('/bad')) throw new Error('offline')
+      return {
+        ok: true,
+        status: 200,
+        headers: { get: () => 'text/html' },
+        text: async () =>
+          `<article><p>${'导入参考图素材，设置提示词参数并运行工作流。'.repeat(15)}</p></article>`,
+      }
+    })
+    const result = await inspectDramaCandidates(entries, {
+      now: NOW,
+      fetchImpl,
+      config: llmSchema.parse({}).extract,
+      maxChars: 6000,
+    })
+    expect(result.items.map((i) => i.id)).toEqual(['good'])
+    expect(result.items[0]!.editorial?.evidence).toBe('fulltext')
+    expect(result.rejected).toBe(1)
+    expect(result.evidence.get('bad')?.kind).toBe('excerpt')
+    const planningFetch = vi.fn()
+    await inspectDramaCandidates(entries, {
+      now: NOW,
+      fetchImpl: planningFetch,
+      config: llmSchema.parse({}).extract,
+      maxChars: 6000,
+      planOnly: true,
+    })
+    expect(planningFetch).not.toHaveBeenCalled()
+  })
+
+  it('uses explicit AI review booleans, preserves rule decisions on missing reviews, and reuses extracted evidence', async () => {
+    const fetchImpl = vi.fn(async () => ({
+      ok: true,
+      status: 200,
+      text: async () =>
+        JSON.stringify({
+          choices: [
+            {
+              message: {
+                content: JSON.stringify({
+                  summary: '制作教程',
+                  takeaways: [],
+                  editorialReview: { relevant: true, actionable: false },
+                }),
+              },
+            },
+          ],
+        }),
+    }))
+    const extractFetchImpl = vi.fn()
+    const entry = item({ id: 'reviewed', title: 'AI短剧教程' })
+    const result = await enrichSections(
+      [{ id: 'drama-tutorials', title: '教程', items: [entry] }],
+      llmSchema.parse({
+        enabled: true,
+        defaults: { summarize: true, fetchFullText: true },
+        digest: { enabled: false },
+      }),
+      {
+        env: { LLM_API_KEY: 'fake' },
+        fetchImpl,
+        extractFetchImpl,
+        learningStage: '入门',
+        dramaEvidence: new Map([[entry.id, { kind: 'fulltext', text: '导入素材并设置参数' }]]),
+      },
+    )
+    expect(result.sections[0]!.items).toHaveLength(0)
+    expect(result.warnings.join()).toContain('AI 辅助排除 1 条')
+    expect(result.stats.fullText).toBe(1)
+    expect(extractFetchImpl).not.toHaveBeenCalled()
+  })
+
   it('prioritizes the current production problem while retaining unrelated developments', () => {
     const input = [
       item({ id: 'a', title: '新手分镜入门', rankScore: 0.5 }),

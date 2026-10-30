@@ -5,7 +5,9 @@ import { extractArticle, type ExtractFetch } from './extract'
 import { createLlmClient, resolveProvider, type LlmClient, type LlmFetch } from './llm'
 import { cut, planEnrichment, type EnrichPlan, type EnrichTask } from './policy'
 import { PROMPT_VERSION, systemPrompt, userPrompt } from './prompt'
-import { sanitizeResponse } from './sanitize'
+import { sanitizeResponse, parseModelJson } from './sanitize'
+import type { DramaEvidence } from '../learning/quality'
+import { isDramaRelease } from '../learning/classify'
 import { productionNotes } from '../learning/content'
 
 /**
@@ -15,6 +17,7 @@ import { productionNotes } from '../learning/content'
  */
 
 export interface EnrichContext {
+  dramaEvidence?: Map<string, DramaEvidence>
   learningStage?: string
   env: NodeJS.ProcessEnv
   fetchImpl: LlmFetch
@@ -160,6 +163,7 @@ async function summarizeOne(
   takeaways: string[]
   meta: SummaryMeta
   productionNotes?: Item['productionNotes']
+  rejected?: boolean
 } | null> {
   try {
     const result = await client.complete(
@@ -175,6 +179,7 @@ async function summarizeOne(
       return null
     }
     return {
+      ...(learningStage ? { rejected: rejectsDramaReview(result.content, task.sectionId) } : {}),
       id: task.item.id,
       summary: clean.summary,
       takeaways: clean.takeaways,
@@ -184,7 +189,7 @@ async function summarizeOne(
       meta: {
         by: 'llm',
         model: client.model,
-        promptVersion: learningStage ? `${PROMPT_VERSION}-ai-drama-1` : PROMPT_VERSION,
+        promptVersion: learningStage ? `${PROMPT_VERSION}-ai-drama-2` : PROMPT_VERSION,
         inputKind: task.inputKind,
       },
     }
@@ -195,6 +200,18 @@ async function summarizeOne(
     onFailure(describeError(err))
     return null
   }
+}
+
+/** Only explicit boolean verdicts affect selection; malformed/missing reviews keep rule decisions. */
+function rejectsDramaReview(raw: string, section: string): boolean {
+  const parsed = parseModelJson(raw) as { editorialReview?: Record<string, unknown> } | null
+  const review = parsed?.editorialReview
+  if (!review || typeof review !== 'object') return false
+  return (
+    review.relevant === false ||
+    (section === 'drama-tutorials' && review.actionable === false) ||
+    (section === 'drama-tools' && review.technicalEvidence === false)
+  )
 }
 
 function applySummaries(
@@ -220,6 +237,9 @@ function applySummaries(
         summary: found.summary,
         ...(found.takeaways.length > 0 ? { takeaways: found.takeaways } : {}),
         summaryMeta: found.meta,
+        ...(item.editorial && found.meta.inputKind !== 'summaries'
+          ? { editorial: { ...item.editorial, evidence: found.meta.inputKind } }
+          : {}),
         ...(found.productionNotes ? { productionNotes: found.productionNotes } : {}),
       }
     }),
@@ -270,7 +290,25 @@ async function fetchFullTexts(
   onFailure: (message: string) => void,
   describeError: (err: unknown) => string,
 ): Promise<void> {
-  const wanted = tasks.filter((t) => t.wantsFullText)
+  const reused = new Set<string>()
+  for (const task of tasks) {
+    const cached = ctx.dramaEvidence?.get(task.item.id)
+    if (
+      task.wantsFullText &&
+      cached &&
+      (cached.kind === 'fulltext' ||
+        (task.sectionId !== 'drama-news' && !isDramaRelease(task.item)))
+    ) {
+      task.input = cut(cached.text, llm.budget.maxInputCharsPerItem)
+      task.inputKind = cached.kind
+      reused.add(task.item.id)
+      if (task.wantsFullText) {
+        if (cached.kind === 'fulltext') stats.fullText++
+        else stats.fullTextFailed++
+      }
+    }
+  }
+  const wanted = tasks.filter((task) => task.wantsFullText && !reused.has(task.item.id))
   if (wanted.length === 0) return
   const fetchImpl = ctx.extractFetchImpl
   if (!fetchImpl) {
@@ -373,6 +411,7 @@ export async function enrichSections(
       productionNotes?: Item['productionNotes']
     }
   >()
+  const rejected = new Set<string>()
   const failures: string[] = []
   const extractFailures: string[] = []
 
@@ -401,6 +440,7 @@ export async function enrichSections(
       ctx.learningStage,
     )
     if (result) {
+      if (result.rejected) rejected.add(result.id)
       summaries.set(result.id, {
         summary: result.summary,
         takeaways: result.takeaways,
@@ -418,7 +458,10 @@ export async function enrichSections(
 
   // §9 M3 — last, and over the summarized sections: the digest introduces the issue the
   // reader is getting, not the feeds it was assembled from.
-  const enrichedSections = applySummaries(sections, summaries)
+  const enrichedSections = applySummaries(sections, summaries).map((section) => ({
+    ...section,
+    items: section.items.filter((item) => !rejected.has(item.id)),
+  }))
   let digest: BriefDigest | undefined
   const digestFailures: string[] = []
   if (wantsDigest) {
@@ -443,6 +486,11 @@ export async function enrichSections(
     stats,
     ...(digest ? { digest } : {}),
     warnings: [
+      ...(rejected.size
+        ? [
+            `内容复核：AI 辅助排除 ${rejected.size} 条缺少相关性或操作、技术证据的内容；未自动补位。`,
+          ]
+        : []),
       ...extractWarnings(extractFailures, stats),
       ...aggregate(failures, 'llm'),
       ...digestFailures,

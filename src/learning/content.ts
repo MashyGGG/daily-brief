@@ -25,6 +25,8 @@ export function productionNotes(
       ].slice(0, 5)
     : []
   const result = {
+    whyItMatters: text('whyItMatters'),
+    nextAction: text('nextAction'),
     suitableFor: text('suitableFor'),
     difficulty: text('difficulty'),
     requirements: text('requirements'),
@@ -32,7 +34,9 @@ export function productionNotes(
     limitations: text('limitations'),
     evidence,
   }
-  return steps.length ||
+  return result.whyItMatters ||
+    result.nextAction ||
+    steps.length ||
     result.suitableFor ||
     result.difficulty ||
     result.requirements ||
@@ -43,9 +47,21 @@ export function productionNotes(
 
 /** Shared wording for HTML, text and archives. Unknown data stays visibly unknown. */
 export function productionLines(item: Item): string[] {
-  if (!item.productionNotes) return []
+  const editorial = item.editorial
+  const lines = editorial
+    ? [
+        `内容类型：${{ news: '资讯', tutorial: '教程', release: '技术更新', review: '技术评测' }[editorial.kind]}${editorial.difficulty ? ` · 预估难度：${editorial.difficulty}` : ''}`,
+        `入选依据：${editorial.reason}`,
+        `建议行动：${item.productionNotes?.nextAction ?? editorial.action}`,
+        `来源发布时间：${item.publishedAt.slice(0, 10)}；事件发生日期请核对原文。`,
+        `内容依据：${editorial.evidence === 'fulltext' ? '已提取正文' : '仅来源摘要，尚未核实全文'}。`,
+      ]
+    : []
+  if (!item.productionNotes) return lines
   const notes = item.productionNotes
   return [
+    ...lines,
+    ...(notes.whyItMatters ? [`与你的关系：${notes.whyItMatters}`] : []),
     `适用环节：${notes.suitableFor ?? '原文未说明'}`,
     `难度：${notes.difficulty ?? '原文未说明'}`,
     `前置条件：${notes.requirements ?? '原文未说明'}`,

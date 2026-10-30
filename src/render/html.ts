@@ -78,7 +78,7 @@ function renderItem(item: Item, index: number, options: RenderOptions): string {
     `<div style="margin:4px 0 0;color:#8c959f;font-size:12px">${escapeHtml(meta.filter(Boolean).join(' · '))}</div>`,
     summary,
     takeaways,
-    full && item.productionNotes
+    full && (item.productionNotes || item.editorial)
       ? `<div style="margin-top:8px;font-size:13px;color:#57606a">${productionLines(item)
           .map((line) => `<p>${escapeHtml(line)}</p>`)
           .join('')}</div>`

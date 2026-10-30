@@ -19,7 +19,15 @@ import { collectWeekly, describeWindow, weeklySchedule, type WeeklyWindow } from
 import type { LlmFetch } from '../enrich/llm'
 import type { ExtractFetch } from '../enrich/extract'
 import { aiDramaReminder, rankForLearning } from '../learning/ai-drama'
-import { dramaSection, dramaSourcePriority, DRAMA_SECTIONS } from '../learning/classify'
+import {
+  dramaSection,
+  dramaSourcePriority,
+  DRAMA_SECTIONS,
+  isDramaBusiness,
+  isDramaOfficial,
+  staleDramaHeadline,
+} from '../learning/classify'
+import { inspectDramaCandidates, type DramaEvidence } from '../learning/quality'
 import { deliveryStatePath, readDeliveryState, saveDeliveryResults } from '../archive/delivery'
 
 export interface RunOptions {
@@ -361,6 +369,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
           !isDrama ||
           !sections.some((s) => DRAMA_SECTIONS.has(s.id)) ||
           sections.some((section) => {
+            if (staleDramaHeadline(item, now)) return false
             if (DRAMA_SECTIONS.has(section.id) && dramaSection(item) !== section.id) return false
             return (
               filterForSection([item], section, {
@@ -401,6 +410,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
     const floors = minScoreBySource(config.sources)
     const used = new Set<string>()
     const built: BriefSection[] = []
+    const dramaEvidence = new Map<string, DramaEvidence>()
 
     const selectionOrder = isDrama
       ? [...sections].sort(
@@ -423,12 +433,45 @@ export async function run(options: RunOptions): Promise<RunResult> {
         lookbackHours,
         weights,
       })
-      const chosen = selectForSection(
-        schedule.id === 'ai-drama'
-          ? rankForLearning(ranked, config.aiDrama?.stage ?? 'observe')
-          : ranked,
-        section,
-      )
+      let eligible = isDrama ? rankForLearning(ranked, config.aiDrama?.stage ?? 'observe') : ranked
+      if (isDrama && DRAMA_SECTIONS.has(section.id)) {
+        eligible = eligible.map((item) => ({
+          ...item,
+          rankScore:
+            item.rankScore * (isDramaOfficial(item) ? 1.3 : isDramaBusiness(item) ? 0.65 : 1),
+        }))
+        // Inspect at most twice the section capacity, allowing replacements without unbounded crawling.
+        const pool = selectForSection(eligible, { ...section, limit: section.limit * 2 })
+        const inspected = await inspectDramaCandidates(pool, {
+          now,
+          fetchImpl: options.extractFetchImpl,
+          config: config.llm.extract,
+          maxChars: config.llm.budget.maxInputCharsPerItem,
+          planOnly: options.llmDryRun,
+        })
+        for (const [id, input] of inspected.evidence) dramaEvidence.set(id, input)
+        eligible = inspected.items.map((item) => ({
+          ...item,
+          rankScore:
+            item.rankScore *
+            (['observe', 'practice'].includes(config.aiDrama?.stage ?? 'observe') &&
+            item.editorial?.difficulty
+              ? { 入门: 1.2, 进阶: 0.9, 开发: 0.7 }[item.editorial.difficulty]
+              : 1),
+        }))
+        if (section.id === 'drama-news') {
+          const business = new Set(
+            selectForSection(eligible.filter(isDramaBusiness), { ...section, limit: 2 }).map(
+              (i) => i.id,
+            ),
+          )
+          eligible = eligible.filter((i) => !isDramaBusiness(i) || business.has(i.id))
+        }
+        log(
+          `editorial: ${section.id} · checked ${pool.length} · rejected ${inspected.rejected} · fulltext ${inspected.fulltext}`,
+        )
+      }
+      const chosen = selectForSection(eligible, section)
       chosen.forEach((item) => used.add(item.id))
       built.push({ id: section.id, title: section.title, items: chosen })
     }
@@ -460,6 +503,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
           }
         : config.llm
     const enriched = await enrichSections(built, editionLlm, {
+      dramaEvidence,
       learningStage:
         schedule.id === 'ai-drama'
           ? aiDramaReminder(config, env.GITHUB_REPOSITORY).stage
@@ -475,6 +519,15 @@ export async function run(options: RunOptions): Promise<RunResult> {
     })
     enrich = enriched.stats
     warnings.push(...enriched.warnings)
+    if (isDrama) {
+      for (const section of sections.filter((s) => DRAMA_SECTIONS.has(s.id))) {
+        const count = enriched.sections.find((s) => s.id === section.id)?.items.length ?? 0
+        if (count < section.limit)
+          warnings.push(
+            `${section.title}：本期 ${count}/${section.limit} 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。`,
+          )
+      }
+    }
     if (schedule.id === 'ai-drama' && ['disabled', 'no-key'].includes(enrich.status)) {
       warnings.push(
         'AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。',

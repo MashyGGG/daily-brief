@@ -50,8 +50,18 @@ export interface Item {
   summary?: string
   takeaways?: string[]
   summaryMeta?: SummaryMeta
+  /** Deterministic editorial evidence, preserved on archive replay. */
+  editorial?: {
+    kind: 'news' | 'tutorial' | 'release' | 'review'
+    evidence: 'fulltext' | 'excerpt'
+    difficulty?: '入门' | '进阶' | '开发'
+    reason: string
+    action: string
+  }
   /** Source-grounded production notes; never a claim that we ran the workflow. */
   productionNotes?: {
+    whyItMatters?: string
+    nextAction?: string
     suitableFor?: string
     difficulty?: string
     requirements?: string
