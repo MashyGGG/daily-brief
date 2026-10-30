@@ -105,7 +105,7 @@ schedules:
 
 aiDrama:
   stage: observe # observe → practice → pilot → publish → engineer；按成果手动切换
-  maxSummariesPerRun: 18 # 同时受 llm.budget 的全局预算限制
+  maxSummariesPerRun: 26 # 同时受 llm.budget 的全局预算限制
   summaryMaxOutputTokens: 800 # 资讯摘要＋制作笔记；独立于其他期次
 
 sources:
@@ -808,6 +808,7 @@ sources:
   - name: drama-cn-news
     type: rss
     weight: 1.0
+    stripPatterns: *gn-strip
     params:
       {
         url: 'https://news.google.com/rss/search?q=AI%E6%BC%AB%E5%89%A7%20OR%20AI%E7%9F%AD%E5%89%A7%20when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans',
@@ -817,6 +818,7 @@ sources:
   - name: drama-en-news
     type: rss
     weight: 1.0
+    stripPatterns: *gn-strip
     params:
       {
         url: 'https://news.google.com/rss/search?q=%22AI%20filmmaking%22%20OR%20%22motion%20comic%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en',
@@ -826,24 +828,27 @@ sources:
   - name: drama-cn-tutorial
     type: rss
     weight: 1.0
+    stripPatterns: *gn-strip
     params:
       {
-        url: 'https://news.google.com/rss/search?q=%28AI%E6%BC%AB%E5%89%A7%20OR%20AI%E7%9F%AD%E5%89%A7%29%20%28%E6%95%99%E7%A8%8B%20OR%20%E5%88%86%E9%95%9C%20OR%20%E5%B7%A5%E4%BD%9C%E6%B5%81%29%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans',
+        url: 'https://news.google.com/rss/search?q=%28AI%E6%BC%AB%E5%89%A7%20OR%20AI%E7%9F%AD%E5%89%A7%29%20%28%E6%95%99%E7%A8%8B%20OR%20%E5%88%86%E9%95%9C%20OR%20%E5%B7%A5%E4%BD%9C%E6%B5%81%29%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans',
         limit: 40,
       }
 
   - name: drama-en-tutorial
     type: rss
     weight: 1.0
+    stripPatterns: *gn-strip
     params:
       {
-        url: 'https://news.google.com/rss/search?q=%22AI%20filmmaking%22%20tutorial%20when%3A7d&hl=en-US&gl=US&ceid=US:en',
+        url: 'https://news.google.com/rss/search?q=%22AI%20filmmaking%22%20tutorial%20when%3A30d&hl=en-US&gl=US&ceid=US:en',
         limit: 40,
       }
 
   - name: drama-cn-models
     type: rss
     weight: 1.0
+    stripPatterns: *gn-strip
     params:
       {
         url: 'https://news.google.com/rss/search?q=%28%E5%8F%AF%E7%81%B5%20OR%20%E5%8D%B3%E6%A2%A6%20OR%20%E4%B8%87%E7%9B%B8%20OR%20%E6%B7%B7%E5%85%83%E8%A7%86%E9%A2%91%29%20%28%E8%A7%86%E9%A2%91%20OR%20%E6%BC%AB%E5%89%A7%20OR%20%E7%9F%AD%E5%89%A7%29%20when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans',
@@ -853,11 +858,23 @@ sources:
   - name: drama-en-models
     type: rss
     weight: 1.0
+    stripPatterns: *gn-strip
     params:
       {
         url: 'https://news.google.com/rss/search?q=%22AI%20video%22%20%28model%20OR%20release%20OR%20workflow%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en',
         limit: 30,
       }
+
+  # 直接订阅原作者站点，不依赖搜索聚合；仍经制作主题和教程规则筛选。
+  - name: drama-comfy-tutorials
+    type: rss
+    weight: 1.2
+    params: { url: https://blog.comfy.org/feed, limit: 50 }
+
+  - name: drama-hf-tutorials
+    type: rss
+    weight: 1.1
+    params: { url: https://huggingface.co/blog/feed.xml, limit: 100 }
 
   - name: drama-comfyui
     type: rss
@@ -879,22 +896,35 @@ sources:
 sections:
   - id: drama-news
     title: AI短剧漫剧 · 国内外资讯与案例
-    sources: [drama-cn-news, drama-en-news]
-    limit: 6
+    sources:
+      &drama-topic-sources [
+        drama-cn-news,
+        drama-en-news,
+        drama-cn-tutorial,
+        drama-en-tutorial,
+        drama-cn-models,
+        drama-en-models,
+        drama-comfyui,
+        drama-ltx,
+        drama-comfy-tutorials,
+        drama-hf-tutorials,
+      ]
+    limit: 10
     minPerSource: 1
     exclude: ['培训招生', '加盟代理', '躺赚']
 
   - id: drama-tutorials
-    title: AI短剧漫剧 · 教程与制作方法
-    sources: [drama-cn-tutorial, drama-en-tutorial]
+    title: AI短剧漫剧 · 教程与制作方法（近30天）
+    sources: *drama-topic-sources
+    lookbackHours: 720
     limit: 6
     minPerSource: 1
     exclude: ['培训招生', '加盟代理', '躺赚']
 
   - id: drama-tools
     title: AI短剧漫剧 · 开源与技术更新
-    sources: [drama-comfyui, drama-ltx, drama-cn-models, drama-en-models]
-    limit: 6
+    sources: *drama-topic-sources
+    limit: 10
     minPerSource: 1
 
   # 两组栏目，被 schedules 的白名单分开跑（docs/NEWS-EDITION.md 决策 1）：

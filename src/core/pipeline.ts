@@ -19,6 +19,7 @@ import { collectWeekly, describeWindow, weeklySchedule, type WeeklyWindow } from
 import type { LlmFetch } from '../enrich/llm'
 import type { ExtractFetch } from '../enrich/extract'
 import { aiDramaReminder, rankForLearning } from '../learning/ai-drama'
+import { dramaSection, dramaSourcePriority, DRAMA_SECTIONS } from '../learning/classify'
 import { deliveryStatePath, readDeliveryState, saveDeliveryResults } from '../archive/delivery'
 
 export interface RunOptions {
@@ -352,16 +353,42 @@ export async function run(options: RunOptions): Promise<RunResult> {
     // Higher-weight sources first, so the surviving copy of a cross-posted story is the
     // one from the source we trust more.
     const weights = weightsOf(config.sources)
+    const isDrama = schedule.id === 'ai-drama'
     const fetched: RawItem[] = sourceOutcomes
       .flatMap((o) => o.items)
-      .sort((a, b) => (weights[b.source] ?? 1) - (weights[a.source] ?? 1))
+      .filter(
+        (item) =>
+          !isDrama ||
+          !sections.some((s) => DRAMA_SECTIONS.has(s.id)) ||
+          sections.some((section) => {
+            if (DRAMA_SECTIONS.has(section.id) && dramaSection(item) !== section.id) return false
+            return (
+              filterForSection([item], section, {
+                now,
+                lookbackHours: section.lookbackHours ?? schedule.lookbackHours,
+              }).length > 0
+            )
+          }),
+      )
+      .sort(
+        (a, b) =>
+          (isDrama ? dramaSourcePriority(b) - dramaSourcePriority(a) : 0) ||
+          (weights[b.source] ?? 1) - (weights[a.source] ?? 1),
+      )
 
     const seen = config.archive.enabled
       ? seenFromArchive(
           readRecentItems(
             config.archive.dir,
             localDate(editionAt, config.timezone),
-            config.archive.dedupeLookbackDays,
+            isDrama
+              ? Math.max(
+                  config.archive.dedupeLookbackDays,
+                  ...sections.map((s) =>
+                    Math.ceil((s.lookbackHours ?? schedule.lookbackHours) / 24),
+                  ),
+                )
+              : config.archive.dedupeLookbackDays,
             fs,
             schedule.dedupeGroup ?? 'default',
           ).items,
@@ -375,15 +402,25 @@ export async function run(options: RunOptions): Promise<RunResult> {
     const used = new Set<string>()
     const built: BriefSection[] = []
 
-    for (const section of sections) {
+    const selectionOrder = isDrama
+      ? [...sections].sort(
+          (a, b) => Number(b.id === 'drama-tutorials') - Number(a.id === 'drama-tutorials'),
+        )
+      : sections
+    for (const section of selectionOrder) {
+      const lookbackHours = section.lookbackHours ?? schedule.lookbackHours
       const candidates = filterForSection(
-        deduped.items.filter((i) => !used.has(i.id)),
+        deduped.items.filter(
+          (i) =>
+            !used.has(i.id) &&
+            (!isDrama || !DRAMA_SECTIONS.has(section.id) || dramaSection(i) === section.id),
+        ),
         section,
-        { now, lookbackHours: schedule.lookbackHours, minScoreBySource: floors },
+        { now, lookbackHours, minScoreBySource: floors },
       )
       const ranked = rank(candidates, section.id, {
         now,
-        lookbackHours: schedule.lookbackHours,
+        lookbackHours,
         weights,
       })
       const chosen = selectForSection(
@@ -395,6 +432,12 @@ export async function run(options: RunOptions): Promise<RunResult> {
       chosen.forEach((item) => used.add(item.id))
       built.push({ id: section.id, title: section.title, items: chosen })
     }
+    // Preserve the configured presentation order after reserving tutorial slots first.
+    if (isDrama)
+      built.sort(
+        (a, b) =>
+          sections.findIndex((s) => s.id === a.id) - sections.findIndex((s) => s.id === b.id),
+      )
 
     // §1.1 — after selection so `section.limit` caps the spend, before the brief is
     // built so the summaries reach the archive and every renderer for free.

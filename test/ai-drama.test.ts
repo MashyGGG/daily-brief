@@ -10,6 +10,8 @@ import { productionNotes, productionLines } from '../src/learning/content'
 import { enrichSections } from '../src/enrich'
 import { readDeliveryState } from '../src/archive/delivery'
 import { renderArchiveMarkdown } from '../src/render/markdown'
+import { dramaSection } from '../src/learning/classify'
+import { itemId } from '../src/core/normalize'
 import { configYaml, item, NOW } from './helpers'
 import type { FetchLike } from '../src/sources'
 
@@ -47,6 +49,132 @@ schedules:
   )
 
 describe('AI drama learning edition', () => {
+  it('classifies production tutorials ahead of their discovery feed and rejects generic AI business stories', () => {
+    expect(dramaSection(item({ source: 'drama-cn-news', title: 'AI短剧分镜实战教程' }))).toBe(
+      'drama-tutorials',
+    )
+    expect(
+      dramaSection(
+        item({ source: 'drama-cn-news', title: '南威软件收警示函，三季报增亏2.21亿元' }),
+      ),
+    ).toBeNull()
+    expect(
+      dramaSection(
+        item({
+          source: 'drama-en-models',
+          title: 'Gaming’s Business Model Is Broken. AI Can Fix It',
+        }),
+      ),
+    ).toBeNull()
+    expect(
+      dramaSection(
+        item({
+          source: 'drama-en-news',
+          title: 'Akuna launches free AI filmmaking programme for creators',
+        }),
+      ),
+    ).toBe('drama-news')
+    expect(dramaSection(item({ source: 'drama-comfyui', title: 'v0.43.2' }))).toBe('drama-tools')
+    expect(
+      dramaSection(
+        item({ source: 'drama-cn-news', title: 'AI短剧三国杀：腾讯快手字节加码，未来会怎么走？' }),
+      ),
+    ).toBe('drama-news')
+    expect(
+      dramaSection(
+        item({
+          source: 'drama-en-models',
+          title: 'PixVerse Launches Innovative Image-to-Video Workflow',
+        }),
+      ),
+    ).toBe('drama-tools')
+    expect(
+      dramaSection(
+        item({
+          source: 'drama-comfy-tutorials',
+          title: 'Comfy Agent: The First Agent for Craft',
+          excerpt: 'Build a ComfyUI workflow.',
+        }),
+      ),
+    ).toBe('drama-tools')
+    expect(
+      dramaSection(
+        item({
+          source: 'drama-comfy-tutorials',
+          title: 'How I Generated Live Video with MiniMax H3 on a Single GPU',
+          excerpt: 'A ComfyUI workflow',
+        }),
+      ),
+    ).toBe('drama-tutorials')
+  })
+
+  it('uses a 30-day tutorial window, keeps the original source, and remembers older tutorial deliveries', async () => {
+    const names = ['drama-cn-news', 'drama-cn-tutorial', 'drama-comfy-tutorials', 'drama-ltx']
+    const cfg = parseConfig(
+      configYaml({
+        head: `timezone: Asia/Shanghai\npublish: {include: [drama-news]}\nschedules: [{id: ai-drama, time: '08:10', lookbackHours: 48, dedupeGroup: ai-drama, sendEmpty: true}]\n`,
+        sources:
+          'sources:\n' +
+          names
+            .map(
+              (name) =>
+                `  - name: ${name}\n    type: rss\n    params: {url: 'https://example.com/${name}'}\n`,
+            )
+            .join(''),
+        sections: `sections:\n  - id: drama-news\n    title: 资讯\n    sources: [${names}]\n    limit: 10\n  - id: drama-tutorials\n    title: 教程\n    sources: [${names}]\n    limit: 6\n    lookbackHours: 720\n  - id: drama-tools\n    title: 技术\n    sources: [${names}]\n    limit: 10\n`,
+        recipients: 'recipients: [{id: mail, channel: email, driver: smtp}]\n',
+      }),
+      {},
+    )
+    const entry = (title: string, url: string, days: number) =>
+      `<item><title>${title}</title><link>${url}</link><pubDate>${new Date(NOW.getTime() - days * 86400000).toUTCString()}</pubDate></item>`
+    const stories: Record<string, string> = {
+      'drama-cn-news':
+        entry('AI短剧分镜实战教程', 'https://example.com/tutorial', 10) +
+        entry('AI漫剧行业案例', 'https://example.com/news', 1) +
+        entry('AI短剧旧消息', 'https://example.com/old-news', 10),
+      'drama-cn-tutorial': entry('AI短剧分镜实战教程', 'https://example.com/tutorial', 10),
+      'drama-comfy-tutorials':
+        entry('AI短剧分镜实战教程', 'https://example.com/tutorial', 10) +
+        entry('ComfyUI video workflow guide', 'https://example.com/already-sent', 25),
+      'drama-ltx': entry('v2.1.0', 'https://example.com/release', 1),
+    }
+    const fs = memoryFs({
+      'archive/2026/07/2026-07-31.ai-drama.json': JSON.stringify({
+        dedupeGroup: 'ai-drama',
+        items: [
+          item({
+            id: itemId('https://example.com/already-sent'),
+            title: 'ComfyUI video workflow guide',
+          }),
+        ],
+      }),
+    })
+    const result = await run({
+      config: cfg,
+      configHash: 'test',
+      now: NOW,
+      env: {},
+      dryRun: false,
+      fs,
+      fetchImpl: async (url) => ({
+        ok: true,
+        status: 200,
+        text: async () => `<rss><channel>${stories[url.split('/').pop()!]}</channel></rss>`,
+      }),
+      channelContext: { env: {}, fetchImpl: vi.fn(), sleep: async () => {} },
+    })
+    expect(result.brief.sections.map((s) => s.id)).toEqual([
+      'drama-news',
+      'drama-tutorials',
+      'drama-tools',
+    ])
+    expect(result.brief.sections[0]!.items.map((i) => i.url)).toEqual(['https://example.com/news'])
+    expect(result.brief.sections[1]!.items).toHaveLength(1)
+    expect(result.brief.sections[1]!.items[0]!.source).toBe('drama-comfy-tutorials')
+    expect(result.brief.sections[2]!.items[0]!.url).toBe('https://example.com/release')
+    expect(result.dedupeDropped.alreadySeen).toBe(1)
+  })
   it('prioritizes the current production problem while retaining unrelated developments', () => {
     const input = [
       item({ id: 'a', title: '新手分镜入门', rankScore: 0.5 }),

@@ -248,6 +248,12 @@ export const sectionSchema = z.object({
   title: z.string().min(1),
   sources: z.array(z.string().min(1)).min(1),
   limit: z.number().int().positive('limit must be > 0'),
+  /** Tutorials age more slowly than news; absent preserves the schedule window. */
+  lookbackHours: z
+    .number()
+    .positive()
+    .max(24 * 90)
+    .optional(),
   minPerSource: z.number().int().nonnegative().default(0),
   include: z.array(z.string().min(1)).default([]),
   exclude: z.array(z.string().min(1)).default([]),
