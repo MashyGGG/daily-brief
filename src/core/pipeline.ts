@@ -18,8 +18,12 @@ import { enrichSections, type EnrichStats } from '../enrich'
 import { collectWeekly, describeWindow, weeklySchedule, type WeeklyWindow } from './weekly'
 import type { LlmFetch } from '../enrich/llm'
 import type { ExtractFetch } from '../enrich/extract'
+import { aiDramaReminder, rankForLearning } from '../learning/ai-drama'
+import { deliveryStatePath, readDeliveryState, saveDeliveryResults } from '../archive/delivery'
 
 export interface RunOptions {
+  /** Automatic AI-drama runs resume an archive and send only recipients not confirmed sent. */
+  resumeDelivery?: boolean
   config: BriefConfig
   configHash: string
   now: Date
@@ -70,6 +74,7 @@ export interface RunOptions {
 }
 
 export interface RunResult {
+  deliveryStateChanged?: boolean
   schedule: Schedule
   brief: Brief
   sources: SourceOutcome[]
@@ -157,6 +162,8 @@ function briefFromArchive(options: RunOptions, schedule: Schedule, sections: Sec
     // would make the second copy differ from the one already on the public site.
     ...(record.digest ? { digest: record.digest } : {}),
     warnings: record.warnings,
+    ...(record.learningReminder ? { learningReminder: record.learningReminder } : {}),
+    ...(record.dedupeGroup ? { dedupeGroup: record.dedupeGroup } : {}),
   }
 }
 
@@ -214,9 +221,36 @@ export async function run(options: RunOptions): Promise<RunResult> {
 
   if (sections.length === 0) throw new Error('No sections selected — nothing to build.')
 
+  const editionDate = localDate(editionAt, config.timezone)
+  const trackDelivery =
+    schedule.id === 'ai-drama' && config.archive.enabled && !options.dryRun && !options.noArchive
+  const deliveryPath = deliveryStatePath(
+    config.archive.dir,
+    options.fromArchive ?? editionDate,
+    schedule.id,
+  )
+  const deliveryState = trackDelivery
+    ? readDeliveryState(fs, deliveryPath, options.fromArchive ?? editionDate, schedule.id)
+    : null
+  if (trackDelivery && options.resumeDelivery && !options.fromArchive) {
+    if (readRecord(config.archive.dir, editionDate, slotFor(config, schedule), fs)) {
+      options = { ...options, fromArchive: editionDate }
+      log(`resuming archived edition ${editionDate}; confirmed deliveries will be skipped`)
+    } else if (Object.values(deliveryState!.recipients).some((r) => r.status === 'sent')) {
+      throw new Error(
+        'Delivery was recorded but its archive is missing; review before sending again.',
+      )
+    }
+  }
+  const alreadySent =
+    trackDelivery && options.resumeDelivery
+      ? recipients.filter((r) => deliveryState!.recipients[r.id]?.status === 'sent')
+      : []
+  const pendingRecipients = recipients.filter((r) => !alreadySent.some((sent) => sent.id === r.id))
+
   let brief: Brief
   let sourceOutcomes: SourceOutcome[] = []
-  const sourceStatePath = `${config.archive.dir}/source-state.json`
+  const sourceStatePath = `${config.archive.dir}/source-state${schedule.dedupeGroup ? `.${schedule.dedupeGroup}` : ''}.json`
   const sourceState = config.archive.enabled ? readSourceState(sourceStatePath, fs) : {}
   let dedupeDropped = { withinRun: 0, alreadySeen: 0 }
   let enrich: EnrichStats = {
@@ -329,6 +363,7 @@ export async function run(options: RunOptions): Promise<RunResult> {
             localDate(editionAt, config.timezone),
             config.archive.dedupeLookbackDays,
             fs,
+            schedule.dedupeGroup ?? 'default',
           ).items,
         )
       : emptySeen()
@@ -351,14 +386,41 @@ export async function run(options: RunOptions): Promise<RunResult> {
         lookbackHours: schedule.lookbackHours,
         weights,
       })
-      const chosen = selectForSection(ranked, section)
+      const chosen = selectForSection(
+        schedule.id === 'ai-drama'
+          ? rankForLearning(ranked, config.aiDrama?.stage ?? 'observe')
+          : ranked,
+        section,
+      )
       chosen.forEach((item) => used.add(item.id))
       built.push({ id: section.id, title: section.title, items: chosen })
     }
 
     // §1.1 — after selection so `section.limit` caps the spend, before the brief is
     // built so the summaries reach the archive and every renderer for free.
-    const enriched = await enrichSections(built, config.llm, {
+    const editionLlm =
+      schedule.id === 'ai-drama'
+        ? {
+            ...config.llm,
+            provider: {
+              ...config.llm.provider,
+              maxOutputTokens: config.aiDrama?.summaryMaxOutputTokens ?? 800,
+            },
+            when: { ...config.llm.when, topPerSection: 0 },
+            budget: {
+              ...config.llm.budget,
+              maxItemsPerRun: Math.min(
+                config.llm.budget.maxItemsPerRun,
+                config.aiDrama?.maxSummariesPerRun ?? 18,
+              ),
+            },
+          }
+        : config.llm
+    const enriched = await enrichSections(built, editionLlm, {
+      learningStage:
+        schedule.id === 'ai-drama'
+          ? aiDramaReminder(config, env.GITHUB_REPOSITORY).stage
+          : undefined,
       env,
       fetchImpl: (options.llmFetchImpl ?? (options.fetchImpl as unknown as LlmFetch)) as LlmFetch,
       extractFetchImpl: options.extractFetchImpl,
@@ -370,6 +432,11 @@ export async function run(options: RunOptions): Promise<RunResult> {
     })
     enrich = enriched.stats
     warnings.push(...enriched.warnings)
+    if (schedule.id === 'ai-drama' && ['disabled', 'no-key'].includes(enrich.status)) {
+      warnings.push(
+        'AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。',
+      )
+    }
 
     brief = {
       date: localDate(editionAt, config.timezone),
@@ -385,11 +452,22 @@ export async function run(options: RunOptions): Promise<RunResult> {
     }
   }
 
+  if (!options.fromArchive && schedule.dedupeGroup) brief.dedupeGroup = schedule.dedupeGroup
+  if (schedule.id === 'ai-drama' && !options.fromArchive) {
+    brief.learningReminder = aiDramaReminder(config, env.GITHUB_REPOSITORY, brief.date)
+    if (totalItems(brief) === 0) {
+      brief.warnings.push(
+        sourceOutcomes.some((s) => s.error)
+          ? '今日采集覆盖不足：部分来源失败，不能据此判断没有更新。请继续当前练习。'
+          : '今日暂无符合条件的新内容。继续当前阶段练习即可。',
+      )
+    }
+  }
   const count = totalItems(brief)
 
   // §3.2 — nothing worth sending means nothing is sent and nothing is archived, so an
   // empty morning does not train you to ignore the brief.
-  if (count === 0) {
+  if (count === 0 && !schedule.sendEmpty) {
     return {
       schedule,
       brief,
@@ -456,16 +534,33 @@ export async function run(options: RunOptions): Promise<RunResult> {
     })
   }
 
-  const deliveries = await deliver(recipients, {
+  const pendingDeliveries = await deliver(pendingRecipients, {
     ctx: options.channelContext,
     payloads,
     dryRun: options.dryRun,
     describeError,
   })
 
+  let deliveryStateChanged = false
+  if (deliveryState && pendingDeliveries.length) {
+    saveDeliveryResults(fs, deliveryPath, deliveryState, pendingDeliveries, now.toISOString())
+    deliveryStateChanged = true
+  }
+  const deliveries: DeliveryResult[] = [
+    ...pendingDeliveries,
+    ...alreadySent.map((r) => ({
+      recipient: r.id,
+      channel: r.channel,
+      status: 'skipped' as const,
+      detail: 'already delivered — confirmed in delivery state',
+      durationMs: 0,
+    })),
+  ]
+
   const failed = deliveries.filter((d) => d.status === 'failed').length
   return {
     schedule,
+    deliveryStateChanged,
     brief,
     sources: sourceOutcomes,
     deliveries,

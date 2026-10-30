@@ -6,6 +6,7 @@ import { createLlmClient, resolveProvider, type LlmClient, type LlmFetch } from 
 import { cut, planEnrichment, type EnrichPlan, type EnrichTask } from './policy'
 import { PROMPT_VERSION, systemPrompt, userPrompt } from './prompt'
 import { sanitizeResponse } from './sanitize'
+import { productionNotes } from '../learning/content'
 
 /**
  * §6.1 — the enrich stage never throws and never changes the exit code. Every failure
@@ -14,6 +15,7 @@ import { sanitizeResponse } from './sanitize'
  */
 
 export interface EnrichContext {
+  learningStage?: string
   env: NodeJS.ProcessEnv
   fetchImpl: LlmFetch
   /**
@@ -151,10 +153,17 @@ async function summarizeOne(
   stats: EnrichStats,
   onFailure: (message: string) => void,
   describeError: (err: unknown) => string,
-): Promise<{ id: string; summary: string; takeaways: string[]; meta: SummaryMeta } | null> {
+  learningStage?: string,
+): Promise<{
+  id: string
+  summary: string
+  takeaways: string[]
+  meta: SummaryMeta
+  productionNotes?: Item['productionNotes']
+} | null> {
   try {
     const result = await client.complete(
-      systemPrompt(task.policy),
+      systemPrompt(task.policy, learningStage),
       userPrompt({ title: task.item.title, source: task.item.source, text: task.input }),
     )
     stats.attempts += result.attempts
@@ -169,10 +178,13 @@ async function summarizeOne(
       id: task.item.id,
       summary: clean.summary,
       takeaways: clean.takeaways,
+      ...(learningStage
+        ? { productionNotes: productionNotes(result.content, task.inputKind) }
+        : {}),
       meta: {
         by: 'llm',
         model: client.model,
-        promptVersion: PROMPT_VERSION,
+        promptVersion: learningStage ? `${PROMPT_VERSION}-ai-drama-1` : PROMPT_VERSION,
         inputKind: task.inputKind,
       },
     }
@@ -187,7 +199,15 @@ async function summarizeOne(
 
 function applySummaries(
   sections: BriefSection[],
-  summaries: Map<string, { summary: string; takeaways: string[]; meta: SummaryMeta }>,
+  summaries: Map<
+    string,
+    {
+      summary: string
+      takeaways: string[]
+      meta: SummaryMeta
+      productionNotes?: Item['productionNotes']
+    }
+  >,
 ): BriefSection[] {
   if (summaries.size === 0) return sections
   return sections.map((section) => ({
@@ -200,6 +220,7 @@ function applySummaries(
         summary: found.summary,
         ...(found.takeaways.length > 0 ? { takeaways: found.takeaways } : {}),
         summaryMeta: found.meta,
+        ...(found.productionNotes ? { productionNotes: found.productionNotes } : {}),
       }
     }),
   }))
@@ -343,7 +364,15 @@ export async function enrichSections(
     sleep: ctx.sleep,
   })
 
-  const summaries = new Map<string, { summary: string; takeaways: string[]; meta: SummaryMeta }>()
+  const summaries = new Map<
+    string,
+    {
+      summary: string
+      takeaways: string[]
+      meta: SummaryMeta
+      productionNotes?: Item['productionNotes']
+    }
+  >()
   const failures: string[] = []
   const extractFailures: string[] = []
 
@@ -369,12 +398,14 @@ export async function enrichSections(
       stats,
       (message) => failures.push(message),
       describeError,
+      ctx.learningStage,
     )
     if (result) {
       summaries.set(result.id, {
         summary: result.summary,
         takeaways: result.takeaways,
         meta: result.meta,
+        productionNotes: result.productionNotes,
       })
     }
   })

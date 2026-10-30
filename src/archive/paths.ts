@@ -49,6 +49,7 @@ const SLOT_LABELS: Record<string, string> = {
   weekly: '周报',
   'news-am': '早间要闻',
   'news-pm': '晚间要闻',
+  'ai-drama': 'AI短剧·漫剧日报',
 }
 
 export function slotLabel(slot: string): string {

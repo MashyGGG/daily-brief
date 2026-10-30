@@ -1,4 +1,5 @@
 import type { BriefDigest, Item } from '../config/schema'
+import type { Brief } from '../core/brief'
 import { nodeFs, type FsLike } from './fs'
 import { archiveNames, isReprint, parseArchiveFilename, recentDates } from './paths'
 import type { IndexEntry } from '../render/markdown'
@@ -17,6 +18,8 @@ export interface ArchiveRecord {
   /** §9 M3 — the issue's 导读, when the model wrote one. Absent on every pre-M3 record. */
   digest?: BriefDigest
   warnings: string[]
+  dedupeGroup?: string
+  learningReminder?: Brief['learningReminder']
 }
 
 export function parseArchiveRecord(text: string): ArchiveRecord | null {
@@ -48,6 +51,7 @@ export function readRecentItems(
   today: string,
   days: number,
   fs: FsLike = nodeFs,
+  dedupeGroup?: string,
 ): { items: Item[]; scanned: number } {
   const items: Item[] = []
   let scanned = 0
@@ -61,6 +65,7 @@ export function readRecentItems(
       if (isReprint(parsed.slot)) continue
       const record = parseArchiveRecord(fs.readFile(`${dir}/${name}`) ?? '')
       if (!record) continue
+      if (dedupeGroup !== undefined && (record.dedupeGroup ?? 'default') !== dedupeGroup) continue
       scanned++
       items.push(...record.items)
     }

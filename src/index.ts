@@ -75,6 +75,7 @@ async function main(argv: string[]): Promise<number> {
   }
 
   const options: RunOptions = {
+    resumeDelivery: !args.fromArchive && (Boolean(args.cron?.trim()) || args.skipIfArchived),
     config,
     configHash,
     now,
@@ -109,7 +110,7 @@ async function main(argv: string[]): Promise<number> {
       )
     } else {
       const planned = plannedArchive(options)
-      if (nodeFs.exists(planned.names.json)) {
+      if (planned.schedule.id !== 'ai-drama' && nodeFs.exists(planned.names.json)) {
         const label = `${planned.date}${planned.slot ? `.${planned.slot}` : ''}`
         console.log(`[brief] ${label} is already archived (${planned.names.json}) — skipping`)
         writeStepOutputs(
@@ -131,7 +132,10 @@ async function main(argv: string[]): Promise<number> {
   writeStepOutputs(
     {
       'archive-commit': String(
-        Boolean(result.archived) && config.archive.commit && !args.noCommit && !args.dryRun,
+        Boolean(result.archived || result.deliveryStateChanged) &&
+          config.archive.commit &&
+          !args.noCommit &&
+          !args.dryRun,
       ),
       'archive-date': result.brief.date,
       // A weekly is filed under the same date as that Monday's brief, so the date alone

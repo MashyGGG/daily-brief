@@ -50,6 +50,15 @@ export interface Item {
   summary?: string
   takeaways?: string[]
   summaryMeta?: SummaryMeta
+  /** Source-grounded production notes; never a claim that we ran the workflow. */
+  productionNotes?: {
+    suitableFor?: string
+    difficulty?: string
+    requirements?: string
+    steps: string[]
+    limitations?: string
+    evidence: 'fulltext' | 'excerpt'
+  }
 }
 
 /** An item before ranking / section assignment. */
@@ -77,6 +86,9 @@ export const scheduleSchema = z.object({
   sections: WILDCARD_LIST.default(['*']),
   recipients: WILDCARD_LIST.default(['*']),
   enabled: z.boolean().default(true),
+  /** Editions with their own learning audience must not consume each other's news. */
+  dedupeGroup: ID.optional(),
+  sendEmpty: z.boolean().optional(),
 })
 
 /**
@@ -681,6 +693,13 @@ export const briefConfigSchema = z
   .object({
     timezone: z.string().min(1).default('Asia/Shanghai'),
     title: z.string().min(1).default('每日早报'),
+    aiDrama: z
+      .object({
+        stage: z.enum(['observe', 'practice', 'pilot', 'publish', 'engineer']).default('observe'),
+        maxSummariesPerRun: z.number().int().min(0).max(50).default(18),
+        summaryMaxOutputTokens: z.number().int().min(128).max(2048).default(800),
+      })
+      .optional(),
     schedules: z.array(scheduleSchema).min(1),
     sources: z.array(sourceSchema).min(1),
     sections: z.array(sectionSchema).min(1),

@@ -9,6 +9,8 @@
   },
   "scripts": {
     "brief": "tsx src/index.ts",
+    "brief:ai-drama": "tsx src/index.ts --schedule ai-drama",
+    "brief:ai-drama:preview": "tsx src/index.ts --schedule ai-drama --dry-run --no-llm",
     "brief:schedule": "tsx src/schedule/generate.ts --write",
     "publish:run": "tsx src/publish.ts",
     "publish:dry": "tsx src/publish.ts --dry-run --explain",

@@ -1,6 +1,7 @@
 import type { Item } from '../config/schema'
 import { truncate } from '../core/normalize'
 import { editionName, localDate, nonEmptySections, type Brief } from '../core/brief'
+import { productionLines } from '../learning/content'
 
 /** Escape the markdown control characters that appear in real headlines. */
 export function escapeMarkdown(text: string): string {
@@ -92,6 +93,7 @@ export function renderItemMarkdown(item: Item, index: number, options: RenderOpt
   if (body) lines.push(`   ${esc(body)}`)
   if (options.detail !== 'compact') {
     for (const takeaway of item.takeaways ?? []) lines.push(`   - ${esc(takeaway)}`)
+    lines.push(...productionLines(item).map((line) => `   - ${esc(line)}`))
   }
   return lines.join('\n')
 }
@@ -120,7 +122,27 @@ export function renderMarkdownBlocks(brief: Brief, options: RenderOptions = {}):
     blocks.push(['> 抓取告警', ...brief.warnings.map((w) => `> - ${esc(w)}`)].join('\n'))
   }
   blocks.push(`—— ${brief.title} · ${brief.scheduleId} · ${brief.timezone}`)
+  const reminder = learningReminderBlock(brief, options)
+  if (reminder) blocks.push(reminder)
   return blocks
+}
+
+export function learningReminderBlock(brief: Brief, options: RenderOptions = {}): string | null {
+  if (!brief.learningReminder) return null
+  const esc = options.escape ?? escapeMarkdown
+  return [
+    '## 学习与制作步骤提醒',
+    `当前阶段：${esc(brief.learningReminder.stage)}（完成成果后手动切换）`,
+    ...(brief.learningReminder.lesson
+      ? [
+          `常青教材（不是今日新闻）：[${esc(brief.learningReminder.lesson.title)}](${brief.learningReminder.lesson.url})`,
+          `今天的小练习：${esc(brief.learningReminder.lesson.task)}`,
+          `完成标准：${esc(brief.learningReminder.lesson.doneWhen)}`,
+        ]
+      : []),
+    ...brief.learningReminder.steps.map((s) => esc(s)),
+    `[完整执行手册](${brief.learningReminder.guideUrl})`,
+  ].join('\n\n')
 }
 
 export function renderMarkdown(brief: Brief, options: RenderOptions = {}): string {
@@ -155,7 +177,8 @@ export function renderArchiveMarkdown(brief: Brief, options: RenderOptions = {})
 
   const opening = digest && options.digestPosition !== 'bottom' ? `${digest}\n\n` : ''
   const closing = digest && options.digestPosition === 'bottom' ? `\n\n${digest}` : ''
-  return `${header}\n\n${opening}${body || '_今天没有达标内容。_'}${closing}${warnings}\n`
+  const reminder = learningReminderBlock(brief, options)
+  return `${header}\n\n${opening}${body || '_今天没有达标内容。_'}${closing}${warnings}${reminder ? `\n\n${reminder}` : ''}\n`
 }
 
 /** `index.md` — the last N issues, rebuilt on every run (§3.5). */

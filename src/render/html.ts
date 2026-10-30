@@ -1,6 +1,7 @@
 import type { Item } from '../config/schema'
 import { editionName, nonEmptySections, type Brief } from '../core/brief'
 import { bodyFor, DIGEST_TITLE, type RenderOptions } from './markdown'
+import { productionLines } from '../learning/content'
 
 /**
  * §3.4 — mail clients strip <style> blocks and block remote assets, so everything is
@@ -77,6 +78,11 @@ function renderItem(item: Item, index: number, options: RenderOptions): string {
     `<div style="margin:4px 0 0;color:#8c959f;font-size:12px">${escapeHtml(meta.filter(Boolean).join(' · '))}</div>`,
     summary,
     takeaways,
+    full && item.productionNotes
+      ? `<div style="margin-top:8px;font-size:13px;color:#57606a">${productionLines(item)
+          .map((line) => `<p>${escapeHtml(line)}</p>`)
+          .join('')}</div>`
+      : '',
     origin,
     '</td></tr>',
   ].join('')
@@ -133,6 +139,22 @@ export function renderHtml(brief: Brief, options: RenderOptions = {}): string {
     options.digestPosition === 'bottom' ? renderDigest(brief, options) : '',
     warnings,
     `<div style="margin:32px 0 0;padding-top:14px;border-top:1px solid #eaeef2;color:#8c959f;font-size:12px">由 daily-brief 自动生成 · ${escapeHtml(brief.generatedAt)}</div>`,
+    brief.learningReminder
+      ? [
+          '<div style="margin-top:24px;padding:16px;background:#ffffff;border:1px solid #d0d7de;border-radius:8px">',
+          `<strong>学习与制作步骤提醒 · 当前：${escapeHtml(brief.learningReminder.stage)}</strong>`,
+          ...(brief.learningReminder.lesson
+            ? [
+                `<p>常青教材（不是今日新闻）：<a href="${safeHref(brief.learningReminder.lesson.url)}">${escapeHtml(brief.learningReminder.lesson.title)}</a></p>`,
+                `<p>今天的小练习：${escapeHtml(brief.learningReminder.lesson.task)}</p>`,
+                `<p>完成标准：${escapeHtml(brief.learningReminder.lesson.doneWhen)}</p>`,
+              ]
+            : []),
+          '<p>阶段由你完成成果后手动切换，不会按天数自动升级。每天阅读后，完成一个小动作。</p>',
+          ...brief.learningReminder.steps.map((step) => `<p>${escapeHtml(step)}</p>`),
+          `<a href="${safeHref(brief.learningReminder.guideUrl)}">查看完整执行手册与验收清单</a></div>`,
+        ].join('')
+      : '',
     '</div></body></html>',
   ].join('')
 }

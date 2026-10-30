@@ -55,6 +55,8 @@ export function writeArchive(options: WriteArchiveOptions): WriteArchiveResult {
       // prompt change can be judged against it instead of against a memory of it.
       ...(brief.digest ? { digest: brief.digest } : {}),
       warnings: brief.warnings,
+      ...(brief.dedupeGroup ? { dedupeGroup: brief.dedupeGroup } : {}),
+      ...(brief.learningReminder ? { learningReminder: brief.learningReminder } : {}),
     },
     secrets,
   )

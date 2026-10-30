@@ -22,6 +22,13 @@ export interface Brief {
   /** §9 M3 — the whole-issue 导读, when the model wrote one. */
   digest?: BriefDigest
   warnings: string[]
+  dedupeGroup?: string
+  learningReminder?: {
+    stage: string
+    steps: string[]
+    guideUrl: string
+    lesson?: { title: string; url: string; task: string; doneWhen: string }
+  }
 }
 
 export function totalItems(brief: Pick<Brief, 'sections'>): number {
