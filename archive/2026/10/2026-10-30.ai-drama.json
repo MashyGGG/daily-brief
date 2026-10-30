@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-30",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-10-30T02:35:33.014Z",
+  "configHash": "16924955ef5a",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "aa3af3be09a6347f",
+      "title": "南威软件收警示函，三季报增亏2.21亿元 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnVfSHcwN2E1RE9EeVZHUjAwTDcwRmNBYkxjeHlGRGtwZVVEMFRYRWlTekRDU1FWaENGeEdFZVBVc2xpaGw5UXZMQy05eEE4VFJocGVVZEV0Yi14Q3dqS25QZnJaOXd2U2xGVnAyTVJkUkZLRE9ZdEZjSkNETWRvOUZfdHNQdXh4MUNWSg?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-10-30T01:49:56.000Z",
+      "excerpt": "南威软件收警示函，三季报增亏2.21亿元 搜狐网",
+      "section": "drama-news",
+      "rankScore": 0.693664
+    },
+    {
+      "id": "95c3bf0ef75abcb1",
+      "title": "Idris Elba’s Akuna Group launches free AI filmmaking programme for creators in 5 African countries - Graphic Online",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRFhldlVDMGhwNEV5akZJVmQ2Uk9fVHJBZ2prZUFCRVlRYUZIS25XcEg0RmlrUGgzdFZZb2RncUtQcmx4bV93cl9RUHhlSGY2c3Y3cXJrOEp0OWFoQl9oT1pFZ3RyZUx0aWtoYkJQTzlQRFRzS3JhUnZMaHllZkV4YUNtUkc2SlhiZF81cENPR0FFNVNaZE1Xa1Aza210M2ZWdUZQeXpYNDlwd1dvRXJXX3dwME45ZktESXZoZzNRZ2ZlWGJ1Tm4xZEEzdnR6RmoxcjNHVzZn?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-10-29T20:34:43.000Z",
+      "excerpt": "Idris Elba’s Akuna Group launches free AI filmmaking programme for creators in 5 African countries Graphic Online",
+      "section": "drama-news",
+      "rankScore": 0.649884
+    },
+    {
+      "id": "fef3907de0d69147",
+      "title": "谁是视频之王：字节与秦朔朋友圈的AI短剧之战 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTnRsS3lUY0RmOFVXVUFNcHZWVWRKMGxxNzF4aWZEbS1zTWFqeFdoNXdSV1I4TWc2d2JhdnhianNnbXRFbDNNR0dEVFFBM2FWeWg5QWo3TWxnZjgtQVE5ZUF2RmdQc3d0VENUeUt6c2t3aHV5ckE4bThvS0IxcUtvVlFkUmdFQ25JOGNF?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-10-29T17:10:06.000Z",
+      "excerpt": "谁是视频之王：字节与秦朔朋友圈的AI短剧之战 搜狐网",
+      "section": "drama-news",
+      "rankScore": 0.621465
+    },
+    {
+      "id": "153d8a4e28919634",
+      "title": "𝐈𝐝𝐫𝐢𝐬 𝐄𝐥𝐛𝐚’𝐬 𝐀𝐤𝐮𝐧𝐚 𝐆𝐫𝐨𝐮𝐩 𝐥𝐚𝐮𝐧𝐜𝐡𝐞𝐬 𝐟𝐫𝐞𝐞 𝐀𝐈 𝐟𝐢𝐥𝐦𝐦𝐚𝐤𝐢𝐧𝐠 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞 𝐟𝐨𝐫 𝐜𝐫𝐞𝐚𝐭𝐨𝐫𝐬 𝐢𝐧 𝐟𝐢𝐯𝐞 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐜𝐨𝐮𝐧𝐭𝐫𝐢𝐞𝐬, 𝐢𝐧 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐆𝐨𝐨𝐠𝐥𝐞 - globaltimes-sl.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQRGdBT1ZIbHl0MW56MWVFLUMwVThGWEl1Z295Q1ZIWWU4a2lqQ2dGOElmZ1N3clhZcFpRRHRibENpRm9sMkV5bDVzdHlIVkhOWmxUUUFpSE5JNmQ4cWVfM0pMRkNnbnAxMWVEeWk4djBxVmRzSDEtZGdMWXI4NE1PazAxTnZVclJpRHkzZUdPWWJPRzBxYVVsaTIwXzdyckVocUM2LVd1Q3NYQlVKSDBUMlpLZkF4OFUtODc4YmhkcFpaOG5QMHVxVGcybU80Z3FyUFp4T2I5Vl9UWmh5dDF1MWtLT085WVBneThfQnhuODZnY3JzRWFnbS15MmFCWWk3RVRqWENDWFhVWXNWcVo0RkJSVnVEdVRiV28wWlRkd292MlFGdFBUYXIwUDZSZW42RENLU3lva0Q5MTVjVDk1dEtOQQ?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-10-29T15:24:23.000Z",
+      "excerpt": "𝐈𝐝𝐫𝐢𝐬 𝐄𝐥𝐛𝐚’𝐬 𝐀𝐤𝐮𝐧𝐚 𝐆𝐫𝐨𝐮𝐩 𝐥𝐚𝐮𝐧𝐜𝐡𝐞𝐬 𝐟𝐫𝐞𝐞 𝐀𝐈 𝐟𝐢𝐥𝐦𝐦𝐚𝐤𝐢𝐧𝐠 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞 𝐟𝐨𝐫 𝐜𝐫𝐞𝐚𝐭𝐨𝐫𝐬 𝐢𝐧 𝐟𝐢𝐯𝐞 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐜𝐨𝐮𝐧𝐭𝐫𝐢𝐞𝐬, 𝐢𝐧 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐆𝐨𝐨𝐠𝐥𝐞 globaltimes-sl.com",
+      "section": "drama-news",
+      "rankScore": 0.606782
+    },
+    {
+      "id": "bdf188906b6bf784",
+      "title": "首届江西省大学生AI漫剧创作大赛拟获奖名单公示 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGZkFueWVUT0h4VDlBUmhKQWlnZjQ5Z1k3ZU1zTkRsbTRCbXFlTVViendOcUtjUGpzY2EtODlPMVB3d0J0Vll6Vnd3?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-10-29T12:35:09.000Z",
+      "excerpt": "首届江西省大学生AI漫剧创作大赛拟获奖名单公示 凤凰网",
+      "section": "drama-news",
+      "rankScore": 0.583278
+    },
+    {
+      "id": "f9f9574ef7194721",
+      "title": "昆仑万维三季报出炉：前三季度营收近90亿，AI短剧单月流水近1亿美元_公司新闻_财经 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tdjBwcUhWallaUjItVjVxYzdRdG9EM2lHZFZUbjNSdW5lbXQ1OEtaWVdqNUx5YVFiYjBqSUhnYWF0akFpRzctOGdSRHZDTy03d2k2azdRLWI5ZmJ5Mnd2Mw?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-10-29T11:32:25.000Z",
+      "excerpt": "昆仑万维三季报出炉：前三季度营收近90亿，AI短剧单月流水近1亿美元_公司新闻_财经 证券之星",
+      "section": "drama-news",
+      "rankScore": 0.574565
+    },
+    {
+      "id": "d49508b80537fd55",
+      "title": "即梦上线“短剧工作室”，全流程AI工具打通短剧创作闭环 - https://www.itopmarketing.com/",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWcWJMblB1ak5ENDBTVnJrbUpNRUxqZ3h6YTRZMldKeTIyRjl2bTlkR2hhcFdvNXpVOUdwRWlGdW5wNzRlRDhTcmVNcFdFRUhS?oc=5",
+      "source": "drama-cn-tutorial",
+      "publishedAt": "2026-10-28T09:21:21.000Z",
+      "excerpt": "即梦上线“短剧工作室”，全流程AI工具打通短剧创作闭环 https://www.itopmarketing.com/",
+      "section": "drama-tutorials",
+      "rankScore": 0.356361
+    },
+    {
+      "id": "1d75f3acc8840926",
+      "title": "v0.43.2",
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2",
+      "source": "drama-comfyui",
+      "publishedAt": "2026-10-30T01:24:06.000Z",
+      "author": "comfyanonymous",
+      "excerpt": "ComfyUI v0.43.2",
+      "section": "drama-tools",
+      "rankScore": 0.759084
+    },
+    {
+      "id": "9e2e6bde95dd1745",
+      "title": "AIVideoFree Relaunches as a Free AI Video Generator With No Restrictions on Models - Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3djZUh2b3o1dlBlZ0JET3ZWajVianRpNGhvQ01LU096TUc3emd6dkpCMnpUQWNBM2tzRDlpOUZJb3FnZEZJNWtVRkxkSkwxSXJJbDR5YTNRVFNVX0dEbGp5Y2ljZmcwLWFPdkl6NU5YNWFuY243M2l0Wl9aNUdsb2tEZ1pXaXNycjJGb3RiZ3c1QTlURkxGY2xUMkNOaW5YaHRfZ0k0Rk5XcTVxR3c?oc=5",
+      "source": "drama-en-models",
+      "publishedAt": "2026-10-30T02:13:20.000Z",
+      "excerpt": "AIVideoFree Relaunches as a Free AI Video Generator With No Restrictions on Models Macau Business",
+      "section": "drama-tools",
+      "rankScore": 0.696914
+    },
+    {
+      "id": "d658737e650a664a",
+      "title": "Gaming’s Business Model Is Broken. AI Can Fix It - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNWZLNW9wbHRXVlBhUV9uMk0tSWxjOV96VnF1NW1OeTdOY3hZcURSaFNNSEtHRWRQSG9zVGlkc0ItR1Mya3E5TEtrZk9xaHN4ZmNkT25ackdKVk1PUkM0Z2xQa0JURGR5U1FNTVFJb0JlTDQ4YUpIMHZQSENGQ1FyZkRra2tZdzJUQXMtQnZ3?oc=5",
+      "source": "drama-en-models",
+      "publishedAt": "2026-10-29T19:00:00.000Z",
+      "excerpt": "Gaming’s Business Model Is Broken. AI Can Fix It Bloomberg",
+      "section": "drama-tools",
+      "rankScore": 0.636729
+    },
+    {
+      "id": "8dcc2246c710dfd0",
+      "title": "Pika Launches Pika H3 Flex, a Video Model Built for Professional Iteration - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHFsenhOd3Z6eGdmNVl3MDc0Ump3ci1wdHdHT0ljOUVhejU1YXRmVDRNVFR4QkJ0UWFrcUhmcDdianZNMGktWmZCUldmd3JSNGVYdC0wZXhRS18tWWZEWktFQUY2dUUxQ2h0cFBJUERkajBod0xzMXY4VHMzWnUyVGhvak0ya2FoajY5ajFoaVdya3l3eWNhWXAzUEF3RjZsUGFGaUx3MTdLQXZmalZaSDZ4cFlqTk1OYlpuRzJmZWwxN1JoUURxTWdR?oc=5",
+      "source": "drama-en-models",
+      "publishedAt": "2026-10-29T18:40:00.000Z",
+      "excerpt": "Pika Launches Pika H3 Flex, a Video Model Built for Professional Iteration Business Wire",
+      "section": "drama-tools",
+      "rankScore": 0.633951
+    },
+    {
+      "id": "08364f27adabf69a",
+      "title": "Adobe Firefly expands AI video editing: more tools across Adobe apps - Softonic",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR0RxSkJuXzdZQkpLS0Y4QmkxN21LNDNqa0k2dktGOEdQVmhHT25ibVcxRGRZV2JhTnJ0Y0QtNzNjN2NpVjV3NjVZQ19tc0JqMTNSdlRsUTJfdWVxc3NlNFJzNUI4aV9xRjJzYW1rZ2UyQmljdU15QUN5T3U1Q2xiYXE3OVVBMXRHZjFJOEtzV1EtMWNWVlI2VnljNUtXSWt3MlE?oc=5",
+      "source": "drama-en-models",
+      "publishedAt": "2026-10-29T18:31:37.000Z",
+      "excerpt": "Adobe Firefly expands AI video editing: more tools across Adobe apps Softonic",
+      "section": "drama-tools",
+      "rankScore": 0.632787
+    },
+    {
+      "id": "d3b9d60287c72070",
+      "title": "实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法 - 爱范儿",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5idUhNNVBPWUpvM3RCWDl3UWZacEE3MWR5RGhfRGhfVzdsa0I1Yk1LZWtxUWQwSWdfdy1zY3ZuZEY2aG8?oc=5",
+      "source": "drama-cn-models",
+      "publishedAt": "2026-10-29T04:02:26.000Z",
+      "excerpt": "实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法 爱范儿",
+      "section": "drama-tools",
+      "rankScore": 0.512067
+    }
+  ],
+  "warnings": [
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "从短镜头拼成完整故事",
+      "url": "https://help.runwayml.com/hc/en-us/articles/26871350018835-How-to-create-longer-videos-and-films",
+      "task": "拆解一条喜欢的 30–60 秒作品，记录开头、变化、结尾和每镜时长。",
+      "doneWhen": "有一张至少 6 镜头的拆解表。"
+    }
+  }
+}
