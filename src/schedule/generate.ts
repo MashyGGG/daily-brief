@@ -3,6 +3,7 @@ import { resolve } from 'node:path'
 import { loadConfig, DEFAULT_CONFIG_PATH } from '../config/load'
 import {
   applyScheduleBlock,
+  applyScheduleChoices,
   hasDst,
   generateCrons,
   generatePublishCrons,
@@ -72,7 +73,7 @@ function main(argv: string[]): number {
       drifted++
       continue
     }
-    const after = applyScheduleBlock(before, config, kind)
+    const after = applyScheduleChoices(applyScheduleBlock(before, config, kind), config, kind)
 
     const crons =
       kind === 'publish'

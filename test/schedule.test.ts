@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import {
   applyScheduleBlock,
+  applyScheduleChoices,
   findScheduleByCron,
   findScheduleById,
   generateCrons,
@@ -13,6 +14,7 @@ import {
 } from '../src/schedule/cron'
 import { parseConfig } from '../src/config/schema'
 import { configYaml } from './helpers'
+import { parse as parseYaml } from 'yaml'
 import { localDate } from '../src/core/brief'
 
 const config = (head: string) => parseConfig(configYaml({ head }), {})
@@ -168,6 +170,42 @@ on:
     # END generated schedule
   workflow_dispatch:
 `
+
+  it('synchronizes dropdown options after config changes and leaves other inputs intact', () => {
+    const workflow = `on:
+  workflow_dispatch:
+    inputs:
+      # BEGIN generated schedule choices
+      schedule: {type: string, default: stale}
+      # END generated schedule choices
+      dry-run: {type: boolean, default: false}
+`
+    const cfg = config(SHANGHAI_0800)
+    const once = applyScheduleChoices(workflow, cfg)
+    const input = (text: string) => parseYaml(text).on.workflow_dispatch.inputs
+    expect(input(once).schedule).toMatchObject({
+      type: 'choice',
+      default: 'morning',
+      options: ['morning'],
+    })
+    cfg.schedules.push({ ...cfg.schedules[0]!, id: 'ai-drama' })
+    cfg.weekly.enabled = true
+    const changed = applyScheduleChoices(once, cfg)
+    expect(input(changed).schedule.options).toEqual(['morning', 'ai-drama', 'weekly'])
+    expect(input(changed)['dry-run']).toEqual({ type: 'boolean', default: false })
+    expect(applyScheduleChoices(changed, cfg)).toBe(changed)
+    cfg.weekly.enabled = false
+    expect(input(applyScheduleChoices(changed, cfg)).schedule.options).not.toContain('weekly')
+    cfg.publish.schedules = [
+      { id: 'daily', time: '20:30' },
+      { id: 'weekly', time: '08:30' },
+    ] as typeof cfg.publish.schedules
+    expect(input(applyScheduleChoices(workflow, cfg, 'publish')).schedule.options).toEqual([
+      'daily',
+      'weekly',
+    ])
+    expect(() => applyScheduleChoices('on: {}', cfg)).toThrow(/markers/)
+  })
 
   it('renders an enabled cron and comments out a disabled one', () => {
     const cfg = config(`timezone: Asia/Shanghai

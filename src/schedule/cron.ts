@@ -436,3 +436,39 @@ export function applyScheduleBlock(
   const block = renderScheduleBlock(config, indent, kind)
   return [...lines.slice(0, beginAt), ...block.split('\n'), ...lines.slice(endAt + 1)].join('\n')
 }
+
+const CHOICES_BEGIN = '# BEGIN generated schedule choices'
+const CHOICES_END = '# END generated schedule choices'
+
+/** Keep dispatch dropdowns in sync with the same config as the automatic triggers. */
+export function applyScheduleChoices(
+  workflowYaml: string,
+  config: BriefConfig,
+  kind: ScheduleKind = 'brief',
+): string {
+  const lines = workflowYaml.split('\n')
+  const begin = lines.findIndex((line) => line.trim() === CHOICES_BEGIN)
+  const end = lines.findIndex((line) => line.trim() === CHOICES_END)
+  if (begin < 0 || end < begin)
+    throw new ScheduleError('Workflow is missing generated schedule choices markers.')
+  const ids =
+    kind === 'brief'
+      ? [...config.schedules.map((s) => s.id), ...(config.weekly.enabled ? ['weekly'] : [])]
+      : config.publish.schedules.map((s) => s.id)
+  const options = [...new Set(ids)]
+  if (!options.length)
+    throw new ScheduleError('Cannot generate schedule choices without a configured schedule.')
+  const indent = lines[begin]!.slice(0, lines[begin]!.indexOf('#'))
+  const block = [
+    CHOICES_BEGIN,
+    `# generated from brief.config.yaml - run \`${REGENERATE_SCRIPT[kind]}\` after editing`,
+    'schedule:',
+    `  description: ${kind === 'brief' ? '选择运行任务（weekly 为每周回顾）' : '选择发布任务'}`,
+    '  type: choice',
+    `  default: '${options[0]}'`,
+    '  options:',
+    ...options.map((id) => `    - '${id}'`),
+    CHOICES_END,
+  ].map((line) => indent + line)
+  return [...lines.slice(0, begin), ...block, ...lines.slice(end + 1)].join('\n')
+}

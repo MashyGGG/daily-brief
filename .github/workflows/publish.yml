@@ -15,10 +15,16 @@ on:
 
   workflow_dispatch:
     inputs:
+      # BEGIN generated schedule choices
+      # generated from brief.config.yaml - run `pnpm publish:schedule` after editing
       schedule:
-        description: 发布线 id（daily / weekly）
-        type: string
-        default: daily
+        description: 选择发布任务
+        type: choice
+        default: 'daily'
+        options:
+          - 'daily'
+          - 'weekly'
+      # END generated schedule choices
       cron:
         # 同 daily-brief.yml 的 cron input：外部定时器传 cron 串而不是 id，让这次运行和一次
         # 准点的 schedule 事件完全同构（反查发布线 + lastCronOccurrence 锚定发布日）。

@@ -13,10 +13,20 @@ on:
     # END generated schedule
   workflow_dispatch:
     inputs:
+      # BEGIN generated schedule choices
+      # generated from brief.config.yaml - run `pnpm brief:schedule` after editing
       schedule:
-        description: which schedule id to run
-        type: string
-        default: morning
+        description: 选择运行任务（weekly 为每周回顾）
+        type: choice
+        default: 'morning'
+        options:
+          - 'morning'
+          - 'evening'
+          - 'news-am'
+          - 'news-pm'
+          - 'ai-drama'
+          - 'weekly'
+      # END generated schedule choices
       cron:
         # docs/SCHEDULE-DRIFT.md §5 — the punctual trigger. GitHub dispatches `schedule`
         # events hours late; an external timer calling this workflow is dispatched at once.
@@ -150,7 +160,7 @@ jobs:
           [ -n "${{ inputs.sections }}" ] && args+=(--sections "${{ inputs.sections }}")
           [ -n "${{ inputs.from-archive }}" ] && args+=(--from-archive "${{ inputs.from-archive }}")
           # The weekly review has its own cron; these inputs are for testing it by hand.
-          if [ "${{ inputs.weekly }}" = "true" ]; then
+          if [ "${{ inputs.weekly }}" = "true" ] || { [ -z "${{ github.event.schedule }}${{ inputs.cron }}" ] && [ "${{ inputs.schedule }}" = "weekly" ]; }; then
             args+=(--weekly)
             if [ -n "${{ inputs.weekly-ending }}" ]; then
               args+=("${{ inputs.weekly-ending }}")

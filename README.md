@@ -490,7 +490,7 @@ those, a disabled section is skipped even when `--sections` names it explicitly.
 
 ```bash
 # 1. edit schedules[].time in brief.config.yaml
-pnpm brief:schedule        # 2. regenerate the workflow cron
+pnpm brief:schedule        # 2. regenerate the workflow cron and schedule dropdown
 git commit -am "chore: brief now goes out at 07:00"   # 3. commit BOTH files together
 ```
 
@@ -788,3 +788,10 @@ src/
 
 Adding a channel is one file, one registry line, and one boundary table in `test/`.
 Adding a publishing platform is the same shape — see `src/publish/` and docs/PUBLISH.md §1.1.
+
+The manual Actions `schedule` input is a dropdown generated from `brief.config.yaml`:
+`daily-brief` lists the configured daily schedules and the enabled `weekly` review;
+`publish` lists its publishing schedules. Selecting `weekly` runs the archive review
+without also checking the legacy `weekly` checkbox. After adding or removing schedules,
+run `pnpm brief:schedule` or `pnpm publish:schedule` and commit the workflow;
+`pnpm check:schedule` checks both cron and dropdown drift.
