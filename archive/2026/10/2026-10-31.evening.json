@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-31",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-10-31T17:14:13.558Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "3c155f971b8fdc2b",
+      "title": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-31T17:14:13.558Z",
+      "score": 1347,
+      "excerpt": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "section": "tech",
+      "rankScore": 1.045714
+    },
+    {
+      "id": "33e40e2a2dfca9f7",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "source": "hn-front",
+      "publishedAt": "2026-10-31T10:21:30.000Z",
+      "score": 636,
+      "author": "input_sh",
+      "excerpt": "636 points · 370 comments · https://news.ycombinator.com/item?id=50314654",
+      "section": "tech",
+      "rankScore": 0.912728
+    },
+    {
+      "id": "60574a5289f3d660",
+      "title": "EP231: AI Terms You Need to Know",
+      "url": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
+      "source": "bytebytego",
+      "publishedAt": "2026-10-31T15:31:08.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "What else should be on the list?",
+      "section": "tech",
+      "rankScore": 0.715999
+    },
+    {
+      "id": "5f6fdba0a33db178",
+      "title": "Speeding up GPU copies by permuting iteration spaces, or, optimising the identity function",
+      "url": "https://futhark-lang.org/blog/2026-10-31-faster-copying.html",
+      "source": "lobsters",
+      "publishedAt": "2026-10-31T17:03:04.000Z",
+      "author": "futhark-lang.org via fanf",
+      "section": "tech",
+      "rankScore": 0.677319
+    },
+    {
+      "id": "840d503828cb3dfc",
+      "title": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
+      "url": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-31T13:30:00.000Z",
+      "author": "Michael Redlich",
+      "excerpt": "There was a flurry of activity during the week of October 19th, 2026, highlighting: first release candidates of: Spring Boot, Spring Framework, Spring Data, Spring Cloud, Spring Security, Spring for GraphQL, Spring Session, Spring Integration, Spring HATEOS, Spring Modulith, Spring REST Docs,…",
+      "section": "tech",
+      "rankScore": 0.637718
+    },
+    {
+      "id": "88bf30e7eda21221",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "verge",
+      "publishedAt": "2026-10-31T16:05:00.000Z",
+      "author": "Sean Hollister",
+      "excerpt": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+      "section": "tech",
+      "rankScore": 0.466925
+    },
+    {
+      "id": "a84e37ed4658c246",
+      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "url": "https://latent.space/p/arca/",
+      "source": "latent-space",
+      "publishedAt": "2026-10-31T16:05:00.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
+      "section": "ai",
+      "rankScore": 0.733739
+    },
+    {
+      "id": "fae9092a89c5018b",
+      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "source": "latent-space",
+      "publishedAt": "2026-10-31T05:00:48.000Z",
+      "author": "swyx .ai",
+      "excerpt": "It turns out you cannot have your cake AND eat it",
+      "section": "ai",
+      "rankScore": 0.385824
+    },
+    {
+      "id": "ce783013f46af494",
+      "title": "如何在“不能出错”的系统里使用 AI Coding？分布式存储实践与边界",
+      "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-31T17:14:13.558Z",
+      "excerpt": "本文结合美团基础技术部在 AI 评审、问题排查和自动化开发中的真实实践，分享 AI 能帮上什么忙、容易在哪些地方犯错，以及哪些地方仍需要人来把关。比「多写代码」更重要的，是让代码和结论经得起验证。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "445697e949166a23",
+      "title": "避雷 API 中转站 wkele.kukuai.fyi：计费陷阱：前端低价引流，实际暗藏 10 倍扣费倍率",
+      "url": "https://www.v2ex.com/t/1253430",
+      "source": "v2ex",
+      "publishedAt": "2026-10-31T10:30:43.000Z",
+      "score": 10,
+      "author": "noogler67",
+      "excerpt": "给大家排个雷。最近在用一个 API 中转站 wkele.kukuai.fyi ，发现其后台计费存在严重的“挂羊头卖狗肉”行为，利用隐藏倍率恶意扣费，提醒大家注意防范。 1. 事情起因（前端极具迷惑性的低价） 在该网站的价目表上，gpt-6.1-sol 模型的标价极其便宜： 输入：¥0.64 / 百万 Tokens 输出：¥3.20 / 百万 Tokens 缓存读：¥0.03 / 百万 Tokens 2. 离谱的实际扣费（数学反推） 我发起了一次请求，看了一下扣费日志，感觉非常不对劲。",
+      "section": "cn-tech",
+      "rankScore": 0.702522
+    },
+    {
+      "id": "d6bed4c12da55017",
+      "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+      "url": "https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-31T16:15:46.000Z",
+      "author": "凌敏",
+      "section": "cn-tech",
+      "rankScore": 0.672162
+    },
+    {
+      "id": "a11af60ea0daa858",
+      "title": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码",
+      "url": "https://www.solidot.org/story?sid=85764",
+      "source": "solidot",
+      "publishedAt": "2026-10-31T12:59:41.000Z",
+      "excerpt": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 2023 年联合创办了实时翻译初创公司 EzDubs，2025 年该公司被思科收购，他随后加入了思科。两人曾在旧金山办公室有过谈话，Krishnamurthy 许诺只需一个两人团队就能重写思科的遗留代码。他给自己争取了四周时间来证明这一想法，最终目标是在 24 个月内重构思科 98% 的遗留代码。",
+      "section": "cn-tech",
+      "rankScore": 0.636668
+    },
+    {
+      "id": "6a4681a89c205de7",
+      "title": "git的实战使用刚加入项目，先从Git 的 pull 和 push 开始学作为一个即将参与实际项目开发的大学生，我觉",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vMTRuWjJ4bElTOTNhMmVMMS1uNTFzd1N6NE1BZ3B4OUNhSzBYVVVHTkZtcmEwT3FzWldWMVlvSTd0Nm1obGNiRWNuS29DSlFPU3JVag?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-31T15:18:51.000Z",
+      "excerpt": "git的实战使用刚加入项目，先从Git 的 pull 和 push 开始学作为一个即将参与实际项目开发的大学生，我觉 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.451541
+    },
+    {
+      "id": "2f9a655cf6e1ab45",
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-31T12:01:56.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.",
+      "section": "security",
+      "rankScore": 0.551289
+    },
+    {
+      "id": "3c790dfdf8baf750",
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-31T08:27:43.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild.",
+      "section": "security",
+      "rankScore": 0.449281
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
