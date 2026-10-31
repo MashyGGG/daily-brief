@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-31",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-10-31T01:32:37.937Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "1c63865641639e18",
+      "title": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "source": "gh-trending",
+      "publishedAt": "2026-10-31T01:32:37.937Z",
+      "score": 930,
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "5d10ff39ac707338",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "source": "hn-front",
+      "publishedAt": "2026-10-30T15:52:18.000Z",
+      "score": 503,
+      "author": "dorianniemiec",
+      "excerpt": "503 points · 379 comments · https://news.ycombinator.com/item?id=50305693",
+      "section": "tech",
+      "rankScore": 0.906556
+    },
+    {
+      "id": "3a4fbdeeae94846a",
+      "title": "The support case of a customer who said that all they could see was a black screen",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
+      "source": "lobsters",
+      "publishedAt": "2026-10-31T01:01:21.000Z",
+      "author": "devblogs.microsoft.com via ubernostrum",
+      "section": "tech",
+      "rankScore": 0.674028
+    },
+    {
+      "id": "eec96933bafd362e",
+      "title": "Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle",
+      "url": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-30T11:00:00.000Z",
+      "author": "Alasdair Allan",
+      "excerpt": "Alasdair Allan discusses empirical research from METR and Anthropic on AI coding adoption. He explains the \"supervision paradox,\" where reliance on AI tools disrupts junior skill development, risks institutional context loss, and threatens the long-term engineering pipeline needed to oversee…",
+      "section": "tech",
+      "rankScore": 0.491922
+    },
+    {
+      "id": "34501d421ef54a03",
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+      "source": "ars-technica",
+      "publishedAt": "2026-10-31T00:07:22.000Z",
+      "author": "Stephen Clark",
+      "excerpt": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "section": "tech",
+      "rankScore": 0.473421
+    },
+    {
+      "id": "960bb3c349f6ed3d",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "verge",
+      "publishedAt": "2026-10-30T22:32:53.000Z",
+      "author": "Jay Peters",
+      "excerpt": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for…",
+      "section": "tech",
+      "rankScore": 0.455049
+    },
+    {
+      "id": "a50b26d7b6090ac6",
+      "title": "v2.1.316",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
+      "source": "anthropic",
+      "publishedAt": "2026-10-31T01:01:35.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added CLAUDE_CODE_DISABLE_ULTRATHINK , which turns the ultrathink keyword off Added pooled group budgets to the Claude apps gateway: one monthly budget that a group's members share, on top of each member's own limit, set with pooled_budget on the spend limits admin API Added…",
+      "section": "ai",
+      "rankScore": 0.864219
+    },
+    {
+      "id": "62a361ef3088484c",
+      "title": "dbreunig/nesformer",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-30T21:59:22.000Z",
+      "excerpt": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen!",
+      "section": "ai",
+      "rankScore": 0.768911
+    },
+    {
+      "id": "95cf971502cda70b",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "openai",
+      "publishedAt": "2026-10-30T09:30:00.000Z",
+      "excerpt": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "section": "ai",
+      "rankScore": 0.540753
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-10-31T01:32:37.937Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "416caa097d3744ec",
+      "title": "Claude套餐大升级！Max 20x 升级为 Ultra，5 小时限额直接取消",
+      "url": "https://www.36kr.com/p/4049021975886084",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-31T01:15:58.000Z",
+      "author": "新智元",
+      "excerpt": "就在刚刚，Anthorpic官宣：Claude顶级付费套餐大升级！ 原有的 Max 5x 套餐，正式更名为 Max（官网月费仍维持 100 美元不变）。 原有的 Max 20x 顶配套餐，正式更名为 Ultra（官网月费仍维持 200 美元不变）。 如果你已经是这两档的订阅用户，什么都不用做，系统会自动为你无缝迁移。 但真正让人激动的，是接下来这句—— 「从今天开始，我们将对已认证的 Ultra 账户取消 5 小时的用量限制！」 这句话意味着什么？ 没被Claude关过「小黑屋」的人，很难体会那种窒息感。",
+      "section": "cn-tech",
+      "rankScore": 0.625834
+    },
+    {
+      "id": "f503cf9d1ba6f430",
+      "title": "27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码",
+      "url": "https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-30T21:00:00.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.624269
+    },
+    {
+      "id": "1d3f2626fad7033d",
+      "title": "写了一个 AI 桌面应用(gpt claude 反重力)的免全局、TUN 的进程代理软件，欢迎大家试用",
+      "url": "https://www.v2ex.com/t/1253329",
+      "source": "v2ex",
+      "publishedAt": "2026-10-30T19:05:33.000Z",
+      "score": 5,
+      "author": "Skyline57",
+      "excerpt": "Local-AI-Route Local-AI-Route 是一款专为桌面 AI 应用打造的轻量级、免全局 TUN 、免改系统代理的 进程级本地代理启动与管理工具 。开箱 原生深度适配 ： 🤖 ChatGPT （兼容 Windows 商店/独立安装包、macOS App Bundle 、Linux 桌面客户端） 🧠 Claude （兼容 Windows MSIX/Squirrel 、macOS App Bundle 、Linux 桌面端） 🌌 Antigravity 桌面版 ⚡ Antigravity IDE （精确区分注册表与应用标识，专项保障 LSP 子进程代理继承） 🧩 自定义扩展…",
+      "section": "cn-tech",
+      "rankScore": 0.614229
+    },
+    {
+      "id": "b83b73e83a8c87d6",
+      "title": "LibreOffice 项目递交的代码发现使用LLM 的明确标记",
+      "url": "https://www.solidot.org/story?sid=85755",
+      "source": "solidot",
+      "publishedAt": "2026-10-30T10:45:38.000Z",
+      "excerpt": "开发 LibreOffice 的 The Document Foundation(TDF)此前表示这款办公软件不会内置 AI 功能，其核心开发者也不使用 LLM 等 AI 辅助编程工具。但向该项目贡献代码的社区开发者未必会遵守该规定。对今年递交到 LibreOffice 的代码的分析显示至少由三处明确提及使用 LLM。社区开发者在代码中提及他们使用了 Claude 或 GitHub Copilot 等工具。这一结果并不出人意料，大型开源项目基本上不太可能完全避开 LLM。TDF 对这一发现回应称，他们确实要求贡献者在使用 LLM 时必须进行披露，且总体上并不鼓励使用 LLM。",
+      "section": "cn-tech",
+      "rankScore": 0.498973
+    },
+    {
+      "id": "a5f2a07633d70152",
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-30T16:58:44.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.",
+      "section": "security",
+      "rankScore": 0.55725
+    },
+    {
+      "id": "230f9e93b0a5a509",
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-30T15:17:28.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host.",
+      "section": "security",
+      "rankScore": 0.529121
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
