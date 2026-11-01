@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-01",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-01T17:05:41.103Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "ae75055c03239978",
+      "title": "特朗普发出威胁后，伊朗警告称新一轮战争可能旷日持久",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261101-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81%E5%90%8E%EF%BC%8C%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%A7%B0%E6%96%B0%E4%B8%80%E8%BD%AE%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E6%97%B7%E6%97%A5%E6%8C%81%E4%B9%85",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-01T16:31:09.000Z",
+      "author": "古莉",
+      "excerpt": "周日，伊朗警告美国称，若敌对行动重启，冲突恐将旷日持久。此前一天，唐纳德·特朗普再次发出威胁称打算“处理”一两个目标。",
+      "section": "news",
+      "rankScore": 0.68229
+    },
+    {
+      "id": "a08a5a3950146787",
+      "title": "德國生活成本抗議演變成暴力事件 商店遭洗劫",
+      "url": "https://www.bbc.com/zhongwen/articles/c8vgxe1nq7w7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-01T12:36:01.000Z",
+      "excerpt": "德國多座城市，包括柏林、漢堡和法蘭克福，都爆發了抗議活動。同一天，法國也有數十萬人走上街頭示威。",
+      "section": "news",
+      "rankScore": 0.67405
+    },
+    {
+      "id": "af764fbd07d362b4",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-01T16:25:33.000Z",
+      "excerpt": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "section": "news",
+      "rankScore": 0.611476
+    },
+    {
+      "id": "303adac6c77bec33",
+      "title": "India’s Congress Party Holds Mass Protest in New Delhi",
+      "url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-01T16:51:34.000Z",
+      "author": "Jeremy W. Peters and Hari Kumar",
+      "excerpt": "Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.",
+      "section": "news",
+      "rankScore": 0.554208
+    },
+    {
+      "id": "96e229921ecf217e",
+      "title": "India protesters march with 1km banner of deleted voters’ names",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-01T16:42:18.000Z",
+      "excerpt": "Protesters in New Delhi carried a one-kilometre banner bearing the names of people removed from India’s voter rolls.",
+      "section": "news",
+      "rankScore": 0.550406
+    },
+    {
+      "id": "b5387ea43c3a185a",
+      "title": "Director Michael Mann accidentally shoots himself in the leg at gun range",
+      "url": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-01T16:39:37.000Z",
+      "author": "Guardian staff and agencies",
+      "excerpt": "Mann taken to hospital with superficial injury after weapon accidentally discharged while holstered Hollywood director Michael Mann has been taken to the hospital following an apparently accidental shooting at a Los Angeles gun range, according to the Associated Press.",
+      "section": "news",
+      "rankScore": 0.549305
+    },
+    {
+      "id": "eabfc8a0a1ec631c",
+      "title": "联合国西撒哈拉全民投票特派团任务结束，联合国表示“随时准备”继续支持和平努力",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143112",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-01T12:00:00.000Z",
+      "excerpt": "联合国秘书长古特雷斯周日表示，随着联合国在西撒哈拉的维和任务开始收尾，联合国仍致力于支持在西撒哈拉达成一项公正、持久且双方都能接受的政治解决方案，以保障该地区人民的自决权。",
+      "section": "news",
+      "rankScore": 0.488915
+    },
+    {
+      "id": "cda19653b8778656",
+      "title": "France and the UK require a new entente",
+      "url": "https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7",
+      "source": "ft-world",
+      "publishedAt": "2026-11-01T16:00:02.000Z",
+      "excerpt": "The Suez crisis offers valuable lessons on troubled relations since the birth of the European project",
+      "section": "news",
+      "rankScore": 0.466433
+    },
+    {
+      "id": "b332c9700065f927",
+      "title": "Did the Peltola Campaign Seal the Fate of Alaska’s Ranked Choice Vote?",
+      "url": "https://www.nytimes.com/2026/11/01/us/alaska-ranked-choice-voting-peltola.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-01T15:21:05.000Z",
+      "author": "Anna Griffin",
+      "excerpt": "Beyond hotly contested Senate and governor’s races, Alaskans will decide Tuesday whether to scrap the state’s unique ballot. The campaign of Mary Peltola may have bolstered critics of the system.",
+      "section": "news",
+      "rankScore": 0.452451
+    },
+    {
+      "id": "37664c7e9f9ab2f6",
+      "title": "西班牙列车追尾惨剧背后：高铁大国的运维与管理漏洞",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91OXJTZ3NJRm9lT1BneXBsUzNPNk5lYTJPUHJWcjk1emYxbnlFWkxRZHpGaTBnbXM0UzRDSXV6NzZQWmJkY2g4QWlwQklueTltVjhwck05enZKQkVaTkVoUA?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-01T16:14:52.000Z",
+      "excerpt": "西班牙列车追尾惨剧背后：高铁大国的运维与管理漏洞 东方财富 女子因赖床错过西班牙事故列车：我太懒了起不来就改签了|火车票|马德里|塞维利亚|铁路|车站_手机新浪网 新浪网 列国鉴丨事故频现 西班牙高铁该如何“补短板” 新华网 一年两起重大事故，西班牙铁路安全面临考验 凤凰网 网传“西班牙列车事发前视频”系谣言，为六年前旧画面 ThePaper.cn",
+      "section": "news",
+      "rankScore": 0.404364
+    },
+    {
+      "id": "12a530132ef0227c",
+      "title": "Living with high prices in Virginia's 1st Congressional District",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
+      "source": "npr-news",
+      "publishedAt": "2026-11-01T13:00:00.000Z",
+      "author": "Ayesha Rascoe",
+      "excerpt": "High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.'s 1st Congressional district. They explain how they're handling the economic stress of these times.",
+      "section": "news",
+      "rankScore": 0.401805
+    },
+    {
+      "id": "07d6b99ca9ea197c",
+      "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168717",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-01T12:00:00.000Z",
+      "excerpt": "The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.",
+      "section": "news",
+      "rankScore": 0.325943
+    },
+    {
+      "id": "b0f8f7ef3b04d525",
+      "title": "中欧班列沿线国家代表在敦煌共话丝路交融与当代合作",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724511.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-01T14:12:37.000Z",
+      "excerpt": "【欧洲专线】中欧班列沿线国家代表在敦煌共话丝路交融与当代合作",
+      "section": "cn-news",
+      "rankScore": 0.672372
+    },
+    {
+      "id": "cf7d4b9cfb4ab45a",
+      "title": "东西问丨许通元：走过百年，马华文学为何仍有生命力？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/11-01/10724418.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-01T11:07:15.000Z",
+      "excerpt": "中新社吉隆坡11月1日电 题：走过百年，马华文学为何仍有生命力？",
+      "section": "cn-news",
+      "rankScore": 0.619425
+    },
+    {
+      "id": "646f221d5f6ca17f",
+      "title": "“欧佩克+”主要产油国决定12月维持产量不变",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724524.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-01T16:29:51.000Z",
+      "excerpt": "石油输出国组织(欧佩克)11月1日发表声明说，7个“欧佩克+”主要产油国决定12月继续维持当前原油产量不变。",
+      "section": "cn-news",
+      "rankScore": 0.613461
+    },
+    {
+      "id": "abff75c8b595ae46",
+      "title": "太钢不锈：Q3归母净利润转亏，前三季度营收实现增长",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6WEdTS3ZIamNRZC1hNU1JZ0dnTkgtSkV2VVdGakcwS3ZtZlVURy1XR3NKM3UtVG9JTmpWNnkwQ3R4ZzFOa2RudjBadkVma213RklFcl9R?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-01T15:41:21.000Z",
+      "excerpt": "太钢不锈：Q3归母净利润转亏，前三季度营收实现增长 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.591076
+    },
+    {
+      "id": "fe980fb5db17ac9f",
+      "title": "各国制定“埃里温路线图”以加快保护自然行动 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15am1YbHhlSVV6TTAtUGRiTFpYV3FfODJXNDdhMkhZXzFMUkl1WVY4MVJRdFg2cGM2dmN6R0VJOEdEX3ZkdEM4QTB6RTVFYlZUVFpYZlloUQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-01T16:39:12.000Z",
+      "excerpt": "各国制定“埃里温路线图”以加快保护自然行动 UN News COP17“中国角”系列活动在亚美尼亚闭幕--国际 人民网 国际观察｜“埃里温路径”为保护生物多样性校准方向 新华网 细微之处看人与自然和谐共生 新浪网 COP17 | 如何将生物多样性保护融入基层治理？ 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.549134
+    },
+    {
+      "id": "66ea27c614b9a720",
+      "title": "今年10月上海二手住房成交量2.23万套，创近6年同期新高",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pZWhPa2xnX2hGTzAwbVRvNmthXzhDSGdhWmZWM0NZR3VBMjBDM0toUUYtelh4MW9kRnE4RmdKRHpFTDhIblhBUHZkYTdSOXc1MC1oZ0ZyY2NQX1hBNERuSQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-01T12:53:53.000Z",
+      "excerpt": "今年10月上海二手住房成交量2.23万套，创近6年同期新高",
+      "section": "cn-news",
+      "rankScore": 0.513784
+    },
+    {
+      "id": "3440578319ca6447",
+      "title": "深圳APEC 廣東調全省警力「確保重兵上街嚴管嚴控」",
+      "url": "https://www.cna.com.tw/news/acn/202611010176.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-01T14:48:30.000Z",
+      "excerpt": "（中央社台北1日電）APEC峰會即將登場，廣東省公安廳今天召開全省公安機關APEC會議安保決戰決勝動員會，即日起抽調全省警力支援深圳，「確保重兵上街嚴管嚴控」。",
+      "section": "cn-news",
+      "rankScore": 0.503719
+    },
+    {
+      "id": "c07b3bbbd5316888",
+      "title": "政策利率换锚后对市场有何影响 流动性预期向宽",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83OW4zRTE2ZmhqYXdTdFJTS3VnSWlxbmlnS0RMSi0zNGs1SkpMVXFJaVE0S090UXJNRXItTUNPU3dnelBrX3dONi1rUHA3d19VMkU2aUhCRHlyR2JPdkx0YWxhRFJSbXlheHpjTW1SRU8?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-01T14:25:41.000Z",
+      "excerpt": "政策利率换锚后对市场有何影响 流动性预期向宽 中华网 中国人民银行进一步优化短端利率调控机制 新浪财经 明天，央行重要调整！下周财经大事一览 凤凰网财经 视频丨大事情！听说贷款定价要变啦？ 搜狐网 新信号！央行重磅调整，后天起实施—",
+      "section": "cn-news",
+      "rankScore": 0.432563
+    },
+    {
+      "id": "757e481d6f487bd7",
+      "title": "Could a midterm defeat tame Trump? Not on foreign policy, Chinese experts say",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372887/could-midterm-defeat-tame-trump-not-foreign-policy-chinese-experts-say",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-01T14:00:11.000Z",
+      "author": "Orange Wang",
+      "excerpt": "A potential lame-duck phase may not deter US President Donald Trump from pursuing more “transactional” or “risky” foreign policy moves after the midterm elections, Chinese experts warn, while casting doubt on expectations of a powerful Democratic wave.",
+      "section": "cn-news",
+      "rankScore": 0.42341
+    },
+    {
+      "id": "a91894d1b9d173f1",
+      "title": "刘嘉玲长指甲吓到梁朝伟！饭局曝The Weeknd是粉丝，王菲没空成最大遗憾 - 360娱乐",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuOFM5UEhIdHlCWU51YWNINHFBa3QxTjQtV2NhQ1FBeW5VUWtPazRjdzFkQV96VEI2RWdvNXlqYlBveHc3M3V1ZTNPYw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-01T16:16:03.000Z",
+      "excerpt": "刘嘉玲长指甲吓到梁朝伟！饭局曝The Weeknd是粉丝，王菲没空成最大遗憾 360娱乐 章泽天大光明造型出圈，敢梳贴头皮全束发，骨相优越太扛镜头 凤凰网 香港这晚，64岁的何超琼秀长腿抢尽风头，秒了刘嘉玲和章泽天 搜狐网 M+五周年11.8全日免费 4K修复电影＋海旁音乐＋寿星礼物 茉莉花新闻网 M+慈善晚宴2026今晚盛大举行庆祝开幕五周年| WestK WestK",
+      "section": "cn-news",
+      "rankScore": 0.404728
+    },
+    {
+      "id": "fa3e249a5094a747",
+      "title": "代办“超级签”落地后发现竟是旅游签 中介该如何赔偿？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724513.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-01T14:20:20.000Z",
+      "excerpt": "出国探亲，有人把签证交给中介代办。可钱花了、办下来的却不是约定的签证类型，中介该不该担责？消费者能否索赔全部损失？近日，北京市西城区人民法院就审结了这样一起案件。",
+      "section": "cn-life",
+      "rankScore": 0.738245
+    },
+    {
+      "id": "db1ef73fcc1dfee0",
+      "title": "大数据模型发出红色预警，引起武汉市纪委监委工作人员注意，一个月内9名公职人员被查",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93TDV4N0x4dzljeU5HaTdEdkpnc0xORHVQcHdqU1Q5c015ZDhGRlJWQmxwM1FXa0dndDJIZTRjeEt5Q3ZBekhFS3VvRmtkZTl4Skx0WWxoX3MwZDk3SnBaaENKNmM2dlpxOXNWWWpBdEMzZ1RIN0E?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-01T16:48:59.000Z",
+      "excerpt": "大数据模型发出红色预警，引起武汉市纪委监委工作人员注意，一个月内9名公职人员被查 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.622292
+    },
+    {
+      "id": "922e28c29d9198f4",
+      "title": "织密全民参保“保障网” 筑牢民生“压舱石”",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMG1EUzc3V21PdUdzVEk3cXF5QjhxMGhlTWw4N2pjaHduY0loRFpYbDhqYTBqdnpiVkxQQ2l5eWxUMkM1ODctQU00ajRYVGhVN0RfdFpNaEo0WTNWTGlVUmZFZnN0cERGUTZaUGIxbVpZZGZFV2kwUGFaTHIydmRUQXVyazBqY20xT3UxYw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-01T16:01:00.000Z",
+      "excerpt": "织密全民参保“保障网” 筑牢民生“压舱石” 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.600145
+    },
+    {
+      "id": "71b7b7c004e096e3",
+      "title": "秋冬流感季来临 这份防护攻略请收好",
+      "url": "https://www.chinanews.com.cn/life/2026/11-01/10724460.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-01T11:59:52.000Z",
+      "excerpt": "央视网消息：天气渐冷，正是流感高发季节。今年流行的流感毒株有什么新变化？流感疫苗还管用吗？一起来了解。",
+      "section": "cn-life",
+      "rankScore": 0.54317
+    },
+    {
+      "id": "5453ea51f825da5d",
+      "title": "省发改委关于保康楚烽化工有限责任公司20万吨/年锂电池正极材料前驱体配套项目节能审查的意见",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUV9kU3dQZ3pYamtucTdCaENPdzV4REtKbDBLaWo1SXN1Wm0tay00TTFlSmRER1paZTZhNEVVX3VHYmdrRmcyUm8ydnF2R3RyQzhnWVh5RERNX0l3UWNWcWJLYnVtNjNCV3ZCZTk0bG05YjUyb1VRUVhTbEV3MnpTVjV4c21Ib2kwR0ttSUUwYw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-01T15:21:11.000Z",
+      "excerpt": "省发改委关于保康楚烽化工有限责任公司20万吨/年锂电池正极材料前驱体配套项目节能审查的意见 湖北省发展和改革委员会",
+      "section": "cn-life",
+      "rankScore": 0.517128
+    },
+    {
+      "id": "0ebb90a64cb36fe3",
+      "title": "脑肿瘤患者的应对策略：临床心理学差异与适应潜能",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxOUREVm15M1U5RjliS2ZIYmhTbWo1OWhFSUxKZk1ZS0x6bUsxUFRvSkVmUkowMlE3RUhNcFlPV1VUUmcwWWNuOXpJMzdZMmlrT1A1d0JVM0xPZVhIMnhKNVB4aFptalpsaF9TVkZR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-01T16:02:43.000Z",
+      "excerpt": "脑肿瘤患者的应对策略：临床心理学差异与适应潜能 生物通",
+      "section": "cn-life",
+      "rankScore": 0.467396
+    },
+    {
+      "id": "42bfc2907c39b3af",
+      "title": "汇聚全国监管智慧 赋能塞上优品出圈——第十三届全国食品安全监管信息大会即将在宁夏启幕",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4SXJIZl9DWHQ4LUFhaU8wR1NSeXROcGlybFNKN1BPU2EwbFIyczY5cFctRkF1aUEzckdENUlaM3QzRzdPZnVhSWlBWDBnYlRNX3ljeGdIc2N6SkZnRFVkTUFHekZVeVU1T0pBbW5USGhFZ01aVVE?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-01T13:33:15.000Z",
+      "excerpt": "汇聚全国监管智慧 赋能塞上优品出圈——第十三届全国食品安全监管信息大会即将在宁夏启幕 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.413741
+    },
+    {
+      "id": "834a18484d8ac4dc",
+      "title": "全省AI教育盛会在韩师启幕",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEhWa3lWYnpKQm1BZDlpc0IzV3hTekFJMEpGUkFIY1ljTm1pM18xUFVkRDMtQjZFRjltU2NYaEpBNWRUNTVneV9vZHN1NVlsQXVCZmJ5NUViSHNGclV2QzUyQnhuNjhZa0JiZEd3N2h5Q3U4dzVJMS1QWnNYd3QxaFVNTnRFY05NWkNzdg?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-01T14:39:46.000Z",
+      "excerpt": "全省AI教育盛会在韩师启幕 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.375102
+    }
+  ],
+  "warnings": []
+}
