@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-01",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-01T17:55:12.667Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "150b8eede81c9c34",
+      "title": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-01T17:55:12.667Z",
+      "score": 1329,
+      "excerpt": "Local voice dictation for mac, windows and linux",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "a3fc04a01f77787d",
+      "title": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-01T17:55:12.667Z",
+      "score": 827,
+      "excerpt": "Lightpanda: the headless browser designed for AI and automation",
+      "section": "tech",
+      "rankScore": 1.065
+    },
+    {
+      "id": "69246496ccc68901",
+      "title": "Restrooms along the Norwegian Scenic Routes",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-01T10:47:58.000Z",
+      "score": 620,
+      "author": "giuliomagnifico",
+      "excerpt": "620 points · 354 comments · https://news.ycombinator.com/item?id=50324388",
+      "section": "tech",
+      "rankScore": 0.88386
+    },
+    {
+      "id": "e80d665ac45bb596",
+      "title": "Pratt parsing is a black box",
+      "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-01T17:41:53.000Z",
+      "author": "vinipsmaker.github.io by vinipsmaker",
+      "section": "tech",
+      "rankScore": 0.676312
+    },
+    {
+      "id": "43a80c40e0c97b67",
+      "title": "Apple’s HomeView could add security camera features",
+      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "source": "verge",
+      "publishedAt": "2026-11-01T17:16:07.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions.",
+      "section": "tech",
+      "rankScore": 0.476969
+    },
+    {
+      "id": "dc414f105cbe4bb3",
+      "title": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved",
+      "url": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-01T08:03:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "Amazon CEO Andy Jassy says AWS’s large committed cloud capacity is largely sold out through 2027, with part of 2028 already allocated, while the company continues to reserve headroom for On Demand, EC2 and Bedrock.",
+      "section": "tech",
+      "rankScore": 0.449344
+    },
+    {
+      "id": "f172927bcef8556b",
+      "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
+      "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-01T17:00:00.000Z",
+      "author": "作者：Renato Losio",
+      "section": "cn-tech",
+      "rankScore": 0.673709
+    },
+    {
+      "id": "2c6f677c3c41f3e2",
+      "title": "当没 token 额度了 你会手改 AI 生成的代码吗 😂",
+      "url": "https://www.v2ex.com/t/1253543",
+      "source": "v2ex",
+      "publishedAt": "2026-11-01T08:41:51.000Z",
+      "score": 34,
+      "author": "Misty99",
+      "section": "cn-tech",
+      "rankScore": 0.608845
+    },
+    {
+      "id": "81d238e1422ed7d9",
+      "title": "数据中心抵消了过去 15 年美国的减排努力",
+      "url": "https://www.solidot.org/story?sid=85766",
+      "source": "solidot",
+      "publishedAt": "2026-11-01T11:45:13.000Z",
+      "excerpt": "Sierra Club 的分析显示，到 2030 年美国电力行业的二氧化碳排放量可能达到 21 亿公吨，比 2025 年的水平高出约 42%。这一预计增幅将抵消过去 15 年电力行业在减排上取得的成果。随着数据中心对资源的需求持续增长，AI 基础设施的电力需求正以清洁能源电网无法跟上的速度快速增长。为绕过缓慢的公用电网接入排队流程，部分科技公司建设了主要依赖化石燃料的自备发电设施。到 2030 年由数据中心开发商建设或委托建设的离网发电设施每年可能产生逾 4.6 亿公吨的二氧化碳，大致相当于墨西哥全年的碳排放量。",
+      "section": "cn-tech",
+      "rankScore": 0.576193
+    },
+    {
+      "id": "b6e9b0d56129c9e2",
+      "title": "拾趣 (Magpie) v0.1.19 发布，AI 更智能，内容识别更精准",
+      "url": "https://www.oschina.net/news/503329",
+      "source": "oschina",
+      "publishedAt": "2026-11-01T11:17:10.000Z",
+      "excerpt": "拾趣 (Magpie) v0.1.19 发布，AI 更智能，内容识别更精准 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现；复制、搜索、写入 Obsidian、预填日历，结果直接落地。图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，无需迁入对话窗口。 Release ...",
+      "section": "cn-tech",
+      "rankScore": 0.45941
+    },
+    {
+      "id": "8cbe4ea2364b2e3c",
+      "title": "从 0 搭建企业级Vue3 权限路由与按钮级权限指令深度实践摘要：在 B 端/SaaS 系统中，权限控制是核心命脉。传",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XMVJlNHZEcVlIbm1pelY4b1c1VDJQOHdpdTB5VVBuU2Q2ajZLY0xHQV9HUlFSaWVXRHhTUkc0NU1MZ1FKa0ZkSHQ0SWZrOS1VNFd3bA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-01T15:12:32.000Z",
+      "excerpt": "从 0 搭建企业级Vue3 权限路由与按钮级权限指令深度实践摘要：在 B 端/SaaS 系统中，权限控制是核心命脉。传 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.435774
+    },
+    {
+      "id": "5807742f0b567ba2",
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-01T08:51:31.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate.",
+      "section": "security",
+      "rankScore": 0.441098
+    },
+    {
+      "id": "59dbc26176f9a957",
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-01T07:25:40.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company.",
+      "section": "security",
+      "rankScore": 0.400217
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
