@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-01",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-01T01:02:33.384Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "b0ecb253f4a79649",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "source": "hn-front",
+      "publishedAt": "2026-10-31T19:56:53.000Z",
+      "score": 644,
+      "author": "karpathy",
+      "excerpt": "644 points · 227 comments · https://news.ycombinator.com/item?id=50319510",
+      "section": "tech",
+      "rankScore": 1.074109
+    },
+    {
+      "id": "f89a76bbacca6ed5",
+      "title": "Orkas-AI/Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-01T01:02:33.384Z",
+      "score": 1044,
+      "excerpt": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors.",
+      "section": "tech",
+      "rankScore": 1.02
+    },
+    {
+      "id": "a4da51e990cc3bb5",
+      "title": "The Duty of a Scholar",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "source": "lobsters",
+      "publishedAt": "2026-11-01T00:46:07.000Z",
+      "author": "daemonology.net via krinkle",
+      "section": "tech",
+      "rankScore": 0.678048
+    },
+    {
+      "id": "ca50441978f3f3aa",
+      "title": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
+      "url": "https://www.infoq.com/news/2026/10/cf-pq-geokey-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-10-31T19:56:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "Cloudflare has moved a post-quantum rebuild of GeoKey Manager into closed beta, guarding geo-fenced keys with hybrid ML-KEM-768 and X25519 instead of the attribute-based encryption used since 2022.",
+      "section": "tech",
+      "rankScore": 0.660959
+    },
+    {
+      "id": "c2035ff64d5c35d9",
+      "title": "Get in the spirit with these horrors from YouTube",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "source": "verge",
+      "publishedAt": "2026-10-31T21:06:58.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here.",
+      "section": "tech",
+      "rankScore": 0.444191
+    },
+    {
+      "id": "322a182456cf11b5",
+      "title": "Seabirds racing home over the ocean can get jet-lagged",
+      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "source": "ars-technica",
+      "publishedAt": "2026-10-31T11:15:26.000Z",
+      "author": "Jacek Krywko",
+      "excerpt": "A long flight home from feeding grounds messes with birds' internal clocks.",
+      "section": "tech",
+      "rankScore": 0.329171
+    },
+    {
+      "id": "e0d7da00f641bf11",
+      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-10-31T22:10:01.000Z",
+      "excerpt": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin.",
+      "section": "ai",
+      "rankScore": 0.782487
+    },
+    {
+      "id": "d7218b95d24791e4",
+      "title": "做了个 Sublime Text 的 Swift 语法高亮插件，没想到被官方安排接管了用户量最多的老插件",
+      "url": "https://www.v2ex.com/t/1253424",
+      "source": "v2ex",
+      "publishedAt": "2026-10-31T09:30:31.000Z",
+      "score": 8,
+      "author": "hanguokai",
+      "excerpt": "用 Sublime 看 Swift 代码有个痛点：Sublime 官方一直没有内置 Swift 支持。而去 Package Control （ Sublime 的官方插件商店）里搜，排名靠前的几个 Swift 插件（在我开始动手做的时候）全都停留在好几年前——有的甚至是十年前 Swift 1/2 时代的产物；稍微好一点的是两年前更新的，但也只支持到 Swift 5.6 。 于是我就动手做了一个，方便自己阅读代码。写完之后，心想做都做了，不如顺手提交到 Package Control 上，这样也可以让别人用。没想到在提交 PR 的时候，遇到了一段意料之外的经历。",
+      "section": "cn-tech",
+      "rankScore": 0.63999
+    },
+    {
+      "id": "db664aa539eb55b3",
+      "title": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
+      "url": "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-10-31T20:43:05.000Z",
+      "author": "作者：Chidi Nwaogu",
+      "section": "cn-tech",
+      "rankScore": 0.627924
+    },
+    {
+      "id": "3bc3082cf310ac8f",
+      "title": "Sam Altman 认为 PC 内存闲置太糟糕",
+      "url": "https://www.solidot.org/story?sid=85763",
+      "source": "solidot",
+      "publishedAt": "2026-10-31T12:46:18.000Z",
+      "excerpt": "OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块 DRAM 晶圆都直接流向数据中心，用于运行 AI 模型。他表示：“从全球资源配置角度看，让全球有限的 DRAM 供应分散在每个人的 PC 里且利用率可能仅有 5% 左右，这是非常糟糕的。在当前这种供应极度受限的环境下，我们理应追求云端算力的最大化利用。然而许多人的直觉却恰恰相反。”",
+      "section": "cn-tech",
+      "rankScore": 0.545033
+    },
+    {
+      "id": "731c4286f259283f",
+      "title": "【Compose Multiplatform 跨端开发学与练】第8 课资源管理与主题",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RX0licUo5VXpfVDByODhERDEyU1JSZW4xVmZQR2tZUTdDaUlCSVVpR1RqOGpDa0M0VkpRV3BqZmU5SHpSMzRKQXAyS3Rrdi1xMDhZMQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-10-31T22:45:01.000Z",
+      "excerpt": "【Compose Multiplatform 跨端开发学与练】第8 课资源管理与主题 掘金",
+      "section": "cn-tech",
+      "rankScore": 0.463256
+    },
+    {
+      "id": "5fb8232a964f5958",
+      "title": "电科金仓发布KES AI数据库",
+      "url": "https://www.36kr.com/p/4049722853545097",
+      "source": "36kr-ai",
+      "publishedAt": "2026-10-31T11:52:14.000Z",
+      "author": "36氪的朋友们",
+      "excerpt": "随着大模型应用由一般场景向企业更核心的场景延伸，数据库与人工智能的融合已成为行业演进的重要方向。我国数据库学科带头人、中国人民大学信息学院教授王珊在发布会上表示，人工智能正深刻重塑数据库技术体系，AI时代，数据库既要保证数据存得准、算得对，也要为大模型理解业务提供依据。 从当前实践看，制约主要来自三个方面：业务语义缺失、数据格式不适配、权限与审计断层。 10月30日，中电科金仓（北京）科技股份有限公司（以下简称电科金仓）在北京发布KES AI数据库。",
+      "section": "cn-tech",
+      "rankScore": 0.432419
+    },
+    {
+      "id": "97e6fc81516e2da9",
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-31T05:33:41.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed.",
+      "section": "security",
+      "rankScore": 0.375313
+    },
+    {
+      "id": "d66b3296b8ed70d8",
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-10-31T04:56:12.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in…",
+      "section": "security",
+      "rankScore": 0.364901
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
