@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-02",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-02T01:46:29.057Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "9d60202af3d686c3",
+      "title": "人工智能泡沫將爆破？這群「新雲端」公司正加劇市場擔憂",
+      "url": "https://www.bbc.com/zhongwen/articles/c5djvk2dm33xo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-02T00:17:42.000Z",
+      "excerpt": "這些數據中心正滾存著數百億英鎊的債務。",
+      "section": "news",
+      "rankScore": 0.810405
+    },
+    {
+      "id": "aea243af00cdcd35",
+      "title": "“激光灭蚊防空系统”：中国企业推出人工智能灭蚊设备",
+      "url": "https://cn.nytimes.com/china/20261102/mosquito-laser-ai/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-02T00:50:02.000Z",
+      "author": "KEITH BRADSHER",
+      "excerpt": "一家中国公司推出AI激光灭蚊设备，利用自动驾驶汽车所采用的技术锁定目标，同时依靠人工智能判断何时可以安全发射激光。设备售价1000美元，预计几周内量产。 Qilai Shen for The New York Times",
+      "section": "news",
+      "rankScore": 0.752751
+    },
+    {
+      "id": "7752030086f47f13",
+      "title": "美国将助马达加斯加建厂炼稀土",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261101-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%8A%A9%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E5%BB%BA%E5%8E%82%E7%82%BC%E7%A8%80%E5%9C%9F",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-01T21:51:30.000Z",
+      "author": "尼古拉",
+      "excerpt": "美国将资助印度洋中的非洲大岛国马达加斯加（Madagascar）在安帕辛达瓦（Ampasindava）建设一座稀土提炼厂。通过对这一项目的支持，华盛顿寻求实现供应链多元化，以应对中国。这是本台法广（RFI）非洲通讯员10月31日周六刊出的一篇有关中美关系的最新法文报道。目前在美国第二届特朗普政府中负责经济事务的副国务卿雅各布·赫尔伯格（Jacob Helberg）已确认了480万美元的首笔资金。",
+      "section": "news",
+      "rankScore": 0.634727
+    },
+    {
+      "id": "8e919ee79bc146f2",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-02T01:18:27.000Z",
+      "excerpt": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "section": "news",
+      "rankScore": 0.622991
+    },
+    {
+      "id": "e1d825a442b8e7a5",
+      "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
+      "url": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-02T01:31:21.000Z",
+      "excerpt": "Bhutan is building a 'mindfulness' city to drive economic growth and persuade more young people to stay.",
+      "section": "news",
+      "rankScore": 0.556637
+    },
+    {
+      "id": "30f4f66289f4f22d",
+      "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-02T01:07:23.000Z",
+      "author": "Roque Planas",
+      "excerpt": "President again took aim at progressive Senate candidate and lauded Haley Stevens for endorsing Mike Rogers Donald Trump railed against Democratic US senate hopeful Abdul El-Sayed at a campaign event in Iowa Sunday, repeatedly referring to the Michigan progressive as a “jihadist”. Trump’s comments…",
+      "section": "news",
+      "rankScore": 0.551311
+    },
+    {
+      "id": "baed51faf7560625",
+      "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
+      "url": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-02T00:22:33.000Z",
+      "author": "Hannah Beech and Lauren DeCicca",
+      "excerpt": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
+      "section": "news",
+      "rankScore": 0.541348
+    },
+    {
+      "id": "149532867d57d454",
+      "title": "The Final Polls Show a Blue Surge. Can We Trust Them?",
+      "url": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-02T01:39:06.000Z",
+      "author": "Nate Cohn",
+      "excerpt": "New Times/Siena surveys show Democrats leading in all the key battlegrounds that will decide Senate control.",
+      "section": "news",
+      "rankScore": 0.488564
+    },
+    {
+      "id": "ea3c91eed177bad0",
+      "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+      "url": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-02T01:36:43.000Z",
+      "excerpt": "Diplomats warn that renewed conflict would be even more damaging than previous rounds of fighting",
+      "section": "news",
+      "rankScore": 0.488101
+    },
+    {
+      "id": "e345f1c543a817ec",
+      "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+      "source": "npr-news",
+      "publishedAt": "2026-11-01T22:22:12.000Z",
+      "author": "Diane Webber",
+      "excerpt": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
+      "section": "news",
+      "rankScore": 0.450278
+    },
+    {
+      "id": "67c5f0d8af9dea3d",
+      "title": "热点问答｜波兰宪法法院风波将如何牵动政局--国际",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NUC02SXlUeUdJSEo3Zi1iQ2VlbVNSdGlWVWJWUVc0ZVBFYVVkVjJPSzNoampxMzZYMThoVndKSHdyQmtfVjlWMlBjOURsREZLV2ZLUlRRZHdvVUtTVlFSdHAtclFlQXdYdy1V?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-02T01:14:00.000Z",
+      "excerpt": "热点问答｜波兰宪法法院风波将如何牵动政局--国际 人民网 突发：波兰爆发“政变”，总统专机原地掉头，外交官宣布集体辞职 凤凰网 波兰国内大变天，驻华大使连夜辞职，波兰外长：你已不能代表国家 凤凰网 热点问答丨波兰宪法法院风波将如何牵动政局 新浪网 抗议持续，总统和法官开打…波兰总理发表电视讲话 观察者网",
+      "section": "news",
+      "rankScore": 0.414586
+    },
+    {
+      "id": "1702ef346ab4b194",
+      "title": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168718",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-01T12:00:00.000Z",
+      "excerpt": "At the halfway mark to 2030, countries meeting in Armenia have agreed a roadmap to accelerate action for nature, after a global review found the world off track to meet its biodiversity targets.",
+      "section": "news",
+      "rankScore": 0.282253
+    },
+    {
+      "id": "8b342504e93b9c8b",
+      "title": "贷款利率迎来新变化 “双锚改革”带来哪些影响？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724544.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-02T00:16:02.000Z",
+      "excerpt": "最近，央行宣布贷款利率要从单一参考LPR定价向更多元的定价基准转型。什么是贷款的定价基准？什么是LPR？一起来了解。",
+      "section": "cn-news",
+      "rankScore": 0.80985
+    },
+    {
+      "id": "b2f1f5058f019cce",
+      "title": "我国拟修改刑事诉讼法更好促进司法公正",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724563.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-02T01:36:47.000Z",
+      "excerpt": "原标题：新华社权威快报｜我国拟修改刑事诉讼法更好促进司法公正",
+      "section": "cn-news",
+      "rankScore": 0.767036
+    },
+    {
+      "id": "fc6b2e431c74d9f7",
+      "title": "11月2日央行开展5410亿元隔夜逆回购操作",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724557.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-02T01:35:09.000Z",
+      "excerpt": "中新网11月2日电 据中国人民银行网站消息，2026年11月2日中国人民银行以固定利率、数量招标方式开展了5410亿元隔夜期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+      "section": "cn-news",
+      "rankScore": 0.627166
+    },
+    {
+      "id": "748a426e44bfe5fb",
+      "title": "乡村阵地飘书香，《金绣娘》讲述罗泾本土非遗故事",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMaVZLWTFoWmlOZ0JPVVRZSnlnUmdCbmdSSmtPREFtTFdLUWtRZFVHN0tNdnFQd0FMZ1VBajFMaTlXbXBQTWNvWUVLY2dXdFNvUzBGWU1KZGZ0VXVIN01rWA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-02T01:20:25.000Z",
+      "excerpt": "乡村阵地飘书香，《金绣娘》讲述罗泾本土非遗故事",
+      "section": "cn-news",
+      "rankScore": 0.623483
+    },
+    {
+      "id": "f0cbf647ae380daf",
+      "title": "英捷信医疗完成2亿元B轮融资",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyb2NubUpFS3lNRU1RemlTWDd6UVd5dDJHZ1llV1hkdUZ2RzVxRjU4cXp4Qlh6Z3lzNEpKWWRYc0dCb2pZVlZwREwwbEZZQ0tsVHVDU0xuODA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-02T01:13:33.000Z",
+      "excerpt": "英捷信医疗完成2亿元B轮融资 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.621766
+    },
+    {
+      "id": "2f71f35c490c6c23",
+      "title": "中国与东盟粮农合作向“数智化”与“全链共生”升级",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTZHNvVGxFUlJ6ZjJfUy1qM0V4YXlzSlBraXRGcDVuZS01YkNQdmFPTWppcUFvVGlzY3Vyd1VMMUlKS0JCRFZ5THhaQ2NISW5leHBtZmFXeGY1eDQxcG5odmoxZ1lKYnhHSnc3SHo1QWJ6SDBf?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-02T01:25:36.000Z",
+      "excerpt": "中国与东盟粮农合作向“数智化”与“全链共生”升级 党建网",
+      "section": "cn-news",
+      "rankScore": 0.555359
+    },
+    {
+      "id": "1a84237a11695f3b",
+      "title": "2000多家“新面孔”企业首秀进博会",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZamRwd1dpQlgwazVfdTRuUy1mVTRIVUU2MkJJTFk5eDlBM3BDR0RsVXFCU0xPeFJZUjZiZm9Ra29SMFptM2JZajBsQVBhVlZiQWd0N1lvVXRzMTdRMzBsUWtDUU5lSjUwUDdIMDJpUzdqNlla?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-02T01:25:36.000Z",
+      "excerpt": "2000多家“新面孔”企业首秀进博会 党建网",
+      "section": "cn-news",
+      "rankScore": 0.485939
+    },
+    {
+      "id": "3c4a6d6621184367",
+      "title": "Will losing US midterms see Trump double down or signal beginning of the end?",
+      "url": "https://www.scmp.com/news/us/us-elections/article/3372795/will-losing-us-midterms-see-trump-double-down-or-signal-beginning-end",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-02T00:00:25.000Z",
+      "author": "Mark Magnier",
+      "excerpt": "Tuesday’s US midterm election is both hugely consequential and not so consequential even as the world waits to see the American voters’ verdict on Donald Trump’s presidency – and the impact that verdict will have on his temperament, plans and possible petulant response, analysts and former…",
+      "section": "cn-news",
+      "rankScore": 0.469376
+    },
+    {
+      "id": "041864fb475a6ec2",
+      "title": "姆巴佩言論惹議 中國央視未轉播皇馬賽事",
+      "url": "https://www.cna.com.tw/news/acn/202611020002.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-01T16:33:43.000Z",
+      "excerpt": "（中央社北京1日綜合外電報導）皇家馬德里法籍球星姆巴佩（Kylian Mbappe）涉及中國前領導人毛澤東的言論在中國引發軒然大波後，中國中央電視台今天未轉播皇家馬德里的西班牙甲級足球聯賽賽事。",
+      "section": "cn-news",
+      "rankScore": 0.437163
+    },
+    {
+      "id": "602df6b8b2c4c911",
+      "title": "记者手记：最好的孙心然，或许远未到来",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HWEZDUF81TVpXRE5lUXZMcjAxSmVBRFp1d0lFelQzQThBWks0QzFNdTVJb0tLcUdKcmYzRkg2S2E3MkFaZ1lvdW13Tll5UGsyRnBKdmdJTE1URFZaY1l3Y28yQQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-02T01:32:32.000Z",
+      "excerpt": "记者手记：最好的孙心然，或许远未到来 光明网",
+      "section": "cn-news",
+      "rankScore": 0.417675
+    },
+    {
+      "id": "bf090bb22cd32955",
+      "title": "江汉江淮江南等地将有明显降雨 4日起北方地区将有大风降温",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724552.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-02T01:06:45.000Z",
+      "excerpt": "中新网11月2日电 据中央气象台网站2日消息，昨日，湖北西南部、安徽南部、浙江西部、湖南西部、云南东南部、广西西北部和南部等地出现大雨，云南文山、广西防城港和钦州等局地暴雨或大暴雨；黑龙江东南部、吉林东部等地出现小到中雪或雨夹雪，局地大雪。",
+      "section": "cn-life",
+      "rankScore": 0.826755
+    },
+    {
+      "id": "e55452cf708a8fcd",
+      "title": "把地球冷冻一下，温室效应会得到缓解吗？答案出乎意料",
+      "url": "https://www.chinanews.com.cn/life/2026/11-02/10724527.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-01T22:42:47.000Z",
+      "excerpt": "如果把地球冷冻一下，温室效应会得到缓解吗？汽油在水面上为什么是彩色的？微波炉能用“微波”加热食物，那“微波”能不能用来制冷……我们每天都有对这个世界的好奇，中国科学院物理研究所和总台中国之声节目《新闻超链接》为您寻找可能的答案，与您一起探索世界。",
+      "section": "cn-life",
+      "rankScore": 0.648972
+    },
+    {
+      "id": "ef6b1ad8c1fd7a69",
+      "title": "印尼塔宁巴尔群岛附近海域发生5.5级地震",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DbGhzaWRpZlVnbnVUdlY5MDd3RUpkWVZBdW9JTkV6UmdNRkg0c0JoZGtQcW13NUh1V09iUUQtU0NyYTZkdXNsdUVTcUpCb0ZUNUgtUXRXNnRZU1Q4aGc?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-02T01:24:13.000Z",
+      "excerpt": "印尼塔宁巴尔群岛附近海域发生5.5级地震 京报网",
+      "section": "cn-life",
+      "rankScore": 0.624433
+    },
+    {
+      "id": "22d9882b736c06df",
+      "title": "我们的城市，何以承载稳稳的幸福？",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qcmcyT2JGYmFwaEs3dWxOTU5qbFJkM3VDdmVSVV84N2RwUmhBM0R0eHFEWHNMUDNGMDE1Mzdhd2g4QTlnQzlmYThiMGdlTnA1dDdzT2pGbzdKc3c5dW10X0dCY2VMdw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-02T01:17:00.000Z",
+      "excerpt": "我们的城市，何以承载稳稳的幸福？ 东南网",
+      "section": "cn-life",
+      "rankScore": 0.622629
+    },
+    {
+      "id": "2e9938fc0887fc34",
+      "title": "海林市消防救援大队2026年10月份”双随机、一公开“消防监督检查结果单位公示",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQU1pVTg2THRCeHhicEZWMWcyR2JlMllmeWlvRE1BYnRsSmI4TktKZGE3Z2s4dVlGNUxzaEJ1V3BwcWpIdnFRalpZMUgtN0ROb3FZdGk4SVI5WURKcTZCZzVfdHQ0OUZSWW9BeFpMWnlnaFRqQjB1NXVyMURVd0JwRA?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-02T01:40:56.000Z",
+      "excerpt": "海林市消防救援大队2026年10月份”双随机、一公开“消防监督检查结果单位公示 hailin.gov.cn",
+      "section": "cn-life",
+      "rankScore": 0.558766
+    },
+    {
+      "id": "848e24653d215ba9",
+      "title": "AI助力药企开拓“药品+数字服务”新空间",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXRHRDllMVRKODRDcTZ0Q29pYVhQMnY2aGtTMjlwd3A4eEkwZHpfSC1QMVlrSWpOYl95aHdyQ1JEUGlNVVhiZGdSbWRMWjh5Z3N4VFdCVlozMDhwSVF3d21JbmJ6TnVGVmtKWVluME00UEZ3ZEVFNnFEeWhvdHZaSQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-02T01:16:25.000Z",
+      "excerpt": "AI助力药企开拓“药品+数字服务”新空间 经济参考报",
+      "section": "cn-life",
+      "rankScore": 0.484154
+    },
+    {
+      "id": "7369547d0a256275",
+      "title": "脖子里面痛，以为是咽喉炎 结果却在内分泌科治好了",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHBzZjl1SXBXQURkNW5hYzVseFBJQXZjb214cjE0TkhIVW1NSEowRmtQVXpjMTYtb1Y3cC1veEo3WGRPclZyUkFDWnlCQUhxSV80clc3YURIdDVJZEVRcEJFaW5qNHNhVW1DM0Q0TllyUHNUUmdhY2JRc01sbE12cE9R?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-02T00:49:59.000Z",
+      "excerpt": "脖子里面痛，以为是咽喉炎 结果却在内分泌科治好了 杭州网",
+      "section": "cn-life",
+      "rankScore": 0.479014
+    },
+    {
+      "id": "37a74e41e7190895",
+      "title": "（四川教育动态第30期）四川农业大学以教育家精神涵育高素质教师队伍",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWHh3emdxZk9tcFlBa21CS1VoM3dwajJPeFZmU1FJTG5UelZCSk9Fa0d3SGFIREF2VWc0VkRLVkhXS1JUWjVhejdjSmdzaUlmbllHVHcwSkJydw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-02T01:39:48.000Z",
+      "excerpt": "（四川教育动态第30期）四川农业大学以教育家精神涵育高素质教师队伍 四川农业大学新闻网",
+      "section": "cn-life",
+      "rankScore": 0.418886
+    }
+  ],
+  "warnings": []
+}
