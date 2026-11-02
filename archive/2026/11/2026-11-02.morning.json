@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-02",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-02T01:28:17.301Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "8097a60a49c656ed",
+      "title": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-02T01:28:17.301Z",
+      "score": 1191,
+      "excerpt": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "section": "tech",
+      "rankScore": 1.148571
+    },
+    {
+      "id": "007a90d7cfd8cfd0",
+      "title": "beenuar/AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-02T01:28:17.301Z",
+      "score": 446,
+      "excerpt": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "section": "tech",
+      "rankScore": 1.045714
+    },
+    {
+      "id": "fff6d5ebe4b8b84f",
+      "title": "Police chief unplugs cameras after Flock ignores contract cancellation",
+      "url": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
+      "source": "hn-front",
+      "publishedAt": "2026-11-01T14:36:13.000Z",
+      "score": 415,
+      "author": "entryleveljobsc",
+      "excerpt": "415 points · 145 comments · https://news.ycombinator.com/item?id=50326118",
+      "section": "tech",
+      "rankScore": 0.962643
+    },
+    {
+      "id": "3839c56769de3bc3",
+      "title": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-02T01:28:17.301Z",
+      "score": 339,
+      "excerpt": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "section": "tech",
+      "rankScore": 0.942857
+    },
+    {
+      "id": "7fa18b1c6c5f7993",
+      "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
+      "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
+      "source": "lobsters",
+      "publishedAt": "2026-11-01T20:13:29.000Z",
+      "author": "undeadly.org via jbauer",
+      "section": "tech",
+      "rankScore": 0.59724
+    },
+    {
+      "id": "7592e0f28b1e09b9",
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "source": "verge",
+      "publishedAt": "2026-11-01T21:09:21.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted.",
+      "section": "tech",
+      "rankScore": 0.439651
+    },
+    {
+      "id": "845f4e6cfbdd8102",
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-01T23:24:22.000Z",
+      "excerpt": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock…",
+      "section": "ai",
+      "rankScore": 0.798693
+    },
+    {
+      "id": "ae338a19ce89c99c",
+      "title": "ESP Mosaico 这种概念的出现，让 AI 彻底攻破了嵌入式应用开发的护城河",
+      "url": "https://www.v2ex.com/t/1253635",
+      "source": "v2ex",
+      "publishedAt": "2026-11-02T00:38:23.000Z",
+      "score": 15,
+      "author": "DawnMoon",
+      "excerpt": "前两天买了个 ESP Mosaico ，我感觉我真的要完了，嵌入式开发也彻底没救了。 < mosaico.ai > 个人体验，只要把这个模块插上电脑，然后跟 AI 说你想要在上面做什么功能，它就会自己分析 UI 应该怎么画、传感器怎么选配，然后先在上位机仿真，再到下位机 debug （对的，可以直接 debug 下位机）。 以下两个小应用，是我花了大概 50% 的 codex 5 小时额度就做出来的。想当年，这种级别的应用，做到完美，几乎要两个人花一两周的时间。 反应力测试小游戏 Codex 额度显示 这东西确实好玩，也确实有点让人感觉绝望。",
+      "section": "cn-tech",
+      "rankScore": 0.771809
+    },
+    {
+      "id": "bf7c3d2c37bcf009",
+      "title": "novel-plus v6.3.2 发布，原创文学 CMS 系统",
+      "url": "https://www.oschina.net/news/503333",
+      "source": "oschina",
+      "publishedAt": "2026-11-02T01:03:38.000Z",
+      "excerpt": "novel-plus v6.3.2 发布了，v6.3.0 – v6.3.2 主要改变如下： 创作数据看板 + AI 解读：作家后台首页新增经营数据看板（收入、作品、章节等图表），并支持 AI 智能解读，自动生成创作经营建议。 章节状态管理：支持章节草稿保存与定时发布，到点自动上线，发布前可对正文做 AI 文本检查。 消息中心：作家后台新增消息列表...",
+      "section": "cn-tech",
+      "rankScore": 0.623836
+    },
+    {
+      "id": "0036cca508cbbfcf",
+      "title": "蒸发3000亿，背刺年轻人的“下饭神器”，惨遭短剧血洗",
+      "url": "https://www.36kr.com/p/4050772386878337",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-02T00:35:05.000Z",
+      "author": "金错刀",
+      "excerpt": "一直被骂“电子泔水”的AI短剧，终于靠实力翻身逆袭了？ 最近，一部被网友称为“AI短剧天花板”的短剧横空出世，让现代人带着武器穿越回古代，靠实力扭转历史上的“靖康之耻”。 这部短剧没有一个真人演员，却拍出了千军万马的大场面，还把宋金战争、古代兵制等历史细节融入剧情，一口气更新到了第10季。 硬核的剧情和细节，让无数观众成为了“自来水”，更是在全网斩获了 40亿 播放量。 连知名博主六神磊磊都感慨，看个短剧才发现自己不懂宋朝兵制。 曾经被嫌弃上不了台面的AI短剧，打了个翻身仗。而曾经财大气粗、动辄砸下巨资拍戏的长视频平台，反倒开始节节败退。",
+      "section": "cn-tech",
+      "rankScore": 0.616699
+    },
+    {
+      "id": "cf73466ed27df020",
+      "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-01T19:12:53.000Z",
+      "author": "Lukas Sigmund",
+      "section": "cn-tech",
+      "rankScore": 0.595721
+    },
+    {
+      "id": "f0dd118ff42ea66e",
+      "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+      "url": "https://sspai.com/post/118191",
+      "source": "sspai",
+      "publishedAt": "2026-11-01T23:22:45.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "Apple 智能将随 iOS 27.3 登陆中国 苹果对闪存的议价权受到压制 Claude Code 官方扩展被植入后门 美国 FCC 禁止中国实验室认证输美电子产品 百度网盘通过磁力计数据规避「摇一摇」广告权限 币安 63 亿美元资产被盗 看看就行的简讯 少数派的近期动态 你可能错过的好文章",
+      "section": "cn-tech",
+      "rankScore": 0.532103
+    },
+    {
+      "id": "bc1e91356bfc365f",
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-01T07:03:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899.",
+      "section": "security",
+      "rankScore": 0.392975
+    },
+    {
+      "id": "690ba49167f42156",
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-01T07:02:58.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia.",
+      "section": "security",
+      "rankScore": 0.392966
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" failed: Error: HTTP 415",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
