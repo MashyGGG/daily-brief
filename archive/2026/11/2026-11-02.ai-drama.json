@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-02",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-02T19:28:20.949Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 10,
+  "items": [
+    {
+      "id": "af5cde107fee7e69",
+      "title": "近4700只个股飘红，AI漫剧批量涨停，“政策底”来了？丨川观解盘",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jNUhnZTYza0pBQk5MMElWZ0VzTkxacEhUaDljQksxZUFWTlQ4cDN4eDlnM2NLRk0yMFEyVGhMOXNYcHBacklCOHJwaFV6Y3d0aUxaMVVzQ2FZMTd2NzY3RkkzTQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-02T12:00:10.000Z",
+      "excerpt": "近4700只个股飘红，AI漫剧批量涨停，“政策底”来了？丨川观解盘 四川新闻",
+      "section": "drama-news",
+      "rankScore": 0.637752,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "992e1e74822ad90f",
+      "title": "AI短剧题材股涨停潮背后：成本砍掉九成，利润仍是一道窄门_个股资讯_市场_中金在线",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JdDJJdlVhUzZHalIyQTRXSHIzNG5CcUFLWElxN0drNDVSR285RUdFbkVTSmpjalZBZHg1V1BBb0FCanIzWWVBSTdfOFZVYWdSYXRHSU40TXRuT3lVMFpEWGllR3JPQ1Ru?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-02T10:51:01.000Z",
+      "excerpt": "AI短剧题材股涨停潮背后：成本砍掉九成，利润仍是一道窄门_个股资讯_市场_中金在线 中金在线",
+      "section": "drama-news",
+      "rankScore": 0.628148,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "c410842f8a8a6c93",
+      "title": "#媒体原创 AI短剧正在席卷短剧市场。当AI把制作成本打下来之后",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYlNaZlhqRG5CUG4yWXAzNlI1cTFxblFmVW1sbXlDeUZYcjRuSzlZTVpHSWlpdzJLWlhYYXc0MHZJRW5FUm9qUmlxZWVMQUEydG1hWFgwWUcyN195TkFtN2MyZm1IV3pxN1V6UTRldklfbHVERGZlOHNfcDRVNjFkQTBhRU9mX0E1cF9VQQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-02T09:47:06.000Z",
+      "excerpt": "#媒体原创 AI短剧正在席卷短剧市场。当AI把制作成本打下来之后 搜狐网",
+      "section": "drama-news",
+      "rankScore": 0.619271,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "92b436c613340714",
+      "title": "Popcorn raises $1M to build an Arabic-first AI filmmaking platform - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1c5MlVMaFVxdy1PUEJHYlVjN0ZMWjlOaGNuUzlUdFBCdVdhX210d3d3LTRIYW5tX0cwVHpTU2FKVGxhNzFjeC1xX00waE1nTE5FT2pmVzZrR2l3ZXhJc3dSRDEwR2ZmWGQ0TE9MN3dmSThjc1lsSGgyTlRCN0ZOaklsWWdjNmJUTGN6YUJ2WmlVS2Znd21GeW9sQ2pHQTI2?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-02T08:40:17.000Z",
+      "excerpt": "Popcorn raises $1M to build an Arabic-first AI filmmaking platform Dealroom",
+      "section": "drama-news",
+      "rankScore": 0.609991,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "e5933dc16f2b6df2",
+      "title": "下载→《2026年AI短剧出海报告》",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DZjE2MHBxSFBoalptMmVfdlE3Ym9wUUJBYmNRZzAwU0lXUUxYOVJuMzhTVV9aVHg4Rzc5aFB6VF91TUI1ZW9JQ0ZxZk5yU0IwR1RkZXdaRGEzeGxDelhMbnNfVENqT29LOWNZ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-02T06:31:00.000Z",
+      "excerpt": "下载→《2026年AI短剧出海报告》 今日流媒体",
+      "section": "drama-news",
+      "rankScore": 0.592035,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "56064c27a1d6dac9",
+      "title": "全球AI短剧漫剧发行网有多强？，捷成股份依托全资子公司华视网聚，拥有覆盖200多",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYUlSb3M0c0VWUmhJeENPdjRCNlV6cE5kNldsUUhtdWZqWS0tN1RmSlRLZ1lvLTExSVZzNjJCVWlRMVA2a1RYNVBGTXpNc3BXUkNTbFlSRFNSaHFHSjJjQkx2VTBoazJ5OXFCTG9PWTZrRmNMZ0hsWGFNanV3R0VHeGlWenhrZTZtS25KWmdvMDhYWmVVR3ZrMFA2RnZKeVlDLXlZczVUbTBmMGptTDY2VUVuc1VHV3ZBTTh0TlNZUE9PR2d6Y2FOemkxd3dnU3dIR2ZsZEhYTnZVWlEzTHgtcFJiaXBPRzA0VXkyWUpvcGtxM2lxNklrNTZqOFUxRlE?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-02T06:15:00.000Z",
+      "excerpt": "全球AI短剧漫剧发行网有多强？，捷成股份依托全资子公司华视网聚，拥有覆盖200多 财富号",
+      "section": "drama-news",
+      "rankScore": 0.589813,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "09d28712573684fc",
+      "title": "Akuna opens free AI filmmaking training to Kenyan and Nigerian creators until 15th November - Techish Kenya",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkR1LWFhdU1UcnUzT3lIZUtVQy0za3p3MjdHRG9XbXZGeUZNbGp6SE9MSEdZaHNFSXVNci1Cc2NUTkpSNWc3WVJJak1Pb1J2eHFHalJvUWV4YWJWLXFpM014QmtLZGFkUUZXZVNfd3p6a2JhemxaQXhXUDRrWXMzYXdWQksyVjd5YkNLbjRxbi02ZzVOdGhHazZ3S3gzWmxKMFB2d2IteWYzWldON3JSNnBhSEx1emJBdWxtZG8zMjJIQQ?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-02T03:31:08.000Z",
+      "excerpt": "Akuna opens free AI filmmaking training to Kenyan and Nigerian creators until 15th November Techish Kenya",
+      "section": "drama-news",
+      "rankScore": 0.567053,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "eba272b540522222",
+      "title": "北外滩·白玉兰讲坛举行 AI漫剧《玉兰传奇》公益IP发布 - China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40RUt6Nm9uY2FXLWdWWmFGemlMUWw2djRGeHZoNzFIS1JBREsyRmhydUctR0VxSFpzYklqY0VxLXV6TWhhQUZvUGdOMGZEWWtNeGxycW5TR1ZSZkhZbExXcTFCbFhNT0U4al80UmtRTmlNSFZ4LV9QWkw4V0s?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-02T03:14:10.000Z",
+      "excerpt": "北外滩·白玉兰讲坛举行 AI漫剧《玉兰传奇》公益IP发布 China Daily",
+      "section": "drama-news",
+      "rankScore": 0.564697,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "c433dd797737dbaa",
+      "title": "198亿融资落地 快手旗下可灵AI“单飞”加速",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQm9LMUl3T3JDczMtT0xIOEJFWERDS3U3NmVfUXN5R3FwaFhiOThsU19JN25GaTNHVVNwRkx2TW0ycEJ3RVYxOTNfSm5JR2E4UXJYd0prbmZjek5hQjNtaHVSZGZ3ZlRzLVBQelJ1c3JHWUR1bnBOZktDTmREdFFsMk5lNktBN0Ji?oc=5",
+      "source": "drama-cn-models",
+      "publishedAt": "2026-11-02T14:07:11.000Z",
+      "excerpt": "198亿融资落地 快手旗下可灵AI“单飞”加速 搜狐网",
+      "section": "drama-news",
+      "rankScore": 0.42600610000000005,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "9fa7ce0ae64e30fd",
+      "title": "单季营收创新高，销售费用却翻倍，昆仑万维的AI短剧何时迈过盈亏线？",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44bms2anZYQmdGLUhIbWNHdDh1Z3FBV1IyQlF6X3FoRy1DZmdleXRwR1ZuTHY1bVZNMzhjVkZnWkNfZGF0bEZNR1FuZ09SX2d2bzJBUWVaRmJ3VGpYTVZz?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-02T14:05:00.000Z",
+      "excerpt": "单季营收创新高，销售费用却翻倍，昆仑万维的AI短剧何时迈过盈亏线？ 国际金融报",
+      "section": "drama-news",
+      "rankScore": 0.4258085,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 0/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "分镜先于精细画面",
+      "url": "https://runway.com/resources/ai-storyboard",
+      "task": "写一个原创小故事，用粗图排出 6 个分镜。",
+      "doneWhen": "不依赖旁人解释也能顺序看懂故事。"
+    }
+  }
+}
