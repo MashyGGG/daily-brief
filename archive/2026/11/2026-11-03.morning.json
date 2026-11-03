@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-03",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-03T03:27:00.382Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "ec486835e7090c2a",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-03T03:27:00.382Z",
+      "score": 858,
+      "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "03bb7f2372865d5b",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "source": "hn-front",
+      "publishedAt": "2026-11-02T17:16:17.000Z",
+      "score": 584,
+      "author": "aarushyadav",
+      "excerpt": "584 points · 313 comments · https://news.ycombinator.com/item?id=50340088",
+      "section": "tech",
+      "rankScore": 0.953226
+    },
+    {
+      "id": "e2e6ee5cb0140906",
+      "title": "An Introduction to Bε-trees and Write-Optimization",
+      "url": "https://www.usenix.org/publications/login/oct15/bender",
+      "source": "lobsters",
+      "publishedAt": "2026-11-02T20:26:38.000Z",
+      "author": "usenix.org via manuel",
+      "excerpt": "This is the underlying tech of the recently posted GEFS: https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for Comments",
+      "section": "tech",
+      "rankScore": 0.568649
+    },
+    {
+      "id": "947db333bfd53cab",
+      "title": "Uber Builds MCP Gateway to Govern Access to 800+ Servers and 5,000+ AI Agent Tools",
+      "url": "https://www.infoq.com/news/2026/11/uber-mcp-gateway-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-02T13:53:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Uber has built an MCP Gateway to standardize how AI agents discover and invoke internal services across more than 800 MCP servers and 5,000 tools. The gateway separates tool registration from runtime execution and includes automated API discovery, access controls, sensitive data redaction,…",
+      "section": "tech",
+      "rankScore": 0.509429
+    },
+    {
+      "id": "bd4ddf2faa2b9d86",
+      "title": "What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
+      "url": "https://css-tricks.com/whats-important-20/",
+      "source": "css-tricks",
+      "publishedAt": "2026-11-02T15:06:07.000Z",
+      "author": "Daniel Schwarz",
+      "excerpt": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whether to trick or treat, so I went for both.",
+      "section": "tech",
+      "rankScore": 0.444778
+    },
+    {
+      "id": "36eb619d6b53c3b9",
+      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-02T23:30:16.000Z",
+      "author": "Robert Pearlman",
+      "excerpt": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+      "section": "tech",
+      "rankScore": 0.443967
+    },
+    {
+      "id": "4952dcfdabd012a2",
+      "title": "v2.1.317",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
+      "source": "anthropic",
+      "publishedAt": "2026-11-03T01:25:46.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added a warning to /schedule when a new cloud scheduled task gets connectors you did not ask for, with how to remove them Added a check that asks before a web or shell tool call sends your account email address to the network Added onFailure: \"block\" for Agent SDK hook callbacks, so…",
+      "section": "ai",
+      "rankScore": 0.832903
+    },
+    {
+      "id": "dae207d623316562",
+      "title": "llm 0.37",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-02T23:49:30.000Z",
+      "excerpt": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.",
+      "section": "ai",
+      "rankScore": 0.767498
+    },
+    {
+      "id": "42e9ad78d32fbffd",
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-02T23:01:02.000Z",
+      "author": "Basil Chatha",
+      "excerpt": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
+      "section": "ai",
+      "rankScore": 0.68873
+    },
+    {
+      "id": "6cdaf3b99470d5e7",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "openai",
+      "publishedAt": "2026-11-02T18:00:00.000Z",
+      "excerpt": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "section": "ai",
+      "rankScore": 0.678123
+    },
+    {
+      "id": "ab1eb0324a1c31cd",
+      "title": "美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型",
+      "url": "https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-03T03:27:00.382Z",
+      "excerpt": "美团发布 LongCat-2.5，一个面向长程智能体任务的原生多模态模型。模型总参数量为 1.6 万亿，每个 token 激活约 480 亿参数，在 LongCat-2.0 的基础上进一步强化原生视觉理解与智能体编程能力。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "afae735ef6139ff1",
+      "title": "Claude 不到 10 分钟搓了个这个，码农真的要玩完了",
+      "url": "https://www.v2ex.com/t/1253990",
+      "source": "v2ex",
+      "publishedAt": "2026-11-02T23:58:15.000Z",
+      "score": 76,
+      "author": "7RaiNy7",
+      "excerpt": "Claude 不到 10 分钟做了个能用的小朋友四则运算练习站，真的感觉要失业了。 https://binarydevil.github.io/bunny-math/ 其实我不是惊讶于他能不能搓到这个程度，而是一把梭 10 分钟就搓出来，完全没有返工。大受震撼",
+      "section": "cn-tech",
+      "rankScore": 0.817811
+    },
+    {
+      "id": "8545d0d8d405b46e",
+      "title": "从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？",
+      "url": "https://www.infoq.cn/article/h1310kHD9CWD1mO8aTAc?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-02T22:48:56.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.622757
+    },
+    {
+      "id": "b7422260470bc047",
+      "title": "ShopXO 免费开源商城系统 v6.9.3 版本已发布",
+      "url": "https://www.oschina.net/news/503357",
+      "source": "oschina",
+      "publishedAt": "2026-11-03T02:16:27.000Z",
+      "excerpt": "更新日志 1.【新增】同城急送插件，对接快递100聚合运力与达达配送，支持门店端查看骑手、回调日志与发货同步 2.【新增】小票打印公共可视化设计，多门店/飞鹅小票统一设计能力，并支持多商户 3.【新增】门店小票增加大屏叫号号码展示，打印测试同步支持大屏叫号 4.【新增】热标签打印可视化配置，支持商城、多商户、多门...",
+      "section": "cn-tech",
+      "rankScore": 0.612361
+    },
+    {
+      "id": "9a2d13df6bcd253b",
+      "title": "小鼠研究显示阉割有助于长寿",
+      "url": "https://www.solidot.org/story?sid=85776",
+      "source": "solidot",
+      "publishedAt": "2026-11-02T15:31:53.000Z",
+      "excerpt": "男性想要长寿的话可随时尝试阉割。对包括人类在内的哺乳动物，切除睾丸有助于延长雄性的寿命。一项新研究发现，与此前的认知不同，阉割手术并不一定要在生命早期进行。对年长雄鼠进行去势处理，可使其寿命延长逾 30%。这一发现颠覆了以往对于睾丸如何影响衰老的既有观念。在人类等物种中，雌性的寿命显著长于雄性。以美国为例，男女之间的平均寿命差距为 6 年。男性也更容易罹患与衰老相关的疾病如癌症和心脏病。这一现象背后原因尚不明确，有证据表明雄性的短寿与睾丸相关。多项研究表明去势能普遍带来寿命延长。在最新研究中，研究人员对不同年龄同一品系的雄鼠进行去势处理，时间点分别是在青春期前、青春期刚过，以及成年期。",
+      "section": "cn-tech",
+      "rankScore": 0.55149
+    },
+    {
+      "id": "7a9cf8c66ce4f1c9",
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "source": "krebs",
+      "publishedAt": "2026-11-03T02:24:31.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud.",
+      "section": "security",
+      "rankScore": 0.750906
+    },
+    {
+      "id": "7f0d37f71b4d41e7",
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-02T14:46:05.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.",
+      "section": "security",
+      "rankScore": 0.488632
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
