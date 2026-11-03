@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-03",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-03T03:40:46.570Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "1636ba9d463b5d09",
+      "title": "金與正發文 朝鮮否認策劃63億美元幣安黑客攻擊",
+      "url": "https://www.bbc.com/zhongwen/articles/ckwyqjd9w4x7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-03T02:49:29.000Z",
+      "excerpt": "美國執法部門和網絡安全分析師將這宗破紀錄的盜竊案歸咎於平壤當局。",
+      "section": "news",
+      "rankScore": 0.822902
+    },
+    {
+      "id": "df2bd186025a4b71",
+      "title": "中国技术出口管制升级：利用工业优势构建经济武器库",
+      "url": "https://cn.nytimes.com/china/20261103/chinas-message-to-its-rivals-you-need-what-we-make/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-03T03:29:09.000Z",
+      "author": "DAVID PIERSON,BERRY WANG",
+      "excerpt": "北京近期实施多项技术出口管制措施，旨在限制其他国家在工业与技术领域与中国制造商竞争的能力。很多国家对中国的举措感到担忧，正努力降低这种依赖。 CHINATOPIX, via Associated Press 一台盾构机正在中国一家工厂组装。北京近期采取行动，管制数十项技术的出口，其中包括这类机器。",
+      "section": "news",
+      "rankScore": 0.766448
+    },
+    {
+      "id": "8e7a93cb847f8c85",
+      "title": "中国：一名男子因用绳子拴着9岁儿子跑马拉松被禁赛3年",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261103-%E4%B8%AD%E5%9B%BD-%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E5%9B%A0%E7%94%A8%E7%BB%B3%E5%AD%90%E6%8B%B4%E7%9D%809%E5%B2%81%E5%84%BF%E5%AD%90%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%A2%AB%E7%A6%81%E8%B5%9B3%E5%B9%B4",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-03T03:18:35.000Z",
+      "author": "珍妮特",
+      "excerpt": "中国郑州马拉松赛上的一张照片在中国的社交媒体上引发众怒：一名男子用绳子拴着他九岁的儿子跑步。赛事组织者被迫对他进行了严厉处罚。",
+      "section": "news",
+      "rankScore": 0.693835
+    },
+    {
+      "id": "3ba3857d0efe143a",
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-03T03:30:16.000Z",
+      "excerpt": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "section": "news",
+      "rankScore": 0.627373
+    },
+    {
+      "id": "ca1b033ff5655df4",
+      "title": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-03T03:24:51.000Z",
+      "author": "Lois Beckett (now); Johana Bhuiyan, Shrai Popat, Lucy Campbell and Tom Ambrose (earlier)",
+      "excerpt": "Ruling was latest judicial rebuke of unprecedented efforts from Trump administration to intervene in elections process of multiple states Supreme court rules against Trump over bid to force California to set aside ballots Sign up for the Breaking News US email The latest and final New York Times…",
+      "section": "news",
+      "rankScore": 0.556461
+    },
+    {
+      "id": "f9d48e60de7d67af",
+      "title": "US urges Venezuela to follow phased plan for democratic transition",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-03T02:27:51.000Z",
+      "excerpt": "This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.",
+      "section": "news",
+      "rankScore": 0.543794
+    },
+    {
+      "id": "b297bfcc2da7052a",
+      "title": "In Run-Up to Midterms, Legacy of 2020 Looms Large Over Justice Dept.",
+      "url": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-03T03:36:43.000Z",
+      "author": "Glenn Thrush",
+      "excerpt": "The refusal of top department officials to acknowledge Donald J. Trump’s loss that year is the engine driving an intensifying effort to intercede in state administration of elections.",
+      "section": "news",
+      "rankScore": 0.489211
+    },
+    {
+      "id": "bbefb2e531f9c1b5",
+      "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+      "url": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-02T21:46:45.000Z",
+      "author": "Shawna Richer",
+      "excerpt": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
+      "section": "news",
+      "rankScore": 0.481328
+    },
+    {
+      "id": "e9e1d750588d8a16",
+      "title": "Reliance gets its mojo back",
+      "url": "https://www.ft.com/content/06e2f3a7-f1db-4d9a-bf8d-92e362893a95?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-03T01:30:01.000Z",
+      "excerpt": "Also, more affordable cancer drugs",
+      "section": "news",
+      "rankScore": 0.464575
+    },
+    {
+      "id": "e86a537d05987c66",
+      "title": "国务院免去何永贤香港特别行政区政府房屋局局长职务",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZekFkZEt5VkZ2S1g2eGpQbUVNaHA3V2ZQTk1UWXRnREdMUGNVdDY0Q2t0am5qYURBQlh5MWEzaV9VTE8wS2hUYzVtcENCM01XNFJwdEtNR1RSZlVFS1NmZ2w3bml0NDdkckplYmdzUFhVdWdKWjVycXItYklYZw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-03T03:03:12.000Z",
+      "excerpt": "国务院免去何永贤香港特别行政区政府房屋局局长职务 新华网",
+      "section": "news",
+      "rankScore": 0.413737
+    },
+    {
+      "id": "aa263fc713e86e43",
+      "title": "Is America really that polarized? The answer might be a surprise",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
+      "source": "npr-news",
+      "publishedAt": "2026-11-02T20:00:00.000Z",
+      "author": "Frank Langfitt",
+      "excerpt": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.",
+      "section": "news",
+      "rankScore": 0.400405
+    },
+    {
+      "id": "0a42dd4f4a35291a",
+      "title": "联合国推出保险计划，为灾前援助提供资金保障",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143118",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-02T12:00:00.000Z",
+      "excerpt": "联合国周一宣布推出一项首创的保险计划。在多场灾害同时构成威胁、现有援助资源面临巨大压力时，可提供最多4000万美元的额外资金，帮助更多家庭在失去住所、食物或生计之前获得援助。",
+      "section": "news",
+      "rankScore": 0.394806
+    },
+    {
+      "id": "7146f681189e88ab",
+      "title": "美媒：中期选举前夕美军打击伊朗格什姆岛，特朗普淡化战争风险",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725210.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-03T02:49:37.000Z",
+      "excerpt": "中新网11月3日电 据美国《华尔街日报》报道，美国官员表示，美军当地时间2日袭击了伊朗格什姆岛，称此次行动旨在防止伊朗袭击霍尔木兹海峡的商船。",
+      "section": "cn-news",
+      "rankScore": 0.822947
+    },
+    {
+      "id": "9d3bba0c250d1d2f",
+      "title": "贵州省贵阳市政府原党组成员、副市长高杨被“双开”",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725218.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-03T03:14:15.000Z",
+      "excerpt": "中新网11月3日电 据贵州省纪委监委消息，经贵州省委批准，贵州省纪委监委对贵州省贵阳市政府原党组成员、副市长高杨严重违纪违法问题进行了立案审查调查。",
+      "section": "cn-news",
+      "rankScore": 0.761895
+    },
+    {
+      "id": "c32463c6c7e19496",
+      "title": "近五年来首次！央行上调外汇存款准备金率2个百分点",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lcVVGdWNJUHNTdHh0SlI5MFNhSmVMa2FtWVk2SzA3bnpOeWJIUHh1X1JBYmtUYlNiNUg1UGs2ZnlyanphdGFOelZvNGsyNVg2WHNzZ1I5Z0Q?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-03T03:24:07.000Z",
+      "excerpt": "近五年来首次！央行上调外汇存款准备金率2个百分点 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.625835
+    },
+    {
+      "id": "9838aa61097f2c21",
+      "title": "我国人工智能发展速度及应用规模全球领先",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725213.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-03T02:54:06.000Z",
+      "excerpt": "记者从国家发展改革委今天(3日)举行的“奋进‘十五五’”系列新闻发布会上了解到，当前，我国人工智能发展速度、应用规模全球领先，在塑造经济发展新动能、增进民生福祉、提升政府治理水平方面取得积极成效。",
+      "section": "cn-news",
+      "rankScore": 0.618331
+    },
+    {
+      "id": "e27cb38c04288e4c",
+      "title": "西塔——一个微小街区的空间、国家与日常",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqYWFRQWt5RmVUYnFXQjA4RU43SU9oZWtxcEUyMkpseGNkTUtiTHp0bjV3QnM1c3hLTTlObDZTNXdlSEIwWU9UVXA0VTFXRHk5MzBYdndoVmZTQXFEaFpHTA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-03T02:48:06.000Z",
+      "excerpt": "西塔——一个微小街区的空间、国家与日常",
+      "section": "cn-news",
+      "rankScore": 0.616831
+    },
+    {
+      "id": "0a6086d3b50526f3",
+      "title": "“十五五”时期将启动实施中华文明探源工程第六期",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05TUdhbFFIX1p4VFAtVW9TclRCU2RPb0pFYUhDWXNLMGh6dmVMRVlHOU9BamVmcDFoNlc3ZWJPRHl0dmcweC1hZHdUMjl4b0JzUjQtY0tDdEk2WUU5ODhtMmdQMHhURlVEVHdLT3M4c2xoRDJVWnptOG5HVks?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-03T02:55:39.000Z",
+      "excerpt": "“十五五”时期将启动实施中华文明探源工程第六期 求是 新华鲜报｜“十五五”考古：从“小众专业”走向“大众共享” 新华网 “十五五”时期中国将启动实施中华文明探源工程第六期 中国日报网 《考古工作“十五五”规划》印发 上海热线 从“考古中国”到深海探秘：未来五年中国考古将如何发力？ ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.549972
+    },
+    {
+      "id": "34dab413bf904f43",
+      "title": "馬興瑞前大秘郭永航被雙開 涉無償接受高端醫療服務",
+      "url": "https://www.cna.com.tw/news/acn/202611030050.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-03T02:43:49.000Z",
+      "excerpt": "（中央社台北3日電）中共中央紀委國家監委2日通報，對廣東省政協前黨組成員、副主席郭永航開除黨籍及公職（雙開），指他無償接受私營企業提供的高端醫療服務，以及大搞權錢交易。郭永航是前中共政治局委員馬興瑞的前大秘，而馬興瑞此前已被雙開。",
+      "section": "cn-news",
+      "rankScore": 0.547342
+    },
+    {
+      "id": "6eb237afa6f6c262",
+      "title": "主要政策利率“换锚”，隔夜逆回购利率缘何担重任",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXakZfcWllWEw2c2REZTlMb1NuZV94QnZvQktEZHp4TlZ1TUNid2ZPcTZzWk9vSDdjbThScjVLNldQTk1HcDhMNUtVV0dLRFZuRkpIOFgzYjlPREdlY2pTSFRreVZMWUlGdkZCT2kzTlVLR0Z2WjZodjc2RHI?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-03T02:55:40.000Z",
+      "excerpt": "主要政策利率“换锚”，隔夜逆回购利率缘何担重任 求是",
+      "section": "cn-news",
+      "rankScore": 0.481229
+    },
+    {
+      "id": "17f4b5b3e2cab506",
+      "title": "OpenAI executive urges caution in China-US AI talks, warns of distillation threats",
+      "url": "https://www.scmp.com/news/us/article/3373052/openai-executive-urges-caution-china-us-ai-talks-warns-distillation-threats",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-03T00:03:51.000Z",
+      "author": "Nayan Seth,Lucy Quaggin",
+      "excerpt": "A top OpenAI executive said on Monday that Washington needs to be “clear-eyed” and “aware” about sharing information with Beijing during coming talks on artificial intelligence (AI), while also warning about the threat posed by alleged Chinese distillation attacks. “Be very clear-eyed.",
+      "section": "cn-news",
+      "rankScore": 0.44782
+    },
+    {
+      "id": "47c2ce2d2918873e",
+      "title": "冠军无锡队载誉归来 2026“苏超”总决赛后市领导看望慰问无锡队",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02TjdXTm1SVmNUUTNjVGR2dEdSYUdhOWN1THNmcTg4VS1uQ0JremtpYnRpUXRVWWxCdFVmd3l1bEVTZmtYQnp2OTdONndURFR2clNoa1NuZXdzVjZ6dnhjWTZNaXh2MWNz?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-03T03:19:32.000Z",
+      "excerpt": "冠军无锡队载誉归来 2026“苏超”总决赛后市领导看望慰问无锡队 江苏宣传网 追光｜“苏超”2.0的变与不变 新华网 今天无锡景区停车场，被苏A苏C苏D苏E苏F……停满了！ 新浪财经 十三个城市的星期六——2026“苏超”赛季盘点 央视网 从冠名到生态：江苏银行做强“苏超”IP 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.41646
+    },
+    {
+      "id": "0cb450ae4c649646",
+      "title": "中国气象局发布今冬明春气候预测 最强厄尔尼诺事件影响明显",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725225.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-03T03:32:04.000Z",
+      "excerpt": "中新网11月3日电 11月3日，中国气象局召开新闻发布会，国家气候中心副主任高荣指出，2026年9月，赤道中东太平洋形成一次超强厄尔尼诺事件，10月已发展为有监测记录以来最强的厄尔尼诺事件，预计秋末冬初达到峰值，将对我国今冬明春气候产生明显的影响。",
+      "section": "cn-life",
+      "rankScore": 0.837097
+    },
+    {
+      "id": "0c1acd2023c3abae",
+      "title": "消费者吐槽“棉服”里没有棉 专家表示聚酯纤维保暖性和耐用性更好",
+      "url": "https://www.chinanews.com.cn/life/2026/11-03/10725172.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-03T02:09:55.000Z",
+      "excerpt": "近期，有消费者在社交平台发帖吐槽，自己购买标注为棉服、棉袄的保暖外套，收到货查看吊牌才发现，面料、里料乃至填充物均为100%聚酯纤维，并没有棉花的身影。",
+      "section": "cn-life",
+      "rankScore": 0.674761
+    },
+    {
+      "id": "2d451e355327dae3",
+      "title": "事关医疗保障，福建公布重要规划！",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54RlRpQWNqMjFPQWxZR0dSdEpkMjYxdWpMZVRyOHJKTjFYU2w2VTZBRXU4YmdXdnZmVDR6ZzcwQnZtaW5FZzYwZUdVUHUzc3ptSzA1MmZrVFNsQ0ZLNWR1eTE4ODQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-03T03:07:03.000Z",
+      "excerpt": "事关医疗保障，福建公布重要规划！ 福州新闻网",
+      "section": "cn-life",
+      "rankScore": 0.621568
+    },
+    {
+      "id": "98b96587a43c1b72",
+      "title": "今天湖北有大范围降雨局地或现暴雨 明天降雨缩减风力较大",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QaFo5RHREeF9rQk8xamo3VzZyUGZTYUJZT1ZJSnZhR1ZNWTZhcnF6dWt6ZGljZVZzeHpiUHBwWFdqUXM4dFRXVDl6SGxxc3dMQmdvTmFoTlgtYURY?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-03T02:58:56.000Z",
+      "excerpt": "今天湖北有大范围降雨局地或现暴雨 明天降雨缩减风力较大 天气网",
+      "section": "cn-life",
+      "rankScore": 0.619539
+    },
+    {
+      "id": "9457fc2f0325d882",
+      "title": "普陀区主副食品价格监测情况（2026年11月2日）",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXdPZzlKRWtBZWpVLTRtajJzeHlJUXpVMG8tTFA4YjY0VXpHQlM2bV84T0x1dGVvWlBCYVhXS3p1Q1RnV0dQTUtkVlVyX2dUYkQwbHhCcnFZX1huUE8wM3FnOEJYNmdZX3RIUlgzRU8ySnZPSDAxem5vMk9mWW5lSmE2MGdvbGp5OFE?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-03T03:24:07.000Z",
+      "excerpt": "普陀区主副食品价格监测情况（2026年11月2日） 上海市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.556298
+    },
+    {
+      "id": "6e2304cafb5cdd4e",
+      "title": "全美召回逾三千瓶降血壓藥 因其藥效未達標",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCaDU2TFBTS2tiQUh4aHhKX1F1RGN6ejJ4RWlOeHQ0ZWU0Y1NCZ05CdWxPaC1KblVobkgxeE8zZElQTmVRaFYwY3JvX1lIS2VpcElVUDRMRUcxTnA3V2JWX9IBZkFVX3lxTE0yS1k0NTg4b3QxZXY2eXhaeHRjZVVabi12N2ozeW1CTVhCaGYteG1JY2tvRDJVeTM1T0pncHNDWHA0V0VVMTNoV0tNdTEyUjk1Q3lMTFRKczJ2dmljSnBhMU9LdUNlZw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-03T03:22:00.000Z",
+      "excerpt": "全美召回逾三千瓶降血壓藥 因其藥效未達標 大紀元",
+      "section": "cn-life",
+      "rankScore": 0.486349
+    },
+    {
+      "id": "031dcd59e2853dfa",
+      "title": "每周2罐汽水胰脏癌增87%？专家拆解致癌真相：真正元凶是“它”！",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNVEJpeDllbVhUdjBUTFRRTkVjZGsweWlQVldxS2hNYmtYYnVDdHhmSGpCVUgxUGd3YnlFUFNXUXBCZ2dLWGVBRlhlWU5jMThhUnNPcXRrM2U5Mm55UE5MMW1tckJNeEY5dEhSOUV0RlVvdXpfS0FtRUZHeWhLVnhzbDlBYmpXc0ZFWUkwMmExSmRoVXJ0eGlwdjNodlY5LXJyUXhDWVBuVXFwQmVQZUhDMVhKM2h1bDAwbU1leDhadlBGT0tWVk1RcEtCU2poTWZKdWNrR1FucVlWSHNmMDlGMUxBWmlYa1FfSVBCa1l0elQwYjJSZWtFM3JnXy0zWGRJdUpIckNmbGFwdk1LMG12WmVJWk4tTVpyN1ktM2h3OHNoU3NEaWRnZ0hmc0JuOFlWWEoxblZBZHZXVEFIaVMtXy1EWFlSQUpQdDlpM1VOSGZ1VHQya0RkQ3d3S0hZdnQxUV9wanFUSlhJRFc2T2FfUlo0UWhkbzJncjhiYTNWZ1FrVUE?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-03T01:47:00.000Z",
+      "excerpt": "每周2罐汽水胰脏癌增87%？专家拆解致癌真相：真正元凶是“它”！ 香港01",
+      "section": "cn-life",
+      "rankScore": 0.467877
+    },
+    {
+      "id": "947097746c3ee079",
+      "title": "海淀区举办科学教育“做中学”交流实践活动",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SN2NWQVExck42RGhGdkFIb3l6Y3FsZVE5eUYtYzBvS2NobjRkM0pOMUlvNG5xSnhIWVdkS25WeEZTZmNtZmVDVFBzbld3RC1BS0xnWWdybXVJbTFRRGpKVw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-03T03:17:50.000Z",
+      "excerpt": "海淀区举办科学教育“做中学”交流实践活动 光明网",
+      "section": "cn-life",
+      "rankScore": 0.416176
+    }
+  ],
+  "warnings": []
+}
