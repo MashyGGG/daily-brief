@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-03",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-03T18:23:59.307Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "d3a378ec1ffe3c60",
+      "title": "中国大使馆称在巴布亚新几内亚码头发现的爆炸物是“酒瓶”，“不构成危险”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261103-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86%E7%A7%B0%E5%9C%A8%E5%B7%B4%E5%B8%83%E4%BA%9A%E6%96%B0%E5%87%A0%E5%86%85%E4%BA%9A%E7%A0%81%E5%A4%B4%E5%8F%91%E7%8E%B0%E7%9A%84%E7%88%86%E7%82%B8%E7%89%A9%E6%98%AF-%E9%85%92%E7%93%B6-%EF%BC%8C-%E4%B8%8D%E6%9E%84%E6%88%90%E5%8D%B1%E9%99%A9",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-03T17:18:26.000Z",
+      "author": "古莉",
+      "excerpt": "据澳大利亚广播公司（ABC）11月3日独家披露，在巴布亚新几内亚一个商业集装箱内发现的一枚大型中国军用级爆炸物实为武器，尽管中国政府官员曾暗示该物体是一瓶葡萄酒。",
+      "section": "news",
+      "rankScore": 0.666382
+    },
+    {
+      "id": "c62741df061e220d",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-03T17:56:03.000Z",
+      "excerpt": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "section": "news",
+      "rankScore": 0.617105
+    },
+    {
+      "id": "6a128b7cdc12c6e5",
+      "title": "英國移民改革改什麼？BNO港人會受影響嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c63r50z3npr7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-03T11:37:55.000Z",
+      "excerpt": "內政大臣公布改革英國永久居留要求的計劃。",
+      "section": "news",
+      "rankScore": 0.59011
+    },
+    {
+      "id": "bf12a4ebb01dbc99",
+      "title": "Poland Beefs Up Security at Border With Russia",
+      "url": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-03T18:18:07.000Z",
+      "author": "Andrew Higgins",
+      "excerpt": "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.",
+      "section": "news",
+      "rankScore": 0.557591
+    },
+    {
+      "id": "621a901da78f7a9b",
+      "title": "US midterm elections 2026 live: Americans go to the polls to decide control of Congress",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-03T18:06:33.000Z",
+      "author": "Chris Hippensteel and Lucy Campbell (now); Yohannes Lowe (earlier)",
+      "excerpt": "Voters are casting ballots across the US in a referendum on Donald Trump’s agenda Sign up for the Breaking News US email What are the races to watch and why do they matter? Midterm elections 2026: what time do the polls close today?",
+      "section": "news",
+      "rankScore": 0.552846
+    },
+    {
+      "id": "07d716e6186c6602",
+      "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-03T17:26:02.000Z",
+      "excerpt": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
+      "section": "news",
+      "rankScore": 0.536224
+    },
+    {
+      "id": "de24441348791d71",
+      "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
+      "url": "https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-03T18:04:05.000Z",
+      "author": "Margot Sanger-Katz and Sarah Kliff",
+      "excerpt": "A law to end surprise medical bills has generated millions of high-dollar payouts for doctors. Health plans are now fighting back by frequently withholding money.",
+      "section": "news",
+      "rankScore": 0.482855
+    },
+    {
+      "id": "f062346cda39a837",
+      "title": "US, Russia and China discuss meeting between Trump, Putin and Xi",
+      "url": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-03T17:46:32.000Z",
+      "excerpt": "US president is travelling to Shenzhen in two weeks to attend Apec summit",
+      "section": "news",
+      "rankScore": 0.476555
+    },
+    {
+      "id": "711a8cd887affde1",
+      "title": "When caring for aging family members becomes cost prohibitive",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
+      "source": "npr-news",
+      "publishedAt": "2026-11-03T17:09:56.000Z",
+      "author": "Tonya Mosley",
+      "excerpt": "AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us.",
+      "section": "news",
+      "rankScore": 0.463416
+    },
+    {
+      "id": "1f227191f4e815e3",
+      "title": "国际电联：全球20亿人仍未上网",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143121",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "excerpt": "国际电信联盟周二发布的《2026年事实与数据》报告显示，2026年全球互联网使用人数估计达63亿，占世界人口的76%。尽管上网人数持续增加，但全球仍有20亿人未能上网。",
+      "section": "news",
+      "rankScore": 0.452775
+    },
+    {
+      "id": "28b4b9a63c52b351",
+      "title": "特朗普表示中期选举不会改变对伊朗政策，民主党寻求加大对其外交政策影响力",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFBfa1pBeFZrYlN2STF4Wk5ETjF0RlFzNHpwV255RkUtU3h2OFBrWUpFV0ttdW41NWNwZmxLdHhDZGM0a0lPajU5ZlF3M2tPM0RMNFNYTnd0R0pzSDg4X2JmcmJUX0dSZTdGR3Q3T3UxZm1yWng2UnQ1b0RHUGNOUkZqd9IBhgFBVV95cUxOZWh6cndrTEtvMFRpRTdXSXVfMmFEcTBpcERNWDlRT19YaGN4R1R2U292aVJrVDItazM4YldzNXdERG1SV3p2RVk5X3FvbkJQRWRFQ29QUkxtaFVhSkZvTjVBZlVRY0diT1R6MU9DejVTUXUtU3Q1UG4wV3JVQkZmNWpaVndHZw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-03T16:51:04.000Z",
+      "excerpt": "特朗普表示中期选举不会改变对伊朗政策，民主党寻求加大对其外交政策影响力 美国之音 美国中期选举：竞选开支120亿美元打破纪录，马斯克已花5亿 BBC 高志凯：共和党悬了？现在要盯紧投票箱 观察者网 美国中选“最可能剧本”，将是美股“最危险剧本”？ 华尔街见闻 美国中期选举今日投票：国会控制权之争有哪些关键看点？ 美国之音",
+      "section": "news",
+      "rankScore": 0.391409
+    },
+    {
+      "id": "9f0f73ff37517d56",
+      "title": "Gender equality pays off for business – so why are companies pulling back?",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168726",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "excerpt": "Gender equality and diversity are good for business – but while increasing numbers of women are reaching top spots in the corporate world, more initiatives are needed to keep momentum going.",
+      "section": "news",
+      "rankScore": 0.30185
+    },
+    {
+      "id": "2bf69300669a4021",
+      "title": "宁夏出台安全生产执法检查重点事项指导目录 规范精准执法",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725689.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-03T15:55:06.000Z",
+      "excerpt": "中新网银川11月3日电 (记者 于晶)11月3日，记者从宁夏回族自治区应急管理厅获悉，该单位印发《安全生产执法检查重点事项指导目录》(以下简称《目录》)，为基层安全生产执法划定标准化标尺，着力整治自由裁量权滥用、人情执法、执法“放水”等问题，推动安全监管向事前预防转型。",
+      "section": "cn-news",
+      "rankScore": 0.686012
+    },
+    {
+      "id": "656182bf4490a0b1",
+      "title": "“京港国际会客厅”在北京揭牌",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725688.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-03T15:54:32.000Z",
+      "excerpt": "中新网北京11月3日电 (记者 杜燕)第二十九届京港洽谈会朝阳专题活动3日在北京举办。活动现场，由北京市朝阳区投资促进服务中心联合将台乡、中国香港(地区)商会、中旅酒店等多方共同打造的“京港国际会客厅”揭牌。该空间将承接政策宣讲、企业路演等各类活动，助力两地企业更好发展。",
+      "section": "cn-news",
+      "rankScore": 0.561021
+    },
+    {
+      "id": "0ce1009ec9461ab5",
+      "title": "江苏苏州一车主加200元油后刚驶离2公里，油箱见底！加油站负责人：系油卡故障所致，属于偶然事件",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SQjNudUNHczZzMUd4MkRHZHM2SVpKN00zazRVWTZBcVJqRHR6T2l4ZEN5R2RGY1cxRm9IbG0tZ1RmT3dwMF9raWRKSVRVVW5FWG1EOTN4Z081QUhKdnlubQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-03T14:38:22.000Z",
+      "excerpt": "江苏苏州一车主加200元油后刚驶离2公里，油箱见底！加油站负责人：系油卡故障所致，属于偶然事件",
+      "section": "cn-news",
+      "rankScore": 0.525867
+    },
+    {
+      "id": "bb1af2406575d9bd",
+      "title": "国家气象中心回应每经：预计11月南方大部气温偏高，降水偏多",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fVWVlR3R1NmQ4M0ctVTlsS0E2T1BiN1V4dVFFdktoRnFpdHZhcVl1TlhFRWVUWVBRLXNSNFIycmctZjQ3S01PNXI3SDlUSmJDWjFJeXZ4NkhTdkNfWFEyRVJNX1c2dw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-03T15:49:00.000Z",
+      "excerpt": "国家气象中心回应每经：预计11月南方大部气温偏高，降水偏多 每日经济新闻 今冬北方强降温降雪风险突出，11月华北恐有较强阶段性雨雪灾害风险 北京市人民政府门户网站 江淮江汉江南有中到大雨 冷空气将影响内蒙古和东北地区等地 光明网 中国气象局：11月全国大部地区气温偏高或接近常年同期 中国青年网 南方降雨增强局地有暴雨 北方气温走势将现转折 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.496415
+    },
+    {
+      "id": "ca4ac6a77b0b2cf5",
+      "title": "光迅科技：物料短缺、生产停工等传闻不实",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QclJkcUczMVpnM0NWTHVkR1NHM0FWQ05aM0V2NDV4bDR4cGozSUdGbUVYLVZTaGZHUm9HR0dwdzNKekNwZnQ5N3lLdC1zVk5SWDZ6RHpmQWw?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-03T12:28:21.000Z",
+      "excerpt": "光迅科技：物料短缺、生产停工等传闻不实 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.465859
+    },
+    {
+      "id": "2752827a7a7e39dc",
+      "title": "警方通报九寨沟景区游客冲突事件",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725330.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-03T08:06:05.000Z",
+      "excerpt": "中新网11月3日电 据“平安九寨”微信公众号消息，九寨沟县公安局发布警情通报，具体内容如下：",
+      "section": "cn-news",
+      "rankScore": 0.459751
+    },
+    {
+      "id": "1623690cc9ba2062",
+      "title": "晶华微被证监会立案调查 公司股价出现“20CM”跌停",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01TWRIcGRUdGhienhrdjhGQUE2c0RaUjc4NHZLOG1uTms4WGJRMWg2UWwwLWNTdFp3RkoyUHNpZWdsLXNDZTV2YnV4Q2NyUE9OdlpZZUM4SnI5NFhBbkROZA?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-03T15:59:13.000Z",
+      "excerpt": "晶华微被证监会立案调查 公司股价出现“20CM”跌停 东方财富 数亿元IPO募资冻结！晶华微突遭立案存退市风险，“看门人”国泰海通负有募资专项监督职责 新浪财经_金融信息服务商 遭证监会立案，晶华微开盘跌停 中华网财经 科力远：因涉嫌信息披露违法违规，公司及控股股东科力远集团遭证监会立案 ThePaper.cn 11月2日晚间公告集锦|江铃汽车10月汽车销量同比增长7.35%，科力远被证监会立案，创世纪实控人提议回购1亿元-2亿元股份 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.438031
+    },
+    {
+      "id": "0888a86681b5e667",
+      "title": "Israel deepens Somaliland ties with first ambassador, testing Horn of Africa balance",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373170/israel-deepens-somaliland-ties-first-ambassador-testing-horn-africa-balance",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-03T14:00:23.000Z",
+      "author": "Khushboo Razdan",
+      "excerpt": "Last week, Somaliland, a breakaway region that declared independence from Somalia in 1991, welcomed its first ambassador from Israel. Diplomat Michael Lotem presented his credentials in Hargeisa, while officials laid the cornerstone for an Israeli embassy.",
+      "section": "cn-news",
+      "rankScore": 0.395373
+    },
+    {
+      "id": "28313eb5fb173d45",
+      "title": "美国选民在星期二的中期选举中决定国会的控制权",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjh0NE00R2hPWndPOEhEUmZOUVdreW1aeFdQUm1UcW14U0FVMzlGbHFnT01Cb1Qtc2hTRDYwOWZNQnhEZzV5RXoyMkFZTUs5LVduRmpmWk9MRXgtWkx6NWhTZUNRWUFyN1pwdG5rZnhUXzBaR3BtSjdqWHNIbElleEZIX3lnVWxhZzVleWJtYlVTYkJPdXJyRUtEZkhnOHJncUNtaVRPUkQ5LXRHMmpJVnBUNlQ3ZG1pVksyVEg1Mk4zd9IBxAFBVV95cUxPN2o4NFJ0SnVmei14S2t0ZnByeWZvYUlibE1QZGRNTHBtaUZqSTRSbWZYdTBndDZEWE5pVEs5bTR3aDNieDNuQWtBWk8tbDAtWVhIYkZ2Sl9VczIwc1gzVVl0aFRxeFI4V2JrT1FuclljRlowV0lxaDVkOENjQ190R2ptQUZldUt1eGwtVm5UU2JaOHNyc0RDeVVycGw0aUw4XzFSS0pxWHdWb0VucldtU1luTUVvTDVERkZYSUVOTmhjMzdF?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-03T16:28:01.000Z",
+      "excerpt": "美国选民在星期二的中期选举中决定国会的控制权 美国之音 美国中期选举：竞选开支120亿美元打破纪录，马斯克已花5亿 BBC 高志凯：共和党悬了？现在要盯紧投票箱 观察者网 美国中选“最可能剧本”，将是美股“最危险剧本”？ 华尔街见闻 选举专家：美国中期选举部分选战不会在选举夜出结果 新浪网",
+      "section": "cn-news",
+      "rankScore": 0.384316
+    },
+    {
+      "id": "75b70df6eaa1c54e",
+      "title": "會見俄防長 中共軍委副主席張升民：願增進軍事領域互信",
+      "url": "https://www.cna.com.tw/news/acn/202611030290.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-03T10:55:30.000Z",
+      "excerpt": "（中央社台北3日電）中共中央軍委副主席張升民今天在北京會見到訪的俄羅斯國防部長別洛烏索夫表示，中俄兩軍關係近年來緊跟兩國關係提質升級步伐，在多個領域成果豐碩，願與俄羅斯持續加強戰略溝通，增進軍事領域互信。",
+      "section": "cn-news",
+      "rankScore": 0.376005
+    },
+    {
+      "id": "fcdc136241b95aae",
+      "title": "从价格到服务再到隐私保护 这份陪诊首项国标为你划重点",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725693.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-03T16:27:14.000Z",
+      "excerpt": "11月1日，由国家市场监督管理总局、国家标准化管理委员会批准发布的《社会化陪同就医服务基本要求》国家标准正式实施。这是我国陪诊服务领域的首项国家标准。这些年陪诊服务越来越热，究竟什么是陪诊？哪些人群最需要这项服务？行业发展现状怎样，还有哪些亟待破解的现实难题？11月1日起实施的这项新国标，又将从哪些方面给行业立规矩？",
+      "section": "cn-life",
+      "rankScore": 0.768151
+    },
+    {
+      "id": "e6d5ae6d7011c1a2",
+      "title": "中到大雨！暴雨！最低3℃ ！江西发布最新天气预报 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOVhCUmFBMWROc3RGOG5ONTc5NFllSnk2ZktqRjdmcDlNTlAxRVRaRjlTRWdNTFA2YkplXzZrNUpQVzVfZnQ2OUpTdGFfZWZEUGNwWnJEeThGTFY5SEN0NEduRFVBQTJENU5FQy1jN2lZUmtPMFdQS2o3OXEzcWhTOUo2TnJCNEdQNmJWUmZ3dDM1ekwxMUJiNlNoRV9Kcm1SXzU2NllmOHR5LXo5X2hBd0NoWkphQkFLNGFNVDhqa3doMU5Lb2poSHllNUMzQV81dXA2UnRBWGp0QQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-03T17:55:32.000Z",
+      "excerpt": "中到大雨！暴雨！最低3℃ ！江西发布最新天气预报 新浪财经_金融信息服务商",
+      "section": "cn-life",
+      "rankScore": 0.616867
+    },
+    {
+      "id": "ea82bb849e059c30",
+      "title": "泰国（第四届）HSK留学中国与就业展在曼谷举办",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSM0JZYUdEcG5Rbl8xSFdLSmhxM09qcjY5R1hsU2M3emRtUENYTjYwY3FPMkUwbENFNG5aZlRXVTBaR3dnYlN1TVh0ckI1eUdCNXZyQ25yMG1uWkszXzU1a0EwX0FSNk40?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-03T15:44:37.000Z",
+      "excerpt": "泰国（第四届）HSK留学中国与就业展在曼谷举办 中国新闻网",
+      "section": "cn-life",
+      "rankScore": 0.556444
+    },
+    {
+      "id": "5b259c91bb55a11b",
+      "title": "亚太经合组织召开第37届外交和贸易双部长会议",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMWw3dE9ZTHpfbXItUUhQdWVsMDdYNjdNajdzYnF3ZGJwTWJES25HOU16b2preF9LQkhhc0huQU9ZNnpRTTVONDhFVGVlWUhqZHNKMUd4YWFFWmhHczl6Y3VuUkV6OC1DOWs5X0RjLU4zTzVrcmpra01XNjhzUnBad2RTVkdxOUdDWEE?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-03T16:20:00.000Z",
+      "excerpt": "亚太经合组织召开第37届外交和贸易双部长会议 商务部",
+      "section": "cn-life",
+      "rankScore": 0.509133
+    },
+    {
+      "id": "1c6d75dba7fbdf3c",
+      "title": "华润双鹤：关于公司及子公司部分药品获得药品注册证书的公告",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xckN4VG43ZWFIS3h6Z2s3M1pFQW1Cc2hhalpFSFpiVm10TXd2NTFiTnh2ZmdkOUJ2QlcwMDFVMHF0d3NiQm40eGpxM2FTeEdBUldkYVE4aG8yak5VSm0waGl6SVB6dw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-03T13:43:31.000Z",
+      "excerpt": "华润双鹤：关于公司及子公司部分药品获得药品注册证书的公告 东方财富",
+      "section": "cn-life",
+      "rankScore": 0.389318
+    },
+    {
+      "id": "de529bf8e5e1d561",
+      "title": "黄美近：从六院创业到信宜帮扶，一位外科医生的接力",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdmcycEVyUjlJQldpTVpxM3A1eVZ0YzF1MXl2YTM1WVhFSy1ObV9WQl9jRjkzdXRIdXBBZXhfUXpwaHY2dTFqSU1nSFJBTU5pdzJ1THpCRk9Iay1IQXUxeXlOcjh2Y1BjYzV5eE1NdFpIUXBKaXBrOE80VXdLTmthUDhGaEhUQnJ0WVE?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-03T13:23:28.000Z",
+      "excerpt": "黄美近：从六院创业到信宜帮扶，一位外科医生的接力 广州日报新花城",
+      "section": "cn-life",
+      "rankScore": 0.38212
+    },
+    {
+      "id": "1d4a36c19fd98e6e",
+      "title": "大学免费发词元，为新的教育公平托底 | 新京报社论",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVa3F4OW1kRGM3RVZobHhxTmNxekVKeHhUT1N6WkNoZDVjWVN1SjBlV08wNXE0LTIzbkI2aXpaVXBva1hySndTVXd4eU5rM3RTZ2x1cFkxUW56V0RzZElnRVdMdnI?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-03T16:04:00.000Z",
+      "excerpt": "大学免费发词元，为新的教育公平托底 | 新京报社论 新京报",
+      "section": "cn-life",
+      "rankScore": 0.376927
+    },
+    {
+      "id": "7f2cbd346e07f26b",
+      "title": "一杯奶茶含9块方糖？控糖别存侥幸 警惕身体预警信号",
+      "url": "https://www.chinanews.com.cn/life/2026/11-03/10725344.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-03T07:24:24.000Z",
+      "excerpt": "奶茶深受年轻人喜爱，可很少有人留意，一杯全糖奶茶的含糖量可能接近一个成年人一天的建议摄入量。如果长期保持“每天一杯”的习惯，身体的代谢负担会不断加重。记者在多家医院内分泌门诊观察到，糖尿病正呈现明显的年轻化趋势，其中不乏奶茶的“重度爱好者”。",
+      "section": "cn-life",
+      "rankScore": 0.36175
+    }
+  ],
+  "warnings": []
+}
