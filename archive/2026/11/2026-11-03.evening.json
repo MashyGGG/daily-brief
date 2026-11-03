@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-03",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-03T19:27:40.084Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "49a59d885258febf",
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-03T19:27:40.084Z",
+      "score": 1658,
+      "excerpt": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "271360468b0a31bf",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "hn-front",
+      "publishedAt": "2026-11-03T17:22:37.000Z",
+      "score": 511,
+      "author": "sidgarimella",
+      "excerpt": "511 points · 162 comments · https://news.ycombinator.com/item?id=50354960",
+      "section": "tech",
+      "rankScore": 1.095815
+    },
+    {
+      "id": "069080c0ebaf9adf",
+      "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
+      "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+      "source": "google-developers",
+      "publishedAt": "2026-11-03T19:27:40.084Z",
+      "excerpt": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "c4d86eb0f79c9da8",
+      "title": "Your terminal manipulation/navigation setups",
+      "url": "https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation",
+      "source": "lobsters",
+      "publishedAt": "2026-11-03T18:54:55.000Z",
+      "author": "by nocoffei",
+      "excerpt": "Dear Lobste.rs, over a year after my previous post on mouse free setups , your advice was instrumental to building the tech stack I use today as a disabled person, composed of the Svalboard, Talon Voice, and a fair few extensions for Talon (including ones I've written myself.)",
+      "section": "tech",
+      "rankScore": 0.667294
+    },
+    {
+      "id": "2951ca79d41a457c",
+      "title": "Look up a resource’s cost center with the GitHub REST API",
+      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-03T15:27:13.000Z",
+      "author": "Allison",
+      "excerpt": "You can now use the GitHub REST API to find which cost center a user, organization, repository, or enterprise team belongs to. Previously, you had to list every cost center…",
+      "section": "tech",
+      "rankScore": 0.585499
+    },
+    {
+      "id": "4bbfee849e87b36f",
+      "title": "Re-Implementing :nth-child() With Modern CSS",
+      "url": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
+      "source": "css-tricks",
+      "publishedAt": "2026-11-03T14:50:32.000Z",
+      "author": "Temani Afif",
+      "excerpt": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements. Re-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks . You should really get the newsletter as well.",
+      "section": "tech",
+      "rankScore": 0.511228
+    },
+    {
+      "id": "64b578e0c9c9e389",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "huggingface",
+      "publishedAt": "2026-11-03T17:15:21.000Z",
+      "section": "ai",
+      "rankScore": 0.716615
+    },
+    {
+      "id": "6725ae33f589c8b6",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "openai",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "excerpt": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "section": "ai",
+      "rankScore": 0.608531
+    },
+    {
+      "id": "ef18967a5e772141",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "deepmind",
+      "publishedAt": "2026-11-03T17:01:49.000Z",
+      "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "section": "ai",
+      "rankScore": 0.567492
+    },
+    {
+      "id": "5c4deb1598b4eea3",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-03T05:32:25.000Z",
+      "excerpt": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B…",
+      "section": "ai",
+      "rankScore": 0.362713
+    },
+    {
+      "id": "ce6c3679d2d9d761",
+      "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
+      "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-03T19:27:40.084Z",
+      "excerpt": "美团在 MTGR 基础上提出统一推荐基座大模型 MTFM，首次实现外卖多个主要业务的统一精排模型。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "8deca3552445079c",
+      "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
+      "url": "https://www.solidot.org/story?sid=85788",
+      "source": "solidot",
+      "publishedAt": "2026-11-03T16:58:29.000Z",
+      "excerpt": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司，通过 Paywall blocker 功能帮助用户绕过数百家新闻媒体的付费墙。",
+      "section": "cn-tech",
+      "rankScore": 0.691856
+    },
+    {
+      "id": "0ae455a9396af853",
+      "title": "AI 改变的是数据接口，而不是查询引擎",
+      "url": "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-03T17:07:00.000Z",
+      "author": "作者：Peihao Yuan",
+      "section": "cn-tech",
+      "rankScore": 0.633015
+    },
+    {
+      "id": "5f1d7208ebac09de",
+      "title": "怎么让 AI 把页面设计美观好看的",
+      "url": "https://www.v2ex.com/t/1254217",
+      "source": "v2ex",
+      "publishedAt": "2026-11-03T10:02:21.000Z",
+      "score": 14,
+      "author": "fdong26",
+      "excerpt": "使用 AI 生成界面有没有遇到过这种情况：功能布局都已经确定，界面效果又总是达不到自己想要的效果，让 AI “更美观一点”，它又会给你一套全新的风格，一直都达不到期望 最近正好碰到了这个问题，就分享几幅图来请大家讨论下。 这是我正在进行的开源抓包工具 Sniffy 中的根证书安装向导的界面，它的作用是让用户选择自己的设备，并按照页面提供的文字与截图进行操作。",
+      "section": "cn-tech",
+      "rankScore": 0.627721
+    },
+    {
+      "id": "d6b2bc13f3a8cb1d",
+      "title": "千亿美元押注AI连接，中国光通信迎来新考题",
+      "url": "https://www.36kr.com/p/4053976686056327",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-03T13:22:28.000Z",
+      "author": "科技旋涡",
+      "excerpt": "AI芯片越来越强，但装进数据中心之后，它们也可能把一部分时间花在等数据上。问题未必出在芯片本身，而在于它们之间的连接没有跟上。 11月2日，Marvell宣布拟以全股票方式收购光通信厂商Lumentum，交易对应的企业价值约1150亿美元。这个金额对应的是整家公司，当然不能简单理解成给芯片之间的网络“提速”的费用。但一家芯片公司为什么愿意通过如此大规模的交易，补强光通信能力，仍然值得追问。 过去谈AI基础设施，我们习惯看用了什么GPU、装了多少颗。这笔交易把另一个问题推到了台前：芯片买得多，究竟能不能把活干得更多？沿着这个问题往下看，中国光通信企业面对的机会和变化，也会清楚一些。",
+      "section": "cn-tech",
+      "rankScore": 0.473485
+    },
+    {
+      "id": "f9c2aa42f2babaae",
+      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-03T18:46:38.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys.",
+      "section": "security",
+      "rankScore": 0.68046
+    },
+    {
+      "id": "eb7fd18ef5e35a03",
+      "title": "Subnet Solutions PowerSYSTEM Center",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources.",
+      "section": "security",
+      "rankScore": 0.486825
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
