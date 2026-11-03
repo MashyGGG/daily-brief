@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-03",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-03T17:00:22.795Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 9,
+  "items": [
+    {
+      "id": "40e8237cd0a5c5ef",
+      "title": "西部国际AI漫剧产业园·抖音AI创作公开课启动，来自抖音的多位专家先后送上“知识大餐”",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VY2xzbkNGWHZzOEMzMUJBTnVHcFVyTm9lWmwwRXpQeDJBbm9YdkppNGpraVJFRFRlSmN4OWxkUjY2MlZSRXlFbHdjUGlwaTNSZ2NKYjBHRkw2RWZGSGFEdFg4VQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-03T15:29:29.000Z",
+      "excerpt": "西部国际AI漫剧产业园·抖音AI创作公开课启动，来自抖音的多位专家先后送上“知识大餐” 四川新闻",
+      "section": "drama-news",
+      "rankScore": 0.687375,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "1372c58b87a3a920",
+      "title": "编剧汪海林揭AI短剧现状：“某大爆短剧制作方挣了不到8000块”",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OWHhvQTlYTDd3bWltVjVYdWtTblYwNFQzaHkwVkVaU1JRb3EyeXZDOWFSVmpXdG12bG1RRjN3WGtKSUhJcHdjNjB6VkJ0bmlvRE00bWszenA3cy1mQk05X0N0akdzdnlYV2JObA?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-03T13:12:00.000Z",
+      "excerpt": "编剧汪海林揭AI短剧现状：“某大爆短剧制作方挣了不到8000块” 腾讯新闻",
+      "section": "drama-news",
+      "rankScore": 0.668281,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "1a263af7621211a9",
+      "title": "逆市飘红！这家AI出海龙头前三季扭亏，AI短剧单月流水近1亿美元| 机构调研",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KTjBnSDNCNkYxZ0hlVDFhTmZheHBsWlBfX2VjUkZud1VIMEJWZWdhWEZYREJCNFJwczZ2WlA1Y2xYdHBMSGZaaDlyNUJOWGI1Y09BZnU2UEpPSzhDNnJJX0ZB?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-03T09:44:47.000Z",
+      "excerpt": "逆市飘红！这家AI出海龙头前三季扭亏，AI短剧单月流水近1亿美元| 机构调研 证券之星",
+      "section": "drama-news",
+      "rankScore": 0.6395,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "7fe9a4b302be3bc6",
+      "title": "AI短剧“二八效应”浮现：成本降到十分之一，谁在赚钱？ - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdlZuX3ZzSGhWSklaWFVyNTZIcGpyTU01Qkp5QVJvS0Jsd3ExcEV3SXkwazdLdzNGd2d4VXItRFBIazNfZ0ZCNlBTMUM1OTY1TXNzTEFLeWlRRGN1QXNacGpWMDNYMmNDWWFQMUhRU0g0TEtqNUVSSllMU0s3ejBxRnllaFVzOG5oZFVMTmxVTQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-03T07:41:00.000Z",
+      "excerpt": "AI短剧“二八效应”浮现：成本降到十分之一，谁在赚钱？ 21财经",
+      "section": "drama-news",
+      "rankScore": 0.622308,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "557beb6dbc249202",
+      "title": "淘宝短剧xWan3.0，温碧霞授权形象亮相AI短剧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QRERXLUozRThZVnI4LTJieTFTZ1B5RGp4ZGMzRTNRcDk1NDVaY1FvR013WExiUVRHd3djUGkxZ08yZTltNExwekppUzVPX3dnOE5mX1JkSE8yOTdjbDBjUzkyN0lpcjN3?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-03T06:16:00.000Z",
+      "excerpt": "淘宝短剧xWan3.0，温碧霞授权形象亮相AI短剧 紫牛新闻",
+      "section": "drama-news",
+      "rankScore": 0.610503,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "6ea240c01e77f9f3",
+      "title": "国产AI漫剧出海爆火！短剧概念延续强势，掌阅科技、电魂网络涨停，芒果超媒涨超5%",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95R0JYdFlaU1ltdzdrY216TzhHRXVac1FMTjhRU2NEZ1V1LU1pWWpKTXVaOEFSODRqbmhoU0RoX04yQlFOT19xLXlzM19odmpDY3NIV2FQMnhkUTRBdVVfQzBiN3lzUkJpSlVmTE5DME9Ldw?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-03T01:56:38.000Z",
+      "excerpt": "国产AI漫剧出海爆火！短剧概念延续强势，掌阅科技、电魂网络涨停，芒果超媒涨超5% 金融界",
+      "section": "drama-news",
+      "rankScore": 0.57448,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "18e96fbc3899a038",
+      "title": "【今日投资机会】政策预期点燃修复行情，AI漫剧掀涨停潮",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfR1BoN01lTUkwT09nR0V2WEFjWnRkMm5aUm1CYktPTC1BdmpOU3kxeWVKUGRMNjU3N1VyREJNQlVLYnh3aHZ6dEpBdl80T2ZUbU12T3MybWZkY1ZDTHRveDI3aWp1UQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-03T01:45:08.000Z",
+      "excerpt": "【今日投资机会】政策预期点燃修复行情，AI漫剧掀涨停潮 东方财富",
+      "section": "drama-news",
+      "rankScore": 0.572882,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "ae2503c1d231f643",
+      "title": "昆仑万维：同等体量AI短剧成本可控制在2万美元以内",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00RHFaeU10d1ZRT0JHZ0tDT2RFUnAydkpXVUFUV29wLVZuLTByd0xYZnlLT1p6ZlhDV1J3SDRUc0JCUHoyMWZuV3VYR182TWplWXBaMkQ0WlV4enJDbHVjSWFn?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-03T01:09:28.000Z",
+      "excerpt": "昆仑万维：同等体量AI短剧成本可控制在2万美元以内 观点网",
+      "section": "drama-news",
+      "rankScore": 0.567929,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "df5528a6da7acf86",
+      "title": "Idris Elba, Google Launch $1m AI Filmmaking Programme for African Creatives - Brand Icon Image",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUDNyZ1BfcjRRdXJRbGhrTzdMS2pkLXBRSzRrZjZIclZSM3FLV0VPbmdDalRKLWRYQWFKNnJnNk53UXNMbzEyY1NKVEVvZHh6a1hPcFZFdGlvMGMyV2VYSk16ay0xWnlfOWJESHd1VksyNFFJV1BrRkswNThZbDA?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-02T19:25:00.000Z",
+      "excerpt": "Idris Elba, Google Launch $1m AI Filmmaking Programme for African Creatives Brand Icon Image",
+      "section": "drama-news",
+      "rankScore": 0.520086,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 国内外资讯与案例：本期 9/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 0/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "从短镜头拼成完整故事",
+      "url": "https://help.runwayml.com/hc/en-us/articles/26871350018835-How-to-create-longer-videos-and-films",
+      "task": "拆解一条喜欢的 30–60 秒作品，记录开头、变化、结尾和每镜时长。",
+      "doneWhen": "有一张至少 6 镜头的拆解表。"
+    }
+  }
+}
