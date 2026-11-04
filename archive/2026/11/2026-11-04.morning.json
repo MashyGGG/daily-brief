@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-04",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-04T02:12:51.256Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "519ff7378b5ed8a6",
+      "title": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-04T02:12:51.256Z",
+      "score": 802,
+      "excerpt": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "fa8d1090376c91aa",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-03T17:40:00.000Z",
+      "score": 494,
+      "author": "theanonymousone",
+      "excerpt": "494 points · 154 comments · https://news.ycombinator.com/item?id=50355251",
+      "section": "tech",
+      "rankScore": 0.969049
+    },
+    {
+      "id": "68a355b080e8bcb4",
+      "title": "The valley of webhooks",
+      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-04T02:10:26.000Z",
+      "author": "weli.dev via pushcx",
+      "section": "tech",
+      "rankScore": 0.681844
+    },
+    {
+      "id": "95f1492bc3b2974d",
+      "title": "Dependabot version updates support Agent Package Manager",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-03T20:24:07.000Z",
+      "author": "Allison",
+      "excerpt": "You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported…",
+      "section": "tech",
+      "rankScore": 0.603128
+    },
+    {
+      "id": "b767ea6e16fa030d",
+      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "source": "verge",
+      "publishedAt": "2026-11-04T01:15:34.000Z",
+      "author": "Stevie Bonifield",
+      "excerpt": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion.",
+      "section": "tech",
+      "rankScore": 0.478861
+    },
+    {
+      "id": "e4148472195f056b",
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-03T22:39:37.000Z",
+      "author": "Jon Brodkin",
+      "excerpt": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+      "section": "tech",
+      "rankScore": 0.448537
+    },
+    {
+      "id": "9efce748bba5acca",
+      "title": "v2.1.318",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
+      "source": "anthropic",
+      "publishedAt": "2026-11-04T00:01:03.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added a record of your answer when Claude Code asks to turn on the mods it writes in a session Added assume_role on mantle upstreams of the Claude apps gateway, for a role in another AWS account and for per-developer AWS cost attribution Added an effort option to a mod's…",
+      "section": "ai",
+      "rankScore": 0.829235
+    },
+    {
+      "id": "51907d490a9378a1",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "huggingface",
+      "publishedAt": "2026-11-03T16:35:36.000Z",
+      "section": "ai",
+      "rankScore": 0.607108
+    },
+    {
+      "id": "1e0fc1c622c660f5",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "source": "openai",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "excerpt": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "section": "ai",
+      "rankScore": 0.495537
+    },
+    {
+      "id": "83af87818f52585c",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "openai",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "excerpt": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "section": "ai",
+      "rankScore": 0.495537
+    },
+    {
+      "id": "8b58cdd38fe994e1",
+      "title": "周末预约申请护照，周一周二就被户籍地阿 sir 要求必须要来线下真实",
+      "url": "https://www.v2ex.com/t/1254324",
+      "source": "v2ex",
+      "publishedAt": "2026-11-04T01:48:58.000Z",
+      "score": 21,
+      "author": "shilianmlxg",
+      "excerpt": "我的疑问 1. 我是 MJJ ，有 3xui 2. 之前确实在 bn C2C 买过 u,用于充值 claude gpt 3. 之前闲鱼买 A 股小作文群资料触发过阿 si'r 系统，要求在就近派出所登记了解情况 4. 我确实没办理我现在所在地的居住证 我是不是因为 3 的原因变成重点观察对象，还是说我户籍地是护照黑名单， 我以上 1 、2 会不会被口头警告或者是被拘留 我假如去报道，需要提前删除 tg x 等应用吗（苹果手机）",
+      "section": "cn-tech",
+      "rankScore": 0.864028
+    },
+    {
+      "id": "649d23f5202385c6",
+      "title": "物理AI在升温，还是在“退烧”？",
+      "url": "https://www.36kr.com/p/4054775780889729",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-04T01:53:02.000Z",
+      "author": "36氪的朋友们",
+      "excerpt": "从过去的“秀运动肌肉”到如今的“秀大脑”，在今年AI圈的大热词中，物理AI一定占据一席之地。纵观今年的机器人展会，“世界模型”“一脑多形”“眼脑手”等围绕“大脑”的概念，已被各大企业作为核心卖点推向台前。 在10月份的世界物理AI大会上，宇树科技创始人王兴兴表示，随着GPT-6的发布，目前物理AI已经看到被击穿的苗头，很可能在最近1—2年或2—3年内迎来关键突破。当前，具身智能迈过ChatGPT时刻的最核心挑战，是AI模型的输入输出与真实机器人的对齐。 当“能不能部署”“能不能干活”成为行业关注的重点，围绕“物理AI”的相关概念承载了非常多的行业期待，世界模型就是其中之一。",
+      "section": "cn-tech",
+      "rankScore": 0.625045
+    },
+    {
+      "id": "078c01a2167bdac4",
+      "title": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+      "url": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-03T21:26:32.000Z",
+      "author": "蔡芳芳",
+      "section": "cn-tech",
+      "rankScore": 0.620466
+    },
+    {
+      "id": "78b77e3eb810def8",
+      "title": "Google 将对拒绝 AI 的美国学校关闭搜索",
+      "url": "https://www.solidot.org/story?sid=85787",
+      "source": "solidot",
+      "publishedAt": "2026-11-03T16:33:42.000Z",
+      "excerpt": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phillips 表示，搜索与 AI 已深度融合，如果学校禁用了 AI，那么学生将无法使用搜索。美国 K-12 学校广泛使用 Google 的软件，包括 Gmail、Docs 以及作业平台 Classroom。Google 的 Chromebook 是美国学校最广泛使用的笔记本电脑。",
+      "section": "cn-tech",
+      "rankScore": 0.593036
+    },
+    {
+      "id": "90268a491078a439",
+      "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+      "url": "https://sspai.com/post/118402",
+      "source": "sspai",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。",
+      "section": "cn-tech",
+      "rankScore": 0.530477
+    },
+    {
+      "id": "c773b8199fb2b73d",
+      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-03T18:16:19.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.",
+      "section": "security",
+      "rankScore": 0.567628
+    },
+    {
+      "id": "cb63178383ecfbc2",
+      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-03T16:55:58.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack…",
+      "section": "security",
+      "rankScore": 0.545309
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
