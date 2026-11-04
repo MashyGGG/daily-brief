@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-04",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-04T17:12:57.706Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 7,
+  "items": [
+    {
+      "id": "079782496a4bfa04",
+      "title": "作家陆琪直言AI短剧爆火本质 人类的娱乐需求从未改变，变的只是平台载体与交互方式。（潮新闻记者 王晓洁 翁柔 编辑 张安阳 剪辑 张依靖 ）#乌镇网事 #2026世界互联网大会乌镇峰会 #人工智能嘉年华 #乌镇峰会开源大V说",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZTBpeHZhb2diczFGU2JMaTg3dzU3QUJQX1pQMWdzbXhCN05NdGtPdXJPaml1RUp0aWpUVS1xc2Q2MGdES21JM0VsSFJSTFhtbVM0Y3JYY2xCSkhGU0lIZnVQSi13bHl6RlRFcUtMdnU3YjF3X3E2MzBzQlZLaVVFRkFvdzVjdFhwMWRKSQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-04T08:07:36.000Z",
+      "excerpt": "作家陆琪直言AI短剧爆火本质 人类的娱乐需求从未改变，变的只是平台载体与交互方式。（潮新闻记者 王晓洁 翁柔 编辑 张安阳 剪辑 张依靖 ）#乌镇网事 #2026世界互联网大会乌镇峰会 #人工智能嘉年华 #乌镇峰会开源大V说 搜狐网",
+      "section": "drama-news",
+      "rankScore": 0.624255,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "3d1ba4811c3181fa",
+      "title": "第五届琶洲算法大赛 AI短剧《声音的孤岛》发布",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0RlBaRExVWWhJQUJyOUVFQjJQZVEyZ29JbFlnNzA3MWgxeTdJNU1wdFNWZFZnYkt3dXRKb3lxTjRTVmQwajEzQzdIU3FIbEpYVm4xVFJXSnU3RG5fNnVfUWdvYjc3dWlva2FfMHhRcVB4SzR0?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-03T09:09:47.000Z",
+      "excerpt": "第五届琶洲算法大赛 AI短剧《声音的孤岛》发布 新华网广东",
+      "section": "drama-news",
+      "rankScore": 0.432892,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "f30d1ac88999b9e7",
+      "title": "短剧争夺的不仅是流量，更是这条198 亿融资背后的分发链路|可灵AI|字节|快手|腾讯|红果|AI 短剧_新浪新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XZnpvckctbnpKZE55ZVI0NVc0WjB3V09UTURuclUzRnYxMmFIbHcxNnl3RkNuQ1E2clNfLUVCbEFnVk5qVldpNWJYTFl3UnN6OUoyRUw5NVJ5M2lreUI4RkFUcw?oc=5",
+      "source": "drama-cn-models",
+      "publishedAt": "2026-11-04T08:19:00.000Z",
+      "excerpt": "短剧争夺的不仅是流量，更是这条198 亿融资背后的分发链路|可灵AI|字节|快手|腾讯|红果|AI 短剧_新浪新闻 新浪网",
+      "section": "drama-news",
+      "rankScore": 0.40679535000000006,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "077d9ff8754c67c5",
+      "title": "AI漫剧概念大火，芒果超媒股价大涨，市值超560亿元！知名编剧：大多数制作方是赔钱的",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IZkZQem5YSVZMblJpdV9SSlNfc3c2NW9IaldueUk2ZzNIekhnV0pueGstQmlHWmhUVk5ISFlQUWdDWHdGdU5ZWjNKLWN0R3FiSlF0RnAyM1BsN2ZvdDBpRXVTTQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-03T23:36:19.000Z",
+      "excerpt": "AI漫剧概念大火，芒果超媒股价大涨，市值超560亿元！知名编剧：大多数制作方是赔钱的 东方财富",
+      "section": "drama-news",
+      "rankScore": 0.3596086,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "3c09b19bc676f54a",
+      "title": "v1.6.0",
+      "url": "https://github.com/Lightricks/LTX-2/releases/tag/v1.6.0",
+      "source": "drama-ltx",
+      "publishedAt": "2026-11-04T08:44:38.000Z",
+      "author": "lt-research-bot",
+      "excerpt": "Fixed STG no longer applies per-head attention gates to the value projection used to bypass attention. This applies to both fully perturbed and mixed batches for video and audio.",
+      "section": "drama-tools",
+      "rankScore": 0.9000407,
+      "editorial": {
+        "kind": "release",
+        "evidence": "excerpt",
+        "reason": "来自已配置的官方技术来源。",
+        "action": "核对版本、使用条件和授权，再判断是否用于当前练习。"
+      }
+    },
+    {
+      "id": "1ed583a2fb3e8ba0",
+      "title": "v0.44.0",
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.0",
+      "source": "drama-comfyui",
+      "publishedAt": "2026-11-04T01:12:27.000Z",
+      "author": "github-actions[bot]",
+      "excerpt": "What's Changed [Partner Nodes] feat(Patina): add Patina texture nodes by @bigcat88 in #17384 [Partner Nodes] feat(VEED): add VEED Dubbing node by @bigcat88 in #17388 Update workflow templates to v0.11.98 by @comfyui-wiki in #17391 Switch pylint py version to 3.12 by @comfyanonymous in #17398…",
+      "section": "drama-tools",
+      "rankScore": 0.8102315,
+      "editorial": {
+        "kind": "release",
+        "evidence": "excerpt",
+        "reason": "来自已配置的官方技术来源。",
+        "action": "核对版本、使用条件和授权，再判断是否用于当前练习。"
+      }
+    },
+    {
+      "id": "5b0d0868d36091be",
+      "title": "11月3日电商早报：阿里千问接入苹果智能；快手可灵AI增资约198亿",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4Qld3Ry1fUVg2YkRDbDVKZzZUYTFmeWtieVowY2xlTGZWMi05VzJGazFJbTRjM3l5WGdMdlFUQ0syQmhPaUZpcW56Z2FLdld2U0Q1QU9B?oc=5",
+      "source": "drama-cn-models",
+      "publishedAt": "2026-11-02T22:32:34.000Z",
+      "excerpt": "11月3日电商早报：阿里千问接入苹果智能；快手可灵AI增资约198亿 亿邦动力网",
+      "section": "drama-tools",
+      "rankScore": 0.34439,
+      "editorial": {
+        "kind": "release",
+        "evidence": "excerpt",
+        "reason": "包含更新说明或测试依据。",
+        "action": "核对版本、使用条件和授权，再判断是否用于当前练习。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 国内外资讯与案例：本期 4/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 3/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "分镜先于精细画面",
+      "url": "https://runway.com/resources/ai-storyboard",
+      "task": "写一个原创小故事，用粗图排出 6 个分镜。",
+      "doneWhen": "不依赖旁人解释也能顺序看懂故事。"
+    }
+  }
+}
