@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-04",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-04T19:42:46.727Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "c2c65faa3c35c1ab",
+      "title": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-04T19:42:46.727Z",
+      "score": 2053,
+      "excerpt": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "section": "tech",
+      "rankScore": 1.167273
+    },
+    {
+      "id": "6925b3f6dc5355c0",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "hn-front",
+      "publishedAt": "2026-11-04T11:52:17.000Z",
+      "score": 833,
+      "author": "pseudolus",
+      "excerpt": "833 points · 504 comments · https://news.ycombinator.com/item?id=50364336",
+      "section": "tech",
+      "rankScore": 0.905431
+    },
+    {
+      "id": "da072e4715c91457",
+      "title": "Burnt TOAST",
+      "url": "https://www.pgedge.com/blog/burnt-toast",
+      "source": "lobsters",
+      "publishedAt": "2026-11-04T18:00:32.000Z",
+      "author": "pgedge.com via fanf",
+      "section": "tech",
+      "rankScore": 0.635029
+    },
+    {
+      "id": "5af541a53edd2cf9",
+      "title": "Inkitt Builds a One-Shot PR Creator with Resumable Agent Orchestration",
+      "url": "https://www.infoq.com/news/2026/11/inkitt-one-shot-pr-creator-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-04T14:36:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Inkitt built a one-shot pull request creator that automates small, low-risk code changes from task intake to draft PR creation. Its event-driven orchestrator persists workflow state, coordinates short-lived coding agent containers, bounds retries, and enforces permission restrictions while…",
+      "section": "tech",
+      "rankScore": 0.595458
+    },
+    {
+      "id": "9cff814a7c387121",
+      "title": "Your .NET parallel loop can become serial in a one-CPU container",
+      "url": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-11-04T16:34:13.000Z",
+      "author": "Guilherme Appel",
+      "excerpt": "CPU-based defaults can leave an I/O-heavy loop processing one record at a time. Raising the limit helps, but each downstream service still needs a concurrency budget it can handle.",
+      "section": "tech",
+      "rankScore": 0.579698
+    },
+    {
+      "id": "e38c5e855ca5a0fd",
+      "title": "See the agents, set the terms: new visibility and control for personal agents",
+      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+      "source": "cloudflare",
+      "publishedAt": "2026-11-04T14:00:00.000Z",
+      "excerpt": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
+      "section": "tech",
+      "rankScore": 0.483095
+    },
+    {
+      "id": "e088d360abd2ec7a",
+      "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-04T19:17:30.000Z",
+      "author": "swyx .ai",
+      "excerpt": "November 3, 2026 — A quiet day lets us share some behind the senes.",
+      "section": "ai",
+      "rankScore": 0.756759
+    },
+    {
+      "id": "ab0fec69412fc965",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "huggingface",
+      "publishedAt": "2026-11-04T17:50:10.000Z",
+      "section": "ai",
+      "rankScore": 0.727172
+    },
+    {
+      "id": "a7da8ed2523d85a9",
+      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-04T15:26:02.000Z",
+      "excerpt": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+      "section": "ai",
+      "rankScore": 0.693288
+    },
+    {
+      "id": "8e88888af9227f59",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "openai",
+      "publishedAt": "2026-11-04T14:30:00.000Z",
+      "excerpt": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "section": "ai",
+      "rankScore": 0.688822
+    },
+    {
+      "id": "7b1d83e3f5ca1e2e",
+      "title": "AMD 营收预计将首次超过英特尔",
+      "url": "https://www.solidot.org/story?sid=85799",
+      "source": "solidot",
+      "publishedAt": "2026-11-04T17:20:06.000Z",
+      "excerpt": "AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿美元，其增长几乎停滞。相比下 AMD 预计下一季度营收将达到约 170 亿美元。如果达到这一目标，这将标志着 AMD 营收首次超过英特尔。",
+      "section": "cn-tech",
+      "rankScore": 0.695263
+    },
+    {
+      "id": "6da2604d5ba91b66",
+      "title": "我觉得 ai 时代对于普通人是利好啊，为啥如此多的人反感/不屑呢？",
+      "url": "https://www.v2ex.com/t/1254526",
+      "source": "v2ex",
+      "publishedAt": "2026-11-04T12:06:07.000Z",
+      "score": 31,
+      "author": "poro2023",
+      "excerpt": "最近逛论坛、看国外的一些文章，发现好多人（包括我常看的一些专栏作者）都对 ai 有不少负面情绪，或者对那种“vibe coding”挺反感的。他们的理由听起来也五花八门的，比如觉得 ai 剥夺了自己亲手敲代码的乐趣啦、担心 ai 巨头变成了垄断生产资料的地主啦、或者觉得人类的价值被贬值等等。 虽说我也能理解这些焦虑，但说实话，要是现在问我“愿不愿意回到没有 ai 的日子”，我绝对会说：打死都不回去，完全回不去了！因为跟现在一比，以前那日子简直就是地狱好吗？ 大家想想过去咱们过的是啥日子。就拿我自己来说吧，上大学那会儿，身边连个 ai 帮手都没有。",
+      "section": "cn-tech",
+      "rankScore": 0.674288
+    },
+    {
+      "id": "cf0afae1c49e405b",
+      "title": "Harbor 新增 Docker Sandboxes 支持，可在隔离的 MicroVM 中运行可重现的 AI 代理评估",
+      "url": "https://www.infoq.cn/article/pgmES06L2MAH2TCSMhJ9?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-04T17:00:00.000Z",
+      "author": "作者：Claudio Masolo",
+      "section": "cn-tech",
+      "rankScore": 0.622486
+    },
+    {
+      "id": "f50bdebe431b7683",
+      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+      "url": "https://sspai.com/post/117713",
+      "source": "sspai",
+      "publishedAt": "2026-11-04T12:25:55.000Z",
+      "author": "Tw93",
+      "excerpt": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。",
+      "section": "cn-tech",
+      "rankScore": 0.393576
+    },
+    {
+      "id": "36eeb9f2bcc53863",
+      "title": "《你的AI 为什么总在你没批准的时候动手？》一次批准，不该等于整场会话的写权限。本文从三个故障出发，拆解7 态状态机",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pUFZrMks1UE13RFMyd0hZdWhkaElvek85c1pyYjhVVVVrckhZTjRXd0lJUHNKS0NGZUlwU0Z0bWZIMkppYzdoRmZaUkxqMnItbkNNSA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-04T13:05:16.000Z",
+      "excerpt": "《你的AI 为什么总在你没批准的时候动手？》一次批准，不该等于整场会话的写权限。本文从三个故障出发，拆解7 态状态机 掘金",
+      "section": "cn-tech",
+      "rankScore": 0.357496
+    },
+    {
+      "id": "e815a8e1a071fc3c",
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-04T17:00:46.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.",
+      "section": "security",
+      "rankScore": 0.622851
+    },
+    {
+      "id": "66937ae17e094509",
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-04T16:06:43.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research.",
+      "section": "security",
+      "rankScore": 0.597113
+    }
+  ],
+  "warnings": [
+    "source \"cisa-advisories\" failed: Error: HTTP 403",
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
