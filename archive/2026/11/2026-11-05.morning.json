@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-05",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-05T02:19:04.414Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "5c9f3917238ba5a5",
+      "title": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-05T02:19:04.414Z",
+      "score": 1778,
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "6419d9b5f568ace6",
+      "title": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "source": "hn-front",
+      "publishedAt": "2026-11-04T20:45:18.000Z",
+      "score": 669,
+      "author": "Rasbora",
+      "excerpt": "669 points · 216 comments · https://news.ycombinator.com/item?id=50371246",
+      "section": "tech",
+      "rankScore": 1.074342
+    },
+    {
+      "id": "71d0c0b1c757c89b",
+      "title": "CodeQL 2.27.4 improves accuracy and query metadata",
+      "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-04T20:04:52.000Z",
+      "author": "Allison",
+      "excerpt": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.4 with query accuracy improvements across several…",
+      "section": "tech",
+      "rankScore": 0.596054
+    },
+    {
+      "id": "e57eeda2a5bfc6a6",
+      "title": "Python on my wrist",
+      "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+      "source": "lobsters",
+      "publishedAt": "2026-11-04T17:31:02.000Z",
+      "author": "tildeweb.nl via abnercoimbre",
+      "section": "tech",
+      "rankScore": 0.539489
+    },
+    {
+      "id": "3b3113f73bf222dd",
+      "title": "Amazon ECS Gateway Arrives with Generated Hostnames and No Custom Domain Support",
+      "url": "https://www.infoq.com/news/2026/11/introducing-amazon-ecs-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-04T09:49:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "AWS has released Amazon ECS Gateway, an account-level ingress resource letting platform teams define networking once and application teams opt services in with a connector.",
+      "section": "tech",
+      "rankScore": 0.456853
+    },
+    {
+      "id": "fe0e7b2d9531afbc",
+      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-04T22:47:51.000Z",
+      "author": "Kyle Orland",
+      "excerpt": "And what that could mean for physical Switch game costs.",
+      "section": "tech",
+      "rankScore": 0.448929
+    },
+    {
+      "id": "da96a5a4b5fdf017",
+      "title": "GPT-Image-2.6 Sunburst Image generation and editing for detailed visual work",
+      "url": "https://developers.openai.com/api/docs/models/gpt-image-2.6-sunburst",
+      "source": "openai",
+      "publishedAt": "2026-11-05T02:19:04.414Z",
+      "section": "ai",
+      "rankScore": 0.875
+    },
+    {
+      "id": "c8474fd0ac7978f5",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "openai",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "excerpt": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "section": "ai",
+      "rankScore": 0.493377
+    },
+    {
+      "id": "f60dc70ae75b948d",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "openai",
+      "publishedAt": "2026-11-04T07:00:00.000Z",
+      "excerpt": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "section": "ai",
+      "rankScore": 0.472544
+    },
+    {
+      "id": "036f14f75460f2ba",
+      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-05T02:19:04.414Z",
+      "excerpt": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "ac45ad5d4a6f6d04",
+      "title": "怎么判断一段文字是不是 AI 写的？",
+      "url": "https://www.v2ex.com/t/1254605",
+      "source": "v2ex",
+      "publishedAt": "2026-11-05T01:36:00.000Z",
+      "score": 21,
+      "author": "jedeft",
+      "excerpt": "我在知乎上用 AI 回答问题，被警告了。这是怎么判断出来的？ 您的账号被禁言 7 天 您的账号多次发布疑似 AI 辅助创作的内容，对社区秩序造成了不良影响，我们已对违规内容作出处理，您可以在您的内容列表中查看。现对您的账号禁言 7 天。禁言结束后，您的账号将恢复正常使用。社区提醒您，如后续仍有异常行为，您的账号可能被加重处罚。",
+      "section": "cn-tech",
+      "rankScore": 0.799232
+    },
+    {
+      "id": "7abac562fe0d95f3",
+      "title": "当 Agent 成为数据库新用户，腾讯云如何解决“未知”的难题？",
+      "url": "https://www.infoq.cn/article/TeOb9MgqfeLOoNdxtMH2?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-04T22:00:23.000Z",
+      "author": "凌敏",
+      "section": "cn-tech",
+      "rankScore": 0.628142
+    },
+    {
+      "id": "c20a7c554fb7e34c",
+      "title": "🔥🔥开源接口平台 v6.5.0 发布，升级 JDK 25",
+      "url": "https://www.oschina.net/news/503403",
+      "source": "oschina",
+      "publishedAt": "2026-11-05T02:02:49.000Z",
+      "excerpt": "ApiGo 是一款在线接口开发和管理平台，多数据库插件化数据源框架、SQL2API 。支持 WorkBuddy、千问办公、Trea Work、豆包等 AI 办公平台 MCP 接入。支持接入（mysql、oracle、达梦、TiDB、DolphinDB、Hive、DuckDB ）等 SQL 或 NoSQL 数据源，在线可视化编写 SQL 快速发布接口，支持接口上下线、接口管理、接口限流、权限...",
+      "section": "cn-tech",
+      "rankScore": 0.625936
+    },
+    {
+      "id": "4cdeb9115e3fe9a3",
+      "title": "中国人造出了那台“造AI的光刻机”吗？",
+      "url": "https://www.36kr.com/p/4055459689567879",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-05T00:59:25.000Z",
+      "author": "胡说成理",
+      "excerpt": "就在这两天，ForgeKernel，一个无人参与的Agent在无需参考 DeepSeek 原始实现的情况下，当着全网的面，把 DeepSeek 最新的核心算子写快了9.8%！ FlashMLA是 DeepSeek 开源的注意力核心算子库，10月20日刚开源的推理框架DeepInfer也把它集成在内；它出自业内公认Infra最强的团队之手，可以说是代表了人类手写算子的巅峰。 这在中美竞逐全球AI创新第一策源地的PK中，拿下了RSI领域极其重要的一分，尤其是它不是编程、不是跑评测、不是开发游戏，而是写最底层的算子时，它的意义被格外加强了——RSI的光亮，已经照到了中国AI创新的底层研发能力上。",
+      "section": "cn-tech",
+      "rankScore": 0.610086
+    },
+    {
+      "id": "f04153a4bedab3cc",
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-04T14:27:52.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker.",
+      "section": "security",
+      "rankScore": 0.502443
+    },
+    {
+      "id": "cb80d4fcfcdc66aa",
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-04T12:07:04.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick.",
+      "section": "security",
+      "rankScore": 0.463331
+    }
+  ],
+  "warnings": [
+    "source \"cisa-advisories\" failed: Error: HTTP 403",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
