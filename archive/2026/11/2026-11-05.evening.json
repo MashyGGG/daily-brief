@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-05",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-05T19:53:25.169Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "206068ac1347b054",
+      "title": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-05T19:53:25.169Z",
+      "score": 784,
+      "excerpt": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "8eb0b7b08d655cb8",
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-05T14:44:20.000Z",
+      "score": 419,
+      "author": "pantalaimon",
+      "excerpt": "419 points · 73 comments · https://news.ycombinator.com/item?id=50379704",
+      "section": "tech",
+      "rankScore": 0.955879
+    },
+    {
+      "id": "2ab54c1edab01a00",
+      "title": "The Hidden Work Behind Every Database Request",
+      "url": "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-05T16:31:07.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Read amplification, write amplification, and space amplification show the differences between logical work and physical cost.",
+      "section": "tech",
+      "rankScore": 0.664032
+    },
+    {
+      "id": "43a537c19a6dab14",
+      "title": "Scaling Slack and GitHub with Maude Lemaire",
+      "url": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-11-05T15:58:00.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Maude Lemaire shares lessons from scaling Slack and GitHub, improving performance at Cursor, and using AI while keeping engineering judgment in human hands.",
+      "section": "tech",
+      "rankScore": 0.646685
+    },
+    {
+      "id": "3479e7c691244c35",
+      "title": "SourceHut disabled registration bypass | CVE-2026-121728",
+      "url": "https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-05T18:34:41.000Z",
+      "author": "blog.arusekk.pl via mhm",
+      "section": "tech",
+      "rankScore": 0.645944
+    },
+    {
+      "id": "9468fe448e6e47f7",
+      "title": "The Data Product Platform Navigator",
+      "url": "https://martinfowler.com/articles/data-product-platform-nav.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-11-05T14:11:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Many organizations adopting data mesh and data products face a common challenge. They may be tasked with building a self-service platform for data products and data mesh from scratch, or they may have an existing platform that suffers from low adoption, preventing their data mesh from scaling.",
+      "section": "tech",
+      "rankScore": 0.644332
+    },
+    {
+      "id": "7d42a7ca644f54b0",
+      "title": "GPT-6-Cyber Investigate a vulnerability, reproduce it in an authorized test environment, or verify a fix.",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6-cyber",
+      "source": "openai",
+      "publishedAt": "2026-11-05T19:53:25.169Z",
+      "section": "ai",
+      "rankScore": 0.875
+    },
+    {
+      "id": "de96e7b269c59ad0",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "huggingface",
+      "publishedAt": "2026-11-05T19:35:16.000Z",
+      "section": "ai",
+      "rankScore": 0.777775
+    },
+    {
+      "id": "1255932eea8f0ac4",
+      "title": "Quoting Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-05T17:34:03.000Z",
+      "excerpt": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . — Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
+      "section": "ai",
+      "rankScore": 0.76036
+    },
+    {
+      "id": "f6dc3752fb6cd492",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "google-ai",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "author": "Anish Nangia",
+      "excerpt": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "section": "ai",
+      "rankScore": 0.617419
+    },
+    {
+      "id": "60d35c9578caf4a2",
+      "title": "从 LOOP 到图探索 —— 算法模型的 AutoResearch 自进化系统架构演进之路",
+      "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-05T19:53:25.169Z",
+      "excerpt": "本文分享这套系统的设计理念、架构演进与可信度设计，希望对大家有所帮助或启发。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "dc2f11dd8e1657be",
+      "title": "40+还能遇到爱情吗",
+      "url": "https://www.v2ex.com/t/1254811",
+      "source": "v2ex",
+      "publishedAt": "2026-11-05T12:54:07.000Z",
+      "score": 18,
+      "author": "yang0327519",
+      "excerpt": "是不是没戏了 内分泌组织表示荷尔蒙产能不足",
+      "section": "cn-tech",
+      "rankScore": 0.693299
+    },
+    {
+      "id": "c69ec366248cbdae",
+      "title": "模型之外，腾讯还在补什么？",
+      "url": "https://www.infoq.cn/article/UMlHzxNiS9tFfG9KadYs?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-05T19:13:00.000Z",
+      "author": "凌敏",
+      "section": "cn-tech",
+      "rankScore": 0.680753
+    },
+    {
+      "id": "c463ea75d9746515",
+      "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
+      "url": "https://www.solidot.org/story?sid=85809",
+      "source": "solidot",
+      "publishedAt": "2026-11-05T16:53:00.000Z",
+      "excerpt": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款用于入侵的工具，分别是 ARTEX、PentAGI、Cairn 和 CyberStrikeAI。ARTEX 此前曾被用于攻击韩国银行。印度计算机应急响应小组没有说明这些攻击事件由谁发动，也未透露该组织的运作地点。该机构也没有称这些攻击由国家支持或主导，且其点名的攻击工具均可在网络上免费获取。",
+      "section": "cn-tech",
+      "rankScore": 0.675495
+    },
+    {
+      "id": "44866c24772786f9",
+      "title": "把一个平台发布做成自动的，难点不在点击，而在它之前的三件事有没有确认。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04XzFYTEtXckplV25lYV8teEFlWnFUOG8tcHM2dWJoOU1mNW1MOXhzSFNrOUNSS2o3QWRQS1ItTzVUUFR4M3ZVdlNwQUtPcHNNSGVDTA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-05T18:07:11.000Z",
+      "excerpt": "把一个平台发布做成自动的，难点不在点击，而在它之前的三件事有没有确认。 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.454588
+    },
+    {
+      "id": "c845458cd6113bf6",
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-05T14:41:10.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out.",
+      "section": "security",
+      "rankScore": 0.551308
+    },
+    {
+      "id": "c582a562a3bc2f96",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-05T12:25:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue.",
+      "section": "security",
+      "rankScore": 0.486467
+    }
+  ],
+  "warnings": [
+    "source \"cisa-advisories\" failed: Error: HTTP 403",
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
