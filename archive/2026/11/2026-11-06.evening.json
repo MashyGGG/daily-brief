@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-06",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-06T19:19:15.228Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "34a3384aa6326a35",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-06T19:19:15.228Z",
+      "score": 2524,
+      "excerpt": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "section": "tech",
+      "rankScore": 1.167273
+    },
+    {
+      "id": "97406205e2c9bf89",
+      "title": "Agent Distraction",
+      "url": "https://developers.googleblog.com/agent-distraction/",
+      "source": "google-developers",
+      "publishedAt": "2026-11-06T19:19:15.228Z",
+      "excerpt": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "fe4620e03a9fa50e",
+      "title": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-06T15:44:36.000Z",
+      "score": 253,
+      "author": "cybersoyuz",
+      "excerpt": "253 points · 124 comments · https://news.ycombinator.com/item?id=50393758",
+      "section": "tech",
+      "rankScore": 0.782795
+    },
+    {
+      "id": "132d836793bfa106",
+      "title": "Nondeterminism in Futhark",
+      "url": "https://futhark-lang.org/blog/2026-11-04-nondeterminism.html",
+      "source": "lobsters",
+      "publishedAt": "2026-11-06T19:16:01.000Z",
+      "author": "futhark-lang.org via veqq",
+      "section": "tech",
+      "rankScore": 0.680997
+    },
+    {
+      "id": "60408d32b63e46b9",
+      "title": "RSS Club: CSS-Tricks Redesign Preview",
+      "url": "https://css-tricks.com/css-tricks-redesign-preview/",
+      "source": "css-tricks",
+      "publishedAt": "2026-11-06T18:52:59.000Z",
+      "author": "Geoff Graham",
+      "excerpt": "Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.",
+      "section": "tech",
+      "rankScore": 0.618741
+    },
+    {
+      "id": "55b54ad324642e5e",
+      "title": "Yelp Combines Native and Server-Driven UI for Its AI Assistant",
+      "url": "https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-06T14:25:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Yelp combines native mobile controls with server-driven conversation rendering in its AI Assistant using the CHAOS framework. The architecture separates view configuration from conversation data, supports backend-driven chat interactions, and enables faster UI updates without new app releases.",
+      "section": "tech",
+      "rankScore": 0.60187
+    },
+    {
+      "id": "9ebed600c4957576",
+      "title": "v2.1.319",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
+      "source": "anthropic",
+      "publishedAt": "2026-11-06T17:04:01.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Changed auto mode with telemetry or feature flags off, including behind LLM gateways: calls the server can't check are asked about or denied, with no fallback to the built-in classifier; set CLAUDE_CODE_AUTO_MODE_SERVER=0 to keep using it (Bedrock, Vertex and Foundry are unchanged)…",
+      "section": "ai",
+      "rankScore": 0.794502
+    },
+    {
+      "id": "a53502a32a3a0168",
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-06T15:10:53.000Z",
+      "author": "RJ Honicky",
+      "excerpt": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+      "section": "ai",
+      "rankScore": 0.639901
+    },
+    {
+      "id": "467de3631f7e4575",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "huggingface",
+      "publishedAt": "2026-11-06T14:00:48.000Z",
+      "section": "ai",
+      "rankScore": 0.6169
+    },
+    {
+      "id": "dec005232d9fbde5",
+      "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-06T10:35:21.000Z",
+      "author": "swyx .ai",
+      "excerpt": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
+      "section": "ai",
+      "rankScore": 0.495574
+    },
+    {
+      "id": "87442caad69040b2",
+      "title": "从 Linux 到维基百科：志愿者如何构建互联网",
+      "url": "https://www.solidot.org/story?sid=85820",
+      "source": "solidot",
+      "publishedAt": "2026-11-06T17:20:39.000Z",
+      "excerpt": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利性企业实现，即由这些企业在开放市场中销售商品或服务。企业雇用员工并支付报酬，而员工则通过合同承担义务，按照管理者分配的任务开展工作。员工劳动所创造的产品归公司所有，公司负责为产品定价、管理销售交易，支付员工薪酬以及分配经营过程中产生的利润。",
+      "section": "cn-tech",
+      "rankScore": 0.707874
+    },
+    {
+      "id": "f5f96d6e02227e3c",
+      "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "url": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-06T17:00:00.000Z",
+      "author": "作者： Daniel Curtis",
+      "section": "cn-tech",
+      "rankScore": 0.633689
+    },
+    {
+      "id": "ff24fa8a0b0d232e",
+      "title": "用的飞机节点都被送中了",
+      "url": "https://www.v2ex.com/t/1255000",
+      "source": "v2ex",
+      "publishedAt": "2026-11-06T06:52:07.000Z",
+      "score": 31,
+      "author": "ffalex",
+      "excerpt": "可能得益于部分用户长期开定位，买的机场反复切换节点登录 google ，提示的登录地点全是在国内，地点集中在浙、粤、桂。打开 play 商店设置，也有切换到国区的提示。 得考虑换个机场或者拼车了😰",
+      "section": "cn-tech",
+      "rankScore": 0.534798
+    },
+    {
+      "id": "74d2b6b7d2a01b29",
+      "title": "JS拖拽交互必用setPointerCapture方法",
+      "url": "https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/",
+      "source": "zhangxinxu",
+      "publishedAt": "2026-11-06T09:51:24.000Z",
+      "author": "张 鑫旭",
+      "excerpt": "之前自定义拖拽行为的时候，我都是将move行为绑定在document上的，最近才知道，原来还有个setPointerCapture方法，直接绑定在触发元素上，不必担心快速移动时候目标对象的丢失。",
+      "section": "cn-tech",
+      "rankScore": 0.515512
+    },
+    {
+      "id": "ed5c5f3792067903",
+      "title": "不如《牛来》，谁在期待AI电影？",
+      "url": "https://www.36kr.com/p/4058158924190592",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-06T13:31:44.000Z",
+      "author": "脑极体",
+      "excerpt": "上个月，国内第一部用AI制作并获得公映许可证的院线电影，上映了。 但反响不怎么积极。不仅预测票房未过百万，社交媒体上，一些观众吐槽片子的质量“还不如《牛来》”。 所以，我特意把电影的名字隐去，不希望再火上浇油。 毕竟作为AI进入电影行业的早期探索，实验性质更多一些。在当前的AI生成技术约束下，谁也不可能做到尽善尽美，再去放大和嘲讽那些短板没什么意义。 我们真正想讨论的是，现在AI电影领域出现了一个多少有些诡异的局面： 电影观众不期待AI，AI商业化不需要电影，但是从业者又纷纷在期待AI电影。 目前，AI最重要的商业化市场，根本不是院线电影。",
+      "section": "cn-tech",
+      "rankScore": 0.481063
+    },
+    {
+      "id": "a8bef79bc8ee0502",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-06T16:08:38.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.",
+      "section": "security",
+      "rankScore": 0.609228
+    },
+    {
+      "id": "ef56aabbfd417e15",
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-06T15:21:49.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.",
+      "section": "security",
+      "rankScore": 0.586935
+    }
+  ],
+  "warnings": [
+    "source \"juejin\" failed: Error: HTTP 503",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
