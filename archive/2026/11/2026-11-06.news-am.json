@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-06",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-06T02:46:48.455Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "dfc55865bf5cdca4",
+      "title": "從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-06T00:21:23.000Z",
+      "excerpt": "最近幾週，中國輿論場接連出現多宗被貼上「辱華」標籤的爭議事件：台灣藝人蔡康永、日本電視劇《VIVANT》以及法國球星姆巴佩。三宗事件看似性質相近，但官方反應與輿論熱度卻明顯不同，多位分析人士對BBC中文指出：這些差異背後是當局對於每個事件的定性並不相同。",
+      "section": "news",
+      "rankScore": 0.791525
+    },
+    {
+      "id": "096e9df9affc98e7",
+      "title": "众议院领导人要求黄仁勋出席简报会，说明与中国高管往来",
+      "url": "https://cn.nytimes.com/usa/20261106/house-republicans-nvidia-jensen-huang-china/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-06T01:51:53.000Z",
+      "author": "TRIPP MICKLE",
+      "excerpt": "三名共和党领导人要求黄仁勋自愿出席闭门简报会，说明他与一名中国高管的往来。此前时报报道，黄仁勋与该高管关系密切，此人被认定向中国情报机构输送信息。 Manuel Orbegozo for The New York Times 要求英伟达首席执行官黄仁勋出席简报会标志着共和党国会领导层态度的转变——此前他们对科技行业大多采取放任态度。",
+      "section": "news",
+      "rankScore": 0.753218
+    },
+    {
+      "id": "1d2ac457efa3dfc7",
+      "title": "加州州长宣布为548名死刑犯减刑",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261105-%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%AE%A3%E5%B8%83%E4%B8%BA548%E5%90%8D%E6%AD%BB%E5%88%91%E7%8A%AF%E5%87%8F%E5%88%91",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-05T23:17:51.000Z",
+      "author": "阿曼亭",
+      "excerpt": "加州州长加文·纽森（Gavin Newsom）周四在致加州民众的一封信中宣布，他将“把加州所有死刑判决减为终身监禁，不得假释”。",
+      "section": "news",
+      "rankScore": 0.641956
+    },
+    {
+      "id": "44e081bdc2265f6e",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-06T02:08:57.000Z",
+      "excerpt": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
+      "section": "news",
+      "rankScore": 0.620536
+    },
+    {
+      "id": "3184adc98bff6d67",
+      "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-06T02:34:18.000Z",
+      "author": "Robert Mackey (now); Shrai Popat, Kirsty McEwen, Lucy Campbell, Taz Ali and Jonathan Yerushalmy (earlier)",
+      "excerpt": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night brought a series of…",
+      "section": "news",
+      "rankScore": 0.557221
+    },
+    {
+      "id": "17b45e982a59cd0d",
+      "title": "Gaza turns discarded cooking pots into seawalls",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-06T02:03:47.000Z",
+      "excerpt": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
+      "section": "news",
+      "rankScore": 0.550439
+    },
+    {
+      "id": "9c8e5547e0cdcd4d",
+      "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
+      "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-05T23:18:21.000Z",
+      "author": "Ephrat Livni, Johnatan Reiss and Aaron Boxerman",
+      "excerpt": "President Isaac Herzog wrapped up two days of talks with party leaders by saying he will ask one of them on Sunday to try to assemble a governing coalition.",
+      "section": "news",
+      "rankScore": 0.513676
+    },
+    {
+      "id": "193de6b1d9f649ce",
+      "title": "The Many Meanings of James Talarico’s Winning Cowboy Boots",
+      "url": "https://www.nytimes.com/2026/11/05/style/james-talarico-cowboy-boots-texas-senate-race.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-06T02:25:16.000Z",
+      "author": "Vanessa Friedman",
+      "excerpt": "Obviously, the Texas election was about more than shoes. But the symbolism mattered.",
+      "section": "news",
+      "rankScore": 0.485811
+    },
+    {
+      "id": "6f0c9f9d956c7574",
+      "title": "China’s tech megacity cleans up seedy underbelly for Apec summit",
+      "url": "https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-06T01:11:27.000Z",
+      "excerpt": "Shenzhen clears out illicit markets for smuggled chips and stolen iPhones as it prepares to host gathering of international leaders",
+      "section": "news",
+      "rankScore": 0.471458
+    },
+    {
+      "id": "fad45bc009b3ef10",
+      "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+      "source": "npr-news",
+      "publishedAt": "2026-11-06T00:16:53.000Z",
+      "author": "Rafael Nam",
+      "excerpt": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.",
+      "section": "news",
+      "rankScore": 0.460848
+    },
+    {
+      "id": "8fcd915d8b330362",
+      "title": "日本学者：日本应坚守“无核三原则”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10dGhvY2R0MERoeGdNZ0drTWF0R2N0TGt6LWNXekVwaUtvMG9HQWpxU0hhb2Q2MlZSVXcxOC1UWjJVMmhYcG9EUGlXVFJSQ3EzUXMxYndaZ3lEZE44cTBJdmZoTFJBMW9u?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-06T02:33:01.000Z",
+      "excerpt": "日本学者：日本应坚守“无核三原则” 中国新闻网 日媒：日本或允许紧急情况下运进核武器 新浪财经 美专家鼓动日本快买核潜艇：能制衡中国 美国煽风点火 中华网 日防卫大臣再次呼吁讨论调整“无核三原则” 新华网 详讯：日政府讨论在安保战略中写明无核三原则例外情况 共同网",
+      "section": "news",
+      "rankScore": 0.417702
+    },
+    {
+      "id": "8adb1fa90345e31c",
+      "title": "联合国阿卜耶伊安全部队继续发挥稳定作用 无人机袭击凸显地区安全风险",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143137",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "excerpt": "联合国负责维和事务的副秘书长拉克鲁瓦和秘书长非洲之角问题特使丛光周四在安理会通报阿卜耶伊局势时指出，尽管阿卜耶伊整体安全形势有所改善，苏丹冲突外溢、武装势力活动和治理问题仍使当地局势面临严峻挑战。联合国阿卜耶伊临时安全部队继续发挥重要稳定作用。",
+      "section": "news",
+      "rankScore": 0.408298
+    },
+    {
+      "id": "be817d18d7bdeb04",
+      "title": "最高检发布检察机关办理刑事立案监督案件典型案例",
+      "url": "https://www.chinanews.com.cn/fz/2026/11-06/10727074.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-06T02:26:02.000Z",
+      "excerpt": "中新网11月6日电 据最高人民检察院网站消息，近日，最高人民检察院发布一批检察机关办理刑事立案监督案件典型案例，集中展现检察机关持续强化法律监督，落实刑事立案监督制度的实践成果。",
+      "section": "cn-news",
+      "rankScore": 0.833075
+    },
+    {
+      "id": "8f3a2417c1fe0dce",
+      "title": "《世界开放报告2026》发布，这些看点值得关注",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727104.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-06T02:39:33.000Z",
+      "excerpt": "第九届进博会｜《世界开放报告2026》发布，这些看点值得关注",
+      "section": "cn-news",
+      "rankScore": 0.767782
+    },
+    {
+      "id": "19f4706bba49b136",
+      "title": "AI交易松动，红利股再现“跷跷板”效应，中石油、中海油涨超1%，港股通红利ETF汇添富(513820)指数股息率超6%！11月：优选红利底仓？",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tajRsYjdYVV90b3JYbVBKUHlHang1aVhYYUJmTDBQYWJVdFRYS1ROMVQyWGdZNF9LbzZYdEJwbWN4LVJLZEc4eU5KWDVNTVBQU1RRRlkxS0k?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-06T02:40:03.000Z",
+      "excerpt": "AI交易松动，红利股再现“跷跷板”效应，中石油、中海油涨超1%，港股通红利ETF汇添富(513820)指数股息率超6%！11月：优选红利底仓？ Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.628311
+    },
+    {
+      "id": "23a61a03fc80370f",
+      "title": "进博手记｜在全球创新中看见中国印记",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727092.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-06T02:30:04.000Z",
+      "excerpt": "新华社上海11月5日电(记者宿亮#8195;曹筱凡#8195;周蕊)全球品牌的创新灵感，正在从中国消费者的日常生活中生长出来。",
+      "section": "cn-news",
+      "rankScore": 0.625815
+    },
+    {
+      "id": "73d018094096221e",
+      "title": "中外代表共话人工智能时代的全球传播治理合作",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xTXZIVHRLekJxY2dIeXo3bHVjUGJIb2RYWXNPdXB1aVE5c1ZoYl9IcWlHNk1FZlJPbnRmSFN2V29JUWs0VHRBTkp4eXdKN0pyeHFpV3kwOERELUNOeVQxLTJ4ZXh0LVNJWFlhQzMycnhoRlNEbDMzeUp5ZVM?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-06T01:53:44.000Z",
+      "excerpt": "中外代表共话人工智能时代的全球传播治理合作 求是",
+      "section": "cn-news",
+      "rankScore": 0.548206
+    },
+    {
+      "id": "c14bcb344eb2a1ba",
+      "title": "进博会北京展区亮相，“运河上的通州”向全球客商发出邀约",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15UG1VWDJCSndCZS1BM0tOTGdXdU92ZTkwd3ZNNnRWTHc5b2YzQXVVVmVuM1VSSG42R19lRzd4ZXUzT0NLNURVQnhuOVViSk9IeGFQZEhlaUZleVltZnI0UVNlR2I?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-06T02:19:00.000Z",
+      "excerpt": "进博会北京展区亮相，“运河上的通州”向全球客商发出邀约 新京报 从大运河千年文脉到新质生产力的“硬核”实力 “北京面孔”进博会探寻全球商机 北京市人民政府门户网站 进博手记｜在全球创新中看见中国印记 光明网 新时代，共享未来！进博会开幕 新浪网 进博会上的川企：不“预设”客户，现场满是商机 人民网－四川频道",
+      "section": "cn-news",
+      "rankScore": 0.484593
+    },
+    {
+      "id": "f0cf3e24a7089b5f",
+      "title": "Chances are, US-China truce will be extended at Shenzhen Apec summit",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3373140/chances-are-us-china-truce-will-be-extended-shenzhen-apec-summit",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-06T01:30:06.000Z",
+      "author": "Vasilis Trigkas",
+      "excerpt": "At their October meeting in South Korea last year, US President Donald Trump and Chinese President Xi Jinping, recognising mutual vulnerability to export restrictions, agreed to suspend some of the most draconian measures they had imposed on each other: US port fees on Chinese-built vessels and…",
+      "section": "cn-news",
+      "rankScore": 0.475085
+    },
+    {
+      "id": "0b98a15bf0df837e",
+      "title": "预警 | 中央气象台：北京、河北等地有中到大雪或雨夹雪！",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13MmRaYTBPR1JGdU1UQVQtai1IX2hBazBGWTk3dXU1UlpvV0g3LUZHOWNDZnl1M0wwVVItZXVLMlJLLUxqUmpQUzY1dXlPdEZEYlZ2TFdZV2RqQmkzZDd0RQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-05T15:41:44.000Z",
+      "excerpt": "预警 | 中央气象台：北京、河北等地有中到大雪或雨夹雪！",
+      "section": "cn-news",
+      "rankScore": 0.463731
+    },
+    {
+      "id": "13106331e771b13a",
+      "title": "纪录片论坛上的山东叙事——直击2026中国广播电视精品创作大会",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBucTZjVDUzYVlUUUVpeFFDVGU3MVB2dzJtRG9sRjlMYnBySXd5QlRSdkZVT2ZRMXYtQklQTmxjb3d1azdiVUw0bFRpR2pNQnFCNDFNNndFaTFJandWVDRZSllOa3doRjZyMllUR29vclNHeTVH?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-06T01:47:11.000Z",
+      "excerpt": "纪录片论坛上的山东叙事——直击2026中国广播电视精品创作大会 齐鲁网 精品引领 创新驱动——2026中国广播电视精品创作大会动画论坛在京举办 光明网 汽车 本地生活 旅游 数码 娱乐 影视 新浪网 2026中国广播电视精品创作大会开幕 北京市人民政府门户网站 我国广电视听形成“两个10亿”超大规模市场格局 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.410063
+    },
+    {
+      "id": "46ae37663f695043",
+      "title": "黃之鋒遭重判10年 歐盟：政治判決令人遺憾",
+      "url": "https://www.cna.com.tw/news/acn/202611050350.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-05T14:36:54.000Z",
+      "excerpt": "（中央社記者吳柏緯布魯塞爾5日專電）香港民主派人士黃之鋒被控違反香港國安法，遭重判10年。歐盟發表聲明指出，對於這項具有政治動機的判決深感遺憾，並稱這起案件顯示香港法治狀況持續惡化。",
+      "section": "cn-news",
+      "rankScore": 0.397798
+    },
+    {
+      "id": "28904892c5af072c",
+      "title": "周末出行请注意！今夜起我国将有一轮大范围雨雪天气",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727079.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-06T02:23:58.000Z",
+      "excerpt": "这两天网上都在热议“立冬雪”，很多网友都在关心，周六，包括北京在内，华北多地会迎来明显的雨雪天气，立冬下雪是否常见呢？",
+      "section": "cn-life",
+      "rankScore": 0.832386
+    },
+    {
+      "id": "2940f5eb5db8150f",
+      "title": "立冬后，建议多吃这些食物，好处不只一个！",
+      "url": "https://www.chinanews.com.cn/life/2026/11-06/10727055.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-06T01:58:45.000Z",
+      "excerpt": "“北风潜入悄无声，未品浓秋已立冬。”作为“四时八节”的重要节点，立冬不只是秋冬更迭的分界，更承载着古人“秋收冬藏、顺时养生”的生活智慧。",
+      "section": "cn-life",
+      "rankScore": 0.686651
+    },
+    {
+      "id": "58f545a6d9abf06b",
+      "title": "走进政协｜感悟政协初心服务民生群众——市政协人资环委开展“走进政协”系列活动_要闻简讯",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42cnEwUVBFUXdtNV84OU5iWHJlbExkUW9vT0ZBZHl3U2IyYnRnTjFHSVV6TnpjLUxDeG9jSmxTLUhZdHhTdzMwUF80bHNGYm1hcTJZVEZabVRsbzQzbFlrajNfU29FdVFtLVhmcWRuUkcxNF9a?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-06T02:32:09.000Z",
+      "excerpt": "走进政协｜感悟政协初心服务民生群众——市政协人资环委开展“走进政协”系列活动_要闻简讯 福州市政协",
+      "section": "cn-life",
+      "rankScore": 0.626336
+    },
+    {
+      "id": "cec733794473f4b3",
+      "title": "新疆和田突发地震",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekplVXR3cWlET2xWOXRWQUlWdlFBbkxfLTBwekJRTWJDWFc5TVl5VHF1OFBkN3pvcWtQS2VzS1FfM1ZUdUVEQTVWd3ZWOTZ0VWx2S0hfTnNpUmRkajNsdG4zcmlpMkpBdjg4aFVReF9pMXFKMVVsZ0gtNkUyMW85cGU4TUo0RG9M?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-06T02:17:13.000Z",
+      "excerpt": "新疆和田突发地震 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.622602
+    },
+    {
+      "id": "60c853bec9773b02",
+      "title": "巡察通告",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVhRMkNtblBrcmozU0Rxd3Axa2tGSEVTMjdtZmNoekZheUZOcDlwM00yeWFZTVJaWGsyMjlqcGxoZ2o5Zm0xTkxHQzZOM0l1QmI2ZWJ0TGp3bUxmaUhBTUlJWGpwT2lOcGRJOUVKbzlRUmhrQ2tvaUxsb0JEQnlGM2VrTS16VW0zNENxUlpqcUpRSHFmUWdGaDJINkpfQQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-06T02:22:22.000Z",
+      "excerpt": "巡察通告 北京市生态环境局",
+      "section": "cn-life",
+      "rankScore": 0.554569
+    },
+    {
+      "id": "ee77abbdc4aa56b1",
+      "title": "大众中国：警惕假冒官方名义虚假车辆召回短信",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlBfVEo0dUJsQllyekJiR2x1TlFPZTBqUUthQUJJQzBXQ3cwa2VqOXAxdldoZGxOQ0J4WWlQRXF4dmF1eHBJV3NNOVhUd04xcnduOTlPcXZFLWMxbGJqdkYtOHdzM3pwZGYzNEdyVVlWNmRhMHVjZGpvS19xa2RzSVNOdVd3NEQz?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-06T02:27:16.000Z",
+      "excerpt": "大众中国：警惕假冒官方名义虚假车辆召回短信 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.4862
+    },
+    {
+      "id": "0a66df31ee566cf5",
+      "title": "中山医院原院长提醒老年人不要总呆在家里 身脑同动延缓衰老",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSm1ONnBDWjY1Vk1tWERHZTRDcEpwOUNUbFY5VXhjUlY0MmlDU015aENGaVR5c3picFhrWDR0aUdWVVpsWUhrZnR3WUk1ZGh2TEFaWlp2cE5uOXpVUUdaUXZRNWIxNDE1UnpSN1RrUGk?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-06T01:37:41.000Z",
+      "excerpt": "中山医院原院长提醒老年人不要总呆在家里 身脑同动延缓衰老 中华网 88岁杨秉辉谈老年健康生活：岁月从容，健康可期 上海科技报 88岁还在“买汰烧”？上海中山医院老院长：大脑越用越不老，老年人这几类疫苗要重点关注 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.476559
+    },
+    {
+      "id": "e9ab4f004b2742e8",
+      "title": "“智慧教室”会侵犯学生隐私？全国教育辟谣平台发文谈误读套路",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NVXNqSTNkQk5PRzc5MkpHM0FLRy1WZlZlOTF1TTMxcFhRNVVwYVRjOGdMWEd1T0dXaklsWDUzWV92czd5bl80R05BU0FBTHg0OHJiVVpDbnYyVjcxN29FeUQ0RENnWGNuZ3c?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-06T02:25:52.000Z",
+      "excerpt": "“智慧教室”会侵犯学生隐私？全国教育辟谣平台发文谈误读套路 中国新闻网",
+      "section": "cn-life",
+      "rankScore": 0.41651
+    }
+  ],
+  "warnings": []
+}
