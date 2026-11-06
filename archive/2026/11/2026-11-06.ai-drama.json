@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-06",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-06T16:44:48.824Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 5,
+  "items": [
+    {
+      "id": "a6b0498c14125f74",
+      "title": "54岁大哥靠AI短剧还清负债，其主创作品《持械入宋》全网播放66亿，出品运营账号近30天涨粉37万",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSTFJJOEdSNm5IQllRczl1YjE0T25fV2VVa0Y5eGNRQXlNMXNlR3RiZHZaUW9fX2g4dGxqUExQdFRranIxMHRJSThIWGxtakJfLUUxaGt4NExFcTBIR196bQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-06T13:42:26.000Z",
+      "excerpt": "54岁大哥靠AI短剧还清负债，其主创作品《持械入宋》全网播放66亿，出品运营账号近30天涨粉37万 ThePaper.cn",
+      "section": "drama-news",
+      "rankScore": 0.674669,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "23c9e83e5578a2f8",
+      "title": "知乎COO谈AI短剧：当制作跑得更快，好故事才是核心解法",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OZG5zelF5REQxRjZLY2lId1pVR0VMeUVQNlBDdmFRSGVITFBxSDc5WXppTzNuWHNVTHNIUjU2cjA0Qjd3bGNtSl9uYUlYd1JW?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-06T12:25:00.000Z",
+      "excerpt": "知乎COO谈AI短剧：当制作跑得更快，好故事才是核心解法 富途牛牛",
+      "section": "drama-news",
+      "rankScore": 0.663915,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "b3e5788a14477793",
+      "title": "54 岁大叔带队手搓AI短剧网约车司机+货车司机+宝妈+打工人“草台班子” 做出66亿AI 短剧《持械入宋》商业回报约千万",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnNldramFJWFJLdzdmbHdDZ09NX0RaamhCb3VCNFc5N0ZYUnpSb0lVVngtMlpwbmQxaTllMTJsbkYwNnlDR2U5Mw?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-06T00:05:31.000Z",
+      "excerpt": "54 岁大叔带队手搓AI短剧网约车司机+货车司机+宝妈+打工人“草台班子” 做出66亿AI 短剧《持械入宋》商业回报约千万 凤凰网",
+      "section": "drama-news",
+      "rankScore": 0.36478584999999997,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "e08851597fdb9cbd",
+      "title": "4天3板引力传媒：截至10月末AI短剧业务收入占经审计2025年公司营收的比例不足0.1%",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CRnROMDctNlhScmhyZE1nTGszd3ZTbFdtNzJxeXJiLU96cDNwNmw4aUx6Qk5EX2RQZ3Btd0VfNXhuVkgxMXFNWDhuVkw1cWNXMzk5UnJOa2swVmJxNWVEbFl6Vmt4UQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-05T19:03:34.000Z",
+      "excerpt": "4天3板引力传媒：截至10月末AI短剧业务收入占经审计2025年公司营收的比例不足0.1% 东方财富",
+      "section": "drama-news",
+      "rankScore": 0.33752615,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "954d4710757fe122",
+      "title": "v0.44.1",
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.1",
+      "source": "drama-comfyui",
+      "publishedAt": "2026-11-06T03:26:00.000Z",
+      "author": "comfyanonymous",
+      "excerpt": "ComfyUI v0.44.1",
+      "section": "drama-tools",
+      "rankScore": 0.8423467,
+      "editorial": {
+        "kind": "release",
+        "evidence": "excerpt",
+        "reason": "来自已配置的官方技术来源。",
+        "action": "核对版本、使用条件和授权，再判断是否用于当前练习。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 国内外资讯与案例：本期 4/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 1/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "分镜先于精细画面",
+      "url": "https://runway.com/resources/ai-storyboard",
+      "task": "写一个原创小故事，用粗图排出 6 个分镜。",
+      "doneWhen": "不依赖旁人解释也能顺序看懂故事。"
+    }
+  }
+}
