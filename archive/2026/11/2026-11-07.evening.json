@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-07",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-07T17:43:38.367Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 12,
+  "items": [
+    {
+      "id": "31298215c8084750",
+      "title": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-07T17:43:38.367Z",
+      "score": 350,
+      "excerpt": "An extremely fast Python linter and code formatter, written in Rust.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "72c99fc01ed311b0",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-07T09:36:36.000Z",
+      "score": 509,
+      "author": "fluxusars",
+      "excerpt": "509 points · 160 comments · https://news.ycombinator.com/item?id=50403052",
+      "section": "tech",
+      "rankScore": 0.861692
+    },
+    {
+      "id": "9877abb15816ce39",
+      "title": "EP232: 6 Frequently Used Orchestration Frameworks in an AI system",
+      "url": "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-07T16:30:58.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Orchestration in an AI system manages tasks across agents, handles failures, shared memory and context.",
+      "section": "tech",
+      "rankScore": 0.731933
+    },
+    {
+      "id": "4184b0a2a517fb32",
+      "title": "Open-source firmwares for the M-VAVE FM-1, from their makers, in one place",
+      "url": "https://thefirmwarehub.com/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-07T15:52:28.000Z",
+      "author": "thefirmwarehub.com via m0t",
+      "section": "tech",
+      "rankScore": 0.630884
+    },
+    {
+      "id": "7442153bb5f34511",
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "source": "verge",
+      "publishedAt": "2026-11-07T17:00:00.000Z",
+      "author": "Sheena Vasani",
+      "excerpt": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat.",
+      "section": "tech",
+      "rankScore": 0.475454
+    },
+    {
+      "id": "7387fe923b0a7963",
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-07T12:15:55.000Z",
+      "author": "Katarina Zimmer, Knowable Magazine",
+      "excerpt": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "section": "tech",
+      "rankScore": 0.380759
+    },
+    {
+      "id": "a3052db78d8ff451",
+      "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
+      "url": "https://www.solidot.org/story?sid=85825",
+      "source": "solidot",
+      "publishedAt": "2026-11-07T16:17:09.000Z",
+      "excerpt": "ESA Hera 探测器拍下了 Didymos 双小行星系统的首张近距离照片。这个系统由两颗小行星组成，直径 780 米的 Didymos 是主星，直径 151 米的 Dimorphos 则绕着它运行。2022 年 9 月 26 日，NASA DART 探测器直接撞上较小的 Dimorphos，再测量它绕行主星 Didymos 的时间改变了多少。为了进一步了解这次撞击的影响，Hera 于 2024 年 10 月 7 日发射，历经两年飞行抵达这对小行星附近。它将近距离调查撞击如何改变小行星的轨道与地表，评估这种方法将来能否用来使威胁地球的小行星偏离原有轨道。",
+      "section": "cn-tech",
+      "rankScore": 0.724696
+    },
+    {
+      "id": "7c27a5e6a14a263a",
+      "title": "不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+      "url": "https://www.infoq.cn/article/mF9A6U1M6SQFWfEKOJGW?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-07T16:11:00.000Z",
+      "author": "作者：Leela Kumili",
+      "section": "cn-tech",
+      "rankScore": 0.655886
+    },
+    {
+      "id": "12d5f987f8e27dec",
+      "title": "在 agent 时代，深度还是广度更重要？",
+      "url": "https://www.v2ex.com/t/1255253",
+      "source": "v2ex",
+      "publishedAt": "2026-11-07T12:30:15.000Z",
+      "score": 10,
+      "author": "grandlq",
+      "excerpt": "指知识、经验与技能的深度与广度。以及，如果只能选一个的话，什么是最重要的领域？",
+      "section": "cn-tech",
+      "rankScore": 0.649976
+    },
+    {
+      "id": "41dee1c4488345df",
+      "title": "全国发电装机容量数据（2009-2025年）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xenFwa1ItUXlJUDcteU42NGFONzZqN0s2MDlvbzFmVlV4THI2U1R4ajFTRzBYQ1ZSNFNLUVRtTGVIQ2Mxc1JqSHg4cWI3c00wdnpYNQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-07T15:18:39.000Z",
+      "excerpt": "全国发电装机容量数据（2009-2025年） 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.44167
+    },
+    {
+      "id": "d8bcefbfbff75f52",
+      "title": ":fire: xbatis 1.10.15 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+      "url": "https://www.oschina.net/news/503464",
+      "source": "oschina",
+      "publishedAt": "2026-11-07T09:40:05.000Z",
+      "excerpt": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.15 - 2026-11-05 1：修复一些问题和优化代码 2：提前部分兼容mybatis 3.6.0 3...",
+      "section": "cn-tech",
+      "rankScore": 0.422762
+    },
+    {
+      "id": "372d71761863574b",
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-07T06:44:17.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.",
+      "section": "security",
+      "rankScore": 0.386021
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
