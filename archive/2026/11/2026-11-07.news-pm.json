@@ -1,0 +1,321 @@
+{
+  "date": "2026-11-07",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-07T16:49:34.493Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "d5a981b1ddfd1103",
+      "title": "美军拟寻求限制伊朗陆路贸易 美官员称习近平告诉特朗普同意伊朗绝不应拥核",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261107-%E7%BE%8E%E5%86%9B%E6%8B%9F%E5%AF%BB%E6%B1%82%E9%99%90%E5%88%B6%E4%BC%8A%E6%9C%97%E9%99%86%E8%B7%AF%E8%B4%B8%E6%98%93-%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%91%8A%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%84%8F%E4%BC%8A%E6%9C%97%E7%BB%9D%E4%B8%8D%E5%BA%94%E6%8B%A5%E6%A0%B8",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-07T15:47:57.000Z",
+      "author": "弗林",
+      "excerpt": "在对伊朗实施长达数月的海上封锁后，美国军方正组建一支特遣队，以加强华盛顿方面在限制德黑兰通过陆地边境和里海运输先进武器系统及其他受制裁物资方面的努力。",
+      "section": "news",
+      "rankScore": 0.668397
+    },
+    {
+      "id": "b47f7daa4bf5c5ff",
+      "title": "黄仁勋之女黄敏珊“因家庭原因”突然取消访韩行程",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B9%8B%E5%A5%B3%E9%BB%84%E6%95%8F%E7%8F%8A-%E5%9B%A0%E5%AE%B6%E5%BA%AD%E5%8E%9F%E5%9B%A0-%E7%AA%81%E7%84%B6%E5%8F%96%E6%B6%88%E8%AE%BF%E9%9F%A9%E8%A1%8C%E7%A8%8B",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-07T14:29:29.000Z",
+      "author": "弗林",
+      "excerpt": "据韩联社援引消息人士周六报导，英伟达公司高级总监、首席执行官黄仁勋之女黄敏珊原定的韩国之行已被突然取消。",
+      "section": "news",
+      "rankScore": 0.628158
+    },
+    {
+      "id": "95bf07e1195cdc8e",
+      "title": "联合国人权办对港澳重刑判罚表担忧 外交部驻澳门公署：坚决反对",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E8%81%94%E5%90%88%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8A%9E%E5%AF%B9%E6%B8%AF%E6%BE%B3%E9%87%8D%E5%88%91%E5%88%A4%E7%BD%9A%E8%A1%A8%E6%8B%85%E5%BF%A7-%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%BB%E6%BE%B3%E9%97%A8%E5%85%AC%E7%BD%B2-%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-07T13:40:14.000Z",
+      "author": "弗林",
+      "excerpt": "联合国人权事务高级专员办事处（简称联合国人权办）周五在社媒平台X上发文称，“在香港和澳门特别行政区根据国家安全法律施加严厉刑罚的做法令人深感担忧。昨天，民主活动人士黄之锋在香港被判处第二次重刑，这意味着他因行使基本权利和自由而被判处16年监禁”。",
+      "section": "news",
+      "rankScore": 0.602902
+    },
+    {
+      "id": "cd95ba8785754e7d",
+      "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
+      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-07T16:43:34.000Z",
+      "author": "Nadeem Badshah (now) and Hamish Mackay (earlier)",
+      "excerpt": "Polish Prime Minister Donald Tusk, in a post on X, said police are investigating the attack Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous attack that’s shattered the peace of Poland.",
+      "section": "news",
+      "rankScore": 0.557535
+    },
+    {
+      "id": "e542d836122c8d7b",
+      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-07T16:39:31.000Z",
+      "author": "Shuaib Almosawa and Ismaeel Naar",
+      "excerpt": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
+      "section": "news",
+      "rankScore": 0.555874
+    },
+    {
+      "id": "c55272db01b627ba",
+      "title": "Guatemalan lawmaker and three police officers killed in armed attack",
+      "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-07T16:15:18.000Z",
+      "excerpt": "It happened in a region of the country known to have drug trafficking activity.",
+      "section": "news",
+      "rankScore": 0.545939
+    },
+    {
+      "id": "c48531b43cb11dd3",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-07T12:49:36.000Z",
+      "excerpt": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "section": "news",
+      "rankScore": 0.519242
+    },
+    {
+      "id": "c29660815a2321db",
+      "title": "【子午播报】2026年11月7日",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143158",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-07T12:00:00.000Z",
+      "excerpt": "纽约时间零点，北京时间13点，欢迎收看《联合国子午播报》。本期节目您将看到，寒冬已至，战火中的民众需要温暖庇护；全球记者遇害事件攀升，近九成凶手未受惩罚；子午聚焦：来自北极的警告。",
+      "section": "news",
+      "rankScore": 0.49635
+    },
+    {
+      "id": "05e6e0a3032d01c3",
+      "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
+      "url": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-07T16:43:06.000Z",
+      "excerpt": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
+      "section": "news",
+      "rankScore": 0.487676
+    },
+    {
+      "id": "fa5e7f9fb5b7db91",
+      "title": "Schumer Lifts His Senate Standing With an Election Blowout",
+      "url": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-07T16:22:29.000Z",
+      "author": "Carl Hulse",
+      "excerpt": "The Democratic leader still faces skeptics in his ranks and hostility from some activists, but aides say he has enough commitments of support to be elected majority leader.",
+      "section": "news",
+      "rankScore": 0.480275
+    },
+    {
+      "id": "cbddb0c117a65d93",
+      "title": "A promising new medicine against heart disease fails unexpectedly",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+      "source": "npr-news",
+      "publishedAt": "2026-11-07T14:50:00.000Z",
+      "author": "Rob Stein",
+      "excerpt": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
+      "section": "news",
+      "rankScore": 0.447076
+    },
+    {
+      "id": "313b2e0f309b8442",
+      "title": "也门胡塞武装称使用导弹和无人机袭击沙特石油设施及军事目标",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jcUZPdnBiVUh0aHBzckhiMTBNNzlzVnR1TXRlR21veG5oYTFWZ0RJQU1NWDd5ZnhfWGZtMnl3XzNtT2FmYm00WTRvTU9aTjg0ZUVCSDk2LWJ4a3RYZW82djVpaFpaTHZMWHpJOWNzVnZvQ2JWaWljQ1FiN3Fvdw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-07T15:57:53.000Z",
+      "excerpt": "也门胡塞武装称使用导弹和无人机袭击沙特石油设施及军事目标 新华网",
+      "section": "news",
+      "rankScore": 0.404095
+    },
+    {
+      "id": "1106df92100fca04",
+      "title": "全球最大、发展最快！我国可再生能源技术占据全球主导地位",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728191.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-07T15:42:38.000Z",
+      "excerpt": "今天(7日)，中国企业改革与发展研究会发布了《全球能源转型报告(2026)》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。",
+      "section": "cn-news",
+      "rankScore": 0.732238
+    },
+    {
+      "id": "14b9821c4892e480",
+      "title": "海军首批舰载机女飞行学员结业赴一线部队",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728127.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-07T12:42:52.000Z",
+      "excerpt": "新华社快讯：记者11月7日从海军航空大学获悉，海军首批舰载机女飞行学员全部通过结业考核赴一线部队。这标志着海军航空兵人才梯队建设再添新生力量，海军舰载机飞行人才培养取得突破性进展。",
+      "section": "cn-news",
+      "rankScore": 0.68818
+    },
+    {
+      "id": "8845739d841f63d2",
+      "title": "进博会“显眼包”｜戴1至2小时，相当于喝一杯咖啡？“电子咖啡”无需饮用",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12V1NPcXc2MFRaTVRJR2tFRk1yOGstVmtlbVR5cGFWUFExb2R4V0tSdDZSaFBTUEFxSmx6TFpKMFRheWEtc0R5QldocE1OZmZxWC1GVzJ5T042dlJha2JKRA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-07T15:44:01.000Z",
+      "excerpt": "进博会“显眼包”｜戴1至2小时，相当于喝一杯咖啡？“电子咖啡”无需饮用 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.599742
+    },
+    {
+      "id": "2662659c0a5cb69d",
+      "title": "（第九届进博会）百年茶缘续新篇 斯里兰卡红茶借进博会“回家”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728165.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-07T13:47:14.000Z",
+      "excerpt": "中新社上海11月7日电 题：百年茶缘续新篇 斯里兰卡红茶借进博会“回家”",
+      "section": "cn-news",
+      "rankScore": 0.545842
+    },
+    {
+      "id": "1abef834fc136ba9",
+      "title": "长春冰雪新天地今冬首个官宣",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpRmRzM25EZUpaakRwNVhvUVNFTlhFVTF4Y0xYYllsc1J4WUVsN3JHa2UxbGFGM2kxODhfVzV1Ynh4NVJ6dEZ1aFVxc09xdFdVOThqazNtXy13enpTVV85RA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-07T13:02:00.000Z",
+      "excerpt": "长春冰雪新天地今冬首个官宣",
+      "section": "cn-news",
+      "rankScore": 0.524965
+    },
+    {
+      "id": "5d33fe6d67df4d6f",
+      "title": "第九届进博会丨开放、创新、发展、共享——虹桥论坛聚焦全球经济热点议题",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQczZNLVo4UnJvVXg2NXZ1MVBHMGVuVUhFRWJWb2VNd29GcU9UUWVrcUUweHRqSmpNY3BtQXVHY1FJVjNYLTYwOS1uTlk5aE5IVU9INWRfR1Bhc0tPYmJGWExKbVBjQ253QlowX2lVR3pXTXM0Szh3djZ5bHEzNlp0ZG0xem44X1FQUXRqeHY5XzRmMXo1X1pkVUJn?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-07T13:18:37.000Z",
+      "excerpt": "第九届进博会丨开放、创新、发展、共享——虹桥论坛聚焦全球经济热点议题 新华网客户端 新华鲜报·第九届进博会丨这份首次发布的报告，为分享中国市场提供精准指南 凤凰网 与世界共享中国大市场机遇 人民日报 第九届进博会丨从三份报告看中国带给世界的确定性 搜狐网 《世界开放报告2026》在虹桥论坛发布 中国开放相对位次逆势上升 同花顺财经",
+      "section": "cn-news",
+      "rankScore": 0.473453
+    },
+    {
+      "id": "0852f178ad24e131",
+      "title": "輝達晶片滯香港 港媒：北京對短期需求與長期技術自主戰略取捨",
+      "url": "https://www.cna.com.tw/news/acn/202611070192.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-07T12:55:47.000Z",
+      "excerpt": "（中央社台北7日電）路透社報導，約60萬顆輝達人工智慧（AI）晶片因北京尚未批准大規模進口而暫存香港，等待運往中國。港媒分析，北京此舉應是在短期算力需求與長期技術自主之間作出的戰略取捨。",
+      "section": "cn-news",
+      "rankScore": 0.464086
+    },
+    {
+      "id": "e8390cc2baf34176",
+      "title": "15.3亿美元！11家上海国企集团集中签约17个项目",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yeXhxWFA0QWszUFI5cXdiS3AwQmxER1FJTU14Q1V2TGwxWFJsaWpjMjMxNGhhWGpaU0ZoeFlTWGwzcVJBcXhobmQ1bjVqZnZjdTJpSzdRR0NmeTJ2ejc0Rg?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-07T14:32:53.000Z",
+      "excerpt": "15.3亿美元！11家上海国企集团集中签约17个项目 东方财富 1.9亿美元！进博会虹口交易分团两轮集中签约落地 ThePaper.cn 上海国资分团11家企业集团签约17个项目，涉交易金额约15.3亿美元 金融界 发展贸易新业态，北外滩馆携手区域企业共创未来 搜狐网 挪威“纯银大比目鱼”首次亮相进博，将端上国内餐桌 上观新闻",
+      "section": "cn-news",
+      "rankScore": 0.440931
+    },
+    {
+      "id": "e27cc771b02b2957",
+      "title": "History repeats in Shenzhen? China hosts another lame-duck US president",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373654/history-repeats-shenzhen-china-hosts-another-lame-duck-us-president",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-07T14:00:08.000Z",
+      "author": "Orange Wang",
+      "excerpt": "A decade after hosting a politically hobbled Barack Obama at a Group of 20 (G20) summit in Hangzhou, China is preparing to welcome another “lame-duck” US president for a multilateral gathering: Donald Trump.",
+      "section": "cn-news",
+      "rankScore": 0.429175
+    },
+    {
+      "id": "fb9e56f3cb5994d3",
+      "title": "2026年第十一届北京晚报百队杯青少年篮球赛圆满落幕",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtcHZuMkZnTm5uWkZ5NUN4ckpaS0RwSm9NMU9kWXN5TmpVMl9ud3IxX2Z2MENKSFI0ZkNvbXpraWJyZGl6WElHbk5ZYjR3SnRJbUk0a1NEcC1nUGt1TVE?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-07T15:48:22.000Z",
+      "excerpt": "2026年第十一届北京晚报百队杯青少年篮球赛圆满落幕 京报网 “百队杯都有CBA的感觉了！”巅峰对决燃动赛场 百队杯“大轴戏”小队员收获多 京报网 2026百队杯青少年篮球赛在北京落幕 中国新闻网 首届百队杯就曾现场参与 张云松：媒体办赛不容易，伴随见证了百队杯的发展 京报网 战胜困难逆转比赛 女篮小将在百队杯收获宝贵经历 京报网",
+      "section": "cn-news",
+      "rankScore": 0.401167
+    },
+    {
+      "id": "237cc80d960af9a0",
+      "title": "沪武高速潜山段发生多车追尾事故",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728190.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-07T15:40:08.000Z",
+      "excerpt": "记者从消防、公安等多部门了解到，11月7日下午，沪武高速安徽潜山段发生一起多车追尾事故。沪武高速岳西往桐城南方向，一辆载有电池的货车发生自燃，后方多车追尾。目前事故伤亡情况还在了解中，记者从当地有关部门了解到，有人被送到医院治疗。",
+      "section": "cn-life",
+      "rankScore": 0.797267
+    },
+    {
+      "id": "6ef5cd6a4980cd53",
+      "title": "贵州入境游持续升温 欧美旅行商组团踩线",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728170.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-07T15:01:50.000Z",
+      "excerpt": "中新社贵阳11月7日电 (记者 周燕玲)来自英国、美国、澳大利亚、新西兰等国的旅行商7日走进多彩贵州城，开启贵州旅游踩线考察活动。当天活动中，他们体验拦门酒、竹竿舞，并在非遗体验中心近距离感受贵州多彩的民族文化。",
+      "section": "cn-life",
+      "rankScore": 0.773698
+    },
+    {
+      "id": "b078607f169d67a8",
+      "title": "快讯：静冈县发生M5.7级地震",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VSEdQbGJKWE5ndGNCb0x6VllTRURkM2J4T09xYVFtZUsyeGVTS3ZXZV9ZWFBQMnZJODZRdmJHYkMzMlh6dHcxWGhjRFl3XzNfVWZKanc5SQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-07T16:36:38.000Z",
+      "excerpt": "快讯：静冈县发生M5.7级地震 共同网",
+      "section": "cn-life",
+      "rankScore": 0.624027
+    },
+    {
+      "id": "7d89d50df121642a",
+      "title": "菲律宾9月失业人数升至286万 就业市场承压",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFempkRDV5T2hDc3Y4T1RWZWFveFNvTTFsaGY2cmsxSG44Mm1VSjRTVExpWVdqUzRRMmRrMEVOTFlWVEoyaWtNVFJveEViQlp6MHhIcmNUbVhITFA0eVF5cUZFbHJvckZn?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-07T15:04:58.000Z",
+      "excerpt": "菲律宾9月失业人数升至286万 就业市场承压 中国新闻网",
+      "section": "cn-life",
+      "rankScore": 0.581719
+    },
+    {
+      "id": "b030e0a9b3e2fcba",
+      "title": "GluD1选择性维持含GluN2B的NMDAR突触功能与下托可塑性：连接神经发育受体调控与情境记忆的分子机制",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JV28tU1NtZVUtazNkMGV1NkVLT1Fwb2pWXzY3NDVDT1pDZThOU1YxT1F6Q2I3am9ndTdvczloUG11d0dZX2dSdGs1N29Kc3Z6WTI5bmV6VjhVbTdUWXlPRE9Wbzh1ZTh3ZXY2SC1B?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-07T16:10:04.000Z",
+      "excerpt": "GluD1选择性维持含GluN2B的NMDAR突触功能与下托可塑性：连接神经发育受体调控与情境记忆的分子机制 生物通",
+      "section": "cn-life",
+      "rankScore": 0.475818
+    },
+    {
+      "id": "f5c198156d9c04b4",
+      "title": "王志军谢卫江赴第二十七届中国中部（湖南）农业博览会巡展_国省内农业动态_综合动态",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EVFlqQzd2elk2Z29sV1BkOEluNk93R2htNVpTUWJTbjFyMU16VUNrUUVuMlFKd0RZRXJSNG5DUmp5ZmdESjZ0OFliU2NHOUJNSVFvb0JBVVRuZm5iV1dvSTNFclByRmEydVE?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-07T12:45:00.000Z",
+      "excerpt": "王志军谢卫江赴第二十七届中国中部（湖南）农业博览会巡展_国省内农业动态_综合动态 常德市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.459662
+    },
+    {
+      "id": "830bc97038e04ae2",
+      "title": "星岛一线｜假召回骗走奔驰车主1.55万，多家车企急辟谣",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14NGNIdnhDbG5GX29EVXgxRUJKU1BTOFdGdGp3QWJCdUMxVWhPZFZXTlVZZ3NzSzRpVWtxQWJFSXhTQWJIT0dXYXJhSHZSY3hXa3FuaWd3T3h1dm9NQ2hzU1JYMVU?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-07T14:41:00.000Z",
+      "excerpt": "星岛一线｜假召回骗走奔驰车主1.55万，多家车企急辟谣 星岛环球网",
+      "section": "cn-life",
+      "rankScore": 0.443845
+    },
+    {
+      "id": "9670b7a3fab87ec2",
+      "title": "受教育程度影响下 DunedinPACNI 对中年及晚年生物老化加速的预测研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GbTlISGdCRTlqeWZGSTBYNzZkZXQ2aTdGQUl5VU9wQ2Jud0hJTmZCNS02dlZiLTloWm1kQ050WDBzWWdOMVU2SjhsV3c3YUZRMVJ3akcwb2JDMm81T0VjX3N1RzBHSTZGMEpDOUR3?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-07T16:39:43.000Z",
+      "excerpt": "受教育程度影响下 DunedinPACNI 对中年及晚年生物老化加速的预测研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.416967
+    }
+  ],
+  "warnings": []
+}
