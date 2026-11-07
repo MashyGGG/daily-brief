@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-07",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-07T02:19:34.244Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "23c1b3d3ffee71ca",
+      "title": "台湾：台积电股价飙升掀股市热，部分普通民众甚至每天都买卖股票",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261106-%E5%8F%B0%E6%B9%BE-%E5%8F%B0%E7%A7%AF%E7%94%B5%E8%82%A1%E4%BB%B7%E9%A3%99%E5%8D%87%E6%8E%80%E8%82%A1%E5%B8%82%E7%83%AD%EF%BC%8C%E9%83%A8%E5%88%86%E6%99%AE%E9%80%9A%E6%B0%91%E4%BC%97%E7%94%9A%E8%87%B3%E6%AF%8F%E5%A4%A9%E9%83%BD%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-06T22:47:40.000Z",
+      "author": "阿曼亭",
+      "excerpt": "法国世界报周五刊出的一篇文章表示，在台湾，台积电股价飙升带动台湾人的投资热潮，并带来财富增长，但是，财富增长的背后隐藏着社会不平等。",
+      "section": "news",
+      "rankScore": 0.641138
+    },
+    {
+      "id": "10b0e94d60c5ff98",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-06T21:49:50.000Z",
+      "excerpt": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "section": "news",
+      "rankScore": 0.562566
+    },
+    {
+      "id": "f6b22ace9972069c",
+      "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
+      "url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-07T02:14:48.000Z",
+      "author": "Victoria Kim and Laura Chung",
+      "excerpt": "In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs.",
+      "section": "news",
+      "rankScore": 0.55894
+    },
+    {
+      "id": "2650f4cb00caf68e",
+      "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+      "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-07T01:55:11.000Z",
+      "author": "Tiago Rogero South America correspondent",
+      "excerpt": "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank Paraguay’s rightwing president has been placed under house arrest minutes after he was impeached by Congress, amid a severe crisis that…",
+      "section": "news",
+      "rankScore": 0.554581
+    },
+    {
+      "id": "3ce7b98e98d3ec98",
+      "title": "政治人物「大改造」？從台灣「九合一」選舉看候選人「形象工程」",
+      "url": "https://www.bbc.com/zhongwen/watch/c9rkyyzgmy3eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-06T11:24:32.000Z",
+      "excerpt": "在現代選舉中，形象經營已是不可或缺的一環。隨台灣「九合一」地方選舉將登場，台北市長候選人沈伯洋與蔣萬安的個人形象與公眾人設，也成為選戰攻防話題。",
+      "section": "news",
+      "rankScore": 0.541654
+    },
+    {
+      "id": "50409dfaf693c62c",
+      "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-07T00:21:49.000Z",
+      "excerpt": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.",
+      "section": "news",
+      "rankScore": 0.533832
+    },
+    {
+      "id": "f0d78ab3d1d458f0",
+      "title": "Zoo Atlanta Unveils Its New Pandas: Fu Shuang and Ping Ping",
+      "url": "https://www.nytimes.com/2026/11/06/us/atlanta-pandas.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-07T01:27:46.000Z",
+      "author": "Emily Cochrane",
+      "excerpt": "Two years after two other pandas were returned to China, giant pandas were back on display in Atlanta.",
+      "section": "news",
+      "rankScore": 0.479927
+    },
+    {
+      "id": "74733ebc5051e5d9",
+      "title": "US economy outstrips forecasts to add 165,000 jobs in October",
+      "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-06T22:16:13.000Z",
+      "excerpt": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
+      "section": "news",
+      "rankScore": 0.442681
+    },
+    {
+      "id": "4640744a77262b68",
+      "title": "The incoming class of U.S. senators is full of historic firsts",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+      "source": "npr-news",
+      "publishedAt": "2026-11-06T20:21:13.000Z",
+      "author": "Saige Miller",
+      "excerpt": "From the first Native American woman elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic candidates on Tuesday.",
+      "section": "news",
+      "rankScore": 0.42032
+    },
+    {
+      "id": "135d57901f608500",
+      "title": "难民署：近9000万被迫流离失所者面临严重气候风险",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143150",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-06T12:00:00.000Z",
+      "excerpt": "联合国难民署周五发布报告指出，全球近9000万被迫流离失所者生活在气候灾害风险严重的国家，占全球被迫流离失所人口的约四分之三。",
+      "section": "news",
+      "rankScore": 0.415107
+    },
+    {
+      "id": "c43451ec8ce81300",
+      "title": "中期选举失利未改变美国总统作出重大外交决策",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjlQQXlMQjUycnU5ai1VOExHRmdUNTJFcUxFTEZEczA3YXJCNjJGRlF3anNYTlZhdVRGeGd0dG9PZEJrSnJuckFHTi1yRmFSNjczZU9ZNzFyM2h1QUtISHFqc1FIVFFDVW5nSi1TVHJSTVhrTmplOE9zREJqQ2VfdE8zX2dpUExaWmg0dU130gGQAUFVX3lxTE0zYUVkNk5waDJ3S0tQYzdhd2FKaEp3VlhTSzhpeWxwSThvd0xqeTM4VUtPckFnYWlMcFdJRU9YeU53NFFnZzUyM1VEZkJXSmZJTEo2Sko2cDR4Q0h4NENkVG5uazNmZU1uR3FSaDBiUHRERFlFMkhtM1pVS0lEZTZiLTNVVnJBQVZpQlFtYVZTVg?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-07T01:40:39.000Z",
+      "excerpt": "中期选举失利未改变美国总统作出重大外交决策 美国之音 美国中期选举：共和党失去两院，对华政策与对台军售会转向吗？ BBC 国际观察丨重掌美国国会，民主党的“雄心”与现实 上海热线 美国国会变天，日韩9000亿美元承诺悬了？ 观察者网 法国报纸摘要 - 《海啸》之后：法国媒体解读美国中期选举与特朗普的新困局 RFI",
+      "section": "news",
+      "rankScore": 0.413513
+    },
+    {
+      "id": "534cd1085e2ee488",
+      "title": "中期选举结果引发对人工智能监管焦虑，美股暴跌",
+      "url": "https://cn.nytimes.com/business/20261106/stocks-midterms-artificial-intelligence/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-06T03:08:55.000Z",
+      "author": "JOE RENNISON",
+      "excerpt": "民主党获胜后，投资人担心人工智能行业可能面临更严格监管，这加剧了此前已有的对科技企业支出失控、债务攀升的忧虑。美股遭遇近两年来最惨重单日跌幅。 By The New York Times 标准普尔500指数每日变化。数据来源：LSEG。",
+      "section": "news",
+      "rankScore": 0.345078
+    },
+    {
+      "id": "d98587f1f1cf7f86",
+      "title": "神舟二十四号载人飞行任务标识发布",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727784.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-07T02:07:30.000Z",
+      "excerpt": "今天，神舟二十四号载人飞行任务标识正式发布。",
+      "section": "cn-news",
+      "rankScore": 0.766312
+    },
+    {
+      "id": "912b9a430359bfcd",
+      "title": "从“十五五”专项规划看以金融服务发展大局",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727779.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-07T01:58:23.000Z",
+      "excerpt": "新华社北京11月6日电 题：不断提升服务实体经济质效——从“十五五”专项规划看以金融服务发展大局",
+      "section": "cn-news",
+      "rankScore": 0.624703
+    },
+    {
+      "id": "fd20b5b94cdeebc7",
+      "title": "北京市多区发布道路结冰黄色预警",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50cFNab2NmVjBIM0V4emFrNm02SVd3TndFcmtJU0c1S0hNbkR5YnVoelhveGVPbUc1XzJTdk54bXBOUGVGbDNHM0FodTRDYVJwbmpZMVFXRzM?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-07T00:50:00.000Z",
+      "excerpt": "北京市多区发布道路结冰黄色预警 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.607607
+    },
+    {
+      "id": "d5af33b342252932",
+      "title": "拟合与消解：神经媒介性视角下的AI生成影像研究",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZbjNDWmc3NWgtQmcxcG5nQjBWZjBfYlFIX0VVcDFJcVV2RjNkZE1SckVRQjhZMU0yc3hqaHItZE5wdHNvVUFqYzU1VXFwZnhESENCT3hmVmdsWTZhemh5dQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-07T00:14:32.000Z",
+      "excerpt": "拟合与消解：神经媒介性视角下的AI生成影像研究",
+      "section": "cn-news",
+      "rankScore": 0.598741
+    },
+    {
+      "id": "c29d8c2afe99ebf6",
+      "title": "国家广播电视总局部署开展新一轮微短剧专项治理工作",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727509.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-06T11:53:51.000Z",
+      "excerpt": "中新网11月6日电 据“国家广播电视总局”微信公众号消息，近日，国家广播电视总局在巩固前期微短剧低俗有害和侵权盗版专项治理成效的基础上，针对AI微短剧质量良莠不齐、AI技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自11月1日起至12月底。",
+      "section": "cn-news",
+      "rankScore": 0.551426
+    },
+    {
+      "id": "5f3ef01ec27d7140",
+      "title": "甘肃敦煌：3D打印赋能丝路文化传播",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVJYZ1pBNlRGRDExd0t2UmxaWkpuRVNqSEo1Q1hobEZTdVd4LS1nYWd1Vl9NdXVWUFhuaHE2RHotbEJwdEVmVEhLYXB1ZW9WaENMaEM4anNUOENSNXVBY2tUSzV0WWtJM2dEc0NFTUgwN25kV1RqLWpCdXFsSkEzM1RFNGhwQQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-07T01:32:56.000Z",
+      "excerpt": "甘肃敦煌：3D打印赋能丝路文化传播 新华网 【关注敦煌论坛】千年医脉焕新生​——敦煌医学研究与创新发展论坛侧记 凤凰网 从展厅到生活文创让千年文脉触手可及|敦煌|张玉洁|文物|烙画|张志光_新浪新闻 新浪财经_金融信息服务商 在敦煌文博会找“龟蜜”！ 中国日报网 他们跨越山海来到大漠，只为跳一支敦煌舞 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.549636
+    },
+    {
+      "id": "39873143fc14755c",
+      "title": "第九届进博会中国海油论坛暨全球采购签约仪式在上海举行",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUpJQnNaMlI2Q2gzUHlGOWNqTzhUTER4eDU3UV9ld25rZ0NMWVZZYWdtQnY5X3YwaTVlSGswbVRJSmJUX3lHNC1qT2JIVHREM3BTTVZMLXZUSnJuempyRkp2elhkUUx1bGFNa3BzQ1NlSTF0RVQ0QUh3a0tQR1VzYldmSkNPQQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-07T01:34:24.000Z",
+      "excerpt": "第九届进博会中国海油论坛暨全球采购签约仪式在上海举行 新华网 413亿美元首单“花落”中石化，一大批参展跨国企业排队签订单｜聚焦进博会 新浪财经 中国石油董事长：深化油气全产业链互利合作，保障全球能源供应稳定 ThePaper.cn 扩大全球务实协作，第九届进博会中国石化采购签约达413亿美元 凤凰网 第九届中国石油国际合作论坛暨签约仪式在沪举行 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.481217
+    },
+    {
+      "id": "155b66f307278345",
+      "title": "Sanae Takaichi slammed online for praising calligraphy without mentioning China",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373580/sanae-takaichi-slammed-online-praising-calligraphy-without-mentioning-china",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-07T01:00:12.000Z",
+      "author": "Eve Qiao",
+      "excerpt": "Japanese Prime Minister Sanae Takaichi has faced backlash online after writing a social media post celebrating Japan’s shodo calligraphy without mentioning its Chinese roots.",
+      "section": "cn-news",
+      "rankScore": 0.474567
+    },
+    {
+      "id": "aac99afe585b2fb2",
+      "title": "花样滑冰——2026中国杯世界花样滑冰大奖赛：男子单人滑短节目赛况",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYnZpVG1oRnVvWlhRMW9na2V5aUtQeDFueWtHejFPWkM5OHlzWHpSZGl0TVQ2dDJfeU5OdEliMmgxZ1hzZTlSMExMczRlVzhFUHlkWU9mWFFTS1UwRWNRY2RVRm96MXRiT0xUZGtfVmM5M09ZXzUxQjN3MDRxcm5OVjFR?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-07T01:09:34.000Z",
+      "excerpt": "花样滑冰——2026中国杯世界花样滑冰大奖赛：男子单人滑短节目赛况 新华网广东 2026中国杯世界花样滑冰大奖赛：“四周跳女王”伊格纳托娃登场亮相 新浪财经 花样滑冰——2026中国杯世界花样滑冰大奖赛：冰舞韵律舞赛况 凤凰网 2026中国杯世界花样滑冰大奖赛：双人滑·短节目项目展开角逐 搜狐网 2026中国杯世界花样滑冰大奖赛在深圳开赛 中国新闻网",
+      "section": "cn-news",
+      "rankScore": 0.408333
+    },
+    {
+      "id": "381d6a6ee56bcca7",
+      "title": "分析：民主黨傑福瑞斯有望成下任美眾院議長 友台、曾會晤蔡英文",
+      "url": "https://www.cna.com.tw/news/acn/202611060353.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-06T14:33:07.000Z",
+      "excerpt": "（中央社台北6日電）香港南華早報引述分析家指出，溫和派民主黨眾議員傑福瑞斯（Hakeem Jeffries）有望成為美國眾議院議長，他曾與台灣總統蔡英文會面，並支持有利台灣的立法。",
+      "section": "cn-news",
+      "rankScore": 0.40301
+    },
+    {
+      "id": "1702cadd943e62d8",
+      "title": "夏季“超长待机”、冷空气“一步到位”，如何“跟上”季节变化节奏？ | 梳理↓",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727785.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-07T02:11:34.000Z",
+      "excerpt": "央视网消息：11月7日将迎来立冬节气。立冬是节气意义上冬季的开始，但气象学上的入冬有着一定的气温判定指标。眼下，多轮冷空气接连影响，北方大部地区气温快速下滑，不少地方已有了冬的气息。",
+      "section": "cn-life",
+      "rankScore": 0.837332
+    },
+    {
+      "id": "c005fed815d71164",
+      "title": "民生加银中证A500指数A基金经理变动：增聘周帅为基金经理",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtdXYzM3lxYko3TUR6NlFCOFU0Z2ZDTUhRUEZueEtKRWctQ2RVU3NhaWdDM2JpOURxZjdnSEcwaGd3b1VoMGg0YnJnczRDTmx5emQ5OXI1eEVoWm9Xd2ZpcVRVc1p0SmdNN3VF?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-07T01:44:00.000Z",
+      "excerpt": "民生加银中证A500指数A基金经理变动：增聘周帅为基金经理 财富号",
+      "section": "cn-life",
+      "rankScore": 0.621107
+    },
+    {
+      "id": "aeaef46e6a0aaf2b",
+      "title": "暴雪暴雨大风三预警齐发 ：北京、天津、河北等北方多地迎来大到暴雪",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS212S0swYUpfbVdwT2tELTBHLVk3U2U0S053SFIwMzI1UjQwb0VpbWNTSDVMbkM1RWhRRXcxb2xCWEdOZjFMU3J0UFVNZlJ5SllGa0d6dEJ1cS1nVXVteE1LSC1MQWV6VXQweG15V1lQd3dHZDVtc1JRTlZBZm8yR0Z1YldfdXlfaUk2Rw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-07T01:30:19.000Z",
+      "excerpt": "暴雪暴雨大风三预警齐发 ：北京、天津、河北等北方多地迎来大到暴雪 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.617686
+    },
+    {
+      "id": "b42e92d04dd0f759",
+      "title": "多家车企接连“被召回”！车企密集打假伪造召回通知诈骗 - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50U2U5aXJZQWU2VFZkcVNncGRyd1JZNmhFVHJNNnJKcFlOR1ppbGRESjRQWnRwMXp6bHhyRWZGYzhiSVZUQWhvWTZxSzBjTHZSWElxLUcyUmo3Yzls?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-07T02:06:49.000Z",
+      "excerpt": "多家车企接连“被召回”！车企密集打假伪造召回通知诈骗 Moomoo",
+      "section": "cn-life",
+      "rankScore": 0.48752
+    },
+    {
+      "id": "c0d23b3791d1e682",
+      "title": "肠道菌群源色氨酸代谢物吲哚-3-丙酸通过重塑肝线粒体代谢调控葡萄糖稳态",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xZFkwNThKSUJQMVpXN3hlZmRUTlVXdlRjVnNBM2piZVpxZ3F3QjZQaFdJZzRxaUI1eThIb1UteENmM0lTWVVOeDZkM1RjOE0tanJzNF9WQkdvRFVlUU5Tc2JHaGlON0VwOXJ3VExB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-07T00:27:28.000Z",
+      "excerpt": "肠道菌群源色氨酸代谢物吲哚-3-丙酸通过重塑肝线粒体代谢调控葡萄糖稳态 生物通",
+      "section": "cn-life",
+      "rankScore": 0.468202
+    },
+    {
+      "id": "31f0ea6415744de9",
+      "title": "大皖财经消息丨深圳理工大学2027年将首次在安徽招生",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUlZsWm9seUtqc2pjd0VEZ0FrQVhEUkdyLVg0aXQ0QlZzV3JSS1BJaE5xMHZUYjlSZUE1LUhSSDlZNVdVcndCM0ViRjZaUlNfcndRMjJfaUN3MlFSWkQyZFo0OTRtblFQa3g0UkxKYTJnVDVGazV3SzBnNHdBeVlZbVFSdjdrenA0RXBWcE9wb2t0ZkltaDlIaDFGQ0VCMzV0bTgxWE9pOGtQSWo5eEJlaks1NzJDbzUtWWZNZHg1YUZIM1RVRTlzY3AxY2dteFF0TnR6LXJnS2dOZw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-07T01:50:39.000Z",
+      "excerpt": "大皖财经消息丨深圳理工大学2027年将首次在安徽招生 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.41518
+    },
+    {
+      "id": "f9ad4ef99b564c20",
+      "title": "李强会见加蓬总统恩圭马",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SWk40cWpBblpwdWxDbFpFV0FFeXZ3ODBRWUVuR1lCTnRIejJ6YWwzdmNQQ2s2dDVoYlhBUDI1dTZ5N19fVXpEeThlWE5RZjh3R2gzenUyZXJUZHZhUXlYaXh3VnhiV2o0QnZjZnhoelBHcS1UNHc?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-06T15:01:00.000Z",
+      "excerpt": "李强会见加蓬总统恩圭马 中国驻泰国大使馆",
+      "section": "cn-life",
+      "rankScore": 0.409207
+    },
+    {
+      "id": "125a63d2cd87a23f",
+      "title": "买了没几年的羽绒服，怎么就不保暖了？原来很多人做错了这2点！",
+      "url": "https://www.chinanews.com.cn/life/2026/11-06/10727152.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-06T03:29:50.000Z",
+      "excerpt": "天气渐渐转凉，很多人从衣柜最深处掏出了尘封好几年的羽绒服……不过，有人说旧羽绒服会不暖和，那买了已经好几年的羽绒服真的还能穿吗？羽绒服真的有“寿命”这一说吗？",
+      "section": "cn-life",
+      "rankScore": 0.319517
+    }
+  ],
+  "warnings": []
+}
