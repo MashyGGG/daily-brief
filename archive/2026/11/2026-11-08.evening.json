@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-08",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-08T17:54:10.911Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 11,
+  "items": [
+    {
+      "id": "8a7608b0fa85d057",
+      "title": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-08T17:54:10.911Z",
+      "score": 863,
+      "excerpt": "An open source design system that's fully customizable and agent ready",
+      "section": "tech",
+      "rankScore": 1.08
+    },
+    {
+      "id": "fa51ebfb4e9985c2",
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-08T11:23:28.000Z",
+      "score": 241,
+      "author": "krthr",
+      "excerpt": "241 points · 158 comments · https://news.ycombinator.com/item?id=50412318",
+      "section": "tech",
+      "rankScore": 0.931734
+    },
+    {
+      "id": "23f99580bd852042",
+      "title": "Playing with the STM32MP2",
+      "url": "https://serd.es///2026/11/08/playing-with-stm32mp2.html",
+      "source": "lobsters",
+      "publishedAt": "2026-11-08T17:12:00.000Z",
+      "author": "serd.es via fanf",
+      "section": "tech",
+      "rankScore": 0.662916
+    },
+    {
+      "id": "28c6b86ccc26e122",
+      "title": "Entire's Git Forge Rethinks Git Collaboration for Coding Agents",
+      "url": "https://www.infoq.com/news/2026/11/entire-git-forge-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-08T11:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "Entire is a Git forge designed specifically for collaboration between human developers and AI coding agents. Its premise is that traditional software development infrastructure, particularly the pull request (PR) model, is not well suited to an environment where AI agents generate, review, and…",
+      "section": "tech",
+      "rankScore": 0.540478
+    },
+    {
+      "id": "e530c07cf7e8cd98",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "verge",
+      "publishedAt": "2026-11-08T17:23:19.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists.",
+      "section": "tech",
+      "rankScore": 0.479712
+    },
+    {
+      "id": "67b42b8fd20ce1cd",
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-08T12:15:31.000Z",
+      "author": "Jacek Krywko",
+      "excerpt": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "section": "tech",
+      "rankScore": 0.377112
+    },
+    {
+      "id": "dcd7e8e3eaab2461",
+      "title": "LG 因其智能电视监视用户面临法律诉讼",
+      "url": "https://www.solidot.org/story?sid=85829",
+      "source": "solidot",
+      "publishedAt": "2026-11-08T15:23:44.000Z",
+      "excerpt": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG 对该报告予以否认。消费者保护组织对此并不买账。葡萄牙的 Citizens Voice 请求葡萄牙法院对 LG 的声明进行审查，它希望法院介入调查，判定此类数据收集行为是否侵犯了消费者的权益；如果认定侵权，则不仅应针对 LG 采取行动，还应将零售商一并纳入追责范围。",
+      "section": "cn-tech",
+      "rankScore": 0.691194
+    },
+    {
+      "id": "d68b1ecc878a695d",
+      "title": "AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+      "url": "https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-08T16:19:44.000Z",
+      "author": "林绮蓓",
+      "section": "cn-tech",
+      "rankScore": 0.655025
+    },
+    {
+      "id": "59694301b571b5e9",
+      "title": "卖软件这个事情在未来可能是伪命题了",
+      "url": "https://www.v2ex.com/t/1255327",
+      "source": "v2ex",
+      "publishedAt": "2026-11-08T05:19:45.000Z",
+      "score": 52,
+      "author": "fusae",
+      "excerpt": "刷到孟岩关于 AI 做软件开发的一个观点，随着 AI 能力的增强，未来人人都能通过嘴炮来做个 app 覆盖自己日常的需求，而不用等到大公司为了符合大多数人群而做的一个通用版本。这意味着，想通过做 app 来获得收益变得更难。 大家认可这个观点吗，产品经理，程序员，设计师这种软件开发领域上传统的角色，是否会慢慢消失？ 未来该是怎样的一个变化？ 帖子来源",
+      "section": "cn-tech",
+      "rankScore": 0.531672
+    },
+    {
+      "id": "484b7576921a1994",
+      "title": "XXL-AI v1.5.0 发布｜AI 应用开发平台",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NMDVyVE56VmlHOThLRmg1b2VSOURNSTcwLUhQcmRDcEIzLU9vcjVVWnNWRHJCT1lPQVdrUXpiQk84MExlZ3pZTUlXQl9DVVRESzlPVA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-08T15:27:56.000Z",
+      "excerpt": "XXL-AI v1.5.0 发布｜AI 应用开发平台 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.44125
+    },
+    {
+      "id": "bea2fa8476395869",
+      "title": "GPT-6之后，具身大模型画地为牢！明年自研预算估计悬了",
+      "url": "https://www.36kr.com/p/4060707751826311",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-08T08:26:19.000Z",
+      "author": "量子位",
+      "excerpt": "GPT-6 Astra发布才两个月，GPT-6.2 Astra眼瞅着就要来了。 然而具身智能行业还没从上一轮打击中缓过神来。 一切都是那么猝不及防。 还记得GPT-6 Astra刚出来时，一批具身从业者被打懵了。特别是在一线搞预训练的工程师，更是人人自危。 近期，业内又传出消息，一些具身智能公司开始裁撤算法岗。 过去需要大量数据、算力和算法工程师一 点点 啃下来的能力，GPT-6 Astra在部分测试中，却不需要针对具体任务进行额外后训练，就能够展现出来。 这还让人怎么卷？？？",
+      "section": "cn-tech",
+      "rankScore": 0.386629
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
