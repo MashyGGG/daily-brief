@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-08",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-08T01:21:29.776Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 12,
+  "items": [
+    {
+      "id": "7df3055883b6705c",
+      "title": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-08T01:21:29.776Z",
+      "score": 322,
+      "excerpt": "The Prometheus monitoring system and time series database.",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "56486916b2fd977b",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "source": "hn-front",
+      "publishedAt": "2026-11-07T18:02:17.000Z",
+      "score": 372,
+      "author": "srean",
+      "excerpt": "372 points · 216 comments · https://news.ycombinator.com/item?id=50406563",
+      "section": "tech",
+      "rankScore": 1.020868
+    },
+    {
+      "id": "adfc2e05c83a955a",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-07T18:12:12.000Z",
+      "score": 329,
+      "author": "LaurensBER",
+      "excerpt": "329 points · 81 comments · https://news.ycombinator.com/item?id=50406670",
+      "section": "tech",
+      "rankScore": 0.958719
+    },
+    {
+      "id": "ec4033d23c114ef9",
+      "title": "Dear Open Source Developers: It's OK not to embargo",
+      "url": "https://opensourcesecurity.io/2026/10-embargo/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-07T23:31:05.000Z",
+      "author": "opensourcesecurity.io via liberty",
+      "section": "tech",
+      "rankScore": 0.652596
+    },
+    {
+      "id": "28849b77718ca73a",
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "source": "verge",
+      "publishedAt": "2026-11-07T16:00:00.000Z",
+      "author": "Brad Bourque",
+      "excerpt": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out.",
+      "section": "tech",
+      "rankScore": 0.38082
+    },
+    {
+      "id": "6497d57a09793fa5",
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-07T11:00:34.000Z",
+      "author": "Cyrus Farivar",
+      "excerpt": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "section": "tech",
+      "rankScore": 0.322597
+    },
+    {
+      "id": "f16ffe3e21f42202",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-07T23:57:46.000Z",
+      "excerpt": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table.",
+      "section": "ai",
+      "rankScore": 0.81209
+    },
+    {
+      "id": "da5f0925aee8838e",
+      "title": "乌兰察布，才是AI数据中心的正确答案？",
+      "url": "https://www.36kr.com/p/4059436619846784",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-08T00:09:20.000Z",
+      "author": "字母榜",
+      "excerpt": "数据中心迎来了它的至暗时刻。 美东时间2026年11月5日，美股AI产业链创下了19个月来最大的单日跌幅。 纳斯达克综合指数收跌5.52%，较10月高点回撤逾10%、跌进技术性回调区间；费城半导体指数跌12.25%，英伟达跌9.26%，AMD跌17.26%，闪迪跌22.26%，全市场市值一天少了约3万亿美元。 就在美股大跌的两天前，俄亥俄、伊利诺伊、缅因、佛罗里达的居民纷纷发起投票，以反对在自己社区建数据中心。11月3日，10个州就数据中心建设限制事项举行投票，共41项地方议案，年内全部已决的38项中，有37项倾向限制建设数据中心。",
+      "section": "cn-tech",
+      "rankScore": 0.611959
+    },
+    {
+      "id": "e1dbed8ad9bcbdc1",
+      "title": "FAA 计划到 2028 年淘汰软盘",
+      "url": "https://www.solidot.org/story?sid=85824",
+      "source": "solidot",
+      "publishedAt": "2026-11-07T16:05:40.000Z",
+      "excerpt": "FAA 计划到到 2028 年底前更换全美逾 400 个空管设施使用的软盘。新系统 Enterprise Information Display System 将取代可上溯至 1980 年代的旧系统。逾 25 年前软盘就基本停止使用，2011 年起不再大规模生产。去年美国国会批准了 125 亿美元资金用于更新陈旧的空管系统。FAA 目前还面临诸多技术难题，交通部长 Sean Duffy 正寻求额外 30 亿美元的资金。FAA 局长 Bryan Bedford 表示：“我们正摒弃过时的手动流程，用一套现代化系统取代曾依赖软盘的技术。",
+      "section": "cn-tech",
+      "rankScore": 0.600163
+    },
+    {
+      "id": "8be79a10ff51f806",
+      "title": "AI 时代，并行开发多项目，感觉电脑配置不够了",
+      "url": "https://www.v2ex.com/t/1255255",
+      "source": "v2ex",
+      "publishedAt": "2026-11-07T12:53:50.000Z",
+      "score": 8,
+      "author": "javalaw2010",
+      "excerpt": "自动用上了 AI ，每天的想法很多，虽然很多都是没什么用的东西，但是架不住开发效率太高了 ，常常并行开发好几个项目，明显电脑卡了很多（台式机），但是最近换电脑又不划算，有什么办法么 有时候甚至想 vibe 一个应用，自动去云服务商开抢占式实例，关闭的时候自动保存快照，开启的时候自动加载对应的快照，后面都在云上开发了。",
+      "section": "cn-tech",
+      "rankScore": 0.533084
+    },
+    {
+      "id": "2096b4514b670788",
+      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-07T10:00:00.000Z",
+      "author": "AICon 全球人工智能开发与应用大会",
+      "section": "cn-tech",
+      "rankScore": 0.444029
+    },
+    {
+      "id": "8e9fbb51c919aa13",
+      "title": "《从留存到增长：会所管理实战框架》",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ERVRFLU90T0NBTUJkZ3lzdzgxRDVOU20ya1dqUnN3TWpsc0hSMFNpMmRONS02bVdHUkNvdUlYdzFRd0d5Y2RvdFBvemJIMGFESVZscw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-07T18:16:47.000Z",
+      "excerpt": "《从留存到增长：会所管理实战框架》 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.407417
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
