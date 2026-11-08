@@ -1,0 +1,321 @@
+{
+  "date": "2026-11-08",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-08T01:46:09.846Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "0e5036b4b059eda7",
+      "title": "法國血庫冷藏設備遭駭客攻擊 幕後黑手眾說紛紜",
+      "url": "https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-08T00:08:14.000Z",
+      "excerpt": "法國血庫冷藏設備遭駭客攻擊調高溫度，但未造成血液損失。專家懷疑俄羅斯、伊朗駭客或青少年所為，攻擊具高度規劃性，目前尚無正式歸因。",
+      "section": "news",
+      "rankScore": 0.807356
+    },
+    {
+      "id": "576a2ef45af000d4",
+      "title": "非洲:塞内加尔一起集体卫生事件",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261107-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%E4%B8%80%E8%B5%B7%E9%9B%86%E4%BD%93%E5%8D%AB%E7%94%9F%E4%BA%8B%E4%BB%B6",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-07T21:22:59.000Z",
+      "author": "尼古拉",
+      "excerpt": "在西非国家塞内加尔（le Sénégal）境内出现一桩共同卫生危机事件。自一周前2026年10月30日星期五以来，该国北部地区有500多人出现起因不明的相同发病症状，这是本台法广（RFI）非洲通讯员今天（2026年11月07日星期六）从实地发回的最新法文消息之一。患者们具体的临床反应包括腹痛、呕吐和腹泻等。",
+      "section": "news",
+      "rankScore": 0.626894
+    },
+    {
+      "id": "672541ba9e172868",
+      "title": "美中期选举后乌克兰强调争取美国两党的支持",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BC%BA%E8%B0%83%E4%BA%89%E5%8F%96%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%85%9A%E7%9A%84%E6%94%AF%E6%8C%81",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-07T21:22:22.000Z",
+      "author": "肖曼",
+      "excerpt": "谈及美国中期选举后民主党赢得国会两院控制权，乌克兰总统泽连斯基6日在接受美国有线电视新闻网采访时表示，美国两党的支持对乌克兰十分重要，希望支持力度进一步增加。",
+      "section": "news",
+      "rankScore": 0.626723
+    },
+    {
+      "id": "ed77fbeb01aa9c30",
+      "title": "以总统选择艾森科特组建新政府",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261107-%E4%BB%A5%E6%80%BB%E7%BB%9F%E9%80%89%E6%8B%A9%E8%89%BE%E6%A3%AE%E7%A7%91%E7%89%B9%E7%BB%84%E5%BB%BA%E6%96%B0%E6%94%BF%E5%BA%9C",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-07T21:05:14.000Z",
+      "author": "法广",
+      "excerpt": "以色列总统府周六晚间宣布，即将卸任的总理本雅明·内塔尼亚胡的反对派领袖加迪·艾森科特（Gadi Eisenkot）将于周日正式受命组建下一届以色列政府。声明称：“赫尔佐格总统已邀请加迪·艾森科特前往总统府，并将于明日下午5点正式委任他组建政府。”",
+      "section": "news",
+      "rankScore": 0.621964
+    },
+    {
+      "id": "78ceda6f45a61cfa",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-07T22:58:49.000Z",
+      "excerpt": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "section": "news",
+      "rankScore": 0.588163
+    },
+    {
+      "id": "b254f43e0eade27f",
+      "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-08T01:00:48.000Z",
+      "author": "Eva Corlett in Auckland",
+      "excerpt": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent…",
+      "section": "news",
+      "rankScore": 0.549919
+    },
+    {
+      "id": "88acd44cb502c400",
+      "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-08T00:50:28.000Z",
+      "excerpt": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
+      "section": "news",
+      "rankScore": 0.547623
+    },
+    {
+      "id": "f79ac1627885762f",
+      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+      "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-07T23:36:17.000Z",
+      "author": "Andrew Higgins and Carlos Barragán",
+      "excerpt": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
+      "section": "news",
+      "rankScore": 0.531138
+    },
+    {
+      "id": "bfb1f7b369300c03",
+      "title": "Trump asks UFC boss Dana White to be new press secretary",
+      "url": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-08T01:23:57.000Z",
+      "excerpt": "US president signals combative approach in wake of midterms drubbing of his party",
+      "section": "news",
+      "rankScore": 0.485681
+    },
+    {
+      "id": "baea11c9fbc338e7",
+      "title": "The surprising and often forgotten history of economic populism in Texas",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
+      "source": "npr-news",
+      "publishedAt": "2026-11-07T22:12:07.000Z",
+      "author": "Michelle Aslam",
+      "excerpt": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.",
+      "section": "news",
+      "rankScore": 0.44838
+    },
+    {
+      "id": "251d65e1b1a022d0",
+      "title": "After the Midterms, the Average Age in the Senate Falls to 63",
+      "url": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-07T20:17:37.000Z",
+      "author": "Francesca Paris and C.J. Robinson",
+      "excerpt": "Incoming senators are nearly 15 years younger than departing ones, on average. But the chamber’s overall age isn’t shifting much.",
+      "section": "news",
+      "rankScore": 0.426116
+    },
+    {
+      "id": "ea01c30e5ccd0883",
+      "title": "我驻名古屋总领馆提醒领区中国公民注意防范地震灾害",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96ZEl0MU5abWNKakw2UGJ2QThUZFVqNFlpRzVDVnhLWUNCUnJFQlBETGZTaU5Wc09RUFg1UDVMZEl1dlBveEVqTklXaUE1RzQ3eXEydjJsVEN3di03MmJYX3RhdmFHNDFzMlBR?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-08T01:21:00.000Z",
+      "excerpt": "我驻名古屋总领馆提醒领区中国公民注意防范地震灾害 新华报业网 日本茨城县近海发生5.6级地震，东京地区有震感 新浪财经 日本关东地区东部近海发生6.1级地震 凤凰网 日本东京外海规模6.1地震 未发布海啸警报 SWI swissinfo.ch 日本中部5.7级地震 传爱知县两人受伤 马来西亚东方日报",
+      "section": "news",
+      "rankScore": 0.415806
+    },
+    {
+      "id": "f07d89bbe584e8d8",
+      "title": "本周末中东部地区有大范围降水 今日为雨雪最强时段",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728222.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-08T00:29:45.000Z",
+      "excerpt": "中新网11月8日电 据中央气象台网站消息，本周末，中东部地区天气复杂多样，大范围雨雪及大风降温天气均将出现。目前，中央气象台已发布暴雪黄色预警、暴雨蓝色预警、大风蓝色预警。",
+      "section": "cn-news",
+      "rankScore": 0.814529
+    },
+    {
+      "id": "0a7be46c365b993d",
+      "title": "“航母五件套”未来还可能升级！专家解读“5+X”新模式",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728237.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-08T01:33:10.000Z",
+      "excerpt": "10月下旬，我军首型舰载察打一体隐身无人机“攻击-21”首次在076型两栖攻击舰四川舰上成功起降。这是我国两栖攻击舰发展历程上取得的又一次突破，标志着人民海军具备固定翼隐身无人机在大型海上作战平台起降能力。",
+      "section": "cn-news",
+      "rankScore": 0.766029
+    },
+    {
+      "id": "f88abb6b4d662ff3",
+      "title": "圆通总裁潘水苗大夸儿子Tim，回应担任影视飓风董事长",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LUmdUOFd0VjV1RG9HUDlVOVNyX3hpNG81YmJwUVNFQUJfdlZxdUl1MHRacXM2aWZ6bU8wdnZMSHhFcWg3ZnpmZTlfdUJMazNvdUZCQzdmU0I3bmR1TFZfaw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-08T00:55:33.000Z",
+      "excerpt": "圆通总裁潘水苗大夸儿子Tim，回应担任影视飓风董事长",
+      "section": "cn-news",
+      "rankScore": 0.617346
+    },
+    {
+      "id": "6dfa27f22f9ac8b5",
+      "title": "2026中欧非·绿色能源发展论坛在浙江温州举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728210.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-08T00:35:57.000Z",
+      "excerpt": "中新网温州11月8日电(胡丰盛)11月7日，2026中欧非·绿色能源发展论坛在浙江温州举行。来自中国、欧盟及非洲国家的政界人士、驻华使节、行业机构和企业代表等齐聚共商中欧非绿色能源合作与发展，共议零碳新生态建设之道。",
+      "section": "cn-news",
+      "rankScore": 0.612446
+    },
+    {
+      "id": "1226cddb968b6c55",
+      "title": "中央气象台继续发布寒潮蓝色预警",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acktFOVBmZm9tWWJianhIeG94ZmZUZEM0cEkxWktXOTJsSmJ0UVN3WF9iRWxCTmEzRWo1U0JkNUtXWldYRUY2ZXRnbmFlUVBlVWh0QVl3?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-07T23:33:49.000Z",
+      "excerpt": "中央气象台继续发布寒潮蓝色预警 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.596913
+    },
+    {
+      "id": "33ff1d47a2a3d256",
+      "title": "金句来了！“文化与科技相生相促”",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ja2E2aGtZMXZVdnozMFZIbEFwbDdSeHgycGxsUm45Q0xKb2xLbEtiSjN3Z2x2eEJYMmlSbzMwejZzS2FZV2xCOG44bDkyXzRTbHMtM0EwTXUwZkc1WTBCM0txR09SdUJoc1E?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-08T01:15:31.000Z",
+      "excerpt": "金句来了！“文化与科技相生相促” 中国科技网 2026文化科技产业发展论坛将在长沙开幕，两院院士、科技大拿、电竞国家队教练都来了 新湖南",
+      "section": "cn-news",
+      "rankScore": 0.553189
+    },
+    {
+      "id": "c26e7b29fecc09f7",
+      "title": "Grief in China as rare snow leopard cub Ling Xiaohan loses 26-day fight for life",
+      "url": "https://www.scmp.com/news/china/politics/article/3373512/grief-china-rare-snow-leopard-cub-ling-xiaohan-loses-26-day-fight-life",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-08T01:00:24.000Z",
+      "author": "Eve Qiao",
+      "excerpt": "Millions of Chinese internet users grieved after beloved snow leopard cub Ling Xiaohan died last Sunday, following 26 days of medical treatment after he was found weak, injured and unable to move in the Qinghai Lake reserve on the Qinghai-Tibet Plateau.",
+      "section": "cn-news",
+      "rankScore": 0.481101
+    },
+    {
+      "id": "9c2fcc8fa01b107b",
+      "title": "第九届进博会上海交易团国资分团达成意向采购金额28.62亿美元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rTk00OWEwaHZuV3V4cjFzZTRrUUw2ODg1UERCLTk0T21wUzI3cHdyMUk3dzRxb055OWEtdXVXUjdxQ0QwbzBLZl94Tk56eTJUZ0F3TnVlVl9Wd1hQR1FGbA?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-07T23:17:54.000Z",
+      "excerpt": "第九届进博会上海交易团国资分团达成意向采购金额28.62亿美元 东方财富 上海国资分团11家企业集团签约17个项目，涉交易金额约15.3亿美元 金融界 发展贸易新业态，北外滩馆携手区域企业共创未来 搜狐网 137笔订单、意向采购金额28.62亿美元，第九届进博会上海交易团国资分团成交金额再提升 QQ News （第九届进博会）上海杨浦与老挝携手推进贸易往来 中国新闻网",
+      "section": "cn-news",
+      "rankScore": 0.461171
+    },
+    {
+      "id": "bf19213175147b57",
+      "title": "东南亚警察组队赴“村超”踢球",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JYzcxN0I0eWw3Z2s4QmFTZWhhMXNDNzVVMzNNQ3A0a2l6NURwZDg0OC1wd0d0WEFGS0hTODVTTVpQbk45TmYxbXRGdzZTNTdtOVFBNnE0eko0ZlFwamdkRW5xQWRtSTdH?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-08T01:02:47.000Z",
+      "excerpt": "东南亚警察组队赴“村超”踢球 中国新闻网",
+      "section": "cn-news",
+      "rankScore": 0.41277
+    },
+    {
+      "id": "6441b4c5866e194c",
+      "title": "澳門民主派人士區錦新遭判12年半 歐盟深表遺憾",
+      "url": "https://www.cna.com.tw/news/acn/202611070191.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-07T12:48:45.000Z",
+      "excerpt": "（中央社布魯塞爾6日綜合外電報導）澳門當局判處民主派人士、前立法會議員區錦新12年6個月徒刑，這是澳門實施國家安全法以來，首宗依該法定罪的案件。歐盟今天對此予以譴責。",
+      "section": "cn-news",
+      "rankScore": 0.387241
+    },
+    {
+      "id": "efa3641be8e48e0b",
+      "title": "中国新闻社7件作品获中国新闻奖，2件作品一等奖！",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728238.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-08T01:35:27.000Z",
+      "excerpt": "由中华全国新闻工作者协会主办的第36届中国新闻奖评选结果今天揭晓。中国新闻社7件作品获奖，其中，一等奖2个，二等奖4个，三等奖1个。",
+      "section": "cn-life",
+      "rankScore": 0.836429
+    },
+    {
+      "id": "cc6cbf327e433ee4",
+      "title": "寒潮蓝色预警：15省区部分地区降温可达10至12℃ 局地可超14℃",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43XzZJTWQzbzBlS1pGelAtUjZXLVBqUjRJZUVlYktCTGZ5elc2YTJCaW9wNS1xWEpZUHhoX0k4MEpZMEluVzVtbF9qdVE1SXZJUW9qVzBueVhQSTdmOUswdnEyUE9aOE1YU1FFWTI3X3dxV3dFSTBmQw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-08T01:25:53.000Z",
+      "excerpt": "寒潮蓝色预警：15省区部分地区降温可达10至12℃ 局地可超14℃ 央视网",
+      "section": "cn-life",
+      "rankScore": 0.62493
+    },
+    {
+      "id": "86a0e5968fca2cc0",
+      "title": "每日财经早餐 2026年11月7日：美国非农就业人数增加16.5万，美联储戴利称经济状况为抗击通胀留出空间",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYWhLWUpBUGFsNlM5c2ZVX3dOUFJmeEllREhSajFvUGlYeFFidFZfNHdkem1pUjduTkw3S2NBSktyUWhCaTZhcGwyVFJJSE1kajJLbF94VnlRZVc0T2Fpb1FtVm5xUmxySk44cktLRFFYTmxMYWh0MlRYNXYxYk5uazJNaw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-08T00:41:27.000Z",
+      "excerpt": "每日财经早餐 2026年11月7日：美国非农就业人数增加16.5万，美联储戴利称经济状况为抗击通胀留出空间 www.tmgm.com",
+      "section": "cn-life",
+      "rankScore": 0.613821
+    },
+    {
+      "id": "1e4ba09aa44fc204",
+      "title": "‍‍‍色情电影 Nong Jeed Jaad",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQclRrQTZYYVRzSjZvRkk5MjkteDVzTS1IYktlMG1Wc0pybjJrUkRFTFhmd0tPNDNnNXU2ZGhpeWFqdjJSZGFzdloxVWc5aGJJUHBZU0xMckdmdXY3Nkg3aHNXU3pYSHlMd29IbXBLMmR5c0NFRzN5V1RxRTVDWXJieUExUXJHUEZIdkZ0Y2lZYi1JX3lhZUgteHd4al82dWxVbmlVUUJvT2lXOUYyV3VQZS03TVRPeEVpMENTbjdwUmxYN1hfYmljU3dsMFJ0T1BCT2pwNDJvVFM0dlkwWmY1cFhEaFVRSGpod1UtWENrNlVIVjJqNVJubS1henNhNVgxU2NFdnpMMGNncW80ZzlzLWI5Q3RQcGdXYTB3?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-07T22:21:22.000Z",
+      "excerpt": "‍‍‍色情电影 Nong Jeed Jaad 重庆市南岸区人民政府",
+      "section": "cn-life",
+      "rankScore": 0.514489
+    },
+    {
+      "id": "01a57346701b00f4",
+      "title": "鼻炎、疼痛、血脂异常、脱发……药企牵手即时零售，让好药15分钟“到家”",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94OTkzYjZ2Y2lrZ2E3X2duR3NqOEpCbkMxNzVoVXIwMFdKVWwzS1JMTDdkb0RvbXFBZGhjWlUzNWhaVnFwcjdCWWZBOTFJeVp0aFZZSVhuOUE2OXdvR3lwQTd0d0NrOTNEMlJINEMzdXlpcFAyMjZ0TDNSZFZlZWs?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-08T01:38:00.000Z",
+      "excerpt": "鼻炎、疼痛、血脂异常、脱发……药企牵手即时零售，让好药15分钟“到家” 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.488413
+    },
+    {
+      "id": "5e51e4d65ccf3187",
+      "title": "【快讯】OPTIMAL‑S与OPTIMAL‑D重磅强化降压试验结果揭晓：简介与评析-yeeyi - yeeyi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fcDNUazhMTVVVcXVtMFc4SEJKVmxNemZzTU16T1JRbDNqei1VYWszd0JkcGp4WXZCSkFHRUFWTkg0SEFsX3c3RFFVaUJVa1NvSjN4VnFB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-08T00:56:09.000Z",
+      "excerpt": "【快讯】OPTIMAL‑S与OPTIMAL‑D重磅强化降压试验结果揭晓：简介与评析-yeeyi yeeyi",
+      "section": "cn-life",
+      "rankScore": 0.480275
+    },
+    {
+      "id": "5b7efbd19d90f2b2",
+      "title": "日本民众呼吁日社会正视侵略历史 加强教育",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xZzNtSUx1NDgwbGhyMi1UaFJEVWpSUXloSHl1bUZQVDF2RW1JNElDT2lOU0poYW9OakNKSGREazhxbEh5YnlBUURDdTZWeXVZRUdpWVltaDQ0dHBSYVJjcUhGY2ZFZGFMV1RfWTlSaTRmUQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-08T01:31:00.000Z",
+      "excerpt": "日本民众呼吁日社会正视侵略历史 加强教育 荆楚网",
+      "section": "cn-life",
+      "rankScore": 0.417473
+    },
+    {
+      "id": "127f1dab482d5a6a",
+      "title": "曾有11位诺奖得主6位菲尔兹奖得主 如今她已没落",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NMVc1dnVHZjFka0hQYzlBMHNBdEhlaHNNTGVkVWxJZm9SUDhFTGZJVVp6TlFhLVJyQlowTkloTDlhWTc1SUxJRnc0aEw3eXlycEE?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-07T18:53:00.000Z",
+      "excerpt": "曾有11位诺奖得主6位菲尔兹奖得主 如今她已没落 万维读者网",
+      "section": "cn-life",
+      "rankScore": 0.292616
+    }
+  ],
+  "warnings": []
+}
