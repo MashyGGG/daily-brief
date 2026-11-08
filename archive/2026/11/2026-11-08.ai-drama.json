@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-08",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-08T15:57:01.044Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 2,
+  "items": [
+    {
+      "id": "ea09a6b2e19390f9",
+      "title": "[流言板]大三男生宿舍做AI漫剧营收超300万，爆款单剧创收200多万元",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrV1dBaTk2WDM4NTRFbExZVXdjbXV1eG02eGN6S3FiTjI0WFBpYVZjTk5MdTI1c2t3NW9FYzdsTDJJSHdpZUJfb0lwa3ZMUQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-08T12:18:40.000Z",
+      "excerpt": "[流言板]大三男生宿舍做AI漫剧营收超300万，爆款单剧创收200多万元 虎扑体育",
+      "section": "drama-news",
+      "rankScore": 0.4352881,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "2a5a8b07a6c70f3e",
+      "title": "可灵获198亿融资；皇冠新材登深交所丨全球投融资周报10.31-11.06",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84T01mR3Q0YldvS3dDeEtWWVRYRzFJVGwxVjBkdUI5bS1BMEk1NVpQb0NvMjdtYkhiOTh0VTNwSWZMeHRFTk56S0xvSGQxTVNt?oc=5",
+      "source": "drama-cn-models",
+      "publishedAt": "2026-11-07T01:30:54.000Z",
+      "excerpt": "可灵获198亿融资；皇冠新材登深交所丨全球投融资周报10.31-11.06 凤凰网",
+      "section": "drama-news",
+      "rankScore": 0.2468089,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 国内外资讯与案例：本期 2/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 0/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "分镜先于精细画面",
+      "url": "https://runway.com/resources/ai-storyboard",
+      "task": "写一个原创小故事，用粗图排出 6 个分镜。",
+      "doneWhen": "不依赖旁人解释也能顺序看懂故事。"
+    }
+  }
+}
