@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-09",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-09T01:55:48.552Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "0db6e2274aa34994",
+      "title": "黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
+      "url": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-09T01:37:14.000Z",
+      "excerpt": "黃仁勳承認對妻子「不忠」，並表示將配合安全部門調查。",
+      "section": "news",
+      "rankScore": 0.833808
+    },
+    {
+      "id": "b9a2a66d62b531b1",
+      "title": "美、中、俄三国首脑在深圳会晤？习近平的雄心与顾虑",
+      "url": "https://cn.nytimes.com/world/20261109/china-trump-putin-xi-summit/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-09T00:58:10.000Z",
+      "author": "DAVID PIERSON,BERRY WANG",
+      "excerpt": "举办三国首脑峰会可以彰显中国想成为与美国平起平坐的全球大国的雄心，但对习近平而言，主办会晤存在风险，乌克兰战争与无核化谈判都是他不愿面对的议题。 Haiyun Jiang/The New York Times 今年9月，中国领导人习近平与美国总统特朗普在华盛顿的美国国家档案馆。",
+      "section": "news",
+      "rankScore": 0.752387
+    },
+    {
+      "id": "24c84a3bb0e7ad58",
+      "title": "非洲:2026青奥会男子3人篮球赛",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261108-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-2026%E9%9D%92%E5%A5%A5%E4%BC%9A3%E4%BA%BA%E7%AF%AE%E7%90%83%E8%B5%9B",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-08T23:25:47.000Z",
+      "author": "尼古拉",
+      "excerpt": "法广（RFI）中文[周日体育]（Sport dimanche）继续关注正在非洲国家塞内加尔(le Sénégal)首都达喀尔举办的第四届夏季青年奥林匹克运动会（JOJ Dakar 2026）。 综合本台体育组（RFI Sports）的多篇法文消息，本届青奥会(JOJ)男子三人篮球项目（basket 3x3 masculin）已于两天前的11月06日本星期五拉开战幕。法广特派记者（RFI Envoyé spécial）发自现场的实地报道描述说，达喀尔全城当天洋溢着激动人心的氛围，观众的热情让赛场气氛格外火热。",
+      "section": "news",
+      "rankScore": 0.658326
+    },
+    {
+      "id": "2ce423bdba7e8e4d",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-08T23:34:18.000Z",
+      "excerpt": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "section": "news",
+      "rankScore": 0.594623
+    },
+    {
+      "id": "213613592c09a2c1",
+      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-09T01:38:47.000Z",
+      "author": "Jeremy W. Peters and Suhasini Raj",
+      "excerpt": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
+      "section": "news",
+      "rankScore": 0.556216
+    },
+    {
+      "id": "137a76960d44b4ef",
+      "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-09T01:30:36.000Z",
+      "author": "Caitlin Cassidy",
+      "excerpt": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper body Family members of a man accused of the domestic violence murder of a 23-year-old woman in south-western New South Wales have been charged with being accessories to the alleged crime.",
+      "section": "news",
+      "rankScore": 0.554398
+    },
+    {
+      "id": "3acbd051d25b2ed0",
+      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-09T01:19:09.000Z",
+      "excerpt": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
+      "section": "news",
+      "rankScore": 0.551854
+    },
+    {
+      "id": "8ea7322b3f892422",
+      "title": "Trump says he was ‘only kidding’ about asking UFC boss to be spokesperson",
+      "url": "https://www.ft.com/content/b3acb746-76c0-46de-879a-990602b27a6a?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-09T01:15:06.000Z",
+      "excerpt": "US president caused a media flurry by announcing he had invited Dana White to be White House press secretary",
+      "section": "news",
+      "rankScore": 0.482084
+    },
+    {
+      "id": "bc3a5557635f9221",
+      "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+      "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-09T00:27:00.000Z",
+      "author": "Maggie Haberman, Jonathan Swan, Julian E. Barnes and Tripp Mickle",
+      "excerpt": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
+      "section": "news",
+      "rankScore": 0.472732
+    },
+    {
+      "id": "21ab9cbc470a97d6",
+      "title": "NASA is looking for astronauts to live and work on the Moon",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+      "source": "npr-news",
+      "publishedAt": "2026-11-08T23:36:47.000Z",
+      "author": "Chandelis Duster",
+      "excerpt": "NASA needs more recruits in order to return to the moon after being gone more than half a century.",
+      "section": "news",
+      "rankScore": 0.462967
+    },
+    {
+      "id": "00106918e6a7e811",
+      "title": "古特雷斯谴责波兰克拉科夫市发生的大规模枪击事件",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143160",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "excerpt": "联合国秘书长古特雷斯周日通过发言人发表声明，对日前发生在波兰克拉科夫市主广场的大规模枪击事件深感震惊和悲痛。",
+      "section": "news",
+      "rankScore": 0.421048
+    },
+    {
+      "id": "dcb523ae298be940",
+      "title": "俄国防部称打击乌能源设施及两艘涉军船只",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTB0bWlJLWY0QVhHYkRoaml3OEVtMnh3MUlYM2htWGs1Ym5RZjhiRWpHY1Byd2ZRNFVpVmR2aG53TmtmQmNmMU9qTHNFNVBoeDRpXzc4Q1oxUF9ESzVaUUUwY3NjZkk5aHBrQTAxTURsbDdkLUkzdDlRNmpZZ1FzaUdfckFVVjRtdTNlYW9KTC1ndjhSWjFtNmV3?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-09T01:07:30.000Z",
+      "excerpt": "俄国防部称打击乌能源设施及两艘涉军船只 新华网客户端 乌方称俄军袭击致多地紧急停电 凤凰网 乌克兰正准备与美俄进行三方会谈之际仍遭大规模导弹袭击，造成9人受伤 美国之音 俄称打击乌多地区目标 乌称能源设施遭大规模袭击 新浪网 边打边谈！和谈前夕俄罗斯导弹齐袭基辅，和谈前奏先给下马威 腾讯新闻",
+      "section": "news",
+      "rankScore": 0.411948
+    },
+    {
+      "id": "ac12376dd9b3fe9d",
+      "title": "王小洪在云南调研时强调 提高政策措施的针对性有效性 因地制宜推动高质量发展",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728609.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-09T01:08:03.000Z",
+      "excerpt": "新华社昆明11月8日电 中共中央书记处书记、国务委员王小洪7日至8日到云南调研。他强调，要认真学习贯彻党的二十届五中全会精神，深入贯彻习近平总书记考察云南重要讲话精神，落实党中央、国务院决策部署，完整准确全面贯彻新发展理念，统筹发展和安全，立足自身条件，提高政策措施的针对性有效性，因地制宜推动高质量发展。",
+      "section": "cn-news",
+      "rankScore": 0.82408
+    },
+    {
+      "id": "876454762c513c24",
+      "title": "我国成功发射卫星互联网低轨29组卫星",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728582.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-08T22:40:59.000Z",
+      "excerpt": "北京时间2026年11月9日4时24分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨29组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。",
+      "section": "cn-news",
+      "rankScore": 0.71047
+    },
+    {
+      "id": "b8be0ed46c190efd",
+      "title": "11月9日央行开展1820亿元隔夜逆回购操作",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728618.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-09T01:35:55.000Z",
+      "excerpt": "中新网11月9日电 据中国人民银行网站消息，2026年11月9日中国人民银行以固定利率、数量招标方式开展了1820亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+      "section": "cn-news",
+      "rankScore": 0.625027
+    },
+    {
+      "id": "02ca229277948aa0",
+      "title": "景芮医疗完成数千万Pre-A轮融资",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TdnVweHliTjVhaUtTaTA5WlE2SUZVVEJkMGlFODlSM3lDTFNGeUhTSnctYlFqM1l2ZEVwNmJfTWxxSUl5OGNUdFFEU0toVmdxZ09DX01tSjg?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-09T01:32:54.000Z",
+      "excerpt": "景芮医疗完成数千万Pre-A轮融资 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.624273
+    },
+    {
+      "id": "3c832a2124ae480c",
+      "title": "秦皇岛暴雪积雪23厘米 居民称20年未见",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBveldpV20tVXVZRm1Ca3hhZThvWmFGbHVOcEpYOEtzQnBTZWJQTmNvem5IQlo2MnRRNW5HeF9NVko3c3hPMlN2MHFRczlvNTVCYUlMS2x3STNnd0ZFMS1ZSzhKTEFlUTZzYk5yTkthTmw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-09T00:32:15.000Z",
+      "excerpt": "秦皇岛暴雪积雪23厘米 居民称20年未见 中华网 降雪已基本结束！解除暴雪黄色预警信号！这场雪都下在哪儿了—— 北京市人民政府门户网站 分级作业应对雨雪天气 北京公路养护方全力保障路网畅通 人民网 冷空气影响将直抵华南！9日起，海南迎来降温 凤凰网 河北秦皇岛凌晨发布暴雪红色预警 降雪仍在持续 新浪财经",
+      "section": "cn-news",
+      "rankScore": 0.541431
+    },
+    {
+      "id": "8ded14f0ddccde6e",
+      "title": "溢价持续高企 机构提示纳指ETF相关风险",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUmhyWGJrRVJjbEdlOXlBU1FGRl82dXZVUUkxTzFpMklDd1ZVZHhTQVF0ZXRRQ0xVSVdDMzF2SWxpcmVqNTEydFo5SFNKN1hLYTg5cm5nSmhNVVQwWXpDb3M3QndRcURBaXg2aVlzSFVJYjkwMFRN?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-09T01:41:35.000Z",
+      "excerpt": "溢价持续高企 机构提示纳指ETF相关风险 央广网",
+      "section": "cn-news",
+      "rankScore": 0.487234
+    },
+    {
+      "id": "1f7df510353fe104",
+      "title": "突发！沙特首都金融区遭袭，阿美石油公司大楼受损；此前传出剧烈爆炸声，当地居民收到防空警报",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWRHJGbXVMVm45WWZiYk5PZ1o5azR6R1VFbDFfQzQ4WFBOTnFNd2dQRy04ZjhBX2hyXzFvamRaSVJqQWRUMUw0Q3VOVU9LNEhpaHBNakpNdGZabll4MFFqbA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-08T16:01:00.000Z",
+      "excerpt": "突发！沙特首都金融区遭袭，阿美石油公司大楼受损；此前传出剧烈爆炸声，当地居民收到防空警报",
+      "section": "cn-news",
+      "rankScore": 0.481298
+    },
+    {
+      "id": "2d3477b97a18ac2e",
+      "title": "金鸡·鼓浪屿之夜活动在中国美术馆鼓浪屿艺术空间举行- 民生",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ycU9OUWlYUmtYaEtJLVJhSU9fWDdtSVJVSmd2MnVJMHBOUndzRUprWEtEclFnOG8xOUx2WFE4SWxwTF93RGZQaFZJd2dfVDZzTHdpX1k3UkZoOXJNa3NFVmdqVDlQbGJFbC1seg?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-09T01:01:00.000Z",
+      "excerpt": "金鸡·鼓浪屿之夜活动在中国美术馆鼓浪屿艺术空间举行- 民生 东南网 《上学》入围金鸡短片季，《你好，马莉莉》入围金鸡创投“学子计划”终选 QQ News",
+      "section": "cn-news",
+      "rankScore": 0.410865
+    },
+    {
+      "id": "9d0d9097897a77c6",
+      "title": "APEC峰會將登場 深圳加強快遞安檢",
+      "url": "https://www.cna.com.tw/news/acn/202611080185.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-08T14:19:49.000Z",
+      "excerpt": "（中央社台北8日電）亞太經濟合作（APEC）經濟領袖會議18日至19日在中國廣東省深圳市舉行。廣東省郵政管理局日前公告，對寄往深圳市轄區內的快遞實施臨時性安全管理措施，投遞時效可能受影響。",
+      "section": "cn-news",
+      "rankScore": 0.405335
+    },
+    {
+      "id": "8ff1e9d7ba9c8e45",
+      "title": "The US must stop blaming China for problems at home: former envoy Cui Tiankai",
+      "url": "https://www.scmp.com/news/china/politics/article/3373707/us-must-stop-blaming-china-problems-home-former-envoy-cui-tiankai",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-08T14:30:20.000Z",
+      "author": "Phoebe Zhang,Alyssa Chen",
+      "excerpt": "The United States should not blame China’s rise for its own problems and should not expect that these can be solved by changing presidents, China’s longest-serving former ambassador to Washington has said. “China’s development has never aimed to replace or challenge the US – it never has.",
+      "section": "cn-news",
+      "rankScore": 0.356713
+    },
+    {
+      "id": "deb255cbe6bdcb08",
+      "title": "寒潮继续南下影响江淮江南华南等地 云南等地降水明显",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728610.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-09T01:27:40.000Z",
+      "excerpt": "中新网11月9日电 据中央气象台网站消息，监测显示，受冷空气影响，今7时较昨7时，西北地区东部、华北、黄淮、江淮、江汉、西南地区及辽宁等出现6～12℃降温，局地降温幅度超过12℃。",
+      "section": "cn-life",
+      "rankScore": 0.830619
+    },
+    {
+      "id": "d016363db9f01bd7",
+      "title": "百城二手房价环比跌幅连续两月扩大",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nUkQwUVZnQndhaUtaTVdEd1h6VGp0TkNyV3pGbEVlcmRNN1UxSGc5a0R1eVJNQlhFU3VwOFJENFgxT1pIUDhUYWZ0N2d1SlVsSk40MXhnRVBEUWVPVktqQUUwWQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-09T01:45:57.000Z",
+      "excerpt": "百城二手房价环比跌幅连续两月扩大 湖南红网",
+      "section": "cn-life",
+      "rankScore": 0.627535
+    },
+    {
+      "id": "0c405c318a9ec081",
+      "title": "寒潮预警： 湖南东部、江西大部等11省区市将降温6至8℃ 局地可超10℃",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wajU1c0dCSVlkSGNQcmdrb0M2djV6Y2N1VjE3RlY5Mm1TbmszU0pjM2xuRG93WS1RRFdVVVFTNkNYQ1p3QmpmTVJNcnpzYVlmaEpZcDI5clFOS201V2d5aUhB?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-09T01:30:23.000Z",
+      "excerpt": "寒潮预警： 湖南东部、江西大部等11省区市将降温6至8℃ 局地可超10℃ 湖南红网",
+      "section": "cn-life",
+      "rankScore": 0.623644
+    },
+    {
+      "id": "fe96a108dcae1334",
+      "title": "榜样力量丨第二季“交警先锋”，来了！",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ibGdKVnlpSDNVV1JHNWhUSjVYY0R4QkIxT2NHN085SnlDMEhEOG5JRjFEal90b1BLZ2wyc1BmaHdFLTlkRDhKUlUwU3lwczRrZ2Z1Y0RKQUxONXhrOGJ1dkR0SUltemh1MmdwbVRRZmRIUUhvbWlR?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-09T01:44:23.000Z",
+      "excerpt": "榜样力量丨第二季“交警先锋”，来了！ 北京市公安局交通管理局",
+      "section": "cn-life",
+      "rankScore": 0.557461
+    },
+    {
+      "id": "6251c8de18e8fc80",
+      "title": "国王召回新秀卡拉班，发展联盟首秀12分3盖帽",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iUTA2cGtvZjl6eEVpQVYxN1I2MXp6Y0hUUTY4R1hROWVFRThncTdVTnFzc3ppTndKSnVsNkt4TF9GMGlxb25ONDRmcGFCRjNFRTl0ejRpZw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-09T00:56:00.000Z",
+      "excerpt": "国王召回新秀卡拉班，发展联盟首秀12分3盖帽 懂球帝",
+      "section": "cn-life",
+      "rankScore": 0.47837
+    },
+    {
+      "id": "030c13a873f2e798",
+      "title": "**手持式诱导电刺激联合肌电生物反馈治疗脑卒中后吞咽障碍的疗效观察**",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RQklGc1A0UGpRaVRHUFZxcU5MWkYxYXhzQ0pvM2U4VXVudVB0ckJoTk1yNmI4SmpwWGp6SVAwdGtiUGRKRnpjM2xqRWtWMzVfZ2xyem55QWFuZEY0em1SUHBrSEw4ZnBGbTdOenVR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-08T23:59:28.000Z",
+      "excerpt": "**手持式诱导电刺激联合肌电生物反馈治疗脑卒中后吞咽障碍的疗效观察** 生物通",
+      "section": "cn-life",
+      "rankScore": 0.467378
+    },
+    {
+      "id": "abdd0ff6203deb46",
+      "title": "杭州将筹办一所新大学，省教育厅官宣",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXRYSWdpSTN4LWlucFV3bkFqVWwya0xlb3JzYlZfa3pJWjBzT3ZjVS11bHZTYzZ5SEZPdFFOdllScjdsV3dVVHhVS05qbVBxQTQ0S2lXU25nUWNqbXh3bnV5Y3pwOGRzRGZjaXdlX2YzelRNYkRsVEwzZmZCajl5ODdVNHQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-09T01:46:24.000Z",
+      "excerpt": "杭州将筹办一所新大学，省教育厅官宣 hznews.hangzhou.com.cn",
+      "section": "cn-life",
+      "rankScore": 0.418432
+    },
+    {
+      "id": "cdad88035d43e936",
+      "title": "乳业巨头农场监控曝光 画面触目惊心",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GZTF5NGtHQmRGQk9qSTlzaXFXWEh3SFFBRjNkSnRIbmdiZW8zc2tpclN6d2F5Z2RZa00tT3ZHWWJKZ1ZXMmotTVBiWFphNGxla2NENHROUU13RXNrTFJCWG1R?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-08T08:30:13.000Z",
+      "excerpt": "乳业巨头农场监控曝光 画面触目惊心 万维读者网",
+      "section": "cn-life",
+      "rankScore": 0.204779
+    }
+  ],
+  "warnings": []
+}
