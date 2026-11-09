@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-09",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-09T22:16:15.208Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "10602ec4038db20e",
+      "title": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-09T22:16:15.208Z",
+      "score": 4294,
+      "excerpt": "Hunt down social media accounts by username across social networks",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "760b3e66fbfaa5aa",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "hn-front",
+      "publishedAt": "2026-11-09T18:56:29.000Z",
+      "score": 765,
+      "author": "meetpateltech",
+      "excerpt": "765 points · 442 comments · https://news.ycombinator.com/item?id=50429906",
+      "section": "tech",
+      "rankScore": 1.067846
+    },
+    {
+      "id": "0b92170d46b39a4c",
+      "title": "From prompt to app: Build with Google Maps in AI Studio",
+      "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+      "source": "google-developers",
+      "publishedAt": "2026-11-09T22:16:15.208Z",
+      "excerpt": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "068d7403150e3df1",
+      "title": "Two apps one process",
+      "url": "https://andersmurphy.com/2026/11/09/two-apps-one-process.html",
+      "source": "lobsters",
+      "publishedAt": "2026-11-09T22:14:10.000Z",
+      "author": "andersmurphy.com by andersmurphy",
+      "section": "tech",
+      "rankScore": 0.681531
+    },
+    {
+      "id": "b5252f7274998602",
+      "title": "Java News Roundup: TornadoVM, A2A Java, Open Liberty, Open J Proxy, Gradle, EclipseStore",
+      "url": "https://www.infoq.com/news/2026/11/java-news-roundup-nov02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-09T18:40:00.000Z",
+      "author": "Michael Redlich",
+      "excerpt": "This week's Java roundup for November 2nd, 2026, features news highlighting: point releases of TornadoVM, TornadoInsight, A2A for Java, Gradle and EclipseStore; the November 2026 edition of Open Liberty; the third release candidate of Open J Proxy; the second release candidates of Micrometer…",
+      "section": "tech",
+      "rankScore": 0.641799
+    },
+    {
+      "id": "3f4488c4970e044c",
+      "title": "Never Share Your Password Again — The OAuth 2.0 Solution",
+      "url": "https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-11-09T20:50:38.000Z",
+      "author": "Srikanth Srinivas",
+      "section": "tech",
+      "rankScore": 0.626267
+    },
+    {
+      "id": "d64de0f402f79a71",
+      "title": "v2.1.321",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
+      "source": "anthropic",
+      "publishedAt": "2026-11-09T19:22:30.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Added Claude Fable 5.2 ( claude-fable-5-2 ), now the default Fable model — 1M context, $8/$40 per Mtok with $0.20/Mtok cache reads Added --settings <file> to claude remote-control , which applies a settings file to every session it starts; if the file changes, no new session starts…",
+      "section": "ai",
+      "rankScore": 0.771575
+    },
+    {
+      "id": "2e1f2c690f1f9ec0",
+      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+      "url": "https://latent.space/p/handshake/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-09T17:15:53.000Z",
+      "author": "swyx .ai",
+      "excerpt": "Handshake went from launch to $1B in one year pushing the envelope of specialized data for frontier labs. Our first deep dive into a data lab with specific examples across Finance, Bio, and Alignment",
+      "section": "ai",
+      "rankScore": 0.612663
+    },
+    {
+      "id": "1770079cfc23abda",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "huggingface",
+      "publishedAt": "2026-11-09T15:05:57.000Z",
+      "section": "ai",
+      "rankScore": 0.55698
+    },
+    {
+      "id": "34f77d1a8468caf2",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "source": "openai",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "excerpt": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "section": "ai",
+      "rankScore": 0.543897
+    },
+    {
+      "id": "06c840d79d4461a3",
+      "title": "AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
+      "url": "https://www.infoq.cn/article/CUgMFMX7uRJNMec1pfYo?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-09T16:55:59.000Z",
+      "author": "褚杏娟",
+      "section": "cn-tech",
+      "rankScore": 0.54749
+    },
+    {
+      "id": "f6d1f43bda0cce32",
+      "title": "一周 2 个外包二面，全部挂掉",
+      "url": "https://www.v2ex.com/t/1255696",
+      "source": "v2ex",
+      "publishedAt": "2026-11-09T15:14:05.000Z",
+      "score": 10,
+      "author": "qiaoqiao881100",
+      "excerpt": "- 本人前端开发，最近也花时间去学了智能体，Python 之类的。 - 差不多是刷了一个多月的 boss 才确定了这 2 个外包的面试的。 - 一面都过了，谈的也都比较好。 - 二面的时候不知道啥原因，有一个技术问题答的没那么好吧，有一个可能是年龄问题。 - 现在十分丧，已经失业 4 个月了。也不知道会不会离婚。唉。",
+      "section": "cn-tech",
+      "rankScore": 0.49407
+    },
+    {
+      "id": "79e351c5143ff3c5",
+      "title": "火星发现存在活火山的证据",
+      "url": "https://www.solidot.org/story?sid=85841",
+      "source": "solidot",
+      "publishedAt": "2026-11-09T13:19:02.000Z",
+      "excerpt": "科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。这一发现可谓寻找生命过程中的好消息，因为要使微生物免受火星表面严寒温度的侵害，就需要持续的热源。科学家已发现火星在过去几百万年间存在火山活动的证据，地震活动也暗示其中一些火山可能仍然活跃，但此前从未发现过熔岩流动或喷发的证据。2019 年，欧空局“微量气体火星轨道器”在火星大气中探测到了氯化氢的存在。这种气体在地球上通常与岩浆喷口相关联，因此，研究人员想知道火星上是否也存在类似情况。为了进一步探究，波兰研究人员分析了仅有的少量气体数据以及新拍摄的火星表面照片。",
+      "section": "cn-tech",
+      "rankScore": 0.488599
+    },
+    {
+      "id": "f4ddd5965b998956",
+      "title": "Redis 缓存架构踩坑记录：微服务网关限流熔断中的血泪教在当前高并发、分布式系统盛行的环境下，Redis 已经成为构建",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wcG1aVDZaY0VBLW5Cb0UzdW5DbnRzN1RPWlRxekVpWFFWa01iQndqMUtELWo5TE94QkEtUkRBY1E4V2FHYV9NSUVGSU9QdHBzQ1V5Sw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-09T13:13:18.000Z",
+      "excerpt": "Redis 缓存架构踩坑记录：微服务网关限流熔断中的血泪教在当前高并发、分布式系统盛行的环境下，Redis 已经成为构建 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.309016
+    },
+    {
+      "id": "f41533ad5105118d",
+      "title": "🔥🔥ApiGo 5.5 发布，新增数据行列级权限",
+      "url": "https://www.oschina.net/news/503488",
+      "source": "oschina",
+      "publishedAt": "2026-11-09T09:29:47.000Z",
+      "excerpt": "ApiGo 是面向企业的 AI Agent 受控数据服务网关与 API 与 MCP 构建平台，通过WorkBuddy、千问办公等 AI 智能体，一句话即可完成受控的 API 与 MCP 的创建发布，帮助企业把 ERP、CRM、SRM 等存量业务系统数据封装成标准化 REST API 与 MCP 工具，让 AI 智能体在策略管控下访问企业业务数据。 5.5 更新内容 1、新增接口发布...",
+      "section": "cn-tech",
+      "rankScore": 0.301513
+    }
+  ],
+  "warnings": [
+    "source \"hacker-news-sec\" failed: TypeError: fetch failed",
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
