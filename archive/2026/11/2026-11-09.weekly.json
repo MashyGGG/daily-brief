@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-09",
+  "slot": "weekly",
+  "scheduleId": "weekly",
+  "generatedAt": "2026-11-09T02:42:34.484Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 168,
+  "itemCount": 20,
+  "items": [
+    {
+      "id": "34a3384aa6326a35",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-06T19:19:15.228Z",
+      "score": 2524,
+      "excerpt": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "section": "tech",
+      "rankScore": 1.167273
+    },
+    {
+      "id": "c2c65faa3c35c1ab",
+      "title": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-04T19:42:46.727Z",
+      "score": 2053,
+      "excerpt": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "section": "tech",
+      "rankScore": 1.167273
+    },
+    {
+      "id": "5c9f3917238ba5a5",
+      "title": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-05T02:19:04.414Z",
+      "score": 1778,
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "ec486835e7090c2a",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-03T03:27:00.382Z",
+      "score": 858,
+      "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "31298215c8084750",
+      "title": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-07T17:43:38.367Z",
+      "score": 350,
+      "excerpt": "An extremely fast Python linter and code formatter, written in Rust.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "7d42a7ca644f54b0",
+      "title": "GPT-6-Cyber Investigate a vulnerability, reproduce it in an authorized test environment, or verify a fix.",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6-cyber",
+      "source": "openai",
+      "publishedAt": "2026-11-05T19:53:25.169Z",
+      "section": "ai",
+      "rankScore": 0.875
+    },
+    {
+      "id": "da96a5a4b5fdf017",
+      "title": "GPT-Image-2.6 Sunburst Image generation and editing for detailed visual work",
+      "url": "https://developers.openai.com/api/docs/models/gpt-image-2.6-sunburst",
+      "source": "openai",
+      "publishedAt": "2026-11-05T02:19:04.414Z",
+      "section": "ai",
+      "rankScore": 0.875
+    },
+    {
+      "id": "4952dcfdabd012a2",
+      "title": "v2.1.317",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
+      "source": "anthropic",
+      "publishedAt": "2026-11-03T01:25:46.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added a warning to /schedule when a new cloud scheduled task gets connectors you did not ask for, with how to remove them Added a check that asks before a web or shell tool call sends your account email address to the network Added onFailure: \"block\" for Agent SDK hook callbacks, so…",
+      "section": "ai",
+      "rankScore": 0.832903
+    },
+    {
+      "id": "9efce748bba5acca",
+      "title": "v2.1.318",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
+      "source": "anthropic",
+      "publishedAt": "2026-11-04T00:01:03.000Z",
+      "author": "ashwin-ant",
+      "excerpt": "What's changed Added a record of your answer when Claude Code asks to turn on the mods it writes in a session Added assume_role on mantle upstreams of the Claude apps gateway, for a role in another AWS account and for per-developer AWS cost attribution Added an effort option to a mod's…",
+      "section": "ai",
+      "rankScore": 0.829235
+    },
+    {
+      "id": "f16ffe3e21f42202",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-07T23:57:46.000Z",
+      "excerpt": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table.",
+      "section": "ai",
+      "rankScore": 0.81209
+    },
+    {
+      "id": "8b58cdd38fe994e1",
+      "title": "周末预约申请护照，周一周二就被户籍地阿 sir 要求必须要来线下真实",
+      "url": "https://www.v2ex.com/t/1254324",
+      "source": "v2ex",
+      "publishedAt": "2026-11-04T01:48:58.000Z",
+      "score": 21,
+      "author": "shilianmlxg",
+      "excerpt": "我的疑问 1. 我是 MJJ ，有 3xui 2. 之前确实在 bn C2C 买过 u,用于充值 claude gpt 3. 之前闲鱼买 A 股小作文群资料触发过阿 si'r 系统，要求在就近派出所登记了解情况 4. 我确实没办理我现在所在地的居住证 我是不是因为 3 的原因变成重点观察对象，还是说我户籍地是护照黑名单， 我以上 1 、2 会不会被口头警告或者是被拘留 我假如去报道，需要提前删除 tg x 等应用吗（苹果手机）",
+      "section": "cn-tech",
+      "rankScore": 0.864028
+    },
+    {
+      "id": "64b6bf3056567bd7",
+      "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+      "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-06T02:18:50.238Z",
+      "excerpt": "ACL 2026杰出论文奖（Outstanding Paper）揭晓，全球共 18 篇入选，其中包含美团履约技术团队的1篇论文。本文介绍了一种专为 RLVR 设计的低秩训练方法，以及它在业务 Agentic RL 中的落地经验。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "60d35c9578caf4a2",
+      "title": "从 LOOP 到图探索 —— 算法模型的 AutoResearch 自进化系统架构演进之路",
+      "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-05T19:53:25.169Z",
+      "excerpt": "本文分享这套系统的设计理念、架构演进与可信度设计，希望对大家有所帮助或启发。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "036f14f75460f2ba",
+      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-05T02:19:04.414Z",
+      "excerpt": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "ce6c3679d2d9d761",
+      "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
+      "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-03T19:27:40.084Z",
+      "excerpt": "美团在 MTGR 基础上提出统一推荐基座大模型 MTFM，首次实现外卖多个主要业务的统一精排模型。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "7a9cf8c66ce4f1c9",
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "source": "krebs",
+      "publishedAt": "2026-11-03T02:24:31.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud.",
+      "section": "security",
+      "rankScore": 0.750906
+    },
+    {
+      "id": "f9c2aa42f2babaae",
+      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-03T18:46:38.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys.",
+      "section": "security",
+      "rankScore": 0.68046
+    },
+    {
+      "id": "e815a8e1a071fc3c",
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-04T17:00:46.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.",
+      "section": "security",
+      "rankScore": 0.622851
+    },
+    {
+      "id": "a8bef79bc8ee0502",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-06T16:08:38.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.",
+      "section": "security",
+      "rankScore": 0.609228
+    },
+    {
+      "id": "66937ae17e094509",
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-04T16:06:43.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research.",
+      "section": "security",
+      "rankScore": 0.597113
+    }
+  ],
+  "warnings": []
+}
