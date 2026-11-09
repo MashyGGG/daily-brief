@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-09",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-09T19:46:12.903Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 5,
+  "items": [
+    {
+      "id": "0465fae974d4dac6",
+      "title": "成本降九成、产能翻两倍， AI短剧还是算不过账？",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjJLU0FzdHQxMm9ZQzNvZXZXN2J4RnRFTWtpOHdLOXRjRFBJUE1YMlBpSk1rQTlIdnhEYmxDNW0wdzkzTGM1czlKTGNyQUFhRFFMRnNDNUMzZVpqMUdNOEp5TFJtRVpoMFRhZmxYUXZ1ZmxWSHJQTkozbFlkdEd5X0pTc251YU13MTR2VWh3?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-09T11:58:00.000Z",
+      "excerpt": "成本降九成、产能翻两倍， AI短剧还是算不过账？ 手机新浪网",
+      "section": "drama-news",
+      "rankScore": 0.63497,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "aae8d1323a74caa8",
+      "title": "AI短剧《持械入宋》全网播放量突破120亿 6人草根团队创作",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUTBCY1NyMHBRSUVpRDRxSDE4MXpDenF6WkVrVDEtZkVjbFZ5c1g5SThPZzBHX1FvUjFXcGZXUkpsZ0RwRXVld1hUTUxJVE54Y2tYUDdzaWpVcm5JelVDYWxR?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-09T01:49:03.000Z",
+      "excerpt": "AI短剧《持械入宋》全网播放量突破120亿 6人草根团队创作 观点网",
+      "section": "drama-news",
+      "rankScore": 0.550394,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "1834abbd2fef0a73",
+      "title": "热度续燃 文脉传新——德州首部AI漫剧《鲁商小师爷奇遇乾隆帝》多平台热播",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YdlJya1psTzNCRzVJMTJzMm1MQW5oVkxoZHhYWkhtbkFVYlR3aHlrRDVBSTdaRHphNGMwLXUyZ1djMUpjekFnUzVqX2RIRHNseDA0MFpEeTRyU3NrZ0NQY0tsY3JtbzhUUzJJZ2ZR?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-09T00:55:24.000Z",
+      "excerpt": "热度续燃 文脉传新——德州首部AI漫剧《鲁商小师爷奇遇乾隆帝》多平台热播 鲁网",
+      "section": "drama-news",
+      "rankScore": 0.542942,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "37c09219cc93fbe7",
+      "title": "快手可灵AI完成约198.02亿元融资交割 投后估值约180亿美元",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45azA0TjNzcXZuYVZXSG1IeXplcHM2d2g1VkRMdjk1Sm1ieUgxMExDaWowd0l6YmxDejlweHVxVnlsZmpmZUdXSGQwc1pHejc1a3dWbU02NHJ5NzdNTTE3eHBR?oc=5",
+      "source": "drama-cn-models",
+      "publishedAt": "2026-11-09T11:37:50.000Z",
+      "excerpt": "快手可灵AI完成约198.02亿元融资交割 投后估值约180亿美元 观点网",
+      "section": "drama-news",
+      "rankScore": 0.41090985,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "b6826f723456e947",
+      "title": "Hong Kong may consider funding AI films in Film Development Fund review - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0NJZkQyaVl2OUJibjBCREM5YllJZWZ4aUMxM3lDRVZuSUoyYXJ1X3JUb2t5Q3kwSFhJejQ3VVdwLXYwREVucWhOcnRuLXFQZWt2ckw1WjZXS1hhaXdKa29za0VpLS1paHg0V1Vtc3hxSDNGY2NKdW55RlhQa3B4bnhKVVJadzFrMTJNS0hYaUFVdk9rMmsycHlRWVllTDdoSGtyeXVyMjZUX1NOU1JXT29OREk4dENraGlRNmlFRQ?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-09T10:41:05.000Z",
+      "excerpt": "Hong Kong may consider funding AI films in Film Development Fund review The Standard (HK)",
+      "section": "drama-news",
+      "rankScore": 0.40578655,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 国内外资讯与案例：本期 5/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 0/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "从短镜头拼成完整故事",
+      "url": "https://help.runwayml.com/hc/en-us/articles/26871350018835-How-to-create-longer-videos-and-films",
+      "task": "拆解一条喜欢的 30–60 秒作品，记录开头、变化、结尾和每镜时长。",
+      "doneWhen": "有一张至少 6 镜头的拆解表。"
+    }
+  }
+}
