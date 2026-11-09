@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-09",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-09T21:24:42.656Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "207bfbae3e3d9773",
+      "title": "非洲:南非公布2026市镇选举结果",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261109-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%8D%97%E9%9D%9E%E5%85%AC%E5%B8%832026%E5%B8%82%E9%95%87%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-09T20:26:51.000Z",
+      "author": "尼古拉",
+      "excerpt": "在南非，该国选举委员会于昨天（11月08号，星期日）公布了于11月04日（上周三）举行的2026年市镇选举的正式结果。这是本台法广非洲组（RFI Afrique）今天（11月09号，星期一）最新法文报道的看点之一。以南非现总统西里尔·拉马福萨（le président sud-africain Cyril Ramaphosa）为首的[非洲人国民大会]（le Congrès national africain，简称[非国大]）虽然遭遇重挫，但就得票率来看，依然是南非第一大党。[非国大]（l’ANC）以略超30%的得票率，在总数278个城镇中的至少125个市镇领先。",
+      "section": "news",
+      "rankScore": 0.670328
+    },
+    {
+      "id": "2b3cbef3e56b0b55",
+      "title": "白金漢宮幕僚：英王查爾斯「會考慮訪華」",
+      "url": "https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-09T16:31:02.000Z",
+      "excerpt": "白金漢宮一名幕僚表示，若貝安德首相向王室提議查爾斯三世訪華，國王將「小心考慮」。",
+      "section": "news",
+      "rankScore": 0.659275
+    },
+    {
+      "id": "ea9c967bf1e1300e",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case - media reports",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-09T21:14:52.000Z",
+      "excerpt": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
+      "section": "news",
+      "rankScore": 0.625456
+    },
+    {
+      "id": "0ea4012a9332995a",
+      "title": "Will Najib Razak be transferred to house arrest?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/9/will-najib-razak-be-transferred-to-house-arrest?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-09T21:13:02.000Z",
+      "excerpt": "Malaysia's king and government in a standoff after attorney general disputed order allowing former PM to leave jail.",
+      "section": "news",
+      "rankScore": 0.555209
+    },
+    {
+      "id": "f94ad164762b0a91",
+      "title": "Suspect in Charlie Kirk killing to stand trial for murder in July 2028",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/charlie-kirk-murder-trial",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-09T20:55:57.000Z",
+      "author": "Uwa Ede-Osifo",
+      "excerpt": "Utah judge sets timeline for trial of Tyler Robinson, accused of fatally shooting the far-right activist in September 2025 Tyler Robinson, the 23-year-old man accused of killing the far-right pundit and activist Charlie Kirk, will stand trial for murder in early July 2028, a Utah district judge…",
+      "section": "news",
+      "rankScore": 0.548201
+    },
+    {
+      "id": "451bab741d77e9c4",
+      "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
+      "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-09T20:50:12.000Z",
+      "author": "Amelia Nierenberg, Saikou Jammeh and Carlos Barragán",
+      "excerpt": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
+      "section": "news",
+      "rankScore": 0.545842
+    },
+    {
+      "id": "915b588d357a4467",
+      "title": "Arab and Muslim leaders in push to stop Trump from reigniting Iran war",
+      "url": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-09T20:56:08.000Z",
+      "excerpt": "Efforts to defuse tensions come amid fears that US president will resume hostilities",
+      "section": "news",
+      "rankScore": 0.479741
+    },
+    {
+      "id": "fa2fce4e71d8a43a",
+      "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
+      "url": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-09T20:12:15.000Z",
+      "author": "Abbie VanSickle",
+      "excerpt": "The administration had asked the court to permit construction of a border wall in southwestern Texas, including areas within a national park.",
+      "section": "news",
+      "rankScore": 0.463988
+    },
+    {
+      "id": "ddf1973c245423a0",
+      "title": "美众议员向众议院提交决议 要求弹劾国防部长赫格塞思",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aOFd5azU1d0dlTlY2RFlmLTRGWFNMU01sSEJ0NS0zbkd3VDJ4ckp2eVVNalZETUVpa0l6X1FocGJnZ2pCd2otRW1vV0hDbjRqOVo0?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-09T21:02:56.000Z",
+      "excerpt": "美众议员向众议院提交决议 要求弹劾国防部长赫格塞思 第一财经 美国防部长面临两党弹劾威胁 获特朗普力挺誓言战斗到底 财新 美共和党众议员提交决议，要求弹劾防长赫格塞思 凤凰网 美国众议院民主党领袖明确支持弹劾赫格塞思 中华网 特朗普早就想好了，既然国会已经全丢了，索性让赫格塞思背锅善后 风闻",
+      "section": "news",
+      "rankScore": 0.413299
+    },
+    {
+      "id": "2e48d285d2bef41f",
+      "title": "联合国：乌克兰平民伤亡持续增加 冬季人道主义风险加剧",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143163",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "excerpt": "联合国两位高级官员周一在安理会通报乌克兰局势时表示，随着俄罗斯持续加大对乌克兰人口密集区、民用基础设施和能源设施的袭击，乌克兰平民伤亡不断增加，人道主义局势持续恶化。随着冬季临近，电力、供暖和供水中断将使更多平民面临危险。他们呼吁各方立即停止袭击，保护平民，并确保人道主义援助安全、畅通无阻地送达。",
+      "section": "news",
+      "rankScore": 0.369364
+    },
+    {
+      "id": "9164000ef49dc16f",
+      "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+      "source": "npr-news",
+      "publishedAt": "2026-11-09T15:09:53.000Z",
+      "author": "The Associated Press",
+      "excerpt": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
+      "section": "news",
+      "rankScore": 0.355447
+    },
+    {
+      "id": "5c1847924fdf7904",
+      "title": "Cover Story newsletter: Wipeout",
+      "url": "https://www.economist.com/the-world-this-week/2026/11/09/cover-story-newsletter-wipeout",
+      "source": "economist-week",
+      "publishedAt": "2026-11-09T14:41:59.000Z",
+      "excerpt": "An exclusive look at how we designed our cover",
+      "section": "news",
+      "rankScore": 0.345431
+    },
+    {
+      "id": "4c17304e6c388ab7",
+      "title": "日本前首相石破茂受到党内警告处分",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10729097.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-09T12:56:46.000Z",
+      "excerpt": "中新社东京11月9日电 (记者 朱晨曦)据日本共同社9日报道，日本执政党自民党当天表示，针对前首相石破茂等4人在消费税减税相关法案表决前离场、未投赞成票，对他们给予警告处分。这是日本首次有前首相受到这一处分。",
+      "section": "cn-news",
+      "rankScore": 0.527419
+    },
+    {
+      "id": "a503890892337a0b",
+      "title": "中国学者发起人工智能赋能政策研究计划入选联合国科学议程",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10729111.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-09T13:14:55.000Z",
+      "excerpt": "中新网北京11月9日电 (记者 孙自法)第七届智库科学与工程国际研讨会11月8日至10日在北京举行，记者从会上获悉，由中国科学院科技战略咨询研究院院长潘教峰研究员牵头发起的“从证据到方案：人工智能驱动的政策模拟与情景分析”研究计划，2026年成功入选联合国“2024—2033年科学促进可持续发展国际十年”。",
+      "section": "cn-news",
+      "rankScore": 0.493706
+    },
+    {
+      "id": "fcd4c0a45901d345",
+      "title": "山西太原豪生国际公寓火灾造成14人遇难9人危重",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFpfWTJOSVllZkZvS0hPZHBielRnZ0xuNy1Tb3hyR3VJVVVmcVhDbHNOVzJkY0pmakdDbzR4YnlxbWtFWlZ3WldJLTk2enBzZmdXUzZFTEpGaWdPRHJLM1Q5N0gxQ1pXUE51TE5YM214aHk2WHp6RFNIRTRQQmhQbE52TVFDd3VlWmczVA?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-09T18:40:27.000Z",
+      "excerpt": "山西太原豪生国际公寓火灾造成14人遇难9人危重 搜狐网 中国太原市一栋约40层高楼发生火灾 已致14人死亡 20多人受伤 RFI 太原一高层建筑起火14人死亡 物业公司曾多次被罚 财新 太原公寓大火烧在119前一天，消防日不是宣传日，是行动日 凤凰网 太原火灾危重伤9人重伤4人 25人在院全力救治 中华网",
+      "section": "cn-news",
+      "rankScore": 0.492611
+    },
+    {
+      "id": "901ddf15b27f4764",
+      "title": "国际油价9日显著下跌",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNnNneXlXdDdYbFVwMTlsbE5IbFpTQ3FEXzhVNHpEV0c2YnNqZm5UdUtSckI1LXgtZW9JX2FWcEo0QXdLTjViZ0poS0hmQndUcDYxWFl2c1VSaWFQNnhGZ0VBLTV4VGVMS0dQd0dZdEthOVUydlRlZ09uY01KTFRsdFFfcmxnRHEt?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-09T20:50:20.000Z",
+      "excerpt": "国际油价9日显著下跌 新华网 受伊朗局势影响，油价延续2020年以来最大单周跌幅 新浪网 全球股市集体拉升 原油直线闪崩 中东局势缓和信号显现 中华网 对冲基金一周抛售66亿美元布油多头！美伊战争预期逆转引爆油市平仓潮 金融界 油价调整通知 ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.477659
+    },
+    {
+      "id": "877a77df5b4b5d93",
+      "title": "西安市特种设备安全附件检测站原站长蒲恒接受纪律审查和监察调查",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05eWlGUF9ianRhQTRGc29hRi1RemdBZUtBcm1yQVlZLTV5eW9LbndTV3Vmb2FKbnF5Yk5Sb2hoUXc0QTBsSTc0Z1hIQ3FQQnh4N0stQWpJMXRQTmFmRUE?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-09T15:12:10.000Z",
+      "excerpt": "西安市特种设备安全附件检测站原站长蒲恒接受纪律审查和监察调查 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.458056
+    },
+    {
+      "id": "fca8ff03fc755620",
+      "title": "新西兰作家尤金·道尔：全球气候行动中，中国是“房间里成熟的大人”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729152.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-09T14:29:37.000Z",
+      "excerpt": "中新网安塔利亚11月9日电 (记者 魏园)“在我看来，中国是‘房间里成熟的大人’。”《联合国气候变化框架公约》第三十一次缔约方大会(COP31)于11月9日至20日在土耳其安塔利亚举行。关注中东问题以及亚太地区和平与安全的新西兰作家尤金·道尔(Eugene Doyle)接受中新网记者专访时表示，很多人仍未真正意识到中国对全球能源转型的贡献有多大，应对气候变化需要的是行动而非贸易壁垒，地缘政治竞争不应成为各国推进气候合作的障碍。",
+      "section": "cn-news",
+      "rankScore": 0.438418
+    },
+    {
+      "id": "07106ad4a8335748",
+      "title": "诗人翟永明的绘画之路",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NazdXczlBU21RT3BPeVlTTG1STXl4MWdDaTQwMHpNd3Q1NjFidERIUlppSVdiTjBLZXpsRkVVS0ljNlFxVjM5QW9XRGVYU0Rvd2tWR1NELVRVOEI0eGJnaw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-09T13:12:16.000Z",
+      "excerpt": "诗人翟永明的绘画之路",
+      "section": "cn-news",
+      "rankScore": 0.402718
+    },
+    {
+      "id": "ab5443b53aa32399",
+      "title": "中國10月CPI年增0.7% 近3個月低點",
+      "url": "https://www.cna.com.tw/news/acn/202611090288.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-09T14:26:03.000Z",
+      "excerpt": "（中央社台北9日電）中國國家統計局今天公布，中國大陸10月消費者物價指數（CPI）年增0.7%，升幅較9月縮小0.2個百分點。香港經濟日報報導，10月數字低於市場預期的0.8%，是近3個月的低點。",
+      "section": "cn-news",
+      "rankScore": 0.388242
+    },
+    {
+      "id": "45dd544a11557dde",
+      "title": "内蒙古职工足球队首夺中国企超冠军",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFVBWDRNZjdzRFZTejBmMmt0M0pXX2QzdWxnRnY4cmZDbGx3dzlvLU11a0RjaWNRTVZob3Y4bTE5UUFEQ1h5NDZFNkktOWZEZVV0TXpueWRZaWJrdzhuZmloSXpTU2Y0dFJ5dkRyeDl5b2NNSkJlVzIzbG9qcDUyUHdlU1ZRQWtfeThhRw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-09T18:26:11.000Z",
+      "excerpt": "内蒙古职工足球队首夺中国企超冠军 搜狐网 第十届中国职工足球联赛闭幕 中国日报网 第十届中国职工足球联赛柳州开幕 腾讯新闻 逆转胜利！大庆石油人如何在全国职工足球赛中展现团队精神 搜狐网 点球取胜！上海市总工会代表队“奋斗杯”首战告捷！ 劳动观察",
+      "section": "cn-news",
+      "rankScore": 0.365068
+    },
+    {
+      "id": "34dc01f2f16e2caf",
+      "title": "Fresh GJ-11 footage gives a glimpse of weapon bay on China’s next-gen drone",
+      "url": "https://www.scmp.com/news/china/military/article/3373839/fresh-gj-11-footage-gives-glimpse-weapon-bay-chinas-next-gen-drone",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-09T14:20:46.000Z",
+      "author": "Liu Zhen",
+      "excerpt": "China has released new images of its GJ-11 stealth combat drone, offering a closer look at the advanced design and high-performance features of the next-generation uncrewed aircraft.",
+      "section": "cn-news",
+      "rankScore": 0.337815
+    },
+    {
+      "id": "6d0ec2ff7aca6578",
+      "title": "2026全球数商大会丨 张建生：数商赋能就业 AI精准撮合供需",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zVWw5aGtlUEpadHVCR1F3MktaYVlGdWk3bG5YZzdwcWtQSVRDY1A2d3hNZVpLQld3TkFHY3VfMk9Hc1lCNko5SWlMQjY0UVJZQms4VQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-09T20:06:16.000Z",
+      "excerpt": "2026全球数商大会丨 张建生：数商赋能就业 AI精准撮合供需 第一财经",
+      "section": "cn-life",
+      "rankScore": 0.593795
+    },
+    {
+      "id": "1e480d53c8bd7259",
+      "title": "送别翻译家谢莹莹：明亮的生命之歌将永远回响",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729148.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-09T14:14:18.000Z",
+      "excerpt": "中新社北京11月9日电 题：送别翻译家谢莹莹：明亮的生命之歌将永远回响",
+      "section": "cn-life",
+      "rankScore": 0.575132
+    },
+    {
+      "id": "bd8f19cce70037a2",
+      "title": "台风“查帕卡”加强势头 或接近小笠原诸岛",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51aUlKb0lVclhLMnFNcEF5dGxWV0JGc3otRWNWZjVyTlczTnNOYi1MS1UydlJYTXh5ZklvRzA0dFQwQUhZcFREekpJVmk0cDVpaFp1WUlQcw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-09T19:10:55.000Z",
+      "excerpt": "台风“查帕卡”加强势头 或接近小笠原诸岛 共同网",
+      "section": "cn-life",
+      "rankScore": 0.568249
+    },
+    {
+      "id": "eaf49c13cb8003f1",
+      "title": "9.9元一大袋，超市卖的速冻饺子为什么这么便宜？",
+      "url": "https://www.chinanews.com.cn/life/2026/11-09/10729066.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-09T12:23:40.000Z",
+      "excerpt": "9.9元一大袋！超市卖的速冻饺子为什么这么便宜？真能放心吃吗？",
+      "section": "cn-life",
+      "rankScore": 0.422541
+    },
+    {
+      "id": "41482a9478bf39a2",
+      "title": "奥迪中国郑重声明：谨防虚假召回短信",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WNkE2aGpONjRFZHVKU19Ud1pwaWw2S2JSUXhOT2pZdktkWkNVSHNRUjRRM3J6Zmx0RTRhVWp0Z0IwdnIyZF8xZzRpcjdETm5OR0o1b29qbHpwZVRkb1YyY0l3QkItUQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-09T16:11:45.000Z",
+      "excerpt": "奥迪中国郑重声明：谨防虚假召回短信 东方财富",
+      "section": "cn-life",
+      "rankScore": 0.377655
+    },
+    {
+      "id": "e9f522dcfc702c43",
+      "title": "靶向调节性 T 细胞的 Fer-1 脂质纳米颗粒通过抑制铁死亡改善系统性红斑狼疮",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40VFNaekVKUHVFS090enBBTWJaMklIUGFXQkU0WTFCVTFrTXY2Z3BkRGdkeERSVGlRTzc1U2xaT1V4TzY1NExQakYxZGFyWllPODlFMV9vTjJWX2hZS0xlc2R5VkJodE1WSXYtc2FB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-09T16:03:59.000Z",
+      "excerpt": "靶向调节性 T 细胞的 Fer-1 脂质纳米颗粒通过抑制铁死亡改善系统性红斑狼疮 生物通",
+      "section": "cn-life",
+      "rankScore": 0.374867
+    },
+    {
+      "id": "c6e2d794cdf0a447",
+      "title": "南岸区街镇全景图",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNMGVvXzlxejM3TlNYUVFUbmIzLVYyZzljaWZoaEJNblBpVHRtaTBoTnhJcUhtay1lVnA0U1VYV0FpVWJXNnV0RzNEQUVnLXNFMjNweGo3NFZrVDRuMHI4NmNreG16azlVVFBIWXZKVVJCTU91Nk51VGx4ZmotOHhHY1Nsa1F5LVJLalhLVTlYNWNNTEtsZ0lRUlY5ME5IcHVlbWtnbGo0RTN1WGxOdmw4R09haFY1MkR3XzZkOThVeHRhbG01cktmN2luSjZnS19NSHRmdTB3NHN3S3VIdk1Db2IweFRZRzMyNUFYY1laRkM5aWJkdGQwRTd5aWtrUnNkV3dfSGlnUUtHQ0x0ZDJ6NGo2WTMzeTBVeExBMjdnRVJhVkVOcXNiUDJLclBzcnRsZTc4RTZEMWVZWmVkaURncUtrV3gtcEpONHdxREFwaWF5VGYwSi1ZQkdldXNjSXdLaXc5RzRHQ3UxZjNQS29IXw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-09T11:53:04.000Z",
+      "excerpt": "南岸区街镇全景图 重庆市南岸区人民政府",
+      "section": "cn-life",
+      "rankScore": 0.325479
+    },
+    {
+      "id": "7e2d73fee044c884",
+      "title": "成都主导 全国首个公众气象教育服务国家标准获批立项",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kc3J1SUtPTTh1OGV4YkQ0a0VsRlVJaVNvZ1BwVlBuSzdqWk1jbmxWeGt6Mk1HZGJVUGJhTjBfY1JMaW9MWk9BVUpzMnJnZw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-09T15:01:00.000Z",
+      "excerpt": "成都主导 全国首个公众气象教育服务国家标准获批立项 川观新闻",
+      "section": "cn-life",
+      "rankScore": 0.301935
+    }
+  ],
+  "warnings": []
+}
