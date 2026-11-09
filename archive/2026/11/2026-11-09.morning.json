@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-09",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-09T01:40:44.812Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "2bf9e4535bf6936d",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "hn-front",
+      "publishedAt": "2026-11-08T18:16:07.000Z",
+      "score": 594,
+      "author": "TheWiggles",
+      "excerpt": "594 points · 356 comments · https://news.ycombinator.com/item?id=50415628",
+      "section": "tech",
+      "rankScore": 1.02929
+    },
+    {
+      "id": "4fba482bf7460cfa",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "source": "hn-front",
+      "publishedAt": "2026-11-08T22:20:09.000Z",
+      "score": 336,
+      "author": "karimf",
+      "excerpt": "336 points · 340 comments · https://news.ycombinator.com/item?id=50418016",
+      "section": "tech",
+      "rankScore": 1.020634
+    },
+    {
+      "id": "5e1257f6682ad150",
+      "title": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-09T01:40:44.812Z",
+      "score": 460,
+      "excerpt": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "section": "tech",
+      "rankScore": 1.02
+    },
+    {
+      "id": "af99edec5c5da519",
+      "title": "I Dislike Pull Requests (2020)",
+      "url": "https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38",
+      "source": "lobsters",
+      "publishedAt": "2026-11-08T23:10:34.000Z",
+      "author": "medium.com via AccidentallyInvited",
+      "section": "tech",
+      "rankScore": 0.641826
+    },
+    {
+      "id": "4e2a2a8fced56cc6",
+      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "source": "verge",
+      "publishedAt": "2026-11-08T22:37:22.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. […]",
+      "section": "tech",
+      "rankScore": 0.454343
+    },
+    {
+      "id": "5de9fd249de44129",
+      "title": "Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal",
+      "url": "https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-08T07:16:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "Google Cloud has made a self-managed VMware solution generally available, running VMware Cloud Foundation 9.x on dedicated Z3 bare metal with root access across ESXi, vCenter and NSX in 22 regions.",
+      "section": "tech",
+      "rankScore": 0.42261
+    },
+    {
+      "id": "8fb0af8fb5b89fb0",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-08T22:26:00.000Z",
+      "excerpt": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and…",
+      "section": "ai",
+      "rankScore": 0.775084
+    },
+    {
+      "id": "205d55283118bf1c",
+      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "url": "https://latent.space/p/cs146s/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-08T21:41:44.000Z",
+      "author": "swyx .ai",
+      "excerpt": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
+      "section": "ai",
+      "rankScore": 0.696968
+    },
+    {
+      "id": "3f798e53e0519191",
+      "title": "收集了 100 多家老牌机场, 整理成文档分享了",
+      "url": "https://www.v2ex.com/t/1255420",
+      "source": "v2ex",
+      "publishedAt": "2026-11-09T00:10:40.000Z",
+      "score": 19,
+      "author": "gokoulee",
+      "excerpt": "因为众所周知的原因, 中转都干爬下了, 对延迟敏感, 不得不寻找新机场了. 从网上各大机场推荐扒的, 还有 v 站的 aff man, 关闭注册/无效的机场已去除. 文档地址: 404ms.com/vpn",
+      "section": "cn-tech",
+      "rankScore": 0.78748
+    },
+    {
+      "id": "d3baf5e0dfbfd90c",
+      "title": "Agent 越用越多，企业为何仍不够 AI Native？",
+      "url": "https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-09T00:08:00.000Z",
+      "author": "籍云",
+      "section": "cn-tech",
+      "rankScore": 0.674237
+    },
+    {
+      "id": "3737ffeb1dd4e69d",
+      "title": "ICLR 2027首轮评审，槽点有点多",
+      "url": "https://www.36kr.com/p/4060588302029697",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-09T00:26:52.000Z",
+      "author": "机器之心",
+      "excerpt": "这几天，机器学习顶会 ICLR 2027 的首轮评审意见陆续公开。 对论文作者来说，这通常是一个颇为紧张的时刻。几个月甚至一两年的研究工作，终于要接受同行检验。审稿人会仔细检查方法、实验和理论推导，指出研究中真正存在的问题。 但今年，一些研究者打开 OpenReview 后，看到的评审意见却让人有些哭笑不得。 ICLR 2027 的同行评审，一时间成了 AI 圈的一场大型吐槽现场。 有人让作者解释标准差，有人把 AI 提示词直接贴了上来 先来看加州大学伯克利分校的 Hanchen Li。",
+      "section": "cn-tech",
+      "rankScore": 0.61153
+    },
+    {
+      "id": "a355f13e7e0c80c3",
+      "title": "太平洋垃圾带海水变得更蓝更绿",
+      "url": "https://www.solidot.org/story?sid=85828",
+      "source": "solidot",
+      "publishedAt": "2026-11-08T14:40:27.000Z",
+      "excerpt": "2002-2022 年间，在太平洋垃圾带内，部分太平洋海域的颜色发生了变化，部分区域明显变得更蓝、更绿。一项新研究表明，这可能是海水中微塑料浓度增加所致。直径小于 300 微米的微塑料颗粒造成的海洋污染难以直接测量，实验室研究表明，这一尺寸的微塑料具有特定的光学特性，或许能让人们通过遥感手段测量其在海水中的浓度。太平洋垃圾带适合用来检验这一方法，因为2016年的原位测量显示，该区域近表层海水中较大微塑料颗粒的含量可能超过每立方米 17 毫克。太平洋垃圾带位于太平洋亚热带环流中心海域，是人类丢弃的塑料垃圾在洋流作用下长期聚集形成的巨大漂浮垃圾堆积区。",
+      "section": "cn-tech",
+      "rankScore": 0.568243
+    },
+    {
+      "id": "910d0eb57d09d3ea",
+      "title": "手绘白板动画的生产线拆解：AI 出图、笔迹对齐、镜头渲染七道工序（附 21 个开源脚本）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRWFdSakxlR21ONWxuamtXSTcyY2YtSzJGa3dsTEpHMjB1Nm9YLVkzLUlibzdKVzVwSGk2cVdMd29oWGhYRHk4VHpMdm5rQ1JVZDl4ag?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-08T22:49:25.000Z",
+      "excerpt": "手绘白板动画的生产线拆解：AI 出图、笔迹对齐、镜头渲染七道工序（附 21 个开源脚本） 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.456686
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" failed: Error: HTTP 415",
+    "source \"oschina\" failed: TypeError: fetch failed",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
