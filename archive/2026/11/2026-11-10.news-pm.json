@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-10",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-10T18:38:37.355Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "395ab2ccc7967c05",
+      "title": "华盛顿谴责澳门对一名亲民主派前议员的判决",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261110-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E8%B0%B4%E8%B4%A3%E6%BE%B3%E9%97%A8%E5%AF%B9%E4%B8%80%E5%90%8D%E4%BA%B2%E6%B0%91%E4%B8%BB%E6%B4%BE%E5%89%8D%E8%AE%AE%E5%91%98%E7%9A%84%E5%88%A4%E5%86%B3",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-10T18:28:24.000Z",
+      "author": "古莉",
+      "excerpt": "华盛顿表示，澳门亲民主活动人士前议员区锦新被判重刑，凸显北京利用广泛的国安权力压制和平的政治异议并打压基本自由。",
+      "section": "news",
+      "rankScore": 0.694758
+    },
+    {
+      "id": "f1f6d288a2c8e6d1",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-10T18:04:18.000Z",
+      "excerpt": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "section": "news",
+      "rankScore": 0.614159
+    },
+    {
+      "id": "8d2750c5803a0f20",
+      "title": "英國笑匠布蘭德強姦案判刑 為何BBC和貝安德均作表態？",
+      "url": "https://www.bbc.com/zhongwen/articles/cqly0yemem08o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-10T11:58:44.000Z",
+      "excerpt": "這名聲名狼藉的藝人被判監禁十年半。英國首相貝安德表示，十年前曾與這名喜劇演員交往的工黨政治人物當時並不知道他的罪行。",
+      "section": "news",
+      "rankScore": 0.593914
+    },
+    {
+      "id": "924d913000c0bbb0",
+      "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
+      "url": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-10T18:34:55.000Z",
+      "author": "Alan Cowell",
+      "excerpt": "“It is faith that man needs, not past doctrines,” he said in defense of his views, which became a cause célèbre for many but were condemned by others.",
+      "section": "news",
+      "rankScore": 0.55848
+    },
+    {
+      "id": "1c054e92623168bc",
+      "title": "Judge who sentenced Russell Brand praised for dispelling rape myths",
+      "url": "https://www.theguardian.com/news/2026/nov/10/judge-sentenced-russell-brand-praised-rape-myths-justice-bennathan",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-10T18:11:00.000Z",
+      "author": "Haroon Siddique Legal affairs correspondent",
+      "excerpt": "Criminal Bar Association and campaigners hail Mr Justice Bennathan for delivering remarks with ‘piercing clarity’ The judge who sentenced Russell Brand has been praised for dispelling rape myths with “piercing clarity”. Mr Justice Bennathan’s sentencing remarks were particularly welcomed given…",
+      "section": "news",
+      "rankScore": 0.548668
+    },
+    {
+      "id": "0815d6d351ec9381",
+      "title": "Spain braces for nationwide strike as anger over housing, costs boils over",
+      "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-10T18:07:23.000Z",
+      "excerpt": "The 24-hour walkout, called by Spain’s two biggest unions, is due to start on Wednesday.",
+      "section": "news",
+      "rankScore": 0.547184
+    },
+    {
+      "id": "0d01a03302a1c393",
+      "title": "Battle to reclaim the Republican Party",
+      "url": "https://www.ft.com/content/0948dbc1-d5cb-4b41-adce-880ea1bf97b9?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-10T18:15:50.000Z",
+      "excerpt": "The choice is America First without Trump or a swing to a broader pragmatism",
+      "section": "news",
+      "rankScore": 0.481819
+    },
+    {
+      "id": "04137438d3101165",
+      "title": "JD Vance Trots Out an Old Scapegoat",
+      "url": "https://www.nytimes.com/2026/11/10/opinion/vance-trump-midterms-israel.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-10T18:05:06.000Z",
+      "author": "Bret Stephens",
+      "excerpt": "Contra the vice president, the cause of last week’s G.O.P. debacle is a conservatism of fools.",
+      "section": "news",
+      "rankScore": 0.477966
+    },
+    {
+      "id": "17fc465c8a40efb0",
+      "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
+      "source": "npr-news",
+      "publishedAt": "2026-11-10T17:46:25.000Z",
+      "author": "Tonya Mosley",
+      "excerpt": "Mona Chalabi spent five years following Americans living paycheck to paycheck, as well as those earning top wages. Her new book, Ten Lives, explores why financial security can feel so elusive.",
+      "section": "news",
+      "rankScore": 0.471259
+    },
+    {
+      "id": "836bf7a9f3258e72",
+      "title": "古特雷斯：必须加快摆脱化石燃料转型并加强国际合作",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143168",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "excerpt": "联合国秘书长古特雷斯周二在土耳其安塔利亚举行的第30届联合国气候变化大会上发表讲话，强调加快摆脱化石燃料的转型，对于将全球气温升幅控制在1.5摄氏度以内，以及建设更清洁、更安全和更具韧性的经济体至关重要。他呼吁各国制定具体转型路线图，加强国际合作，将摆脱化石燃料的承诺转化为实际行动。",
+      "section": "news",
+      "rankScore": 0.44602
+    },
+    {
+      "id": "b1f761eec4a49abe",
+      "title": "伊拉克调整与伊朗边境口岸的开放安排",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLQl96VVlkM2lGLXdtSDZUaVFVYVpXQmZ2WnVmTThjTFVhZDBCMkVtajFPT0xxVWJtWDctVlNObEQtV1g3T01mVTh4SzA1SW9NOXN4a0FKRjhqOHNLTnBHb0E2dzMzQQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-10T17:38:45.000Z",
+      "excerpt": "伊拉克调整与伊朗边境口岸的开放安排 东方财富",
+      "section": "news",
+      "rankScore": 0.401578
+    },
+    {
+      "id": "35acc8e6fb8ba5c2",
+      "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168774",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "excerpt": "With South Sudan just six weeks away from its first national elections since independence, the Security Council meets in New York Tuesday amid deepening political uncertainty and worsening violence.",
+      "section": "news",
+      "rankScore": 0.297347
+    },
+    {
+      "id": "dede23a746e38e25",
+      "title": "中国深部岩芯钻探最大深度提升至7000米级",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729849.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-10T14:10:18.000Z",
+      "excerpt": "中新社济南11月10日电 (周艺伟)据山东省地质矿产勘查开发局11月10日消息，日前投用的中国地矿领域首台全自动化钻机——ZJ50DB/XD70DB，将中国深部岩芯钻探的最大深度提升至7000米级。",
+      "section": "cn-news",
+      "rankScore": 0.618639
+    },
+    {
+      "id": "53a12ec851fdf4d1",
+      "title": "事关守信激励措施 两部门作出部署",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729704.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-10T11:42:46.000Z",
+      "excerpt": "中新网11月10日电 据国家发改委网站消息，为进一步明确信用激励的认定主体、激励对象和实施方式，提升激励措施的系统性、协同性和可感性，促进形成诚信者受益的良好氛围，国家发展改革委、中国人民银行近日联合印发《全国守信激励措施基础清单(2026年版)》。",
+      "section": "cn-news",
+      "rankScore": 0.584089
+    },
+    {
+      "id": "8174abc7b25eccfa",
+      "title": "西安就小区公共收益管理办法征求意见",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hdjE2c3JjZnBUMXJMNXR3Mk00aERMMG1FTVlkam5id2tSY0x4LThtdnpPRHRKdi1XT1ctcU9Od0h0ek1kZDRsU0d4d3JwQnNDNENZOW1BcEh4VGg2WHc?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-10T16:40:37.000Z",
+      "excerpt": "西安就小区公共收益管理办法征求意见 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.575536
+    },
+    {
+      "id": "d00b134437a6490a",
+      "title": "胡军：产业向新向绿让中国经济增长动能更加强劲",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729860.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-10T15:28:40.000Z",
+      "excerpt": "中新网安塔利亚11月10日电(记者 魏园 陈溯 徐峻杰)当地时间11月10日，在土耳其安塔利亚举行的《联合国气候变化框架公约》第三十一次缔约方大会(COP31)中国角主题边会上，习近平生态文明思想研究中心主任、生态环境部环境与经济政策研究中心主任胡军发布题为《“绿水青山就是金山银山”——中国绿色发展之路》的智库报告，并围绕中国绿色发展的理念、实践与世界意义展开探讨。",
+      "section": "cn-news",
+      "rankScore": 0.542328
+    },
+    {
+      "id": "48958af1f6317b1e",
+      "title": "多地抢抓旺季窗口期发放消费券",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10dktNa1VzNTFWQzNBd0RzUTNNU2FhQjlwT3NQUzRUdl8wNkRCY3dNTjhrWXMyaEpralFWLUtCX245eWxXSEV5SjhJVEpTT1Y1VkZ5ZUxVZnRjQ1ZMRW5IQlY1dUtmdw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-10T16:58:44.000Z",
+      "excerpt": "多地抢抓旺季窗口期发放消费券 东方财富 打好电商“品质牌”，广西掀起消费“热浪” 人民网 福寿河池惠民福利来袭！河池零售、餐饮消费券11月6日开抢，有奖发票抽奖已上线 凤凰网 桂粤琼客家美食交流活动圆满举办 东盟头条 最高可中500元！广西有奖发票活动于11月10日全面启动 广西新闻网",
+      "section": "cn-news",
+      "rankScore": 0.51902
+    },
+    {
+      "id": "3691eb1ab8b3fef2",
+      "title": "辽宁大连22岁失联男子遗体已找到，父亲：凌晨2点在国道被车撞伤头部身亡，警方已联系认尸",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tWnZhSFp6UFZFaU1OcTduR3haalBpQms3amxRdmdiWWMyaGwtZEozdjdwN2wxTV83UDY3UWh6b1I2YVpFcl9zVmk1cnQ2R1ZKN3JIemxqM0hLdUxMZnV1Rg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-10T13:30:00.000Z",
+      "excerpt": "辽宁大连22岁失联男子遗体已找到，父亲：凌晨2点在国道被车撞伤头部身亡，警方已联系认尸",
+      "section": "cn-news",
+      "rankScore": 0.487559
+    },
+    {
+      "id": "d7e994c74eb0ebb6",
+      "title": "西安男子開怪手破壞政府大樓門口 疑因拆遷糾紛",
+      "url": "https://www.cna.com.tw/news/acn/202611100367.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-10T14:33:56.000Z",
+      "excerpt": "（中央社台北10日電）中國陜西省西安市一處政務服務中心9日遭人開怪手撞擊破壞建築。西安西咸新區發布警情通報證實此事，表示已在現場控制肇事男子。警方未說明男子犯案動機，網上則傳言疑似是拆遷糾紛。",
+      "section": "cn-news",
+      "rankScore": 0.459615
+    },
+    {
+      "id": "33df07e80a479357",
+      "title": "Anthropic IPO拟发行8.25亿股 AI巨头冲刺上市",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UlVndXFIb0VZRl9sMlZNVl84aDhVVlBaTVg3SGpyTHFnZjZxcWtqSDhPbTA2Y2dOYlBQS2VnUGJuX2FtcUlkTFhTd3dWUWpOMC1jSGFOd3hZTVdfQmJXdHJiZnF4dDBZTUZDTE9Fa0w?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-10T15:42:02.000Z",
+      "excerpt": "Anthropic IPO拟发行8.25亿股 AI巨头冲刺上市 中华网 冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元 华尔街见闻 估值下调，核心成员离职，Anthropic上市逢“多事之秋”，紧急发布最强模型 同花顺财经 史上最大AI IPO遇乌龙：Anthropic披露693亿美元融资后撤回文件，七大科技巨头260亿美元押注同期曝光 凤凰网 高盛预测Anthropic 2030年营收突破6000亿美元 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.426609
+    },
+    {
+      "id": "564edf24c55ed0a9",
+      "title": "Xi and Trump set for Apec talks, but major deliverables expected to wait for G20",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373969/xi-and-trump-set-apec-talks-major-deliverables-expected-wait-g20",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-10T14:00:10.000Z",
+      "author": "Carol Yang",
+      "excerpt": "The presidents of the US and China are set to meet again at next week’s Apec summit, but observers expect few tangible bilateral deliverables to emerge from their talks.",
+      "section": "cn-news",
+      "rankScore": 0.390041
+    },
+    {
+      "id": "eb57b11f27ecc7f4",
+      "title": "梁家辉获第39届金鸡奖最佳男主角奖，高叶获最佳女主角奖",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ONjRMMWQ0NWlkQlNqMFdNamd1Q2RGdlp6Q3hrdjNyV3FPS3NQcGtBNC1EQ0FMLWZLZ0QxdF9wYTJ6UjhoZVRPT3NHbVJnNFBYMFE?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-10T15:45:00.000Z",
+      "excerpt": "梁家辉获第39届金鸡奖最佳男主角奖，高叶获最佳女主角奖 自贡网 《南京照相馆》获金鸡奖最佳故事片奖 新浪财经_金融信息服务商 第39届中国电影金鸡奖名单公布！《浪浪山小妖怪》获最佳动画片 驱动之家 高叶哽咽落泪 多年努力终获认可 中华网娱乐 梁家辉获第39届金鸡奖最佳男主角，高叶获最佳女主角；梁家辉打破“演反派不能得奖”传言，这是他入行40多年来首次获金鸡奖 搜狐网",
+      "section": "cn-news",
+      "rankScore": 0.366578
+    },
+    {
+      "id": "7037e0aa1ce4cb77",
+      "title": "商家呼吁“取消外卖”？实为MCN制造对立、虚假摆拍引流",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729864.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-10T15:33:43.000Z",
+      "excerpt": "近期，社交平台上出现了一批内容为“取消外卖”“下架外卖”等话题的短视频，引发广泛关注。这些视频呈现出明显的模板化，且通常由多个账号在短期内批量生产，看似是个别餐饮商家的表态和呼吁，实则是深谙“情绪即流量”的MCN机构炮制的舆论噱头。",
+      "section": "cn-life",
+      "rankScore": 0.726212
+    },
+    {
+      "id": "a0e08ee5a5f6a24b",
+      "title": "为何美国非农就业报告如此难以预测？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CNTlwdkJRbGV5MjZLSU93b2Z5X3p0S3BCRkg0Y3U4MF82d1NZd0I5LW9rRTdPUUlYNGFMVXBQQ3VNM0ZsRnQxVUZqeVgzSU95SFZsaXg5eHBCLV9mSGJVTw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-10T18:15:27.000Z",
+      "excerpt": "为何美国非农就业报告如此难以预测？ 同花顺财经",
+      "section": "cn-life",
+      "rankScore": 0.619305
+    },
+    {
+      "id": "8571de44554ed16d",
+      "title": "【冶金与能源学院】开展消防器材应急演练",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VUZwbzNSVUo3bmJWTHFWd1RRZXJYa1EzZ2Q1RzRlRFhfd3lGVUNrUm1namVBcDlJUmhJVm1JREp5YWNzVE1oTVB0ZW5hYlQ5WFBScE9HQkc?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-10T17:09:31.000Z",
+      "excerpt": "【冶金与能源学院】开展消防器材应急演练 武汉科技大学",
+      "section": "cn-life",
+      "rankScore": 0.588874
+    },
+    {
+      "id": "61572aa20eda82d8",
+      "title": "¹⁸F-FDG PET/MRI与PET/CT在皮肌炎肌肉评估及恶性肿瘤筛查中的应用研究",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iMFBoY0wzRzlVTG1Ca1J2enAyZFg4NFZfY3NoVmVWWGxWZE9FaTY2QjFaUXZkck96c1g3dUZHOTRJbERDVGFJNGs0YWtDV0tVdnF4M3owZTA0djg4RW9jZk9jNWE0MzZodkJXYnFkVQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-10T17:57:34.000Z",
+      "excerpt": "¹⁸F-FDG PET/MRI与PET/CT在皮肌炎肌肉评估及恶性肿瘤筛查中的应用研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.475262
+    },
+    {
+      "id": "7215f2e8a9cd7a30",
+      "title": "门锁存溜车风险！ 奔驰在华召回超18万辆车",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNblpleHctM01iX3RqTUE3WjlnTTNtMDAxbzZ3NDEyY0YydGtUalNiczI5ODh6TUJLTXFSMldhZW1lUWJVNTJyR0Z5dmNzanBXVldYSE1sRU8zT04tbDJsMUhXcm1NWFhkR3dUYlo5aVAteHl2c241NGdzX0szRnJLMnFUUGxFODZTUnk2bHc4TQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-10T17:49:22.000Z",
+      "excerpt": "门锁存溜车风险！ 奔驰在华召回超18万辆车 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.472318
+    },
+    {
+      "id": "cefc6ce8ffff42b9",
+      "title": "《中医药传统知识保护条例》公布 将建立数据库与保护名录",
+      "url": "https://www.chinanews.com.cn/life/2026/11-10/10729609.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-10T09:59:37.000Z",
+      "excerpt": "《中医药传统知识保护条例》(以下简称《条例》)11月9日公布，将于2027年1月1日起正式施行，这是我国首部中医药传统知识保护行政法规。",
+      "section": "cn-life",
+      "rankScore": 0.433843
+    },
+    {
+      "id": "24616f788cb90182",
+      "title": "2026年11月10日外交部发言人郭嘉昆主持例行记者会",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VUUdfOEY3bmctamdOU0QxZGpRM29TaVhuQ2tsSFVXdE1ZckFVc29aa29YdmgxMDJTY2QtVTZVODY2a0JXNzVtNExrR1FWY3FKR2J5SlBoS1Q2cnBkS3Y3S2FyM2ZISGtIUzQxRTVZSU5CTnU0V1FF?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-10T13:30:38.000Z",
+      "excerpt": "2026年11月10日外交部发言人郭嘉昆主持例行记者会 驻荷兰大使馆",
+      "section": "cn-life",
+      "rankScore": 0.433645
+    },
+    {
+      "id": "cd155e3dc51ccb4b",
+      "title": "北京一零一中教育集团校长熊永昌：让生态文明扎根孩子心中",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xVHV3ZWlzWHg5Zm9wT1Z0V1ZSXy1MZW1vcHMyLW1PbkI2UTQ4em1SakhHQ01WOVlyRXdwZXZBendrN1dUSXFqYUY4TG5udFJnTmJvcVVLeWVkcmJnNE13RzhZdGtaQmZjQnc?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-10T14:59:43.000Z",
+      "excerpt": "北京一零一中教育集团校长熊永昌：让生态文明扎根孩子心中 中国新闻网",
+      "section": "cn-life",
+      "rankScore": 0.352644
+    }
+  ],
+  "warnings": []
+}
