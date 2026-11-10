@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-10",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-10T04:03:50.878Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "46fe32e29c46cb6d",
+      "title": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-10T04:03:50.878Z",
+      "score": 574,
+      "excerpt": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "section": "tech",
+      "rankScore": 0.984
+    },
+    {
+      "id": "ab396d78b01bb0d0",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "source": "hn-front",
+      "publishedAt": "2026-11-09T19:58:59.000Z",
+      "score": 529,
+      "author": "munro",
+      "excerpt": "529 points · 272 comments · https://news.ycombinator.com/item?id=50431058",
+      "section": "tech",
+      "rankScore": 0.963378
+    },
+    {
+      "id": "2054496d1b7be969",
+      "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
+      "url": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-10T00:48:20.000Z",
+      "author": "shkspr.mobi via soulcutter",
+      "section": "tech",
+      "rankScore": 0.629548
+    },
+    {
+      "id": "935376f775647d7b",
+      "title": "How LinkedIn Uses AI to Review 40,000 Pull Requests a Week",
+      "url": "https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-09T16:30:44.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Most of its reviews are posted before the first human reviewer even opens the PR",
+      "section": "tech",
+      "rankScore": 0.558215
+    },
+    {
+      "id": "bf033545c7b61d20",
+      "title": "Claude Fable 5.2 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-09T16:46:43.000Z",
+      "author": "Allison",
+      "excerpt": "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable…",
+      "section": "tech",
+      "rankScore": 0.511908
+    },
+    {
+      "id": "6f26e11f58db1316",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "verge",
+      "publishedAt": "2026-11-10T00:28:49.000Z",
+      "author": "Stevie Bonifield",
+      "excerpt": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI.",
+      "section": "tech",
+      "rankScore": 0.448188
+    },
+    {
+      "id": "d4fe258087461eef",
+      "title": "v2.1.322",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
+      "source": "anthropic",
+      "publishedAt": "2026-11-10T02:29:43.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Added fast mode on Vertex in the global, us and eu regions, falling back to standard speed if Vertex refuses it",
+      "section": "ai",
+      "rankScore": 0.842316
+    },
+    {
+      "id": "c0c6745797f37454",
+      "title": "llm-anthropic 0.31",
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-09T23:58:46.000Z",
+      "excerpt": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 \"Generate an SVG…",
+      "section": "ai",
+      "rankScore": 0.758306
+    },
+    {
+      "id": "47f1c02a90712734",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "huggingface",
+      "publishedAt": "2026-11-09T12:34:29.000Z",
+      "section": "ai",
+      "rankScore": 0.497074
+    },
+    {
+      "id": "99de830cd0a3b6fb",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "source": "openai",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "excerpt": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "section": "ai",
+      "rankScore": 0.456997
+    },
+    {
+      "id": "f5918b38ed01556f",
+      "title": "公司不让用苹果手机设备了，有 苹果 pro 尺寸大小的手机推荐么",
+      "url": "https://www.v2ex.com/t/1255727",
+      "source": "v2ex",
+      "publishedAt": "2026-11-10T01:10:39.000Z",
+      "score": 57,
+      "author": "hahaFck",
+      "excerpt": "感觉 pro 尺寸大小正好，不喜欢 pro max 那样太大的手机。也不想买太贵的。求手机推荐。 这个要求是真特么扯，公司还没停止优化裁员呢，真怕换完被优化了。钱白花了。",
+      "section": "cn-tech",
+      "rankScore": 0.822951
+    },
+    {
+      "id": "a0b01e8f6a1e8d0f",
+      "title": "2026 开源行业解决方案创新赛总决赛评委阵容公布",
+      "url": "https://www.oschina.net/news/503501",
+      "source": "oschina",
+      "publishedAt": "2026-11-10T03:57:26.000Z",
+      "excerpt": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛总决赛将于 11 月 13 日在北京亦庄通明湖会议中心举行，本届大赛由北京市经济和信息化局、开放原子开源基金会联合主办，开源中国承办，以「开源赋能行业创新，方案驱动场景落地」为主题，设置“基础软件”、“智能硬件”、“AIGC 视频创作”三大技术赛道，旨在发掘和培...",
+      "section": "cn-tech",
+      "rankScore": 0.628396
+    },
+    {
+      "id": "f5844a8c520eff2d",
+      "title": "今年双十一，这些鼠标值得一看",
+      "url": "https://sspai.com/post/111065",
+      "source": "sspai",
+      "publishedAt": "2026-11-10T03:00:25.000Z",
+      "author": "ROB1N",
+      "excerpt": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。",
+      "section": "cn-tech",
+      "rankScore": 0.545904
+    },
+    {
+      "id": "2aaee6450ed74c73",
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "url": "https://www.infoq.cn/article/1Mz0ADa02PxcDsVfpVEb?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-09T16:26:51.000Z",
+      "author": "小热",
+      "section": "cn-tech",
+      "rankScore": 0.506389
+    },
+    {
+      "id": "f672c92190bc2bbd",
+      "title": "世界大城市都在沉降",
+      "url": "https://www.solidot.org/story?sid=85840",
+      "source": "solidot",
+      "publishedAt": "2026-11-09T13:08:27.000Z",
+      "excerpt": "北大 Lijun Wang 等人在《Nature Cities》期刊上发表了一篇论文，利用卫星雷达对地面微小位移的测量分析了全世界人口超过百万的 465 座城市城市的地面沉降。数据显示，10 座地面沉降最严重的城市分别是：墨西哥的托雷翁、墨西哥城和托卢卡，巴西的弗洛里亚诺波利斯、伊朗的伊斯法罕、孟加拉国的吉大港、缅甸的仰光、印尼的棉兰和万隆，以及中国的天津。地面沉降现象在东南亚、西亚、中亚和北美地区最为严重，南美洲和非洲也出现了类似问题。地面沉降的最主要因素是抽取地下水。真正危险的是不均匀沉降。",
+      "section": "cn-tech",
+      "rankScore": 0.496406
+    }
+  ],
+  "warnings": [
+    "source \"hacker-news-sec\" failed: TypeError: fetch failed",
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
