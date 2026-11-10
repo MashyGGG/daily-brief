@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-10",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-10T04:17:38.847Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "3c15d6a249f9efba",
+      "title": "黃仁勳婚外情風波將在全球引發連鎖反應",
+      "url": "https://www.bbc.com/zhongwen/articles/c63eled4384zo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-10T04:02:29.000Z",
+      "excerpt": "黃仁勳因與一名被指控為中國間諜的女子有婚外情，正受到其所在公司的調查。",
+      "section": "news",
+      "rankScore": 0.834945
+    },
+    {
+      "id": "05869f79f212ce47",
+      "title": "美国防长海格塞斯面临弹劾动议，这里是需要了解的信息",
+      "url": "https://cn.nytimes.com/usa/20261110/hegseth-impeachment-massie/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-10T03:55:34.000Z",
+      "author": "ROBERT JIMISON",
+      "excerpt": "共和党众议员马西牵头提出决议，指控海格塞斯违反联邦法律和宪法，并在多个方面滥用职权。民主党人已表示广泛支持这一行动。特朗普则表态支持海格塞斯。 Kenny Holston/The New York Times 众议员托马斯·马西提出了一项决议，指责国防部长皮特·海格塞斯，称“若允许其继续留任，将对宪法构成威胁”。",
+      "section": "news",
+      "rankScore": 0.763253
+    },
+    {
+      "id": "db5cd3d254153f5d",
+      "title": "黄仁勋婚外情：其影响可能远超个人婚外情",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261110-%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A9%9A%E5%A4%96%E6%83%85-%E5%85%B3%E9%94%AE%E5%AE%83%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B8%AA%E9%97%B4%E8%B0%8D%E6%A1%88",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-10T00:13:23.000Z",
+      "author": "阿曼亭",
+      "excerpt": "一家估值达4.5万亿美元的美国人工智能巨头的掌门人，竟与一名可能是中国间谍的女子保持秘密恋情！这名叫黄乐的中国女子目前具体下落不明。美国媒体未能联系到她，也没有获得她的回应。她似乎已经销声匿迹。但是，不管怎样，这起事件的影响可能远超个人婚外情。",
+      "section": "news",
+      "rankScore": 0.632149
+    },
+    {
+      "id": "b070bfbc284b6493",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-10T04:09:16.000Z",
+      "excerpt": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+      "section": "news",
+      "rankScore": 0.627905
+    },
+    {
+      "id": "e62d353879807867",
+      "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+      "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-10T04:00:06.000Z",
+      "author": "Keith Bradsher",
+      "excerpt": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.",
+      "section": "news",
+      "rankScore": 0.556101
+    },
+    {
+      "id": "37b0be468d7d313f",
+      "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-10T03:47:33.000Z",
+      "author": "Nick Visser and Australian Associated Press",
+      "excerpt": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health.",
+      "section": "news",
+      "rankScore": 0.553312
+    },
+    {
+      "id": "c03907be2a0d5cde",
+      "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-10T02:45:14.000Z",
+      "excerpt": "Zelenskyy claims Russia 'suffering record losses' as Trump says US seeing 'strong inclination' to end war in Ukraine.",
+      "section": "news",
+      "rankScore": 0.539464
+    },
+    {
+      "id": "07d84d39b042c2e7",
+      "title": "Gary Fisketjon Has Died. He Edited Ellis, Tartt, McInerney and McCarthy.",
+      "url": "https://www.nytimes.com/2026/11/09/obituaries/gary-fisketjon-dead.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-10T03:36:28.000Z",
+      "author": "Clay Risen",
+      "excerpt": "A champion of slow, methodical editing and long working relationships with writers, he was regarded as one of the best of his generation. He was 72.",
+      "section": "news",
+      "rankScore": 0.481993
+    },
+    {
+      "id": "f6088721952e35d0",
+      "title": "China’s trade surplus exceeds $1tn for first 10 months of year",
+      "url": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-10T03:09:14.000Z",
+      "excerpt": "Balance is on course for new annual record that would intensify tensions with trade partners",
+      "section": "news",
+      "rankScore": 0.476697
+    },
+    {
+      "id": "e82e389ea134777e",
+      "title": "日本亚洲外交着眼对越南长期布局",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0I0VVozOUNOdTd1TUdUVk9QcVNYX3V2bmZFaEwzUU9YTlFHa3lWR1cxdW5PVVVleXd1WjhVU25scjFUNzZMb0dDY2NWQVBuMjhOc0VHYXlnTnVkZjBDVklDeUg1U1QwR1MyVUJBay1xYUd1Mk5qM1VjcDd5LVlSU0ZfMWRDMjN6YzVLUC1mYw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-10T03:48:30.000Z",
+      "excerpt": "日本亚洲外交着眼对越南长期布局 日经中文网 绑定、好死，越南将成东南亚首个采用日本核能技术国家 风闻 日越首脑在东京会谈 确认就关键矿产展开合作 共同网 苏林：将共同创新打造成为越日关系的新动力 VOV World 越共中央总书记、国家主席苏林会见日本众议院和参议院议长 Thông tấn xã Việt Nam",
+      "section": "news",
+      "rankScore": 0.415142
+    },
+    {
+      "id": "44619024db2b02ab",
+      "title": "贸发会议：贸易合作有助于增强气候行动和经济韧性",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143164",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "excerpt": "联合国贸易和发展会议发布的《全球贸易动态》报告指出，随着气候变化带来的经济风险不断上升，贸易合作对于加快气候行动、促进气候技术获取以及增强经济韧性至关重要。报告强调，各国需要加强落实气候承诺，深化贸易合作，帮助发展中经济体参与气候相关价值链。",
+      "section": "news",
+      "rankScore": 0.385588
+    },
+    {
+      "id": "f48b8a235a02f9e5",
+      "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+      "source": "npr-news",
+      "publishedAt": "2026-11-09T14:36:54.000Z",
+      "author": "Kate Bartlett",
+      "excerpt": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.",
+      "section": "news",
+      "rankScore": 0.33041
+    },
+    {
+      "id": "00b64fd133012ac9",
+      "title": "中国乒协公布混团世界杯国乒参赛名单",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729293.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-10T03:05:22.000Z",
+      "excerpt": "2026年国际乒联混合团体世界杯将于11月29日至12月6日在四川成都举办。今天，中国乒协公布混团世界杯国乒参赛名单：",
+      "section": "cn-news",
+      "rankScore": 0.815906
+    },
+    {
+      "id": "29336d155e0d11a8",
+      "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729337.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-10T04:07:19.000Z",
+      "excerpt": "中新社北京11月10日电 据中国国防部网站消息，11月10日，中美两军在四川成都举行美军遗骸移交仪式，中方向美方移交一批在“驼峰航线”沿线区域发掘的美军援华抗日飞行员遗骸。",
+      "section": "cn-news",
+      "rankScore": 0.766843
+    },
+    {
+      "id": "0660dbdb3fa0a0ee",
+      "title": "（第九届进博会）从进博会看亚太经贸合作“你中有我”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729338.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-10T04:04:41.000Z",
+      "excerpt": "中新社上海11月10日电 (邸子瀛)“亚太经贸合作你中有我”，第九届中国国际进口博览会上，多家亚太经合组织(APEC)经济体参展企业分享的发展故事，折射出这一日益紧密的联系。",
+      "section": "cn-news",
+      "rankScore": 0.626759
+    },
+    {
+      "id": "1d72c9cf98456111",
+      "title": "Anthropic计划通过首次公开募股最多融资693亿美元",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xWTFNMjdhR3RiTkI2aFVmb0pQWU00TktVYmFPVjdCdlVWRXRjRVJSNXpsQi1fcm1Jdjl2Q0NuazB3U1R1b2lMVzNrZlpmMFN3d1hUbDdB?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-10T01:39:48.000Z",
+      "excerpt": "Anthropic计划通过首次公开募股最多融资693亿美元 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.590538
+    },
+    {
+      "id": "c9ea9ad61081d49b",
+      "title": "张雪机车团队又在意大利被偷了，2个月前曾被偷背包，这次机油盖、水箱盖、后视镜全被拆掉偷走；此前张雪专门提醒其他中国展商“要小心”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMUFQaHl4WENmdXVMMlVvOGRrQlNTSDNJZFFmZVFlRndHbWhtajFYMTYwSjYtZXZyR2NhZFo5bUdSSzdLaklXWGxVc2VHZlhSb29IMG1BbWNPWVVZUjJtWg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-10T00:23:00.000Z",
+      "excerpt": "张雪机车团队又在意大利被偷了，2个月前曾被偷背包，这次机油盖、水箱盖、后视镜全被拆掉偷走；此前张雪专门提醒其他中国展商“要小心”",
+      "section": "cn-news",
+      "rankScore": 0.571338
+    },
+    {
+      "id": "57f43699d137717e",
+      "title": "今天福建大部降温明显沿海风力较强 明后天气温逐渐回升",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xVGtHOTVrN1JDZklqYmlLWldoTGc3VXlEMjN2OWwxTEJ1cVR6QmRERURxTkpfZjhTaG5OQ21RYzY2MVctcUlFVEJ3dE9RTjgzRlB4ZE1Wc1JUN0JB?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-10T03:15:43.000Z",
+      "excerpt": "今天福建大部降温明显沿海风力较强 明后天气温逐渐回升 天气网 福建省宁德市周宁县发布降温蓝色预警信号 天气网 雨+大风组团上门！福州一键切换“湿冷体验模式” 凤凰网 福建省南平市武夷山市发布霜冻蓝色预警信号 QQ News 三方支招福州“防凉指南”请收下_福州新闻_福建频道_新闻中心 海峡都市报",
+      "section": "cn-news",
+      "rankScore": 0.546238
+    },
+    {
+      "id": "4540114e8ac7db89",
+      "title": "中加經濟財金對話重啟 何立峰出席稱兩國交往重回正軌",
+      "url": "https://www.cna.com.tw/news/acn/202611100048.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-10T02:36:18.000Z",
+      "excerpt": "（中央社台北10日電）第二次中加經濟財金戰略對話當地時間9日在溫哥華舉行，中國國務院副總理何立峰出席會議並表示，本次對話是落實雙方領導人共識的具體舉措，中加交往重回正軌，中國願與加方深化經貿、金融、投資等領域合作。",
+      "section": "cn-news",
+      "rankScore": 0.537478
+    },
+    {
+      "id": "d2e548c54cbf70f0",
+      "title": "Trump recounts pilots’ ‘very strange’ UFO stories but says he remains sceptical",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373863/trump-recounts-pilots-very-strange-ufo-stories-says-he-remains-sceptical",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-10T03:00:28.000Z",
+      "author": "Zhang Tong",
+      "excerpt": "United States President Donald Trump has recounted stories from air force pilots who told him they encountered UFOs, while saying he remains sceptical and has seen no evidence of an alleged secret programme to study unidentified flying objects.",
+      "section": "cn-news",
+      "rankScore": 0.474993
+    },
+    {
+      "id": "6d398c6ac301a94f",
+      "title": "人民币市场汇价（11月10日）",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYU54czlIczdLY3FkMjVPYW45aFRSRmZxaFNualdfVVJUZ2c2WVAxVmkxVEg2QkdsUksxY3FjNGRoWC1PTy1ZMS1laVY5d0szTzI3cWFnT2stTVpZU1FqT0tneUxfVnNoYm9zbzlIVWFHVk9MWF85U2NwR1JNVUF5ZFJzWk5PVUto?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-10T02:32:51.000Z",
+      "excerpt": "人民币市场汇价（11月10日） 新华网 11月10日人民币对美元中间价报6.7167 上调21个基点 搜狐网 就在今天，2026年11月9日，人民币汇率中间价、1美元兑人民币汇率来了 腾讯新闻 在岸人民币兑美元夜盘收报6.6724 手机网易网 关注▲财经新一线▲一起聊聊财经这点事儿 南方财经",
+      "section": "cn-news",
+      "rankScore": 0.469623
+    },
+    {
+      "id": "95b1c8f48eebd4d3",
+      "title": "第39届中国电影金鸡奖今晚揭晓 陈丽君提名最佳女主角",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sbW5FQmNFUVRnd2pHMnMtWUhsdkg5cmk0c1ZhUm5wS0tsLWZoZ3JrWlNlMVk3MnJfU2VjNW5SY2phOXZfUzlSdERlNm9ibXM?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-10T03:18:00.000Z",
+      "excerpt": "第39届中国电影金鸡奖今晚揭晓 陈丽君提名最佳女主角 新蓝网 金鸡从209部影片评选19个奖 专业与多样性并重 中华网娱乐 第三十九届中国电影金鸡奖提名者表彰仪式在厦门举办 东南网 金鸡奖各大奖项今晚揭晓 国际在线 第39届中国电影金鸡奖提名者表彰仪式举办 文教 欧洲头条",
+      "section": "cn-news",
+      "rankScore": 0.410059
+    },
+    {
+      "id": "1cb5091ae97ac672",
+      "title": "湖南新田做强淮山特色产业 拓宽乡村富民路",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729331.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-10T04:05:35.000Z",
+      "excerpt": "中新网永州11月10日电(蒋军君 周林凤 陶红星)眼下正是淮山采收季，湖南新田县金盆镇青山坪村庆熙农业开发中心的淮山种植基地里，一派繁忙采收景象。",
+      "section": "cn-life",
+      "rankScore": 0.835979
+    },
+    {
+      "id": "89628221bd856fd1",
+      "title": "民生期货与国联期货整合 优势资源赋能客户服务",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDA1dVhDZWVmQUlUZGNZZjhId2JVMFBrRmFlYTZsRjdzSmN4TzE5bm5fbjFSSUFWN01PRGJBVlRJVk5tdkFERVNuMEpiRFZuclRJR2QwZlZWVkRhcHQ3QjhoWmNQbFJac3RPcUJoMkQtY2Jxb0l5M21hTWNQOW5LTGY2YzUtMlll?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-10T04:10:21.000Z",
+      "excerpt": "民生期货与国联期货整合 优势资源赋能客户服务 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.628176
+    },
+    {
+      "id": "5a9c2c065b11f67e",
+      "title": "重温训词精神 对标先进典型 守护百姓平安",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qaWJhc2hId2h3emY3TkdvMnc4bjh5aEJxV2YwRWN5NDQ2ak1mSUE5eUVsay16MENjVHAxanViZzNVMzJaYUVET21LOHlCbFlWWWFrNmY2aFZJTVJabVJITVRHOXU5Q0hvRkFJTm9tRHhOdlU?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-10T03:50:14.000Z",
+      "excerpt": "重温训词精神 对标先进典型 守护百姓平安 潮新闻客户端",
+      "section": "cn-life",
+      "rankScore": 0.623146
+    },
+    {
+      "id": "381a0daf9c419630",
+      "title": "福州三江口片区将新建两条道路",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WV1o0TFUteHR6ZVRoX2pDUkNwenM2bWNObUdtYkQwUWRwTGxuWFFueE95UFVaN2lHRTRQaTR2eDhCWFNsU2pHckxXNzlFX3BYZkdTVzNDZVJwRU4yc2gtZG5tNWRTSm5reUM1NDRRMV9DcUJE?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-10T03:42:53.000Z",
+      "excerpt": "福州三江口片区将新建两条道路 福州市政协",
+      "section": "cn-life",
+      "rankScore": 0.552275
+    },
+    {
+      "id": "0af69c60f4258ae8",
+      "title": "跨国药企携手互联网健康平台，提升常见病用药可及性",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNlZmX083N1FQa0Izc2hlM20yNERnVGhUaWRSR2xWc09GR1YtZGtSbUlEcThoVjVrQmhKWjAyUldaTmJWNjU3eXQ1N2VpUHR0NGVGcFZ3b3pnRWdlOFZiX0h2dWxmYjdLN3p5VmxqRmhhbGdPN0ctTndOMlNkSEphT0tEQXdYS1lY?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-10T03:43:10.000Z",
+      "excerpt": "跨国药企携手互联网健康平台，提升常见病用药可及性 搜狐网",
+      "section": "cn-life",
+      "rankScore": 0.483295
+    },
+    {
+      "id": "1c23854b5c9e2a7c",
+      "title": "打地鼠式抗癌？Cancers：当AI拿起分子显微镜，小细胞肺癌的异质性难题有了新解法- 癌症研究专区",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aWlA2VHhYVWdGejJmNUswRVRRYVlKT1pHdURGbGg5eUJWNGlPQjRuTDN2a3RYNjVCclA0NWM1REQ3R2F0LUZHQzBmcnNsclVHNGRfaElkMGlPQU4x?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-10T02:59:00.000Z",
+      "excerpt": "打地鼠式抗癌？Cancers：当AI拿起分子显微镜，小细胞肺癌的异质性难题有了新解法- 癌症研究专区 生物谷",
+      "section": "cn-life",
+      "rankScore": 0.474707
+    },
+    {
+      "id": "40267bdd76f2f31c",
+      "title": "开心果为何变贵了？",
+      "url": "https://www.chinanews.com.cn/life/2026/11-09/10729015.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-09T11:40:35.000Z",
+      "excerpt": "开心果一直是颇受欢迎的坚果零食。近期，受主产地减产、供应收紧等因素影响，市场上开心果价格持续走高。开心果消费市场情况如何？",
+      "section": "cn-life",
+      "rankScore": 0.423038
+    },
+    {
+      "id": "8b78af4bd9458346",
+      "title": "前大力教育负责人陈林首度公开离职，休养两年半后回归AI教育",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQWXlmVmZ0U0dHaDM5Q0tZTDVMdHgtRlFHT2oxaTRUaUVCLWhlbWxRZ09iZWQyUXdqN2dsZDFKZnVMYjh6aWVISGdYdl9XU3YwZlE?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-10T03:55:32.000Z",
+      "excerpt": "前大力教育负责人陈林首度公开离职，休养两年半后回归AI教育 凤凰网",
+      "section": "cn-life",
+      "rankScore": 0.416314
+    }
+  ],
+  "warnings": []
+}
