@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-10",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-10T19:40:35.933Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "7158ba65d91ac23a",
+      "title": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-10T19:40:35.933Z",
+      "score": 792,
+      "excerpt": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "62883bac0dad5d17",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-10T16:37:44.000Z",
+      "score": 395,
+      "author": "p4bl0",
+      "excerpt": "395 points · 68 comments · https://news.ycombinator.com/item?id=50442736",
+      "section": "tech",
+      "rankScore": 0.995505
+    },
+    {
+      "id": "314590e44fac56ce",
+      "title": "Cloudflare Makes Basin Serverless Analytics Generally Available",
+      "url": "https://www.infoq.com/news/2026/11/cloudflare-basin-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-10T19:14:00.000Z",
+      "author": "Renato Losio",
+      "excerpt": "Cloudflare has announced the general availability of Basin, a serverless analytics platform built on Apache Iceberg and R2 Object Storage. The managed service supports open data formats and integrates with tools such as DuckDB, Snowflake, and Apache Spark, with no data egress fees. By Renato Losio",
+      "section": "tech",
+      "rankScore": 0.738884
+    },
+    {
+      "id": "5fb0c3a6406ea491",
+      "title": "How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time",
+      "url": "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-10T16:30:55.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we’ll look at how this porting was done and the learnings along the way.",
+      "section": "tech",
+      "rankScore": 0.670643
+    },
+    {
+      "id": "3e105ce74d2081cb",
+      "title": "Large-Scale Measurement and Real-World Mitigation of Web Browser Fingerprinting in the Wild",
+      "url": "https://fingerprinting.study/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-10T19:14:08.000Z",
+      "author": "fingerprinting.study via freddyb",
+      "section": "tech",
+      "rankScore": 0.670212
+    },
+    {
+      "id": "902edc34bad7974e",
+      "title": "Fragments: November 10",
+      "url": "https://martinfowler.com/fragments/2026-11-10.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-11-10T14:30:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "It’s that time of the year when the November Thoughtworks Technology Radar appears. Again my colleagues have taken a sweep of the technologies that our teams have used in the field, and pulled together a summary of what’s popped up in the last six months.",
+      "section": "tech",
+      "rankScore": 0.662515
+    },
+    {
+      "id": "2d2b613699049907",
+      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+      "url": "https://latent.space/p/naiveai/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-10T18:56:32.000Z",
+      "author": "Gabriele Beltramo",
+      "excerpt": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
+      "section": "ai",
+      "rankScore": 0.746918
+    },
+    {
+      "id": "3c2435a73ee79978",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "openai",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "section": "ai",
+      "rankScore": 0.600834
+    },
+    {
+      "id": "2eb415713133cde2",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source": "google-ai",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "excerpt": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "section": "ai",
+      "rankScore": 0.53781
+    },
+    {
+      "id": "9d4fbff61bd4f1ba",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "openai",
+      "publishedAt": "2026-11-10T09:00:00.000Z",
+      "excerpt": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "section": "ai",
+      "rankScore": 0.493691
+    },
+    {
+      "id": "ea47e4f35a0d92cf",
+      "title": "微软宣布 .NET 11",
+      "url": "https://www.solidot.org/story?sid=85851",
+      "source": "solidot",
+      "publishedAt": "2026-11-10T16:50:48.000Z",
+      "excerpt": "微软宣布了 .NET 11。该版本是标准支持版本 STS，提供两年支持，上个版本 .NET 10 则是长期支持版本 LTS。.NET 11 改进 C# 15、ASP.NET Core、.NET MAUI 以及 Windows，缩短了应用构建时间，主要变化包括：C# 15 引入了联合类型和封闭类层次结构；Native AOT CLI；ASP.NET Core 支持异步验证和 OpenAPI 3.2，以及 Blazor 和 SignalR 应用的新功能；等等。",
+      "section": "cn-tech",
+      "rankScore": 0.681058
+    },
+    {
+      "id": "f1f68c56cb7733b9",
+      "title": "接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
+      "url": "https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-10T18:58:56.000Z",
+      "author": "火山引擎视频云",
+      "section": "cn-tech",
+      "rankScore": 0.680159
+    },
+    {
+      "id": "82bb4d72ea79590a",
+      "title": "今天能获得 Claude 官方三次重置的，都是人上人，请出来让大家膜拜下吧。",
+      "url": "https://www.v2ex.com/t/1255928",
+      "source": "v2ex",
+      "publishedAt": "2026-11-10T09:26:12.000Z",
+      "score": 18,
+      "author": "pmer",
+      "section": "cn-tech",
+      "rankScore": 0.546686
+    },
+    {
+      "id": "75e4753126bb971d",
+      "title": "快手视频怎么去水印？ 分享一个简单实用的在线解析工具",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51UTljNFlqbnJTbUwyX3NmN3loVUhQWktBZVFmYnYwWV9IdHl4bFB3Z0ozbFY4d0VnYW8zeXhNdUFyQWRsaW8wTldWc0xkODBQSUxDTA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-10T15:35:40.000Z",
+      "excerpt": "快手视频怎么去水印？ 分享一个简单实用的在线解析工具 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.408356
+    },
+    {
+      "id": "72cc421a8c97c442",
+      "title": "10x 工程师变成 100x 了，普通工程师还是那么普通",
+      "url": "https://www.oschina.net/news/503514",
+      "source": "oschina",
+      "publishedAt": "2026-11-10T10:08:13.000Z",
+      "excerpt": "一位 CTO 用反证法证明：我们还没被 AI 取代，但理由可能和你想的不一样。 shaharglazner 是 keepalerting 的联合创始人兼 CTO，11 月 9 日他在 X 上发了篇长文《On Being an Engineer in 2026》，标题下面跟着一行小字：「我们还需要吗？」 他先承认了那种普遍的失控感。每隔一周，就有一块工作被交出去。最早是不写代码...",
+      "section": "cn-tech",
+      "rankScore": 0.384693
+    },
+    {
+      "id": "90c1d6fb4c4c5b31",
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-10T19:23:10.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.…",
+      "section": "security",
+      "rankScore": 0.691699
+    },
+    {
+      "id": "556aff785eb41019",
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-10T19:19:39.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.",
+      "section": "security",
+      "rankScore": 0.690024
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
