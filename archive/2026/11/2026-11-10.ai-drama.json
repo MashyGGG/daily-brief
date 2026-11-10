@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-10",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-10T17:00:29.878Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 12,
+  "items": [
+    {
+      "id": "6d1df0d54716b410",
+      "title": "AI短剧，出海规模最高的10家公司",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqaEJvelNxYlpVRHQ4MHBzeXg0b3J6aXlzLVMxUi05ZV9ieXpfVnd1WUZ4NUZWNXVJY1E3RjlmdnF4YndxS0p6b2owcnp0cWNndW9rVTZyd0hiWnpwbXRRSDZYT2E1cWhiN2tubGc1TUR2MGY2RHBDdlJtakNJOUU?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-10T16:50:14.000Z",
+      "excerpt": "AI短剧，出海规模最高的10家公司 手机新浪网",
+      "section": "drama-news",
+      "rankScore": 0.698574,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "4df6019c926ed313",
+      "title": "AI短剧爆火背后：普通人的创作梦，有了新入口",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMkk3a3Jtd181R3NQTU02dzJwOUFZTVdrVlJxNHVDSW56ZldzZjZjUDMtQVhYNFVUWDFkVk45dWw0OTdKTXhabzh6YlpnNkwxTWM5RWxHZ013T2lOZTlHNHo3WE90TUxKbVo5VVZ6MGNfZWdjTnBjSGVFdnJUa3hhanNody12bnRn?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-10T12:27:00.000Z",
+      "excerpt": "AI短剧爆火背后：普通人的创作梦，有了新入口 搜狐网",
+      "section": "drama-news",
+      "rankScore": 0.662014,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "de3c735408dd2e16",
+      "title": "字节Seedance2.0生成成本约1元/秒 AI短剧单部成本降至10万元级",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KVmdyOWxocjdGeGVmV2tmWFoxQ3RKajVWNzFVZW9BMkhwOHpIdjJOeHBTUUpFN0ZQWUQ3YzIxV1UxVE14aHZMWFVEbS1kQldLb0VXWVdRN2Z5T3F6ZXI5VndR?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-10T11:19:14.000Z",
+      "excerpt": "字节Seedance2.0生成成本约1元/秒 AI短剧单部成本降至10万元级 观点网",
+      "section": "drama-news",
+      "rankScore": 0.652602,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "69114f4f5bd8fc98",
+      "title": "方汉畅谈 AI 短剧出海：工具退场，系统登场，进入全链路体系之争",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0Z4SzZGXzBXbk5MX1N3ZVJva082UE5NR0JfbHZLNlk5YXVKTDViMWZkTF9Zb21XNGpPQWtPR3hFLXg0T3habDhyZGd2TWFuQzRQWXAyS3pOYWtkVFZZOGF3LVZOU2JreWZES0JLRjV0UWlrSUN2YVY2U2xVS2VmMWREeWNJRG5u?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-10T09:34:16.000Z",
+      "excerpt": "方汉畅谈 AI 短剧出海：工具退场，系统登场，进入全链路体系之争 搜狐网",
+      "section": "drama-news",
+      "rankScore": 0.638023,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "cc9dfc48fe20fc0c",
+      "title": "拍出爆款AI短剧的，是一群没进过剧组的普通人|门槛|机会|主创|创作者|恐龙_手机新浪网 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWNIQ3J4bmlZUm5mTTMyNkdqRDRaWlVENXhPcnZOako5N1VuWDJXdGhOY3VZRndjeGZjbU9PNHBFeXZBX3hrN2lNVFNaczRkMUJCRS05S3hINlZnNHMzMU1LdENSd2VoZHJaVF9jR1dibGQwMlJLOEREQW0yYy01MGJIYw?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-10T08:02:54.000Z",
+      "excerpt": "拍出爆款AI短剧的，是一群没进过剧组的普通人|门槛|机会|主创|创作者|恐龙_手机新浪网 新浪财经_金融信息服务商",
+      "section": "drama-news",
+      "rankScore": 0.625334,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "f9d548381d54e08e",
+      "title": "AI短剧制作五天实训免费招募——OPC赋能OPC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSU0tIbzV5TkoxU1h6c2FKWDJDd3VUUmctbWpUQ1VWczRKUGVxcXJEV1FJUUVKSHM0OXRaRjQxZDlWVllwNnhQc0ZXNGZIMXgzNXdrOEZSUWQ1QTZwQ3RISlRkR29kcndSc280YkVGUk9kVjFNVHZLRzNmQ2xzZVE?oc=5",
+      "source": "drama-cn-tutorial",
+      "publishedAt": "2026-11-10T07:31:00.000Z",
+      "excerpt": "AI短剧制作五天实训免费招募——OPC赋能OPC 手机新浪网",
+      "section": "drama-news",
+      "rankScore": 0.620903,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "c2aeeee00450a09b",
+      "title": "探访AI短剧创作一线：《持械入宋》爆红后，团队为何主动减产？ - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGF3SDV5TTl0R3Q2WEVZSWdFeDJ4elVrX2cxcUEzMHdERkJ1RE4ya0xRcTlOX0xIQllGc0tKci1BNFJsZVBpZUpTYjFQc1lrVVdCVHRPcVdTRnExY0ZMOTh4WVBrT3ZaZ3BxczFHRlA2X1ZMOVZRMUdPOHF6SmlWY29ENTBiZkN1dWd5Qzc0NA?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-10T01:24:00.000Z",
+      "excerpt": "探访AI短剧创作一线：《持械入宋》爆红后，团队为何主动减产？ 21财经",
+      "section": "drama-news",
+      "rankScore": 0.569931,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "10897d33a8722547",
+      "title": "j9 九游发布全国首个支持1000秒AI漫剧创作平台，零门槛一键生成长内容 - DoNews",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hd2diaU92Zy1vMEFGLW9ka2ZIUkY5Uy1ZLWczYXl0WE5LQlRXNXhSMzctRG8weU1xTTUwY1Q1Q2pEUy0tUFZzMlMzUjZhUW9rRk5vVWZxVEw?oc=5",
+      "source": "drama-cn-tutorial",
+      "publishedAt": "2026-11-09T20:01:30.000Z",
+      "excerpt": "j9 九游发布全国首个支持1000秒AI漫剧创作平台，零门槛一键生成长内容 DoNews",
+      "section": "drama-news",
+      "rankScore": 0.525139,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "72de1c23e90ad2fc",
+      "title": "半年亏损超2500万，兑吧押注AI短剧，出海能杀出重围吗？_公司新闻",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02clZNWnQ5eENlenZjVGdBN1lSMFNzVjBXYXlyRWpmUG1VT1dmc2VmcEp2RVBZVUY4SndWUDhLUjJmckdBUjVNc2pNcjZ0eTZwYk5SWU9VaGdnRENvcFFnY2tR?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-10T15:04:12.000Z",
+      "excerpt": "半年亏损超2500万，兑吧押注AI短剧，出海能杀出重围吗？_公司新闻 证券之星",
+      "section": "drama-news",
+      "rankScore": 0.44450120000000004,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "d3f11cef7e64cc3d",
+      "title": "股价7天5板，AI漫剧人气股提示风险",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54a0EwUUJFYlJfZEtuMDBEaEFHd3RDdUdBZ01uZ0NqWVVOanlqTDF1Z2habXNGT0lLM042WkxiMy1kRUJjM1V4bmFOYXAtdkRhUFU1dDdrWTIwZFBlUzBrenJoTHo?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-10T11:27:24.000Z",
+      "excerpt": "股价7天5板，AI漫剧人气股提示风险 东方财富",
+      "section": "drama-news",
+      "rankScore": 0.4249284,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "5a6e7dfa45f93a51",
+      "title": "MiniMax H3 Image is now available in ComfyUI",
+      "url": "https://blog.comfy.org/p/minimax-h3-image-is-now-available",
+      "source": "drama-comfy-tutorials",
+      "publishedAt": "2026-11-10T16:05:43.000Z",
+      "author": "Rob",
+      "excerpt": "Open weights, text-to-image and reference editing in one model, 6-steps sampling, native output up to 4096×4096. MiniMax H3 Image runs natively in ComfyUI and via Partner Nodes.",
+      "section": "drama-tools",
+      "rankScore": 1.080131,
+      "editorial": {
+        "kind": "release",
+        "evidence": "fulltext",
+        "reason": "来自已配置的官方技术来源。",
+        "action": "核对版本、使用条件和授权，再判断是否用于当前练习。"
+      }
+    },
+    {
+      "id": "675b90be31ee60f0",
+      "title": "v0.45.0",
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.0",
+      "source": "drama-comfyui",
+      "publishedAt": "2026-11-10T15:59:14.000Z",
+      "author": "comfyanonymous",
+      "excerpt": "ComfyUI v0.45.0",
+      "section": "drama-tools",
+      "rankScore": 0.988832,
+      "editorial": {
+        "kind": "release",
+        "evidence": "excerpt",
+        "reason": "来自已配置的官方技术来源。",
+        "action": "核对版本、使用条件和授权，再判断是否用于当前练习。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 2/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "分镜先于精细画面",
+      "url": "https://runway.com/resources/ai-storyboard",
+      "task": "写一个原创小故事，用粗图排出 6 个分镜。",
+      "doneWhen": "不依赖旁人解释也能顺序看懂故事。"
+    }
+  }
+}
