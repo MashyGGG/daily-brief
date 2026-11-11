@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-11",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-11T01:53:02.508Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "ceebd4db2e56ed48",
+      "title": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-11T01:53:02.508Z",
+      "score": 531,
+      "excerpt": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "section": "tech",
+      "rankScore": 0.984
+    },
+    {
+      "id": "a4b09c5009b1fa81",
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-10T15:25:20.000Z",
+      "score": 712,
+      "author": "skittleson",
+      "excerpt": "712 points · 252 comments · https://news.ycombinator.com/item?id=50441707",
+      "section": "tech",
+      "rankScore": 0.97835
+    },
+    {
+      "id": "05a3edd95554377d",
+      "title": "30 years of Internet transfers with curl",
+      "url": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-10T23:42:39.000Z",
+      "author": "daniel.haxx.se via hugoarnal",
+      "section": "tech",
+      "rankScore": 0.647186
+    },
+    {
+      "id": "e28c862c415aceae",
+      "title": "Software correctness & supply chain security, with Sean Allen",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-11-10T15:00:21.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "A deep conversation on the biggest challenges of developing with AI – while trying not to mention the phrase “AI” once. Why? To dig up the fundamentals that are as important as ever",
+      "section": "tech",
+      "rankScore": 0.570566
+    },
+    {
+      "id": "85ded72d65fb29dc",
+      "title": "C++ language server now auto-configures MSBuild builds",
+      "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-10T17:04:10.000Z",
+      "author": "Allison",
+      "excerpt": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a…",
+      "section": "tech",
+      "rankScore": 0.55309
+    },
+    {
+      "id": "7b4e2b4cc6386a9f",
+      "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
+      "url": "https://css-tricks.com/css-using-declarations-just-once/",
+      "source": "css-tricks",
+      "publishedAt": "2026-11-10T16:42:18.000Z",
+      "author": "Jens Oliver Meiert",
+      "excerpt": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy? CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
+      "section": "tech",
+      "rankScore": 0.492315
+    },
+    {
+      "id": "364c9f0337307ea0",
+      "title": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-10T20:09:44.000Z",
+      "excerpt": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but…",
+      "section": "ai",
+      "rankScore": 0.725564
+    },
+    {
+      "id": "77c9b2f71dec2ba1",
+      "title": "Designing for Agents — Zeno Rocha, Resend",
+      "url": "https://latent.space/p/resend/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-10T20:05:17.000Z",
+      "author": "swyx .ai",
+      "excerpt": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
+      "section": "ai",
+      "rankScore": 0.66374
+    },
+    {
+      "id": "df0525fd0d12ff0f",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "openai",
+      "publishedAt": "2026-11-10T07:00:00.000Z",
+      "excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "section": "ai",
+      "rankScore": 0.481583
+    },
+    {
+      "id": "8fb5868650a84eb5",
+      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-10T06:34:44.000Z",
+      "author": "swyx .ai",
+      "excerpt": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?",
+      "section": "ai",
+      "rankScore": 0.416072
+    },
+    {
+      "id": "15860d9b392b4680",
+      "title": "工作和未来困境，大龄码农该何去何从",
+      "url": "https://www.v2ex.com/t/1256042",
+      "source": "v2ex",
+      "publishedAt": "2026-11-11T01:34:17.000Z",
+      "score": 7,
+      "author": "seedhk",
+      "excerpt": "前情： 三十八线小城市，人口大概 1-200w(包括下面的县市和农村)，本地主要以工业工厂为主，经济低迷。自己年龄三十出头，有一个刚出生的儿子，老婆还在休息。最近公司工资开始延期，原因说是回款问题(往好了想是暂时还没说不发)，眼看\"可能\"再过半年一年就不太行了。受到 ai 影响，本地可能找不到目前需要的工资(1w+)。 我对这个行业整体持悲观态度，感觉一个实习或者刚毕业的学生+ai ，就赶得上我目前的水平了(Java 开发工作 7 年+)。不仅仅是目前，对于未来何去何从，心里有一个大大的问号。",
+      "section": "cn-tech",
+      "rankScore": 0.86531
+    },
+    {
+      "id": "8a8970ce3415c8be",
+      "title": "DjangoAdmin 敏捷开发框架 Django+EleVue 版本 v2.8.2 发布",
+      "url": "https://www.oschina.net/news/503520",
+      "source": "oschina",
+      "publishedAt": "2026-11-11T00:48:11.000Z",
+      "excerpt": "v2.8.2 更新内容： 1、大版本全新重构； DjangoAdmin 一款基于 Django、Vue3、TypeScript、ElementPlus、Vite、VueRouter 等技术栈构建的前后端分离企业级数据中台解决方案。内置精细化到按钮及方法级别的 RBAC 权限管控体系，集成用户管理、角色管理、权限菜单、部门管理、职级岗位、系统日志、数据字典、系统参数、行政...",
+      "section": "cn-tech",
+      "rankScore": 0.613785
+    },
+    {
+      "id": "a2a212465fd77638",
+      "title": "2026 年全球化石燃料碳排放量预计下降 0.4%",
+      "url": "https://www.solidot.org/story?sid=85850",
+      "source": "solidot",
+      "publishedAt": "2026-11-10T16:23:20.000Z",
+      "excerpt": "根据 Global Carbon Project 发表的报告《2026 Global Carbon Budget》，因太阳能风能扩张以及冲突导致的石油供应问题，2026 年全球化石燃料碳排放量预计下降 0.4%。今年全球化石燃料二氧化碳（CO2）排放量预计为 382 亿吨，其中石油相关排放量预计下降 1.9%。尽管全球能源需求持续增长，但三分之二增量已被太阳能、风能以及电动汽车的发展所抵消或满足。报告同时指出清洁能源的增长速度尚不足以促使全球化石燃料二氧化碳排放量持续下降。",
+      "section": "cn-tech",
+      "rankScore": 0.595922
+    },
+    {
+      "id": "c845dd8a71e94bc6",
+      "title": "近 700 亿美元 IPO 定价突然撤回！Anthropic 最快今天路演，下周冲刺上市",
+      "url": "https://www.infoq.cn/article/8tquwes1yGbmTeyOjOId?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-10T18:54:18.000Z",
+      "author": "林绮蓓",
+      "section": "cn-tech",
+      "rankScore": 0.583683
+    },
+    {
+      "id": "7990f4732da21706",
+      "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+      "url": "https://sspai.com/post/118905",
+      "source": "sspai",
+      "publishedAt": "2026-11-11T00:26:34.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。",
+      "section": "cn-tech",
+      "rankScore": 0.540783
+    },
+    {
+      "id": "6617471adc9c8501",
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "source": "krebs",
+      "publishedAt": "2026-11-10T21:55:03.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.",
+      "section": "security",
+      "rankScore": 0.69728
+    },
+    {
+      "id": "369cc0aa2a2c83e6",
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-10T18:12:21.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062.",
+      "section": "security",
+      "rankScore": 0.57203
+    }
+  ],
+  "warnings": [
+    "source \"36kr-ai\" failed: AbortError: This operation was aborted",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
