@@ -1,0 +1,323 @@
+{
+  "date": "2026-11-11",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-11T02:12:43.952Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "743ecb156c5725d1",
+      "title": "從局長下台到議會「沉默」 宏福苑大火後的政治問責與維穩邏輯",
+      "url": "https://www.bbc.com/zhongwen/articles/cm0e0e7d7qv4o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-11T01:03:16.000Z",
+      "excerpt": "BBC中文採訪多名政治分析人士，拆解這場善後操作背後所反映的維穩管治邏輯，以及又與即將舉行的選委會及特首選舉有何深層連結。",
+      "section": "news",
+      "rankScore": 0.816845
+    },
+    {
+      "id": "48a9ac0486633676",
+      "title": "顺从的董事会：黄仁勋危机考验英伟达公司治理",
+      "url": "https://cn.nytimes.com/technology/20261111/jensen-huang-nvidia-board/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-11T00:58:46.000Z",
+      "author": "KALLEY HUANG,DON CLARK",
+      "excerpt": "在黄仁勋领导下，英伟达已成为全球最有价值的公司之一。黄仁勋似乎对继任者没有规划，公司董事会则一贯对其表现出忠诚和顺从。危机爆发后，公司治理面临考验。 Mike Kai Chen for The New York Times 公司治理专家担心，英伟达董事会已让公司变得过于依赖黄仁勋。",
+      "section": "news",
+      "rankScore": 0.747399
+    },
+    {
+      "id": "2155006aab22959e",
+      "title": "俄乌谈判 仲裁者偏袒？ 前景不乐观",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261110-%E4%BF%84%E4%B9%8C%E8%B0%88%E5%88%A4-%E4%BB%B2%E8%A3%81%E8%80%85%E5%81%8F%E8%A2%92-%E5%89%8D%E6%99%AF%E4%B8%8D%E4%B9%90%E8%A7%82",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-10T22:49:34.000Z",
+      "author": "安德烈",
+      "excerpt": "乌克兰与俄罗斯在美国特使调停下周二在阿布扎比展开谈判，欧洲代表则在会客室待命，按照美方的说法，希望本次谈判能在化解冲突方面取得进展，并建立一个新的包括欧洲的安全框架。但欧洲与乌克兰对此次会谈并不抱太大期望，因为“仲裁者”被指偏袒俄罗斯。普京既可倚仗特朗普的纵容，又可利用欧洲各国的分歧和软弱。",
+      "section": "news",
+      "rankScore": 0.643565
+    },
+    {
+      "id": "0f378ba8b1694da8",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-11T01:14:40.000Z",
+      "excerpt": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "section": "news",
+      "rankScore": 0.615484
+    },
+    {
+      "id": "1ba4d8e35330be87",
+      "title": "Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/bob-lee-cash-app-nima-momeni-sentenced",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-11T01:53:38.000Z",
+      "author": "Abené Clayton",
+      "excerpt": "Tech consultant convicted of second-degree murder in 2023 stabbing death of Cash App founder Nima Momeni, the man convicted of murdering Cash App founder Bob Lee, has been sentenced to 16 years to life.",
+      "section": "news",
+      "rankScore": 0.555756
+    },
+    {
+      "id": "3ddbf5939595f096",
+      "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+      "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-11T01:44:21.000Z",
+      "excerpt": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
+      "section": "news",
+      "rankScore": 0.553693
+    },
+    {
+      "id": "5b425db6dbcfbe22",
+      "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
+      "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-11T01:30:15.000Z",
+      "author": "Pranav Baskar, Hamed Aleaziz, Salman Masood and Zach Montague",
+      "excerpt": "The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.",
+      "section": "news",
+      "rankScore": 0.550559
+    },
+    {
+      "id": "c5fcda9dc4d75a23",
+      "title": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
+      "url": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-11T02:05:19.000Z",
+      "author": "Emily Cochrane and Michael Goldberg",
+      "excerpt": "The tight race between Senator Cindy Hyde-Smith and her Democratic challenger, Scott Colom, has highlighted the difficulties that stringent elections laws present to voters.",
+      "section": "news",
+      "rankScore": 0.488558
+    },
+    {
+      "id": "ed8ecbbb7d731e4c",
+      "title": "Federal government failed to hold Epstein accountable, Republican committee says",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
+      "source": "npr-news",
+      "publishedAt": "2026-11-11T01:51:23.000Z",
+      "author": "Ava Berger",
+      "excerpt": "The Republican chair of the House Oversight Committee released a scathing report after a 15-month investigation into Jeffrey Epstein and his associates. It faulted the federal government with decades of failing to hold Epstein accountable.",
+      "section": "news",
+      "rankScore": 0.485849
+    },
+    {
+      "id": "721d512e8f80c169",
+      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+      "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-11T00:27:38.000Z",
+      "excerpt": "Claude maker’s listing price expected to rise after strong demand from investors",
+      "section": "news",
+      "rankScore": 0.469564
+    },
+    {
+      "id": "08aa68ccfe95571d",
+      "title": "联合国：南苏丹选举筹备加快推进 但政治共识日益脆弱",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143169",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "excerpt": "联合国秘书长南苏丹问题特别代表基基·贝霍周二在安理会通报南苏丹局势时表示，距离南苏丹计划举行首次主权国家选举仅剩42天，选举筹备工作虽已加快推进，但围绕过渡期的政治共识日益脆弱。她强调，选举不能取代政治对话、建立信任以及《振兴和平协议》的持续落实。",
+      "section": "news",
+      "rankScore": 0.416817
+    },
+    {
+      "id": "4798aaf41121396b",
+      "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168771",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "excerpt": "Drones and drought are “closing in” on Sudan, the UN Children’s Fund (UNICEF), said on Tuesday, describing unprecedented attacks on the country’s infrastructure including by drones travelling up to 1,500 kilometres before hitting their target.",
+      "section": "news",
+      "rankScore": 0.277878
+    },
+    {
+      "id": "b5cf4ad6d9410075",
+      "title": "涉嫌为俄罗斯从事间谍活动，一名美军士兵在英国被捕",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729936.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-11T02:01:47.000Z",
+      "excerpt": "中新网11月11日电 据路透社报道，英国警方当地时间10日表示，一名美国陆军高级士兵因涉嫌为俄罗斯从事间谍活动，在英国被捕。",
+      "section": "cn-news",
+      "rankScore": 0.83635
+    },
+    {
+      "id": "d671c6b925a090de",
+      "title": "韩正会见联合国秘书长古特雷斯",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729908.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-11T01:58:55.000Z",
+      "excerpt": "中新社北京11月11日电 当地时间11月10日，习近平主席特别代表、中国国家副主席韩正在土耳其安塔利亚出席《联合国气候变化框架公约》第三十一次缔约方大会(COP31)领导人峰会期间会见联合国秘书长古特雷斯。",
+      "section": "cn-news",
+      "rankScore": 0.765778
+    },
+    {
+      "id": "845ea95b8ece9c9f",
+      "title": "零售板块短线拉升，红旗连锁涨停",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5eHNpNlRzZWt4V3dKM1JCZjcwX1VnNEVZOHFOZWJzR2VDYk5yZ3VXUmI0RzVKR09saUVZTTZQX2NETHhXVDRzYjN5d0NRakFpejVzTEU4b28?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-11T02:06:50.000Z",
+      "excerpt": "零售板块短线拉升，红旗连锁涨停 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.628525
+    },
+    {
+      "id": "56e8e137641c0708",
+      "title": "“效率提升达百倍” 一种“新型基础设施”来了",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729933.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-11T01:58:49.000Z",
+      "excerpt": "随着人工智能技术的快速迭代，这两年，AI黑灯实验室正在加快落地，开辟智能科研服务新赛道。",
+      "section": "cn-news",
+      "rankScore": 0.626521
+    },
+    {
+      "id": "321216ea3143a990",
+      "title": "价格大跳水，智利车厘子即将批量上市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hSERkZ0VoQjhhTnY2dWpnT2tsNGp1Q1BYOGtDTzlidFFhUE4tR1dKYzhQWFV6TWhsWEk0czF6X0pKNllwMlFEMXF0VWVYVTZMZ1oyTkFKVXotNkZQZ1lYdmxiYURva3BRTWp3LTFjNmY1Zw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-11T00:15:21.000Z",
+      "excerpt": "价格大跳水，智利车厘子即将批量上市",
+      "section": "cn-news",
+      "rankScore": 0.600654
+    },
+    {
+      "id": "30ff6778ed7b8c21",
+      "title": "中国驻日使馆发言人敦促日方依法严惩侵闯使馆凶犯",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GNTRONFV5TmZaaDNNRk1NRnphN2RHRWhvTFNYWS14VEhaeVZrbjZyVDJvcTFuMEhoSGVMY2JfRUc2b181TUVxc2ZkOFlXNW8yV0lhd1dfdTlGbzZFTmg4cGpMSkN4QXlYUmNyWGMtWDk4QjdUNG1iLVpkcE8?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-11T01:34:08.000Z",
+      "excerpt": "中国驻日使馆发言人敦促日方依法严惩侵闯使馆凶犯 求是 中国驻日本大使馆发言人就村田晃大非法持刀侵闯中国大使馆案第二次开庭答记者问 新京报 日本前自卫官持刀闯中使馆案开庭，检方要求判刑1年半 凤凰网 日本检方要求判处持刀强闯我驻日使馆人员村田晃大1年6个月刑期 中国日报网 “原自卫队官员村田晃大持刀强闯中国驻日本大使馆”一案今日开庭，检方要求判处其入狱18个月 ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.551422
+    },
+    {
+      "id": "a95f5b5bc432783f",
+      "title": "China, Russia and US try to nail down AI nuclear agenda in time for Apec talks",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374003/china-russia-and-us-try-nail-down-ai-nuclear-agenda-time-apec-talks",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-11T01:05:15.000Z",
+      "author": "Khushboo Razdan,Nayan Seth,Dewey Sim,William Zheng",
+      "excerpt": "Talks between China, the US and Russia could yield a commitment to control AI in nuclear arsenals as part of a broader agenda on global governance, sources told the South China Morning Post.",
+      "section": "cn-news",
+      "rankScore": 0.476878
+    },
+    {
+      "id": "87726e37fb66826c",
+      "title": "港股早报｜美国10月通胀超预期引发加息担忧 隔夜美股芯片股表现再度分化",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUblcwNERpQUYyWkNGdzVJQlBWMTF2VFdURW5rQTZ6bGY3a2plbGgxWjRtbzlyTXRmT0JvZUNxeDhCRFdOSVpLMg?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-11T00:51:00.000Z",
+      "excerpt": "港股早报｜美国10月通胀超预期引发加息担忧 隔夜美股芯片股表现再度分化 财联社 美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌 华尔街见闻 美国10月核心通胀压力持续--国际 人民网 美国10月CPI环比增长0.4% 高于市场预期 12月加息概率仍维持在100% 东方财富 三大央行同日在伦敦放鹰：继续加息，降息预期落空 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.474108
+    },
+    {
+      "id": "fd8b3b03d7a9db54",
+      "title": "空军成立77周年主题网宣片发布 逐梦空天初心未改",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UjVCbGNoU0NxS0hDVkhLSDdRTW85cE1UUjRMU2V0cTY0TU81Z05mM19NeUFwZ2lBeEJqc21mdnVqMzRxVmFCenpfTHV1c1V0V3lGelZZNEZ4ZVZjbFRrNDgzaDJjVmNfZTBKaFYzRDc?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-11T00:29:07.000Z",
+      "excerpt": "空军成立77周年主题网宣片发布 逐梦空天初心未改 中华网 从“双20”列阵看人民空军77年奋飞征程 新华网 77年前的今天，我们有了“翅膀” 凤凰网 以蓝天之名，赴冰雪之约：全国主流媒体代表走进长春，要看这些精彩 ThePaper.cn 战鹰翱翔春城，致敬人民空军77载荣光 人民网",
+      "section": "cn-news",
+      "rankScore": 0.402731
+    },
+    {
+      "id": "faf2f17fa8c904bf",
+      "title": "雲南多地11月罕見暴雨 一天降下一個月雨量",
+      "url": "https://www.cna.com.tw/news/acn/202611100339.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-10T12:58:50.000Z",
+      "excerpt": "（中央社台北10日電）11月進入乾季的中國雲南省，昨天成為中國大陸降雨核心區。中國天氣網資料顯示，雲南多地打破當地11月單日降雨量紀錄，一天降雨比往年一個月的雨量還多。",
+      "section": "cn-news",
+      "rankScore": 0.383578
+    },
+    {
+      "id": "9d15dec24966148f",
+      "title": "西安高校团队研发公路安全仿真平台 护航山区通行",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729927.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-11T01:56:03.000Z",
+      "excerpt": "中新网西安11月11日电 (记者 党田野 张一辰)山区公路地形复杂，急弯、长下坡、桥隧密集，车辆通行的安全风险点多、管控难度大。长安大学“安行智构”团队研发国产化公路安全仿真平台，依托数字模拟技术提前识别道路隐患，为山区公路安全整治提供技术支撑。近日，记者走进实验室探访这支科研团队。",
+      "section": "cn-life",
+      "rankScore": 0.834439
+    },
+    {
+      "id": "062c7ddd6dd6aa26",
+      "title": "冬天洗澡 早上洗还是晚上洗？这些“坏习惯”赶紧改",
+      "url": "https://www.chinanews.com.cn/life/2026/11-11/10729888.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-10T23:40:05.000Z",
+      "excerpt": "冬季到来，天气渐冷",
+      "section": "cn-life",
+      "rankScore": 0.657597
+    },
+    {
+      "id": "a431ca8823a5d351",
+      "title": "上海迪士尼星愿酒店即将开幕，房价从3562元一夜到9199元一夜不等 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd0lHVXVqeDIyTTc3dGR5RkxNWk1oYlNMMjFWakdzczBlS0hHVlVtdXVEX0VscnhLcUo2Q2dIcDh5WERUZG5fcC1LYmYxUmJ5WkdYNm11eXRfaUxBQU5tT2FQbzREMG9BTUVKWWlVXzNJQnh3d3dIekNCUVd4b3czSFVMWVRNSUdm?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-11T01:26:06.000Z",
+      "excerpt": "上海迪士尼星愿酒店即将开幕，房价从3562元一夜到9199元一夜不等 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.618342
+    },
+    {
+      "id": "16628a37434f2ca7",
+      "title": "欢迎深度参与绿色化智能化转型陈吉宁会见市咨会成员、瑞典银瑞达集团董事会主席雅各布·瓦伦堡",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnhucjlPWDY4eDNYQ09NTzA2MnQxZkRTV29JeEt6cGlCdmpuSmlXOFZ4VUllZ1FscUFLbDZTN1NWbW0yZW0zT2YxVUpkN21iUTNvbzhXb29LeTZFcm5DdUVudm5tRkpvT3VlSTdneWFfMm5kZERoa3NxTW4wQjRtRmx1X0FINEFw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-11T01:47:03.000Z",
+      "excerpt": "欢迎深度参与绿色化智能化转型陈吉宁会见市咨会成员、瑞典银瑞达集团董事会主席雅各布·瓦伦堡 上海市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.554293
+    },
+    {
+      "id": "135b47934115bb98",
+      "title": "美国FDA发布化妆品强制召回指南：企业需要关注哪些要求？",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOa0ttODJoamI1LWdxamJtOE5FVWJPSE44a2hfRW8xLVdudV9kdllGRFhGNU9Oa1lLOEw0UjJJb0t6U1lmMEgwVEhRRHVvd2Itb2FtOWNxalFHWWU0U2lQRWx4d0tnaEM5N1RMUThSLUtpRUFMd0E?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-11T01:50:43.000Z",
+      "excerpt": "美国FDA发布化妆品强制召回指南：企业需要关注哪些要求？ 瑞欧科技",
+      "section": "cn-life",
+      "rankScore": 0.485719
+    },
+    {
+      "id": "341c0a9591bd6935",
+      "title": "当科学遇见哲学：知识生产、技术权力与负责任创新的再统一",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0td29UcHlaS2UwZHhvM2RrSUViLU8teFE1RDFzX20tSUlQUHVJZ3h2MTd6SXNZTHRMWmlPbjdyNnAtTnAzb2JIaHlUaTM2Q1d6a0hDNnBzVnhHYVRhNXJ2R0xCTjhjX1k3b09vRTFB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-10T23:37:11.000Z",
+      "excerpt": "当科学遇见哲学：知识生产、技术权力与负责任创新的再统一 生物通",
+      "section": "cn-life",
+      "rankScore": 0.459754
+    },
+    {
+      "id": "83df36c66cc2ed2e",
+      "title": "全市首个 长泰区教育科技人才一体化服务中心正式揭牌",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CM2FRNUJZSGhfejBwbHktdFR6ZERlZ3BvY1RWWWszMzFuS2F0T1FMZ3EwVENGUDdyVWhMT19WeFptSHBfX2tUa2p1TkVzUk1jQmhOeWlCSFhfU3hUZ2ZTSXRsNkQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-11T01:54:00.000Z",
+      "excerpt": "全市首个 长泰区教育科技人才一体化服务中心正式揭牌 东南网",
+      "section": "cn-life",
+      "rankScore": 0.416878
+    },
+    {
+      "id": "747c74fc9b3afbc7",
+      "title": "動物界5大奇葩行為 連科學家也解釋不了",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EYmloVkhqcE42aTY2MktzejRZSzdlLUZ1QmZaNHRNbXN4ck1zNU1qVXJlREpjSGJ0Q1lxT3F0d2lhWWZVMnNvT3FsU3hQVEJjUmZMeGkxVW5TN3dRc3M2eUd30gFnQVVfeXFMTnEySU1OSlVwcWdMUzlaRnEzQTNjQlNkYkRabTlHWWNYRXE1R3B3elQyWUkxbEhPQmlBNEY0c2tYeWdlRGRmdjZ2cFIxM1dHUDFBU3NWMFpUNHRVT1Z0VTlRRmxIc1M4UQ?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-10T10:02:00.000Z",
+      "excerpt": "動物界5大奇葩行為 連科學家也解釋不了 大紀元",
+      "section": "cn-life",
+      "rankScore": 0.215176
+    }
+  ],
+  "warnings": [
+    "source \"gn-world-zh\" failed: Error: HTTP 503",
+    "source \"gn-disaster\" failed: Error: HTTP 503"
+  ]
+}
