@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-12",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-12T18:52:12.631Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "8d6cea9daa99f815",
+      "title": "從科技巨星到跌落神壇——黃仁勳如何深陷醜聞漩渦？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-12T16:14:41.000Z",
+      "excerpt": "短短幾天內，黃仁勳作為全球科技競賽領軍人物、看似無可撼動的地位便迅速崩塌。",
+      "section": "news",
+      "rankScore": 0.74306
+    },
+    {
+      "id": "7550672b89243ff1",
+      "title": "台湾参与跨国合作调查英伟达疑似中国谍案 女主黄乐曾8次访台 已被禁止入境",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261112-%E5%8F%B0%E6%B9%BE%E5%8F%82%E4%B8%8E%E8%B7%A8%E5%9B%BD%E5%90%88%E4%BD%9C%E8%B0%83%E6%9F%A5%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%96%91%E4%BC%BC%E4%B8%AD%E5%9B%BD%E8%B0%8D%E6%A1%88-%E5%A5%B3%E4%B8%BB%E9%BB%84%E4%B9%90%E6%9B%BE8%E6%AC%A1%E8%AE%BF%E5%8F%B0-%E5%B7%B2%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%A5%E5%A2%83",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-12T18:19:07.000Z",
+      "author": "古莉",
+      "excerpt": "据中央社台北12日消息，疑为中国间谍的中国籍女商人黄乐（Alice Huang）曾8次持香港护照访台，台湾行政院表示，相关个案侦办正在进行中，细节不便说明，且涉及“跨国合作调查”，目前无更多资讯提供。",
+      "section": "news",
+      "rankScore": 0.683029
+    },
+    {
+      "id": "a89da097b302b9af",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-12T18:47:35.000Z",
+      "excerpt": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "section": "news",
+      "rankScore": 0.627864
+    },
+    {
+      "id": "05404c41ac5088fe",
+      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+      "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-12T18:40:46.000Z",
+      "author": "Ivan Nechepurenko",
+      "excerpt": "The Kremlin, taking a hard line, is pushing to widen negotiations to overhaul European security structures.",
+      "section": "news",
+      "rankScore": 0.555305
+    },
+    {
+      "id": "6278f56096611816",
+      "title": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-12T18:38:13.000Z",
+      "author": "Peter Walker Senior political correspondent",
+      "excerpt": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality Ministers are looking at ways to change the law quickly to expand protections that stop non-disclosure agreements being used to cover up harassment or discrimination in the wake of the…",
+      "section": "news",
+      "rankScore": 0.554259
+    },
+    {
+      "id": "3485ce5c3d2f95a0",
+      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-12T18:03:02.000Z",
+      "excerpt": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
+      "section": "news",
+      "rankScore": 0.539825
+    },
+    {
+      "id": "e0841dcc4edab287",
+      "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+      "source": "npr-news",
+      "publishedAt": "2026-11-12T18:44:00.000Z",
+      "author": "Stephan Bisaha",
+      "excerpt": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
+      "section": "news",
+      "rankScore": 0.487053
+    },
+    {
+      "id": "af8acded9c76a0f3",
+      "title": "Will the Supreme Court Thwart Congressional Investigations?",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-12T18:27:08.000Z",
+      "author": "Adam Liptak",
+      "excerpt": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
+      "section": "news",
+      "rankScore": 0.480998
+    },
+    {
+      "id": "36aae4a02188c17b",
+      "title": "European leaders reject Russian push to overhaul continent’s security",
+      "url": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-12T17:38:50.000Z",
+      "excerpt": "‘Europe needs to pay attention’, warns Zelenskyy after Abu Dhabi talks",
+      "section": "news",
+      "rankScore": 0.463659
+    },
+    {
+      "id": "3aec0f3df208b00c",
+      "title": "特朗普总统要求副总统万斯将工作重点从伊朗谈判转向美国的腐败",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEZSSkdIUFhfVE1TT3A5MTBQN2U2Q2d1MURndWxuTS1MWGVMaXFOX3lOcW8zUlFUYU9sb2htYVA5RWxBakw2akdDTE9mWUVuUEVQdE1BX01fWlRydUdSaHctWnVJdWRsT3c5SzVKaU9VcUlqSTVsdm4wWFQwcm9lZ044SnJKdnY5VC16bGNlMW1YLXlUVFFWN1ZHZUR6OW1OSXZMeU1LRmJITl8wV2cyOFNLNVYxdW9WcFh2RklaSmhpNXd5UDRF0gHKAUFVX3lxTFA0aDFOYUtpdVlObkJ5SlFyc29BWHJIZ05QaGlTS3c2dWNtb1FBZFZoQmZJYTg2Qm5ZQU1jb09FTDc5Q19OeFdGS3dScVptZXAzcGY5aXQ2RjI5SFNtaFl2c1lpUVYyTXV1a0NJMzlJTktOWlV2T0dST2FmMG5JRm9Ua2tSaDBrRXluZjQ1VWxDd2NVQ3JYTWxOMHg5WXNGTUNFcXJxbjlkZVdmek1tMzdtM2JkOE5ORUNnMXBjcllQVzRNZW9DYV9HbVE?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-12T17:20:41.000Z",
+      "excerpt": "特朗普总统要求副总统万斯将工作重点从伊朗谈判转向美国的腐败 美国之音 特朗普：美国不需要与伊朗达成协议 凤凰网 战或和都不选，特朗普想用这损招让伊朗“窒息” 观察者网 特朗普称美国不需要与伊朗达成协议 中国网新闻中心 特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口 Sohu",
+      "section": "news",
+      "rankScore": 0.391838
+    },
+    {
+      "id": "88c8cc9e40a2dbd7",
+      "title": "Business",
+      "url": "https://www.economist.com/the-world-this-week/2026/11/12/business",
+      "source": "economist-week",
+      "publishedAt": "2026-11-12T14:08:53.000Z",
+      "section": "news",
+      "rankScore": 0.388293
+    },
+    {
+      "id": "d494f163ba3cab9e",
+      "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-12T12:00:00.000Z",
+      "excerpt": "More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.",
+      "section": "news",
+      "rankScore": 0.293166
+    },
+    {
+      "id": "7563bb77640628ca",
+      "title": "北京将推进第四使馆区重点项目建设",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731226.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-12T14:27:18.000Z",
+      "excerpt": "中新社北京11月12日电 (记者 陈杭)北京将在东部地区，统筹推进第四使馆区重点项目建设，把金盏国际合作服务区打造成为首都国际化发展新地标；强化首都国际机场国际航空枢纽门户功能，依托首都国际会展中心加快建设具有全球影响力的国际会展集聚区。",
+      "section": "cn-news",
+      "rankScore": 0.620563
+    },
+    {
+      "id": "9f6e5b5cd7a12db2",
+      "title": "利应侯庙：平遥小众国保，纪念狐突的金元古殿丨山西晋中",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Fc2FoR1FkaE9HMTFnNU5KckdyQVhsNm91dy1ZUUNlMEMyVHpPcU4xeVNDYm8zbEtiRDlIMko5aVdxRjJjRkViaDdGWHlhZGtYanhkZUVHM2F0THZ2UUE1bw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-12T16:00:06.000Z",
+      "excerpt": "利应侯庙：平遥小众国保，纪念狐突的金元古殿丨山西晋中",
+      "section": "cn-news",
+      "rankScore": 0.550564
+    },
+    {
+      "id": "cb0beff607228fd3",
+      "title": "阿联酋发生涉23车严重交通事故，已致14死30伤",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Qb1ZyX1F2R2lwazFFN2V6S1NGT0NYdEU5WnhYSUhDVEYyd0RYajdOajhBRHlxM2dRUjdzSHRnWVgzcU1VSkxLWkUtRDV6WHRvWnN6SjN3?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-12T15:12:12.000Z",
+      "excerpt": "阿联酋发生涉23车严重交通事故，已致14死30伤 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.528457
+    },
+    {
+      "id": "94c9e69d94ebe52d",
+      "title": "成渝三地联合进京推介文旅 西部国际AI漫剧产业园亮相",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731214.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-12T14:05:47.000Z",
+      "excerpt": "中新网北京11月12日电(曹旭帆)12日，成都市锦江区、重庆市渝中区、成都市都江堰市联合在北京举办文化和旅游产业招商引资推介会，三地携区域文旅资源与产业项目亮相，与在京文旅、科技、金融等领域百余名代表对接洽谈。",
+      "section": "cn-news",
+      "rankScore": 0.497803
+    },
+    {
+      "id": "1b95f6890eeabc3e",
+      "title": "东西问丨胡箫白：为什么中山路不仅遍布中国还“延伸”至海外？",
+      "url": "https://www.chinanews.com.cn/dxw/2026/11-12/10730849.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-12T09:31:52.000Z",
+      "excerpt": "中新社南京11月12日电 题：为什么中山路不仅遍布中国还“延伸”至海外？",
+      "section": "cn-news",
+      "rankScore": 0.495173
+    },
+    {
+      "id": "c442f945553a2c72",
+      "title": "【现代快报】手搓木玫瑰、绣彝绣香囊！江苏省第八届大学生艺术展演学生艺术实践工作坊开幕",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JbjYwYTl0bmZmNUJvcjRTNGRvbWFUYmF0b3VZM1o1aEtOcE93MDQ0cmJtdGxMS001ZzdkNndPYjVtSFFNQzZsZnVEemdSUVhNUjdZV1hZYlh4VDVrczNlYkkydGtWUQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-12T15:52:27.000Z",
+      "excerpt": "【现代快报】手搓木玫瑰、绣彝绣香囊！江苏省第八届大学生艺术展演学生艺术实践工作坊开幕 东大新闻网 向美而行 逐梦未来 全国第八届大学生艺术展演上海市活动市级集中展演展示开幕式暨第八届大学生创意季启动仪式举行 China Daily 向美而行逐梦未来 江苏大学生艺术展演亮相东南大学 Sohu 全国第八届大学生艺术展演上海市活动市级集中展演展示开幕 腾讯新闻 舞台向更多普通学子敞开，“大艺展”看见多元青春 上观新闻",
+      "section": "cn-news",
+      "rankScore": 0.486252
+    },
+    {
+      "id": "68639374d5020354",
+      "title": "伦敦股市12日上涨",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTG9TOHpNVnYwUlhWLU9JME9HWWtsYkhTN3BqTmdsNnVEXzhCWjgwMTAyVFZwRkJSNTJZa3ptNnJKVkp1TlRxZkh6Xy0yNW4wUmxuQ1FqYjAweEs3c1V1dW00RFlpVEtWbUMzR0xha01xY0ZkVGhTeXpQc2J3WlU3UHlWQmtHV1BQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-12T18:36:58.000Z",
+      "excerpt": "伦敦股市12日上涨 新华网 欧洲两大指数创新高 Sohu AI交易信心回暖 欧股创下新高 第一财经 欧洲三大股指11月9日全线上涨 凤凰网 德国股市涨跌不一；截至收盘DAX 30上涨0.57% 提供者 Investing.com 英为财情 Investing.com",
+      "section": "cn-news",
+      "rankScore": 0.484528
+    },
+    {
+      "id": "74bba37031dd80d6",
+      "title": "港媒：黃樂香港公司從印尼進口輝達晶片",
+      "url": "https://www.cna.com.tw/news/acn/202611120359.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-12T13:27:31.000Z",
+      "excerpt": "（中央社台北12日電）港媒今天報導，香港公司VFO International從新加坡資料中心MegaSpeed的印尼子公司進口輝達（Nvidia）晶片，輝達執行長黃仁勳婚外情對象、MegaSpeed前主管黃樂（Alice Huang）曾經控股VFO。",
+      "section": "cn-news",
+      "rankScore": 0.426792
+    },
+    {
+      "id": "747afeb6fba4026e",
+      "title": "Cold War lessons for the AI age: how a US-China hotline could help stop a nuclear attack",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374246/cold-war-lessons-ai-age-how-us-china-hotline-could-help-stop-nuclear-attack",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-12T15:00:10.000Z",
+      "author": "Orange Wang,Eve Qiao,Alyssa Chen",
+      "excerpt": "The United States and China should set up a dedicated hotline to help reduce the risk of AI-induced nuclear attacks, analysts have said. The call came amid a fresh push by Washington to prioritise high-level talks on arms controls.",
+      "section": "cn-news",
+      "rankScore": 0.406702
+    },
+    {
+      "id": "d63dbbcdf5591e5d",
+      "title": "洛杉矶奥运会亚预赛抽签中国女足与朝、韩同组",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YVEtGenFxaUlxYng3V1NtLUtIYXZ0YWlxcTBjaUpKVkhOWTIzeHNWdmljTExqSmZDQlFENi1PQWRSQnFBdmkzcThlTC1PT0xxZ1E?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-12T14:21:00.000Z",
+      "excerpt": "洛杉矶奥运会亚预赛抽签中国女足与朝、韩同组 自贡网",
+      "section": "cn-news",
+      "rankScore": 0.336551
+    },
+    {
+      "id": "53755252f38ee96f",
+      "title": "留学生走进广西钦州：在平陆运河畔读懂海陆共兴与非遗传承",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731207.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-12T13:58:19.000Z",
+      "excerpt": "中新网广西钦州11月12日电(黄艳梅 吴浩)广西民族大学近日组织26名留学生代表前往广西钦州市开展2026年“感知中国”社会实践与文化体验活动，通过实地走访、文化体验与社会调研，增进在华留学生对中国历史文化底蕴与当代发展成就的深入了解。",
+      "section": "cn-life",
+      "rankScore": 0.659142
+    },
+    {
+      "id": "b6d42629565e6f1f",
+      "title": "黄仁勋突辞英伟达CEO 全球AI产业迎“地震” – 普通话主页 - Radio Free Asia",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSTM4MGw2cDdSU1hIMDlCLW0xWEhDOW9GQlNLbHJMSGJUY3ktd0ZsTU9Cb1p1SmJ4UnNRTkZ1eUoyY0NLVmY2czhvdTNPSHFmZi1tMXhmOVA5c0oyajdLMnZyS295N0ZxNmhxY0RCekZ1d1VwaXhfaDhoenJzVG4tTkloVmVKcXd4djZsczV6aFRSY2VlelpORlRvMmI2YlB5UlhwcjBFR2dDUQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-12T16:15:50.000Z",
+      "excerpt": "黄仁勋突辞英伟达CEO 全球AI产业迎“地震” – 普通话主页 Radio Free Asia",
+      "section": "cn-life",
+      "rankScore": 0.557826
+    },
+    {
+      "id": "bcada002027c3020",
+      "title": "“LED灯会让人变胖”冲上热搜 这些人群要注意",
+      "url": "https://www.chinanews.com.cn/life/2026/11-12/10731174.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-12T13:27:03.000Z",
+      "excerpt": "在控制体重的道路上，很多人都被那些隐藏的高油、高糖食物坑过。此时，如果有人说，连LED灯都要“背刺”我们了，可怎么办呢？",
+      "section": "cn-life",
+      "rankScore": 0.533251
+    },
+    {
+      "id": "6a62c734f86cb5b7",
+      "title": "湖南东安高质量发展观察：特色产业兴县 民生实事暖心 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94M2VGdEN5TUg1a3U0T01CQ1NsLXZkTVVjeVZMbTdVNTBCd004QkM4RUVEWEdKYWxubTZUZGZxV01OVHlxcDZtbjB0VFBnaktEYjliZFNZdHlpSjY5SUwtN0NuS1VVdFl4Y2tvUWFoV0pVMGtCOEFhZQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-12T15:00:00.000Z",
+      "excerpt": "湖南东安高质量发展观察：特色产业兴县 民生实事暖心 新浪财经_金融信息服务商",
+      "section": "cn-life",
+      "rankScore": 0.522826
+    },
+    {
+      "id": "a0a43ba859547495",
+      "title": "桥粒胶蛋白2突变致心律失常性心肌病伴慢性心力衰竭成年小鼠新皮质突触超微结构改变",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lMW96QUdnRGlpTE9KSkcwaUphbU90ZklvelppUFRvR2Jkb2dDc000SERyVjRqSUdsNktrUUVkNzFveWF6eFpZT21VaVI4RnQtNWJ2N3FnNlAzVXlka1VfajNkSV9tMVhnOHp0OXJR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-12T16:27:23.000Z",
+      "excerpt": "桥粒胶蛋白2突变致心律失常性心肌病伴慢性心力衰竭成年小鼠新皮质突触超微结构改变 生物通",
+      "section": "cn-life",
+      "rankScore": 0.438011
+    },
+    {
+      "id": "3dc1b48a073120d8",
+      "title": "岑浩辉：缅怀孙中山先生 传承“爱国爱澳”传统",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjNERfX0lsMWFvVlY1ZjJGREZERTU5ajhTa21IbTNYYmdBMmx4VEZubjhTVXFlSnFodHgtbU5lXzNfeHByZV9QRHVOd25XcWI0cWJaWDktYzFtRGcydmpnUURZWERBWXpULXZNNHFrLUlpUFN3V3l6VnZ3?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-12T11:51:02.000Z",
+      "excerpt": "岑浩辉：缅怀孙中山先生 传承“爱国爱澳”传统 国务院港澳事务办公室",
+      "section": "cn-life",
+      "rankScore": 0.387209
+    },
+    {
+      "id": "15a58c82b298a2e7",
+      "title": "一张“红黑榜”守住外卖食品安全 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTkxR1R3ZnU3ZUVMbS13c0pBUDFVNlJWQ1RMeU9WTVg2VjRQWDlJUExQdVV6bzVFY0JEczN6Y1kzTFhWQnNOMkQ2ZHBMOVdJRU1VUXp2TkY1OWdxMy1xM3RZQTJXUmpybmQxSUhnTjM3bnFLVndCZDJ5RkxJVTJEUGVHWXNsbW1hbV94OA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-12T13:35:08.000Z",
+      "excerpt": "一张“红黑榜”守住外卖食品安全 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.376177
+    },
+    {
+      "id": "5a1c7516e819e91a",
+      "title": "东南大学举行香港智华基金捐赠签约仪式暨“至善教育贡献奖”颁发仪式",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YTXlPQkZEMWQ4UnFpMldQUm9CWml0SDBtZ0xNeVZrMDRLVkZKazB6RHBzQnFoN2NVZ1ZTUlZjSDhmZHl2bmdJX3dqQjJGRmRMNURFdkE3SmwtZDA4TjZNWUZIRktCZw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-12T15:34:40.000Z",
+      "excerpt": "东南大学举行香港智华基金捐赠签约仪式暨“至善教育贡献奖”颁发仪式 东大新闻网",
+      "section": "cn-life",
+      "rankScore": 0.359217
+    }
+  ],
+  "warnings": []
+}
