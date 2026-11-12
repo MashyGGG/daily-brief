@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-12",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-12T02:53:40.603Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "2ca83088c9494643",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-12T02:53:40.603Z",
+      "score": 787,
+      "excerpt": "Production-grade engineering skills for AI coding agents.",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "7615e3cf81115781",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-11T21:24:35.000Z",
+      "score": 416,
+      "author": "herpderperator",
+      "excerpt": "416 points · 401 comments · https://news.ycombinator.com/item?id=50458900",
+      "section": "tech",
+      "rankScore": 0.965687
+    },
+    {
+      "id": "102f76fff7959a32",
+      "title": "LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems",
+      "url": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-11T19:58:17.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Enrollment closes in 24 hours for Build Production Grade AI Systems. We kick off tomorrow, November 12, at 5pm PT.",
+      "section": "tech",
+      "rankScore": 0.643074
+    },
+    {
+      "id": "54872fc80b1c0ede",
+      "title": "The Myth of Neutral Code",
+      "url": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-11T23:59:09.000Z",
+      "author": "foss.life via FedericoSchonborn",
+      "section": "tech",
+      "rankScore": 0.635232
+    },
+    {
+      "id": "088d043be42216f2",
+      "title": "Issue types and fields are available for personal accounts",
+      "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-11T17:16:46.000Z",
+      "author": "Allison",
+      "excerpt": "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize…",
+      "section": "tech",
+      "rankScore": 0.539747
+    },
+    {
+      "id": "380ff7780b7de8ea",
+      "title": "JioHotstar Benchmarks Knowledge Bases for AI Coding Agents",
+      "url": "https://www.infoq.com/news/2026/11/jiohotstar-codingagent-retrieval/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-11T14:28:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "JioHotstar evaluated 6 approaches to code retrieval for AI coding agents using SWE, CodeScale Bench, and an internal question-answering harness. Structural search performed well on concrete tasks, while semantic retrieval helped with ambiguous requirements.",
+      "section": "tech",
+      "rankScore": 0.529833
+    },
+    {
+      "id": "ed254bc9caf498e2",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "openai",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "section": "ai",
+      "rankScore": 0.814696
+    },
+    {
+      "id": "9b47d80b6e619352",
+      "title": "llm 0.37.2",
+      "url": "https://simonwillison.net/2026/Nov/11/llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-11T17:19:52.000Z",
+      "excerpt": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from…",
+      "section": "ai",
+      "rankScore": 0.64873
+    },
+    {
+      "id": "f7bfba52d44a0494",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "source": "google-ai",
+      "publishedAt": "2026-11-11T16:00:00.000Z",
+      "author": "Roman Nurik",
+      "excerpt": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "section": "ai",
+      "rankScore": 0.518423
+    },
+    {
+      "id": "0c413750c04d6e3d",
+      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-11T09:34:28.000Z",
+      "author": "swyx .ai",
+      "excerpt": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+      "section": "ai",
+      "rankScore": 0.452464
+    },
+    {
+      "id": "6bb5892c1c1a933c",
+      "title": "腾讯裁员一半",
+      "url": "https://www.v2ex.com/t/1256359",
+      "source": "v2ex",
+      "publishedAt": "2026-11-12T02:04:48.000Z",
+      "score": 31,
+      "author": "kaouiwyhauaysada",
+      "excerpt": "灭霸响指？",
+      "section": "cn-tech",
+      "rankScore": 0.860781
+    },
+    {
+      "id": "40afc56873f59675",
+      "title": "美团智播——数字人直播技术创新与实践",
+      "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-12T02:53:40.603Z",
+      "excerpt": "美团智播围绕 AI 主播「长得真→动得准→演得活→卖得好」构建了完整技术闭环：真人 1:1 复刻、换装换背景身份不跑偏；动作自然流畅，告别「木偶戏」；边说边动、音画一致；背后还有推理加速技术支撑万路并发开播，让普惠落地成为可能。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "2d8f8033ddd5d175",
+      "title": "AIGC和“活人感”，哪个是长视频面向未来的“解药”？",
+      "url": "https://www.36kr.com/p/4065354553545862",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-12T02:47:58.000Z",
+      "author": "读娱",
+      "excerpt": "想要在竞争中保持足够的竞争力，对于长视频们来说，活人感是最重要的抓手，AIGC是面对未来的利器。 10月22日，情感综艺《后会有期》上线，进入11月，其股价一路飙升，芒果超媒这家上市公司也迎来了2026年在资本层面的“高光时刻”。 节目初上线时，坊间反响并不热烈，然而节目第三期播出后（进入到11月后），“后会有期”开始显示出爆款的实力，引发海量的讨论，在社交媒体的热度居高不下，并且带动芒果超媒股价在11月6日突破30元，11日突破38元，达到2026年以来的最高点。 那么，这档引发芒果超媒股价到达年度高点的综艺，其“活人感”的特质，是长视频面向未来的“解药”吗？",
+      "section": "cn-tech",
+      "rankScore": 0.628572
+    },
+    {
+      "id": "d24bf4f49d050ce1",
+      "title": "cc4g-AI 编程工具 Web 集成平台 v0.2.0 更新：增加 Codex CLI 集成",
+      "url": "https://www.oschina.net/news/503538",
+      "source": "oschina",
+      "publishedAt": "2026-11-12T01:39:40.000Z",
+      "excerpt": "AI编程工具是汽车，Token是汽油，CC4G是你的汽车车库。 cc4g主要为了解决两个问题： 多人共用一套环境，手机也能接着用。它是一个用 Go 开发的 Web 版AI编程引擎集成平台平台，把 AI 编程引擎装进浏览器——纯 Go 编译出的单文件程序，跑在你自己的电脑或服务器上，装好之后打开浏览器就能干活。 支持在线安装nodejs、C...",
+      "section": "cn-tech",
+      "rankScore": 0.611497
+    },
+    {
+      "id": "098d5ba562118b5a",
+      "title": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+      "url": "https://www.infoq.cn/article/YiANe38yfSYitvZOtab0?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-11T21:05:37.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.603317
+    },
+    {
+      "id": "f4b115e29658f056",
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-11T12:01:59.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default.",
+      "section": "security",
+      "rankScore": 0.452307
+    },
+    {
+      "id": "441b4addc7eaf5dc",
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-11T12:00:53.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the certificates it issues.",
+      "section": "security",
+      "rankScore": 0.452002
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
