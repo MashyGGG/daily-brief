@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-12",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-12T03:18:51.962Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "cd25709e40b16649",
+      "title": "西班牙大罷工：數萬人參與、巴塞羅那爆發警民衝突",
+      "url": "https://www.bbc.com/zhongwen/articles/c8wy5x2q2wryo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-12T03:10:40.000Z",
+      "excerpt": "數以萬計民眾參與這場由西班牙主要工會發起的工業行動，抗議住房問題及生活成本高漲。",
+      "section": "news",
+      "rankScore": 0.837267
+    },
+    {
+      "id": "91742ff4716a9f08",
+      "title": "黄仁勋再被曝婚外情：知情人称其与英伟达一名女高管有染",
+      "url": "https://cn.nytimes.com/technology/20261112/jensen-huang-nvidia-affair/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-12T01:41:41.000Z",
+      "author": "RYAN MAC,TRIPP MICKLE,GEORGIA GEE",
+      "excerpt": "五名曾在英伟达工作的人士称，黄仁勋与该公司医疗保健业务副总裁鲍威尔有亲密关系。两人均为已婚人士。知情人称，他们的关系已在公司内部引发议论。 Manuel Orbegozo for The New York Times 今年3月，英伟达首席执行官黄仁勋在加利福尼亚州圣何塞举行的公司年度大会上。",
+      "section": "news",
+      "rankScore": 0.740305
+    },
+    {
+      "id": "7d0b2f22c88b23fe",
+      "title": "波兰政治舞台激进化，欧盟密切关注",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261112-%E6%B3%A2%E5%85%B0%E6%94%BF%E6%B2%BB%E8%88%9E%E5%8F%B0%E6%BF%80%E8%BF%9B%E5%8C%96%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-12T02:06:11.000Z",
+      "author": "呢喃",
+      "excerpt": "本期出刊的法国世界报大篇幅聚焦俄乌阿布扎比谈判并未出现重大进展、法国政坛各党派候选人动向等。与中国相关的报道有一则，继续关注英伟达因其掌门人的婚外情而陷入的震荡，社论则关注了波兰政治光谱的激进化。",
+      "section": "news",
+      "rankScore": 0.67981
+    },
+    {
+      "id": "31e5f99df26bfcc3",
+      "title": "New York building collapse kills one person and injures 12",
+      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-12T02:33:12.000Z",
+      "excerpt": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+      "section": "news",
+      "rankScore": 0.618583
+    },
+    {
+      "id": "2cc0a4f19949d6b4",
+      "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
+      "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-12T03:11:19.000Z",
+      "author": "Abu Bakr Bashir and Ephrat Livni",
+      "excerpt": "Nassar Hospital in Khan Younis was attacked despite the 2025 cease-fire. A surgeon, an official and a disabled patient were among the victims, a witness said.",
+      "section": "news",
+      "rankScore": 0.558322
+    },
+    {
+      "id": "fb36d6684315ff00",
+      "title": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-12T03:07:16.000Z",
+      "author": "Maya Yang",
+      "excerpt": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of Destin The historic SS United States has reached the end of its journey at sea, sinking Wednesday off the coast of Destin, Florida, where it will begin a new life underwater as an artificial…",
+      "section": "news",
+      "rankScore": 0.557422
+    },
+    {
+      "id": "6944a2e267c71dc6",
+      "title": "Argentina’s Milei cries as he bids farewell to the Pope",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-12T02:03:30.000Z",
+      "excerpt": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
+      "section": "news",
+      "rankScore": 0.543252
+    },
+    {
+      "id": "045e89a3d6969160",
+      "title": "Investing in America",
+      "url": "https://www.ft.com/reports/investing-america?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-12T01:26:48.000Z",
+      "excerpt": "The fifth annual FT-Nikkei Investing in America report: How the US has received only a fraction of investment from Asian partners in deals to lower tariffs; AI jitters in the wake of the midterms and how overseas companies are pouring money into US manufacturing",
+      "section": "news",
+      "rankScore": 0.468209
+    },
+    {
+      "id": "fbf5d2be2c241330",
+      "title": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
+      "url": "https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-12T01:25:58.000Z",
+      "author": "Adam Liptak",
+      "excerpt": "He was the most-cited legal scholar of the latter half of the 20th century and an unapologetic iconoclast, favoring pragmatism over judicial tradition. He was 87.",
+      "section": "news",
+      "rankScore": 0.468047
+    },
+    {
+      "id": "b573f08a41080684",
+      "title": "伊朗举办展览展示自研多型号导弹等装备",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZOTcybW1rdDhyOUFwWXJXYm5QcXJfRU05M3VldUlGbkFHVzBuRTRpSjlnbFFzZWw1R3VDMWk3UjJUZ2N3MTVPUnpUM0lhVXFwMTJN?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-12T03:00:31.000Z",
+      "excerpt": "伊朗举办展览展示自研多型号导弹等装备 第一财经 西方情报：伊朗仍有至少1700枚导弹 凤凰网 伊朗国防部发言人：武器储备依托战略生产与技术升级 新浪网 西方情报评估认为伊朗仍有战前一半弹道导弹产能 央视网 恢复战前一半生产能力 伊朗“仍能战斗” 观察者网",
+      "section": "news",
+      "rankScore": 0.416942
+    },
+    {
+      "id": "357d982e9e5315cd",
+      "title": "Why is gasoline suddenly under $4 a gallon?",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
+      "source": "npr-news",
+      "publishedAt": "2026-11-11T19:59:14.000Z",
+      "author": "Willa Rubin",
+      "excerpt": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?",
+      "section": "news",
+      "rankScore": 0.404516
+    },
+    {
+      "id": "639babaf4133c0ec",
+      "title": "世卫组织：刚果（金）埃博拉疫情应对面临安全局势动荡等多重障碍",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143176",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "excerpt": "世界卫生组织总干事谭德塞周三表示，刚果民主共和国（刚果（金））埃博拉疫情仍然是一起引起国际关注的公共卫生突发事件。目前，该国八个省份已报告近1.1万例确诊病例，死亡人数超过5300人。尽管部分地区疫情传播速度有所放缓，但新的疫情热点仍在出现，应对工作面临安全局势动荡等多重障碍。",
+      "section": "news",
+      "rankScore": 0.400283
+    },
+    {
+      "id": "e27013e1b225d5ce",
+      "title": "M87*黑洞存在“甜甜圈”结构吗？最新天文研究确认无误",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730689.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-12T02:56:01.000Z",
+      "excerpt": "中新网北京11月12日电 (记者 孙自法)作为人类首张黑洞照片，距地球约5500万光年、质量超太阳60亿倍的M87星系中心超大质量黑洞(M87*黑洞)被形象称为“甜甜圈”的图像，自7年多前发布以来广受关注，学界对其独特环状结构是否存在也有争议。",
+      "section": "cn-news",
+      "rankScore": 0.832384
+    },
+    {
+      "id": "771b8cb76df81951",
+      "title": "国际人士热切期待APEC“深圳时间”",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730703.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-12T03:10:23.000Z",
+      "excerpt": "今年是中国加入APEC的第35个年头，35年来，中国既是APEC合作的受益者，更是重要的推动者和贡献者。国际人士是如何看待亚太合作共赢？对APEC“中国年”，又有哪些期待呢？",
+      "section": "cn-news",
+      "rankScore": 0.767408
+    },
+    {
+      "id": "1a8546f07b97419b",
+      "title": "上海气质 国际风范——在进博会感受有序与活力",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730706.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-12T03:13:08.000Z",
+      "excerpt": "新华社北京11月11日电 11月11日,《新华每日电讯》发表题为《上海气质 国际风范——在进博会感受有序与活力》的报道。",
+      "section": "cn-news",
+      "rankScore": 0.628567
+    },
+    {
+      "id": "cae3dfa1b85d531b",
+      "title": "沪深两市成交额突破1万亿元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SLVRveENuSEpjSVl6OWxNWkVLbkVhb3gxZzdGQWpNampiVXpRaENCaUdWRGt0MEtnT0NhVURqekdXeG9US19xWGN6RzZHbWxFQWwzT1JReG0?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-12T02:48:17.000Z",
+      "excerpt": "沪深两市成交额突破1万亿元 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.622354
+    },
+    {
+      "id": "6fa7188b439e7496",
+      "title": "欧阳黔森《起来》：一位普通母亲视角里的长征",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxNmR1blNMQWZiWHZQZnBEaGhsdFM3QURIdkdBdDUxT0hCM0N3S1ZhenAxZXB5RV9LbFNZT1ktZ2sxcXJhQml2NG54V0pKRWF6eWtHZkxqbkpibVVOWDVFTQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-12T00:44:54.000Z",
+      "excerpt": "欧阳黔森《起来》：一位普通母亲视角里的长征",
+      "section": "cn-news",
+      "rankScore": 0.591508
+    },
+    {
+      "id": "3ce0e4136f1043c5",
+      "title": "“医”说就懂丨秋冬甲流高峰来袭：科学守护儿童健康，远离流感侵扰",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWY3MXVJbHNWVUdEbGdtQWlIaFZ0eDZYQnI5Z2dWdlAxWGRGRHlvY3lWZFpGZ2E2akNUbFNYQm94TVVzY21JeTBxYjdfNXRRZWZwQ2EwZXhsa0M1T3hXcFBOOXdpWXRhWTN1VDk3MTF6U00wdDBtWmY3dlhRODdzakt3WQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-12T02:19:49.000Z",
+      "excerpt": "“医”说就懂丨秋冬甲流高峰来袭：科学守护儿童健康，远离流感侵扰 新华网 “多毒株”活跃，流感季提前！疾控中心紧急提醒→ ThePaper.cn 三毒株同时流行！得了一次还可能再中招 凤凰网 【深圳特区报】流感不是“大号感冒” 肺炎易盯“一老一小”请收好深圳秋冬呼吸道防护指南｜健康周刊 Sohu 我国流感活动波动上升，一周内报告106起流感样病例暴发疫情 新京报",
+      "section": "cn-news",
+      "rankScore": 0.546878
+    },
+    {
+      "id": "bf3f3bb0b497922c",
+      "title": "中國民眾成為香港洗錢集團招攬來港犯案對象",
+      "url": "https://www.cna.com.tw/news/acn/202611120056.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-12T02:14:28.000Z",
+      "excerpt": "（中央社記者張謙香港12日電）香港警方近日偵破一起洗黑錢案，共逮捕了20名中國民眾，反映出中國民眾已成為香港犯罪集團招攬來港犯案的對象。",
+      "section": "cn-news",
+      "rankScore": 0.545689
+    },
+    {
+      "id": "140139fa2f7cb585",
+      "title": "Taiwan to send Acer founder Stan Shih to Shenzhen Apec, calls for ‘equal footing’",
+      "url": "https://www.scmp.com/news/china/politics/article/3374140/taiwan-send-acer-founder-stan-shih-shenzhen-apec-calls-equal-footing",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-12T02:53:34.000Z",
+      "author": "Albee Zhang",
+      "excerpt": "Taiwan will send Stan Shih, founder of computer giant Acer, to the Apec leaders’ summit in Shenzhen next week and has urged Beijing to ensure its delegation is treated with “dignity”. Taiwan has been a member economy of the Asia-Pacific Economic Cooperation forum under the name “Chinese Taipei”…",
+      "section": "cn-news",
+      "rankScore": 0.485081
+    },
+    {
+      "id": "ca88129b3b856f1e",
+      "title": "11月12日早盘存储芯片概念走势偏强 翔港科技涨停",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qRmZrdEk4SFA2ZkIzMjRQMmlJN3FGQmpDTE1qNGp3S21RSEM5Q05fNHBfUHVJR21ZenFDSEJTSFRsakZVaWlkeWlCcm90UmM1dEd2UHAzQ25pU1N2WVNrdGRwcXp6dW9IX0t1ckdVSDRVTDQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-12T02:28:12.000Z",
+      "excerpt": "11月12日早盘存储芯片概念走势偏强 翔港科技涨停 央广网 存储厂商酝酿新一轮涨价，先涨的是企业级 新浪财经 别盲目囤货了！DRAM先涨后跌：2028年内存价格要暴跌52% 驱动之家 利好存储芯片！超级周期料延续至2028年 但两大机构价格预期分歧巨大 财联社 美光一周重挫22%，存储芯片抄底窗口打开? 美银押注超级周期延续至2028年 金融界",
+      "section": "cn-news",
+      "rankScore": 0.480148
+    },
+    {
+      "id": "38708341b90af7a2",
+      "title": "国贸资本、智象元一、上影股份共同发布“新电影创作支持计划” - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QYkFlTU04M0t1TVc0V1BuTTNOZTAzTVE5RjduWE9TY3NvcVMwcUxmT1hHSTd5dThxVXQzTWFmVkxVbnlJX2s1ZnVfa3lDdzRJb251eTcyRFU?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-12T03:00:13.000Z",
+      "excerpt": "国贸资本、智象元一、上影股份共同发布“新电影创作支持计划” 36Kr 这场电影节里的“AI时刻” 光明网 金鸡百花电影节首次设立AI单元 72小时创作挑战展现影像制作新可能 新华网 光影论道 智启新程｜2026 中国电影教育与产业论坛在厦举办 搜狐网 金鸡首设“AI单元”王珞丹张蓝心等现场推介 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.416892
+    },
+    {
+      "id": "589c82343f6a7ac6",
+      "title": "直播海报：“北冥鲲鹏”不是神话 在东营蹲一场鸟浪扶摇",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730699.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-12T03:06:59.000Z",
+      "section": "cn-life",
+      "rankScore": 0.836039
+    },
+    {
+      "id": "948e0d99d74828ad",
+      "title": "最近高发！这种病毒发作时剧痛难忍",
+      "url": "https://www.chinanews.com.cn/life/2026/11-12/10730633.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-12T01:55:51.000Z",
+      "excerpt": "带状疱疹又叫“缠腰龙”",
+      "section": "cn-life",
+      "rankScore": 0.67694
+    },
+    {
+      "id": "acb91c5275c98550",
+      "title": "闻令即响 一呼百应 天目未来谷上演了一场“生死追击”",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmVVdURGZkMV90cVpZbjJVdjdqWlBKRlIxZ2pMUHFCVTNsRHZBdElJeVpETzc1ZzJaQU9WQVcxaEhLbXZCUXRoQXNreWFsT2c?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-12T03:08:00.000Z",
+      "excerpt": "闻令即响 一呼百应 天目未来谷上演了一场“生死追击” 新蓝网",
+      "section": "cn-life",
+      "rankScore": 0.627283
+    },
+    {
+      "id": "705c7aba9634ee2c",
+      "title": "以“小实事”汇聚民生暖流 - https://www.aksxw.com/",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XMTVVNk9tVVhnRkZjaXp2U0szTUlmcGFqRElJbDJTX1dHSzAwenhGRkhkZlZ6SHdlUC00RnRhZXRTSVptZEU2SFJOU1VKQjdpZ2g2YkkteTcxVDRqa2xZQkhDS25lTm1WMVhsNkN5Z1RCdw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-12T03:00:09.000Z",
+      "excerpt": "以“小实事”汇聚民生暖流 https://www.aksxw.com/",
+      "section": "cn-life",
+      "rankScore": 0.625321
+    },
+    {
+      "id": "e2d03ef62e5f7599",
+      "title": "武威：市安全生产考试点举办特种作业人员安全技术实操考评人员培训班-市州快讯",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93cVNsQXlFY081OTJpNFpDbjVMNGVsRHFoTTMwMmp1eFVVUVlOOVE3LVdndDZ1djNJYlRzQlNvd3ZQSFV6Q1V6bGdNa3NRYVk4NXVydi1ZSTVvWnZmTGtObUhjQm56VTRQZGZsZg?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-12T02:51:38.000Z",
+      "excerpt": "武威：市安全生产考试点举办特种作业人员安全技术实操考评人员培训班-市州快讯 甘肃省应急管理厅",
+      "section": "cn-life",
+      "rankScore": 0.553948
+    },
+    {
+      "id": "eebc29635b42a117",
+      "title": "多款无人机因不具备电子围栏等功能被召回",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1MGM3cHZoUW1DcXMwUXZVdUlNX25ySF9VWTNmN0ZRamFZTnJnYXBscVNadnNhQS13WDFTLUdFcndQeG8yVkN5ZFBXaURJd1J2RTJnRGVyRDI3cjF3TWNSQWxR?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-12T03:02:25.000Z",
+      "excerpt": "多款无人机因不具备电子围栏等功能被召回 观点网",
+      "section": "cn-life",
+      "rankScore": 0.486802
+    },
+    {
+      "id": "3e201bb4ac5a4d0f",
+      "title": "Nat. Commun. | 曹务春、高玉伟等合作解析穿山甲冠状病毒的人畜共患病风险 - ByDrug",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OeGcxdnItbnJ6cEN4dVBLXzJJYzJwUlJxVXdsRDVsSlVvM1pJbnBtVTFJaHkwV2U1N1Q3V2QwZzFVNGx6YzhUR1NWZ01ZQUVFdktycU0zZVY0b1hZNU54SkxSbWZScXY4NW5xS2tycG1KcWR4aDZDY2N2WTUtUQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-12T02:37:00.000Z",
+      "excerpt": "Nat. Commun. | 曹务春、高玉伟等合作解析穿山甲冠状病毒的人畜共患病风险 ByDrug",
+      "section": "cn-life",
+      "rankScore": 0.481859
+    },
+    {
+      "id": "36090afc0d54d4e6",
+      "title": "权威解读《工程技术人员继续教育规定》，速看！ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcnE2ZGFMVlNQTHZmSFFNTC13WENoalhRWkY5aGdKR19raHg0emxoMTAzVV9rTk84Zzd0Y1VWeVNPalF3aEttUl9vWndDR3BWdUt1NS1EUWhSMzJTTGR4VXJRUEU3ODg1OE5aaW9uZ3dKTVZkWXRpTjByM3VfNmdZa1hoZVQxWVY1cnc5Mw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-12T03:04:34.000Z",
+      "excerpt": "权威解读《工程技术人员继续教育规定》，速看！ Sohu",
+      "section": "cn-life",
+      "rankScore": 0.417617
+    }
+  ],
+  "warnings": []
+}
