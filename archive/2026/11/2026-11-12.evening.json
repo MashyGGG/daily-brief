@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-12",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-12T19:51:50.099Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "abc54ad78df6620b",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-12T19:51:50.099Z",
+      "score": 799,
+      "excerpt": "Keep your coding agent up to date with the latest web best practices",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "c93a3b6c036d0eab",
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-12T18:01:48.000Z",
+      "score": 288,
+      "author": "dvaplima",
+      "excerpt": "288 points · 183 comments · https://news.ycombinator.com/item?id=50471431",
+      "section": "tech",
+      "rankScore": 1.017123
+    },
+    {
+      "id": "458995d29f1043cf",
+      "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
+      "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+      "source": "google-developers",
+      "publishedAt": "2026-11-12T19:51:50.099Z",
+      "excerpt": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "5bde58332b3151df",
+      "title": "The Pulse: What can we learn from the Railway hack?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-11-12T18:53:19.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Also: native mobile and frontend jobs are disappearing, how trust helps an “AI-native” engineering team to succeed, Carta starts selling a coding harness, and more",
+      "section": "tech",
+      "rankScore": 0.739348
+    },
+    {
+      "id": "06e465a554f546a8",
+      "title": "Dyalog Version 21.0",
+      "url": "https://dyalog.com/dyalog/dyalog-versions/210.htm",
+      "source": "lobsters",
+      "publishedAt": "2026-11-12T19:13:49.000Z",
+      "author": "dyalog.com via veqq",
+      "section": "tech",
+      "rankScore": 0.664849
+    },
+    {
+      "id": "193ca7136e3b1e65",
+      "title": "Top Types of Hidden Coupling and How to Deal With Them",
+      "url": "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-12T16:30:41.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "When you create an architecture diagram, you usually try to show the services, databases, queues, and the connections between these different components.",
+      "section": "tech",
+      "rankScore": 0.664635
+    },
+    {
+      "id": "15ec5b2310826586",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "huggingface",
+      "publishedAt": "2026-11-12T19:07:35.000Z",
+      "section": "ai",
+      "rankScore": 0.763794
+    },
+    {
+      "id": "5e5bf53c5d846c43",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "openai",
+      "publishedAt": "2026-11-12T09:30:00.000Z",
+      "excerpt": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "section": "ai",
+      "rankScore": 0.50486
+    },
+    {
+      "id": "4b4811c435bdadf2",
+      "title": "LinkedIn 基于 OpenTelemetry 追踪用户动作全链路：从前端点击到后端服务",
+      "url": "https://www.infoq.cn/article/3u1PmO0HqQXBFNibKZoe?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-12T16:44:00.000Z",
+      "author": "作者：Craig Risi",
+      "section": "cn-tech",
+      "rankScore": 0.610555
+    },
+    {
+      "id": "b17e857da53ce6d1",
+      "title": "用户抱怨难以在流媒体服务上找到想看的内容",
+      "url": "https://www.solidot.org/story?sid=85874",
+      "source": "solidot",
+      "publishedAt": "2026-11-12T14:42:28.000Z",
+      "excerpt": "根据尼尔森的 Gracenote 对美国、巴西、法国、德国、墨西哥和英国的 3000 名 18 岁及以上的流媒体用户进行的调查：虽然流媒体平台内容无比丰富，但用户经常找不到想要看的内容。逾 51% 的受访者表示：内容和流媒体服务的极度丰富，反而让人更难找到想看的东西。19.2% 的受访者表示，他们总是或经常遇到这种情况：不知道该看什么，也找不到想看的内容，最终只能去做别的事。27.4% 的受访者表示，他们总是或经常在试图观看特定节目时却因无法在流媒体平台上找到它，最终只好放弃。47% 的受访者表示，他们花在寻找观看内容上的时间比一年前更多了，平均耗时 12 分钟。",
+      "section": "cn-tech",
+      "rankScore": 0.60795
+    },
+    {
+      "id": "351d598cd2c49457",
+      "title": "被领导叫去涨薪了",
+      "url": "https://www.v2ex.com/t/1256525",
+      "source": "v2ex",
+      "publishedAt": "2026-11-12T08:50:09.000Z",
+      "score": 105,
+      "author": "gotorion",
+      "excerpt": "虽然只加了 2K ，但是也很开心啊 最近 V 站工作贴一片灰暗，给 V 友一些希望",
+      "section": "cn-tech",
+      "rankScore": 0.582671
+    },
+    {
+      "id": "608979e30367972d",
+      "title": "当李佳琦卖起“算力”，双十一玩法变了",
+      "url": "https://www.36kr.com/p/4066724043216007",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-12T13:03:38.000Z",
+      "author": "投资者网",
+      "excerpt": "2026年，市场迎来了AI加持下的第一个双十一。 在AI时代，今年双十一的玩法已截然不同。11月2日晚，李佳琦直播间就上架了一款特别的商品，即 千问 办公个人会员月卡，原价28元，促销价0.01元。开售半小时，近10万份售出，对应约2万亿Token。对于习惯在直播间购买口红、家电和零食的消费者而言，这种看不见、摸不着的“算力商品”，成为今年双十一颇具新鲜感的场景。 从纸巾、化妆品到手机、家电，再到AI服务，购物车的变化折射出零售供给的变化。京东提前现货开卖，天猫保留预售并强化会员优惠，抖音主打单件直降，拼多多延续百亿补贴，美团闪购则将品牌商品带进即时零售场景。",
+      "section": "cn-tech",
+      "rankScore": 0.455056
+    },
+    {
+      "id": "516b504a9bf0fedc",
+      "title": "第八章、网络请求 & 异步方案 -- async /await 核心",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSLTBQZnBVa2lDaFFUQkxURUtqYVFtandfalJ6RGxQUEh1ajAzTkZqSlMwZ2tjOGtIVjYzMG1XNWRGd3ZuRkpzV1pMbHpCbXN5Ql9xQg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-12T15:32:13.000Z",
+      "excerpt": "第八章、网络请求 & 异步方案 -- async /await 核心 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.403461
+    },
+    {
+      "id": "c7ca683d3d4b9f82",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-12T18:07:15.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee.",
+      "section": "security",
+      "rankScore": 0.650198
+    },
+    {
+      "id": "7494ca9873d6aa9c",
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-12T18:02:51.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there.",
+      "section": "security",
+      "rankScore": 0.648102
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
