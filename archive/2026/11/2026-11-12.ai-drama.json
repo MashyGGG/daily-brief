@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-12",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-12T17:33:54.648Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 7,
+  "items": [
+    {
+      "id": "383e030d7a15cbb0",
+      "title": "青年夜校上新了！南宁上班族掀起AI漫剧制作学习热潮",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlQnAtejB1YVNvT3ZqaUhPNWdvcGxSei1RTmV0cFhkeFJfY2V0WktycUxBYkhiZTJvUy1rLVF3bWljTkNndzc5dFBrWDg2RzFTeDR6Z2p5LTJyX0xYTXhLQzRXOU82eXlhNlRXOEVVTEVGYmN2RWJWek5wbFhOTWs?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-12T11:12:00.000Z",
+      "excerpt": "青年夜校上新了！南宁上班族掀起AI漫剧制作学习热潮 广西新闻网",
+      "section": "drama-news",
+      "rankScore": 0.646957,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "ec5959a22a7820e9",
+      "title": "AI漫剧热度高企但盈利门槛不低，培训加盟与投流成本引发入局风险担忧",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RT244Xy1ncFRLMHZHZkZ1bHZoRlNZSHBJTk9fbTUwQ1VRUTYwdDlicVJaWnQ5QUtQRXJZLV9uVFNhWFIyUFpqTy1aUjBOb2hQWkEyag?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-12T10:43:10.000Z",
+      "excerpt": "AI漫剧热度高企但盈利门槛不低，培训加盟与投流成本引发入局风险担忧 虎嗅",
+      "section": "drama-news",
+      "rankScore": 0.642952,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "9338777af33f0386",
+      "title": "李培华：AI短剧出海",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yTFIzM1lNNFA2TE81TVpqWXVOQmZWekllLUs5UU50N1pScnQyaWhqcEFFeG9FSlpKVjhUcDZYQWtQOU1SekNUMFl2bDBaWlpKRzdOag?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-12T08:32:23.000Z",
+      "excerpt": "李培华：AI短剧出海 第一财经",
+      "section": "drama-news",
+      "rankScore": 0.624788,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "f74b918f6f00ff1f",
+      "title": "一周成片、单集成本低至百元 AI短剧成为文旅传播新赛道也带来隐忧丨天府周末",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNOWZOUjZxUS00RWdWa0M1SzNMZ3p5TUtRcEkzMVpFdmJJYXA0MmQ5VTBzMGZ4cUZkVkRNTk1YWTZEY0tuaU16bXpFYlNfQ3l1T1pCU3dFX29jU28?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-12T08:01:55.000Z",
+      "excerpt": "一周成片、单集成本低至百元 AI短剧成为文旅传播新赛道也带来隐忧丨天府周末 四川在线",
+      "section": "drama-news",
+      "rankScore": 0.620556,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "a34f57aad29642eb",
+      "title": "文投控股：AI漫剧相关业务收入占营收比例约为2.57%",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CZGRPS1dZYjFaU3pucjFaLUNyRmlsYTlLaEczeXBpNmlwcXg3X3ZrSkFmd2k0ci1hN21IVHlaVDZ6dG9LYVBYdmZSQmhTMWROYVl6TXpRQzY0VU1iNGp6SA?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-12T14:11:39.000Z",
+      "excerpt": "文投控股：AI漫剧相关业务收入占营收比例约为2.57% 同花顺财经",
+      "section": "drama-news",
+      "rankScore": 0.43674019999999997,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "865779d06262024d",
+      "title": "AI短剧业务“热火朝天” 掌阅科技Q3营收环比增长却几乎停滞",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwU0xTMW5wN3R0MmMybXNObk5aX09JMnd5dDJRaU5penFncWVFNTNOM0lCV0Z2THJoOXdGQnRMUHFWVmhBVUs4ZWlxYUVWZDZPSnpBdHB3Q2pjUGJJczd5SFhmRUowMEs4d25YM3RWQ0JsOUl0dEg1Vg?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-12T07:51:04.000Z",
+      "excerpt": "AI短剧业务“热火朝天” 掌阅科技Q3营收环比增长却几乎停滞 新浪财经",
+      "section": "drama-news",
+      "rankScore": 0.40238185,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "9394dc363a065a12",
+      "title": "v1.6.2",
+      "url": "https://github.com/Lightricks/LTX-2/releases/tag/v1.6.2",
+      "source": "drama-ltx",
+      "publishedAt": "2026-11-12T14:28:42.000Z",
+      "author": "lt-research-bot",
+      "excerpt": "Added OutOfClipGuideRepeat ( ltx_pipelines.chunks ) selects which chunks receive an image guide outside the clip in chunked runs: ONCE (default) gives a guide before the clip only to the chunk owning frame 0 and one after it only to the chunk owning the last frame; PER_CHUNK gives it to every…",
+      "section": "drama-tools",
+      "rankScore": 0.9642152,
+      "editorial": {
+        "kind": "release",
+        "evidence": "excerpt",
+        "reason": "来自已配置的官方技术来源。",
+        "action": "核对版本、使用条件和授权，再判断是否用于当前练习。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 国内外资讯与案例：本期 6/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 1/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "分镜先于精细画面",
+      "url": "https://runway.com/resources/ai-storyboard",
+      "task": "写一个原创小故事，用粗图排出 6 个分镜。",
+      "doneWhen": "不依赖旁人解释也能顺序看懂故事。"
+    }
+  }
+}
