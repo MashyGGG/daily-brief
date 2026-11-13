@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-13",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-13T18:29:58.948Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "be4899ff12ebe7dd",
+      "title": "伊朗黑客用中国AI攻击法国超市冷藏系统 背后还藏着谁？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261113-%E4%BC%8A%E6%9C%97%E9%BB%91%E5%AE%A2%E7%94%A8%E4%B8%AD%E5%9B%BDai%E6%94%BB%E5%87%BB%E6%B3%95%E5%9B%BD%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E7%B3%BB%E7%BB%9F-%E8%83%8C%E5%90%8E%E8%BF%98%E8%97%8F%E7%9D%80%E8%B0%81",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-13T18:10:49.000Z",
+      "author": "肖曼",
+      "excerpt": "法国政府本周公布调查结果，将10月发生的波及约700个零售超市的冷藏系统网攻，归因于伊朗伊斯兰革命卫队。美国财长贝森特（Scott Bessent）则在周四（11月12日）进一步表示，伊朗黑客在攻击法国超市冷藏系统时，使用了一款中国人工智能（AI）模型。从伊朗到法国再到美国，这一切竟可能间接地与当今国际新闻的那位最大女主有关。",
+      "section": "news",
+      "rankScore": 0.690171
+    },
+    {
+      "id": "e7505e5670b92a4a",
+      "title": "後黃仁勳時代：誰是Nvidia下任掌門人？晶片競賽走向何方",
+      "url": "https://www.bbc.com/zhongwen/articles/ck9d7y92yvg1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-13T12:37:44.000Z",
+      "excerpt": "僅僅五天內，AI晶片界巨頭黃仁勳被私生活風波拉下台，宣布辭任輝達（英偉達/Nvidia）執行長一職。外界焦點放眼至他的接班人，以至輝達作為AI晶片業領頭的未來。分析指，這場風波有可能衝撃整個人工智能市場和晶片供應鏈。",
+      "section": "news",
+      "rankScore": 0.623231
+    },
+    {
+      "id": "b6c02f68e3254ae6",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-13T17:12:46.000Z",
+      "excerpt": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "section": "news",
+      "rankScore": 0.594362
+    },
+    {
+      "id": "2dc8787a794bd788",
+      "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-13T18:10:05.000Z",
+      "author": "Ben Quinn, Aisha Down, Andrew Gregory and Jamie Grierson",
+      "excerpt": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptions Microsoft outage – live updates Vital UK services have been hit by a global Microsoft outage that left hospital staff resorting to paper records and fuelled concerns about an…",
+      "section": "news",
+      "rankScore": 0.551836
+    },
+    {
+      "id": "941d94ff327094b7",
+      "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+      "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-13T18:04:22.000Z",
+      "excerpt": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
+      "section": "news",
+      "rankScore": 0.549491
+    },
+    {
+      "id": "b9b2553badd21b00",
+      "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
+      "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-13T17:59:45.000Z",
+      "author": "Chico Harlan and Lisa Friedman",
+      "excerpt": "Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies.",
+      "section": "news",
+      "rankScore": 0.547597
+    },
+    {
+      "id": "423599655af7373d",
+      "title": "Microsoft says services experiencing ‘broad recovery’ after global outage",
+      "url": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-13T18:25:15.000Z",
+      "excerpt": "German government says it ‘anticipates a very big impact’ on economy",
+      "section": "news",
+      "rankScore": 0.488301
+    },
+    {
+      "id": "4546c7a9b980c2f8",
+      "title": "Book Review: ‘Promise Me, America,’ by Joe Biden",
+      "url": "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-13T17:56:33.000Z",
+      "author": "Jennifer Szalai",
+      "excerpt": "The former president’s new memoir trumpets his achievements while justifying his decision to run for a second term and his embrace of Israel’s war in Gaza.",
+      "section": "news",
+      "rankScore": 0.477999
+    },
+    {
+      "id": "3fbea7a9c105ab31",
+      "title": "The Trump administration's voter roll crusade could continue",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+      "source": "npr-news",
+      "publishedAt": "2026-11-13T17:00:00.000Z",
+      "author": "Jude Joffe-Block",
+      "excerpt": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
+      "section": "news",
+      "rankScore": 0.457699
+    },
+    {
+      "id": "f8c96d3d3e173e86",
+      "title": "【子午播报】2026年11月13日",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143191",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "excerpt": "纽约时间零点，北京时间13点，欢迎收看《联合国子午播报》。本期节目您将看到，古特雷斯出席任内最后一届气候大会；加沙亟需过冬援助物资；世界糖尿病日，你了解自己的血糖吗？",
+      "section": "news",
+      "rankScore": 0.450008
+    },
+    {
+      "id": "760786c149b1728a",
+      "title": "教宗在奇克拉约弥撒：在福传方面，爱德与真理密不可分- 梵蒂冈新闻网 - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0R1UlR6bHR1aVNzNmpkYVpSV01lRHlueV9uVGxMa18wVnh4Z1ZMcTVLby1Wb2owbFBhN3U2WHZtNGNDZWM3OFgyUzI2emlDT2VoTG5VbGRfS0dZWTlEbVRVVGJBR3JuYmNZZTFURU1INmVsSVQwX2hJTVZrNEV0dU5HTjJIMlhkSFhDc0VKbnNsdUNZUjlrTg?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-13T16:59:17.000Z",
+      "excerpt": "教宗在奇克拉约弥撒：在福传方面，爱德与真理密不可分- 梵蒂冈新闻网 Vatican News 教皇良十四世访问秘鲁，重返“故乡”，呼吁弥合过去的分歧 RFI 教宗在利马会见6名侵犯的受害者- 梵蒂冈新闻网 Vatican News 美洲/阿根廷 - 爱德、家庭、工作与圣人：教宗良十四世祝福阿根廷人民的珍贵财富 Agenzia Fides 教皇利奥到访秘鲁时，秘鲁总统藤森庆子表示秘鲁必须直面民族和解 Sohu",
+      "section": "news",
+      "rankScore": 0.392093
+    },
+    {
+      "id": "201b786001ed4ace",
+      "title": "COP31: New initiative targets AI and reliable climate change information",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168798",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "excerpt": "New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.",
+      "section": "news",
+      "rankScore": 0.300005
+    },
+    {
+      "id": "7fa276e58ff4ca9c",
+      "title": "常卫魏出任中国国家女子足球队主教练",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731806.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-13T13:36:00.000Z",
+      "excerpt": "中新社北京11月13日电 中国足球协会13日宣布，常卫魏出任中国国家女子足球队主教练，王军出任中国国家女子足球队第一助理教练。",
+      "section": "cn-news",
+      "rankScore": 0.659088
+    },
+    {
+      "id": "7d57f590a35bc3e4",
+      "title": "王毅同韩国外长赵显会谈",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731860.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-13T14:55:46.000Z",
+      "excerpt": "中新社北京11月13日电 11月13日，中共中央政治局委员、外交部长王毅在北京同韩国外交部长赵显举行会谈。",
+      "section": "cn-news",
+      "rankScore": 0.64916
+    },
+    {
+      "id": "fc6602f10a63e744",
+      "title": "美军中央司令部否认在巴林雷达遭伊朗袭击",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xcVdNOV9kVFE2Y2FyRHFWT0RYMnNtdXV1VHVYN1dvUlhPQUZsWDJCZDRYV1R6WVhrUXVINHhZbG8tWlFEc1ZtcGc0XzlLWGx2RUgwdU9sbHQ?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-13T15:57:32.000Z",
+      "excerpt": "美军中央司令部否认在巴林雷达遭伊朗袭击 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.559639
+    },
+    {
+      "id": "8c97c5bc7a6332f1",
+      "title": "全球首座半潜式风电制氢平台拖航启程",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731848.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-13T14:27:53.000Z",
+      "excerpt": "中新社广东江门11月13日电 (记者 郭军)江门海事局13日完成全球首座半潜式风电制氢平台“申海氢能1号”离开广东江门新会水域的拖带护航任务，有力保障了这一国家级海洋新能源重大装备的安全离港。",
+      "section": "cn-news",
+      "rankScore": 0.518262
+    },
+    {
+      "id": "d11a1baa73704c7c",
+      "title": "学习快评丨以高质量党建引领国有企业高质量发展",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXQ1TWxEMUg1aVBBbjhrTGVJSFAzX1NYSFRpOEY0MDYyaU1iTm1Ud3U4aWpSZFRPckVtUW5FZTJPMXNJaFdQT3QwYnI2cU4yaS1vYkllaGV0bDV4a1NzOWFmODgtRUkwdnZvT3hqdzFJRUdEZDRWUVptX1lXQkpTNVBSeXlfWl9T?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-13T15:54:11.000Z",
+      "excerpt": "学习快评丨以高质量党建引领国有企业高质量发展 新华网",
+      "section": "cn-news",
+      "rankScore": 0.496082
+    },
+    {
+      "id": "edd5f64b7eea60c8",
+      "title": "1198元“一字肩”羽绒服引热议，商家：有3种穿法，买家反馈非常好",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VSUJybkh1amdYQkRGai0xaTlNUlR2aFl2SWY1Mk45M2VvZzRVSElhQVliUVhWM3FKMnBLWmdtVlZFSk1XQnViQzE1VHBxMUpqRzNUa2R4dEQwQmg0eE5HdQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-13T13:32:00.000Z",
+      "excerpt": "1198元“一字肩”羽绒服引热议，商家：有3种穿法，买家反馈非常好",
+      "section": "cn-news",
+      "rankScore": 0.49247
+    },
+    {
+      "id": "226542fa15129623",
+      "title": "承認為北京從事間諜活動 旅美民運人士唐元雋獲判緩刑",
+      "url": "https://www.cna.com.tw/news/acn/202611130308.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-13T13:05:01.000Z",
+      "excerpt": "（中央社台北13日電）據美聯社報導，獲美國政治庇護的六四民運人士唐元雋，承認代表中國政府從事間諜活動，並監控位在紐約的中國民運人士長達5年。他12日在曼哈頓聯邦法院被判3年刑期，但獲得緩刑的處分。",
+      "section": "cn-news",
+      "rankScore": 0.426681
+    },
+    {
+      "id": "8d78f2bb5b2420ea",
+      "title": "财经聚焦｜资金流向哪里 结构有何变化——透视10月金融数据",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwOVB5Ymg0dFQ3Zk1DeXZjMzMwWUMyTVVRTWNyUmViSlJnRXdJRGtqNm9YVG1DQ0czM3FPUGxxMU4yajJXOUk1UDdOWFBHdE5KVTlORUNWUk5aLTdkQ1hIblY5S1l3QQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-13T15:30:55.000Z",
+      "excerpt": "财经聚焦｜资金流向哪里 结构有何变化——透视10月金融数据 东方财富 前10个月我国人民币贷款增加11.42万亿元 新华网 10月金融数据出炉：今年来企业债净融资3.1万亿 凤凰网 财经聚焦｜透视10月金融数据 Sohu 10月社会融资规模增加1.15万亿元，增速回升至7.2% ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.42572
+    },
+    {
+      "id": "ac9cf192adbb345a",
+      "title": "Trump to press Southeast Asia nations to join Pax Silica at Asean summit in Manila",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374393/trump-press-southeast-asia-nations-join-pax-silica-asean-summit-manila",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-13T15:00:07.000Z",
+      "author": "Dewey Sim,Khushboo Razdan,Nayan Seth",
+      "excerpt": "US President Donald Trump will press Southeast Asian economies to join Pax Silica, his campaign to China-proof AI and chip supply chains, when he attends the Asean summit in Manila next week.",
+      "section": "cn-news",
+      "rankScore": 0.414664
+    },
+    {
+      "id": "15b8df4a96a57ff5",
+      "title": "铸牢“根”和“魂” 奋进新征程——习近平总书记重要指示为进一步加强国有企业党的建设指明方向",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTW5ZcEZ6dXJ6VFdLRTc5eUxPYzc1VmRpelZ4NnY3MmFTeG01Rm83WGIyODZmSGRhT19kX1BKNEY3THZOSDc5Y05sRHJzVUhOX1ZCdXJWQkRaUEJDU0xrQUI4dEk5WlpwTnpLRFdVakwtMVNFS3dJLUI4bXVZbGVfdEdlZWJIa1g3SC1oTVh3?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-13T16:01:23.000Z",
+      "excerpt": "铸牢“根”和“魂” 奋进新征程——习近平总书记重要指示为进一步加强国有企业党的建设指明方向 新华网",
+      "section": "cn-news",
+      "rankScore": 0.374277
+    },
+    {
+      "id": "6335fd69328ac74f",
+      "title": "新疆阿克苏地区库车市发生5.0级地震",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731870.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-13T16:34:38.000Z",
+      "excerpt": "中新网11月14日电 据中国地震台网微博消息，中国地震台网正式测定：11月14日00时17分在新疆阿克苏地区库车市(北纬42.22度，东经83.64度)发生5.0级地震，震源深度20千米。",
+      "section": "cn-life",
+      "rankScore": 0.769016
+    },
+    {
+      "id": "11f4f8becb2ee5a7",
+      "title": "大雨暴雨+8级大风！气温降到5℃！江西发布最新天气预报 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkJZYzNFeWFQeUxQUWVXdzRTLUlfR2V5cjItZWFzNFFnaXFHODZSTGFsb3dybFlVQUVZeUVVNFNEdzlKbWYtRDRzMTFrWmFVZ2dsQTBKRmhxel9vQXJNc1NXS3NjSE85d2VPbHo3VG1BMEQ0N2NYeHRBNE5uaFhyQVh3U1ZWVjA5TkRDa3V2UUJpTU9MVlRiQmVlQUk0R1BwclRLLWk0WFNUbWpscFkwYlE4TVdpeTIzN1V5SlZEcmVfWmZua09yOXUzcl9oMUl2bGk2Ums3UWM?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-13T16:40:43.000Z",
+      "excerpt": "大雨暴雨+8级大风！气温降到5℃！江西发布最新天气预报 新浪财经_金融信息服务商",
+      "section": "cn-life",
+      "rankScore": 0.57957
+    },
+    {
+      "id": "58c99ff010289025",
+      "title": "通胀报告再敲警钟 美联储官员直言物价数据“令人不安”",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXU1Q2WWRPTUZfR3ZJUVp3TC1JOFhkRm1fT0NqdXpWbzQ3ZjV2Sng1NXNPWnN0RFhEZzl6MlNzSmM3QzYwaXRGaQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-13T15:12:15.000Z",
+      "excerpt": "通胀报告再敲警钟 美联储官员直言物价数据“令人不安” 财联社",
+      "section": "cn-life",
+      "rankScore": 0.538739
+    },
+    {
+      "id": "4975d8a1261a0b75",
+      "title": "使用暖手宝，这些禁忌别忽视",
+      "url": "https://www.chinanews.com.cn/life/2026/11-13/10731712.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-13T12:39:13.000Z",
+      "excerpt": "给您提醒 暖手宝这些使用禁忌别忽视",
+      "section": "cn-life",
+      "rankScore": 0.52012
+    },
+    {
+      "id": "69a4444d5688da7f",
+      "title": "车辆管理大队关于对机动车驾驶证注销信息进行公告",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01T0lrRThMMmFwcXY0cnBUNmdqOElISi12WERBZHkwSlVmaElXeFRLS291aDB6Y3EydHBkNUZ6RF9zTkNILVYxS1dEQTFVaUIyeXRLWUZ1STZoYTVCWWJqY25GNXZCbHdEWmc?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-13T14:56:00.000Z",
+      "excerpt": "车辆管理大队关于对机动车驾驶证注销信息进行公告 广州公安",
+      "section": "cn-life",
+      "rankScore": 0.472212
+    },
+    {
+      "id": "159306ec98b4cad6",
+      "title": "国研癌症疫苗成功攻破KRAS“无药绝症”！胰腺癌、肺癌、肠癌患者迎来新曙光 - ByDrug",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VZnBCSDVrbGFfZENxZmI3bzZDNGxnTGd1NjBjTTJnWWZmZFVGRlpjX1FzOGNlc3YyNGtKTW12VjZiSnBPWHBIamtnWUFTZkdveFk3QTR5YkJucy1OMGJKM2RGcVFCd3JqdnAzaE8tTDZLeVJKYUV5eTZvQnFIUQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-13T15:59:00.000Z",
+      "excerpt": "国研癌症疫苗成功攻破KRAS“无药绝症”！胰腺癌、肺癌、肠癌患者迎来新曙光 ByDrug",
+      "section": "cn-life",
+      "rankScore": 0.435801
+    },
+    {
+      "id": "efd192cdb2ca1407",
+      "title": "宝马召回逾72万辆汽车 美当局促车主停放户外",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04OUpNQ2gwSVJZZndRLWdlQS1BT3RNa2ktcEVwTDlXVFhLM2FkeEN1d0xTTjFDZWJ3dmJvU2dkN05KNm1BenJ3NDhLQ0N6c3Rsck50WWszZk8wWUR0ZVJiMHNJMFZiZFhXR1E?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-13T15:40:09.000Z",
+      "excerpt": "宝马召回逾72万辆汽车 美当局促车主停放户外 联合早报",
+      "section": "cn-life",
+      "rankScore": 0.429034
+    },
+    {
+      "id": "d01eb87066516348",
+      "title": "安溪乡土讲师斩获全省农民教育培训讲课比赛一等奖",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sM205SE5KOGxzZ2VTelZ3SkpxQ21OX0MxVm5KdW85MG1wbGFnWThtVmtjM0pwVjNEblduMjdaYnhEdFJ0MHFOVndJTU9WWEZ3Sl9vZU1uUlByczd6LUtEeA?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-13T15:57:19.000Z",
+      "excerpt": "安溪乡土讲师斩获全省农民教育培训讲课比赛一等奖 泉州新闻",
+      "section": "cn-life",
+      "rankScore": 0.373026
+    }
+  ],
+  "warnings": []
+}
