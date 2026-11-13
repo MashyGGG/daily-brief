@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-13",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-13T02:34:41.076Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "8b4c998ad5965b90",
+      "title": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-13T02:34:41.076Z",
+      "score": 415,
+      "excerpt": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "e1ce6cff2937fcef",
+      "title": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-12T18:20:48.000Z",
+      "score": 535,
+      "author": "dkpk",
+      "excerpt": "535 points · 496 comments · https://news.ycombinator.com/item?id=50471731",
+      "section": "tech",
+      "rankScore": 1.018229
+    },
+    {
+      "id": "049965738267820b",
+      "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
+      "url": "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+      "source": "google-developers",
+      "publishedAt": "2026-11-13T02:34:41.076Z",
+      "excerpt": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "8cc84deb3cb205fb",
+      "title": "Announcing the GraphQL over HTTP specification",
+      "url": "https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-13T01:16:15.000Z",
+      "author": "graphql.org via sp6370",
+      "section": "tech",
+      "rankScore": 0.661257
+    },
+    {
+      "id": "8bbe7d7ff70104fb",
+      "title": "Actions for ARM32 Linux & Windows retirement",
+      "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-12T20:59:36.000Z",
+      "author": "Allison",
+      "excerpt": "GitHub Actions hosted runners will be ending support for ARM32 job execution on Windows and Linux by 8th Dec 2026. This follows our end of support for node20 where Node…",
+      "section": "tech",
+      "rankScore": 0.606921
+    },
+    {
+      "id": "64771e8b567e6810",
+      "title": "How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter",
+      "url": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-11-12T16:16:25.000Z",
+      "author": "Ryan Donovan",
+      "excerpt": "Everybody's resume is perfect now, so how do you find the perfect teammate?",
+      "section": "tech",
+      "rankScore": 0.501846
+    },
+    {
+      "id": "78cf202bfa8ac6ff",
+      "title": "v2.1.323",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
+      "source": "anthropic",
+      "publishedAt": "2026-11-12T22:12:13.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Added Code Mode, an experimental opt-in in which Claude writes JavaScript to call its tools; see https://code.claude.com/docs/en/code-mode to turn it on, or to turn it off for an organization Added engines[\"claude-code\"] to plugin.json : plugins outside their stated Claude Code…",
+      "section": "ai",
+      "rankScore": 0.783865
+    },
+    {
+      "id": "3949e1d246b5f18d",
+      "title": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-12T22:55:19.000Z",
+      "excerpt": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing.",
+      "section": "ai",
+      "rankScore": 0.766877
+    },
+    {
+      "id": "0aa9f8914bfaa341",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "openai",
+      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "section": "ai",
+      "rankScore": 0.737957
+    },
+    {
+      "id": "5f0ce77a7b18c012",
+      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "url": "https://latent.space/p/jev-revolution/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-12T05:08:20.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+      "section": "ai",
+      "rankScore": 0.376948
+    },
+    {
+      "id": "7bd8ff906484063d",
+      "title": "SLM 生成式高并发推理引擎：延迟约束下的有效吞吐优化",
+      "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-13T02:34:41.076Z",
+      "excerpt": "本文为SLM（Small Language Model， 小参数量语言模型0.5~1B）在搜推场景的大规模落地提供了一套高性能、可复用的工程实践。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "01dd3b1419fcbe3b",
+      "title": "写字楼会越来越不值钱，智力产出正转移到数据中心",
+      "url": "https://www.v2ex.com/t/1256669",
+      "source": "v2ex",
+      "publishedAt": "2026-11-13T00:46:03.000Z",
+      "score": 17,
+      "author": "SilenceLL",
+      "excerpt": "机房是新的写字楼，将是智力成果的主要生产场所，机房越多，写字的楼需求就越少。 今天看阮一峰的博客，看到了这个观点。不知道 AI 带来的社会剧烈变革，普通人该何去何从，我们公司计划年内再砍个 20%，已经连续多年每年-20%了。",
+      "section": "cn-tech",
+      "rankScore": 0.805341
+    },
+    {
+      "id": "f264c791fcced671",
+      "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
+      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-11-13T00:08:29.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。...",
+      "section": "cn-tech",
+      "rankScore": 0.675873
+    },
+    {
+      "id": "52f17343eada2674",
+      "title": "“太空AI第一股”，上市首日开盘破发",
+      "url": "https://www.36kr.com/p/4067544348152713",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-13T02:31:32.000Z",
+      "author": "36氪的朋友们",
+      "excerpt": "13日，国星宇航在港交所主板挂牌。该股开盘下跌1.85%，股价报24.44港元/股，跌破发行价。 招股书介绍，国星宇航是一家中国商业航天企业，战略重点为卫星及相关服务以及星基解决方案， 是一家AI卫星先锋企业。公司设计及研制商业卫星、确保稳定运营及管理，并提供定制化星基解决方案。 此次港股IPO，国星宇航发售价为每股24.90港元； 全球发售3012.1万股H股，约占发行后总股本的5.0%，发行后总股本约6.02亿股，募集资金净额约6.52亿港元，所得款项总额约7.50亿港元。",
+      "section": "cn-tech",
+      "rankScore": 0.629212
+    },
+    {
+      "id": "0b7c3ae505985436",
+      "title": "MetaForge 2026.0.0 正式发布：从数据库管理到可视化分析，700+ 项改进带来全面升级",
+      "url": "https://www.oschina.net/news/503552",
+      "source": "oschina",
+      "publishedAt": "2026-11-13T00:03:54.000Z",
+      "excerpt": "从 DataCap 到 MetaForge，我们迎来了一次真正意义上的全面升级。 2026 年 11 月，开源数据管理平台 MetaForge 2026.0.0 正式发布。 距离 2025.1.1 版本发布已经过去一年多。在此期间，我们围绕数据源管理、SQL 查询、数据集、数据同步、可视化分析、插件扩展和系统管理等核心能力，持续进行功能开发、架构重构和体验优化...",
+      "section": "cn-tech",
+      "rankScore": 0.592304
+    },
+    {
+      "id": "0e36fc337bb6d1ef",
+      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-12T17:50:27.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year.",
+      "section": "security",
+      "rankScore": 0.554379
+    },
+    {
+      "id": "c742b5074ac889a2",
+      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-12T15:38:49.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass.",
+      "section": "security",
+      "rankScore": 0.517814
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
