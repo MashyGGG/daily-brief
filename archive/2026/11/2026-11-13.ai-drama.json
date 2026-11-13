@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-13",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-13T17:10:57.549Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 4,
+  "items": [
+    {
+      "id": "4087bc23a8d3b571",
+      "title": "助力AI短剧“闯”海外 青岛AIGC内容出海中心启用",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wSmVOdGRkNXROSVoyXzJwcTVuZldXZXFXYklYVFdMbmxnYk5Td3JNbXowUkNUcTlJbWNjWUtieTVsUE5pYm0yQm14N2cwN1l5VmtOSy1Sdw?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-12T23:29:00.000Z",
+      "excerpt": "助力AI短剧“闯”海外 青岛AIGC内容出海中心启用 信网",
+      "section": "drama-news",
+      "rankScore": 0.552506,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "2e9989c4d561b870",
+      "title": "文投控股发布股价异动公告：AI漫剧收入占比约2.57%",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GLVRUem9Ta1JBY1pYWFBBMWk5MjZwUUNMLXBKQnFRSHJ0NU5LN2NtdHQwUE1aalNmV3ZwM2k4VmM3MVgtQXNYc2xuaXRWN3I0VTNtdmQ4dXRvN2JVMVV4eGxn?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-13T11:28:45.000Z",
+      "excerpt": "文投控股发布股价异动公告：AI漫剧收入占比约2.57% 观点网",
+      "section": "drama-news",
+      "rankScore": 0.42410615,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "591b93158fe95811",
+      "title": "【涨停直击】AI漫剧概念股，“20CM”涨停！股价创新高，今年以来涨幅近340%",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53OXhPZklZaHpiaTZjenA3aU43TWZjRk9CRlBjWmVjOWQxaVBxcVJ6bUhfdExWT3FmWmpVTTJUVjhpeGhucG1oa05ESXh3QVNDSGlfcFEzMVlOVTNtTHZlZGFTakdYdw?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-13T07:20:30.000Z",
+      "excerpt": "【涨停直击】AI漫剧概念股，“20CM”涨停！股价创新高，今年以来涨幅近340% 东方财富",
+      "section": "drama-news",
+      "rankScore": 0.4016948,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "ac85cace92c460ef",
+      "title": "v0.45.3",
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.3",
+      "source": "drama-comfyui",
+      "publishedAt": "2026-11-12T20:58:31.000Z",
+      "author": "comfyanonymous",
+      "excerpt": "ComfyUI v0.45.3",
+      "section": "drama-tools",
+      "rankScore": 0.7601958000000001,
+      "editorial": {
+        "kind": "release",
+        "evidence": "excerpt",
+        "reason": "来自已配置的官方技术来源。",
+        "action": "核对版本、使用条件和授权，再判断是否用于当前练习。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 国内外资讯与案例：本期 3/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 1/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "从短镜头拼成完整故事",
+      "url": "https://help.runwayml.com/hc/en-us/articles/26871350018835-How-to-create-longer-videos-and-films",
+      "task": "拆解一条喜欢的 30–60 秒作品，记录开头、变化、结尾和每镜时长。",
+      "doneWhen": "有一张至少 6 镜头的拆解表。"
+    }
+  }
+}
