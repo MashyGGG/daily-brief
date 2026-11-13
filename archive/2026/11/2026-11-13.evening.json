@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-13",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-13T19:36:51.595Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "39af029cf2b53cdc",
+      "title": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-13T19:36:51.595Z",
+      "score": 324,
+      "excerpt": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "d7dbac38aebaa197",
+      "title": "LibreOffice actually works 365 days a year",
+      "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "source": "hn-front",
+      "publishedAt": "2026-11-13T17:09:58.000Z",
+      "score": 549,
+      "author": "mksaunders2",
+      "excerpt": "549 points · 191 comments · https://news.ycombinator.com/item?id=50486482",
+      "section": "tech",
+      "rankScore": 1.092061
+    },
+    {
+      "id": "c07c0bc3ec1ea9ef",
+      "title": "Free Live Masterclass: Building AI Agents That Work in the Real World",
+      "url": "https://blog.bytebytego.com/p/free-live-masterclass-building-ai",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-13T17:04:49.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "An agent needs context to make decisions, tools to take action, guardrails to stay within bounds, and checks to verify the results.",
+      "section": "tech",
+      "rankScore": 0.690358
+    },
+    {
+      "id": "9fc72fe727a06607",
+      "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-13T18:27:13.000Z",
+      "author": "Allison",
+      "excerpt": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This…",
+      "section": "tech",
+      "rankScore": 0.666837
+    },
+    {
+      "id": "080f1b4df15c280e",
+      "title": "Pointer Provenance in Rust vs C++",
+      "url": "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-13T18:37:30.000Z",
+      "author": "sofiabelen.github.io via gignico",
+      "section": "tech",
+      "rankScore": 0.65494
+    },
+    {
+      "id": "6e2d51518aa0905b",
+      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+      "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+      "source": "cloudflare",
+      "publishedAt": "2026-11-13T19:26:07.000Z",
+      "excerpt": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures.",
+      "section": "tech",
+      "rankScore": 0.625396
+    },
+    {
+      "id": "2d39aeab410e537c",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "huggingface",
+      "publishedAt": "2026-11-13T18:00:39.000Z",
+      "section": "ai",
+      "rankScore": 0.735959
+    },
+    {
+      "id": "67e89567a6aa7138",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "huggingface",
+      "publishedAt": "2026-11-13T17:02:35.000Z",
+      "section": "ai",
+      "rankScore": 0.704852
+    },
+    {
+      "id": "2d320d312365dc62",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "huggingface",
+      "publishedAt": "2026-11-13T14:05:22.000Z",
+      "section": "ai",
+      "rankScore": 0.609914
+    },
+    {
+      "id": "5d3d429336d04418",
+      "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-13T09:04:13.000Z",
+      "author": "swyx .ai",
+      "excerpt": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
+      "section": "ai",
+      "rankScore": 0.438615
+    },
+    {
+      "id": "350cf962709c2902",
+      "title": "可能这就是自由开发者或者说 OPC 的困境，有活也轮不到你",
+      "url": "https://www.v2ex.com/t/1256957",
+      "source": "v2ex",
+      "publishedAt": "2026-11-13T15:00:58.000Z",
+      "score": 3,
+      "author": "mercibeaucoupfu",
+      "excerpt": "朋友介绍的场地预约项目，直接和项目负责人对接。原定本周签合同，然后就黄了。 项目 = 微信小程序 + 员工工作台 + 后台管理系统，完全客制化，你们觉得多少钱。 图一是朋友和项目负责人的对话 图二是群组的对话",
+      "section": "cn-tech",
+      "rankScore": 0.72176
+    },
+    {
+      "id": "8c7ab45c8081f1f2",
+      "title": "旅行者 1 号距离地球的距离达到一光日",
+      "url": "https://www.solidot.org/story?sid=85883",
+      "source": "solidot",
+      "publishedAt": "2026-11-13T17:14:47.000Z",
+      "excerpt": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离将达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是“一光日”。如果将一光年划分为 365 个刻度，每格代表一个光日，那么 1977 年 9 月 5 日启程的旅行者 1 号，经过近半个世纪的飞行，终于抵达了第一格。今年 10 月，旅行者 1 号曾经历一场短暂的通信中断。NASA JPL 称，18 日和 19 日，NASA 深空网络连续两次未能收到探测器预期发出的信号。直到 20 日，信号才重新出现，异常原因仍在调查中。对于一艘运行近半个世纪的探测器而言，设备老化始终是地面团队面临的挑战。",
+      "section": "cn-tech",
+      "rankScore": 0.695579
+    },
+    {
+      "id": "90f8021dd02e4eb2",
+      "title": "智能互动 Agent 在快手商业场景的落地实践",
+      "url": "https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-13T19:00:00.000Z",
+      "author": "邱慧",
+      "section": "cn-tech",
+      "rankScore": 0.682448
+    },
+    {
+      "id": "e9056b1edc4ec3ef",
+      "title": "“这是世代级错误”“不会再买英伟达股票”，黄仁勋走了，硅谷吵翻了，Twitter前CEO预测他3年后王者归来",
+      "url": "https://www.36kr.com/p/4068120653157256",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-13T12:20:17.000Z",
+      "author": "36氪的朋友们",
+      "excerpt": "北京时间2026年11月12日，这一晚注定会被写进科技史。 33年前，一个亚洲面孔在硅谷的车库里创办了一家芯片公司。33年后，他亲手将这家公司送上了全球市值之巅。然后，在一个普通的周四早晨，被自己的董事会扫地出门—— 英伟达创始人黄仁勋，正式辞去CEO职务。 消息传出的那一刻，科技圈、华尔街、华盛顿，几乎所有人都停下手头的事，开始争论同一个问题： 这到底是英伟达的自救，还是一场无法挽回的历史性错误？ 01 有人说，这是一个时代的终结 黄仁勋传记作者斯蒂芬·维特（Stephen Witt）在CNBC上说出了很多人心里的话： \"黄仁勋就是英伟达。就像公牛队没有乔丹。我不知道他们怎么替代这个人。\"",
+      "section": "cn-tech",
+      "rankScore": 0.442896
+    },
+    {
+      "id": "554a67582eff9345",
+      "title": "厦门ESOP订单多变更快工艺经验怎样不只装在工程师脑子里？",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpYTQ1QUUzZFFYa1dlazJHMGFlZ09LcmZvM2VjQ1JPT2RUdTJLT2llXy1QU3RPNlkxZGJhQmJYLXVGcXNlQUlNQTVLNG5qYmFoTllEWQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-13T14:53:48.000Z",
+      "excerpt": "厦门ESOP订单多变更快工艺经验怎样不只装在工程师脑子里？ 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.395647
+    },
+    {
+      "id": "71a7a7e9b09ef515",
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-13T16:53:08.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server.",
+      "section": "security",
+      "rankScore": 0.622035
+    },
+    {
+      "id": "d41c1b3fa67c2da5",
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-13T15:27:05.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs.",
+      "section": "security",
+      "rankScore": 0.581059
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
