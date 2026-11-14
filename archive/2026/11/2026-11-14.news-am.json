@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-14",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-14T02:39:53.304Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "b8ba86484f8ef798",
+      "title": "黄仁勋何竟只因婚外情被迫辞职英伟达执行长",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261114-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BD%95%E7%AB%9F%E5%8F%AA%E5%9B%A0%E5%A9%9A%E5%A4%96%E6%83%85%E8%A2%AB%E8%BF%AB%E8%BE%9E%E8%81%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%89%A7%E8%A1%8C%E9%95%BF",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-14T00:48:59.000Z",
+      "author": "珍妮特",
+      "excerpt": "近日全球媒体狂热追踪的世界AI大佬英伟达联合创始人黄仁勋婚外情事件于本周被揭露的第二起婚外情案件。英伟达董事会12日宣布，黄仁勋已辞去公司总裁、执行长及董事会成员等职务。政治界重要人士的婚外情屡见不鲜，英伟达的顶梁柱黄仁勋只是一介商人，其外遇事件何以全球掀起轩然大波，甚至并导致最终辞职。",
+      "section": "news",
+      "rankScore": 0.669193
+    },
+    {
+      "id": "3c72575da8b43964",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-14T00:03:56.000Z",
+      "excerpt": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "section": "news",
+      "rankScore": 0.591011
+    },
+    {
+      "id": "b8aa77c6c72e1868",
+      "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-14T02:20:58.000Z",
+      "author": "Robert Mackey (now); Shrai Popat, Lucy Campbell and Taz Ali (earlier)",
+      "excerpt": "Sean Duffy says ‘it’s going to take us some time to unwind what’s happened’ but also points finger at Congress, claiming lack of funding for systems upgrades Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history.",
+      "section": "news",
+      "rankScore": 0.555795
+    },
+    {
+      "id": "2ff8a5bb0c126168",
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-14T01:58:32.000Z",
+      "author": "Karoun Demirjian",
+      "excerpt": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
+      "section": "news",
+      "rankScore": 0.55081
+    },
+    {
+      "id": "0ec275d7ecf3de6a",
+      "title": "Former FAA official says ‘nobody really knows what is going on’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-14T01:28:46.000Z",
+      "excerpt": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
+      "section": "news",
+      "rankScore": 0.544195
+    },
+    {
+      "id": "840dc99a06e796a9",
+      "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-13T10:39:06.000Z",
+      "excerpt": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
+      "section": "news",
+      "rankScore": 0.519737
+    },
+    {
+      "id": "b18eb4726c910211",
+      "title": "US aviation regulator lifts order that grounded thousands of flights",
+      "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-14T02:37:04.000Z",
+      "excerpt": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
+      "section": "news",
+      "rankScore": 0.489451
+    },
+    {
+      "id": "371241e3008fc96c",
+      "title": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
+      "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-14T01:17:23.000Z",
+      "author": "Rebecca Chao, Ishani Desai, Neil Vigdor and Shannon Sims",
+      "excerpt": "Gov. Jeff Landry of Louisiana called it a “literal miracle on the Mississippi” that all of the nearly 200 people aboard the riverboat were rescued.",
+      "section": "news",
+      "rankScore": 0.473957
+    },
+    {
+      "id": "91a50c3194cf5650",
+      "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+      "source": "npr-news",
+      "publishedAt": "2026-11-13T22:36:46.000Z",
+      "author": "Deepa Shivaram",
+      "excerpt": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
+      "section": "news",
+      "rankScore": 0.442726
+    },
+    {
+      "id": "26f421b771c014de",
+      "title": "刚果（金）：武装袭击阻碍埃博拉疫情防控",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143195",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "excerpt": "联合国应急响应人员周五警告，刚果民主共和国（刚果（金））埃博拉疫情仍在蔓延，武装团体接连袭击平民和一线医护人员，严重阻碍接触者追踪、患者救治等防疫工作。",
+      "section": "news",
+      "rankScore": 0.410028
+    },
+    {
+      "id": "b95e4c8fa482b762",
+      "title": "SpaceX星舰超重型助推器捕获回收取消，海上溅落时起火燃烧",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iSDJEZWxXTEJtcEZEM3FzSW5ZNm0zcm1WZWlSWFMwZXowMUw0UGg4djZNcDJJcFR4UXFpVzlsRkJSd1k2SndWUHJSc2dMaW9pTmVj?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-14T00:58:01.000Z",
+      "excerpt": "SpaceX星舰超重型助推器捕获回收取消，海上溅落时起火燃烧 第一财经",
+      "section": "news",
+      "rankScore": 0.403021
+    },
+    {
+      "id": "93b51bcee6bd7613",
+      "title": "黄仁勋辞任英伟达CEO，公司首席财务官克雷斯临时接任",
+      "url": "https://cn.nytimes.com/technology/20261113/heres-the-latest/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-13T04:51:25.000Z",
+      "author": "TRIPP MICKLE,MAGGIE HABERMAN",
+      "excerpt": "随着丑闻发酵，黄仁勋在周四英伟达董事会会议结束后辞职。公司首席财务官将临时接任。黄仁勋的离任让英伟达的未来充满不确定性，也在全球经济中引发震动。 Manuel Orbegozo for The New York Times 在硅谷，很少有高管像英伟达联合创始人兼首席执行官黄仁勋那样，与自己所在的公司如此密不可分。",
+      "section": "news",
+      "rankScore": 0.370189
+    },
+    {
+      "id": "1cdb8af980789e39",
+      "title": "韩国政府连续三年单独举办佐渡金山劳工受害者悼念仪式",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731894.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-14T02:36:47.000Z",
+      "excerpt": "中新网首尔11月14日电 (金旭 林珺)当地时间13日，韩国政府在日本新潟县佐渡市举办佐渡金山劳工受害者悼念仪式。这是韩国连续第三年单独举行悼念仪式。",
+      "section": "cn-news",
+      "rankScore": 0.838965
+    },
+    {
+      "id": "2d1a54e879cf8f13",
+      "title": "海南省文物局局长：封关运作打通海南文博开放“四大通道”",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731889.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-14T01:51:06.000Z",
+      "excerpt": "中新网海口11月14日电 (记者 王子谦)海南省旅游和文化广电体育厅副厅长、省文物局局长苏启雅13日在海口表示，海南自贸港封关后，核心优势持续释放，为文博产业打通了展览引进、文物回流、人员往来、数字出海四大通道。",
+      "section": "cn-news",
+      "rankScore": 0.755092
+    },
+    {
+      "id": "fe8c04eeb3779f92",
+      "title": "美国称停飞事件非网络攻击或AI干预",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BdXh3bDdxM1lwMlJDanY1Z0JRLUNFYVNrUVdiTndqNHdNRnRNUVVhNUdaRjJLTEdkd0FnUnI5dFBDQkJnMHJ2ZmprMXlPRm5IV1dLQ2FHdlM?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-14T02:09:07.000Z",
+      "excerpt": "美国称停飞事件非网络攻击或AI干预 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.622307
+    },
+    {
+      "id": "4972510ff35fdb10",
+      "title": "聚焦APEC｜APEC深圳会议各项筹备工作已经就绪",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731906.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-14T02:06:45.000Z",
+      "excerpt": "新华社深圳11月14日电(记者王丰、杨深深)广东省委常委、APEC会议广东省筹备工作领导小组副组长王曦14日在2026年APEC领导人会议周新闻中心首场吹风会上表示，目前，各项筹备工作已经就绪，我们满怀热忱，静候八方宾客到来。(完)",
+      "section": "cn-news",
+      "rankScore": 0.621715
+    },
+    {
+      "id": "7aa5db908b8cb821",
+      "title": "探展｜上海图书馆古籍版画家底有多厚？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUdWtvelo0Zk1jLUQzNzlHM1Zud1dReVBSY3dOeFBQcDQ5TDhwUXE5V3ZYU1VjaXlHMXhocDZnRXYzVXpjZWlFOEhHeE1HVFFEOUdzSk1nV2c2SkR4eEU5QQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-13T23:26:00.000Z",
+      "excerpt": "探展｜上海图书馆古籍版画家底有多厚？",
+      "section": "cn-news",
+      "rankScore": 0.581528
+    },
+    {
+      "id": "49d5a640b652bffe",
+      "title": "持之以恒推进全面从严治党 为做强做优做大国有企业和国有资本提供坚强保障",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ta293UjQtRklVVDh1ZW40MEpkS09wVW5Hak4wUXB5QllGeWdVYTF6VUhxSGVuOGI1aWh0ZDVmUVIyMkdxek9tRzdZb1Q0enBxaGV0Q2VNLWZoNnhTbEZzUTR6ZDE2UQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-14T01:43:45.000Z",
+      "excerpt": "持之以恒推进全面从严治党 为做强做优做大国有企业和国有资本提供坚强保障 江苏宣传网 习近平对国有企业党的建设工作作出重要指示 北京市人民政府门户网站 蔡奇出席国有企业党的建设工作座谈会并讲话 新华网 强根铸魂事业兴 人民日报 国资国企以高质量党建促进高质量发展 光明网",
+      "section": "cn-news",
+      "rankScore": 0.547525
+    },
+    {
+      "id": "71645dce6918c9c0",
+      "title": "China holds 80% of world’s underwater data centre patents as computing energy demands grow",
+      "url": "https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands-grow",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-14T01:00:07.000Z",
+      "author": "Holly Chik",
+      "excerpt": "China owns 80 per cent of the world’s underwater data centre patents, giving it a decisive lead in critical technologies, according to a two-decade study of global patents in the field.",
+      "section": "cn-news",
+      "rankScore": 0.4706
+    },
+    {
+      "id": "8fda414297694f8c",
+      "title": "今年“双11”消费新趋势：从“囤货”到“囤服务”",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OM2lGTmV1R1ZaU0M0cFdVQW9KVkZGSUFJZVZTUWJ5cWt3Zjk2TlIxVnowQVlCUjdQZ1phdnBnZ2YtbmtIMU81eGVVTHhNX0JfbkFjR0EtYzVTenMzMWNoSGo5VG41Zw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-14T00:38:22.000Z",
+      "excerpt": "今年“双11”消费新趋势：从“囤货”到“囤服务” 光明网 “双十一”刚掏空的钱包 “双十二”还敲得开吗？ 凤凰网 财经聚焦｜从“双11”购物车看消费新意 新浪财经_金融信息服务商 卖token、团餐饮……双11增速降至历史第二低 Sohu 双11收官观察：商家重仓天猫，夺回经营主动权 投资界",
+      "section": "cn-news",
+      "rankScore": 0.466371
+    },
+    {
+      "id": "043afc01429280fc",
+      "title": "大江滔滔载风云 “首义之城”映民心丨寻迹中山路 奋进新征程",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82dE91WDNVYlZtWnVvRzh0NXBncjU2ZnRKU2dCNVh6OFJXZFpDdjUyRjlodWhRYWg0YnBsakFfVmxtVklpWUxtOF9LbDBzZ3dGb1V5UFNlRGR3ZDJGYlFvRFBLMlNDd09ITy05SXNHVQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-14T02:06:44.000Z",
+      "excerpt": "大江滔滔载风云 “首义之城”映民心丨寻迹中山路 奋进新征程 中山网 一见·缅怀孙中山先生，感悟“振兴中华”的必由之路 新浪新闻_手机新浪网 矢志团结奋斗 再创新的辉煌 人民日报 广东省各界隆重集会纪念孙中山先生诞辰160周年 ThePaper.cn 习近平称中共是孙中山的继承者；台湾：正视孙中山创建的中华民国存在客观事实 美国之音",
+      "section": "cn-news",
+      "rankScore": 0.414474
+    },
+    {
+      "id": "e83def4fa4af6878",
+      "title": "七旬漢誤中投資騙案 痛失近1800萬元",
+      "url": "https://hk.news.yahoo.com/%E4%B8%83%E6%97%AC%E6%BC%A2%E8%AA%A4%E4%B8%AD%E6%8A%95%E8%B3%87%E9%A8%99%E6%A1%88-%E7%97%9B%E5%A4%B1%E8%BF%911800%E8%90%AC%E5%85%83-000228625.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-11-13T16:02:28.000Z",
+      "excerpt": "執法部門在其社交平台公布一宗騙案，今年6月，一名七旬受害男子在YouTube見到投資廣告，感到有興趣並留低聯絡資料，自稱「投資顧問」的騙徒其後主動聯絡，並拉事主入由「投資助理」管理的WhatsApp群組。受到群組內討論虛擬貨幣投資獲利的消息吸引，受害人在「投資助理」指示下開設帳戶，由銀行戶口入錢買虛擬貨幣，開始跟「貼士」投資。",
+      "section": "cn-news",
+      "rankScore": 0.366057
+    },
+    {
+      "id": "59e3151dfa5f6378",
+      "title": "广西6位应急先进模范代表分享一线履职故事",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731888.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-14T01:51:20.000Z",
+      "excerpt": "中新网南宁11月14日电(鄢雨彤)11月13日，广西举办全国应急管理系统先进模范代表记者见面会，6位先进模范代表现场分享在广西开展防灾减灾、抢险救援的一线经历。11月5日召开的全国应急管理系统先进模范和中国消防忠诚卫士表彰大会上，广西共有4名英雄模范、4个先进集体、10名先进个人获表彰。",
+      "section": "cn-life",
+      "rankScore": 0.823815
+    },
+    {
+      "id": "2194cbb82af978c9",
+      "title": "把“民生清单”变成“幸福账单”，杨浦五年民生答卷暖人心 | 喜迎党代会 杨浦答卷 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTG0tNEgzSGU0R0loNXdteG92eHFZUjlna1BGbHdXaGdpaWtObWt3Y09hbXpsbFdsUjZzQjkxZmgxX1phekhNRE9pUllnWVgwTmxtQVFiYVZvT1pFcXNZU3FKcjFIeTRiREp5RVAxUV9hNDZnbXdTYTN3S3BEbGU2bjE1cHplUGVKYzVfWg?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-14T02:32:42.000Z",
+      "excerpt": "把“民生清单”变成“幸福账单”，杨浦五年民生答卷暖人心 | 喜迎党代会 杨浦答卷 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.628203
+    },
+    {
+      "id": "ed686742f9068dd4",
+      "title": "【重要公告】轿子山景区限流预警及安全出游提醒 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY1pOcHJ4QUlHcDA1Q3d6QlNNTzdLZmZyTDAyS1NBVEVzamhtRTUyckZPT1JKdzZZaHVlbzZVdG9keFFsalpvdmNpNzB2X3FwOWRpc1lWb0FJanhUX1E4V213VTAwZTFpZllINHF6NjhKWGNodnU2NGE4R0ctd2hjMzRkbVhNSW1vQTJneA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-14T02:24:59.000Z",
+      "excerpt": "【重要公告】轿子山景区限流预警及安全出游提醒 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.626274
+    },
+    {
+      "id": "ebce9f4712c0fe13",
+      "title": "中国经济看“新”丨新赛道催生新岗位，就业潜力加快释放",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xaDUtaGFEcU9MT2Iwd2s1M0JHT2JvME5lZFFtdjdnMklaMmJyX2FVVUR1RDNnX1J3UHVNS25wbGkwemJBOUp6VFE2dkpWYmYtY3R6VVp4SlRQM3l1Y3hOU0ItanVKQ1pfVlhxbTBBNThxOFF0?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-14T00:59:21.000Z",
+      "excerpt": "中国经济看“新”丨新赛道催生新岗位，就业潜力加快释放 晋城市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.537658
+    },
+    {
+      "id": "ddfe11456b08da3b",
+      "title": "公安部、最高检、最高法对“甲醛白菜”案、“假洋保健品”案、“硫磺竹笋”案等18起涉食品安全重大犯罪案件挂牌督办",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95ZFVuVHd6Y0tXTU1GNDhXbngtLXFTdEg3aVJXYXQtd0hiZjlqSGQtYkQ1SjhyZEkwZDZaaXhsQUprVHBpUWZ0V2NnZDJGUGk0QXdvSmVNR1VJY3ZTVGc?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-14T02:32:02.000Z",
+      "excerpt": "公安部、最高检、最高法对“甲醛白菜”案、“假洋保健品”案、“硫磺竹笋”案等18起涉食品安全重大犯罪案件挂牌督办 京报网",
+      "section": "cn-life",
+      "rankScore": 0.488473
+    },
+    {
+      "id": "7503f9784cb6d397",
+      "title": "病毒样颗粒实现猪与禽类体外、外植体及卵内模型的高效基因编辑",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IU1FwREVESzFfOUJ6bjdVVjN4ZTByUVJtT01lREMyd1lJMEh2Yk51SnNPTEdndnFXbEZKX2diMXNVU0dBTmVwRndGdG5MdENCSW9taHlXc3RCVEZuSC1faUo1UU5JWFRUX1p4ZVJR?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-14T02:16:09.000Z",
+      "excerpt": "病毒样颗粒实现猪与禽类体外、外植体及卵内模型的高效基因编辑 生物通",
+      "section": "cn-life",
+      "rankScore": 0.485384
+    },
+    {
+      "id": "148c702bfc0f04a4",
+      "title": "河南商丘：AI赋能美育 校园创作焕新",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwbFNTOHZYTnM5T1gzYkpQR0t6TEV0Z1ZlbUlHRVJvOWFZSFdySklRUkZDNml4TVp5NnNiNnJrcVpzQ3hzbTd5TktUaWFQN0RRaV85VS04c1l5NTZsVUkzNU1MSTBfU3lkUDg2clR6bTI5Qmo2?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-14T01:34:16.000Z",
+      "excerpt": "河南商丘：AI赋能美育 校园创作焕新 中国教育新闻网",
+      "section": "cn-life",
+      "rankScore": 0.409063
+    },
+    {
+      "id": "0b75020cc05a4b49",
+      "title": "孩子身高正在被糖“压缩”？警惕生活中的隐形高糖食物",
+      "url": "https://www.chinanews.com.cn/life/2026/11-13/10731465.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-13T06:35:43.000Z",
+      "excerpt": "近日",
+      "section": "cn-life",
+      "rankScore": 0.365508
+    }
+  ],
+  "warnings": []
+}
