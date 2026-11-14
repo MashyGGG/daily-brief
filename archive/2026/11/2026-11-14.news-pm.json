@@ -1,0 +1,321 @@
+{
+  "date": "2026-11-14",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-14T17:01:09.735Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "7d0c6a9e2c27a9f2",
+      "title": "英伟达人士被指在华盛顿行事蛮横树敌颇多 黄仁勋下台后公司面临诉讼风险",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261114-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8C%87%E5%9C%A8%E5%8D%8E%E7%9B%9B%E9%A1%BF%E8%A1%8C%E4%BA%8B%E8%9B%AE%E6%A8%AA%E6%A0%91%E6%95%8C%E9%A2%87%E5%A4%9A-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%8B%E5%8F%B0%E5%90%8E%E5%85%AC%E5%8F%B8%E9%9D%A2%E4%B8%B4%E8%AF%89%E8%AE%BC%E9%A3%8E%E9%99%A9",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-14T16:08:18.000Z",
+      "author": "弗林",
+      "excerpt": "据旗语新闻社报导，今年1月，当时全球市值最高公司英伟达的法律总顾问向十几位政府官员传达了一项直截了当的指令，内容涉及芯片出口管制，即特朗普总统及其好友黄仁勋想要什么，就得按什么来办。",
+      "section": "news",
+      "rankScore": 0.672891
+    },
+    {
+      "id": "f91804899dfbe134",
+      "title": "在对欧尔班政府前部长调查中查获约合两千万美元现金 现总理称“黑手党的终结”",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261114-%E5%9C%A8%E5%AF%B9%E6%AC%A7%E5%B0%94%E7%8F%AD%E6%94%BF%E5%BA%9C%E5%89%8D%E9%83%A8%E9%95%BF%E8%B0%83%E6%9F%A5%E4%B8%AD%E6%9F%A5%E8%8E%B7%E7%BA%A6%E5%90%88%E4%B8%A4%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%E7%8E%B0%E9%87%91-%E7%8E%B0%E6%80%BB%E7%90%86%E7%A7%B0-%E9%BB%91%E5%B8%AE%E7%9A%84%E7%BB%88%E7%BB%93",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-14T14:25:55.000Z",
+      "author": "弗林",
+      "excerpt": "在针对前总理欧尔班（Viktor Orbán）执政时期的一位部长——塞斯塔克（Miklos Sesztak）——所展开的贿赂调查中，匈牙利当局查获了约合2000万美元的现金；其中部分现金被埋在森林里，另一些则藏在农场建筑和仓库中。",
+      "section": "news",
+      "rankScore": 0.620387
+    },
+    {
+      "id": "e2e74c1ca25cf5fe",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-14T16:29:48.000Z",
+      "excerpt": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+      "section": "news",
+      "rankScore": 0.615525
+    },
+    {
+      "id": "5a257667cc6dbac3",
+      "title": "特朗普重返白宫后首次Quad峰会预计周二举行 澳菲将签署防务合作协议",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261114-%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB%E5%90%8E%E9%A6%96%E6%AC%A1quad%E5%B3%B0%E4%BC%9A%E9%A2%84%E8%AE%A1%E5%91%A8%E4%BA%8C%E4%B8%BE%E8%A1%8C-%E6%BE%B3%E8%8F%B2%E5%B0%86%E7%AD%BE%E7%BD%B2%E9%98%B2%E5%8A%A1%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-14T13:43:30.000Z",
+      "author": "弗林",
+      "excerpt": "据路透社援引两位知情人士报导，美国、日本、澳大利亚和印度的领导人预计将于周二在马尼拉出席东盟峰会及系列会议期间举行会晤。这将是四方安全对话（Quad）机制成员国两年来首次举行峰会。",
+      "section": "news",
+      "rankScore": 0.598635
+    },
+    {
+      "id": "145890f4f0d38b83",
+      "title": "Portugal vs Denmark LIVE: UEFA Nations League",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-14T16:45:00.000Z",
+      "excerpt": "Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.",
+      "section": "news",
+      "rankScore": 0.553369
+    },
+    {
+      "id": "42946615e0fd5823",
+      "title": "Cold weather health alerts issued for parts of UK on Sunday night",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-14T16:42:04.000Z",
+      "author": "Daniel Lavelle",
+      "excerpt": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until Thursday More cold health alerts have been issued for parts of the UK on Sunday night and next week.",
+      "section": "news",
+      "rankScore": 0.552166
+    },
+    {
+      "id": "4d3e541ca47bab57",
+      "title": "Why Aid Isn’t Reaching Ebola’s Epicenter",
+      "url": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-14T15:43:16.000Z",
+      "author": "Declan Walsh, Daniel Berehulak, Leila Medina, Rebecca Suner and Joey Sendaydiego",
+      "excerpt": "The Ebola outbreak in the eastern Democratic Republic of the Congo has a new epicenter, one largely isolated from aid by an armed group that has killed and kidnapped aid workers.",
+      "section": "news",
+      "rankScore": 0.528043
+    },
+    {
+      "id": "46363196b675e4ce",
+      "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+      "source": "npr-news",
+      "publishedAt": "2026-11-14T16:53:04.000Z",
+      "author": "Ava Berger",
+      "excerpt": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location.",
+      "section": "news",
+      "rankScore": 0.487094
+    },
+    {
+      "id": "1c7103dc3d6eee48",
+      "title": "Brooklyn Building Collapse Tragedy Devastates Immigrant Families",
+      "url": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-14T14:48:52.000Z",
+      "author": "Luis Ferré-Sadurní and Ana Ley",
+      "excerpt": "Theirs was a story as old as New York. On a street in Brooklyn, immigrants had arrived to work and live, until their lives intersected in tragedy.",
+      "section": "news",
+      "rankScore": 0.442509
+    },
+    {
+      "id": "df4ebf4e5481695c",
+      "title": "台灣村里長：最基層的民選公職，如何牽動選舉動員與兩岸關係？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6kg7mdzj12no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-14T06:14:21.000Z",
+      "excerpt": "村里長是台灣最基層的民選公職，因為掌握地方人脈，在社區服務與選舉動員中扮演重要角色。近年部分里長赴中國交流，引發北京透過基層網絡影響台灣政治的疑慮。BBC中文走訪台灣多個縣市，訪問三位不同世代、不同政治背景的里長，探討地方政治、兩岸交流與統戰之間的界線。",
+      "section": "news",
+      "rankScore": 0.441962
+    },
+    {
+      "id": "25d6d94a8702543a",
+      "title": "美国建议乌克兰放弃顿巴斯以换取加入北约",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rUm9sTDZaR1Z3MWhjQ3hqeGR4M0FTUDZ1Skp0WU1lWTU4dWpiOTJxcGN1bEtKV1E5cllUU3BIc0xGYVlpdThDM2dPSmZFSHRhOFpyWk5ibXNFQlBnOUljRA?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-14T16:30:12.000Z",
+      "excerpt": "美国建议乌克兰放弃顿巴斯以换取加入北约 东方财富",
+      "section": "news",
+      "rankScore": 0.410473
+    },
+    {
+      "id": "5c538a070f5d25e0",
+      "title": "How Trump’s midterm gerrymandering flopped",
+      "url": "https://www.ft.com/content/d99f635f-6223-45fc-8429-2ac36b28d080?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-14T12:00:08.000Z",
+      "excerpt": "Republicans’ unprecedented redistricting drive failed to overcome the tidal wave of Democratic votes",
+      "section": "news",
+      "rankScore": 0.381938
+    },
+    {
+      "id": "0e052138d1fcbd1f",
+      "title": "从承诺到行动：COP31上的中国答卷",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-14T13:44:41.000Z",
+      "excerpt": "中新网安塔利亚11月14日电(记者 魏园 陈溯)当地时间11月13日，联合国秘书长安东尼奥·古特雷斯在COP31新闻发布会上接受中国新闻社记者提问时，特别肯定中国在可再生能源领域付出的巨大努力及取得的进展，并呼吁各国落实气候承诺。",
+      "section": "cn-news",
+      "rankScore": 0.659166
+    },
+    {
+      "id": "30b82716ee415210",
+      "title": "中新健康｜男子视力一周内掉到几乎看不见，医生紧急提醒",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732115.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-14T11:07:26.000Z",
+      "excerpt": "中新网北京11月14日电(罗春昊)男子视力一周内掉到只能“数指”，到底是什么病？",
+      "section": "cn-news",
+      "rankScore": 0.622321
+    },
+    {
+      "id": "9c082e35fc04e436",
+      "title": "跨越山海照亮万家！一度电，如何点亮亚太合作之光？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-14T14:38:36.000Z",
+      "excerpt": "11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议将在深圳举行。APEC“中国年”这一年，从人工智能、产业发展到绿色转型，人们关注的不同议题都连着同一个关键词——能源。",
+      "section": "cn-news",
+      "rankScore": 0.564202
+    },
+    {
+      "id": "d3eac795252448a5",
+      "title": "太谷净信寺：每周二六开放，每日上限200人丨山西晋中",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51T045aEtFX1F3blpGeVhrOFJHcEVuR1hZVThaNXAyQ1FyR0dqQzZlWXQwU3BWQ01vNFN1VTM3SWo5dHB5bkpMZGxWWndVR0diSmZBSHA0Q3lvRExMcWs2Tw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-14T14:30:07.000Z",
+      "excerpt": "太谷净信寺：每周二六开放，每日上限200人丨山西晋中",
+      "section": "cn-news",
+      "rankScore": 0.560287
+    },
+    {
+      "id": "f8ab103002d0b8f0",
+      "title": "蓄创新之势，提发展之质——2026新华网思客年会在大同举行",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnA5UjhBVFdZOXpCOUo1MkNjYktaSE5sSW1PajZETTNiSmFmTEFEdWVoSXBtaUlsdGVBWEJuUmRfY2dYbkVoeUMxV1NreXl2NWNELWpGOUg1Tnp5bUFOZThzTHdTd0VYTEc2TjdtSUxvXzFTSUR0S2FXOVRxelNxS1dhYkFUMTVBRFZzcXNremhRUXZwaWViMVZR?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-14T15:30:52.000Z",
+      "excerpt": "蓄创新之势，提发展之质——2026新华网思客年会在大同举行 新华网客户端 新华网思客年会“中国经济的下一程”在大同举行 Sohu 云中万象新——山西大同转型发展见闻 山西晚报 2026新华网思客讲堂大同开讲 聚焦能源安全与绿色转型 新华网山西 向新而行 以质致远 共议中国经济下一程——2026新华网思客年会在山西大同举办 新华网山西",
+      "section": "cn-news",
+      "rankScore": 0.522956
+    },
+    {
+      "id": "95939b5a10e1d944",
+      "title": "秦海翔当选福州市委书记，吴贤德、兰文当选福州市委副书记",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51bVQ3RzdQWVBITkU4YW05azNxU0N2RWVxc1JMcHFJb0IxX3VzbVd4ZXhyT3RYQURyQzltVllGdURYTXRFeXM3N09sWlBNWmRWTjd4eFZfU2w?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-14T12:10:02.000Z",
+      "excerpt": "秦海翔当选福州市委书记，吴贤德、兰文当选福州市委副书记 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.495633
+    },
+    {
+      "id": "50fe25cc3095fc3e",
+      "title": "002129，重大资产重组！下周3股解禁比例超50%（附股）",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LSTdiRTh0aXlwcWR5VW02TnpHYVBMN1J6Mk9pWG1XRklqV3lVZWwwbnNMbXhVZXlhQWJ5S2hlbTVCb3JSTGM2Z21UTndWV0xDOGtRaE5oNEdoNmlMdlE?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-14T15:33:45.000Z",
+      "excerpt": "002129，重大资产重组！下周3股解禁比例超50%（附股） 同花顺",
+      "section": "cn-news",
+      "rankScore": 0.458621
+    },
+    {
+      "id": "410867634e07bf96",
+      "title": "中國證監會：進一步深化市場穩定長效機制研究 防範市場異常波動",
+      "url": "https://www.cna.com.tw/news/acn/202611140208.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-14T12:39:59.000Z",
+      "excerpt": "（中央社台北14日電）中國證監會今天表示，中國資本市場與全球資本市場高度聯動，中國將進一步深化市場穩定長效機制研究、防範市場異常波動，深入研究評估量化交易、股份減持方面的監管安排。",
+      "section": "cn-news",
+      "rankScore": 0.45285
+    },
+    {
+      "id": "1538c3f4924261c6",
+      "title": "Zero capital, 116 projects: AI spots the devils in the details of China corruption case",
+      "url": "https://www.scmp.com/news/china/politics/article/3374314/zero-capital-116-projects-ai-spots-devils-details-china-corruption-case",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-14T14:00:05.000Z",
+      "author": "Phoebe Zhang",
+      "excerpt": "Disciplinary staff in Wuhan, provincial capital of Hubei in central China, were going about their routine workday when a red alert landed. It was from a large data model – flagging a possible case of corruption. “A company took on more than 10 projects this year.",
+      "section": "cn-news",
+      "rankScore": 0.424997
+    },
+    {
+      "id": "0c6cbc9165d2569f",
+      "title": "赛季开门红！宁忠岩破场地纪录夺金仍有小遗憾",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTBiMXAwQWhtWW1ocGFTR0pXNmV0ZG1sS2pJMmJMZ0VRTV91c1NudTczbl9haEpxQXFCcmg0UVZjVXJaOHZzVmJIRVVDcFpNLUxQSzRabHhnWjFtVndnaDRXaENSY1o0VTc4b1MtSGZTb0VoWGlyS2J0N21GTjFOR0lB?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-14T14:21:59.000Z",
+      "excerpt": "赛季开门红！宁忠岩破场地纪录夺金仍有小遗憾 新华网 速滑新一期国家队亮相“冰丝带” 宁忠岩未换教练 新华网 速度滑冰世界杯北京站第二日 中国队收获2金2铜 新浪财经 冬奥冠军宁忠岩新赛季首战夺冠 中国日报网 宁忠岩：怕输的人才会紧张，想赢的人只会兴奋 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.371022
+    },
+    {
+      "id": "65f9a1f69988f530",
+      "title": "荷兰学者奥雷·伯曼：万里归来，“东游”未止",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732168.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-14T13:06:29.000Z",
+      "excerpt": "中新网上海11月14日电 题：荷兰学者奥雷·伯曼：万里归来，“东游”未止",
+      "section": "cn-life",
+      "rankScore": 0.695582
+    },
+    {
+      "id": "825fd7d3291a40cb",
+      "title": "稳市机制从应急托底走向制度安排：政策定性的变化为何比单次操作规模更重要",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkN2oxdEp0X2U5Q2MyOTRYUzF6bHB5WU9xeW9aazQ2cGllZW9aOG5rOGJuWnc1YURxTDNLTjRPSWUtd25XNmVLdVdYZ3hhaWdsTW1zOUlOZmdFeDNhUVI3eg?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-14T16:50:15.000Z",
+      "excerpt": "稳市机制从应急托底走向制度安排：政策定性的变化为何比单次操作规模更重要 同花顺财经",
+      "section": "cn-life",
+      "rankScore": 0.624964
+    },
+    {
+      "id": "9c55bd8480b3939b",
+      "title": "锦旗里的民生温度！都匀市基层社区用心用情解决群众“急难愁盼” - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUXhqRmpvVTAyZkJtaVFXU1pzekRzWmFWQWJqLXpDcWJPdTAwTExiVEFHd2paLXhNbndQZW5kYmFCVUx3djBabnRKbDdBMkV5RVBTUTlFYmZrRWktT19ZU1pSUlFPRW9JNUdBNkVSM3RUVTZJbDR4cVdIbHNNaFp6VzRsZkdCNko3RkkxVA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-14T16:03:12.000Z",
+      "excerpt": "锦旗里的民生温度！都匀市基层社区用心用情解决群众“急难愁盼” Sohu",
+      "section": "cn-life",
+      "rankScore": 0.603248
+    },
+    {
+      "id": "1b5da5989400c87a",
+      "title": "【开放发展跃升计划·通道扩能赋能行动】智能化改造+精细化服务，助推绥芬河公路口岸货运量、车流量双创新高",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81S1Y5UEktMHVhdUJhWWFwZHlQeTdscnJOazF3WXBiNXVJUk1TVHlPeHVCUEVHdG9QTnJYekF3aXYwcDFvdUpRQ1VnejlmbmVCUXVERGFLQU9KQ0pSY2dfNEtfaHhQVzZPY3FYNw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-14T15:15:00.000Z",
+      "excerpt": "【开放发展跃升计划·通道扩能赋能行动】智能化改造+精细化服务，助推绥芬河公路口岸货运量、车流量双创新高 绥芬河市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.516446
+    },
+    {
+      "id": "ae45be1aacc7f609",
+      "title": "绝经后抑郁的Neuroimmune-Aging机制：雌激素缺乏、Inflammaging与脑衰老的交互作用",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tYVlwOE93aW1zcjBUa2dKS2YyZ2FBUWtnREtWYld0VHZvYnRUSEVpTEpzR0p2OUpFbk50YXlnTHFnLUNEM0VVc0syeWREUU9nTzJWVHlIOFF4STZjQm1UbVVWazFIT01xZ3h2LUV3?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-14T16:45:17.000Z",
+      "excerpt": "绝经后抑郁的Neuroimmune-Aging机制：雌激素缺乏、Inflammaging与脑衰老的交互作用 生物通",
+      "section": "cn-life",
+      "rankScore": 0.4843
+    },
+    {
+      "id": "c6750c8397b5c88b",
+      "title": "【河曲新闻】尚德守法 共享食安 河曲县开展2026年食品安全宣传周活动",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3FUT3hvTlpXVmR5X0lCVnpHUWZKa2FJa0Q0QXVJc21QZ0xlOEJwNWNZcVJIcXNzN05TTHZac0M4LXJUcFFSZlA2Ynd5ZzVfYXBnLXRlTE9nRXlvWDJSeDF0LXRaeEwxZ1hSd2JhUGpxMjBwTURtV1JmdmZaR0ZiZl82LTIwM2d2dU5VUGVmQnZNNnF4T1pXaA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-14T14:54:05.000Z",
+      "excerpt": "【河曲新闻】尚德守法 共享食安 河曲县开展2026年食品安全宣传周活动 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.444382
+    },
+    {
+      "id": "080e0a04eb63e8ae",
+      "title": "教育的根在“育”、重在“行”、贵在“慢” - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVRXcXdjQ1JNYkVLa1ktS3RBa2ctTEZUQkpjdFFqMTE3SFlpc01NM3V4VFJNeFdsU2JvYmNfWXhkZjJrZTgxZkJxSjlRN2ZNb3JORmttZTFPSHVJOWVnRU1FTGxhWDBsdkxnN1NxTXBwUXdaT0RIOVo0Nm9UVjQyaTU5b2FNM3pTUFJDbg?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-14T16:21:17.000Z",
+      "excerpt": "教育的根在“育”、重在“行”、贵在“慢” Sohu",
+      "section": "cn-life",
+      "rankScore": 0.40773
+    },
+    {
+      "id": "8bc159f56526ac52",
+      "title": "美貌有多廉价？美女揭秘上流社会不堪真相",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QaDJEVUp4MG9BcERFOGVwQ0hycFZQOGF0WmNzLXBjcWRvWGRDS1p6VTlheVdEa0ZZNUFYOVpCNmtUQnVrNDBVc2M5Slk0VFV4cDRXd1hUT2NhWDhza2lLSWUySlJqQQ?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-14T16:01:52.000Z",
+      "excerpt": "美貌有多廉价？美女揭秘上流社会不堪真相 万维读者网",
+      "section": "cn-life",
+      "rankScore": 0.334796
+    }
+  ],
+  "warnings": []
+}
