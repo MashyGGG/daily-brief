@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-14",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-14T02:18:16.153Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "1b43c7425c684998",
+      "title": "FAA issues national ground stop",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "source": "hn-front",
+      "publishedAt": "2026-11-13T21:05:53.000Z",
+      "score": 1338,
+      "author": "zulln",
+      "excerpt": "1338 points · 824 comments · https://news.ycombinator.com/item?id=50489641",
+      "section": "tech",
+      "rankScore": 1.083014
+    },
+    {
+      "id": "c92b6c2e611e2af5",
+      "title": "Likely7/Veyra-NRVideo",
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-14T02:18:16.153Z",
+      "score": 256,
+      "excerpt": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources.",
+      "section": "tech",
+      "rankScore": 0.96
+    },
+    {
+      "id": "576403f1a93db1af",
+      "title": "Someone's impersonating this blog",
+      "url": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-13T20:39:53.000Z",
+      "author": "mattbee.mataroa.blog via classichasclass",
+      "section": "tech",
+      "rankScore": 0.590854
+    },
+    {
+      "id": "2417d47e71c7c080",
+      "title": "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures",
+      "url": "https://www.infoq.com/news/2026/11/google-ambient-agent-prod/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-13T13:53:00.000Z",
+      "author": "Leela Kumili",
+      "excerpt": "Google has open-sourced AQuA, a reference implementation that analyzes production AI agent sessions, verifies recurring failure patterns, and investigates root causes against deployed source snapshots.",
+      "section": "tech",
+      "rankScore": 0.529954
+    },
+    {
+      "id": "a339699a7aa6a7a8",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-14T00:49:13.000Z",
+      "author": "Eric Berger",
+      "excerpt": "One way or another, the company will get some more data on Saturday.",
+      "section": "tech",
+      "rankScore": 0.472684
+    },
+    {
+      "id": "266a66e5762c30a3",
+      "title": "Manage AI Scan for repositories using the REST API",
+      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-13T12:22:41.000Z",
+      "author": "Allison",
+      "excerpt": "You can now turn GitHub code scanning’s AI Scan for repositories on or off with the REST API at the organization and repository levels. This public preview adds a repository_scan…",
+      "section": "tech",
+      "rankScore": 0.467893
+    },
+    {
+      "id": "5e5810fb3477a6aa",
+      "title": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-13T23:02:45.000Z",
+      "excerpt": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header.",
+      "section": "ai",
+      "rankScore": 0.774827
+    },
+    {
+      "id": "bdb92b385d1eb928",
+      "title": "v2.1.325",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
+      "source": "anthropic",
+      "publishedAt": "2026-11-13T20:40:01.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Fixed a security issue in how zstd-compressed responses are decoded Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter notebook Added a line under the error shown when your organization's…",
+      "section": "ai",
+      "rankScore": 0.757551
+    },
+    {
+      "id": "52793df52a3cdc07",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "openai",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "excerpt": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "section": "ai",
+      "rankScore": 0.493657
+    },
+    {
+      "id": "78a3ce205af6ec09",
+      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+      "url": "https://latent.space/p/artcraft/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-13T04:17:25.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
+      "section": "ai",
+      "rankScore": 0.366406
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-14T02:18:16.153Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "566b35956a631546",
+      "title": "‘AI 取代人类’的另一种解读",
+      "url": "https://www.v2ex.com/t/1256975",
+      "source": "v2ex",
+      "publishedAt": "2026-11-13T17:08:54.000Z",
+      "score": 4,
+      "author": "MajestySolor",
+      "excerpt": "最近在玩 dsh ，因为是个比较新的东西，所以它生态圈里的项目全都是新出来的 玩了两个礼拜，发现了一个可怕的事情，这些新项目的 readme/doc/commit/pr 基本都是 ai 生成的八股长篇，但凡作者给你配上几张实机演示截图都算是比较用心的了，大部分项目都是无图无演示几千字纯文本的自动生成 很难看到旧时代那种简短且精准表述的人工文档了 作者是省心了，用户可就遭罪了 自己慢慢看，又麻烦又耗时，最终要么 ai 直接总结要么看个大概就让 ai 自己安装 我玩了几天 dsh 也受不了了，直接说想要什么方面的功能或增强，让它自己去寻找然后安装…",
+      "section": "cn-tech",
+      "rankScore": 0.627658
+    },
+    {
+      "id": "2b9e70b40e4e4a84",
+      "title": "从快速部署到记忆共享，数据库如何支撑 Agent 应用？",
+      "url": "https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-13T20:54:12.000Z",
+      "author": "凌敏",
+      "section": "cn-tech",
+      "rankScore": 0.609981
+    },
+    {
+      "id": "3707ee7de530729f",
+      "title": "非洲加速发展太阳能",
+      "url": "https://www.solidot.org/story?sid=85882",
+      "source": "solidot",
+      "publishedAt": "2026-11-13T17:07:22.000Z",
+      "excerpt": "在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures Lab 研究总监 Joel Nana 表示，我们正见证一场自下而上的革命。",
+      "section": "cn-tech",
+      "rankScore": 0.601669
+    },
+    {
+      "id": "3e43415a56b7831e",
+      "title": "徽章墙",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscXBDbU1Rc05JUTlmZ3QzTUlHaGZiaXJTRUpLSG5udWw0YWR3NnowZE1MTE9YdzJ3UldhU2RmSEpRUGpqWWRoVGRBZG55aWNI?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-13T23:18:55.000Z",
+      "excerpt": "徽章墙 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.455126
+    },
+    {
+      "id": "d4da733537e3e88f",
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-13T14:28:58.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months.",
+      "section": "security",
+      "rankScore": 0.502972
+    },
+    {
+      "id": "08e554f0245d0f2e",
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-13T13:54:20.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.",
+      "section": "security",
+      "rankScore": 0.493351
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
