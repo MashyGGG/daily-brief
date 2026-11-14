@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-14",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-14T17:57:33.987Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "cd6b9adbd0dc6520",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-14T17:57:33.987Z",
+      "score": 673,
+      "excerpt": "Chrome DevTools for coding agents",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "0248d26b3fd4cc1d",
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "source": "hn-front",
+      "publishedAt": "2026-11-14T12:45:45.000Z",
+      "score": 247,
+      "author": "gslin",
+      "excerpt": "247 points · 95 comments · https://news.ycombinator.com/item?id=50496602",
+      "section": "tech",
+      "rankScore": 0.751819
+    },
+    {
+      "id": "6af98ebfac3b3e0f",
+      "title": "EP233: Kubernetes Explained for Busy Engineers",
+      "url": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-14T16:30:57.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Kubernetes is an orchestration platform that manages the deployment and maintenance of containerized applications, particularly on multiple machines.",
+      "section": "tech",
+      "rankScore": 0.724629
+    },
+    {
+      "id": "114301e330b4fadc",
+      "title": "Perses",
+      "url": "https://perses.dev/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-14T15:28:16.000Z",
+      "author": "perses.dev via miro",
+      "section": "tech",
+      "rankScore": 0.613182
+    },
+    {
+      "id": "5549faaadf3f84fb",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "verge",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
+      "author": "Nilay Patel",
+      "excerpt": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.",
+      "section": "tech",
+      "rankScore": 0.430811
+    },
+    {
+      "id": "a9f514c06d4838c2",
+      "title": "Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions",
+      "url": "https://www.infoq.com/news/2026/11/compute-engine-api-versioning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-14T07:27:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "Google Cloud has made date-based versioning of the Compute Engine API generally available, replacing the single mutable /v1 surface with immutable quarterly snapshots such as 2026-09-01, selected per request with a header or query parameter.",
+      "section": "tech",
+      "rankScore": 0.42971
+    },
+    {
+      "id": "1e3ff09ce46865d2",
+      "title": "[AINews] The No AI Slop Manifesto",
+      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-14T08:31:02.000Z",
+      "author": "swyx .ai",
+      "excerpt": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
+      "section": "ai",
+      "rankScore": 0.473245
+    },
+    {
+      "id": "ce783013f46af494",
+      "title": "如何在“不能出错”的系统里使用 AI Coding？分布式存储实践与边界",
+      "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-14T17:57:33.987Z",
+      "excerpt": "本文结合美团基础技术部在 AI 评审、问题排查和自动化开发中的真实实践，分享 AI 能帮上什么忙、容易在哪些地方犯错，以及哪些地方仍需要人来把关。比「多写代码」更重要的，是让代码和结论经得起验证。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "99b225ea2839bbe4",
+      "title": "天问四号将尝试登陆木卫四",
+      "url": "https://www.solidot.org/story?sid=85887",
+      "source": "solidot",
+      "publishedAt": "2026-11-14T14:12:32.000Z",
+      "excerpt": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构成的地下海洋，可能具有孕育生命的基本条件。",
+      "section": "cn-tech",
+      "rankScore": 0.652126
+    },
+    {
+      "id": "1e37f09d1b74ea68",
+      "title": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+      "url": "https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
+      "author": "作者：Claudio Masolo",
+      "section": "cn-tech",
+      "rankScore": 0.615445
+    },
+    {
+      "id": "592b83bec90fc790",
+      "title": "我自己开发了一个远程控制软件 Airhand 欢迎 star~ 支持 120fps",
+      "url": "https://www.v2ex.com/t/1257076",
+      "source": "v2ex",
+      "publishedAt": "2026-11-14T10:16:37.000Z",
+      "score": 17,
+      "author": "sqlpxc",
+      "excerpt": "airhand 我是 airhand 的开发者，项目地址： https://github.com/sqlpxc/airhand ，欢迎 Star ⭐ FAQ 为什么还要再做远程控制？为什么不用 RustDesk ？ 最开始的原因很简单：RustDesk 需要部署 hbbs 和 hbbr ，开的端口太多了，我总觉得在服务端开很多端口不是什么好事…… 而且它不支持 AV1 硬件编码 。（为什么一定要支持这个？自己使用过我的项目就能体会，效果非常不错。） 为什么之前一直没有编译二进制文件？ 因为早期版本里，如果服务端不可信，是很危险的：服务器管理员甚至可以直接连接任何客户端。",
+      "section": "cn-tech",
+      "rankScore": 0.61245
+    },
+    {
+      "id": "c2b882a634b5c254",
+      "title": "企业级Agent工程架构实战营，跨过Demo 与生产之间的鸿沟",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05RnJKOXFqU2cwV1JycEdwN0ZDUjNhUjZCNXNvbFRYaUctV09rYXVTNElST1E4cVZZNWszNEpYbFVFaEE2dlplNnNKUXFHLWd0U1NEbQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-14T15:30:42.000Z",
+      "excerpt": "企业级Agent工程架构实战营，跨过Demo 与生产之间的鸿沟 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.441045
+    },
+    {
+      "id": "f80e5954717b4474",
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-14T12:38:35.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.",
+      "section": "security",
+      "rankScore": 0.548103
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
