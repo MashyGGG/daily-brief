@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-15",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-15T17:40:49.049Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "0e0cc0c3334394e6",
+      "title": "贝森特称英伟达需戏剧性改组：是否为推高营收和利润推动非法销售",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261115-%E8%B4%9D%E6%A3%AE%E7%89%B9%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%9C%80%E6%88%8F%E5%89%A7%E6%80%A7%E6%94%B9%E7%BB%84-%E6%98%AF%E5%90%A6%E4%B8%BA%E6%8E%A8%E9%AB%98%E8%90%A5%E6%94%B6%E5%92%8C%E5%88%A9%E6%B6%A6%E5%BC%BA%E8%A1%8C%E6%8E%A8%E5%8A%A8%E8%BF%9D%E6%B3%95%E9%94%80%E5%94%AE",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-15T17:11:23.000Z",
+      "author": "弗林",
+      "excerpt": "美国财政部长贝森特（Scott Bessent）周日在受访时表示，在黄仁勋宣布辞职后，英伟达在寻找新任首席执行官时，应当从公司外部进行物色。",
+      "section": "news",
+      "rankScore": 0.684906
+    },
+    {
+      "id": "c529eb6534f1899a",
+      "title": "其子运营公司深度参与东南亚数据中心项目 美商务部长卢特尼克备受质疑",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261115-%E5%85%B6%E5%AD%90%E8%BF%90%E8%90%A5%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E5%8F%82%E4%B8%8E%E4%B8%9C%E5%8D%97%E4%BA%9A%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE-%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8D%A2%E7%89%B9%E5%B0%BC%E5%85%8B%E5%A4%87%E5%8F%97%E8%B4%A8%E7%96%91",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-15T16:17:00.000Z",
+      "author": "弗林",
+      "excerpt": "在英伟达事件持续发酵之际，美国商务部长卢特尼克（Howard Lutnick）已成为特朗普政府应对中国间谍活动和潜在国家安全威胁失责的焦点高官。目前对卢特尼克最严厉的审视来自国会共和党人、内阁同僚以及特朗普总统的“让美国再次伟大”（MAGA）阵营的基本盘。",
+      "section": "news",
+      "rankScore": 0.657017
+    },
+    {
+      "id": "4725cc52da472dd9",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-15T17:23:40.000Z",
+      "excerpt": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "section": "news",
+      "rankScore": 0.622084
+    },
+    {
+      "id": "11c12411150b2147",
+      "title": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證",
+      "url": "https://www.bbc.com/zhongwen/articles/c9j3km83x5z2o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-15T10:32:00.000Z",
+      "excerpt": "在被揭露婚外情後，黃仁勳於週四突然辭去了全球最有價值的公司之一的總裁職務。",
+      "section": "news",
+      "rankScore": 0.576112
+    },
+    {
+      "id": "9cf45904aa64e3bb",
+      "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+      "url": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-15T17:07:07.000Z",
+      "author": "Ian Austen",
+      "excerpt": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.",
+      "section": "news",
+      "rankScore": 0.546174
+    },
+    {
+      "id": "442b4293adc5b7d7",
+      "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
+      "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-15T17:04:55.000Z",
+      "author": "Alexandra Topping Political correspondent",
+      "excerpt": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is politicians’ fault.",
+      "section": "news",
+      "rankScore": 0.545271
+    },
+    {
+      "id": "cc99fa301621a09d",
+      "title": "British tourist smashes Jesus statue outside Vilnius church",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-15T16:04:22.000Z",
+      "excerpt": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.",
+      "section": "news",
+      "rankScore": 0.52043
+    },
+    {
+      "id": "99069db55496f71b",
+      "title": "Decision to move Shakespeare Institute out of Stratford sparks outcry",
+      "url": "https://www.ft.com/content/eb45ef82-94b0-4775-9f79-025fdb27db6a?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-15T17:28:56.000Z",
+      "excerpt": "Study centre’s director quits after University of Birmingham says it will relocate to Edgbaston",
+      "section": "news",
+      "rankScore": 0.485734
+    },
+    {
+      "id": "0e3b0b319f07cfd6",
+      "title": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/federal-employees-democratic-congress-lifeline.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-15T17:09:23.000Z",
+      "author": "Eileen Sullivan",
+      "excerpt": "Former and current workers have found a sympathetic ear among Democrats set to take over the House and Senate. But any reversal of President Trump’s cuts is unlikely to happen immediately.",
+      "section": "news",
+      "rankScore": 0.478716
+    },
+    {
+      "id": "a0c3a5daaf15fc34",
+      "title": "美国航空停摆，祸起路由器？",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40NmF1NG16NGdwczZ3WG9ua0owV1RDVzlwNjVIYXY3R3B6WGsxRTdvUzlDODNHMHh5akhqTUJfcEpSaExUY0FxbVRaaldpSHdjY2lMYWl5S19XRjQtMzE4a2swQTZ4TWhYWFZETHJwNA?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-15T17:11:00.000Z",
+      "excerpt": "美国航空停摆，祸起路由器？ 中国网 热点问答丨美国为何发生航班大规模停飞事件--国际 人民网 设备用了50多年，事故波及全美，美交通部长：给500亿才能解决 凤凰网 美航空局解除全国航班停飞令 新华网 美国全国停飞5小时，竟是一个路由器惹的祸？ 观察者网",
+      "section": "news",
+      "rankScore": 0.410825
+    },
+    {
+      "id": "554588503f6ac044",
+      "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+      "source": "npr-news",
+      "publishedAt": "2026-11-15T10:00:00.000Z",
+      "author": "Jonaki Mehta",
+      "excerpt": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
+      "section": "news",
+      "rankScore": 0.324578
+    },
+    {
+      "id": "18d862e12298105a",
+      "title": "Nadia Murad: ‘Day by day, I took my story back’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168801",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-15T12:00:00.000Z",
+      "excerpt": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed against her and the Yazidi community by militants from the terrorist group, ISIL.",
+      "section": "news",
+      "rankScore": 0.315133
+    },
+    {
+      "id": "668b9b60e383c99e",
+      "title": "平陆运河之畔文脉新生 广西钦江两岸文旅织新",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732501.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-15T13:07:53.000Z",
+      "excerpt": "中新网广西钦州11月15日电 题：平陆运河之畔文脉新生 广西钦江两岸文旅织新",
+      "section": "cn-news",
+      "rankScore": 0.672041
+    },
+    {
+      "id": "4c7c85238ef4231a",
+      "title": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732511.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-15T13:33:45.000Z",
+      "excerpt": "新华社深圳11月15日电(记者潘洁、王丰)在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，2000余位政商界领袖将齐聚深圳前海，参加2026年APEC工商领导人峰会，共谋区域合作大计，共绘亚太发展蓝图。",
+      "section": "cn-news",
+      "rankScore": 0.630629
+    },
+    {
+      "id": "6d6979e136afa3b3",
+      "title": "深圳APEC周严选！华强北凭什么 “硬控”全球客商？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OVGhpakZwWnJ1QUx3czNOdlJ2Q1g1UmdzQlhMRENTNUJWQXFHY3A5c20zVjVZa1owUTl4a2o1SzVPbUp5RWZMSmdPY3ZHbWRSZldrRmJuMWdRaWsySm9BRw?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-15T15:58:43.000Z",
+      "excerpt": "深圳APEC周严选！华强北凭什么 “硬控”全球客商？ Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.582877
+    },
+    {
+      "id": "62092a62f0153e3d",
+      "title": "中国平台企业“出招”优化新就业群体劳动权益保障",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732517.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-15T14:46:03.000Z",
+      "excerpt": "中新社北京11月15日电 (记者 刘亮)随着中国平台经济发展壮大，外卖骑手、网约车司机等新就业形态劳动者涌现，其权益保障问题日益受关注。从健康守护到社会保障，从规则透明到人文关怀，中国平台企业多向发力，持续优化新就业群体劳动权益保障。",
+      "section": "cn-news",
+      "rankScore": 0.549338
+    },
+    {
+      "id": "5fe128dd7df65d8f",
+      "title": "外界忧中美俄上演“雅尔塔2.0” 学者称三国难划分势力范围",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JaTBvWEdnWHlEWUpPMzNCb0thcEJYOTU5UDRTaF9fOTZfcDQwbVVYdG1LN01ucEVOcTZ1dXNrbGRhTHNoOEp1ZncweHVUQnZxb0JuVVl5bzRHM1FBdEtNYm9DU0tIeTR1TVZJ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-15T16:24:50.000Z",
+      "excerpt": "外界忧中美俄上演“雅尔塔2.0” 学者称三国难划分势力范围 联合早报 白宫确认特朗普、习近平和普京将在深圳APEC期间举行历史性三方会晤 BBC 北京的俄罗斯难题：美俄宣布“习特普”峰会将在深圳举行 DW.com 美、中、俄三国首脑在深圳会晤：“普京或将是最大赢家” RFI 川习普深圳三巨头会谈 世界版图恐生变？ 文学城",
+      "section": "cn-news",
+      "rankScore": 0.528827
+    },
+    {
+      "id": "2abeff3f14bef0d4",
+      "title": "女子在菜场借给陌生男子10元救急，十年后在公交偶遇讨要当年借款，男子当场否认并殴打致其骨折，法院：男子被判有期徒刑7个月",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZT29MSE1USG9QaTl1a0pSamVMcjN2TDFHRmZKc2RtSm9raW45SlRKR0RQclU4NUwzUnFnUmRfRExYWTVpTFVrTEdYQm8wY0hQdm92RlhhRjZtb0NVVklJcg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-15T13:34:08.000Z",
+      "excerpt": "女子在菜场借给陌生男子10元救急，十年后在公交偶遇讨要当年借款，男子当场否认并殴打致其骨折，法院：男子被判有期徒刑7个月",
+      "section": "cn-news",
+      "rankScore": 0.516146
+    },
+    {
+      "id": "4603fe914bdcc7b7",
+      "title": "深圳水贝金价跌三分之一 买金热潮再现",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CUXkyYnRVOFQ3czFkZm53WUtLa1F2MVlfYTNSRnA5aWtMUV9DbDhKRHFQRlI0QkNHTUI5bmlOMFJPWTFUQmlYRWw0TFE0alZhcVpUSmlqS3Q5Z0c2OXVDR2FkUkV0RzR1WWdCeTBob1g?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-15T14:36:53.000Z",
+      "excerpt": "深圳水贝金价跌三分之一 买金热潮再现 中华网 金价跌至一年新低市民抢购金条金饰摘要 新浪新闻_手机新浪网 金饰克价跌了近100元！有人抢着买：有地方小克重金条卖空了 华尔街见闻 20克大金镯子跌了10000元，金价回调黄金消费升温，有金店小克重金条热销售罄 Sohu 国际金价再度失守3900美元，金饰克价年内跌超500元，趋势何时扭转？ ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.423972
+    },
+    {
+      "id": "554a3ba97d690668",
+      "title": "US, China seek common ground on military crisis pact as Washington weighs terms: sources",
+      "url": "https://www.scmp.com/news/china/military/article/3374503/us-china-seek-common-ground-military-crisis-pact-washington-weighs-terms-sources",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-15T14:00:13.000Z",
+      "author": "Nayan Seth,Amber Wang",
+      "excerpt": "The United States and China are working to iron out a military accident-prevention agreement ahead of their summit in Shenzhen, although progress has been slow amid divisions within the US administration, according to sources.",
+      "section": "cn-news",
+      "rankScore": 0.41081
+    },
+    {
+      "id": "2c812b35473c6562",
+      "title": "老板开零元面馆 被挤压的生计谁买单 善举引发商户争议",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KUEZZTFpzSXV6dVFPQW9CVnlRXzh2ajkyQUxVek9QTGNrd0NoNTkwMzFaQm5mRnJWVWdtei1uM3A4MEJGSmlSZEhoQld5MjVWWkhTa0hFenZueVY0QmxyXzNZN2lEaHJWU2s1NFEyckc?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-15T15:57:17.000Z",
+      "excerpt": "老板开零元面馆 被挤压的生计谁买单 善举引发商户争议 中华网 “零元面馆”是民间慈善，不应被错位解读成市场竞争 新浪财经_金融信息服务商 未来仅对4类群体免费，南京“零元面馆”老板：不然矛盾太大 观察者网 “零元面馆”内外众生相：一碗免费素面，真难住了一条街？ Sohu 二奢老板开办“零元面馆”，被挤压的生计谁买单？ 金融界",
+      "section": "cn-news",
+      "rankScore": 0.388143
+    },
+    {
+      "id": "a8b80a4a3e5ea9a7",
+      "title": "未獲許可 香港M+博物館取消放映侯孝賢童年往事",
+      "url": "https://www.cna.com.tw/news/acn/202611150119.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-15T07:59:25.000Z",
+      "excerpt": "（中央社台北15日電）香港01報導，香港M+博物館原定放映兩場台灣知名導演侯孝賢的電影「童年往事」，但因未獲香港電影檢查當局批出許可，決定取消放映。",
+      "section": "cn-news",
+      "rankScore": 0.321477
+    },
+    {
+      "id": "1f75d111914bd999",
+      "title": "（深圳APEC）APEC盛会核心场馆“静待花开” 会场外围成打卡热点",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732515.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-15T14:44:43.000Z",
+      "excerpt": "中新社深圳11月15日电 题：APEC盛会核心场馆“静待花开” 会场外围成打卡热点",
+      "section": "cn-life",
+      "rankScore": 0.73163
+    },
+    {
+      "id": "69ec00a7fa40449a",
+      "title": "第三排不该只是应急：奕境X9、领克900、理想L9三车横评，家用大六座怎么挑",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02dXh5VTNQaVRhaUV6ZTBIQW14RE9hRzNvZXFVdEpkUmFWeXBJMTRZeGIyMF9OaWZiZDJ2bVdMZlF6OVdEbEhkLS1sZUlMbk1ieEhJR2t4VFkxRzcyai1N?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-15T17:12:29.000Z",
+      "excerpt": "第三排不该只是应急：奕境X9、领克900、理想L9三车横评，家用大六座怎么挑 新浪网",
+      "section": "cn-life",
+      "rankScore": 0.616923
+    },
+    {
+      "id": "4cfef7a986a43480",
+      "title": "速看！大同2027城乡居民医保缴费开启，多渠道均可办理",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQalROVHJDLUJMTTAxdkV5RkZBbmtoTHZLeWRTYkhhUlg0WDJrSUJYTDZWc1Bid1djdV9JZE9qMUhlbFJmbHQ4LXV6S3VjUXNiX3k3Vmh4ZFpENTFFMXNXYnlOV2I3cUd4bGl0anhoSHNZdUZfalA5ZkRBTldja1k?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-15T16:48:12.000Z",
+      "excerpt": "速看！大同2027城乡居民医保缴费开启，多渠道均可办理 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.605715
+    },
+    {
+      "id": "731a51739af90683",
+      "title": "全国民族舞蹈创作高层次人才培养研讨会在京顺利举办",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52LVh1czJiRHRvRnVZdW1nal9LdFlIQW5CbVZkcXUySUtqZ25qZFFyWTdJWWlhVWZ1MHJWMEpoZVh0MTVlSHZMS0JvQ1Y5NVdtNWlyS0I2MjE5UlA2bUxfWGg1ZG4?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-15T16:45:25.000Z",
+      "excerpt": "全国民族舞蹈创作高层次人才培养研讨会在京顺利举办 国家民族事务委员会",
+      "section": "cn-life",
+      "rankScore": 0.537271
+    },
+    {
+      "id": "6884ade811b1d26d",
+      "title": "SAC1 通过 NF2/Hippo-YAP 通路调控整合蛋白表达抑制肝细胞癌转移",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QNnNZN1BPLXA0N2JMeVd6YjlpYWNBS05LR2JtT1A1M1haSWEwV1Y4Nmd2NnJGTzA0YURGRm45TDQxVGg3T01iYkd1SjR5YzZYRlE1V3RoQmN3d2NVUlRJc2JHWHRTeTBhT3p5eGNn?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-15T16:03:19.000Z",
+      "excerpt": "SAC1 通过 NF2/Hippo-YAP 通路调控整合蛋白表达抑制肝细胞癌转移 生物通",
+      "section": "cn-life",
+      "rankScore": 0.455
+    },
+    {
+      "id": "1eb8dc0d9531e567",
+      "title": "京彩研学｜在行走中成长，北京市第二十中学湖湘研学实践课程正式开营",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCWXlUOHVramd5eDYtV1FSa1FLRUFSQWI5eWduRXpjbjY1Z08wZXppeW9zUDdzOF9jRmZvNUhSdEFEYkZnQkdWT3NxbEVTNnRnLWpRdjVlZVdRaHhOOWN4c2Q1Zkc?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-15T17:08:00.000Z",
+      "excerpt": "京彩研学｜在行走中成长，北京市第二十中学湖湘研学实践课程正式开营 新京报",
+      "section": "cn-life",
+      "rankScore": 0.409902
+    },
+    {
+      "id": "f2fa272d98c54c1c",
+      "title": "进了医保的创新药如何尽快用上？多部门联动破解“入院难” - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmNhTzVhWEVTQ1Y1LXBXOFlESF9oNjkwZ18zcktweW1oZE1PY203MnMtOFZaMWRheDgwVzJnWjRfb1BwWm5vaFFQZzl6N3lIODVWT3NmdjhwM0V2NUlTQzNpYVJKeGU4aXZURG1LTDJ0V3ZXdjg4TG9XSWgtcUE3TlVDcUhVcjJpcXNqQw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-15T13:52:28.000Z",
+      "excerpt": "进了医保的创新药如何尽快用上？多部门联动破解“入院难” Sohu",
+      "section": "cn-life",
+      "rankScore": 0.408028
+    },
+    {
+      "id": "cb68e619a7bbf60c",
+      "title": "人去哪里了？中国三口之家已不是主流",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XUHVkUmwyRlBweHRhcm9maWdsd3FWTnd5VmE3TG0yVDJ6TGNVeDBjV0plcmxGT0VwYUROcUYteU5EdXRIT09NOGcyaXo3MEFCUW1ReUo4UGh0ME1wS2Z2YnJfcVN6Zw?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-15T16:43:31.000Z",
+      "excerpt": "人去哪里了？中国三口之家已不是主流 万维读者网",
+      "section": "cn-life",
+      "rankScore": 0.335307
+    }
+  ],
+  "warnings": []
+}
