@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-15",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-15T02:05:32.512Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "be9b0e1cf251c062",
+      "title": "柏林的《日报》：黄仁勋事件可能会损害北京的利益",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261114-%E6%9F%8F%E6%9E%97%E7%9A%84-%E6%97%A5%E6%8A%A5-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BA%8B%E4%BB%B6%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8D%9F%E5%AE%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%88%A9%E7%9B%8A",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-14T22:10:13.000Z",
+      "author": "柏林特约记者 丹兰",
+      "excerpt": "德国媒体如何看待英伟达首席执行官黄仁勋辞职及其影响？",
+      "section": "news",
+      "rankScore": 0.634632
+    },
+    {
+      "id": "5f297dd7c0849254",
+      "title": "特习会在即，美农民关注农产品贸易和关税问题",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261114-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%9C%A8%E5%8D%B3%EF%BC%8C%E7%BE%8E%E5%86%9C%E6%B0%91%E5%85%B3%E6%B3%A8%E5%86%9C%E4%BA%A7%E5%93%81%E8%B4%B8%E6%98%93%E5%92%8C%E5%85%B3%E7%A8%8E%E9%97%AE%E9%A2%98",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-14T21:25:10.000Z",
+      "author": "华盛顿特约记者 陈米亚",
+      "excerpt": "美国总统特朗普（Donald Trump）预计下周在中国深圳出席亚太经济合作组织（APEC）峰会期间，与中国国家主席习近平及俄罗斯总统普京（Vladimir Putin）会面。",
+      "section": "news",
+      "rankScore": 0.622118
+    },
+    {
+      "id": "4a7b076880ab4583",
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-15T00:06:55.000Z",
+      "excerpt": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+      "section": "news",
+      "rankScore": 0.600344
+    },
+    {
+      "id": "ba24dc56ec476eb4",
+      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+      "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-15T01:54:55.000Z",
+      "excerpt": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
+      "section": "news",
+      "rankScore": 0.557639
+    },
+    {
+      "id": "2b005fd81cfa8ad5",
+      "title": "UK government to consider changing age of consent after allegations against Russell Brand",
+      "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-15T00:17:14.000Z",
+      "author": "Raphael Boyd and Press Association",
+      "excerpt": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly claim she was raped by Russell Brand as a 16-year-old…",
+      "section": "news",
+      "rankScore": 0.535931
+    },
+    {
+      "id": "7f8de16d441a5615",
+      "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+      "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-14T19:23:20.000Z",
+      "author": "Adam Goldman",
+      "excerpt": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
+      "section": "news",
+      "rankScore": 0.47062
+    },
+    {
+      "id": "99350b2d5df3c07c",
+      "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+      "source": "npr-news",
+      "publishedAt": "2026-11-15T00:03:52.000Z",
+      "author": "Marissa J. Lang",
+      "excerpt": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.",
+      "section": "news",
+      "rankScore": 0.466341
+    },
+    {
+      "id": "6ccce37852b830cf",
+      "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-14T23:25:09.000Z",
+      "author": "Tripp Mickle, Ana Swanson, Paul Mozur, Jonathan Swan, Julian E. Barnes and Maggie Haberman",
+      "excerpt": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
+      "section": "news",
+      "rankScore": 0.458813
+    },
+    {
+      "id": "e6b7b06e2e76d05a",
+      "title": "US air travel chaos exposes system held together by ‘string and duct tape’",
+      "url": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-14T22:57:26.000Z",
+      "excerpt": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts",
+      "section": "news",
+      "rankScore": 0.453423
+    },
+    {
+      "id": "1f3780e537efee98",
+      "title": "黃仁勳辭職風波：從「中國間諜」熱議到資本市場「冷熱分化」",
+      "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-14T06:12:53.000Z",
+      "excerpt": "中國官方否認相關指控，批評所謂「中國間諜」的論調純屬污衊，但並未全面封殺討論，相關詞條仍頻頻登上微博熱搜和小紅書熱帖。而在互聯網防火牆的內外，輿論正朝著截然不同的方向發酵。",
+      "section": "news",
+      "rankScore": 0.442447
+    },
+    {
+      "id": "0d42ceb1f7effa21",
+      "title": "美国纽约州长就停飞事件要求美交通部长辞职",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkQUdrTVhjLV9nMVllblBoY3FWeFRJNnVxd0lzcWVzNXpTQVNkQTFRQzg0Y1RqdElBVUktZHlLV1ZvelRmTk1YT09tZ1RlakZUaU5zQ1NubjJDekJqb1dkRA?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-15T00:25:52.000Z",
+      "excerpt": "美国纽约州长就停飞事件要求美交通部长辞职 东方财富 美国全国停飞5小时，竟是一个路由器惹的祸？ 观察者网 美国解除全国停飞令 此前航班因空管系统故障停飞逾四小时 新浪财经_金融信息服务商 一次施工如何让美国全国停飞？美交通部长：改造拨款得紧急加钱 凤凰网 微软：没有迹象表明全美航班停飞与任何微软服务有关 ThePaper.cn",
+      "section": "news",
+      "rankScore": 0.403387
+    },
+    {
+      "id": "2347fa4b3734b1c1",
+      "title": "When the rains fail: Preparing for drought in Central America",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168776",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "excerpt": "Across Central America’s so-called Dry Corridor, farming families live at the mercy of the rains. In southwestern Honduras, Anastacio Martínez Gómez has spent most of his 73 years learning to work the land. But experience can only take him so far.",
+      "section": "news",
+      "rankScore": 0.279076
+    },
+    {
+      "id": "9f0d0c7b057846a0",
+      "title": "中东部将有大范围大风降温和雨雪天气 华北黄淮等地雾霾将减弱消散",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732220.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-15T01:07:22.000Z",
+      "excerpt": "中新网11月15日电 据中央气象台网站消息，昨日，西北地区等地出现小到中雪或雨夹雪，局地大雪；今晨，华北、黄淮等地出现大雾。预计15日至18日，受冷空气影响，中东部将有大范围大风降温和雨雪天气，西北、内蒙古、华北、东北等地部分地区有较强降雪，关注对交通、城市运行、能源保供等的影响。华北、黄淮等地雾霾15日起逐渐减弱或消散。",
+      "section": "cn-news",
+      "rankScore": 0.820608
+    },
+    {
+      "id": "2314f14aea2a7769",
+      "title": "（寻味中华｜风俗）蟳埔女习俗：从渔村日常到花漾美学",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732241.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-15T01:51:37.000Z",
+      "excerpt": "中新社福建泉州11月15日电 题：蟳埔女习俗：从渔村日常到花漾美学",
+      "section": "cn-news",
+      "rankScore": 0.765745
+    },
+    {
+      "id": "93e73495b626180c",
+      "title": "一老一小社区发展支持计划研讨会举行 专家建言优先培养综合人才",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732232.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-15T01:48:41.000Z",
+      "excerpt": "中新网北京11月15日电 (张素 马广志)“设施条件可较快改善，运行机制调整难度更高，长期持续运行更具挑战。”近日举行的一场研讨会上，专家建言优先培养“一老一小”社区工作综合人才。",
+      "section": "cn-news",
+      "rankScore": 0.625785
+    },
+    {
+      "id": "dabc98659e8dc8cf",
+      "title": "航行警告，渤海海峡黄海北部执行军事任务",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zMXBVcDlWVU9ReTBMR29GTzJEaDQ4d1Q5YUhEQU51R3hac1pVOFdEUnVKRjR2bkc0MUxvZUI2N00xRURmRERaeUdraEpxQzJVRjNTOGdWVDY?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-15T01:26:39.000Z",
+      "excerpt": "航行警告，渤海海峡黄海北部执行军事任务 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.620277
+    },
+    {
+      "id": "cf306d1a11079d96",
+      "title": "科尔沁一饭店拟“转型”殡葬治丧场所，未取得相关资质被查",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiejhkeld5Z1d4UktMWUZfMGVlWWQyaERjNVpiNE5PTFlTUkdsUXVsTHdWbE9lLW1UMXNXbDl1V1dwTlI0djdWcDRPV21sMUlVX1JIS2NUeENBNk1iR3R3Sw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-15T01:07:39.000Z",
+      "excerpt": "科尔沁一饭店拟“转型”殡葬治丧场所，未取得相关资质被查",
+      "section": "cn-news",
+      "rankScore": 0.615527
+    },
+    {
+      "id": "5f1804c8add5ab5e",
+      "title": "如何锤炼坚强党性",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yQkxTajZPaV9SS2d5eVRxc0hvTnp3ZE4wNENsR1FKOV9Jd011RGpLQWJ6bEgwNXBDY29GbEpFWC0tNzl3M1MxUmpiVnI5d04wSGdtbWYwZ3M3WnpTN1lRZ0tFWjBjTGZHcDE1WHpTbzl3dURPa3g4YTZac0U?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-15T00:45:27.000Z",
+      "excerpt": "如何锤炼坚强党性 求是 学习贯彻党的二十届五中全会精神中央宣讲团深入基层与干部群众交流互动 凤凰网 推动全会精神深入人心落地生根 凤凰网 经济日报评论员：为担当者担当、为负责者负责、为干事者撑腰 新浪财经 时政微观察丨用党的优良传统涵养党性",
+      "section": "cn-news",
+      "rankScore": 0.542202
+    },
+    {
+      "id": "baf094ba6e431fc7",
+      "title": "Chinese social media firms under fire as fake history spreads online",
+      "url": "https://www.scmp.com/news/china/military/article/3374447/chinese-social-media-firms-under-fire-fake-history-spreads-online",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-15T02:00:13.000Z",
+      "author": "Alcott Wei",
+      "excerpt": "Pseudo-history about China is mushrooming online, spreading fake accounts of the past due in large part to platform algorithms, artificial intelligence (AI) and a lack of monitoring, according to a Chinese provincial authority.",
+      "section": "cn-news",
+      "rankScore": 0.488965
+    },
+    {
+      "id": "9c817273e0a1282a",
+      "title": "临港重工业如何点“废”成金",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXA2Z3oxUE8xUUYwR05FcWdOOG45TXB5R3lsQTI1bHlkVDR1QXRiNlFQSlRSOWlqT2hvWEcxZ2w2MnVWLUFrdHFaWUhJQUVOQ1AwUGlFR01UNFZ6SVFJMFVLYXZST3ZOeXVzdS1saU5VOUF3Q1A5YnNTNm5wNjN0N0NR?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-15T01:16:28.000Z",
+      "excerpt": "临港重工业如何点“废”成金 新华社广西分社",
+      "section": "cn-news",
+      "rankScore": 0.480458
+    },
+    {
+      "id": "431757ae3e75ccd2",
+      "title": "第三届成都天问华语科幻文学大赛八大奖项揭晓",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56SGRlU0FCVEQzY0ZjYWFaYm8xcy14WTdQTzVWcS1ENWpmTEZsaGcxWTNqUkJXZTFoWUVaR1N4eHBLLTYzWGdvNFZtWVNnY0NnXzRXdzRoMEFrOWZuQmpHMkp1bVZEamV0c3c?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-15T01:49:31.000Z",
+      "excerpt": "第三届成都天问华语科幻文学大赛八大奖项揭晓 中国新闻网 华语科幻AI影像联盟在成都成立何夕《天年》等四部科幻作品启动影视化|成都市|刘慈欣|程婧波|萧星寒|江波_手机新浪网 新浪财经_金融信息服务商 与世界科幻迷齐聚成都，世界科幻大会主席本·亚洛：每次来成都，都像回家一样 凤凰网 八大赛道获奖名单揭晓！2026成都科幻周同步启动｜科幻周速递 Sohu “星计划”联合成都天问发布科幻IP全球发展战略：全球300超级创作者计划落地成都 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.417329
+    },
+    {
+      "id": "625ad3a390eca896",
+      "title": "男子旺角鬧市眾目睽睽下當街小便 網民問：要幾大勇氣先做到",
+      "url": "https://hk.news.yahoo.com/%E7%94%B7%E5%AD%90%E6%97%BA%E8%A7%92%E9%AC%A7%E5%B8%82%E7%9C%BE%E7%9B%AE%E7%9D%BD%E7%9D%BD%E4%B8%8B%E7%95%B6%E8%A1%97%E5%B0%8F%E4%BE%BF-%E7%B6%B2%E6%B0%91%E5%95%8F%EF%BC%9A%E8%A6%81%E5%B9%BE%E5%A4%A7%E5%8B%87%E6%B0%A3%E5%85%88%E5%81%9A%E5%88%B0-000233725.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-11-14T16:02:33.000Z",
+      "excerpt": "旺角鬧市又出現不文明一幕！網上瘋傳一段影片，一名男子在旺角人來人往的行人路上，竟然眾目睽睽之下當街小便，完全無視旁人目光，行徑令人側目。",
+      "section": "cn-news",
+      "rankScore": 0.372752
+    },
+    {
+      "id": "eb4ca40a469101dc",
+      "title": "部分电动自行车3C认证卡壳 消费者上牌遇阻",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732245.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-15T01:21:45.000Z",
+      "excerpt": "花几千元买了一辆电动自行车，门店承诺可以上牌。可等到办理登记时，却被告知：车辆对应的3C认证证书已经暂停了。近日，不少地方的消费者向记者反映，自己遇到了类似难题：找门店，被告知等厂家；联系品牌客服，也迟迟得不到明确的解决时间。新车买了，却卡在上牌这一步；想退车，也并不容易。消费者们不禁困惑：为什么买车时没人提醒自己一声，直到上牌才发现证书停了？这一问题又该如何解决？",
+      "section": "cn-life",
+      "rankScore": 0.825403
+    },
+    {
+      "id": "6d6c1d5d34a91d98",
+      "title": "为什么有人每天睡得少却很精神？科学家发现“短睡基因”",
+      "url": "https://www.chinanews.com.cn/life/2026/11-15/10732227.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-15T00:47:27.000Z",
+      "excerpt": "大多数人都清楚充足睡眠是至关重要的，经典观点认为：每晚睡足 8 小时，第二天才能精力充沛地学习、工作，否则就会昏昏沉沉，注意力不集中，情绪也容易烦躁。",
+      "section": "cn-life",
+      "rankScore": 0.678308
+    },
+    {
+      "id": "9cff07ac14e052c3",
+      "title": "大部分地区能见度在1公里以上 北京市解除大雾黄色预警",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91ZWRFVHFvbDh4eW9OOEdrbndWWkRrc2tGa2Yyalo5VUU0OU04OFJ6WEpWRmtDdEx4Y3M1NjM2NDlFeHk3Zmd0eDBZekRrbHdIUnpORVp1c3BUdHpFR052ZldFalo?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-15T01:52:00.000Z",
+      "excerpt": "大部分地区能见度在1公里以上 北京市解除大雾黄色预警 新京报",
+      "section": "cn-life",
+      "rankScore": 0.626615
+    },
+    {
+      "id": "d84823526be18de2",
+      "title": "两款新药首进医保、一款续约，云顶新耀(01952)多产品商业化体系提速 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWlTeURsVFBUdGtobTNjVDJqNFFfUlh0V0ExczBMal9KSU4wSHlsTEFnS3k1STg1UEd6YzVhR1hqclJLdldlVVRLanZ1MWRMOEp1OXY2MkZiQ2ZnZENBejBHNWdJLVFDcmktbG1NM3JMRkhyTnBINlZYblBLN3lJS2lsMFFjOXlLUEE?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-15T01:49:14.000Z",
+      "excerpt": "两款新药首进医保、一款续约，云顶新耀(01952)多产品商业化体系提速 新浪财经_金融信息服务商",
+      "section": "cn-life",
+      "rankScore": 0.625923
+    },
+    {
+      "id": "c475303af9d47465",
+      "title": "从上门招生到学位爆满 北京名校扎根曹妃甸带动新城发展",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XYnF5eF9wNmhGVlFOWXhxUTRUMDlmdUd2MXhneHRZb3FIME93LTdGQkZyaUNBOG9rVGlrMUl0VFRncXFPdGVVVGE2SnBRVEVOcHotc3pzSU5USmlGWWhhWnpwbTJGNHhHTUo4Mm9OeEZzVmsxRTNucGFEal9hZDg?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-15T01:52:00.000Z",
+      "excerpt": "从上门招生到学位爆满 北京名校扎根曹妃甸带动新城发展 北京市人民政府门户网站",
+      "section": "cn-life",
+      "rankScore": 0.556991
+    },
+    {
+      "id": "d328f018bce7a139",
+      "title": "利好！多家医药龙头，集体宣布 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUZjSFZTaEp4QkNfZFZYaTJQNnNNOEFUdm5fMFR2MkJpa3dQVjJELUp4d3ZtNnJTU1NXMHladXRPQWxNc2ZFOHA2eDhpS1ZwaEV6SXV2QXFGd2tuZVJrUFlyRDFnbFFRZ1FZREhmbE1sUFZfOUMtQXl6WWRfTHVoOXFiTGhoczlWTXZiaQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-15T01:39:19.000Z",
+      "excerpt": "利好！多家医药龙头，集体宣布 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.484901
+    },
+    {
+      "id": "05f655569fd46170",
+      "title": "FIB-4、AIP与TyG对FLI定义MASLD人群全因及心血管死亡预后的比较：基于NHANES 2011–2018的国家代表性队列研究",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03T3BxMk0teUpYbHptTXRUelpnc051Q0pSYmw4T1YzSk8xRm1VbXJMSTJUVFdXWHNEVUZSblJkVU5QRzh3anMzTWdFdENxT3RwMHZYUXd0aDZ3WC1XT3RJRUFQVnRERjBRaWhXVER3?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-15T00:35:11.000Z",
+      "excerpt": "FIB-4、AIP与TyG对FLI定义MASLD人群全因及心血管死亡预后的比较：基于NHANES 2011–2018的国家代表性队列研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.47243
+    },
+    {
+      "id": "78df4713a3dd3a83",
+      "title": "雪假来了，多地官宣！ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVGZsc1A2THg3WDhrbG5zS2RnYTBqWTdMcl91dkc5cmFsYUc4R2VWRHVqMkNrN2liLWZ3Q0N6N2dpZXhuS0RRSWpDbkx2MlpCczBlVU1Pbzh6NGJtbTFHUmkyU3JhUmZQaGFDdXlOOGpMTVZ0RldLaWI1dTRTaHljdFhJbTBoeEpyRXlJ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-15T01:48:21.000Z",
+      "excerpt": "雪假来了，多地官宣！ Sohu",
+      "section": "cn-life",
+      "rankScore": 0.417135
+    }
+  ],
+  "warnings": []
+}
