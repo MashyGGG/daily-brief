@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-15",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-15T16:19:25.291Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 4,
+  "items": [
+    {
+      "id": "2e1ed83c5eded7ad",
+      "title": "Manchester Animation Festival Bans Generative AI Films From Its 2027 Competition - SoaplandTV",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMlYzQndqVVFJOE9jbHJRejRoUURWVXhROTNOWWN6MHU0LUUtQzZUdzFnV0tXTnhmb21XRERRb256Z2JYOVJMeDVoNXNST0M1d0ZrNEtKRmRWZVlrUlo3UklCdFoxVEVRQ2J1XzlpLTYwdzBqQWZFbVk5QVVvOExSSldiZXplVHY1LUdzOFdwVm5KTDBnOERQQlJTN21oTDJGOGo0MlNpYXdkRDZRR3RNeEhZQQ?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-15T08:38:04.000Z",
+      "excerpt": "Manchester Animation Festival Bans Generative AI Films From Its 2027 Competition SoaplandTV",
+      "section": "drama-news",
+      "rankScore": 0.635923,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "ad957e15a5c9c7be",
+      "title": "Veo 3.1 arrives at Flow: Google updates its AI filmmaking tool - Foro3D",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORmNkRnlDN2NIWGZyTkZsZW9pNHBBT0lENHBCUGhsdmRJQ0FZdng2RDllaUlUQnNwS1o5U1lqSWpMM3E0ZWZiSS1uU3ZndXJ0eUg2NzFFakxNZ2E3UkNQMFJEWVJucGdCQ0J5c1NaXzBfbWpoWTlMUnlhU3V1OTFLbkJqcHlQdEVuaDJ1ampsTE9ibEs1QllVclRlUU81VEwxQ1FzaHFWXzM3VDFf?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-14T18:34:21.000Z",
+      "excerpt": "Veo 3.1 arrives at Flow: Google updates its AI filmmaking tool Foro3D",
+      "section": "drama-news",
+      "rankScore": 0.51874,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "cc36c88474fb862c",
+      "title": "发财梦 轻信返利赔积蓄，错付真心失家财。全片由即梦AI制作 #即梦AI创作者成长计划 #AI创作浪潮计划 #防骗 #反诈 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVU0wV3I4aTlSdzhLc3BGaFYtMkR4b2tQSHB1bXoyRzRxM1dBeVpiVHRraVNpaGM3YWF3ME5YSWlVc2F1dWo0eFdNanU3eXh2djJWUnlPLWIwU3FPdEpBMHZvazV1dlhsVGNaTXBuQnZRbUxRclRVYWNmem9rRW1HME1BLXpnZzhadXhxMg?oc=5",
+      "source": "drama-cn-models",
+      "publishedAt": "2026-11-15T15:10:43.000Z",
+      "excerpt": "发财梦 轻信返利赔积蓄，错付真心失家财。全片由即梦AI制作 #即梦AI创作者成长计划 #AI创作浪潮计划 #防骗 #反诈 Sohu",
+      "section": "drama-news",
+      "rankScore": 0.4487977,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "5a9efe70a1da2b10",
+      "title": "5人7天做3部AI漫剧播放几十亿营收300万海外AI剧市场破40亿美元_短剧",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnTHM0N3ZlZ3BPaUQ3NUhieWdOakFiZGZfcVhGMzJWTmFEZXA1YzNoV3c3Z01Na1pzUDFjVlQycDBoZ3FGSE5TVWNzUEV4b2JuWTVDN2pBaldGWVplVjhOUUdsdw?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-15T10:03:00.000Z",
+      "excerpt": "5人7天做3部AI漫剧播放几十亿营收300万海外AI剧市场破40亿美元_短剧 电影界",
+      "section": "drama-news",
+      "rankScore": 0.42101735000000007,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 国内外资讯与案例：本期 4/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 0/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "从短镜头拼成完整故事",
+      "url": "https://help.runwayml.com/hc/en-us/articles/26871350018835-How-to-create-longer-videos-and-films",
+      "task": "拆解一条喜欢的 30–60 秒作品，记录开头、变化、结尾和每镜时长。",
+      "doneWhen": "有一张至少 6 镜头的拆解表。"
+    }
+  }
+}
