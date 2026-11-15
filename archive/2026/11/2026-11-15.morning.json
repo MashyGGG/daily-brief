@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-15",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-15T01:49:18.239Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "9c66eb73ff875e1f",
+      "title": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-15T01:49:18.239Z",
+      "score": 553,
+      "excerpt": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "341a1ceadf7feb19",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-14T17:43:10.000Z",
+      "score": 646,
+      "author": "armcat",
+      "excerpt": "646 points · 275 comments · https://news.ycombinator.com/item?id=50499017",
+      "section": "tech",
+      "rankScore": 0.983954
+    },
+    {
+      "id": "e2f67824aee4f0ee",
+      "title": "Walking across my Minecraft backups with Plakar",
+      "url": "https://poolp.org/posts/2026-11-14/walking-across-my-minecraft-backups-with-plakar/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-14T23:23:12.000Z",
+      "author": "poolp.org by poolpOrg",
+      "section": "tech",
+      "rankScore": 0.64293
+    },
+    {
+      "id": "c64f89c15ea62639",
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-15T00:40:59.000Z",
+      "author": "Eric Berger",
+      "excerpt": "It felt like stepping into the future.",
+      "section": "tech",
+      "rankScore": 0.476715
+    },
+    {
+      "id": "57d8dd61a35ec34d",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "source": "verge",
+      "publishedAt": "2026-11-14T21:44:44.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time.",
+      "section": "tech",
+      "rankScore": 0.442445
+    },
+    {
+      "id": "3e9e23986cf68b55",
+      "title": "Open Source DocumentDB 1.0 Reaches General Availability",
+      "url": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-14T06:37:00.000Z",
+      "author": "Renato Losio",
+      "excerpt": "DocumentDB 1.0 is the first generally available release of the open source, MIT-licensed document database built on PostgreSQL, with compatibility for the MongoDB wire protocol. Most MongoDB drivers, tools, and queries work without changes. By Renato Losio",
+      "section": "tech",
+      "rankScore": 0.408409
+    },
+    {
+      "id": "d49b68e6de5567cb",
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-14T23:59:28.000Z",
+      "excerpt": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.",
+      "section": "ai",
+      "rankScore": 0.803388
+    },
+    {
+      "id": "debf38bb110ee2fb",
+      "title": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-14T17:09:09.000Z",
+      "excerpt": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018!",
+      "section": "ai",
+      "rankScore": 0.666615
+    },
+    {
+      "id": "be323105cab574f2",
+      "title": "美国失去麻疹消除地位",
+      "url": "https://www.solidot.org/story?sid=85889",
+      "source": "solidot",
+      "publishedAt": "2026-11-14T16:52:55.000Z",
+      "excerpt": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录。今年报告的病例几乎所有患者此前都未接种过麻疹、腮腺炎和风疹（MMR）疫苗，或者其疫苗接种状况不明。根据美国各州的报告，至少 10 人在感染麻疹后死亡。",
+      "section": "cn-tech",
+      "rankScore": 0.606104
+    },
+    {
+      "id": "3ce94ec617ae73f5",
+      "title": "有些程序员（产品经理）的脑回路秀逗了吧？ 就拿咪咕视频来说",
+      "url": "https://www.v2ex.com/t/1257021",
+      "source": "v2ex",
+      "publishedAt": "2026-11-14T04:59:22.000Z",
+      "score": 21,
+      "author": "intoext",
+      "excerpt": "没有会员，看个央视吧。 弹出来广告，猜猜多少秒？ 900 秒 15 分钟。 就这个破软件，我是不会花 1 分钱的",
+      "section": "cn-tech",
+      "rankScore": 0.557516
+    },
+    {
+      "id": "10c81e8135a21998",
+      "title": "我盯了七天站点日志， 发现掉的是深度不是覆盖",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ydVJfcDhubDFGVEM3aFJFYkp6ck5XNEVISmpPNldsMGd6cWxtUjYzVndZd2ozWmlPaTU3cW55TXNYYlFsb1dLNmpIS2NhdklZY082Qg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-14T23:42:17.000Z",
+      "excerpt": "我盯了七天站点日志， 发现掉的是深度不是覆盖 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.465302
+    },
+    {
+      "id": "ac3d0327a751728b",
+      "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+      "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-14T10:00:00.000Z",
+      "author": "作者：Leela Kumili",
+      "section": "cn-tech",
+      "rankScore": 0.436304
+    },
+    {
+      "id": "22b9af3645035f0f",
+      "title": "“史上最严”湿实验预测基准发布：推理拉满、算力翻5倍也白搭",
+      "url": "https://www.36kr.com/p/4069313243174025",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-14T09:52:13.000Z",
+      "author": "量子位",
+      "excerpt": "不ber，现在的基准测试都进化到酱婶了？？？ 这回不刷题了，就直接给AI一组实验条件，让它 自己研究、提前猜真实湿实验的结果 …… 比如，同一个反应换几种条件，哪种能得到更多目标产物？一批抗体变体，哪个表达量更高？ 答案先藏好，等AI交卷，再拿实测结果对一对。 你还别说，这事儿现在真值得一测。 这两年， AI for Science 的方式越来越深入，AI已经能自主查文献、用软件，为完成一项分析任务连续做上几小时也不在话下。 大家自然而然开始进入下一个阶段： 我们到底希望AI具备怎样的科研能力？ 湿实验结果预测 ，就是其中颇有实际价值的一项。",
+      "section": "cn-tech",
+      "rankScore": 0.390728
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
