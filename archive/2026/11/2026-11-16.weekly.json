@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-16",
+  "slot": "weekly",
+  "scheduleId": "weekly",
+  "generatedAt": "2026-11-16T02:48:04.323Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 168,
+  "itemCount": 20,
+  "items": [
+    {
+      "id": "cd6b9adbd0dc6520",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-14T17:57:33.987Z",
+      "score": 673,
+      "excerpt": "Chrome DevTools for coding agents",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "abc54ad78df6620b",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-12T19:51:50.099Z",
+      "score": 799,
+      "excerpt": "Keep your coding agent up to date with the latest web best practices",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "ead5ba3c5bacf349",
+      "title": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-15T18:46:54.951Z",
+      "score": 1041,
+      "excerpt": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "9c66eb73ff875e1f",
+      "title": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-15T01:49:18.239Z",
+      "score": 553,
+      "excerpt": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "4200d4114ee67714",
+      "title": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-11T19:33:11.456Z",
+      "score": 1079,
+      "excerpt": "The personal finance app for everyone (by everyone)",
+      "section": "tech",
+      "rankScore": 1.14
+    },
+    {
+      "id": "d4fe258087461eef",
+      "title": "v2.1.322",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
+      "source": "anthropic",
+      "publishedAt": "2026-11-10T02:29:43.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Added fast mode on Vertex in the global, us and eu regions, falling back to standard speed if Vertex refuses it",
+      "section": "ai",
+      "rankScore": 0.842316
+    },
+    {
+      "id": "ed254bc9caf498e2",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "openai",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "section": "ai",
+      "rankScore": 0.814696
+    },
+    {
+      "id": "207ec26922dce6a4",
+      "title": "Browse tools.simonwillison.net by tag",
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-11T18:42:50.000Z",
+      "excerpt": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries,…",
+      "section": "ai",
+      "rankScore": 0.811224
+    },
+    {
+      "id": "d49b68e6de5567cb",
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-14T23:59:28.000Z",
+      "excerpt": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.",
+      "section": "ai",
+      "rankScore": 0.803388
+    },
+    {
+      "id": "2d496d3e28a0f65f",
+      "title": "datasette-maplibre 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-15T23:58:36.000Z",
+      "excerpt": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to…",
+      "section": "ai",
+      "rankScore": 0.800916
+    },
+    {
+      "id": "15860d9b392b4680",
+      "title": "工作和未来困境，大龄码农该何去何从",
+      "url": "https://www.v2ex.com/t/1256042",
+      "source": "v2ex",
+      "publishedAt": "2026-11-11T01:34:17.000Z",
+      "score": 7,
+      "author": "seedhk",
+      "excerpt": "前情： 三十八线小城市，人口大概 1-200w(包括下面的县市和农村)，本地主要以工业工厂为主，经济低迷。自己年龄三十出头，有一个刚出生的儿子，老婆还在休息。最近公司工资开始延期，原因说是回款问题(往好了想是暂时还没说不发)，眼看\"可能\"再过半年一年就不太行了。受到 ai 影响，本地可能找不到目前需要的工资(1w+)。 我对这个行业整体持悲观态度，感觉一个实习或者刚毕业的学生+ai ，就赶得上我目前的水平了(Java 开发工作 7 年+)。不仅仅是目前，对于未来何去何从，心里有一个大大的问号。",
+      "section": "cn-tech",
+      "rankScore": 0.86531
+    },
+    {
+      "id": "6bb5892c1c1a933c",
+      "title": "腾讯裁员一半",
+      "url": "https://www.v2ex.com/t/1256359",
+      "source": "v2ex",
+      "publishedAt": "2026-11-12T02:04:48.000Z",
+      "score": 31,
+      "author": "kaouiwyhauaysada",
+      "excerpt": "灭霸响指？",
+      "section": "cn-tech",
+      "rankScore": 0.860781
+    },
+    {
+      "id": "ce783013f46af494",
+      "title": "如何在“不能出错”的系统里使用 AI Coding？分布式存储实践与边界",
+      "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-14T17:57:33.987Z",
+      "excerpt": "本文结合美团基础技术部在 AI 评审、问题排查和自动化开发中的真实实践，分享 AI 能帮上什么忙、容易在哪些地方犯错，以及哪些地方仍需要人来把关。比「多写代码」更重要的，是让代码和结论经得起验证。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "332dded855b98d30",
+      "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-14T02:18:16.153Z",
+      "excerpt": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "7bd8ff906484063d",
+      "title": "SLM 生成式高并发推理引擎：延迟约束下的有效吞吐优化",
+      "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-13T02:34:41.076Z",
+      "excerpt": "本文为SLM（Small Language Model， 小参数量语言模型0.5~1B）在搜推场景的大规模落地提供了一套高性能、可复用的工程实践。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "6617471adc9c8501",
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "source": "krebs",
+      "publishedAt": "2026-11-10T21:55:03.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.",
+      "section": "security",
+      "rankScore": 0.69728
+    },
+    {
+      "id": "90c1d6fb4c4c5b31",
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-10T19:23:10.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.…",
+      "section": "security",
+      "rankScore": 0.691699
+    },
+    {
+      "id": "556aff785eb41019",
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-10T19:19:39.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.",
+      "section": "security",
+      "rankScore": 0.690024
+    },
+    {
+      "id": "c7ca683d3d4b9f82",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-12T18:07:15.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee.",
+      "section": "security",
+      "rankScore": 0.650198
+    },
+    {
+      "id": "7494ca9873d6aa9c",
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-12T18:02:51.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there.",
+      "section": "security",
+      "rankScore": 0.648102
+    }
+  ],
+  "warnings": []
+}
