@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-16",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-16T01:55:51.122Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "22480fe567a8e000",
+      "title": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-16T01:55:51.122Z",
+      "score": 866,
+      "excerpt": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "203d6bb8b61eb38f",
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "source": "hn-front",
+      "publishedAt": "2026-11-15T18:36:10.000Z",
+      "score": 398,
+      "author": "DeepLogin",
+      "excerpt": "398 points · 184 comments · https://news.ycombinator.com/item?id=50509411",
+      "section": "tech",
+      "rankScore": 0.996596
+    },
+    {
+      "id": "90a5e9a5f855815f",
+      "title": "Nix: Using the eval-profiler",
+      "url": "https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler",
+      "source": "lobsters",
+      "publishedAt": "2026-11-16T01:28:22.000Z",
+      "author": "nix.dev via tomeraberbach",
+      "section": "tech",
+      "rankScore": 0.675056
+    },
+    {
+      "id": "eeb4808725371362",
+      "title": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
+      "url": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-15T20:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "In a recent article, Uber Engineering highlights the limitations of traditional identity and API controls in securing AI agents that dynamically reason over external content and take real-world actions.",
+      "section": "tech",
+      "rankScore": 0.646239
+    },
+    {
+      "id": "f18c458594b526a4",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "verge",
+      "publishedAt": "2026-11-16T01:26:56.000Z",
+      "author": "Andrew Liszewski",
+      "excerpt": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are.",
+      "section": "tech",
+      "rankScore": 0.484377
+    },
+    {
+      "id": "568a381564fa70b6",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-15T23:11:54.000Z",
+      "author": "Stephen Clark",
+      "excerpt": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "section": "tech",
+      "rankScore": 0.45812
+    },
+    {
+      "id": "2d496d3e28a0f65f",
+      "title": "datasette-maplibre 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-15T23:58:36.000Z",
+      "excerpt": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to…",
+      "section": "ai",
+      "rankScore": 0.800916
+    },
+    {
+      "id": "2944285362b4d70f",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "openai",
+      "publishedAt": "2026-11-15T22:00:01.000Z",
+      "excerpt": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "section": "ai",
+      "rankScore": 0.793113
+    },
+    {
+      "id": "ea3e0e965616332a",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "openai",
+      "publishedAt": "2026-11-15T22:00:00.000Z",
+      "excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "section": "ai",
+      "rankScore": 0.793107
+    },
+    {
+      "id": "6da3423374c7ec03",
+      "title": "datasette 1.0a43",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-15T23:20:27.000Z",
+      "excerpt": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and…",
+      "section": "ai",
+      "rankScore": 0.788199
+    },
+    {
+      "id": "0d92c8e5e8c05672",
+      "title": "全球AI独角兽全景图：30家百亿美元公司，中国公司杀入前十",
+      "url": "https://www.36kr.com/p/4071712212030338",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-16T01:48:18.000Z",
+      "author": "36氪的朋友们",
+      "excerpt": "11月15日，硅谷老牌风投机构Menlo Ventures合伙人Deedy Das（@deedydas）在社交平台晒出一张全球AI公司估值与营收排行榜。 Menlo Ventures成立于1976年，是硅谷历史最悠久的风险投资机构之一，曾投资Uber、Chime等知名科技公司。近年来，这家机构将AI作为重点投资方向，投资组合包括Anthropic、Lovable、Modal等公司。 Menlo Ventures也是Anthropic的早期投资方，2023年便参与了其C轮融资，并在2024年与Anthropic共同设立了规模1亿美元的AI投资基金。",
+      "section": "cn-tech",
+      "rankScore": 0.628112
+    },
+    {
+      "id": "511843f9e330cf03",
+      "title": "团队何去何从",
+      "url": "https://www.v2ex.com/t/1257303",
+      "source": "v2ex",
+      "publishedAt": "2026-11-16T01:37:31.000Z",
+      "score": 2,
+      "author": "watermelon11",
+      "excerpt": "我们团队负责交易流程，无论从业务还是产品经理，都不愿意在这个领域投入过多，我们前几年还有较多专项做，近 2 年只能配合其他团队了，看上去很核心但其实已经没有多少事情可做了。整天想着有没有新方向或者从现有流程中挖掘可以做的事情，如何破局？",
+      "section": "cn-tech",
+      "rankScore": 0.625416
+    },
+    {
+      "id": "0976de6c7a232eb6",
+      "title": "意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款",
+      "url": "https://www.solidot.org/story?sid=85892",
+      "source": "solidot",
+      "publishedAt": "2026-11-15T13:51:56.000Z",
+      "excerpt": "因 Meta 的 Android 版 Facebook 应用未经用户明确同意或充分披露的情况下访问用户的手机相册和视频，意大利监管机构对其处以 8.05 亿欧元罚款。调查人员发现，该功能默认开启，而 Facebook 在申请访问用户相册权限时，将该权限与多种不同用途的应用功能捆绑在一起，通过单一授权请求获取访问权。意大利要求 Meta 在 60 天内禁用该功能，对该功能的启用额外征求用户同意。意大利约有 2000 万 Android 用户，此次罚款是意大利对科技巨头开出的金额最高的罚单之一。意大利监管机构表示，在做出处罚决定时，考虑了受影响人数巨大以及 Meta 不配合等因素。",
+      "section": "cn-tech",
+      "rankScore": 0.548803
+    },
+    {
+      "id": "de4aabd4945cb46d",
+      "title": "派早报：逾十万人次联署要求黄仁勋复职",
+      "url": "https://sspai.com/post/119119",
+      "source": "sspai",
+      "publishedAt": "2026-11-15T23:24:34.000Z",
+      "author": "少数派编辑部",
+      "excerpt": "逾十万人次联署要求黄仁勋复职 Microsoft 365 服务在 19 小时全球宕机后恢复 国产前沿模型携带 Blackwell GPU 特征 线缆更换导致全美飞机停飞 流媒体用户抱怨更难找到想看作品 特斯拉 Cybercab 订阅协议包含苛刻条款 看看就行的简讯 少数派的近期动态 你可能错过的好文章",
+      "section": "cn-tech",
+      "rankScore": 0.526381
+    },
+    {
+      "id": "814d42a5cc0b13d3",
+      "title": "12 个请求挤一条连接：HTTP/1.1 队头阻塞 vs HTTP/2 多路复用实测",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZMkNMRkZGYklmeDBTSFpZV2ZnUjhQMVBHZW93c21ZLWpxVkdPUDlWTWk4bHpjNmxhS2ZFYXR6MWNlblRxM3JjRHVUbTZnSWNmdmlBcQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-16T01:39:43.000Z",
+      "excerpt": "12 个请求挤一条连接：HTTP/1.1 队头阻塞 vs HTTP/2 多路复用实测 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.486863
+    }
+  ],
+  "warnings": [
+    "source \"hacker-news-sec\" failed: TypeError: fetch failed",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
