@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-16",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-16T20:57:56.246Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "a8c978fd1ab04c48",
+      "title": "吁黄仁勋“回归”签署者近18万 美商务部出台新规火速灭火",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261116-%E5%90%81%E9%BB%84%E4%BB%81%E5%8B%8B-%E5%9B%9E%E5%BD%92-%E7%AD%BE%E7%BD%B2%E8%80%85%E8%BF%9118%E4%B8%87-%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E7%81%AB%E9%80%9F%E7%81%AD%E7%81%AB",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-16T20:25:16.000Z",
+      "author": "肖曼",
+      "excerpt": "一份呼吁恢复黄仁勋（Jensen Huang）英伟达（Nvidia）执行长职务的公开信，截至目前已有超过17万7000人签署，其中有多位硅谷知名人士连署支持。",
+      "section": "news",
+      "rankScore": 0.683246
+    },
+    {
+      "id": "4183588dbbbfa017",
+      "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-16T20:33:57.000Z",
+      "excerpt": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "section": "news",
+      "rankScore": 0.618929
+    },
+    {
+      "id": "5797a04a346bd917",
+      "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-16T14:38:25.000Z",
+      "excerpt": "中國、俄羅斯和美國領導人正籌備首次三方會晤，引發歐洲憂慮。一些人認為，這令人聯想到第二次世界大戰後，大國將世界劃分為不同勢力範圍的歷史。",
+      "section": "news",
+      "rankScore": 0.606449
+    },
+    {
+      "id": "4f06b7510600b54f",
+      "title": "The Death of ‘Keep 1.5 Alive’",
+      "url": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-16T20:46:12.000Z",
+      "author": "Katrin Bennhold",
+      "excerpt": "Negotiators at COP31 are confronting a new reality as the world blows past a key warming target.",
+      "section": "news",
+      "rankScore": 0.555185
+    },
+    {
+      "id": "a23d583407af44f1",
+      "title": "Suspect in custody after bomb found at Illinois ethanol plant",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/illinois-bomb-ethanol-plant-suspect",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-16T20:25:06.000Z",
+      "author": "Maya Yang",
+      "excerpt": "The FBI is leading the investigation into the Biourja Renewables incident after it led to a temporary evacuation Authorities investigating a bomb found recently at an ethanol production plant in Peoria, Illinois, have taken a suspect into custody, according to the mayor there.",
+      "section": "news",
+      "rankScore": 0.546528
+    },
+    {
+      "id": "268f370872000fd5",
+      "title": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-16T20:20:02.000Z",
+      "excerpt": "UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA presidential election",
+      "section": "news",
+      "rankScore": 0.54445
+    },
+    {
+      "id": "b30b3f7179cf917c",
+      "title": "Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors",
+      "url": "https://www.nytimes.com/2026/11/16/well/measles-pregnancy-newborns.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-16T20:55:29.000Z",
+      "author": "Teddy Rosenbluth",
+      "excerpt": "A new analysis underscores the severe consequences of a measles infection during pregnancy, including hospitalization and pregnancy loss.",
+      "section": "news",
+      "rankScore": 0.489119
+    },
+    {
+      "id": "552c9bde603b09de",
+      "title": "UK companies line up to replace Palantir in NHS",
+      "url": "https://www.ft.com/content/f69f1f6b-cdbe-40d6-b76d-fb712ca58b51?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-16T20:30:15.000Z",
+      "excerpt": "The government has announced a new procurement process after extending the US tech company’s contract to 2029",
+      "section": "news",
+      "rankScore": 0.480061
+    },
+    {
+      "id": "251d40865a33f49c",
+      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+      "source": "npr-news",
+      "publishedAt": "2026-11-16T18:49:26.000Z",
+      "author": "Katie McQue",
+      "excerpt": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
+      "section": "news",
+      "rankScore": 0.44387
+    },
+    {
+      "id": "30ceae749805dee1",
+      "title": "资金削减削弱难民保护，儿童遭贩运和剥削风险上升",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143207",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "excerpt": "联合国难民署与牛津大学纳菲尔德学院周一发布的两份报告警告，资金持续削减正在削弱对难民的保护，使他们更容易遭受人口贩运、剥削和虐待，儿童的处境尤其令人担忧。",
+      "section": "news",
+      "rankScore": 0.381721
+    },
+    {
+      "id": "0be386beca89ac51",
+      "title": "全国航班停飞后，特朗普政府寻求为空中交通管制系统升级追加资金",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTmJtYWhWZ1p4WXdzQlZGWnZMZHowa0FadGdTbDZnZ2NnV21LZVV5SDNxOVRtZUJabmRLdTAzWDgxeXo4ZGdZWE1HZmtCSW5sVkNhbTJTQzZ2YVYtTVJGdmZHNGljSUp6ZXF6Y2NBU0M5M1QxenNIRlZiTFFiTm53c0NkU1R1REtTNjN3RkRNM3RzM2xMV19Fak1RSU93R1RYYlBBWFNWUnBZMjFWbDE0SWpESXg2a0huaEh3ZUhWYmRBNEJnV0E4aTBCNWdxZWg0LWZpMWRQOTRQeExfSk5SWVgtZWFSbFFib1RFMjdaZmNWd1VXZFlv0gH6AUFVX3lxTE04VzFUdE1tQXNteU1VOTVJZ0VDT2Z6amNrVkVpeXRTaG84ZXlyaUllZVNnV0lsR3ZPd3FFdFdrUDlaWG1XY1Vtbzk0OTRMM0w2emo2YllMZnhzbnItdUdnX0oxazhXX3hZUHR6UG1ERUIyWXRkTm5YSkMtMmtOano5VURXMzRDdXVpaWcxOWpCY3pZRTBXcmtoOWxBRDRHT00xU3k2WmhvVmZJalNPUEEtNTByM2hQRlFBUkxZb09wWUM1aEhjV2p2YzZOY0JETVRsZmZZRy1QcXJFbEdEbTdkZHJNdEc5eFZBUW8xTFVLU0pxcmpSTTlJY0E?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-16T17:28:26.000Z",
+      "excerpt": "全国航班停飞后，特朗普政府寻求为空中交通管制系统升级追加资金 美国之音 民航停飞，暴露美国基建的制度“欠账” 新浪新闻_手机新浪网 全美航班大停飞，美交通部长：前任留下的烂摊子，凭啥我来道歉？ 观察者网 停飞影响持续 美航空运输预计16日全面恢复 空管老旧问题再受关注 中国日报网 团三天过去了，美国航班的故障原因仍未查明，交通部长被要求辞职 凤凰网",
+      "section": "news",
+      "rankScore": 0.355537
+    },
+    {
+      "id": "1469aae43bc1b480",
+      "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "excerpt": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
+      "section": "news",
+      "rankScore": 0.254481
+    },
+    {
+      "id": "299ab5a6dd55c616",
+      "title": "三枚金牌，刻进KPL十年的高光里程碑",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-16/10733153.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-16T15:19:09.000Z",
+      "excerpt": "中新网北京11月16日电(记者 王昊)2026KPL年度总决赛14日在成都收官。北京WB战队以4:3的比分击败北京JDG战队，加冕2026年王者荣耀KPL年度总决赛总冠军，这也是KPL十周年节点上本年度收官之战的冠军。在15日进行的十周年特别庆典上，王者荣耀三届亚运会参赛代表选手共同亮相。",
+      "section": "cn-news",
+      "rankScore": 0.631515
+    },
+    {
+      "id": "296f76ab872ff068",
+      "title": "第十四届中部博览会开幕在即 助力中部地区加快崛起",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733158.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-16T16:24:11.000Z",
+      "excerpt": "新华社北京11月16日电 题：第十四届中部博览会开幕在即 助力中部地区加快崛起",
+      "section": "cn-news",
+      "rankScore": 0.615575
+    },
+    {
+      "id": "04366de4833a0f50",
+      "title": "药膳“圈粉”中国年轻人 养生渐成“新食尚”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733128.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-16T14:12:30.000Z",
+      "excerpt": "中新网南宁11月16日电 题：药膳“圈粉”中国年轻人 养生渐成“新食尚”",
+      "section": "cn-news",
+      "rankScore": 0.5905
+    },
+    {
+      "id": "e3e32b9aeda1488d",
+      "title": "中新网评：企业宣传莫拿争议换流量",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733114.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-16T14:00:41.000Z",
+      "excerpt": "中新网北京11月16日电(记者 查志远)一句“趁男朋友不在”，代价80万。今年七夕期间，快手“德芙官方旗舰店”发布了一条带货视频，女主角跟男朋友要了很久的七彩礼盒没要到，于是“趁男朋友不在”，收下了暧昧对象驾车两小时送来的同款巧克力，配文“很甜”。",
+      "section": "cn-news",
+      "rankScore": 0.583228
+    },
+    {
+      "id": "d60cdf63b69ea174",
+      "title": "（深圳APEC）AI上APEC：从共识到场景 企业出海赋能亚太数智协作生态",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733148.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-16T14:59:34.000Z",
+      "excerpt": "中新社深圳11月16日电 题：AI上APEC：从共识到场景 企业出海赋能亚太数智协作生态",
+      "section": "cn-news",
+      "rankScore": 0.464598
+    },
+    {
+      "id": "f1325121e6477e7a",
+      "title": "伦敦股市16日下跌",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTZZLVpxb1labExIOTFDSnVNdjRFVkJ6YWVnTXdudFp3UWhoN3JUSXU0STZEeUkwWXd5V1ZtLWF2clctcmVpWVZkbnMxQzZYUjcxYzBOelpQS0h4bGlLNmx6SnJSejQ0cDZoQU9vZ0FqTlFXZmVyU2d5cWxxNmhId005ejJFdk1X?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-16T19:00:17.000Z",
+      "excerpt": "伦敦股市16日下跌 新华网 欧洲股市收盘下跌 科技股受挫 Sohu 德国股市收低；截至收盘DAX 30下跌0.45% 提供者 Investing.com 英为财情 Investing.com 欧洲股市从纪录高位回落，AI前景不明令市场承压 Mezha.net 欧洲主要股指集体低开 德国DAX指数跌0.54% 证券之星",
+      "section": "cn-news",
+      "rankScore": 0.447765
+    },
+    {
+      "id": "2a2a3529bee9db0f",
+      "title": "Nvidia scandal, AI anger, Beijing’s mockery: 7 US-China relations reads",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374513/nvidia-scandal-ai-anger-beijings-mockery-7-us-china-relations-reads",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-16T17:47:31.000Z",
+      "author": "SCMP",
+      "excerpt": "We have selected seven of the most interesting and important news stories covering US-China relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing.",
+      "section": "cn-news",
+      "rankScore": 0.421644
+    },
+    {
+      "id": "845bafdef2ca306a",
+      "title": "【深圳APEC】外媒记者打卡深圳智能工厂 人形机器人现场展示“太空步”",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5anRUVllYek5kOVppdVJFZzhJSmp4MnVUX0Rmai1vQ2tFcmpxakllQjFUUF8tM0c3MGN5SFB2SWJjWWk2ZXdPdFJIaGFmZmFjR1BOLU9jYUc0cG11Y1Vpb3ZfZ01wR19vMkVXQWJHUXBCZlpJZnhRMDJoeU1fQQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-16T15:16:00.000Z",
+      "excerpt": "【深圳APEC】外媒记者打卡深圳智能工厂 人形机器人现场展示“太空步” 中国新闻网",
+      "section": "cn-news",
+      "rankScore": 0.419718
+    },
+    {
+      "id": "745ad37bab660b54",
+      "title": "華為加碼具身人工智慧 切入清掃機器人領域",
+      "url": "https://www.cna.com.tw/news/acn/202611160296.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-16T14:47:05.000Z",
+      "excerpt": "（中央社台北16日電）中國華為公司旗下品牌華為雲今天宣布，與環保清潔裝備公司福龍馬聯合研製的新一代智慧清掃機器人啟動預售。華為雲也正式發布並開源昇騰原生具身世界模型CloudRobo-WM1.2，向機器人產業鏈延伸。",
+      "section": "cn-news",
+      "rankScore": 0.407855
+    },
+    {
+      "id": "63f88b5bd7a93fc8",
+      "title": "第二十五届中国上海国际艺术节闭幕，千余场展演综合带动消费超45.4亿元",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjB4YlA3SEhyLTdtQVJTSlZEdkV2cm5wdGQ3ajhLZ2lmajE4SUNLVXl2OGItdVdYOHQyZVhsbXJqbktmWE96ZFBod0hGSktXNGhXU1pYTURONzdUcVRWUGxUenVWR1M4SHo5azdxU1FjT0lWTUdaT1RrSmQ5d21EbA?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-16T18:55:42.000Z",
+      "excerpt": "第二十五届中国上海国际艺术节闭幕，千余场展演综合带动消费超45.4亿元 央广网 《天鹅湖》“飞上”申厅舞台 第二十五届中国上海国际艺术节圆满收官 上海热线 40万张演出票带动45.4亿消费，票根经济怎么挣钱？ ThePaper.cn 二十五届蓄力，中国上海国际艺术节递出“世界一流”名片 Sohu “艺术天空”点亮不期而遇的美好 中央广播电视总台上海总站",
+      "section": "cn-news",
+      "rankScore": 0.382388
+    },
+    {
+      "id": "1de8b4e9e28420f1",
+      "title": "“天山先锋·同心铸魂”系列微视频(43)|《数智先锋 医保为民》",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wNV9ZakRpd1ZqTW5NcmNwUDI5OHpLUjZGazhyOEVVLTBsNGZydVUxNmpscVFwUEJiNzl5d0Jnb3ktNEFtLXJyLTg2OUtpd1hCMjZib09XQmZDYmhBLVNkZWlNc0dWcVVOYjNKRHFxZXpMZw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-16T19:27:45.000Z",
+      "excerpt": "“天山先锋·同心铸魂”系列微视频(43)|《数智先锋 医保为民》 央广网",
+      "section": "cn-life",
+      "rankScore": 0.588375
+    },
+    {
+      "id": "6d01c0af3c94c4e5",
+      "title": "红星照耀中国·三军会师启新程丨祖厉河畔，光影纸痕里的长征回响",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733111.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-16T13:56:53.000Z",
+      "excerpt": "西北角·中国甘肃网记者 王树铭",
+      "section": "cn-life",
+      "rankScore": 0.58089
+    },
+    {
+      "id": "3123bfbddb40d953",
+      "title": "美联储沃什称工作人员正在推演AI影响的应急方案",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96Z0Z1Y08wcFRGUXlwWjg3OGVKbmZUcE9rWTdmcjdMbGlPZVVRTzNZRzRVZVhEU21VQjc4Q20yZDhMNThyeENXc1I0cUNvVTR5SlZr?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-16T17:01:52.000Z",
+      "excerpt": "美联储沃什称工作人员正在推演AI影响的应急方案 华尔街见闻",
+      "section": "cn-life",
+      "rankScore": 0.521044
+    },
+    {
+      "id": "0f86e19f9794e9fc",
+      "title": "Bacteroides fragilis来源的神经酰胺-1-磷酸通过海马SMPD4与髓鞘破坏参与肠易激综合征抑郁共病",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PdFJxaEtLdmIwUDBqbF9CZnFEV2RKRXhhR2c3SlJicV9QUEdwQU14NklCSDk2RzgxOHlXRkdkbDNiNm01M1ZLNXZ3ODUwTG9hYVNVT1czcDJzeUd1M2VVTGh5VjlYeGhtTVpCdlFB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-16T16:52:31.000Z",
+      "excerpt": "Bacteroides fragilis来源的神经酰胺-1-磷酸通过海马SMPD4与髓鞘破坏参与肠易激综合征抑郁共病 生物通",
+      "section": "cn-life",
+      "rankScore": 0.4019
+    },
+    {
+      "id": "cca11318a261c9fe",
+      "title": "奔驰宝马们召回了一万多台车 但其实没多大事",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10U1I2ZGhzZmFlZC1JTGIxQV94SkFUVnhzWHM4Wnc5c2ItWGt2T2poMDhiRVFsZXE2VFZJRkUydE9xc0FTbklxVUY3QV9sTllTS2VJNXpJeTA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-16T16:15:00.000Z",
+      "excerpt": "奔驰宝马们召回了一万多台车 但其实没多大事 驱动之家",
+      "section": "cn-life",
+      "rankScore": 0.388433
+    },
+    {
+      "id": "6383691ca088255b",
+      "title": "“四不两直”查安全 天津经开区主要领导带队检查响螺湾高层建筑消防安全",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdXV6eUhXdWhDZEZWSk5ydEV6SWlSdW44OV9NZEZxT1QzemRxSDF0VGJXMU1TVWRkU21kOUJVa0hkamR3Vm1YYUVPTHdoQlZsb2dXMkl1U2dpRGc?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-16T13:53:00.000Z",
+      "excerpt": "“四不两直”查安全 天津经开区主要领导带队检查响螺湾高层建筑消防安全 天津经济技术开发区",
+      "section": "cn-life",
+      "rankScore": 0.385667
+    },
+    {
+      "id": "21f5251102521f78",
+      "title": "左海会客厅 | 大中贯通培养：重构生态 释放学生科创潜能",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iN1RJWHNIY3F6d0RCRDNrbGZ5ckd0VDNqYnliUmhfODRrMVhJVE5JdVM5QXJ0SFZxMy1WY1NsVnh5eFJFM2FFdU9sWG5mNDNKWnotMmgwZmFrVklNTlh2cHNhcHE?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-16T17:14:23.000Z",
+      "excerpt": "左海会客厅 | 大中贯通培养：重构生态 释放学生科创潜能 福州新闻网",
+      "section": "cn-life",
+      "rankScore": 0.351214
+    },
+    {
+      "id": "915a4e4397e8e77a",
+      "title": "研究显示全球冰冻圈正加速退化",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ISU8yaF9WZ1NqZHAzU2tmWlRVVGdzOWdQaGZfOXlwal9Mb1hRckNfckd6SzlfdHgxaW94Y1BzNjBIVko5YVFWVW5UU25wbkp3ZVdQYWZhQnpmZnJfV3JncE9HLXNLVVM5NmZIeTFhNFhmOG5YUFJMZQ?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-16T13:30:00.000Z",
+      "excerpt": "研究显示全球冰冻圈正加速退化 马来西亚东方日报",
+      "section": "cn-life",
+      "rankScore": 0.235144
+    }
+  ],
+  "warnings": [
+    "source \"jiemian\" failed: Error: HTTP 429",
+    "source \"thepaper\" failed: Error: HTTP 429"
+  ]
+}
