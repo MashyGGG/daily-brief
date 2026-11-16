@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-16",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-16T21:57:13.116Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "6712f7a76356b52a",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-16T21:57:13.116Z",
+      "score": 1057,
+      "excerpt": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "section": "tech",
+      "rankScore": 1.148571
+    },
+    {
+      "id": "5e36fa5c678f0d93",
+      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "source": "hn-front",
+      "publishedAt": "2026-11-16T18:31:30.000Z",
+      "score": 580,
+      "author": "samk3nny",
+      "excerpt": "580 points · 447 comments · https://news.ycombinator.com/item?id=50521045",
+      "section": "tech",
+      "rankScore": 0.992447
+    },
+    {
+      "id": "bae09347a3ffe732",
+      "title": "Agents are sessions, not requests: size GKE node pools for AI agent sessions",
+      "url": "https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
+      "source": "google-developers",
+      "publishedAt": "2026-11-16T21:57:13.116Z",
+      "excerpt": "AI agent sessions remain active and idle for most of the workday, making traditional one-Pod-per-session allocations inefficient for cluster resources.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "e95e2e72a3e6d44e",
+      "title": "GitHub Copilot weekly releases — November 9",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-16T21:34:53.000Z",
+      "author": "Allison",
+      "excerpt": "This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude…",
+      "section": "tech",
+      "rankScore": 0.689364
+    },
+    {
+      "id": "5042b05b06497aac",
+      "title": "Maxanti - A logic puzzle",
+      "url": "https://maxanti.com",
+      "source": "lobsters",
+      "publishedAt": "2026-11-16T21:08:15.000Z",
+      "author": "maxanti.com by bronlund",
+      "excerpt": "I vibecoded a puzzle game for a math professor friend of mine as a birthday present. He seemed to like it, so I am sharing it with all you guys as well. My friend enjoy figuring things out by himself, for him it's part of the puzzle, so the manual link provided below was not initially given to him.",
+      "section": "tech",
+      "rankScore": 0.659765
+    },
+    {
+      "id": "015b3fff3b629aea",
+      "title": "How Instacart Uses LLMs to Make People Buy More",
+      "url": "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-16T16:30:56.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we’ll look at how Instacart used LLMs to build a product search that could accurately understand a user’s shopping intention.",
+      "section": "tech",
+      "rankScore": 0.599089
+    },
+    {
+      "id": "ab85bfe94d7e76cf",
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "url": "https://latent.space/p/bfl/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-16T21:28:46.000Z",
+      "author": "swyx .ai",
+      "excerpt": "Black Forest Labs’ case for learning AGI from pixels, motion and sound.",
+      "section": "ai",
+      "rankScore": 0.755097
+    },
+    {
+      "id": "983d70d46c1c8c1b",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "openai",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "excerpt": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "section": "ai",
+      "rankScore": 0.698084
+    },
+    {
+      "id": "03fcbf7dff3209f9",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "google-ai",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "author": "Maz Khorasani",
+      "excerpt": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "section": "ai",
+      "rankScore": 0.472753
+    },
+    {
+      "id": "6baa44be70598d52",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "openai",
+      "publishedAt": "2026-11-16T09:00:00.000Z",
+      "excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "section": "ai",
+      "rankScore": 0.41237
+    },
+    {
+      "id": "f834695fe5c164e3",
+      "title": "Robert Pattinson 成为第七任 007",
+      "url": "https://www.solidot.org/story?sid=85905",
+      "source": "solidot",
+      "publishedAt": "2026-11-16T16:18:40.000Z",
+      "excerpt": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Craig 获选饰演 007 时，他当时还不是一线明星；相比其他竞争第七任 007 的演员，Robert Pattinson 已经是一位知名度极高的明星，大多数人都听说过他的名字。亚马逊显然是希望由一名有强大票房号召力的明星领衔主演其首部 007 电影。",
+      "section": "cn-tech",
+      "rankScore": 0.592663
+    },
+    {
+      "id": "9ab7dbe2b8fb3eda",
+      "title": "deepseek harness 装了 dsh-compute-use 后启动不了，重装也不行。",
+      "url": "https://www.v2ex.com/t/1257527",
+      "source": "v2ex",
+      "publishedAt": "2026-11-16T13:04:20.000Z",
+      "score": 5,
+      "author": "blackantt",
+      "excerpt": "怎么彻底卸载呢？ harness 跟 dsh-compute-use 有版本配套问题吗？ dsh-compute-use 到底该怎么安装呢？",
+      "section": "cn-tech",
+      "rankScore": 0.590621
+    },
+    {
+      "id": "b32176acedf38e0a",
+      "title": "从自动扩缩容到跨池调度：作业帮如何让 Flink 计算资源节省 30%？",
+      "url": "https://www.infoq.cn/article/UTrbuCiAG5H9TiqcwgxI?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-16T18:01:06.000Z",
+      "author": "作业帮大数据团队",
+      "section": "cn-tech",
+      "rankScore": 0.587563
+    },
+    {
+      "id": "b77dff16d716ca6c",
+      "title": "CSS终于支持random()随机函数了，等死老子了",
+      "url": "https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/",
+      "source": "zhangxinxu",
+      "publishedAt": "2026-11-16T13:16:13.000Z",
+      "author": "张 鑫旭",
+      "excerpt": "哭死我了，有生之年居然见到CSS支持random()随机函数，还是所有主流浏览器几乎同一时间支持，能在被AI淘汰之前看到心心念念的特性被支持，心满意足了。",
+      "section": "cn-tech",
+      "rankScore": 0.542285
+    },
+    {
+      "id": "c763278ed7239023",
+      "title": "失去黄仁勋后的英伟达，会沦为二流企业吗？",
+      "url": "https://www.36kr.com/p/4072379944031364",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-16T13:03:43.000Z",
+      "author": "大数据文摘",
+      "excerpt": "一桩持续发酵的丑闻，终结了黄仁勋长达33年的英伟达CEO生涯。 当地时间11月12日， 英伟达宣布，黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。公司首席财务官Colette Kress接任临时CEO。 消息披露后，英伟达股价应声下挫，盘中一度暴跌14.3%，市值一度跌破4万亿美元。 连日来，针对该起事件，美国国内多家媒体对黄仁勋展开了持续发难与围剿。《经济学人》发文称，“黄仁勋必须离开”，且“他不应该是唯一一个被撤职的人”；《大西洋月刊》发文称，“丑闻远不止黄仁勋一人所为”。这些文章话里话外都在指责黄仁勋出卖美国国家利益，并暗示与其过从甚密的特朗普需要为此承担责任。",
+      "section": "cn-tech",
+      "rankScore": 0.401356
+    }
+  ],
+  "warnings": [
+    "source \"hacker-news-sec\" failed: TypeError: fetch failed",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
