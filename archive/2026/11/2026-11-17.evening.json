@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-17",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-17T20:50:34.643Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "8b154d7ffc0102f7",
+      "title": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-17T20:50:34.643Z",
+      "score": 1175,
+      "excerpt": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "section": "tech",
+      "rankScore": 1.101818
+    },
+    {
+      "id": "ab10c6e29e670f91",
+      "title": "Apple Services Down",
+      "url": "https://developer.apple.com/system-status/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-17T17:47:14.000Z",
+      "score": 458,
+      "author": "willy_k",
+      "excerpt": "458 points · 255 comments · https://news.ycombinator.com/item?id=50535238",
+      "section": "tech",
+      "rankScore": 1.005232
+    },
+    {
+      "id": "c12dd7866ad06f46",
+      "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+      "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-17T20:20:29.000Z",
+      "author": "Allison",
+      "excerpt": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6…",
+      "section": "tech",
+      "rankScore": 0.68567
+    },
+    {
+      "id": "25cfbd6f85fc9f56",
+      "title": "sudo L7: Can Coding Agents Act Like Staff Engineers?",
+      "url": "https://surgehq.ai/blog/sudo-l7",
+      "source": "lobsters",
+      "publishedAt": "2026-11-17T20:32:07.000Z",
+      "author": "surgehq.ai via dingdong",
+      "section": "tech",
+      "rankScore": 0.673929
+    },
+    {
+      "id": "9128107ae2b6a06b",
+      "title": "Why Thinking More Can Make an LLM Dumb",
+      "url": "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-17T16:31:11.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we’ll try to understand why thinking longer can make an LLM dumber.",
+      "section": "tech",
+      "rankScore": 0.634127
+    },
+    {
+      "id": "55c2a15526daf113",
+      "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "source": "cloudflare",
+      "publishedAt": "2026-11-17T20:24:27.000Z",
+      "excerpt": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+      "section": "tech",
+      "rankScore": 0.618803
+    },
+    {
+      "id": "34365f464e885eac",
+      "title": "GPT-6.2 Astra",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6.2-astra",
+      "source": "openai",
+      "publishedAt": "2026-11-17T20:50:34.643Z",
+      "section": "ai",
+      "rankScore": 0.875
+    },
+    {
+      "id": "954e3aa0800c23c6",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-17T16:48:33.000Z",
+      "excerpt": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application.",
+      "section": "ai",
+      "rankScore": 0.701699
+    },
+    {
+      "id": "fcfaf88eb9cd6cf0",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "google-ai",
+      "publishedAt": "2026-11-17T17:00:00.000Z",
+      "author": "Josh Woodward",
+      "excerpt": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "section": "ai",
+      "rankScore": 0.590201
+    },
+    {
+      "id": "7694e7f03ace1b6f",
+      "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+      "url": "https://latent.space/p/cloudflare/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-17T15:00:00.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds.",
+      "section": "ai",
+      "rankScore": 0.586364
+    },
+    {
+      "id": "a5a3fd87c50978ba",
+      "title": "《Agent评测白皮书》系列02：商家 AI 助手的评测与优化闭环实践",
+      "url": "https://tech.meituan.com/2026/11/17/Agent-Evaluation-White-Paper-02.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-17T20:50:34.643Z",
+      "excerpt": "本文以商家 AI 助手的巡检任务为贯穿案例，介绍如何构建业务 Benchmark，通过评测器校准和错误分析，同时推动评测体系完善与 Agent 能力提升，并借助图灵支撑持续回归与模型选型，为上述方法在具体业务中的落地提供参考。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "c015736035f48fb6",
+      "title": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
+      "url": "https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-17T18:53:07.000Z",
+      "author": "AICon 全球人工智能开发与应用大会",
+      "section": "cn-tech",
+      "rankScore": 0.644066
+    },
+    {
+      "id": "5c474ead34ddd943",
+      "title": "学校禁止手机有助于提高学生成绩",
+      "url": "https://www.solidot.org/story?sid=85915",
+      "source": "solidot",
+      "publishedAt": "2026-11-17T16:24:55.000Z",
+      "excerpt": "美国学生的成绩从十多年前开始下滑，这一时间趋势与智能手机的流行基本一致，引发了对智能手机在学生成绩下滑中所扮演角色的疑问。很多美国州和学校开始执行手机禁令。最新研究显示，手机禁令略微提升了学生成绩。研究调查了 2021-2026 年间就读于 4600 所学校的 330 万名三至十年级的美国学生，使用 MAP 测试成绩，比较了实施严格手机禁令的学校与未实施禁令学校的学生的学业表现。研究发现，手机禁令学校学生至少部分考试成绩略有提高——少许提升幅度更大——且有证据表明，这种提高会随着时间的推移而增加。研究人员解释说，正如成绩的下降会逐年累积一样，进步也可能是渐进的。",
+      "section": "cn-tech",
+      "rankScore": 0.630844
+    },
+    {
+      "id": "0f1afc38939e5690",
+      "title": "到底有没有能防止 AI 失控的技术方案",
+      "url": "https://www.v2ex.com/t/1257753",
+      "source": "v2ex",
+      "publishedAt": "2026-11-17T08:54:39.000Z",
+      "score": 16,
+      "author": "yang0327519",
+      "excerpt": "目前，有一些人认为 AI 可能失控，有可能发展出自由意志，进而可能毁灭人类 那到底有没有技术方案，来将 AI 的能力固定在人类可控的范围内？ 首先，可能需要先准确的定义“失控” 或者 “可控” 一般情况下，咱们习惯先定义清楚需求，然后提出对应的解决方案 然后，还得弄清楚 AI “涌现”出来的能力，到底是怎么“涌现”的 完全弄清其原理后，才能针对性的，进行控制",
+      "section": "cn-tech",
+      "rankScore": 0.559424
+    },
+    {
+      "id": "4007c8a9cb9d435e",
+      "title": "AI巨头抢购发电机，能源正在成为AI竞争的新变量",
+      "url": "https://www.36kr.com/p/4073687278294145",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-17T13:34:14.000Z",
+      "author": "深眸财经",
+      "excerpt": "“算力的尽头是电力”，这句话正在成为大模型时代的铁律。AI巨头们已经从早期的抢GPU、抢算力，演变成了如今的抢发电机。 近期，Anthropic豪掷34亿美元买下1.7吉瓦燃气发电产能的举动，引发了科技圈的广泛关注。 这种跳过中间环节、直接掌控能源基础设施的激进选择，不仅将整个行业的电力焦虑摆上台面，也揭开了新一轮资源博弈的序幕。 顺着这笔天价交易往下看，或许能更清晰地看清当下AI产业的真实牌局。 能源不再是AI的运营成本，而是必争之地 这笔订单最早是在2024年，由OnePWR Solutions向Caterpillar预订的。",
+      "section": "cn-tech",
+      "rankScore": 0.442995
+    },
+    {
+      "id": "2a1da55e9a8098b5",
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-17T19:34:20.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone.",
+      "section": "security",
+      "rankScore": 0.663693
+    },
+    {
+      "id": "159a0959cd79598f",
+      "title": "Dorsett Controls InfoScan",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications.",
+      "section": "security",
+      "rankScore": 0.447344
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
