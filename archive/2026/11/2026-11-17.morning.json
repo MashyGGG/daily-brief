@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-17",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-17T04:26:08.716Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "4a100d73aad03828",
+      "title": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-17T04:26:08.716Z",
+      "score": 791,
+      "excerpt": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "section": "tech",
+      "rankScore": 1.148571
+    },
+    {
+      "id": "5d3431cd703e7e44",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-16T20:43:36.000Z",
+      "score": 955,
+      "author": "pcompeau",
+      "excerpt": "955 points · 148 comments · https://news.ycombinator.com/item?id=50522980",
+      "section": "tech",
+      "rankScore": 1.029455
+    },
+    {
+      "id": "17495ff87681812a",
+      "title": "Dependabot alert dismissal requests now last one year",
+      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-17T00:09:27.000Z",
+      "author": "Allison",
+      "excerpt": "If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires…",
+      "section": "tech",
+      "rankScore": 0.628696
+    },
+    {
+      "id": "bc86aae41fe4b3a5",
+      "title": "Improving the Wii U's Wii Mode",
+      "url": "https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html",
+      "source": "lobsters",
+      "publishedAt": "2026-11-16T22:39:54.000Z",
+      "author": "garyodernichts.blogspot.com via calvin",
+      "section": "tech",
+      "rankScore": 0.588725
+    },
+    {
+      "id": "84cb826b1fee1dfa",
+      "title": "Scheduling the removal of the kube-proxy IPVS backend",
+      "url": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
+      "source": "kubernetes",
+      "publishedAt": "2026-11-16T18:35:00.000Z",
+      "excerpt": "The ipvs backend for kube-proxy was an experiment in providing a service proxy implementation with better performance than the iptables backend. While it succeeded in that goal, the kernel IPVS API has turned out to be a bad match for the Kubernetes Services API, and the ipvs backend was never…",
+      "section": "tech",
+      "rankScore": 0.535793
+    },
+    {
+      "id": "519430e520330836",
+      "title": "Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J",
+      "url": "https://www.infoq.com/news/2026/11/java-news-roundup-nov09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-16T15:25:00.000Z",
+      "author": "Michael Redlich",
+      "excerpt": "This week's Java roundup for November 9th, 2026, features news highlighting: Lazy Constants proposed to target for JDK 28; TornadoVM jitLLM 3.0; point releases of Seed4J; second release candidates of Spring AI and Spring Boot; first release candidates of Hibernate ORM and Hibernate Reactive;…",
+      "section": "tech",
+      "rankScore": 0.519241
+    },
+    {
+      "id": "1b7244d918fb9c63",
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-16T23:57:26.000Z",
+      "excerpt": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select…",
+      "section": "ai",
+      "rankScore": 0.750429
+    },
+    {
+      "id": "f788c225674a20a5",
+      "title": "v2.1.326",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
+      "source": "anthropic",
+      "publishedAt": "2026-11-16T22:11:05.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Added support for turning on Code Mode while agent teams are enabled; if you already turned it on, sessions with teams on now start in Code Mode Added a startup warning when an --allowedTools , --disallowedTools or --tools value has an entry that doesn't look like a complete rule…",
+      "section": "ai",
+      "rankScore": 0.74477
+    },
+    {
+      "id": "5d9f8c2354692c20",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "openai",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "excerpt": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "section": "ai",
+      "rankScore": 0.449255
+    },
+    {
+      "id": "c0d89a14505491c0",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "openai",
+      "publishedAt": "2026-11-16T06:00:00.000Z",
+      "section": "ai",
+      "rankScore": 0.407588
+    },
+    {
+      "id": "9eae49b066586c2e",
+      "title": "美团 LongCat-2.5 正式开源：从看见，到抵达",
+      "url": "https://tech.meituan.com/2026/11/10/Meituan-LongCat-2.5-Open-Source.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-17T04:26:08.716Z",
+      "excerpt": "美团正式开源 LongCat-2.5，采用MIT协议，支持商用推理部署与二次训练，无需额外授权。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "56fc1d16337aba2f",
+      "title": "有人说 AI 是技术平权，有人说 AI 是能力放大器，还有一些老登觉得 AI 把自己替代了",
+      "url": "https://www.v2ex.com/t/1257592",
+      "source": "v2ex",
+      "publishedAt": "2026-11-17T01:38:29.000Z",
+      "score": 29,
+      "author": "liuluxu1989",
+      "excerpt": "有人说 AI 是技术平权，有人说 AI 是能力放大器，还有一些老登觉得 AI 把自己替代了。 那么，你觉得呢？",
+      "section": "cn-tech",
+      "rankScore": 0.831085
+    },
+    {
+      "id": "d982ea7b9389560a",
+      "title": "AI漫剧下一战：从抢流量到抢付费",
+      "url": "https://www.36kr.com/p/4072436842419328",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-17T04:02:31.000Z",
+      "author": "骨朵网络影视",
+      "excerpt": "AI漫剧的钱，越来越不好赚了。 前两年，行业还在讨论一部漫剧几天破亿、一个团队一个月能做多少部。到了今年，热闹依旧，行业万播收益却从此前的几十元甚至上百元，落到了个位数、十元上下。作品上线了，播放量有了，钱却没跟着来。 这倒不难理解。AI把制作门槛打了下来，也把更多人送进了赛道。2026年上半年，仅抖音端新增AI短剧及漫剧就达到22.19万部，累计播放量超过5000亿次。内容供给一下子多了起来，大家都在抢同一批用户，作品之间的竞争也从“谁能做出来”，变成了“谁能被看见、谁能让人看完、谁能让人掏钱”。 于是，付费重新成了行业绕不开的话题。",
+      "section": "cn-tech",
+      "rankScore": 0.624093
+    },
+    {
+      "id": "6b5bb129d2ce298c",
+      "title": "六年 Rust 开发经历，他改变了自己的思考方式",
+      "url": "https://www.oschina.net/news/503613/how-rust-changed-me",
+      "source": "oschina",
+      "publishedAt": "2026-11-17T04:00:13.000Z",
+      "excerpt": "Martijn Faassen 写 Rust 六年多，其中四年多是职业开发。他入门前就清楚这语言会折腾自己，也正因如此才想学。现在他给出的结论是：确实被改变了。 他不假装这些收获是 Rust 独有的。sum type、类型驱动、所有权，别的语言里也能碰到，有些他早就接触过。Rust 的作用是把这些东西逼到你眼前，让你没法绕过去。 最能说明...",
+      "section": "cn-tech",
+      "rankScore": 0.623518
+    },
+    {
+      "id": "56d453b5eb355f0f",
+      "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
+      "url": "https://sspai.com/post/118442",
+      "source": "sspai",
+      "publishedAt": "2026-11-17T02:59:51.000Z",
+      "author": "AstrianZ",
+      "excerpt": "当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。",
+      "section": "cn-tech",
+      "rankScore": 0.540823
+    },
+    {
+      "id": "db220e41f0aa4f03",
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity.",
+      "section": "security",
+      "rankScore": 0.459404
+    },
+    {
+      "id": "ea3bc0735dfb3923",
+      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-16T13:27:20.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job.",
+      "section": "security",
+      "rankScore": 0.45033
+    }
+  ],
+  "warnings": [
+    "source \"juejin\" failed: Error: HTTP 429",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
