@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-17",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-17T19:47:24.734Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "d4069ee2dd80a357",
+      "title": "台灣高雄市選戰：「知識藍」柯志恩對決「新潮流」賴瑞隆，國民黨有可能複製「韓流」嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-17T16:25:49.000Z",
+      "excerpt": "柯志恩以「知識藍」的姿態拉攏中間選民，支持度大幅追貼深耕高雄20年的賴瑞隆，選情咬緊。",
+      "section": "news",
+      "rankScore": 0.715941
+    },
+    {
+      "id": "d09f523f93187425",
+      "title": "黄仁勋首次公开表示准备好重返英伟达 相关调查也不断深入",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261117-%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E8%A1%A8%E7%A4%BA%E5%87%86%E5%A4%87%E5%A5%BD%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE-%E7%9B%B8%E5%85%B3%E8%B0%83%E6%9F%A5%E4%B9%9F%E4%B8%8D%E6%96%AD%E6%B7%B1%E5%85%A5",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-17T19:27:24.000Z",
+      "author": "肖曼",
+      "excerpt": "《金融时报》周日曾经率先报道称，黄仁勋正与盟友讨论可能的复出计划。本周二，尽管英伟达董事会已表示无意在创始人之一的黄仁勋因涉嫌间谍丑闻被罢免后重新任命他，但黄仁勋通过社交媒体X表示：他已准备好重返英伟达担任首席执行官。不过与此同时，对英伟达公司出口产品的调查也已经展开。",
+      "section": "news",
+      "rankScore": 0.689737
+    },
+    {
+      "id": "071c2fef140214fe",
+      "title": "Russian military plane crashes killing all 19 on board",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-17T19:33:55.000Z",
+      "excerpt": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+      "section": "news",
+      "rankScore": 0.623771
+    },
+    {
+      "id": "d128fa9ce676e783",
+      "title": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
+      "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-17T19:30:32.000Z",
+      "author": "Kiran Stacey and Richard Partington",
+      "excerpt": "Youth unemployment review risks clash with unions and Labour left over workers’ rights and minimum wage Neet ideas: what’s in Alan Milburn’s youth unemployment report? Who are the Neets?",
+      "section": "news",
+      "rankScore": 0.553075
+    },
+    {
+      "id": "f67e9fca0b36ba4b",
+      "title": "A.I.’s People-Pleasing Problem",
+      "url": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-17T19:16:41.000Z",
+      "author": "Jonathan Moens",
+      "excerpt": "A new report found that popular chatbots often abandon scientific facts to affirm users’ beliefs.",
+      "section": "news",
+      "rankScore": 0.547393
+    },
+    {
+      "id": "6ea2768ba559cfe7",
+      "title": "More than 100,000 take part in France pay protests",
+      "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-17T19:09:49.000Z",
+      "excerpt": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
+      "section": "news",
+      "rankScore": 0.544576
+    },
+    {
+      "id": "a885949660229a47",
+      "title": "Ukraine Talks Run Up Against Deep Enmity Between Russia and Europe",
+      "url": "https://www.nytimes.com/2026/11/17/us/politics/ukraine-russia-europe-trump.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-17T19:19:07.000Z",
+      "author": "Anton Troianovski",
+      "excerpt": "President Trump’s envoys are trying to overcome Russian hostility and European suspicion to craft a postwar security agreement in Europe that could end the war in Ukraine.",
+      "section": "news",
+      "rankScore": 0.479843
+    },
+    {
+      "id": "19a091e74da6eda2",
+      "title": "UK government backs call for separate youth welfare system",
+      "url": "https://www.ft.com/content/05aee3d8-9231-425a-b6d7-1849fcb99cad?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-17T18:49:10.000Z",
+      "excerpt": "Author of official review into youth employment says ministers should consider extending proposals to over-24s",
+      "section": "news",
+      "rankScore": 0.469091
+    },
+    {
+      "id": "8ca0c5de6af235bc",
+      "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+      "source": "npr-news",
+      "publishedAt": "2026-11-17T18:34:31.000Z",
+      "author": "The Associated Press",
+      "excerpt": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month lull in fighting.",
+      "section": "news",
+      "rankScore": 0.463832
+    },
+    {
+      "id": "0b19b409c9cccecb",
+      "title": "联合国报告：干扰内分泌化学物质可能在出生前影响人体健康",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143213",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "excerpt": "联合国环境规划署和世界卫生组织周二发布的一份新报告指出，人体接触内分泌干扰化学物质的情况可能始于出生前。这些化学物质对人类健康和环境健康的影响范围比此前认识的更为广泛。",
+      "section": "news",
+      "rankScore": 0.414271
+    },
+    {
+      "id": "23121fdbe25908da",
+      "title": "特朗普总统：美国正在“调查”伊朗正制定计划在华盛顿引爆“脏弹”的报道",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV3Q0OTZfYnhHVTJTVjhhV0N6T2R6bXJFUW1ya1pENlBobWFVS0U3dTBLSTdfeGk3OFdPVFlSd0NQLTJUMERyOHhtMkx0dEgzWkNvdzV4OTBERU5uUXcwc2JkdEdhN0ktN19rcHpyaXpBX0tzV3VaSGJnWjdEUkpHNlQzWkFQOXNNbHR1cGdCUXZiMzNMVjF5clFhTTQwclFsSnE2N1JscGMwbWxON3N2WGQwQzFXY1hob0RpRjBQaUJqZU1wYlBpTFdleHg5aE5UNEVaNlp6S1FZQ3lfdFBmR0NhX1pwSUVrUlHSAewBQVVfeXFMUHJZMzFQRXd1QWFrQjJlcU4tcmlITERxU0pRYlZfOTZiVC0wazQ0RlRoTUYyelA5dlZjOEV2TTlIRFU1bnRYYUhPLVg0ZWNnRzNUNDNjQTQ0cmNFLWNPRVJQdEx6YUQxTFRIQ2JsbXl0cEFmd1FGeXF1TEhCQlBMQUdOUjFDY2JvMHpKak90cGVqTGVXWlJ1WTg5VmVqWXdaTndxQVBkaFNiTm13cDVDbmpUQ1Q5X1pVRTltallWZmZfYVExVHFFa0xxNXVrWlFmTFk3QnFJUUtWTjZtU1NzcW9DOG8yaV9CMXpjZkc?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-17T17:34:04.000Z",
+      "excerpt": "特朗普总统：美国正在“调查”伊朗正制定计划在华盛顿引爆“脏弹”的报道 美国之音 胡锡进：伊朗要往华盛顿扔“脏弹”，更像是“美国准备收手了”的叙事 凤凰网 美官员称伊朗策划在华盛顿引爆“脏弹”，伊朗驳斥：虚假指控 ThePaper.cn 美军三航母集结中东，美媒又曝伊朗或用“脏弹”袭击华盛顿 观察者网 以色列爆料“伊朗近期可能袭击特朗普”，特朗普减少公开活动，贝森特、鲁比奥等高官住进“安全屋” 中国新闻网",
+      "section": "news",
+      "rankScore": 0.378971
+    },
+    {
+      "id": "621aab823c0d443b",
+      "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168823",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "excerpt": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
+      "section": "news",
+      "rankScore": 0.276181
+    },
+    {
+      "id": "3fc802635a0b5524",
+      "title": "聚焦APEC｜俄罗斯总统普京抵达深圳 蔡奇前往机场迎接",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733815.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-17T18:13:56.000Z",
+      "excerpt": "新华社深圳11月18日电(记者赵瀚泽、周颖)俄罗斯总统普京11月18日凌晨乘专机抵达深圳，出席亚太经合组织第三十三次领导人非正式会议。中共中央政治局常委、中央书记处书记蔡奇前往机场迎接。(完）",
+      "section": "cn-news",
+      "rankScore": 0.717268
+    },
+    {
+      "id": "6d6ac9a00a6ee699",
+      "title": "王毅会见加拿大外长阿南德",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733794.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-17T15:47:26.000Z",
+      "excerpt": "2026年11月17日，中共中央政治局委员、外交部长王毅在深圳会见加拿大外长阿南德。",
+      "section": "cn-news",
+      "rankScore": 0.692321
+    },
+    {
+      "id": "427f95a15a015c94",
+      "title": "总书记广东中山行︱记者手记：大潮起珠江，大道向未来",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzBSaV9nMjlTNURvWG5VYVFhN1kwTExPZktWN1lmQjNkbTFmYjR3VDZZNVJUZnAtT3hoU0NOTUpNLWQ0ZXI5VG44djJkMlJhUmNqYUgtTm9Yc1NZSkV6SnZTUzZrZjVRaTc0OC1vVEwwYzBkdGlmM2c4ejRSc2dqbGdsUGNnZkhWRTd5M3VnbTBNa09CVlEtMTFn?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-17T19:16:22.000Z",
+      "excerpt": "总书记广东中山行︱记者手记：大潮起珠江，大道向未来 新华网客户端",
+      "section": "cn-news",
+      "rankScore": 0.547263
+    },
+    {
+      "id": "7601f7200e85a02e",
+      "title": "（深圳APEC）1500把椅子的“亚太时刻”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733795.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-17T15:56:32.000Z",
+      "excerpt": "中新社深圳11月17日电 (记者 刘文文 尹倩芸)17日，在深圳前海国际会议中心的大会堂，约1500把椅子整齐排列，从台前一直延伸至后区，会场内座无虚席。",
+      "section": "cn-news",
+      "rankScore": 0.523441
+    },
+    {
+      "id": "e57a41b9da1cbb1f",
+      "title": "可灵AI全新一代图像创作模型Kling Image 4.0正式上线",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fTEdGREpYWmVoeU5SRDQ1anpISkFyb0RpelgzeXJja3p4Nld3YkdoSkhCcTlmVTdyWjQtbnZ4cDNoejFVTVZXWlFmMFJnVDBVZWtDc2llakk?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-17T15:40:43.000Z",
+      "excerpt": "可灵AI全新一代图像创作模型Kling Image 4.0正式上线 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.516141
+    },
+    {
+      "id": "1bbafcf9248a9384",
+      "title": "APEC中国时间｜俄罗斯加速“向东看”，“参与APEC是俄长期外交优先事项”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FMC1tZ3EtNzh0NTUzWFVFUzhqZmI2dDlYLUE2STFZVkVtSWJYdnptM0pFYzljdE9EQ2NuQV9EcGJsY2hzMDVNV0hHRmM5ZU9raWtzcXBSNkEyVEZqUDg0bA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-17T14:07:23.000Z",
+      "excerpt": "APEC中国时间｜俄罗斯加速“向东看”，“参与APEC是俄长期外交优先事项”",
+      "section": "cn-news",
+      "rankScore": 0.473064
+    },
+    {
+      "id": "91ade8455690c1c2",
+      "title": "黄仁勋辞职后首次发声“救市”？标普纳指盘中深V收窄跌幅，报道后称英伟达董事会仍未考虑他复职",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fMFc3RVlhZHlqeDZrQmc2SmdoVndsbktsQjdyb0p6dW9RbHBzeDBJbi1rV0hCdlVDdkhSeW9JUnU3WVNDSWtrMy1KY2FxSWVib0JB?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-17T18:58:04.000Z",
+      "excerpt": "黄仁勋辞职后首次发声“救市”？标普纳指盘中深V收窄跌幅，报道后称英伟达董事会仍未考虑他复职 华尔街见闻 “让黄仁勋回归”运动：辉达驳斥、特朗普支持恢复其CEO职位 BBC 黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO 新浪网 聚焦黄仁勋重返英伟达 美国政界、科技界和英伟达员工的不同声音 美国之音 OpenAI奥尔特曼首谈黄仁勋离职：他一直是我心中的英雄 但英雄也有缺陷 驱动之家",
+      "section": "cn-news",
+      "rankScore": 0.472286
+    },
+    {
+      "id": "dbef05e8a92a6769",
+      "title": "美中俄元首歷史會晤在深圳 市民感到驕傲",
+      "url": "https://www.cna.com.tw/news/acn/202611170329.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-17T14:07:39.000Z",
+      "excerpt": "（中央社記者李雅雯、張淑伶深圳17日電）APEC深圳領袖週期間，大國元首場邊會晤成看點，美中俄元首會晤更被形容為「歷史性一刻」。記者走訪深圳街頭，深圳市民談起城市成為國際外交舞台語氣多了份驕傲。",
+      "section": "cn-news",
+      "rankScore": 0.42061
+    },
+    {
+      "id": "d19a6484088be873",
+      "title": "Trump eyes China after brief Manila stop, seeking chemistry with Xi amid fresh AI strains",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374795/trump-eyes-china-after-brief-manila-stop-seeking-chemistry-xi-amid-fresh-ai-strains",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-17T15:39:39.000Z",
+      "author": "Khushboo Razdan",
+      "excerpt": "Barely hours after arriving in Manila on Tuesday, US President Donald Trump was already looking ahead to his meeting with Chinese President Xi Jinping in Shenzhen. “We have some very important things to discuss,” he said.",
+      "section": "cn-news",
+      "rankScore": 0.40106
+    },
+    {
+      "id": "6dee0e362ae97a6e",
+      "title": "全美航班停飞后续！FAA紧急暂停新路由器安装 嫌疑设备已送实验室“解剖”",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zbnNLamYwRjJJV3FDMVhnWkJpaXlPS3ZsdWxQLW9kRFNCNUR4dHg4Z09Cb1o5Ql80OGdNSnRHUDhMLS1MQ2taN0RjN2F0T1l2ZmgtVW52TEo?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-17T17:20:00.000Z",
+      "excerpt": "全美航班停飞后续！FAA紧急暂停新路由器安装 嫌疑设备已送实验室“解剖” 驱动之家 美国全国停飞两天后仍有数千航班延误或取消，原因为铜线升级光纤工程 BBC 美交通部长被要求辞职 新浪财经 几天内连环故障，美国民众焦虑“什么都在坏” 凤凰网 美国航班停飞事件影响持续 超万架次航班延误或取消 ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.374642
+    },
+    {
+      "id": "d766739b0698f868",
+      "title": "云南侦办首例替来他明电子烟案",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733771.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-17T13:51:29.000Z",
+      "excerpt": "中新网昆明11月17日电(邹聪 褚晗)近日，云南省昆明市盘龙区烟草专卖局联合公安机关，依法侦办云南首例含替来他明“上头电子烟”案。",
+      "section": "cn-life",
+      "rankScore": 0.620967
+    },
+    {
+      "id": "731f64fa843db63f",
+      "title": "1.4万片药牵出骗保案！抚州东乡区出招守住群众“看病钱”",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhVEd1aGs5ZldReHM2dUJTN3U5X0pyRk1tMm9mbFNNZG9WQXNHeHpGd0RvdFJNdV90R0U4cjdZa09BVmpzTHZZQW13?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-17T19:24:06.000Z",
+      "excerpt": "1.4万片药牵出骗保案！抚州东乡区出招守住群众“看病钱” 凤凰网",
+      "section": "cn-life",
+      "rankScore": 0.619241
+    },
+    {
+      "id": "d4c1e1e64636a14d",
+      "title": "中华慈善论坛在南宁举行 多个慈善项目在广西启动试点",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733760.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-17T13:37:31.000Z",
+      "excerpt": "中新网南宁11月17日电(韦佳秀 张广权)中华慈善论坛17日在广西南宁举行。论坛以“促进和规范慈善事业发展，助力全体人民共同富裕”为主题，由中华慈善总会、广西慈善联合总会主办。",
+      "section": "cn-life",
+      "rankScore": 0.612372
+    },
+    {
+      "id": "4e98e0ec7390fbf1",
+      "title": "@所有家长 这起案例，监护人赔偿204万元！ - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVkptWC1IMXZ3aElNbVFEZ0hPR0M1Rmk4aUEwRVZOVUppaWxtS0tOaUpLQkFmTjdQQVd1ZjRqN29TWU82NUxZVjMwaDFkSzk0NzQwT1ZHMUJ1S2I3S3k1ZVM0S3A3a0VTS25vTWZaWFozc244S3ZkeVJsa2l4VS1GaGdXV0xBWUxjeHZmZ0FySE1GZTh3RHVVVGhsZkVtNVNaSjBveEZuTkhVZ25UNzdFVEJNM3EwVzR6ZENRaFkyWjVkdzlsS191VjgyWnFTeTZXQ0VsZjJTdXY?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-17T17:39:07.000Z",
+      "excerpt": "@所有家长 这起案例，监护人赔偿204万元！ 新浪财经_金融信息服务商",
+      "section": "cn-life",
+      "rankScore": 0.570787
+    },
+    {
+      "id": "5761182d687713f1",
+      "title": "外交部长活动_中华人民共和国外交部",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LSTUtTml4TGhOOVcxMFZZNno1Qm9UX1lJalFZTTV6d2w2U21HLWI2R0VwaUxIV2JIX2F2MG1vYkRrd0dTaEJxcDNxQkYwX0VlMmgxdmVHVDNKWVBFVlhIMmppUHgxTjNJV2FSZlVn?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-17T14:10:00.000Z",
+      "excerpt": "外交部长活动_中华人民共和国外交部 中华人民共和国外交部",
+      "section": "cn-life",
+      "rankScore": 0.421574
+    },
+    {
+      "id": "bf2ee8bb04894b17",
+      "title": "髋部手术后认知功能完好人群中谵妄的危险因素及其对死亡率的影响",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Nb3FMenpSU0RldHJEOERycWJFY2xHMW4xWUpWbW9OUC1yM09lT0ZGdXJkV2dqUWJpaXJFYW9kcmFna3JGZ05XTzVldTltRXQyQjNJdi03NGFGWVlaNVV6NTVZdG0ydWF2Ql96ODF3?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-17T13:28:39.000Z",
+      "excerpt": "髋部手术后认知功能完好人群中谵妄的危险因素及其对死亡率的影响 生物通",
+      "section": "cn-life",
+      "rankScore": 0.354034
+    },
+    {
+      "id": "b40382e0951e0dfa",
+      "title": "网通社汽车-更新-更全-更权威的全球汽车资讯",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XMXlndFlfQVQyOVFmNHRiWTdWOGxrSnk3XzNmYnQxVHBYZzZ5bktpQ2FQd2N4ejhDeldRNnQwT1NoRUJiQXlCbDRFN2FSOV9BQU1FMlVHd0xRZw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-17T13:21:07.000Z",
+      "excerpt": "网通社汽车-更新-更全-更权威的全球汽车资讯 网通社",
+      "section": "cn-life",
+      "rankScore": 0.35133
+    },
+    {
+      "id": "a1b380a1a99a69ec",
+      "title": "中俄基础教育交流活动暨“千校携手”结对仪式在我校举行",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51UTN3RVVoOW02LW84V2l4c2pHRVRIaklWQ1huTEhhM2RpSmdwUEg4SjhQejNZNEJ1WmE2X0MxUzFEWllEUzdzYWFyMjJjRmNBekVNQUVtdVBlUQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-17T15:39:26.000Z",
+      "excerpt": "中俄基础教育交流活动暨“千校携手”结对仪式在我校举行 南京信息工程大学",
+      "section": "cn-life",
+      "rankScore": 0.343699
+    }
+  ],
+  "warnings": []
+}
