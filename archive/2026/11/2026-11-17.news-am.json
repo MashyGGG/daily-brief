@@ -1,0 +1,324 @@
+{
+  "date": "2026-11-17",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-17T04:45:11.234Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "00868aeafc192c1b",
+      "title": "羅伯·派汀森：《暮光之城》男主角如何成為007",
+      "url": "https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-17T02:38:11.000Z",
+      "excerpt": "羅伯·派汀森（Robert Pattinson）早已在《暮光之城》系列、《蝙蝠俠》和《奧德賽》等電影，奠定了自己作為男主角、動作明星及演員的地位。如今，他接下詹姆士·龐德（James Bond；占士邦）一角，將使他的知名度更上一層樓。",
+      "section": "news",
+      "rankScore": 0.797665
+    },
+    {
+      "id": "165ae830b4004425",
+      "title": "卡尼再次访华，中国会是加拿大摆脱美国依赖的答案吗？",
+      "url": "https://cn.nytimes.com/world/20261117/carney-china-xi-trump-putin-trade/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-17T04:03:43.000Z",
+      "author": "IAN AUSTEN",
+      "excerpt": "卡尼上任以来一直致力于推动加拿大经济和政治多元化，减少对美国的依赖。专家表示，比起欧洲，亚洲将提供更大的经济机遇。卡尼本周将在深圳再次与习近平会晤。 Ian Austen/The New York Times 加拿大总理马克·卡尼周六在马尼拉出席新闻发布会，他此行是为参加东南亚国家联盟峰会。",
+      "section": "news",
+      "rankScore": 0.757328
+    },
+    {
+      "id": "48aea44d58c913d6",
+      "title": "中国是如何迫使知名品牌做出让步的？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261117-%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%AB%E4%BD%BF%E7%9F%A5%E5%90%8D%E5%93%81%E7%89%8C%E5%81%9A%E5%87%BA%E8%AE%A9%E6%AD%A5%E7%9A%84",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-17T04:08:04.000Z",
+      "author": "珍妮特",
+      "excerpt": "尽管中国拥抱了资本主义和西方品牌，但它仍然牢牢掌控着自身的国家叙事。挑战国家的权威和历史是绝对不允许的；这是进入国内市场必须付出的代价。最近的一个例子是：法国天才足球明星基利安·姆巴佩开玩笑地使用了“中国独裁者”一词的视频。他的言论引发的连锁反应是毁灭性的。从此也看到中国可迫使世界知名品牌对其政权做出让步。",
+      "section": "news",
+      "rankScore": 0.689689
+    },
+    {
+      "id": "1576e70bf8260c3a",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-17T02:37:53.000Z",
+      "excerpt": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "section": "news",
+      "rankScore": 0.598174
+    },
+    {
+      "id": "c196e00239b0de20",
+      "title": "RBA board members who voted against rate hike warned of ‘materially sharper downturn’",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/17/myefo-mid-year-budget-update-australia-treasurer-jim-chalmers",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-17T04:05:04.000Z",
+      "author": "Patrick Commins and Luca Ittimani",
+      "excerpt": "Minutes released from latest Reserve Bank meeting as Jim Chalmers says Myefo ‘will cut enough, but not too much’ Reserve Bank board members who voted against this month’s official interest rate hike were worried about a “materially sharper downturn” in the economy, arguing the RBA should wait to…",
+      "section": "news",
+      "rankScore": 0.551084
+    },
+    {
+      "id": "88efc1c7573d877f",
+      "title": "Gunfire erupts in occupied West Bank settler attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-17T04:00:08.000Z",
+      "excerpt": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
+      "section": "news",
+      "rankScore": 0.549988
+    },
+    {
+      "id": "a0941ad520d86dd8",
+      "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-17T01:09:52.000Z",
+      "author": "Motoko Rich",
+      "excerpt": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
+      "section": "news",
+      "rankScore": 0.512151
+    },
+    {
+      "id": "79bd54127932a36f",
+      "title": "The Enraging Hypocrisy at the Heart of the Nvidia Scandal",
+      "url": "https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-17T04:22:38.000Z",
+      "author": "Michelle Goldberg",
+      "excerpt": "It started with sex, but it’s really about Trump’s utterly careless attitude toward U.S. security.",
+      "section": "news",
+      "rankScore": 0.485615
+    },
+    {
+      "id": "52d94f1ae8b8f80f",
+      "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
+      "url": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-17T02:29:11.000Z",
+      "excerpt": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure",
+      "section": "news",
+      "rankScore": 0.463555
+    },
+    {
+      "id": "2dcb97d3b31ac8a5",
+      "title": "联合国强调欧洲卢旺达遣返中心计划须遵守国际法",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143212",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "excerpt": "针对欧洲五国拟在卢旺达设立“遣返中心”的安排，联合国难民署和国际移民组织周一分别发表声明，强调相关安排必须遵守国际法。",
+      "section": "news",
+      "rankScore": 0.378703
+    },
+    {
+      "id": "bc95c2774b630170",
+      "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+      "source": "npr-news",
+      "publishedAt": "2026-11-16T18:04:50.000Z",
+      "author": "Imogen Foulkes",
+      "excerpt": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
+      "section": "news",
+      "rankScore": 0.365487
+    },
+    {
+      "id": "2f48f0238d56db51",
+      "title": "Lebanon leading the way in mental health support",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "excerpt": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend, where efforts to address the psychological toll of years of conflict and instability offer valuable lessons for other crisis-affected countries.",
+      "section": "news",
+      "rankScore": 0.252469
+    },
+    {
+      "id": "5241ea44b7cc10ce",
+      "title": "商务部等9部门深入推进再生资源回收体系建设",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733330.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-17T04:36:37.000Z",
+      "excerpt": "中新网11月17日电 据商务部网站消息，商务部等9部门发布《关于深入推进再生资源回收体系建设 促进回收行业高质量发展的意见》。",
+      "section": "cn-news",
+      "rankScore": 0.837143
+    },
+    {
+      "id": "88603017a6c48ef4",
+      "title": "习近平对人民法院工作作出重要指示",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733327.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-17T04:12:42.000Z",
+      "excerpt": "习近平对人民法院工作作出重要指示强调",
+      "section": "cn-news",
+      "rankScore": 0.760073
+    },
+    {
+      "id": "ad5b09ff84e0a0a5",
+      "title": "APEC让数字红利惠及亚太",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733326.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-17T04:36:37.000Z",
+      "excerpt": "凌晨四点半，印度尼西亚泗水晨光熹微。24小时营业的便民小店内，店主莉娜·萨丽正低头翻看手机上的线上订单。“这个时间网络一定不能卡，很多客人一早就下单，如果支付失败，一天的生意都会受影响。”莉娜感慨道。",
+      "section": "cn-news",
+      "rankScore": 0.627857
+    },
+    {
+      "id": "b081423ffa9af3d2",
+      "title": "上海社保优选项目私募投资基金登记成立，出资额200亿",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAydS13WkVRQ2ZMY3hSdFo0ank3cUhqMmdZNTh5OFNtU3JvOU03cHpQWm1IRWdlS0R5c2s3THBXMVhfOWtPR295cFBrWXo4dVIxUFZUSVJGVlQ?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-17T04:14:47.000Z",
+      "excerpt": "上海社保优选项目私募投资基金登记成立，出资额200亿 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.622399
+    },
+    {
+      "id": "88cabfb73a8329a8",
+      "title": "最凶险的急症——脊髓压迫",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBVm9GaTFTdUFDRWtPMVBXbXNFZ0JOLWpENEJPTnE5Q0MzRHY1cURHTlRNOExQaW9XSXh1bmhjdUxfelFLYnVYT3JCV3hnUWhROHU5SllDQnlmZmVmc2lQRw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-17T03:19:14.000Z",
+      "excerpt": "最凶险的急症——脊髓压迫",
+      "section": "cn-news",
+      "rankScore": 0.608512
+    },
+    {
+      "id": "1ec9eb62c7091c5b",
+      "title": "美中俄領袖歷史性峰會 學者：要關注後續發展",
+      "url": "https://www.cna.com.tw/news/acn/202611170067.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-17T03:31:02.000Z",
+      "excerpt": "（中央社記者張淑伶深圳17日電）美中俄三國領導人19日將在深圳進行首度會晤。中國學者吳心伯表示，應把這次會晤視為一個重要政治進程的開始，不能僅根據一次會晤的成果就做出結論，需要關注今後的發展。",
+      "section": "cn-news",
+      "rankScore": 0.543521
+    },
+    {
+      "id": "b9e349095c75ac0c",
+      "title": "好评中国丨小巷中见大国善治之道",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0WFlESy12WlVRd05QX055bkoycThXclVSQ0NYQ0d5NnFWc1VnSnZ4M3poZTRRaXh3UDU3aGR4a0RoR1p2QzE2eFduR1FDOXliemNhR3diUGJQN2FDSi1fc0xZdEtEeEtscjJhZQ?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-17T03:07:00.000Z",
+      "excerpt": "好评中国丨小巷中见大国善治之道 中安在线",
+      "section": "cn-news",
+      "rankScore": 0.538181
+    },
+    {
+      "id": "86922406c3344563",
+      "title": "11月17日集合竞价：华东重机3连板 摩恩电气首板",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hT2UzdGp0X0JuU1NreEhPbWxnRmdpWGV0WlNabjhMOF9IN1JMQ3J5YlN2NExqMXBwSDZEY3Nhb1BEbTlqNkJpYzRrdGdUSnA4RGdYOWN2NjZudzNGMi1tclF1TjBpdw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-17T04:08:01.000Z",
+      "excerpt": "11月17日集合竞价：华东重机3连板 摩恩电气首板 东方财富 快讯：三大指数集体拉升 创业板指、深证成指双双翻红 新浪财经_金融信息服务商 直线拉升，300786，20%涨停 凤凰网财经 突然，集体拉升！“顶格超配”，大摩看多！ 金融界 三大指数低开高走，科创50指数半日上涨3.31% Sohu",
+      "section": "cn-news",
+      "rankScore": 0.482772
+    },
+    {
+      "id": "00d610715dd26f95",
+      "title": "China team produces endless energy from lotus stems with water evaporation power",
+      "url": "https://www.scmp.com/news/china/science/article/3374569/china-team-produces-endless-energy-lotus-stems-water-evaporation-power",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-17T03:00:09.000Z",
+      "author": "Victoria Bela",
+      "excerpt": "Chinese scientists have harnessed the process of water evaporation to generate continuous electricity day and night using a unique device made from lotus plants, according to a paper published in the peer-reviewed journal Device.",
+      "section": "cn-news",
+      "rankScore": 0.469576
+    },
+    {
+      "id": "079895db027f01ec",
+      "title": "柬埔寨千年古迹西梅奔寺重新向游客开放",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MSXFqSE55clNPYXpxNDV0aVRlUHNpSExQUm1WcGpQdEs2MGswOWJldmFkbU13RjF0YXBmLWFHVWNoRFl0SjJVYnV2TVFneVNqOS01cGZkemp1Z0ZyeThlRlpFd05yWGJGZS02Q1YxOHBYUWFoOGc?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-17T03:13:37.000Z",
+      "excerpt": "柬埔寨千年古迹西梅奔寺重新向游客开放 中国藏族网通 第20届法语国家组织峰会在柬埔寨举办(2) 凤凰网 柬方当着马克龙的面控诉泰国，泰方反驳：法国态度和中国一样 观察者网 第20届法语国家组织峰会在柬埔寨举办 上海热线 越共中央总书记、国家主席苏林会见加拿大、卢旺达、亚美尼亚和安道尔等国领导 cn.qdnd.vn",
+      "section": "cn-news",
+      "rankScore": 0.404738
+    },
+    {
+      "id": "7ac91ca42f2479e3",
+      "title": "尺素跨大洋：百余封书信里藏着柏大卫与湟源的半世烟火",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733312.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-17T04:14:44.000Z",
+      "excerpt": "中新网西宁11月17日电 题：尺素跨大洋：百余封书信里藏着柏大卫与湟源的半世烟火",
+      "section": "cn-life",
+      "rankScore": 0.829849
+    },
+    {
+      "id": "85265535973b5877",
+      "title": "戈壁炼厂里的“兰师傅”：从手绘图纸读懂高原炼化装置",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733311.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-17T04:14:14.000Z",
+      "excerpt": "中新网青海格尔木11月17日电 题：戈壁炼厂里的“兰师傅”：从手绘图纸读懂高原炼化装置",
+      "section": "cn-life",
+      "rankScore": 0.829682
+    },
+    {
+      "id": "9c2841cb7dbfe35a",
+      "title": "399元羽绒服被抢空引发热议 平价羽绒服为何突然变得“真香”",
+      "url": "https://www.chinanews.com.cn/life/2026/11-17/10733296.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-17T03:02:16.000Z",
+      "excerpt": "山姆、北大399元羽绒服被抢空引发热议",
+      "section": "cn-life",
+      "rankScore": 0.671411
+    },
+    {
+      "id": "5b839dfc8d68dbcb",
+      "title": "澳门特区行政长官岑浩辉发表2027年施政报告 聚焦民生与多元发展",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CMjBZMFp5c2tadDJ4ajgyQnJ6WGhPVXl5WmtMdUpVb3VTQWVQYk95TGRtdmtPeTF3TVBRcWx5SVNYZ0VmRmVRZnhHQ2N3M0pwa1ppN2ZVb291bFp3SzdzRmVsRi1qMTUtUmFTc0tLc19jN0Q0bXo5QUx4SQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-17T04:28:00.000Z",
+      "excerpt": "澳门特区行政长官岑浩辉发表2027年施政报告 聚焦民生与多元发展 中国新闻网",
+      "section": "cn-life",
+      "rankScore": 0.625703
+    },
+    {
+      "id": "053a84157a659d70",
+      "title": "从风险排查到实操演练 甘肃路桥圆陇公司把消防安全落到一线",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1URnpqNE9mNWFsSnd3WTZtOVVRbFhDTmpYbmM2c3VPWnRDRjZfUXhWblNBUU5aNEdFQkZyOTV0Y2c5Z2YwX1Vfang4OXpXMnZva3NrUF9BS2RuaWdQNXBpTjluTVhDakNjdzFTbHZ1WHcxMGM?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-17T04:08:00.000Z",
+      "excerpt": "从风险排查到实操演练 甘肃路桥圆陇公司把消防安全落到一线 每日甘肃网",
+      "section": "cn-life",
+      "rankScore": 0.620703
+    },
+    {
+      "id": "45e689eb45541059",
+      "title": "小米汽车辟谣11月15日起召回：请广大车主提高警惕、谨防诈骗",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ0dGNjlrYTk3S25DbkpjZloyQXJiaUhvTl9EeWFoREdMejVKSVpCQjJwMDJQUUJ1R2l0Q2htd0czbVgtLVhIb3hhdEM2Q2ZhYTd5TUpkR0dhTG8?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-17T04:33:50.000Z",
+      "excerpt": "小米汽车辟谣11月15日起召回：请广大车主提高警惕、谨防诈骗 汽车之家",
+      "section": "cn-life",
+      "rankScore": 0.487792
+    },
+    {
+      "id": "bf39b37d935f37ad",
+      "title": "TOP TALK| Maria Calegari教授：BRAF V600E突变mCRC进展后续用EC联合FOLFIRI",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBURXA4NkQ2X2hpTWJlb0tHWWtnY1Vwbk1VRTBzN3JvVHF2MEloWnZmMUlrVGQyNzRMRS0wZ21GYzBOLXY2bEhEY2g3RGU?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-17T03:25:28.000Z",
+      "excerpt": "TOP TALK| Maria Calegari教授：BRAF V600E突变mCRC进展后续用EC联合FOLFIRI 肿瘤资讯",
+      "section": "cn-life",
+      "rankScore": 0.474499
+    },
+    {
+      "id": "9bd366d7fab5f100",
+      "title": "湘雅二院爆出最荒謬AI論文 肉瘤密度堪比花崗岩",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zU05jOV85MjRBbXN2eTZ2dmpnbTU5cEdwenVTMHM4U3lMVTUwQVRaVTRia1piRmc1U2xpZWhZelZQRFlLbjdiRzBGNmFISXJQR2wtYlZwN1JXSGZpakdKetIBZkFVX3lxTE1RdmJKamxiYllrWk9xTHFsS1JkOWdxZkR2TEczQjBlUDFLMmxsSkJlbWZjMHdJZTNUaWx6bHlmVFpzWTMxOGwtN0VKaFVVaTh0NmFMTk9MSUExTGhPTUpndzF5MmVNQQ?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-17T03:24:48.000Z",
+      "excerpt": "湘雅二院爆出最荒謬AI論文 肉瘤密度堪比花崗岩 新唐人電視台",
+      "section": "cn-life",
+      "rankScore": 0.338835
+    }
+  ],
+  "warnings": [
+    "source \"gn-world-zh\" failed: Error: HTTP 429",
+    "source \"gn-govcn\" failed: Error: HTTP 429",
+    "source \"gn-edu\" failed: Error: HTTP 429"
+  ]
+}
