@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-18",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-18T03:40:02.270Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "6914eefdfc530fa4",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-18T03:40:02.270Z",
+      "score": 1917,
+      "excerpt": "An agentic skills framework & software development methodology that works.",
+      "section": "tech",
+      "rankScore": 1.164
+    },
+    {
+      "id": "64f683ebab3cda17",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-17T21:11:28.000Z",
+      "score": 611,
+      "author": "werrett",
+      "excerpt": "611 points · 161 comments · https://news.ycombinator.com/item?id=50538240",
+      "section": "tech",
+      "rankScore": 1.013634
+    },
+    {
+      "id": "cac5a8592a96fbb0",
+      "title": "FreeBSD GUS",
+      "url": "https://gregoire.dev/writing/gus/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-18T02:54:59.000Z",
+      "author": "gregoire.dev by rdmsr",
+      "section": "tech",
+      "rankScore": 0.670298
+    },
+    {
+      "id": "5044ff92feb3b016",
+      "title": "How Shopify Orchestrates AI-Powered Mobile App Development Without Overloading Developers' Machines",
+      "url": "https://www.infoq.com/news/2026/11/shopify-remote-ai-dev/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-17T21:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "To prevent AI development workflows from exhausting developer machines' resources, Shopify built Remote Dev, a remote mobile development environment that enables AI agents to independently build, test and maintain iOS and Android applications and in parallel. By Sergio De Simone",
+      "section": "tech",
+      "rankScore": 0.633044
+    },
+    {
+      "id": "369612ae8bb93463",
+      "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-17T18:04:48.000Z",
+      "author": "Allison",
+      "excerpt": "Today, we’re expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare…",
+      "section": "tech",
+      "rankScore": 0.540212
+    },
+    {
+      "id": "f2dd7d9feb52378c",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-18T00:27:29.000Z",
+      "author": "Nick Indge",
+      "excerpt": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "section": "tech",
+      "rankScore": 0.452559
+    },
+    {
+      "id": "f49893759eb9b419",
+      "title": "v2.1.327",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
+      "source": "anthropic",
+      "publishedAt": "2026-11-17T23:17:45.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Added a confirmation before /install-github-app changes a repository Added claude mcp add-json <name> - to read the server's JSON from stdin, so tokens can stay off the command line; not available inside a Claude Code session Added a line when a resumed session's earlier messages…",
+      "section": "ai",
+      "rankScore": 0.783928
+    },
+    {
+      "id": "4e3270afc2f4c660",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "openai",
+      "publishedAt": "2026-11-17T17:45:00.000Z",
+      "excerpt": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "section": "ai",
+      "rankScore": 0.66839
+    },
+    {
+      "id": "f3bd52a76f1dfaae",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "openai",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "excerpt": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "section": "ai",
+      "rankScore": 0.465265
+    },
+    {
+      "id": "4454c071f200696a",
+      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-17T09:24:56.000Z",
+      "author": "swyx .ai",
+      "excerpt": "November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches.",
+      "section": "ai",
+      "rankScore": 0.435385
+    },
+    {
+      "id": "ce6c3679d2d9d761",
+      "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
+      "url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-18T03:40:02.270Z",
+      "excerpt": "美团在 MTGR 基础上提出统一推荐基座大模型 MTFM，首次实现外卖多个主要业务的统一精排模型。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "84d409a3d6a0864b",
+      "title": "感叹一下 ai 时代几乎没有啥技术难题了，无论是软硬件",
+      "url": "https://www.v2ex.com/t/1257890",
+      "source": "v2ex",
+      "publishedAt": "2026-11-18T01:41:47.000Z",
+      "score": 29,
+      "author": "tmtstudio",
+      "excerpt": "翻到了 22 年发的一个硬件问题 https://www.v2ex.com/t/881374 ，当时找遍全网也没有解决方案，最后还是用了继电器串联 现在真是随便一个 ai 都能解决，比如豆包",
+      "section": "cn-tech",
+      "rankScore": 0.836686
+    },
+    {
+      "id": "1763cc7cabbf730e",
+      "title": "豆包工作、WorkBuddy、千问办公同题竞争：模型隐入后台，入口走向前台",
+      "url": "https://www.36kr.com/p/4074578110699144",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-18T03:38:37.000Z",
+      "author": "Tech商业",
+      "excerpt": "11月中旬，国内办公智能体赛道发生了一个微妙但具有分水岭意义的转折。 11月12日，字节跳动旗下 豆包工作 宣布接入 Kimi K3.1 Pro、GLM 5.3、 DeepSeek V4.1 Flash等多款第三方模型，并在模型选择页面标注各模型的“额度消耗倍率”，让用户在任务需求与使用成本之间自行权衡。四天后的11月16日，阿里旗下 千问 办公一口气上线了10款模型，除自研的Qwen4-Max之外， Kimi 、GLM、 DeepSeek 、 MiniMax 、Step的第三方模型悉数在列，企业管理员还可以按部门、用户组或成员配置模型访问权限。",
+      "section": "cn-tech",
+      "rankScore": 0.629645
+    },
+    {
+      "id": "3d0e7b646442742a",
+      "title": "9 MB，一个文件，一个编程 Agent：连 TUI、沙箱和 TLS 都塞进去了",
+      "url": "https://www.oschina.net/news/503622",
+      "source": "oschina",
+      "publishedAt": "2026-11-18T00:25:17.000Z",
+      "excerpt": "给它一句话，它自己读文件、改文件、跑命令，循环到给出结论。 而它本身只有一个 9.3 MB 的静态二进制：拷到任何 x86-64 Linux 上就能跑， 不要 node、不要 python、不要 glibc、不要容器。 官网：https://uya-lang.github.io/uya-agent/ GitHub：https://github.com/uya-lang/uya-agent 0. 先别讲道理，先跑一下 curl...",
+      "section": "cn-tech",
+      "rankScore": 0.581311
+    },
+    {
+      "id": "60758f822caf293f",
+      "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
+      "url": "https://sspai.com/post/118975",
+      "source": "sspai",
+      "publishedAt": "2026-11-18T02:30:00.000Z",
+      "author": "什么陈",
+      "excerpt": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。",
+      "section": "cn-tech",
+      "rankScore": 0.544436
+    },
+    {
+      "id": "3d9929608a03dff3",
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-17T15:17:36.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK.",
+      "section": "security",
+      "rankScore": 0.493767
+    },
+    {
+      "id": "6af823a01ab259b3",
+      "title": "Critical Java Vulnerability Requires Immediate Patching",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), which is part of the…",
+      "section": "security",
+      "rankScore": 0.438878
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
