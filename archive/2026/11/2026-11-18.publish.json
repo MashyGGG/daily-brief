@@ -1,0 +1,75 @@
+{
+  "publishDate": "2026-11-18",
+  "lines": {
+    "daily": {
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "slot": "morning"
+        },
+        {
+          "date": "2026-11-18",
+          "slot": "evening"
+        }
+      ],
+      "itemCount": 30,
+      "itemIds": [
+        "15e2fb04286b1ee4",
+        "6914eefdfc530fa4",
+        "64f683ebab3cda17",
+        "03c6645c6f44f27d",
+        "bfee13175bd991cf",
+        "ce6c3679d2d9d761",
+        "84d409a3d6a0864b",
+        "f49893759eb9b419",
+        "d0f8a1d5a44a14e8",
+        "19dae5c24c61979b",
+        "80575fec886959a2",
+        "cac5a8592a96fbb0",
+        "4e3270afc2f4c660",
+        "7af44c2bcef89c5e",
+        "79a7a89dff8bcf70",
+        "33e36c6cc171a842",
+        "8cda1ec54b34e90b",
+        "348643b0bb5230d9",
+        "5044ff92feb3b016",
+        "1763cc7cabbf730e",
+        "a287006822b8fa6c",
+        "88b48b5e8a3ca9f5",
+        "3d0e7b646442742a",
+        "ae2355f7486ba2af",
+        "60758f822caf293f",
+        "369612ae8bb93463",
+        "3d9929608a03dff3",
+        "f3bd52a76f1dfaae",
+        "7c1148856c5bbd51",
+        "e7c627f8435d3870"
+      ],
+      "contentHash": "9cad3c90f4377c3b",
+      "targets": {
+        "notion-archive": {
+          "platform": "notion",
+          "status": "published",
+          "postId": "41c9696e-9c08-8167-9050-ea0cba9a7840",
+          "url": "https://app.notion.com/p/2026-11-18-41c9696e9c0881679050ea0cba9a7840",
+          "contentHash": "9cad3c90f4377c3b",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-11-18T20:44:32.247Z",
+          "lastError": null
+        },
+        "juejin": {
+          "platform": "juejin",
+          "status": "draft",
+          "postId": "7709530253697581098",
+          "url": "https://juejin.cn/editor/drafts/7709530253697581098",
+          "contentHash": "9cad3c90f4377c3b",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-11-18T20:44:32.247Z",
+          "lastError": null
+        }
+      }
+    }
+  }
+}
