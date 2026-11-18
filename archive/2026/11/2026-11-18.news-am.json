@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-18",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-18T03:50:09.614Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "671606324f1c11b7",
+      "title": "身體最常受傷、卻很少人會刻意鍛鍊的部位：腳踝",
+      "url": "https://www.bbc.com/zhongwen/articles/cwj05r347d0lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-18T00:29:38.000Z",
+      "excerpt": "運動物理治療師珍妮薇芙·陶亞（Genevieve Tawiah）分享了她護理關節的秘訣；關節問題佔急診就診量的 5%。",
+      "section": "news",
+      "rankScore": 0.773158
+    },
+    {
+      "id": "087ba8821e629769",
+      "title": "习近平与特朗普“友谊”表象下，中美经济裂痕扩大",
+      "url": "https://cn.nytimes.com/china/20261118/trump-xi-meeting-tensions/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-18T02:25:43.000Z",
+      "author": "艾莎,MURPHY ZHAO",
+      "excerpt": "特朗普与习近平公开的友好姿态掩盖了另一种现实，两国政府正在强化经济防御，设置新的贸易和投资壁垒，日益增多的限制凸显出中美经济日益扩大的裂痕。 Haiyun Jiang/The New York Times 9月，特朗普总统和第一夫人梅拉尼娅在白宫欢迎中国国家主席习近平和夫人彭丽媛。",
+      "section": "news",
+      "rankScore": 0.744198
+    },
+    {
+      "id": "4a7cbc86501e3325",
+      "title": "深圳：如何从边境小城到“世界工厂”，再到全球创新中心",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261117-%E6%B7%B1%E5%9C%B3-%E5%A6%82%E4%BD%95%E4%BB%8E%E8%BE%B9%E5%A2%83%E5%B0%8F%E5%9F%8E%E5%88%B0-%E4%B8%96%E7%95%8C%E5%B7%A5%E5%8E%82-%EF%BC%8C%E5%86%8D%E5%88%B0%E5%85%A8%E7%90%83%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-17T23:34:34.000Z",
+      "author": "阿曼亭",
+      "excerpt": "在APEC领导人峰会于深圳召开之际，法国世界报特派到深圳的记者发回长篇文章，描述了深圳近几十年来的天翻地覆的变化。 文章表示，在短短几十年的时间内，深圳这座曾经只有大约30万人口、以农民和渔民村落为主的小城，发展成为拥有约1800万人口的国际化大都市。它不仅见证了中国经济的腾飞，也体现了中国在全球经济和科技竞争中地位的变化。",
+      "section": "news",
+      "rankScore": 0.629002
+    },
+    {
+      "id": "e30efc1635727cc1",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-18T01:18:18.000Z",
+      "excerpt": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "section": "news",
+      "rankScore": 0.592035
+    },
+    {
+      "id": "48be8c5da88698c3",
+      "title": "They’re Young and Frustrated and Want France to Change. They Disagree on How.",
+      "url": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-18T03:46:06.000Z",
+      "author": "Ségolène Le Stradic",
+      "excerpt": "One is a left-wing student leader, the other a young far-right activist. Together, Soumaya Sarré and Louise Montangon reflect the polarization of France, where more protests and strikes took place on Tuesday.",
+      "section": "news",
+      "rankScore": 0.559098
+    },
+    {
+      "id": "b759232a61803b29",
+      "title": "‘Everyone likes money’: Bandidos member can’t remember why he was paid $165,000, Big Build inquiry hears",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-18T03:35:43.000Z",
+      "author": "Australian Associated Press",
+      "excerpt": "Commissioner says inference could be made that bikie Joel Leavitt was ‘standing over’ union-aligned labour hire firm for the payment A Bandidos gang member says he couldn’t remember a lucrative invoice because it brought up bad memories of having been told there was a contract out on his life.",
+      "section": "news",
+      "rankScore": 0.55679
+    },
+    {
+      "id": "1c1d2ffb82b6d663",
+      "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+      "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-18T03:28:41.000Z",
+      "excerpt": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
+      "section": "news",
+      "rankScore": 0.555227
+    },
+    {
+      "id": "8da15d3550e58cbf",
+      "title": "Russia’s Putin to address global CEOs in China",
+      "url": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-18T03:23:17.000Z",
+      "excerpt": "Chief executives’ meeting comes ahead of highly anticipated trilateral summit with Xi Jinping and Donald Trump",
+      "section": "news",
+      "rankScore": 0.484774
+    },
+    {
+      "id": "e460913d6e512417",
+      "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+      "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-18T01:36:41.000Z",
+      "author": "Sabrina Tavernise, Georgia Gee and Madaleine Rubin",
+      "excerpt": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
+      "section": "news",
+      "rankScore": 0.464046
+    },
+    {
+      "id": "c190cf59c5d05b28",
+      "title": "分析｜美国全境停飞事件后 美联航再遇技术故障",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlTXRYYkRHWnhEOXZjMVlKN1dsb1hqdkoxa3A0T3FQUFphekRRZjBzUGM1QlVTUUs2Nnpfc3k1Z3hNUTcwOE52Tk1JNk5TTVU5RFk2WENuXzJZanU0Uzdfb0U2M3c?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-18T03:18:00.000Z",
+      "excerpt": "分析｜美国全境停飞事件后 美联航再遇技术故障 财新 美国四大航司因停飞事件损失逾3亿美元--国际 人民网 全国航班停飞后，特朗普政府寻求为空中交通管制系统升级追加资金 美国之音 美交通部长被要求辞职 新浪财经 几天内连环故障，美国民众焦虑“什么都在坏” 凤凰网",
+      "section": "news",
+      "rankScore": 0.41464
+    },
+    {
+      "id": "50ca8451bd4a224c",
+      "title": "世卫组织：刚果（金）埃博拉疫情已致逾5400人死亡",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143214",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "excerpt": "世界卫生组织总干事谭德塞周二表示，刚果民主共和国（刚果（金））本迪布焦病毒埃博拉病疫情暴发六个月以来，病例数已翻了一番多，八个省的67个卫生区共报告超过1.1万例病例和5400多例死亡病例。儿童受到的影响尤为严重，占确诊病例的四分之一以上，占死亡病例的三分之一。",
+      "section": "news",
+      "rankScore": 0.39246
+    },
+    {
+      "id": "d494de29524cfb45",
+      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+      "source": "npr-news",
+      "publishedAt": "2026-11-17T12:20:57.000Z",
+      "author": "Brittney Melton",
+      "excerpt": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
+      "section": "news",
+      "rankScore": 0.30932
+    },
+    {
+      "id": "a1dfeabecf7f6c48",
+      "title": "人这一辈子，一定要去一趟中国“APEC第三城”！",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733859.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-18T00:59:38.000Z",
+      "excerpt": "11月18日至19日，",
+      "section": "cn-news",
+      "rankScore": 0.783158
+    },
+    {
+      "id": "269ee163a9b791d5",
+      "title": "国台办：台湾岛内议统望统热度不断升高",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733977.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-18T03:43:09.000Z",
+      "excerpt": "中新网11月18日电 11月18日，国务院台办举行例行新闻发布会。有记者问，民进党当局称，大陆宣传统一利好及形塑“议统”氛围，面对大陆加大“对台施压及促统力度”，将捍卫所谓“国家主权安全”。请问对此有何评论？",
+      "section": "cn-news",
+      "rankScore": 0.767858
+    },
+    {
+      "id": "f9cb333ae0f29662",
+      "title": "深演智能发布Agentic内容中台DeepDAM 2.0，助力企业内容资产持续增值",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NRUJ4WmJZcEE1bXNLZlNPOWo0ekdKV21fV3FMWTU5ODRoM3ZSN0dBX0RLNlU3emZfWEVfaVk3cG9VRWZKVnRJemxKeEtkX1FvR2xVZWM2UC0?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-18T03:47:57.000Z",
+      "excerpt": "深演智能发布Agentic内容中台DeepDAM 2.0，助力企业内容资产持续增值 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.629447
+    },
+    {
+      "id": "ff8faff0f3c63901",
+      "title": "三地青年齐聚天津 产学研银企联动赋能京津冀协同发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733915.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-18T02:43:38.000Z",
+      "excerpt": "中新网天津11月18日电 (记者 江莹)16日至17日，“挺膺担当新时代携手并进创未来”京津冀青年企业家天津行活动在蓟州区举办。来自京津冀三地青年企业家、青联委员代表以及高校团委负责人等120余人齐聚天津，共商合作机遇，为京津冀协同发展积蓄青春力量。",
+      "section": "cn-news",
+      "rankScore": 0.613368
+    },
+    {
+      "id": "7a75198f0c40e301",
+      "title": "APEC中国时间｜工商领导人峰会开幕在即，各经济体代表陆续抵达",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fS3pfMUNTV0ZjYlNLVVdmV2QxRXZ2SXFlRUNCR2VoLWJ6NnhvY1U3YV9DNW5LQzBUWVJTbUNtYlFQbk4xX3VYSFpBTW0xZjBlY1JpMTd6cG9qNjNfR24wcw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-18T01:44:01.000Z",
+      "excerpt": "APEC中国时间｜工商领导人峰会开幕在即，各经济体代表陆续抵达",
+      "section": "cn-news",
+      "rankScore": 0.598464
+    },
+    {
+      "id": "9bb69f94dd065261",
+      "title": "北斗时空产业发展论坛在北京召开",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZWozY3NoazZrb3dSVkQyZTRPOEF1bHd2dmtEQVVmVGY1dFFTMjh4Nm42YjNLei1FR3VudTVGM052MG4tV3dGUmY0ek1wNXNLNnRod1JPbEs4QVBZZmZ6SC13UkZXTTVyRFVKME9qMkg?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-18T03:28:02.000Z",
+      "excerpt": "北斗时空产业发展论坛在北京召开 国际科技创新中心 新华社权威快报｜我国北斗终端设备应用数量近4200万 新华网 北京北斗产业发展指数居17省首位，已形成较为完整产业链条 Sohu 北斗终端近4200万台套，码头买的是哪笔效率？-36氪 36kr 我国北斗终端设备应用数量近4200万同比增长约27%，综合应用渗透率超90% 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.555083
+    },
+    {
+      "id": "753748afb6bd28ce",
+      "title": "習近平會卡尼後 中國商務部：中加同意延長豁免措施2年",
+      "url": "https://www.cna.com.tw/news/acn/202611180048.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-18T02:19:05.000Z",
+      "excerpt": "（中央社台北18日電）中國國家主席習近平昨天在深圳會見加拿大總理卡尼（Mark Carney）後，中國商務部宣布，雙方同意將初步聯合安排的相關豁免措施延長2年，加方將進一步擴大對中國鋼鋁產品的豁免範圍；中方則調整對加方部分農水產品採取的反歧視措施。",
+      "section": "cn-news",
+      "rankScore": 0.539761
+    },
+    {
+      "id": "a4dbb6d8f9c477e4",
+      "title": "Putin gets highest-level airport welcome in Shenzhen as he arrives for Apec",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374831/putin-gets-highest-level-airport-welcome-shenzhen-he-arrives-apec",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-18T03:46:13.000Z",
+      "author": "Orange Wang",
+      "excerpt": "China has given Russian President Vladimir Putin the highest-level welcome so far among foreign leaders arriving in Shenzhen for the Asia-Pacific Economic Cooperation gathering.",
+      "section": "cn-news",
+      "rankScore": 0.489233
+    },
+    {
+      "id": "4516585ebef4f461",
+      "title": "北京成功入选！国家6G创新发展部省协同试点省（市）名单公布",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hSnp6YVpFVXpaRGdCbU1hSEdFQ2ZUWUVYd3RIbHpCTVNDdmdoaWluNmpTMm56LXV6b1kxTE4xeUM1ajVYT1VicmZBMHJxaTRnYkZqTkxOU2FGbFBQYmtkNWpzYmhrUnFrSzJndV8zSDJzYWxFUlRN?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-18T03:07:46.000Z",
+      "excerpt": "北京成功入选！国家6G创新发展部省协同试点省（市）名单公布 国际科技创新中心 利好来袭，002194涨停，6G概念表现活跃 凤凰网财经 8省份入选！6G试点，来了 中国经济网 盘前必读丨美股全线下挫道指跌近850点；荣盛发展、*ST华幸拉响退市警报 Sohu 牛市早报｜工信部：8个省（市）开展6G创新发展部省协同试点工作 ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.481757
+    },
+    {
+      "id": "46e190958a893cc0",
+      "title": "香港羽毛球公开赛： “梁王”组合首轮逆转晋级",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sRDdBNERHM3BxbDRLd0tKUGxBVG1VaGp3OGYzUmkwZlZUd0NGNVNobjRRRUk2X2YzUXBXX1B2LWNPSGduRHBBNTVKT0hYalV4WTloZlN6bXZsZkV2YlFiemt3QQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-18T02:55:31.000Z",
+      "excerpt": "香港羽毛球公开赛： “梁王”组合首轮逆转晋级 光明网 贾一凡换搭档首战失利 “梁王”重新携手逆转晋级 Sohu 新浪网· 新浪网 骆建佑郑加恒和我国男双 出击香港羽毛球赛争佳绩 联合早报 香港羽球公开赛 | ​两局胜罗徐敏与陈樊淑湉 乐蒂晋级16强 - 体育 - 即时体育 Sin Chew Daily",
+      "section": "cn-news",
+      "rankScore": 0.410893
+    },
+    {
+      "id": "71aec4fa38fa5cb6",
+      "title": "中央气象台：强冷空气继续影响中东部地区",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733858.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-18T01:54:39.000Z",
+      "excerpt": "中新网11月18日电 据中央气象台网站消息，受强冷空气影响，昨日，西北地区中东部、内蒙古中西部、山西、京津冀、河南中北部等地部分地区出现7～9级阵风，局地11级以上。今晨，青海、甘肃、宁夏、内蒙古中西部、陕西、山西、河北西部等地出现4～8℃、局地10℃以上降温。",
+      "section": "cn-life",
+      "rankScore": 0.801497
+    },
+    {
+      "id": "9350e6bca76c943a",
+      "title": "干发帽包头超5分钟，掉发量增3倍？医生解读",
+      "url": "https://www.chinanews.com.cn/life/2026/11-18/10733912.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-18T02:18:42.000Z",
+      "excerpt": "干发帽包头超5分钟，掉发量增3倍？",
+      "section": "cn-life",
+      "rankScore": 0.674594
+    },
+    {
+      "id": "fbf0eed6b6af1487",
+      "title": "南京发布大风蓝色预警",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMdm1tLURYOW1GM241Mkw4TGIxeGNONEFXY2czUnptSXJ1MUJ3REtCamZHMXVmWVd4VUVqbG9fakhIUXlabC1rcGktZEtCeDIxdzZZMm1WcXhWOFVvTWR0Z1dHZ0ZjVUZmYVJJdmdXMDBscjNLUHBJanFn?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-18T03:37:00.000Z",
+      "excerpt": "南京发布大风蓝色预警 紫牛新闻",
+      "section": "cn-life",
+      "rankScore": 0.62671
+    },
+    {
+      "id": "f050bc43eec3a870",
+      "title": "二手房上涨！重庆最新房价官方数据出炉",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nU3VwNHRXSFRhcFQ3cVljU3FxcmN0V3JZMjB0dzRlOXNTdTVyUk1rdUNucHhCbWJ2WUk3bHRKNC0ySGhpLVRpUGxBcTJrWlF0aHJtSlY5M3RpUQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-18T03:35:00.000Z",
+      "excerpt": "二手房上涨！重庆最新房价官方数据出炉 房天下",
+      "section": "cn-life",
+      "rankScore": 0.62621
+    },
+    {
+      "id": "568435661e7db504",
+      "title": "服务加持，高端纺织增资铸链",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mOWFHTjZqOWUxNV82alNlcXhjRmhkazhSSFIwM25fSnRJVVBlaDlVeUxsTVZnN0o5OGllc1lYbWNpNWVpVWs2LUtLQ1dCRExYdGRBSDJuMWc?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-18T03:33:28.000Z",
+      "excerpt": "服务加持，高端纺织增资铸链 福建投资促进网",
+      "section": "cn-life",
+      "rankScore": 0.55629
+    },
+    {
+      "id": "a60bcadf81454282",
+      "title": "云顶新耀GD-IgA1检测试剂盒获广东省药品监督管理局批准，进一步完善IgA肾病诊疗一体化布局",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yWEgzS0h5Z0FqdWJia2ZSTEFGQVR1S0lFX1ZpMXRsakw0OHFSdmNNMHFrQTJTeXhPYndZMllnZ1U3eko0cGJ0Q0gwN0pGc2xxcEdDMlg2SzVYUXgzQmtXM3JEOFk?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-18T02:36:43.000Z",
+      "excerpt": "云顶新耀GD-IgA1检测试剂盒获广东省药品监督管理局批准，进一步完善IgA肾病诊疗一体化布局 证券之星",
+      "section": "cn-life",
+      "rankScore": 0.475719
+    },
+    {
+      "id": "5c9da149bcc6b623",
+      "title": "向光而行，毕达新生 | POST ESMO结直肠癌精准治疗专家交流会即将启幕！",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXeEJ3WWloNGZ1MWZtYnUzaXhQeWhrR011S0tUMU1IY0V2dExYZkdSaW5WSmJOcWhwUHhGd1RiYnJ2RjhxZG9COWhXLVk?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-18T02:05:05.000Z",
+      "excerpt": "向光而行，毕达新生 | POST ESMO结直肠癌精准治疗专家交流会即将启幕！ 肿瘤资讯 共话结直肠癌精准治疗，肿瘤规范化诊疗学术会议在厦门举行 人民网-福建频道 TOP TALK | Maria Calegari教授：BRAF V600E突变mCRC进展后续用EC联合FOLFIRI的策略- 良医汇 良医汇-肿瘤资讯 2026 ESMO TOPTALK｜Lisa Salvatore教授：PRABITAS研究优化结直肠癌后线治疗，ADC研发应重视剂量探索与患者筛选 良医汇",
+      "section": "cn-life",
+      "rankScore": 0.469568
+    },
+    {
+      "id": "ee3f4e9622bbecc6",
+      "title": "16所高校、8个考点！2027戏曲类本科专业12月启动省际联考",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WMlhPUmJzbGQ0X0FMVkpTRy14YTBtMXBRWEF1U05jUkpNM0gyRC12VGhzY1ppRHRTRmMyVEpQMEtlRzFtZnVYbVBmN2FOUlg2TzFoYmpLd0JXVWVNc240?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-18T03:39:06.000Z",
+      "excerpt": "16所高校、8个考点！2027戏曲类本科专业12月启动省际联考 新湖南",
+      "section": "cn-life",
+      "rankScore": 0.418157
+    }
+  ],
+  "warnings": []
+}
