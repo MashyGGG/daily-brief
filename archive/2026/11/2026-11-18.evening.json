@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-18",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-18T20:26:32.636Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "15e2fb04286b1ee4",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-18T20:26:32.636Z",
+      "score": 1109,
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "section": "tech",
+      "rankScore": 1.172308
+    },
+    {
+      "id": "03c6645c6f44f27d",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "source": "hn-front",
+      "publishedAt": "2026-11-18T15:19:55.000Z",
+      "score": 722,
+      "author": "speedping",
+      "excerpt": "722 points · 290 comments · https://news.ycombinator.com/item?id=50547374",
+      "section": "tech",
+      "rankScore": 0.947642
+    },
+    {
+      "id": "19dae5c24c61979b",
+      "title": "Software factories and code reviews with Harjot Gill",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-11-18T18:08:52.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI.",
+      "section": "tech",
+      "rankScore": 0.697883
+    },
+    {
+      "id": "80575fec886959a2",
+      "title": "Stricter checks for uploaded distributions on PyPI",
+      "url": "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-18T20:00:42.000Z",
+      "author": "blog.pypi.org by yossarian",
+      "section": "tech",
+      "rankScore": 0.670501
+    },
+    {
+      "id": "79a7a89dff8bcf70",
+      "title": "Evals for AI Engineers",
+      "url": "https://blog.bytebytego.com/p/evals-for-ai-engineers",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-18T16:31:02.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In today’s issue, we’re featuring an excerpt that introduces the Three Gulfs of LLM Application Development.",
+      "section": "tech",
+      "rankScore": 0.646637
+    },
+    {
+      "id": "a287006822b8fa6c",
+      "title": "Data Contracts",
+      "url": "https://martinfowler.com/articles/data-contracts.html",
+      "source": "martinfowler",
+      "publishedAt": "2026-11-18T14:02:00.000Z",
+      "author": "Martin Fowler",
+      "excerpt": "Data contracts are a way to describe the contents and guarantees of datasets. Simon Harrer and Arif Wider describe in detail what they are and how to use them.",
+      "section": "tech",
+      "rankScore": 0.620261
+    },
+    {
+      "id": "d0f8a1d5a44a14e8",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "huggingface",
+      "publishedAt": "2026-11-18T19:54:56.000Z",
+      "section": "ai",
+      "rankScore": 0.770566
+    },
+    {
+      "id": "8cda1ec54b34e90b",
+      "title": "The PSF end-of-year fundraiser",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-18T14:44:48.000Z",
+      "excerpt": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year!",
+      "section": "ai",
+      "rankScore": 0.644718
+    },
+    {
+      "id": "ae2355f7486ba2af",
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "deepmind",
+      "publishedAt": "2026-11-18T18:13:42.000Z",
+      "section": "ai",
+      "rankScore": 0.573067
+    },
+    {
+      "id": "d1ba2134a6a3c99d",
+      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-18T10:19:04.000Z",
+      "author": "swyx .ai",
+      "excerpt": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
+      "section": "ai",
+      "rankScore": 0.451798
+    },
+    {
+      "id": "bfee13175bd991cf",
+      "title": "EMNLP 2026 | 美团技术团队学术论文精选",
+      "url": "https://tech.meituan.com/2026/11/18/Papers-EMNLP-2026.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-18T20:26:32.636Z",
+      "excerpt": "2026 年，美团技术团队共计 20 余篇论文被 EMNLP 2026 收录，我们从中精选了 12 篇主会论文（Long Paper）分享给大家。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "7af44c2bcef89c5e",
+      "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 云端 Loop实践",
+      "url": "https://www.infoq.cn/article/Ae5uw6m9wC2gj5QUCC36?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-18T18:59:07.000Z",
+      "author": "江露",
+      "section": "cn-tech",
+      "rankScore": 0.658368
+    },
+    {
+      "id": "348643b0bb5230d9",
+      "title": "剑桥词典的 2026 年度单词是“人”",
+      "url": "https://www.solidot.org/story?sid=85927",
+      "source": "solidot",
+      "publishedAt": "2026-11-18T16:12:14.000Z",
+      "excerpt": "随着 AI 不断模糊人与机器之间的界限，全世界开始重新争论何谓“人”。剑桥词典的 2026 年度单词就是“人（human）”。在剑桥词典中，人被定义为“具有人特有的品质、缺点和情感，区别于神、动物或机器”。剑桥大学 AI 治理与人权专家 Rachel Adams 教授表示，AI 让我们重新面对困扰了人类几千年的问题：我们是谁？身为人类意味着什么？问题的答案从未固定，但提出问题本身正是人类所共有的特质。”“AI 将成为对人类的一场深刻考验。它确实存在加剧现有不平等的风险，但同时也具备解决这些问题的潜力。”",
+      "section": "cn-tech",
+      "rankScore": 0.63679
+    },
+    {
+      "id": "88b48b5e8a3ca9f5",
+      "title": "似乎没见什么大厂开始结合 AI 重写自家的 APP 或桌面软件",
+      "url": "https://www.v2ex.com/t/1258085",
+      "source": "v2ex",
+      "publishedAt": "2026-11-18T10:42:51.000Z",
+      "score": 16,
+      "author": "yuhu96",
+      "excerpt": "内存硬件涨价，现在正是 APP 和桌软团队对软件性能极致优化的好时候。优化的好，有机会从存量市场多抢点用户。我觉得如果厂商们要这么做的话，应该从抛弃 electron 开始，真心觉得",
+      "section": "cn-tech",
+      "rankScore": 0.616095
+    },
+    {
+      "id": "e7c627f8435d3870",
+      "title": "一份看空中际旭创的报告，戳中了AI硬件的最大软肋",
+      "url": "https://www.36kr.com/p/4075210942354560",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-18T13:39:28.000Z",
+      "excerpt": "一份看空中际旭创的估值测算，几乎把整个AI硬件资产的估值困境摆到了台面上。 11月17日，一份关于中际旭创的看空测算在投资圈迅速传播。按照这份材料的预测，到2029年，中际旭创的年净利润大约只有300亿元，对应合理市值3000亿至4500亿元。 考虑到折现因素，即使在最乐观的情况下，公司目前的股价仍然存在约25%的回撤空间。 这份测算一出，便迅速引发了极大的争议。 要知道，中际旭创今年的业绩可以说相当惊人。2026年前三季度，公司实现营业收入695.47亿元，同比增长178.13%；归母净利润222.38亿元，同比增长211.81%。按此计算，归母净利率接近32%。",
+      "section": "cn-tech",
+      "rankScore": 0.455538
+    },
+    {
+      "id": "33e36c6cc171a842",
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-18T18:31:17.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015.",
+      "section": "security",
+      "rankScore": 0.645114
+    },
+    {
+      "id": "7c1148856c5bbd51",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability CVE-2026-40217 BerriAI LiteLLM Unprotected Alternate…",
+      "section": "security",
+      "rankScore": 0.458789
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" failed: Error: HTTP 415",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
