@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-19",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-19T03:48:57.079Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "817afa5d49f0bab9",
+      "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-19T00:11:57.000Z",
+      "excerpt": "「他們能坐下來，就說明這個世界還沒有到第一次或第二次世界大戰那個狀況。」香港科技大學榮休教授丁學良對BBC說。",
+      "section": "news",
+      "rankScore": 0.767666
+    },
+    {
+      "id": "31278297d7e892b9",
+      "title": "中美俄元首会晤不会成为另一个雅尔塔会议",
+      "url": "https://cn.nytimes.com/world/20261119/trump-xi-putin-summit-yalta/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-19T03:27:00.000Z",
+      "author": "DAVID E. SANGER,PETER BAKER",
+      "excerpt": "雅尔塔会议长达八天，参与者们为持续近半个世纪的战后秩序奠定了基础。特朗普、习近平和普京的简短会晤可能只是一次被美化的合影活动，不太可能解决任何重大问题。 Doug Mills/The New York Times 周三，中国国家主席习近平在深圳宝安国际机场迎接了特朗普总统。",
+      "section": "news",
+      "rankScore": 0.763293
+    },
+    {
+      "id": "782ba44fd5bfe567",
+      "title": "看人下菜碟与大国气度",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261118-%E7%9C%8B%E4%BA%BA%E4%B8%8B%E8%8F%9C%E7%A2%9F%E4%B8%8E%E5%A4%A7%E5%9B%BD%E6%B0%94%E5%BA%A6",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-18T23:12:23.000Z",
+      "author": "安德烈",
+      "excerpt": "中国国家主席亲自到机场迎接美国总统，46年来首次！ 战机飞跃致敬，拉彩烟欢迎；军乐团演奏两国国歌，数百名男女青年欢呼雀跃，高呼“欢迎欢迎，热烈欢迎！”最意想不到的一幕就这样出现在眼前，习近平与特朗普拥抱！",
+      "section": "news",
+      "rankScore": 0.623176
+    },
+    {
+      "id": "5afcf561bf8a8b33",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-19T02:59:06.000Z",
+      "excerpt": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "section": "news",
+      "rankScore": 0.617537
+    },
+    {
+      "id": "91b5439d751a900d",
+      "title": "Florida Man Found Guilty in Plot to Kill Haiti’s President",
+      "url": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-19T03:36:55.000Z",
+      "author": "David C. Adams and Pranav Baskar",
+      "excerpt": "Christian Emmanuel Sanon, 67, who was convicted in a Miami court, could now face life in prison over the killing of Jovenel Moïse.",
+      "section": "news",
+      "rankScore": 0.557326
+    },
+    {
+      "id": "04665b96307fc655",
+      "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
+      "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-19T03:32:42.000Z",
+      "author": "Patrick Commins Economics editor",
+      "excerpt": "Jobless rate rises from 4.7% to 4.9% in October, Bureau of Statistics figures reveal Get our daily political email , free app or daily news podcast Australia may already have “one foot in recession” after unemployment surged to 4.9% in October, from 4.7%, in a shock increase that will add to…",
+      "section": "news",
+      "rankScore": 0.556389
+    },
+    {
+      "id": "5531958982231bab",
+      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-19T03:01:27.000Z",
+      "excerpt": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
+      "section": "news",
+      "rankScore": 0.549444
+    },
+    {
+      "id": "833c41b6bba66143",
+      "title": "Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court",
+      "url": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-19T03:42:19.000Z",
+      "author": "J. David Goodman",
+      "excerpt": "The Texas electoral wave carried one Democrat to victory even after she had suspended her campaign. Republicans want her declared ineligible.",
+      "section": "news",
+      "rankScore": 0.48871
+    },
+    {
+      "id": "8b13823164cbd729",
+      "title": "Meta pauses plans to create non-voting share class after investor lawsuit",
+      "url": "https://www.ft.com/content/3c97ea69-1a32-4280-b067-f37f2874f987?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-19T03:21:54.000Z",
+      "excerpt": "Mark Zuckerberg would have been able to sell down stake without reducing his control under deal",
+      "section": "news",
+      "rankScore": 0.48474
+    },
+    {
+      "id": "c810bb138cb68538",
+      "title": "The law releasing the Epstein files passed one year ago. What do his victims say?",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say",
+      "source": "npr-news",
+      "publishedAt": "2026-11-18T22:27:43.000Z",
+      "author": "Ava Berger",
+      "excerpt": "It's been a year since the House passed the Epstein Files Transparency Act, forcing the Justice Department to release millions of files connected to the convicted sex offender. His victims speak out.",
+      "section": "news",
+      "rankScore": 0.427538
+    },
+    {
+      "id": "0e12421407d709f2",
+      "title": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DaGlfazh1U3dxZXZQV2NrVWZMTHhqd3dCYjRkbFd6MF84RTV6QUh3YmtwdFV1dU1NWnlBTFhSUkdFM3dHTUZUN3dtazBXUmRhRV9EajJ4R1NGZ1FxWjA3SDhqVnJkWGNQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-19T02:11:13.000Z",
+      "excerpt": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议 中国新闻网 停火协议以来首次！以色列“罕见”越线 凤凰网 哈马斯称以军在加沙中部军事行动违反停火协议 ThePaper.cn 以军在加沙地带发起地面攻击 为停火后首次 联合早报 以色列政府更迭的敏感时期，以国防部长：若战事升级，准备占领更多土地 上观新闻",
+      "section": "news",
+      "rankScore": 0.403711
+    },
+    {
+      "id": "10cfb54de022b289",
+      "title": "第31届气候变化大会僵局持续，各国启动新一轮“气候承诺核查”",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143225",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
+      "excerpt": "随着在土耳其安塔利亚举行的第31届联合国气候变化大会闭幕时限日益临近，各国于周三启动了一项新的全球性核查，以检验气候承诺是否得到履行。与此同时，各国部长在峰会的一些最棘手问题上仍陷于僵局：谁来买单、全球摆脱化石燃料的速度有多快，以及如果较贫穷国家无力承担，更绿色的未来能否被称为“公正”。",
+      "section": "news",
+      "rankScore": 0.392762
+    },
+    {
+      "id": "f5259209657e3cac",
+      "title": "我国新增34家领航级智能工厂",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734548.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-19T03:24:29.000Z",
+      "excerpt": "工业和信息化部等六部门今天公布了新一批34家领航级智能工厂培育名单。",
+      "section": "cn-news",
+      "rankScore": 0.831844
+    },
+    {
+      "id": "28b583d6ba71245d",
+      "title": "（深圳APEC）习近平：携手搭建亚太共同体的“四梁八柱”",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734544.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-19T03:34:57.000Z",
+      "excerpt": "中新社深圳11月19日电 (记者 谢雁冰)11月19日上午，中国国家主席习近平在深圳主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话，强调亚太各方要携手搭建亚太共同体的“四梁八柱”。",
+      "section": "cn-news",
+      "rankScore": 0.765722
+    },
+    {
+      "id": "9d4114989fb204e6",
+      "title": "A股午评：三大指数收跌，超4500只个股飘绿",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734560.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-19T03:48:22.000Z",
+      "excerpt": "A股午评：三大指数收跌，超4500只个股飘绿；黄金股重挫；传媒、能源设备、教育跌幅居前；冰雪旅游、培育钻石走低；摩托车、酒类上涨",
+      "section": "cn-news",
+      "rankScore": 0.629854
+    },
+    {
+      "id": "f2104fb5aeb7732a",
+      "title": "A股午评：创业板指半日跌0.63%，全市场近4600只个股飘绿，影视院线、文化传媒、IT服务等概念走弱",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DUGh5cV9JazZjdHJfTDJ6MnVBbk9UNnA4STlUQ3Y3bHpjZ3lObkd6REtQN2NPd3daRThTMHJSekFVYXpjcDVKeWlvcUpGcGxlaFQwbHl3S3I?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-19T03:44:33.000Z",
+      "excerpt": "A股午评：创业板指半日跌0.63%，全市场近4600只个股飘绿，影视院线、文化传媒、IT服务等概念走弱 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.6289
+    },
+    {
+      "id": "8bb4728c5694f891",
+      "title": "不建一座新馆，长春简约办大冬会、升级重塑城市公共空间",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYTWswN1d2MGlXTWlYUVRYV3Zrb2t5bDg0N01BcEw2Z2VEekVDUnZLQURKNTNkak5WcHRnOEVvMkMyemdzb3NEckNRZGZ0M2lLMGsyR0dISkxDdWw5MlF1ZTZVWHFROHlucENZ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-19T00:06:48.000Z",
+      "excerpt": "不建一座新馆，长春简约办大冬会、升级重塑城市公共空间",
+      "section": "cn-news",
+      "rankScore": 0.574462
+    },
+    {
+      "id": "e44801871e3bd2bc",
+      "title": "[健康报] 以善作善成书写津沽健康答卷 - 中华人民共和国国家卫生健康委员会",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmVPQXUwbkdlZFhkbkY3SjRPTFR1MWNmSTRQU1lwLUx3cnBBcVM0OHVfbm5KcnNGQmRHR1NfZ3hmTVdaRWZnUDBlT0c0QmZOajFTaTRpYmM2aDVhWUxtb2FuNzN5MVczaGk1MWRBSEhxRENvSkFFcGR0dThjbXZZdTVDNA?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-19T03:08:03.000Z",
+      "excerpt": "[健康报] 以善作善成书写津沽健康答卷 中华人民共和国国家卫生健康委员会 重庆市委书记袁家军：坚定实施健康优先发展战略 加快推动卫生与健康事业高质量发展 凤凰网 重庆基本建成“15分钟健康服务圈” 七一网 以善作善成书写津沽健康答卷 健康报 袁家军隐身五天后 出席重庆卫生与健康会(图) 看中国网",
+      "section": "cn-news",
+      "rankScore": 0.550911
+    },
+    {
+      "id": "5ef47a1022a591d5",
+      "title": "傳中國放寬限韓令 港媒憂慮衝擊香港影藝經濟",
+      "url": "https://www.cna.com.tw/news/acn/202611190041.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-19T02:13:28.000Z",
+      "excerpt": "（中央社記者張謙香港19日電）正在中國深圳舉辦的亞太經濟合作會議（APEC）領袖峰會，日來備受香港關注，有媒體憂慮北京方面放寬「限韓令」的消息，可能會衝擊香港的「盛事經濟」（影藝及文化活動），也有媒體認為，建立世界灣區經濟合作聯盟，可令香港得益。",
+      "section": "cn-news",
+      "rankScore": 0.538781
+    },
+    {
+      "id": "6a43514837bda804",
+      "title": "Apec leaders suit up with Chinese-style scarves for family photo in Shenzhen",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374995/apec-leaders-suit-scarf-family-photo-shenzhen",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-19T03:40:31.000Z",
+      "author": "Carol Yang",
+      "excerpt": "Apec leaders were given Chinese-style scarves to wear for the group summit photo on Thursday. It was a pared-back nod to the forum’s tradition of dressing attendees in the host economy’s sartorial heritage. The scarves came in two colours: red and blue.",
+      "section": "cn-news",
+      "rankScore": 0.48836
+    },
+    {
+      "id": "990612f05c1d2e38",
+      "title": "虚拟电厂迈入规模化发展新阶段——《中国虚拟电厂发展报告（2026）》解读",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObDlBdjR6TkpaaDRKOFdxaDk2WERnUnNhNWdmSXB1RjM4QUlfTENQaC1aZW5HeU84YXJVdi0tYzhrenBZVHpHTzEtajdmVkkwUDBFdUNjOFlJdEk5c0xEcjF0T1lXYUgxT252Ti03RDFMUkRlbWFUN1lMZnNKT0ZOQQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-19T02:56:30.000Z",
+      "excerpt": "虚拟电厂迈入规模化发展新阶段——《中国虚拟电厂发展报告（2026）》解读 新华网",
+      "section": "cn-news",
+      "rankScore": 0.479801
+    },
+    {
+      "id": "ad89cd5627155bba",
+      "title": "习近平：中俄的发展同亚太的发展紧密相连",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVzhfNDk2M0JKdWFMcDVFaXRlbk9hOF95bVE4eFEtb3MwM3FVWklTQmt2Y0lZX2dvU2ZfWTNwaGZGczBQeXh2cDFYT2NENE9sbmkyckNlOGhsMnc3UzczcjNWS2s3bndkMU0xRmJOY3RrMVlyQWVJcVp3OWdPckVvd1VDMTJHanF1V3E1SXZCWQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-19T01:39:26.000Z",
+      "excerpt": "习近平：中俄的发展同亚太的发展紧密相连 日经中文网",
+      "section": "cn-news",
+      "rankScore": 0.398414
+    },
+    {
+      "id": "8590b10afc75cbf3",
+      "title": "黑龙江共青团“金秋助学”希望工程圆梦行动助力5.6万名学子逐梦成才",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734553.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-19T03:27:19.000Z",
+      "excerpt": "中新网哈尔滨11月19日电(记者 刘璐 赵宇航)11月18日晚，由黑龙江省青少年发展基金会主办的“托举梦的力量”——共青团“金秋助学”希望工程圆梦行动十周年公益分享会在哈尔滨举办。来自社会各界的爱心企业、受助学子等1000余人参加活动。",
+      "section": "cn-life",
+      "rankScore": 0.832788
+    },
+    {
+      "id": "6b3ae6d97a9bafae",
+      "title": "研究表明：常喝咖啡痛风风险可降低",
+      "url": "https://www.chinanews.com.cn/life/2026/11-19/10734493.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-19T01:25:02.000Z",
+      "excerpt": "研究表明：常喝咖啡痛风风险可降低",
+      "section": "cn-life",
+      "rankScore": 0.660023
+    },
+    {
+      "id": "ad7213f055bab30f",
+      "title": "稳岗扩容提质 绵阳人社部门“五端发力”经验受肯定",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pdEd5Ny1ad0NxQmtIQ3ZKbTI1M194dGNMdy1XOGpjcjBZUjNQSmxvcU5xUWhaZHVOVTJnRlNlTE8ya05PRklqUmFrRjk4eFVfMmxkTlpnaDdzWl9TaXNPcTVR?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-19T03:22:57.000Z",
+      "excerpt": "稳岗扩容提质 绵阳人社部门“五端发力”经验受肯定 四川在线",
+      "section": "cn-life",
+      "rankScore": 0.6235
+    },
+    {
+      "id": "ffd36a048f693571",
+      "title": "盐城阜宁：养老场所消防实战演练，提升应急疏散能力",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wZDMyREs3bmhNQ1dPY01aaGxLQjVNeFR3NURpXzRzczVGOVZPNGlVdTlJMnE4Z25NWTllNnRia0RoMkNPVTl2anBqWE5nYS1ORjJZZjltRjlvMGR1RE9vcXVMXzVLTlhYd004bHRSOA?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-19T03:18:00.000Z",
+      "excerpt": "盐城阜宁：养老场所消防实战演练，提升应急疏散能力 紫牛新闻",
+      "section": "cn-life",
+      "rankScore": 0.622262
+    },
+    {
+      "id": "7dc4a3224924d9af",
+      "title": "雷州市委十五届第4次常委会（扩大）会议召开",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41R0QxaDNvM21qbEpvUWNad2FRR1UtR1J4VGhkMGtva0lReGszRy1ralN5d0R5Y0d3ZUlvVk1tNllPOUs3R3JMbXBDLUVVdmlHZWFYRVllY0lzTTYwZGVXZXJBS0VBQkI4dE5V?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-19T02:56:07.000Z",
+      "excerpt": "雷州市委十五届第4次常委会（扩大）会议召开 湛江市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.548259
+    },
+    {
+      "id": "c209567fad32d7ef",
+      "title": "理想i6电池风波：8000个只给4000个",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qOFAzVXZVaE1KUDJGcTc0TjY4d0p1SENmS3RWdHE2a3Z1OXluMTV3ZHZPWEFiQzJoNU1mUlExejhfdFA2anN2ZTZUT2lKY2QtNzVEZWJVYVktdWxWc0Ztckw4SzFLSi13SlhF?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-19T03:39:07.000Z",
+      "excerpt": "理想i6电池风波：8000个只给4000个 汽车之家",
+      "section": "cn-life",
+      "rankScore": 0.488088
+    },
+    {
+      "id": "b2725f95357bf921",
+      "title": "脊髓神经刺激器置入术为顽固性神经病理性疼痛带来新选择",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR0lDTFY2Ynk5M1E3ci1WQW1GOXAzblROSXUzUThkUmdMQzFGcWpaaTBPenRMSjloN3lOZU1icVhnN2xfSk52dXNQd1RDNUExeWV6VDRLZGIxcl9vaFBYNmVkdXFZX293NWxpUGY0VnlzcEJEMTJpWEpmcU14R1dXYmNFRQ?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-19T02:50:34.000Z",
+      "excerpt": "脊髓神经刺激器置入术为顽固性神经病理性疼痛带来新选择 中国新闻网",
+      "section": "cn-life",
+      "rankScore": 0.478647
+    },
+    {
+      "id": "6551e6ef4136261e",
+      "title": "2026年怀柔区社会化管理退休人员宣传教育工作总结大会暨文化志愿服务风采展成功举办",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iSE8zblphUkdsNGlSRHVtYkdwSnkyeXU5eHpodjFiOERfMnljMmtBQlNvNUJQbFVTelhDWFViSEJwSGdqVlI3eGJabjU3eV9FVU9JdUR5b1JrVk5WNUE?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-19T03:11:51.000Z",
+      "excerpt": "2026年怀柔区社会化管理退休人员宣传教育工作总结大会暨文化志愿服务风采展成功举办 京报网",
+      "section": "cn-life",
+      "rankScore": 0.413816
+    }
+  ],
+  "warnings": []
+}
