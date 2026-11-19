@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-19",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-19T19:27:49.901Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "837530f94e215f74",
+      "title": "中美俄元首歷史性會晤 普京獲得外交勝利嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/ck9q84jgpxpjo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-19T17:24:59.000Z",
+      "excerpt": "中國國家主席習近平、美國總統特朗普及俄羅斯總統普京在APEC深圳峰會期間舉行首次三方會談，聚焦烏克蘭危機與核軍控。",
+      "section": "news",
+      "rankScore": 0.764401
+    },
+    {
+      "id": "492e81e94a799ab8",
+      "title": "美国芯片出口管制遇挑战 CNN称多所中国高校采购英伟达芯片",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261119-%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E9%81%87%E6%8C%91%E6%88%98-cnn%E7%A7%B0%E5%A4%9A%E6%89%80%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E9%87%87%E8%B4%AD%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-19T18:59:20.000Z",
+      "author": "娜塔莎",
+      "excerpt": "美国对先进人工智能芯片出口限制的执行面临新的挑战。CNN调查中国高校采购记录发现，至少六所被美国政府列入限制名单的中国高校，近年来曾申报购买受出口管制影响的英伟达（Nvidia）芯片。",
+      "section": "news",
+      "rankScore": 0.685385
+    },
+    {
+      "id": "1ce04438b8c0a771",
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-19T17:23:34.000Z",
+      "excerpt": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+      "section": "news",
+      "rankScore": 0.572647
+    },
+    {
+      "id": "19c08dbea215b950",
+      "title": "Man arrested after ‘horrific’ knife attack on Bradford councillor",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-19T19:18:56.000Z",
+      "author": "Robyn Vinter North of England correspondent",
+      "excerpt": "Politicians call attack on independent councillor Ibrar Ali canvassing in Bradford Moor ward ‘deeply disturbing’ Politicians have described an attack on a councillor who was canvassing in Bradford as “horrific” and “deeply disturbing”, after a man was arrested on suspicion of attempted murder.",
+      "section": "news",
+      "rankScore": 0.556349
+    },
+    {
+      "id": "8705ba78a3eba8a8",
+      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-19T19:07:18.000Z",
+      "author": "Katie Rogers and David E. Sanger",
+      "excerpt": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
+      "section": "news",
+      "rankScore": 0.551577
+    },
+    {
+      "id": "e7e7917333b885f4",
+      "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-19T19:01:00.000Z",
+      "excerpt": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+      "section": "news",
+      "rankScore": 0.548992
+    },
+    {
+      "id": "79a8f8dc2b944131",
+      "title": "Hillary Clinton: What Trump Should Have Said to Putin",
+      "url": "https://www.nytimes.com/2026/11/19/opinion/hillary-clinton-trump-putin-ukraine.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-19T19:24:17.000Z",
+      "author": "Hillary Clinton",
+      "excerpt": "On the one area where the president could still be remembered as a winner.",
+      "section": "news",
+      "rankScore": 0.488726
+    },
+    {
+      "id": "30cf023ea67af3d8",
+      "title": "AMD shares fall after short seller report on China links",
+      "url": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-19T18:40:23.000Z",
+      "excerpt": "Chipmaker down by as much as 11% following warnings by Hunterbrook in the aftermath of Nvidia scandal",
+      "section": "news",
+      "rankScore": 0.472967
+    },
+    {
+      "id": "041997c6c10810b3",
+      "title": "The 'Magic Six': How to strengthen your marriage in midlife",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
+      "source": "npr-news",
+      "publishedAt": "2026-11-19T18:28:23.000Z",
+      "author": "Allison Aubrey",
+      "excerpt": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
+      "section": "news",
+      "rankScore": 0.46866
+    },
+    {
+      "id": "4f61f3a9967dcb71",
+      "title": "货币基金组织总裁：人工智能将成为影响全球竞争力和经济增长的重要因素",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143226",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "excerpt": "国际货币基金组织总裁格奥尔基耶娃周四在中国深圳举行的2026年亚太经合组织经济领导人会议上表示，人工智能正在对全球经济增长产生实质性影响，将成为影响中期竞争力、生产率和经济增长的重要因素。她同时指出，全球通胀上升、公共债务增加以及结构性改革滞后等问题仍对经济前景构成挑战，各国需要加快采取政策行动。",
+      "section": "news",
+      "rankScore": 0.423308
+    },
+    {
+      "id": "753ab29909b4f202",
+      "title": "乌克兰总统泽连斯基：没有和平的欧洲，就不会有协议",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNVngxejJWOGszem9pMVZqUHBPbG1GbVFmdHNjaF83a0d5S2NFRjVKZ0RsQ0tNaHg0TkZQWFJiTW5HU0VsRDM1cWFScHVGMVVZSlJ0WHdoY00xRUNKdWc?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-19T19:01:10.000Z",
+      "excerpt": "乌克兰总统泽连斯基：没有和平的欧洲，就不会有协议 同花顺 德国与芬兰总统：欧洲必须参与乌克兰危机谈判 凤凰网 俄称下轮俄美乌三方会谈仍在阿布扎比举行 时间待定 新浪新闻_手机新浪网 欧洲人发现，她才是欧洲最大的威胁！ 风闻 西方承诺继续军援乌克兰，特朗普与普京见面传闻翻车，欧盟又要破防，美欧两条路线当着全世界撕开，谈判桌上没欧洲的位子，导弹还得靠借 Sohu",
+      "section": "news",
+      "rankScore": 0.411795
+    },
+    {
+      "id": "8e4d0d4712c1ca23",
+      "title": "Cartoon: The meeting of Donald Trump, Xi Jinping and Vladimir Putin",
+      "url": "https://www.economist.com/the-world-this-week/2026/11/19/cartoon-the-meeting-of-donald-trump-xi-jinping-and-vladimir-putin",
+      "source": "economist-week",
+      "publishedAt": "2026-11-19T14:03:33.000Z",
+      "excerpt": "A lighter take on the news",
+      "section": "news",
+      "rankScore": 0.373591
+    },
+    {
+      "id": "32c65e1bbf192b57",
+      "title": "（深圳APEC）亚太经合组织互联互通蓝图发布",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734984.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-19T15:57:46.000Z",
+      "excerpt": "中新社深圳11月19日电 亚太经合组织互联互通蓝图19日发布。蓝图强调，互联互通促进本地区商品、服务、资金和人员流动，有助于密切经济联系、推动长期经济增长；以《2040年亚太经合组织布特拉加亚愿景》为指引，朝着建设开放、活力、强韧、和平的亚太共同体迈进，实现亚太人民和子孙后代的共同繁荣。",
+      "section": "cn-news",
+      "rankScore": 0.710729
+    },
+    {
+      "id": "28bbe3da479db536",
+      "title": "习近平：大国和则世界安，大国斗则世界乱",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-20/10734985.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-19T16:13:45.000Z",
+      "excerpt": "11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。习近平指出——",
+      "section": "cn-news",
+      "rankScore": 0.660518
+    },
+    {
+      "id": "1f0c5913c0c15eb5",
+      "title": "回望地球红飘带，于黔北读懂岁月薪火",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WZENTTlRBQWxFOWdQUGpJdFp4czN1c3RXUlZIWG1YNEtQbEZ3UEd1dDZxVFpkUHp1ZnN5cTZUSmRXVjZVRExYckNrc29SR3BLU3h5ZDRSMF9HZHBnMDg0Mw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-19T17:00:07.000Z",
+      "excerpt": "回望地球红飘带，于黔北读懂岁月薪火",
+      "section": "cn-news",
+      "rankScore": 0.561824
+    },
+    {
+      "id": "3c9f9b42f41f20ea",
+      "title": "王毅：亚太共同体的旗帜更加鲜明、愿景更加清晰、路径更加明确",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xRDhza0VRdVlWS1NWNnRyYktobm9QM1M1R2tDcDNPY250YVM0OW9XVkMwdTAtanh1QUtIWWVTZEhnZkxuZS00VGZGMndJdmtmU0ZadWhZUGVHcl9QTVZxbEhydk9zREt6Z3ByQk9n?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-19T19:07:00.000Z",
+      "excerpt": "王毅：亚太共同体的旗帜更加鲜明、愿景更加清晰、路径更加明确 中华人民共和国外交部 特写：大国外交的“深圳时刻” 新华网 美中俄峰会 习近平呼应特朗普核裁减；普京大秀核肌肉 美国之音 聚焦APEC丨王毅举行中外记者会 中国日报网 王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果 ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.551454
+    },
+    {
+      "id": "360cc87ff898c91e",
+      "title": "《GTA6》今日发售催生“GTA假”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MRnYyYXB5eXhwMVBlOF81SmJ5cHdDemVqbWFGa0hEUEs0azR1c0tBbmZRVC1CbDNXMXhacHBhVGVWWUlIYW1IUG55RlNJY0tDZl94dzhrVEQyX3o2ZzQtTA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-19T15:29:39.000Z",
+      "excerpt": "《GTA6》今日发售催生“GTA假” Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.52007
+    },
+    {
+      "id": "79e1c5505666ec9c",
+      "title": "（深圳APEC）外媒镜头里的深圳：机器人群舞、无人机送餐，科幻走进现实",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734970.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-19T14:50:46.000Z",
+      "excerpt": "中新网北京11月19日电 题：外媒镜头里的深圳：机器人群舞、无人机送餐，科幻走进现实",
+      "section": "cn-news",
+      "rankScore": 0.502124
+    },
+    {
+      "id": "5c4aac53ed727099",
+      "title": "中俄美元首會晤 中國外長：大國加強溝通符合世界期待",
+      "url": "https://www.cna.com.tw/news/acn/202611200002.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-19T16:26:30.000Z",
+      "excerpt": "（中央社記者李雅雯深圳19日電）中國外交部長王毅今天晚間表示，中俄美三國元首首次會晤是歷史性事件。各種風險挑戰層出不窮，國際社會對於大國加強溝通協調呼聲高漲，這次會晤適應時代潮流、符合世界期待。",
+      "section": "cn-news",
+      "rankScore": 0.485608
+    },
+    {
+      "id": "ed5ae3279f45bdc1",
+      "title": "FCC votes to ban Chinese telecoms from direct access to US phone numbers",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-19T18:21:18.000Z",
+      "author": "Reuters",
+      "excerpt": "The US ⁠Federal Communications Commission voted on Thursday ⁠to ban Chinese telecoms firms from direct access to US phone numbers on national security grounds – a measure designed to prevent scam-related robocalls.",
+      "section": "cn-news",
+      "rankScore": 0.466117
+    },
+    {
+      "id": "451edde20b90a4fe",
+      "title": "美联储多官员接连放鹰：通胀目标仍未实现 有必要进一步加息",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96LS1mT3diYUJpYXpzZ3Fxd2NoQTFIaVFqOXF1VFlfMHRlZEFLQmJhZ0dNdlQ1RXBPMFJuanFiM3FldUhjWVNPYVZ0NmVYdm1tX0FKUFBSSXA2SnRqLXJfN3pBS0dPUQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-19T15:36:46.000Z",
+      "excerpt": "美联储多官员接连放鹰：通胀目标仍未实现 有必要进一步加息 东方财富网 摩根大通：预计美联储将加息三次，分别在12月、1月和3月，使联邦基金利率达到4.5%-4.75% 凤凰网财经 一觉醒来，黄金、白银、有色下跌 同花顺财经 美联储10月会议纪要：几乎所有官员认为仍需进一步加息，AI投资风险受关注 ThePaper.cn 加息阴云重新笼罩华尔街：英伟达\"业绩炸裂\"难阻跌势，AI叙事进入\"验真\"阶段 金融界",
+      "section": "cn-news",
+      "rankScore": 0.407054
+    },
+    {
+      "id": "ebb7c420450438a2",
+      "title": "美中俄峰会 习近平呼应特朗普核裁减；普京大秀核肌肉",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1dtY1I2ZVl2UFJ5T3p6c09wZjBxMXowcllEYWxidW40bGNLTzI4Q0VqeGFld2ZCaXRHZzk0Y0dLTkZ1YkxwZEpndi1kX3NrLWJmekxPdWs3VFhHNlNYVFJ3cl8yMmE5ODVHNFMzcUZHUjNJT1dKVTQtWEd4UDVBU0ZZdXREOEFSeTlsNUEweWVJZVpldkFab0N6Q0JUWVZzbmlfNXlyb1M4eV94c0JxVWdBUjQ4Q2IyQk5lSDhIc19qbEp1SjBpaE930gHMAUFVX3lxTE1uZmhPcUM5engyOGk5NFVwLVhBQ3NYTER0d2oxeW9qNTBtV1ZfTmU1SE45bDJodjJUQUVxQTQ5cHJVbTFuU0FuSTQyWnZLS195Z2djWXBSOF9ZX1FRd0RYd3h2b0xOMS1ZOHh4bFR0TFJ6MXByUWR1di1seDdyTW9BMzFKMHZWZm9BREtlM0V3NVR1OHFtMjhTN01hckR3VlVldkRsQk4zMkxkUFQwWTN2MnFKUFBnbWlJSDNTSDUyMy1EMnRINkNPUWoteQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-19T17:59:36.000Z",
+      "excerpt": "美中俄峰会 习近平呼应特朗普核裁减；普京大秀核肌肉 美国之音 特写：大国外交的“深圳时刻” 新华网 聚焦APEC丨王毅举行中外记者会 中国日报网 王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果 ThePaper.cn 环球时报：中俄美历史性会晤，是对“台独”的一记重锤 新浪新闻_手机新浪网",
+      "section": "cn-news",
+      "rankScore": 0.392852
+    },
+    {
+      "id": "8c7cded0a098abd8",
+      "title": "难忘二战记忆——火光之下，不只是新加坡",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734976.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-19T14:56:14.000Z",
+      "excerpt": "“四周一片漆黑，新加坡看起来就像一团火。许多船被击沉了，海面上都是残骸。”这是1942年新加坡沦陷后，来自乘船逃难者的口述。空袭、肃清、占领、酷刑……火光之下，映照出的是日本军国主义曾给地区人民带来的战争伤痛。",
+      "section": "cn-life",
+      "rankScore": 0.672863
+    },
+    {
+      "id": "66fcad77c3695065",
+      "title": "【外国语学院】精准帮扶指迷津 就业座谈启新程",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTQ2RmNEFmYTJYUmJabmdPREFCV3N0MjJudm94aWxyZERWa0xqNVh3cDUxMmNuVUhLT1ZUM1B6c3NUcFNCQjE0MkVVdmV1eGxWenI2MTZ5S0s?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-19T17:07:22.000Z",
+      "excerpt": "【外国语学院】精准帮扶指迷津 就业座谈启新程 武汉科技大学",
+      "section": "cn-life",
+      "rankScore": 0.56517
+    },
+    {
+      "id": "71a8bf2307a086db",
+      "title": "阵风6、7级！北京市发布大风蓝色预警 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3Bva0w5UEczUXg5a1kwWHh0aEdmNFRQWHRtWmxEbE9jemtiRHBEeWZhMXlzZ0RUQkd6aG0yUE82YU9wa1hWaDF6cXN1LU5LNWJvRDRXWTF6WU9HOS1yWW41NEs4STFta1BQX0YxZWVxX0hYRFF3SDZvVlhDaGRxRFhVWlJ5TXpQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-19T14:01:18.000Z",
+      "excerpt": "阵风6、7级！北京市发布大风蓝色预警 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.479293
+    },
+    {
+      "id": "6e119a8a70d8811d",
+      "title": "儿童怀疑便秘，开塞露用了还是痛，真的是便秘吗？结果出乎意料。-yeeyi - yeeyi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EdUIxeGVZTl90bzhzWlRlNnY1bEdqYjdWLVlBalNnZlloOWFJRmN5b1h4TW4xWkx6NEp6UnNmWUg3b3N4Y3plSlBhWjExZ2hKTVlkLWt3?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-19T17:18:16.000Z",
+      "excerpt": "儿童怀疑便秘，开塞露用了还是痛，真的是便秘吗？结果出乎意料。-yeeyi yeeyi",
+      "section": "cn-life",
+      "rankScore": 0.443489
+    },
+    {
+      "id": "e7ba6ab4ede8236e",
+      "title": "篮网召回约书亚鲍威尔和萨拉夫",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LUTJGMVRSS2hHNTRWVlFoS1FsVi1LV3ZLNjhZNmhPei1YdGZsOHQ5dVdxUnZLcFVNcjJISVFLMHlxU1RoS3l4Z2dYMA?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-19T16:52:05.000Z",
+      "excerpt": "篮网召回约书亚鲍威尔和萨拉夫 虎扑",
+      "section": "cn-life",
+      "rankScore": 0.43409
+    },
+    {
+      "id": "4e0547b25b9979f1",
+      "title": "晋江市安全稳定工作专题会召开_晋江要闻",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHR3d5VTBmd3BIT2ZPbU9uSlpqOGNFdEllV1ZnOV9HemRYYmo0TmRCaGIxZmk0WkRiR1lfWHdkcWFCTE5id2p0SmNGckZKdEFNNnNhS2hTSGF1Z2lzME1tYW1MUWVfdG1DV0NMVkJYS1BRYWo0?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-19T13:18:00.000Z",
+      "excerpt": "晋江市安全稳定工作专题会召开_晋江要闻 晋江市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.408274
+    },
+    {
+      "id": "f355aa7521d5221e",
+      "title": "“送给孩子一束法治的光”未成年人普法活动（第八场）：以案为鉴加强未成年人思想及行为教育引导 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GRmNyaDEzQ2szQWE1RTNoWVBUaVJVYnZHSmRXcjNkVElVc2hUMmJhLUhhbk5GRVc5aUQwNFJkMU5FOUpLc2pJdzh0NVF0V1BzVkQ2MQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-19T15:29:47.000Z",
+      "excerpt": "“送给孩子一束法治的光”未成年人普法活动（第八场）：以案为鉴加强未成年人思想及行为教育引导 21财经",
+      "section": "cn-life",
+      "rankScore": 0.346754
+    },
+    {
+      "id": "e71df95814646500",
+      "title": "大风、寒潮！局地降温12℃以上（附保暖防寒攻略）",
+      "url": "https://www.chinanews.com.cn/life/2026/11-19/10734672.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-19T07:48:25.000Z",
+      "excerpt": "受冷空气影响",
+      "section": "cn-life",
+      "rankScore": 0.341326
+    }
+  ],
+  "warnings": []
+}
