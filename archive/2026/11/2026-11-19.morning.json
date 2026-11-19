@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-19",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-19T03:15:55.762Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "642e314290b46a84",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-19T03:15:55.762Z",
+      "score": 1059,
+      "excerpt": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "section": "tech",
+      "rankScore": 1.17
+    },
+    {
+      "id": "0ef70e942a5da956",
+      "title": "We need smart people who give a shit",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-18T23:53:49.000Z",
+      "score": 277,
+      "author": "ExMachina73",
+      "excerpt": "277 points · 142 comments · https://news.ycombinator.com/item?id=50554045",
+      "section": "tech",
+      "rankScore": 0.872629
+    },
+    {
+      "id": "ff6ff6c74d960c6a",
+      "title": "Incidents in the news",
+      "url": "https://surfingcomplexity.blog/2026/11/18/incidents-in-the-news/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-19T01:45:23.000Z",
+      "author": "surfingcomplexity.blog via azhenley",
+      "section": "tech",
+      "rankScore": 0.657977
+    },
+    {
+      "id": "cb6ad46f0cc080fa",
+      "title": "Wait for pull request events with GitHub CLI",
+      "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-19T00:00:13.000Z",
+      "author": "Allison",
+      "excerpt": "GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it…",
+      "section": "tech",
+      "rankScore": 0.645635
+    },
+    {
+      "id": "6db82b8c1a2ba67c",
+      "title": "Orbin' with Amp",
+      "url": "https://changelog.com/podcast/691",
+      "source": "changelog",
+      "publishedAt": "2026-11-18T20:00:00.000Z",
+      "excerpt": "Quinn Slack is back and we're talking about the next level for Amp. Agents write the code, they review the code, and they can push it to main (like our friends at Amp). But where should your agents live? Who remembers what you actually asked them to do?",
+      "section": "tech",
+      "rankScore": 0.564436
+    },
+    {
+      "id": "663f14e1266fe2c4",
+      "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+      "url": "https://blog.cloudflare.com/open-clairic/",
+      "source": "cloudflare",
+      "publishedAt": "2026-11-18T22:00:00.000Z",
+      "excerpt": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI.",
+      "section": "tech",
+      "rankScore": 0.551018
+    },
+    {
+      "id": "8525bd6b2698cbca",
+      "title": "v2.1.328",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
+      "source": "anthropic",
+      "publishedAt": "2026-11-19T01:14:04.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Added auto mode for Claude Opus 4.6 and Sonnet 4.6 on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude apps gateway; interactive sessions with no permission mode start in it Added \"onFailure\": \"block\" for mcp_tool hooks, as for command and HTTP hooks: a…",
+      "section": "ai",
+      "rankScore": 0.832687
+    },
+    {
+      "id": "4c3aff3ac0fe1ddc",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "huggingface",
+      "publishedAt": "2026-11-18T18:53:43.000Z",
+      "section": "ai",
+      "rankScore": 0.630559
+    },
+    {
+      "id": "ed3eb2654b19c517",
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-18T15:58:27.000Z",
+      "excerpt": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually.",
+      "section": "ai",
+      "rankScore": 0.614174
+    },
+    {
+      "id": "6285ab916b7a2aae",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "source": "openai",
+      "publishedAt": "2026-11-18T10:00:00.000Z",
+      "excerpt": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "section": "ai",
+      "rankScore": 0.515302
+    },
+    {
+      "id": "95fea7a43065179f",
+      "title": "哎 裁员了 好难受",
+      "url": "https://www.v2ex.com/t/1258180",
+      "source": "v2ex",
+      "publishedAt": "2026-11-19T01:55:26.000Z",
+      "score": 50,
+      "author": "Mandmg",
+      "excerpt": "国内一家公司出海, 我在的海外实体签的 Service Agreement(服务合同) 远程办公 然后昨天 HR 通知我项目不行/不盈利,直接关业务了. 所以服务合同终止, 也没有赔偿(这个有预期,签的时候知道是服务合同) 其实早有预感项目不行, 只是没想到这一天来的这么快. 然后突然收到这个消息,感觉挺难受的. 因为在老家 浙江宁波, 简直是互联网荒漠 , 原来毕业就在深圳/杭州/上海待了七年回到宁波, 有点不想再出去了. 现在这个情况宁波非常难找工作. 有些焦虑. 害",
+      "section": "cn-tech",
+      "rankScore": 0.852876
+    },
+    {
+      "id": "036f14f75460f2ba",
+      "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+      "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-19T03:15:55.762Z",
+      "excerpt": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "f30fd40d33767169",
+      "title": "Apache SeaTunnel 3.1.0 发布：让生产任务更稳，也让部署更灵活",
+      "url": "https://www.oschina.net/news/503658",
+      "source": "oschina",
+      "publishedAt": "2026-11-19T03:08:17.000Z",
+      "excerpt": "从 3.0.0 到 3.1.0，SeaTunnel 社区围绕一个很实际的问题继续推进：数据集成任务怎样更容易部署、更方便运维，同时尽量不丢数据、不悄悄改错数据？官方发布说明汇总了 395 个 PR 和 11 个新连接器。本次版本的主线并非单纯扩充连接器清单，而是加强 Zeta 引擎稳定性、Connector-V2 数据正确性，并补齐生产部署与排障能力...",
+      "section": "cn-tech",
+      "rankScore": 0.628088
+    },
+    {
+      "id": "847ee71f14deb421",
+      "title": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央",
+      "url": "https://www.36kr.com/p/4076058991219589",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-19T02:43:14.000Z",
+      "author": "极客公园",
+      "excerpt": "谷歌，这次是真的回来了。 11 月 18 日，Google DeepMind 点亮了 Gemini 4 Neon 的霓虹灯牌。 这是 Gemini 4 系列在短短 7 周内甩出的第 4 款元素模型 。如果看一眼官方放出的基准跑分长表和社区实测反馈，你会发现它精准卡在了一个极其舒服的「甜点」位上，既有接近、甚至局部反超旗舰的硬核智商，又把单任务成本砍到了竞争对手的一半左右。 在 Reddit 技术社区里，挑剔的开发者们罕见地给出了一边倒的好评，直呼它「 便宜得离谱又强得可怕 」。",
+      "section": "cn-tech",
+      "rankScore": 0.621826
+    },
+    {
+      "id": "0b414f33023ee3c6",
+      "title": "Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
+      "url": "https://www.infoq.cn/video/xsEfht2OwBZQBvWVHSIb?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-18T18:50:07.000Z",
+      "author": "凌敏",
+      "section": "cn-tech",
+      "rankScore": 0.559496
+    },
+    {
+      "id": "24a07189c894c660",
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-18T18:15:39.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.",
+      "section": "security",
+      "rankScore": 0.549922
+    },
+    {
+      "id": "f6928d32385036ce",
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-18T17:10:45.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization…",
+      "section": "security",
+      "rankScore": 0.531895
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
