@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-19",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-19T20:29:28.539Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "ee9dbdb569b36f5e",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-19T20:29:28.539Z",
+      "score": 899,
+      "excerpt": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "section": "tech",
+      "rankScore": 1.164
+    },
+    {
+      "id": "153c83d7d5cd6491",
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-19T17:02:40.000Z",
+      "score": 526,
+      "author": "wslh",
+      "excerpt": "526 points · 828 comments · https://news.ycombinator.com/item?id=50562754",
+      "section": "tech",
+      "rankScore": 1.018294
+    },
+    {
+      "id": "1e8b219268e394c9",
+      "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
+      "url": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+      "source": "google-developers",
+      "publishedAt": "2026-11-19T20:29:28.539Z",
+      "excerpt": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the approach significantly improves complex reasoning and tool compliance in…",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "3269f39e4476d777",
+      "title": "Visualizing a Ledger with pgledger-ui",
+      "url": "https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-19T19:55:10.000Z",
+      "author": "pgrs.net by pgr0ss",
+      "section": "tech",
+      "rankScore": 0.666571
+    },
+    {
+      "id": "17bdcad420cd121a",
+      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-11-19T17:08:59.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more",
+      "section": "tech",
+      "rankScore": 0.66498
+    },
+    {
+      "id": "3e9a845bb415e4ef",
+      "title": "The Invisible Systems: What Happens Between Services",
+      "url": "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-19T16:30:47.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "When you draw a system architecture diagram, services are often shown as boxes, and arrows between them show the communication pathways.",
+      "section": "tech",
+      "rankScore": 0.644971
+    },
+    {
+      "id": "0852823657b20480",
+      "title": "GPT-Live-1.1 Full-duplex voice model for multilingual conversations.",
+      "url": "https://developers.openai.com/api/docs/models/gpt-live-1.1",
+      "source": "openai",
+      "publishedAt": "2026-11-19T20:29:28.539Z",
+      "section": "ai",
+      "rankScore": 0.875
+    },
+    {
+      "id": "db2a781b7c13cfa3",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "google-ai",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "excerpt": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "section": "ai",
+      "rankScore": 0.60025
+    },
+    {
+      "id": "ea2e757d7a447cda",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "openai",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "excerpt": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "section": "ai",
+      "rankScore": 0.428884
+    },
+    {
+      "id": "bfe4d38f405bbf50",
+      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-19T07:07:43.000Z",
+      "author": "swyx .ai",
+      "excerpt": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+      "section": "ai",
+      "rankScore": 0.350031
+    },
+    {
+      "id": "60d35c9578caf4a2",
+      "title": "从 LOOP 到图探索 —— 算法模型的 AutoResearch 自进化系统架构演进之路",
+      "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-19T20:29:28.539Z",
+      "excerpt": "本文分享这套系统的设计理念、架构演进与可信度设计，希望对大家有所帮助或启发。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "4219c4703d4d89a0",
+      "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
+      "url": "https://www.solidot.org/story?sid=85937",
+      "source": "solidot",
+      "publishedAt": "2026-11-19T16:34:10.000Z",
+      "excerpt": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其余电力将来自可再生能源，核能发电占比相对较小，天然气发电占比极低。相比下美国数据中心约 60% 的电力将依赖天然气供应。截至今年 8 月，美国已有约 180 GW 的新建天然气发电项目规划为数据中心供电。",
+      "section": "cn-tech",
+      "rankScore": 0.646743
+    },
+    {
+      "id": "79b6436281fcacb3",
+      "title": "模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
+      "url": "https://www.infoq.cn/article/6xqcZfMgJ99ZQiGFbjym?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-19T18:05:40.000Z",
+      "author": "褚杏娟",
+      "section": "cn-tech",
+      "rankScore": 0.63152
+    },
+    {
+      "id": "3de8ec4eb0c6c21b",
+      "title": "谈谈我的使用感受 Gemini 新发布的几个模型 [时间: 2026.11.19]",
+      "url": "https://www.v2ex.com/t/1258296",
+      "source": "v2ex",
+      "publishedAt": "2026-11-19T07:42:21.000Z",
+      "score": 26,
+      "author": "jtjing",
+      "excerpt": "一、整体感觉: 1. GPT： 做页面审美很不错，如果觉得不行，可以找一个竞品网站让他分析然后抄一下样式，效果会好很多，给大家个通用的例子 openrouter 这个网站界面非常适合参考。我几乎所有的网站都是先拿这个网站做基准。 2. Cluade： 要用 opus 5.5 绝对主力，Fable 95%的开发时间没必要，适合长时间工作，代码品味就是克制，慢慢一步一步渐进式架构。符合我的工程直觉。 现在不用了因为被封号了。 3. grok: 做一些小项目合适主要要用他在 cursor 里面的 multi 模式，+ 语音助手，可以一次说几十个任务。",
+      "section": "cn-tech",
+      "rankScore": 0.544232
+    },
+    {
+      "id": "33a59fc4d0d3e0a2",
+      "title": "OpenAI自曝递归自我提升，智能体指数级爆发，人类已成瓶颈",
+      "url": "https://www.36kr.com/p/4076622726714244",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-19T13:15:14.000Z",
+      "author": "新智元",
+      "excerpt": "OpenAI毫无征兆地宣布： 「递归自我提升」（RSI，Recursive Self-Improvement）的齿轮，已经正式开始转动。 通俗来说，OpenAI亲口作证：AI开始研发AI了！ 长久以来，人们都在猜测超级人工智能（ASI）会在哪一天降临。大家盯着大模型的跑分，盯着参数量的飙升。 但OpenAI明确告诉你：通往ASI的真正拐点，根本不是模型跑分超越人类，而是「AI开发AI」闭环的成型。 算力狂欢，每天烧掉2.3万美金的「超级打工人」 在OpenAI内部，研究员们使用AI智能体的频率，已经彻底失控——当然，是向上的失控。",
+      "section": "cn-tech",
+      "rankScore": 0.443896
+    },
+    {
+      "id": "f5f7d0485ff57997",
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-19T18:47:58.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem.",
+      "section": "security",
+      "rankScore": 0.651662
+    },
+    {
+      "id": "10539bed1847bb37",
+      "title": "libumqtt",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure.",
+      "section": "security",
+      "rankScore": 0.457393
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
