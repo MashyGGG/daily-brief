@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-21",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-21T16:45:27.513Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 11,
+  "items": [
+    {
+      "id": "e7e2f21a296fcf07",
+      "title": "Paul Schrader embraces AI filmmaking despite fears it can imitate his scripts - Superpower Daily",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHMxRHlPcnpDaW5jV0lRQjhNMGRaQ1A2SFd5OGROSElIX0l4bUVKRExFZ2hNZ0owYjl2QnJQd1BlZ1o3b0xSY0RnZXpmeTFpWmVxemtOQ09vdVlUbFpxRFVDaDRkTHpOc2xoNmRhWHRZRTBmbFB4NWVzUFJkMUYzM3hTaVNxekZBdmUwQk5SWHQtUjNNT0dFN3ZkMm05NlRZLVN4Rl9uMGxUVkV3WkVrWg?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-21T12:41:19.000Z",
+      "excerpt": "Paul Schrader embraces AI filmmaking despite fears it can imitate his scripts Superpower Daily",
+      "section": "drama-news",
+      "rankScore": 0.666091,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "038bb3b087509726",
+      "title": "王陌潇：从内容出海到品牌生长 重新审视AI漫剧的全球传播路径",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTjNNTGlSM3RZSEREQ2Z5amc0UnRySUUyRjVjVWpiUUFJcmFIc3lIRldjMm5RampYd093OHpCMGtxQXAySktvaVZGVkY1LUIxdXVOVlN2Vk1MUU0?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-21T11:00:34.000Z",
+      "excerpt": "王陌潇：从内容出海到品牌生长 重新审视AI漫剧的全球传播路径 四川在线",
+      "section": "drama-news",
+      "rankScore": 0.652098,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "84658eb8476bbe0e",
+      "title": "李沣润：爽感卖点不长远，文化内核才是AI漫剧出海的底气",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpb2tOZENWejBnd0Jwc0Zic281U0dVSkduLVh1NDFBRDFiZjR4WHpuYnJZbHF4RWJjVjZMemxyMWVQX1dUQlNia3BKbzlWQQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-21T10:53:00.000Z",
+      "excerpt": "李沣润：爽感卖点不长远，文化内核才是AI漫剧出海的底气 川观新闻",
+      "section": "drama-news",
+      "rankScore": 0.651047,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "84308bef2ab8c6d1",
+      "title": "詹恂：剖析南亚市场 探索AI漫剧出海的文化转译与叙事创新",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oYnJuWGFWQ1FwTS1vUXJkcHRWRmVHWTBsSkZHQXNubWpsOHlvcWlFRzY1ZFRpaW1WVXMtVi1scHVHbWdCYjI1M29PMXo5VTNGcWNoWHlFQXN3Wkk?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-21T10:41:41.000Z",
+      "excerpt": "詹恂：剖析南亚市场 探索AI漫剧出海的文化转译与叙事创新 四川在线",
+      "section": "drama-news",
+      "rankScore": 0.649476,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "11e98c405183429e",
+      "title": "专访 | 头部平台+超级个体？麦芽传媒看到了AI短剧的下一站 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU3lEeFkzY1g3UlVuN1FVZTZmVHdFSjRnMXFhcjM3QXNQajU4TndwcGRWWl90VmYxdUNxOEFnVS1TaTVPbU5na2pfbnJxWkR5czFLNHRfTC1JNkd1NkZGeFJQOGpaWTVlS2Z6ZkZFQzQ0RUlkM2lNU3hKWkloYldMdUV3dmV3enRXdFY2TA?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-21T09:08:06.000Z",
+      "excerpt": "专访 | 头部平台+超级个体？麦芽传媒看到了AI短剧的下一站 Sohu",
+      "section": "drama-news",
+      "rankScore": 0.636478,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "7b630d79acbac6a7",
+      "title": "中国技术+海外视角！西安AI短剧扬帆出海",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKc0hqRmV0QlFTWERTeUswX3pLdnJXNHo2eGNhOGhkNnRZYVVIT0pTSzRRYkFvRmp4UDNvNHhjTDIyZmpGMVAtcENDM1I?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-21T05:32:21.000Z",
+      "excerpt": "中国技术+海外视角！西安AI短剧扬帆出海 凤凰网",
+      "section": "drama-news",
+      "rankScore": 0.606513,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "7201e7611e7678c0",
+      "title": "11月21日（发布）。AI短剧《丑狐》爆火，创作者称原本只有两集，因评论催更才有了续集，出圈台词“人一旦寒心脸是会跟着变的”灵感源于辛苦工作导致面相变化。（来源：新闻夜航） - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ195MTE4RlUyT09mT04tOUN0TkNPMGdNRFpXbnRQaFlNTW5iaWZLY1JKWU1hM01DckhDcGk4dno4M1gwZERxeHdPUkhCcE12OWlxTnc1OHZDNnI4eWpMeFhOSmdia3hTeHI0T3RNQ1hZMWRFZmhJbm1jLXptQkgyajFRcTR5a1RCZzNzRA?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-21T05:13:00.000Z",
+      "excerpt": "11月21日（发布）。AI短剧《丑狐》爆火，创作者称原本只有两集，因评论催更才有了续集，出圈台词“人一旦寒心脸是会跟着变的”灵感源于辛苦工作导致面相变化。（来源：新闻夜航） Sohu",
+      "section": "drama-news",
+      "rankScore": 0.603825,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "d73941911b9e4d7d",
+      "title": "共话AI漫剧出海，这场研讨会干货拉满！AI Comic Dramas Going Global: This Seminar Sparked a Lively Discussion!",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SWDlsTkNHcEpkbUVjbnRDNG5UOHBNc0hOM3dteldFMFhHV1hDanlWYU04SEd3WDRqUkZFbTFlV2tWdmNyblE1cm9HMjRaQQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-21T03:21:00.000Z",
+      "excerpt": "共话AI漫剧出海，这场研讨会干货拉满！AI Comic Dramas Going Global: This Seminar Sparked a Lively Discussion! 川观新闻",
+      "section": "drama-news",
+      "rankScore": 0.58827,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "b0a4c6b54aa856ba",
+      "title": "完美世界11月20日回应AI影像联盟话题：没有AI短剧平台，正探索AI影视应用_公司新闻",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFOHFYNE1keVEtcm9hYVJlM3BYNXVUQU03S1FoZjNtd1o4Qlpxc3BuVmI1elE3TzdKTzZfZmNfbVBORjZManc1cHJ2UzBTY05wczBRTnZqLVdZTUViTnpZWGhn?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-20T23:11:18.000Z",
+      "excerpt": "完美世界11月20日回应AI影像联盟话题：没有AI短剧平台，正探索AI影视应用_公司新闻 证券之星",
+      "section": "drama-news",
+      "rankScore": 0.553589,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "b5b1282588d11dd1",
+      "title": "可灵AI：快手三季度财报表上的“加减法”，正在成为商业化上的“正收益” - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYnF1VzczcFY4X1lyLUVCRjhHdWFmWVNnRDJHajBscmpQLVRxNzNjT0hETkQyUWs3SmZfcTBueXNDUmVPVlZpQkZCckN1a3BHM1I5OUJuRFlDaEFPQVNjRlFFMjFzM0FFbEJETnJzTHZyaHVPeHIzdE00aDdyMkhfcUE4ajZWaGM5bFhLMg?oc=5",
+      "source": "drama-cn-models",
+      "publishedAt": "2026-11-20T07:41:00.000Z",
+      "excerpt": "可灵AI：快手三季度财报表上的“加减法”，正在成为商业化上的“正收益” Sohu",
+      "section": "drama-news",
+      "rankScore": 0.27584765,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "09e0ccf162ee8bfe",
+      "title": "v0.46.2",
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.2",
+      "source": "drama-comfyui",
+      "publishedAt": "2026-11-20T21:58:18.000Z",
+      "author": "comfyanonymous",
+      "excerpt": "ComfyUI v0.46.2",
+      "section": "drama-tools",
+      "rankScore": 0.7771335,
+      "editorial": {
+        "kind": "release",
+        "evidence": "excerpt",
+        "reason": "来自已配置的官方技术来源。",
+        "action": "核对版本、使用条件和授权，再判断是否用于当前练习。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 1/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "从短镜头拼成完整故事",
+      "url": "https://help.runwayml.com/hc/en-us/articles/26871350018835-How-to-create-longer-videos-and-films",
+      "task": "拆解一条喜欢的 30–60 秒作品，记录开头、变化、结尾和每镜时长。",
+      "doneWhen": "有一张至少 6 镜头的拆解表。"
+    }
+  }
+}
