@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-21",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-21T03:08:56.339Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "19549f362eaec6db",
+      "title": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-21T03:08:56.339Z",
+      "score": 979,
+      "excerpt": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "section": "tech",
+      "rankScore": 1.16
+    },
+    {
+      "id": "663b49ab5a80f2b1",
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-20T20:12:19.000Z",
+      "score": 738,
+      "author": "jasondavies",
+      "excerpt": "738 points · 124 comments · https://news.ycombinator.com/item?id=50581260",
+      "section": "tech",
+      "rankScore": 0.991895
+    },
+    {
+      "id": "939e367c86e35903",
+      "title": "Check what your AI agents do before they do it, with Semantic governance policies",
+      "url": "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
+      "source": "google-developers",
+      "publishedAt": "2026-11-21T03:08:56.339Z",
+      "excerpt": "Semantic governance policies enable developers to govern AI agents by evaluating every proposed tool call inline before execution. Operating via Agent Gateway, the policy engine checks each action against user intent and plain-language rules to prevent unauthorized data sharing and prompt…",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "7db32c50b30ca19e",
+      "title": "Verifying formal models of Raft implementations",
+      "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-20T21:54:45.000Z",
+      "author": "antithesis.com via a4j",
+      "section": "tech",
+      "rankScore": 0.597407
+    },
+    {
+      "id": "5f795ae293815ac8",
+      "title": "GitHub Enterprise Server 3.23 release candidate",
+      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-20T20:41:26.000Z",
+      "author": "Allison",
+      "excerpt": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.23 release: When working in GitHub Projects, you…",
+      "section": "tech",
+      "rankScore": 0.59236
+    },
+    {
+      "id": "2f449e89baf70b86",
+      "title": "A seminal moment in computing",
+      "url": "https://changelog.com/podcast/692",
+      "source": "changelog",
+      "publishedAt": "2026-11-20T20:00:00.000Z",
+      "excerpt": "MG, founder and CEO of WorkOS, is back to talk about leading a company through what DHH called a seminal moment in computing. He explains Atlas, the AI coworker WorkOS built for itself and then launched, why agents will soon choose and sign up for your tech stack, and why this moment feels closer…",
+      "section": "tech",
+      "rankScore": 0.566329
+    },
+    {
+      "id": "3782f1d2d056a85d",
+      "title": "v2.1.330",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
+      "source": "anthropic",
+      "publishedAt": "2026-11-20T22:32:56.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Added sign-in to organizations managed in Anthropic's Enterprise Admin Console: after claude auth login , Claude Code applies the organization's settings and uses its cloud provider or gateway Added easel, a built-in mod that draws charts when asked and under MCP metrics results, on…",
+      "section": "ai",
+      "rankScore": 0.779165
+    },
+    {
+      "id": "0eb783a075434e67",
+      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "url": "https://latent.space/p/formal-verification/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-20T21:18:41.000Z",
+      "author": "Richard MacManus",
+      "excerpt": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+      "section": "ai",
+      "rankScore": 0.662977
+    },
+    {
+      "id": "6b5a567b303784a7",
+      "title": "25万页证明，黎曼猜想被AI“解决”了吗？",
+      "url": "https://www.36kr.com/p/4078902157185920",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-21T02:49:35.000Z",
+      "author": "果壳",
+      "excerpt": "2026 年 11 月，Anthropic 数学家阿尔珀格宣称与 Claude 合作找到了黎曼猜想的证明。这项主张引发数学界关注，相关核验仍在进行丨vectorfusionart / Shutterstock 2026年11月20日，在人工智能公司Anthropic工作的数学家勒温特·阿尔珀格（Levent Alpöge）在个人网站上发出一份简短说明。 他说，自己 借助AI模型Claude，找到了黎曼猜想的证明 。 消息传出，数学界炸开了锅。这篇证明没有任何传统意义上的论文，也没有投稿给学术期刊，直接附带的是一套由AI生成的机器代码。",
+      "section": "cn-tech",
+      "rankScore": 0.625161
+    },
+    {
+      "id": "8f884c7641a4549b",
+      "title": "AI 来了，团队究竟怎么变？",
+      "url": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-20T18:43:54.000Z",
+      "author": "AICon 全球人工智能开发与应用大会",
+      "section": "cn-tech",
+      "rankScore": 0.559711
+    },
+    {
+      "id": "dcd930e99cbac45c",
+      "title": "反重力太难用了，做了个魔改插件",
+      "url": "https://www.v2ex.com/t/1258519",
+      "source": "v2ex",
+      "publishedAt": "2026-11-20T05:38:55.000Z",
+      "score": 12,
+      "author": "hicohuang",
+      "excerpt": "最近哈吉米新模型下饺子，Claude 又被封了，Neon 差不多能平替 Opus，但是哈吉米封反代就查的很严，不得不把日常主力切到反重力桌面端，但客户端有两个地方一直用不太惯。 一个是执行过程太黑盒。客户端默认把推理藏在折叠块里，连续调十几个工具也一声不吭，跑完直接收进一个 Worked for Xm 外框（知识工作模式下跑完连工具记录都会清掉），中途很难看清它查到了哪一步。另一个是常用控件太散，模型菜单平铺一长串，界面上也看不到当前会话的上下文占了多少。",
+      "section": "cn-tech",
+      "rankScore": 0.550494
+    },
+    {
+      "id": "2e0f8813b22a93fa",
+      "title": "阿里巴巴警告未来两年算力紧缺",
+      "url": "https://www.solidot.org/story?sid=85947",
+      "source": "solidot",
+      "publishedAt": "2026-11-20T12:48:17.000Z",
+      "excerpt": "阿里巴巴集团首席执行官吴泳铭在星期四召开的二季度业绩电话会上说，全球各区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到 2032 年全球数据中心规模超过 20 吉瓦的目标有可能下调，资本开支可能有一定程度降低。不过公司管理层相信，美国商务部的算力管制新规对 AI 产品进度的影响短暂，公司目前已经运用自行研发的晶片训练下一代大模型。阿里巴巴预测，2027 年及 2028 年将是中国算力市场最紧缺的两年。",
+      "section": "cn-tech",
+      "rankScore": 0.507022
+    },
+    {
+      "id": "1d047e871a36abf5",
+      "title": "我被显存和尺寸坑了几次， 才摸清这套画布",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0T0Jmd1d1Z1hMMVB4Z1AtRmhiLUJuVUZzMG94cHRXdUYzNDlVYkNxSTB2UnVKWEY2WGcyT1FXSjFqNlpQeGNObExlRFplRFlIV2tPSQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-21T00:24:06.000Z",
+      "excerpt": "我被显存和尺寸坑了几次， 才摸清这套画布 掘金",
+      "section": "cn-tech",
+      "rankScore": 0.457948
+    },
+    {
+      "id": "a9bad2ed809e43ff",
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "krebs",
+      "publishedAt": "2026-11-21T00:36:39.000Z",
+      "author": "BrianKrebs",
+      "excerpt": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the…",
+      "section": "security",
+      "rankScore": 0.723467
+    },
+    {
+      "id": "3c32a820bfcffbfb",
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-20T12:20:00.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines.",
+      "section": "security",
+      "rankScore": 0.453073
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
