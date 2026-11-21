@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-21",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-21T03:25:37.187Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "751669e88f524111",
+      "title": "深圳三方会晤：特朗普掉入温柔乡，表面上的亲近难掩在关键问题上没有共识",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261120-%E6%B7%B1%E5%9C%B3%E4%B8%89%E6%96%B9%E4%BC%9A%E6%99%A4-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%89%E5%85%A5%E6%B8%A9%E6%9F%94%E4%B9%A1%EF%BC%8C%E8%A1%A8%E9%9D%A2%E4%B8%8A%E7%9A%84%E4%BA%B2%E8%BF%91%E9%9A%BE%E6%8E%A9%E5%9C%A8%E5%85%B3%E9%94%AE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%B2%A1%E6%9C%89%E5%85%B1%E8%AF%86",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-20T23:29:23.000Z",
+      "author": "阿曼亭",
+      "excerpt": "2026年11月19日，习近平、特朗普和普京在中国深圳举行了一场备受瞩目的三方会晤。法国世界报北京通讯员周四在该报发表的文章表示，这次会晤不仅是一次重要的国际外交活动，也是一场精心安排的政治表演。三方会谈营造出彼此关系密切的假象。然而，这种表面上的亲近，并不能掩盖他们在人工智能、核武库等问题上的分歧。",
+      "section": "news",
+      "rankScore": 0.634379
+    },
+    {
+      "id": "3cbaafdd80559a2a",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-21T02:09:46.000Z",
+      "excerpt": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "section": "news",
+      "rankScore": 0.611037
+    },
+    {
+      "id": "bbac422e2907c672",
+      "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-21T01:44:09.000Z",
+      "excerpt": "COP31 deal stalls as nations struggle to agree on climate plan",
+      "section": "news",
+      "rankScore": 0.537451
+    },
+    {
+      "id": "44fba8b9392128e9",
+      "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-21T01:43:15.000Z",
+      "author": "Uwa Ede-Osifo",
+      "excerpt": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial…",
+      "section": "news",
+      "rankScore": 0.537251
+    },
+    {
+      "id": "7c1b074518cadad6",
+      "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
+      "url": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-20T23:29:24.000Z",
+      "author": "Mark Colley",
+      "excerpt": "After an appearance last year, a float depicting Krampus, St. Nicholas’s evil accomplice, will not be allowed in an Ontario town’s Santa Claus parade on Saturday.",
+      "section": "news",
+      "rankScore": 0.507507
+    },
+    {
+      "id": "4bf8a43d7b49e84c",
+      "title": "Bobby Ray Inman, Intelligence Official Under Carter and Reagan, Dies at 95",
+      "url": "https://www.nytimes.com/2026/11/20/us/bobby-ray-inman-dead.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-21T02:40:42.000Z",
+      "author": "Richard Goldstein",
+      "excerpt": "An admiral who was a well-regarded director of the National Security Agency and deputy director of central intelligence, he turned down a nomination from President Bill Clinton to be secretary of defense.",
+      "section": "news",
+      "rankScore": 0.481266
+    },
+    {
+      "id": "b71af34f2647ddba",
+      "title": "英國女子遭丈夫下藥，13年間被陌生男子輪流性侵",
+      "url": "https://www.bbc.com/zhongwen/articles/cx8dv4e080ldo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-20T09:24:25.000Z",
+      "excerpt": "四名男子性侵一名被其丈夫下藥的女子，被裁定性侵罪成。",
+      "section": "news",
+      "rankScore": 0.479599
+    },
+    {
+      "id": "7008a9955bbe3299",
+      "title": "‘Sandpapergate’ fallout gives Australian cricket a rough time",
+      "url": "https://www.ft.com/content/21e99fa9-325d-4294-a459-97393c0d107f?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-21T01:11:23.000Z",
+      "excerpt": "Fresh allegations over 2018 cheating scandal spark wider national debate over sport",
+      "section": "news",
+      "rankScore": 0.463898
+    },
+    {
+      "id": "be646dc273fd76c1",
+      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+      "source": "npr-news",
+      "publishedAt": "2026-11-20T22:11:29.000Z",
+      "author": "The Associated Press",
+      "excerpt": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+      "section": "news",
+      "rankScore": 0.428918
+    },
+    {
+      "id": "42a8661cb859f0db",
+      "title": "伊朗称击落第58架美军“死神”无人机",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EOEF3QnN6Z0xoNERLNENCalZwWlNTaklFdnFPX0JMeHlOdmJVeTBZU0lwdko1Z1hleHNxYkU2ZkdVcGRGOWJSQjRNNXJBem83bVRXSzZnYUZtNEExM0hrLXJIZjVGQ2l3ajlMRklpcGtGVFV5T1NLc0pGRnoxZ00?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-21T03:00:20.000Z",
+      "excerpt": "伊朗称击落第58架美军“死神”无人机 新华网 以伊局势骤然升温 互放狠话剑指海湾摘要 新浪新闻_手机新浪网 伊朗军方：出动无人机打击科威特境内美军基地 凤凰网 美伊再度交火！伊朗袭击科威特、巴林，美国空袭伊朗导弹基地 华尔街见闻 美军否认其在巴林的雷达遭伊朗击中 风闻",
+      "section": "news",
+      "rankScore": 0.415786
+    },
+    {
+      "id": "4a2e663b17f32afd",
+      "title": "约旦河西岸：定居者袭击事件创纪录 联合国敦促以色列保护农民",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143241",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "excerpt": "联合国机构和人道主义非政府组织周五表示，在今年被占领的约旦河西岸橄榄收获季期间，以色列定居者发动了400多次袭击，造成人员伤亡或财产损失——这一数字超过了以往任何一个收获季。",
+      "section": "news",
+      "rankScore": 0.398595
+    },
+    {
+      "id": "e3de92747eff44c3",
+      "title": "国际法院裁定缅甸对罗辛亚人实施种族灭绝",
+      "url": "https://cn.nytimes.com/world/20261120/myanmar-genocide-icj-decision-/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-20T04:24:10.000Z",
+      "author": "JEANNA SMIALEK,HANNAH BEECH",
+      "excerpt": "该裁决涉及缅甸对罗辛亚少数民族发动的致命军事行动。2017年，这场行动在数周内造成至少1万人死亡，并迫使75万人逃离家园。这项裁决可能产生广泛影响。 Adam Dean for The New York Times 2017年，罗辛亚难民从缅甸逃往孟加拉国，身后的村庄燃起熊熊大火。",
+      "section": "news",
+      "rankScore": 0.347889
+    },
+    {
+      "id": "e6947b2ef1c11b4b",
+      "title": "从“跑多科”到“一号通”，就医流程改革让患者不再“绕晕”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735623.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-21T01:13:47.000Z",
+      "excerpt": "一次挂号、多科接诊、院内免费转诊，多地医院推出“一号管到底”服务",
+      "section": "cn-news",
+      "rankScore": 0.796055
+    },
+    {
+      "id": "3d4d0841efe08f28",
+      "title": "（深圳APEC）出席APEC会议的多国领导人明确表态：坚定恪守一个中国原则",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735652.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-21T02:35:59.000Z",
+      "excerpt": "中新社深圳11月20日电 (记者 李京泽 国璇)17日至20日，中国国家主席习近平在深圳密集会见来华出席亚太经合组织(APEC)领导人非正式会议的APEC成员经济体领导人。在会见中，多位APEC成员经济体领导人明确表示，坚定恪守一个中国原则。",
+      "section": "cn-news",
+      "rankScore": 0.754833
+    },
+    {
+      "id": "d094fc9b0985ccf9",
+      "title": "“三医”协同持续发力 天津北辰探索公立医院改革新路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735666.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-21T03:19:45.000Z",
+      "excerpt": "中新网天津11月21日电 (记者 江莹)20日，天津市北辰区举办“卫健护航见行见效”专题新闻发布会，介绍该区深化医疗、医保、医药“三医”协同发展治理、优化高水平诊疗供给、提升医院精细化管理相关进展。作为国家第二批公立医院综合改革示范区，北辰区持续系统推进医改探索，多措并举夯实群众健康保障。",
+      "section": "cn-news",
+      "rankScore": 0.628533
+    },
+    {
+      "id": "48c42e913b6a83eb",
+      "title": "GTA6里没有上海，网友却用AI把上海开进了游戏",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMWU0SkgwZTNRcXpNNTdQUjE2dnBWZTZ2TU5VeThDT3d6Zmx5X0hlaC1aczlrQmxjaWthX3V0eENxOVNtRDF0cmI1TEZFaUdaTmV3VVJHMGZaUUtTdjR0Vg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-21T02:50:08.000Z",
+      "excerpt": "GTA6里没有上海，网友却用AI把上海开进了游戏",
+      "section": "cn-news",
+      "rankScore": 0.621128
+    },
+    {
+      "id": "7f599b8720fed109",
+      "title": "蔚来ES9地平线鎏金特别版正式上市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OVmV4V3g5bTJUbFBWTkhyTVZvWjlmVVktSjBPQTV2bWVYVU1sMjVmVTdkcDVoWG5jaDhvZGkxNU5TclBUR2txdXVGLVFzTGtzZ0hiWExLeGM?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-21T02:22:54.000Z",
+      "excerpt": "蔚来ES9地平线鎏金特别版正式上市 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.61432
+    },
+    {
+      "id": "eaebc86473443c0a",
+      "title": "深入宣讲阐释 推动落地见效 天津河北结合实际学习贯彻五中全会精神",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUkFwRUJpZURsLWkwU2FXMzVNSHk0S2xDOHU0ajRoTVdDSXJHVnZiYmpUeEZDLU41X2tPNFJLNEZpZ2J4Sy1UeklWS25yeTg1Tk9Oay1pUTdrandTWXBuMVA1Q1VWZE0xUkp6dVo4dG1IWm1LZk9ZRHZyLTVYc1RQUEdDOWlKOVBxd1ZKcw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-21T00:54:33.000Z",
+      "excerpt": "深入宣讲阐释 推动落地见效 天津河北结合实际学习贯彻五中全会精神 中华人民共和国公安部 读懂全会蓝图 奔赴青春主场 聚焦党的二十届五中全会精神 房山青年有话说（二） 北京市人民政府门户网站 中国共产党山东省第十三次代表大会将于2027年5月召开 人民网 微宣讲︱深学全会精神，勇担时代使命 台州新闻 持之以恒推进全面从严治党，山东省委全会作出哪些部署？ 凤凰网山东",
+      "section": "cn-news",
+      "rankScore": 0.526429
+    },
+    {
+      "id": "80ffbc2ed38657ac",
+      "title": "脑机接口的长三角“协同接口”，正在接通",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10ODlzeElWel9WRVRZUlU3bTdJODNpQTdtTkRULUNWcTRuRllUV1BiQ0RnYXN2aU1QTlVsT3pMOXpMZEhYcVJJNjlPV2UxTnU0UGhRYWNCS0JrZw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-21T02:34:00.000Z",
+      "excerpt": "脑机接口的长三角“协同接口”，正在接通 上观新闻 脑机未来，成都加速“接入”！这场对接会发起联盟倡议，共建西部脑机接口产业高地 凤凰网 科学家与企业家对话，共研AI+脑机接口未来赛道 科学网—新闻 工业和信息化部脑机接口标委会工作组即将成立 手机新浪网 从工业到体育 脑机接口加速“破圈” Sohu",
+      "section": "cn-news",
+      "rankScore": 0.479963
+    },
+    {
+      "id": "be5752b207a1857f",
+      "title": "China’s top intelligence agency touts ‘common international security’ after summit",
+      "url": "https://www.scmp.com/news/china/politics/article/3375207/chinas-top-intelligence-agency-touts-common-international-security-after-summit",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-21T02:00:08.000Z",
+      "author": "William Zheng",
+      "excerpt": "China’s top intelligence agency has warned that no nation can achieve “absolute security” at the expense of others, underscoring Beijing’s messaging on security just a day after Thursday’s unprecedented China-US-Russia trilateral summit.",
+      "section": "cn-news",
+      "rankScore": 0.473378
+    },
+    {
+      "id": "cbb0179d8aa45c3a",
+      "title": "成毅两京十五日热度一路狂飙 ：热度破8000 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdjRUNS1qTHF1QVVCMV82OGlQbjR3bUswMFVkUTJhLUt5MDJsWGlka0I1cUFBS3Z6TGgzU2RwY2RsNlp4TTB3RGc3TXlJSE0tcnlEU3RueGk5a2YzWUdjeE1walg5Wjg1X2tuNHo3REtzWTVnbDZLaFlhS2ItV2ZaN2pSMzEtTGhNZm1hcngxXzJiUjU5?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-21T03:11:46.000Z",
+      "excerpt": "成毅两京十五日热度一路狂飙 ：热度破8000 新浪财经_金融信息服务商 马伯庸小说改编，张黎执导、成毅领衔主演，《两京十五日》开播 新浪财经_金融信息服务商 《两京十五日》开播在即，成毅透露自己角色的关键词 ThePaper.cn 央视剧《两京十五日》首播4集，热度破7500，观众的评价出奇一致 Sohu 姜珮瑶会是《两京十五日》最大惊喜吗 举火把的她钉在沙发上 中华网",
+      "section": "cn-news",
+      "rankScore": 0.417691
+    },
+    {
+      "id": "e2b7375a2c8ca91a",
+      "title": "元朗擊壤路驚現持械追車 5惡煞暗處撲出圖襲私家車",
+      "url": "https://hk.news.yahoo.com/%E5%85%83%E6%9C%97%E6%93%8A%E5%A3%A4%E8%B7%AF%E9%A9%9A%E7%8F%BE%E6%8C%81%E6%A2%B0%E8%BF%BD%E8%BB%8A-5%E6%83%A1%E7%85%9E%E6%9A%97%E8%99%95%E6%92%B2%E5%87%BA%E5%9C%96%E8%A5%B2%E7%A7%81%E5%AE%B6%E8%BB%8A-004147117.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-11-20T16:41:47.000Z",
+      "excerpt": "網上流傳一段影片，地點為元朗擊壤路巴士總站對開。片中所見一輛白色私家車途經上址時，約有5名男子突然由暗處衝出馬路，部分人手持高爾夫球棒及硬物，疑上前追打該車。",
+      "section": "cn-news",
+      "rankScore": 0.36481
+    },
+    {
+      "id": "690a005bf4260bb5",
+      "title": "“无氟”成为新卖点 买冲锋衣值得为“无氟”多花钱吗",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735661.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-21T02:46:24.000Z",
+      "excerpt": "秋冬季节，冲锋衣成为不少消费者出行的必备单品。最近，关于冲锋衣涂层的宣传话术越来越多元，线上直播间、线下门店里，“无氟更安全”“告别有害氟化物”等宣传语随处可见，产品标价也从几百元一直铺到数千元。不少品牌把“无氟”当作核心卖点，暗示传统含氟冲锋衣存在隐患。",
+      "section": "cn-life",
+      "rankScore": 0.826927
+    },
+    {
+      "id": "8c51e61fb9d0eae0",
+      "title": "新知|我国新增3处世界地质遗产地，三大“地球史书”有哪些密码 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOVh6VjhRZEtUU0dua3pWUDJuZDhJd013ZUlmTHBpTXlyV3dpUFJkWjZQX0h2bXg2RlVwX0l0RmM1X3FCbEJVVVVxQjRLcnJ2RXFmWTU4VFE0WmxjU014cHA4Q3E0UVFIM2R3Z1RaV2psd3NRYl9ZbHZkTzlLNlpWXzdtZEZCX08zRnpVRw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-21T03:13:31.000Z",
+      "excerpt": "新知|我国新增3处世界地质遗产地，三大“地球史书”有哪些密码 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.626974
+    },
+    {
+      "id": "830140950ba7b861",
+      "title": "“乐业上海优+”行动进行时！226余场精彩就业服务活动速看 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXR2eFYxdlBFSDZWclFseHBWMndhcl9xUEpVZXNGZzRUYVltcVExM1ZFb0lHVzFxVTBUVTJKbnBFd0d5T1NnY242bHFxdUNjRzRsVmNJV3A4MFFRNkdEaGdrYWEzOE4xQjBuN1BEVXpkVUFWaUlBMVBvcm0tR0dDMjUwNVVYdXpQaHcxdw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-21T02:49:55.000Z",
+      "excerpt": "“乐业上海优+”行动进行时！226余场精彩就业服务活动速看 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.621074
+    },
+    {
+      "id": "617d63d6de9f3dc1",
+      "title": "民警十年加了小区9500多人微信，拉了几百个群，谁家吵架都来找他！本人回应",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Rdmc4OEx3N0JqMFg3bmdZTTNOdmVXczQzUFR2YzlRQU4wbkdEZ2tIU2ZrMFVDVGIwM1A1NlhEc0lKekEwRG54dTRXQlpJUExQbFFBQ2YtMkliZmVWRmZNRGFoYlJBWmFNcVE?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-21T02:14:00.000Z",
+      "excerpt": "民警十年加了小区9500多人微信，拉了几百个群，谁家吵架都来找他！本人回应 广州公安",
+      "section": "cn-life",
+      "rankScore": 0.544084
+    },
+    {
+      "id": "779d04dde6f754fc",
+      "title": "20余家车企被冒充发出虚假召回短信",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80OGxOQml5eDBvMDVuamlINklGR192QkFlY3VDVnpnb1BYYjFPd1llRW5Dd0EtTFh2MUd6ZG52SUp2dlFYWUFqUHl3VS1wQkVSV1hXb3hCZ3pYRkxRMXpxZjVkYjRxQkNQU0oyZC02ZjNKOExXOGd2dEM5THFRdU0?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-21T02:53:42.000Z",
+      "excerpt": "20余家车企被冒充发出虚假召回短信 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.483793
+    },
+    {
+      "id": "e4cdad24011b5f9c",
+      "title": "综述：子宫内膜容受性的表观遗传调控机制及精准治疗策略",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84TW1VYXQ1VThPeHpXMVZoOXlIM2FEU3ozRzkyU055OUVQbHlPdWpUcjk3NWNnSnlUbFRSUFJSTXo0c1hJNEkxZndIdnE2MHRmcnVvLWxiWjlYNm1lalBOQm53V2VLVkhFR0YyRFZhMA?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-21T02:26:39.000Z",
+      "excerpt": "综述：子宫内膜容受性的表观遗传调控机制及精准治疗策略 生物通",
+      "section": "cn-life",
+      "rankScore": 0.478534
+    },
+    {
+      "id": "393239ba6d2104b9",
+      "title": "教育部统计学“101计划”《经济统计》教材建设取得阶段性成果 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUEhOTXNiUGVqaENmV2Y2c0ltZFFtOUN3bWRKNGhjX3R5bllPb0hNWW9oZ3ZfU1dTX1p2TjN2YTJiWTRoZ25zNTA0VE9xOG04eTlqZUpESVZ2MHVwTTRPMWthVFBCUlZ4dUNQWmFxNDdFV2FDaXFFVkZRaWpyanVhYmFmQjJZSUQ4ai0zSEVUVXB5cTRmdGZTSGlOd0ZIYS1NY1VvRHhkcW5zWVQ4cUlJSlpkSjZFZmM0RlJEUk1iZkRIWlF0NlVPQ0RzZFVUOW9IMmdOY1VzSnZjQQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-21T02:59:04.000Z",
+      "excerpt": "教育部统计学“101计划”《经济统计》教材建设取得阶段性成果 新浪财经_金融信息服务商",
+      "section": "cn-life",
+      "rankScore": 0.415574
+    },
+    {
+      "id": "89a18acf8a89095a",
+      "title": "袁钧瑛被骂养老 回国限50岁 668华裔放弃铁饭碗离美",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVY2V3MENqTWxSOHZORTNib3lWV01HdDVTb092VHNPNW9hbEJnaG4tS2lqOGpZS3Jzc3BlUWIwRUczdkVYVjVVMnVlOU91NUFyTTMtOGstTG9YS25QWGNMUEZyQ0dXRGUt?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-20T05:23:01.000Z",
+      "excerpt": "袁钧瑛被骂养老 回国限50岁 668华裔放弃铁饭碗离美 文学城",
+      "section": "cn-life",
+      "rankScore": 0.166305
+    }
+  ],
+  "warnings": []
+}
