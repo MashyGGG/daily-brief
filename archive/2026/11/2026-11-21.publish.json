@@ -1,0 +1,73 @@
+{
+  "publishDate": "2026-11-21",
+  "lines": {
+    "daily": {
+      "sources": [
+        {
+          "date": "2026-11-21",
+          "slot": "morning"
+        },
+        {
+          "date": "2026-11-21",
+          "slot": "evening"
+        }
+      ],
+      "itemCount": 28,
+      "itemIds": [
+        "19549f362eaec6db",
+        "be45fd2ff3e5bd1a",
+        "663b49ab5a80f2b1",
+        "27f73b51f155eceb",
+        "939e367c86e35903",
+        "3782f1d2d056a85d",
+        "a9bad2ed809e43ff",
+        "f45ee9cead98e211",
+        "0eb783a075434e67",
+        "494f322ec81974e1",
+        "6b5a567b303784a7",
+        "ef586610cc840a31",
+        "7db32c50b30ca19e",
+        "5f795ae293815ac8",
+        "d15c5071c40a863e",
+        "2f449e89baf70b86",
+        "8f884c7641a4549b",
+        "dcd930e99cbac45c",
+        "2e0f8813b22a93fa",
+        "bf5497f2d754844d",
+        "2d36b2960e51fcdb",
+        "8c15524083d44844",
+        "4cf3921b2df68fa8",
+        "6115a0419e015ee3",
+        "1d047e871a36abf5",
+        "3c32a820bfcffbfb",
+        "4a1946be4fb6c4e9",
+        "9ef75283596ae9dc"
+      ],
+      "contentHash": "7278689e25e797f4",
+      "targets": {
+        "notion-archive": {
+          "platform": "notion",
+          "status": "published",
+          "postId": "41f9696e-9c08-8164-8ad5-c6e9281cbc3b",
+          "url": "https://app.notion.com/p/2026-11-21-41f9696e9c0881648ad5c6e9281cbc3b",
+          "contentHash": "7278689e25e797f4",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-11-21T19:32:46.552Z",
+          "lastError": null
+        },
+        "juejin": {
+          "platform": "juejin",
+          "status": "draft",
+          "postId": "7710425871714484266",
+          "url": "https://juejin.cn/editor/drafts/7710425871714484266",
+          "contentHash": "7278689e25e797f4",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-11-21T19:32:46.552Z",
+          "lastError": null
+        }
+      }
+    }
+  }
+}
