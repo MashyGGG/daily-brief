@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-21",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-21T17:56:48.751Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "cd5ca0f3299208dd",
+      "title": "伊朗外长：俄罗斯和中国都反对伊朗改变核政策",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261121-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF-%E4%BF%84%E7%BD%97%E6%96%AF%E5%92%8C%E4%B8%AD%E5%9B%BD%E9%83%BD%E5%8F%8D%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%B9%E5%8F%98%E6%A0%B8%E6%94%BF%E7%AD%96",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-21T15:38:13.000Z",
+      "author": "左依",
+      "excerpt": "根据伊朗官方报纸《伊朗日报》周六（11月21日）刊登的专访，阿拉格齐表示，是否调整核政策是一个“广泛而严肃”的问题，并且“既有支持者，也有反对者”。他说，与伊朗签有战略合作协议的俄罗斯和中国都“反对”改变伊朗的核政策。",
+      "section": "news",
+      "rankScore": 0.628925
+    },
+    {
+      "id": "9a4f79ce442c5397",
+      "title": "《解放报》：中国在国际气候谈判中为何如此低调？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261121-%E8%A7%A3%E6%94%BE%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%9B%BD%E9%99%85%E6%B0%94%E5%80%99%E8%B0%88%E5%88%A4%E4%B8%AD%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E4%BD%8E%E8%B0%83",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-21T15:15:49.000Z",
+      "author": "瑞迪",
+      "excerpt": "近期，每周六成为法国以及其它欧洲国家民间抗议活动日。21日出版的法共《人道报》以此作为头版头条，以大版篇幅介绍本周末欧洲七个国家工会组织以及民间团体发起的抗议集会活动，认为这些活动的共同之处是对生活成本太高、政府财政紧缩措施的不满。《解放报》重点关注法国各路政治力量备战明年总统大选的动向。今天聚焦右翼阵营不断加长的可能的候选人名单。《费加罗报》则特别聚焦英国在退出欧洲联盟十年之后，正试图重新拉近与欧盟关系的努力。",
+      "section": "news",
+      "rankScore": 0.617438
+    },
+    {
+      "id": "0c6bf651ec0a1109",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-21T16:35:15.000Z",
+      "excerpt": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "section": "news",
+      "rankScore": 0.592356
+    },
+    {
+      "id": "4152ce76a2d80f5a",
+      "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-21T17:28:51.000Z",
+      "excerpt": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
+      "section": "news",
+      "rankScore": 0.548528
+    },
+    {
+      "id": "e637e80410520ae5",
+      "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-21T17:24:51.000Z",
+      "author": "Robert Mackey",
+      "excerpt": "US vice-president says it’s not his place to second-guess the president, but refrains from endorsing Trump’s claim At a White House news conference on Friday, JD Vance stopped short of endorsing Donald Trump’s claim that Iran was so close to obtaining a nuclear weapon in February that it was…",
+      "section": "news",
+      "rankScore": 0.546887
+    },
+    {
+      "id": "8f8a82269402ba6e",
+      "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
+      "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-21T17:14:17.000Z",
+      "author": "Mark Landler",
+      "excerpt": "Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.",
+      "section": "news",
+      "rankScore": 0.542552
+    },
+    {
+      "id": "26d58c15529d4198",
+      "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+      "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-21T17:52:36.000Z",
+      "author": "Dustin Volz, Kate Conger, Dylan Freedman and Sheera Frenkel",
+      "excerpt": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
+      "section": "news",
+      "rankScore": 0.488488
+    },
+    {
+      "id": "7da9c78d28310fc1",
+      "title": "走近冰川：一场关于地球未来的青春探索",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143243",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-21T12:00:00.000Z",
+      "excerpt": "冰川，看似坚不可摧，却是气候变化最敏感的见证者之一。跟随联合国新闻的镜头，去聆听祁连山八一冰川的故事，寻找属于年轻一代的答案。",
+      "section": "news",
+      "rankScore": 0.465317
+    },
+    {
+      "id": "59fed688c9796b3e",
+      "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
+      "url": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-21T16:19:19.000Z",
+      "excerpt": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress",
+      "section": "news",
+      "rankScore": 0.455001
+    },
+    {
+      "id": "fbcedfa34808c0d4",
+      "title": "伊朗称在波斯湾上空拦截并击中一架美军F-16战机",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3eGNxdDB6YzFnREMyXzJ6a1phM0NXRlJobmpGYTBLcnNhWUxzSXF2SE9pbXBXSjlLWU8zRmN5R05zQWM5dC04ZjR6bnlaRTRoM3o4anl6U1RJUWdVa3ZQYTFmUU01UjVYRGU4b25SUVo0MVJkZVh0WA?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-21T17:20:02.000Z",
+      "excerpt": "伊朗称在波斯湾上空拦截并击中一架美军F-16战机 央视网",
+      "section": "news",
+      "rankScore": 0.408683
+    },
+    {
+      "id": "4324dcce70575175",
+      "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+      "source": "npr-news",
+      "publishedAt": "2026-11-21T13:58:33.000Z",
+      "author": "The Associated Press",
+      "excerpt": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
+      "section": "news",
+      "rankScore": 0.40447
+    },
+    {
+      "id": "50bb1b4faa41246f",
+      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-21T12:00:00.000Z",
+      "excerpt": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
+      "section": "news",
+      "rankScore": 0.310212
+    },
+    {
+      "id": "d44a0dd58cbb3e9c",
+      "title": "长安大学回应14号面试13号出结果",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735917.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-21T13:28:19.000Z",
+      "excerpt": "长安大学11月21日发布情况通报：针对近日网络关于长安大学辅导员招聘工作的有关反映，学校高度重视，迅速成立由纪委牵头的专项调查组开展调查。 #8203;#8203;#8203;#8203;",
+      "section": "cn-news",
+      "rankScore": 0.674772
+    },
+    {
+      "id": "b196001e5a4fd62d",
+      "title": "第七届世界海洋生物多样性大会在比利时举行",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735916.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-21T13:52:52.000Z",
+      "excerpt": "中新社比利时布鲁日11月21日电 (记者 德永健)第七届世界海洋生物多样性大会于11月17日至20日在比利时西北部城市布鲁日举行，围绕全球海洋生物现状、建立“数字海洋”体系等展开研讨。中国南海研究院和厦门大学派代表参会。",
+      "section": "cn-news",
+      "rankScore": 0.63239
+    },
+    {
+      "id": "524f246ed03db02d",
+      "title": "傅雷翻译出版奖在南京揭晓， 要颖娟、吴子枫、王睿琦获奖",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5RnN5d1ZGd0pKU0tfXy1kSXVDdEs4ZFpvWFVlQlM4UDdoMGdXNnZSNmc0VDIybm1keVgxQ0lvdFhQMjM1RTFYSTl2YURPYXNjQTZjN1BOc1BIN2dRc3lZTg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-21T14:42:32.000Z",
+      "excerpt": "傅雷翻译出版奖在南京揭晓， 要颖娟、吴子枫、王睿琦获奖",
+      "section": "cn-news",
+      "rankScore": 0.540333
+    },
+    {
+      "id": "c15b435509d7a9b2",
+      "title": "秘鲁胡宁省6.7级地震已造成8人受伤",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PQzRRd1N4NUdxZUZ3VklSWGNGb2VsRFUtMWtuNWRTNnNmemx1VGpwVS1XTGwzQjctX3dPdl9CTER4MTRjb2hjWGNfdUl4TlpVSHNuS25B?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-21T14:34:01.000Z",
+      "excerpt": "秘鲁胡宁省6.7级地震已造成8人受伤 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.536402
+    },
+    {
+      "id": "bf3dd864380fc568",
+      "title": "“拖堂”的气候大会给全世界算了笔账",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735906.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-21T13:15:16.000Z",
+      "excerpt": "气候大会又“拖堂”了。",
+      "section": "cn-news",
+      "rankScore": 0.500056
+    },
+    {
+      "id": "56da291da339fcf9",
+      "title": "冷空气减弱，广东气温短暂回升！新冷空气携雨23日夜间起“访粤” - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzlsWS1fbU12a3VmRVh6NnhRaklET3NyR043V1N3aENLV1puVk9mSzNMZEh5MFk1Z0szOUZmd3hJSjNsYnhSWjBORkxGdUVzUzlxRzhIODFIRFFiV2hlV0ZkSVlpOTBYeEYzU3l6dVZlNkVGOGJTSEpHVFdYTnhJVWlmWTlaZXZi?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-21T14:45:25.000Z",
+      "excerpt": "冷空气减弱，广东气温短暂回升！新冷空气携雨23日夜间起“访粤” Sohu",
+      "section": "cn-news",
+      "rankScore": 0.481479
+    },
+    {
+      "id": "0badde6592fb2bd6",
+      "title": "中星總理會談 李強：願加快推進兩國自貿協定4.0版談判",
+      "url": "https://www.cna.com.tw/news/acn/202611210212.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-21T13:27:41.000Z",
+      "excerpt": "（中央社台北21日電）中國國務院總理李強今天在北京與到訪的新加坡總理黃循財舉行會談表示，中國願與新加坡加快推進中星自貿協定4.0版談判。",
+      "section": "cn-news",
+      "rankScore": 0.449588
+    },
+    {
+      "id": "4be92fb16c1706b6",
+      "title": "亚投行将在香港设立办公室",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONU1iaEhEOVVkMVZrRE04ZEVWbF9CSWozMThaaDBkUkp2WHhVMmdiSGtPSDlwOWw5dVJLbC0wLXFNQjVxbjVZTkNKYlJid00xOWMzVHFSbE9kTDZ6dnVoSWdtampoVzNNaERfWEt3UDRTRG9BNU91RFNCS25kLW9EQw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-21T14:21:59.000Z",
+      "excerpt": "亚投行将在香港设立办公室 新华网",
+      "section": "cn-news",
+      "rankScore": 0.412882
+    },
+    {
+      "id": "77cf36a2f6509856",
+      "title": "Why a slow-paced show about broken friendships is China’s antidote to AI fatigue",
+      "url": "https://www.scmp.com/news/china/politics/article/3375328/why-slow-paced-show-about-broken-friendships-chinas-antidote-ai-fatigue",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-21T14:00:05.000Z",
+      "author": "Xinlu Liang",
+      "excerpt": "A slow-paced Chinese reality show about fractured friendships has proved an unexpected cultural phenomenon, sparking a nationwide reckoning over huorengan – the messy, unscripted sense of being alive – as AI companions and algorithm-driven microdramas flourish.",
+      "section": "cn-news",
+      "rankScore": 0.40502
+    },
+    {
+      "id": "c57e98cba8367ccb",
+      "title": "特朗普：将与伊朗达成一项永久性协议",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKb3BQR0l5RUF0ejZOZ3hsYTgyQU85dGt3dlVzWld5QjJzR1l4SXFXQkRmQ1VvbGFkX1Qxa3RKR1VVcGNpSi1OVGVLWWtBazdMcERHcHBjMkRDMHJuM2c?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-21T15:15:55.000Z",
+      "excerpt": "特朗普：将与伊朗达成一项永久性协议 京报网",
+      "section": "cn-news",
+      "rankScore": 0.370494
+    },
+    {
+      "id": "dc4f88461de51d92",
+      "title": "2026年林木业大会在南宁举行 现场签约超400亿元",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735919.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-21T13:51:38.000Z",
+      "excerpt": "中新社南宁11月21日电 (张广权 黄令妍)2026年林木业大会21日在广西南宁举行。大会现场签约一批项目，总金额超400亿元人民币，涵盖浆纸原料林、纸品加工等领域。",
+      "section": "cn-life",
+      "rankScore": 0.689121
+    },
+    {
+      "id": "36872d95a584f874",
+      "title": "外卖小哥咖啡店里学“手冲”，静安为新就业群体搭建技能培训平台 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX21ueWxRVmxZc3E3SGc4M3hoRmJ1UnhoV3JIS3lmM3FTeXRrRVVmVmZEaWptY2l5ci1fUXktTTAxOEZadF9aczdvbTNnbTFhWW9iY1k2eXpnb3p0YUItMUltYXhtMmJKQXYzVkYxU2dSdjdZM2Mzb1h6VmxKSzJ2X1djbkJnaTZMWDhPeTNndw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-21T17:01:43.000Z",
+      "excerpt": "外卖小哥咖啡店里学“手冲”，静安为新就业群体搭建技能培训平台 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.604571
+    },
+    {
+      "id": "0cdb2c838c77257b",
+      "title": "青海德令哈5.6级地震公众预警服务超220万用户",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBb0tJSy1LSjlDWktsaXFpYzY1VkJGaW1QUjJqOEJic1B5ZmE2ZHRDdHdrcFRhN1d3Y2F4bHd5c2hWMUhBcmJNLWFiNXI2MHlnb25JLUp2OEtWTGdfVnFGZHlGS3R2RGZoUExSYVdOY3JaZw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-21T14:51:00.000Z",
+      "excerpt": "青海德令哈5.6级地震公众预警服务超220万用户 京报网",
+      "section": "cn-life",
+      "rankScore": 0.54424
+    },
+    {
+      "id": "1e949513a48185ae",
+      "title": "苏州工业园区召开全区领导干部会议",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYzVhNXd2ZjFsMEJOY0ZERmJRTFdTeWRXWWVHaXNzZVJXeHQ4c0VvM3dEUlVxZjFpb0VZQmVhaDFqTkcyMFdOMnZuMUR3ZlFxV2dVVlRxNlN4R2hNUVdYTnJKUWRjZ0xWMHNBazJLeDRzWVE0NHpYUUYzeW1PeGY4emlJeEg2TmN1?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-21T16:12:00.000Z",
+      "excerpt": "苏州工业园区召开全区领导干部会议 苏州工业园区管理委员会",
+      "section": "cn-life",
+      "rankScore": 0.517
+    },
+    {
+      "id": "36323389be3ca070",
+      "title": "加拿大冷冻柜故障损失200万应急药品 - VanPeople",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00UjV2NW50cjhvNWJESVljRU00emJGRTk3MjRZbXhsajYwTDNwVmdsY2JYZ2ltLXY3NC1FaUhscHBfT1NZWlktRUJsQlRrQzJQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-21T17:38:34.000Z",
+      "excerpt": "加拿大冷冻柜故障损失200万应急药品 VanPeople",
+      "section": "cn-life",
+      "rankScore": 0.48345
+    },
+    {
+      "id": "209dd6f23bc3a4c2",
+      "title": "血清尿酸水平与表观遗传年龄加速的关联：基于NHANES的横断面研究",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ia1pGdU9fSzkwOWktVENYUzR2Zi16MERMNEQzNmMzY2kwRFFEeXRzd3d0OUdlUzNERXpfOG1QcHp1VjVzWGNqUV9ZWkdSNUhyN2NiQUUwdXl4eHdfMmRuNFZ3ZDhtREJEZUo4YXU2bw?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-21T17:21:56.000Z",
+      "excerpt": "血清尿酸水平与表观遗传年龄加速的关联：基于NHANES的横断面研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.477479
+    },
+    {
+      "id": "77779bc244f402cc",
+      "title": "托克逊县教育系统举办 “同唱一首歌・共筑中华魂“”音乐教师独唱比赛",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQU02X2hLQ204a1lMODJ5Yk5yQk9zLTduSEs2TGhzakFjS3FlcF85NFpocHEydmZCN3VtV0dGS0hYdkYxVGlLUEh6LW9sN2xYd3VzT3E2S2dKRHkteUZBNU9VX1hyeWxQbGlXcVFxMHFBUHJNQ0RJVGJzQm1hbzh2RHZ2cw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-21T16:47:01.000Z",
+      "excerpt": "托克逊县教育系统举办 “同唱一首歌・共筑中华魂“”音乐教师独唱比赛 中新网·新疆",
+      "section": "cn-life",
+      "rankScore": 0.398524
+    },
+    {
+      "id": "f7c22e7979bf9f95",
+      "title": "90后数学家用AI攻克百年难题？数学界：验证仍需时间",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vV1pwUHF1NzNVQW9IQTAxZloyZURGZ0RKZV81N1BfdGtOZWhtWUtDNHdVUnpOdDMxNlY0WHhSODRyNVNKdWNic05LY1RtOERkaVRId196cmUtSnlCVXlyTEdNbkpLa19qZjNyeEh5akktRVE?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-21T11:47:00.000Z",
+      "excerpt": "90后数学家用AI攻克百年难题？数学界：验证仍需时间 观察者网",
+      "section": "cn-life",
+      "rankScore": 0.255176
+    }
+  ],
+  "warnings": []
+}
