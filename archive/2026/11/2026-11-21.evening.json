@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-21",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-21T19:08:50.845Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "be45fd2ff3e5bd1a",
+      "title": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-21T19:08:50.845Z",
+      "score": 724,
+      "excerpt": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "section": "tech",
+      "rankScore": 1.155
+    },
+    {
+      "id": "27f73b51f155eceb",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-21T14:36:45.000Z",
+      "score": 506,
+      "author": "g-b-r",
+      "excerpt": "506 points · 397 comments · https://news.ycombinator.com/item?id=50589618",
+      "section": "tech",
+      "rankScore": 0.984516
+    },
+    {
+      "id": "f45ee9cead98e211",
+      "title": "EP234: Docker vs Kubernetes",
+      "url": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-21T16:31:20.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "Which one should we use?",
+      "section": "tech",
+      "rankScore": 0.687493
+    },
+    {
+      "id": "ef586610cc840a31",
+      "title": "How 2 Security Research (MLG)",
+      "url": "https://www.youtube.com/watch?v=dXQ_9WN6KLQ",
+      "source": "lobsters",
+      "publishedAt": "2026-11-21T16:57:15.000Z",
+      "author": "youtube.com via hugoarnal",
+      "section": "tech",
+      "rankScore": 0.621401
+    },
+    {
+      "id": "4cf3921b2df68fa8",
+      "title": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug",
+      "url": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-21T09:44:00.000Z",
+      "author": "Renato Losio",
+      "excerpt": "Google recently detailed how three interacting bugs across Google Kubernetes Engine (GKE), Private Service Connect, and the Linux kernel caused intermittent Kubernetes API connectivity failures, blocking around 800 developers from deploying to production. By Renato Losio",
+      "section": "tech",
+      "rankScore": 0.463352
+    },
+    {
+      "id": "6115a0419e015ee3",
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "source": "verge",
+      "publishedAt": "2026-11-21T17:42:27.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal,…",
+      "section": "tech",
+      "rankScore": 0.461201
+    },
+    {
+      "id": "494f322ec81974e1",
+      "title": "地球 28 光年外发现一个三星系统",
+      "url": "https://www.solidot.org/story?sid=85955",
+      "source": "solidot",
+      "publishedAt": "2026-11-21T14:40:48.000Z",
+      "excerpt": "天文学家在距离地球 28 光年处发现了一个三星系统，挑战了对恒星演化的现有观念。该系统被命名为 Welopōʻa，包括两颗白矮星和一颗红矮星。白矮星是类太阳恒星耗尽燃料后的高致密残骸，而红矮星则比太阳暗淡得多。天文学家是在红矮星周围寻找行星时意外发现这一三星结构的：这颗红矮星与另一颗白矮星近距离相互旋转，而另一颗更遥远的白矮星围着这两个天体旋转。地球 100 光年内从未发现了类似天体结构。红矮星与其中一个白矮星距离非常近，意味着白矮星之前的类太阳恒星在红巨星阶段必定会与红矮星发生相互作用。在类似的天体系统中，膨胀的恒星可能会吞噬伴星，甚至导致两颗恒星合并。",
+      "section": "cn-tech",
+      "rankScore": 0.629594
+    },
+    {
+      "id": "d15c5071c40a863e",
+      "title": "Claude 被连封两个账号，不想折腾了，接下来用啥？",
+      "url": "https://www.v2ex.com/t/1258753",
+      "source": "v2ex",
+      "publishedAt": "2026-11-21T07:30:33.000Z",
+      "score": 40,
+      "author": "fancy2020",
+      "excerpt": "最近听说 Gemini carbon 挺好? 不知道 Google 会不会封号，主要怕影响 Gmail 账号 Codex 听说现在挺拉，不太想试了 国产模型写代码最好的是哪个？",
+      "section": "cn-tech",
+      "rankScore": 0.56698
+    },
+    {
+      "id": "8c15524083d44844",
+      "title": "智能体 AI 架构：当前挑战与未来机遇",
+      "url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-21T11:00:00.000Z",
+      "author": "作者：Rafał Gancarz",
+      "section": "cn-tech",
+      "rankScore": 0.467216
+    },
+    {
+      "id": "4a1946be4fb6c4e9",
+      "title": "我让AI 给掘金首页做了次性能体检：LCP 8.9 秒是真的，但它判读错了一处用chrome-devtools-mc",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55TE95WTlKSzl3eVJxc2xMYmVXcXZGcWVIU1ZXM0t1R2RiV2ZsdU9FSXZEMXJaN0R5QjJCN1RQN2lfMFdvZlB3eXQ0R1BGUU42U2t2cA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-21T13:35:49.000Z",
+      "excerpt": "我让AI 给掘金首页做了次性能体检：LCP 8.9 秒是真的，但它判读错了一处用chrome-devtools-mc 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.37899
+    },
+    {
+      "id": "9ef75283596ae9dc",
+      "title": "具身智创·生态共融，2026人形机器人开发者大会将于11月25日举办",
+      "url": "https://www.oschina.net/news/503716",
+      "source": "oschina",
+      "publishedAt": "2026-11-21T07:03:13.000Z",
+      "excerpt": "为贯彻落实国务院关于推动人形机器人产业发展的决策部署，汇聚全球开发者协同创新，由北京经济技术开发区管理委员会指导的2026人形机器人开发者大会拟于2026年11月25日在北京亦庄北人亦创国际会展中心会议厅（南）举办。 大会以“具身智创·生态共融”为主题，采用“1个主论坛+3场开发者活动”架构，3场开发者活动分别为...",
+      "section": "cn-tech",
+      "rankScore": 0.319015
+    },
+    {
+      "id": "bf5497f2d754844d",
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-21T11:53:07.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts.",
+      "section": "security",
+      "rankScore": 0.492509
+    },
+    {
+      "id": "2d36b2960e51fcdb",
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-21T11:05:53.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions.",
+      "section": "security",
+      "rankScore": 0.470017
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
