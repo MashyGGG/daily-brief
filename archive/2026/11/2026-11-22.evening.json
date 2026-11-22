@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-22",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-22T19:31:14.376Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 11,
+  "items": [
+    {
+      "id": "17dfff0767bfb5d1",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-22T19:31:14.376Z",
+      "score": 516,
+      "excerpt": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "section": "tech",
+      "rankScore": 1.128
+    },
+    {
+      "id": "7ad28db575faf300",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-22T08:57:34.000Z",
+      "score": 645,
+      "author": "happosai",
+      "excerpt": "645 points · 710 comments · https://news.ycombinator.com/item?id=50597612",
+      "section": "tech",
+      "rankScore": 0.747901
+    },
+    {
+      "id": "6d80a4af1dfe843e",
+      "title": "scriptura: a cozy corner for your scripts",
+      "url": "https://alanpearce.eu/post/scriptura/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-22T19:13:26.000Z",
+      "author": "alanpearce.eu via winter",
+      "section": "tech",
+      "rankScore": 0.674233
+    },
+    {
+      "id": "58e8d740e52d4161",
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "source": "verge",
+      "publishedAt": "2026-11-22T17:46:44.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world.",
+      "section": "tech",
+      "rankScore": 0.455165
+    },
+    {
+      "id": "6f5c694d8da8e69e",
+      "title": "AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU",
+      "url": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-22T06:27:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "AWS Lambda now runs Event Functions on EC2 G-series GPU instances through Lambda Managed Instances, with up to 48 concurrent invocations sharing one model per GPU, vLLM and SGLang base images that need no handler code, and 90-minute asynchronous timeouts.",
+      "section": "tech",
+      "rankScore": 0.351044
+    },
+    {
+      "id": "8c4e0b728db0e6c5",
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-22T12:07:41.000Z",
+      "author": "Roslyn Henry and Peter Alexander, The Conversation",
+      "excerpt": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+      "section": "tech",
+      "rankScore": 0.342148
+    },
+    {
+      "id": "47dcce811d4fc4a0",
+      "title": "财务团队的 AI 蓝图",
+      "url": "https://www.infoq.cn/video/UUqekkOQ8haEXZ792UjU?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-22T17:54:58.000Z",
+      "author": "王玮",
+      "section": "cn-tech",
+      "rankScore": 0.654156
+    },
+    {
+      "id": "fca4312c7478ceb3",
+      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
+      "url": "https://www.solidot.org/story?sid=85959",
+      "source": "solidot",
+      "publishedAt": "2026-11-22T15:32:03.000Z",
+      "excerpt": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthropic 的用电需求。他们发现 Anthropic 未在美国承诺使用任何可再生能源，它近期斥资 34 亿美元承诺采购 1.7 GW 的燃气发电设备。与 Anthropic 签署算力合同的美国数据中心提供商绝大部分将使用化石燃料提供电力。研究人员估计，到 2028 年 Anthropic 约 87% 的电力将来自天然气，11% 来自煤炭。",
+      "section": "cn-tech",
+      "rankScore": 0.64471
+    },
+    {
+      "id": "4534f6acb3058f92",
+      "title": "Google 黑五 1 年 100 刀，GPT 的土区 499plus 还续吗？",
+      "url": "https://www.v2ex.com/t/1258938",
+      "source": "v2ex",
+      "publishedAt": "2026-11-22T12:37:34.000Z",
+      "score": 22,
+      "author": "xiaoxiannv",
+      "excerpt": "各位看呢",
+      "section": "cn-tech",
+      "rankScore": 0.632712
+    },
+    {
+      "id": "cd828b05f428d73e",
+      "title": "从算力底座到行业落地，华为智启未来主题论坛亮相 2026 世界计算大会",
+      "url": "https://www.oschina.net/news/503727",
+      "source": "oschina",
+      "publishedAt": "2026-11-22T16:18:42.000Z",
+      "excerpt": "11 月 20 日，2026 世界计算大会举办期间，由华为主办的“数智共昇 鸿湘有为”智启未来主题论坛在长沙举办。论坛深度对接湖南省“AI+”发展战略，围绕计算前沿技术、产业生态演进与人工智能行业落地实践展开研讨，既有面向产业全局的趋势判断，也有来自一线场景的落地经验，为算力生态伙伴协同创新、产业数智升级提供交流...",
+      "section": "cn-tech",
+      "rankScore": 0.547483
+    },
+    {
+      "id": "d28274f806d839e5",
+      "title": "协议解析完整链路：从抓包到自写解析器（libpcap→Wireshark→C）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDR1ZOdWtTdW9wQk1UdHRJbnpINVd4M0ZqWmtyWWtfcl84Y0FuczRmQllfZVM4THhtaEJra2FsZnBmbkQ0bmlEVEVpbkFZSUlhZ0RiVw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-22T16:40:05.000Z",
+      "excerpt": "协议解析完整链路：从抓包到自写解析器（libpcap→Wireshark→C） 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.432948
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
