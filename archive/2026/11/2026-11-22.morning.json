@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-22",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-22T02:08:08.256Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "64281935d998c870",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-22T02:08:08.256Z",
+      "score": 583,
+      "excerpt": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "section": "tech",
+      "rankScore": 1.065
+    },
+    {
+      "id": "85cdad7efd536584",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-22T02:08:08.256Z",
+      "score": 488,
+      "excerpt": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "section": "tech",
+      "rankScore": 0.975
+    },
+    {
+      "id": "8e7ddfa0a132f9e3",
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "hn-front",
+      "publishedAt": "2026-11-21T13:23:14.000Z",
+      "score": 526,
+      "author": "beginning_end",
+      "excerpt": "526 points · 348 comments · https://news.ycombinator.com/item?id=50588982",
+      "section": "tech",
+      "rankScore": 0.900032
+    },
+    {
+      "id": "e2ae524d3c914ac0",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-22T02:03:46.000Z",
+      "author": "arstechnica.com via itamarst",
+      "section": "tech",
+      "rankScore": 0.681316
+    },
+    {
+      "id": "55aed47a403e09bc",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-21T22:12:41.000Z",
+      "author": "Jennifer Ouellette",
+      "excerpt": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "section": "tech",
+      "rankScore": 0.444217
+    },
+    {
+      "id": "e3cc3edd4e3084de",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "source": "verge",
+      "publishedAt": "2026-11-21T21:59:31.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order.",
+      "section": "tech",
+      "rankScore": 0.441657
+    },
+    {
+      "id": "61a57e633ea53099",
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-21T23:56:28.000Z",
+      "excerpt": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.",
+      "section": "ai",
+      "rankScore": 0.79611
+    },
+    {
+      "id": "5311c2d8599f02bb",
+      "title": "Gemini 从美区学生 Pro 入正黑五半价了，顺道聊聊当前 Gemini 优惠情况和我个人 AI 使用心得分享",
+      "url": "https://www.v2ex.com/t/1258834",
+      "source": "v2ex",
+      "publishedAt": "2026-11-21T19:31:42.000Z",
+      "score": 5,
+      "author": "Msxx",
+      "excerpt": "白嫖谷歌学生 Pro 挺久，说人话是最大的特色，前两个月因为 ChatGPT 狂砍 plus 额度那时就停掉了，现在这时间点再看，停掉 ChatGPT 是对的，新模型拉了额度也烧得非常快。 以前的流程是：ChatGPT 做开发写脚本写逻辑，Antigravity 挂自动化用 3.8 Flash 定时跑流程执行。 停掉 ChatGPT 后：DeepSeek Flash 在 ChatGPT 的开发上迭代，Antigravity 保持不变。 说来也赶巧，恰逢： Google One 要再次核验学生身份了，又恰逢社区里很多人都倒在了这次核验上。 又恰逢谷歌开启了黑五的半价 Pro 年付活动。",
+      "section": "cn-tech",
+      "rankScore": 0.650891
+    },
+    {
+      "id": "b616d36b1fc01759",
+      "title": "2万亿造富，25位华人员工接住Anthropic泼天富贵",
+      "url": "https://www.36kr.com/p/4079379879252868",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-22T00:20:12.000Z",
+      "author": "Tech星球",
+      "excerpt": "AI界的造富故事，正在从创始人为主的一端向内部员工扩散。Anthropic的上市，恰好将这种变化推到了聚光灯下。 11月19日，Claude大模型背后的Anthropic正式登陆纳斯达克。公司IPO发行价为每股83美元，公开发行规模高达813.4亿美元，加上260亿美元的同步私募配售，整体交易规模超过1073亿美元，公司估值约1.5万亿美元。 伴随这场史诗级 IPO，一大批打工人迎来了财富跃迁。值得注意的是，其中还有25位华人成功接到泼天富贵。",
+      "section": "cn-tech",
+      "rankScore": 0.603016
+    },
+    {
+      "id": "052be712988f370c",
+      "title": "人类免疫系统衰老在 40 岁和 60 岁后会加速",
+      "url": "https://www.solidot.org/story?sid=85954",
+      "source": "solidot",
+      "publishedAt": "2026-11-21T14:25:45.000Z",
+      "excerpt": "生死之旅从来不是平坦的。人体的衰老会呈现突然的跳跃加速，科学家正试图弄清楚衰老加速在细胞层面是何时发生的。发表在《Nature Communications》期刊上的一项研究调查了人类免疫系统，发现免疫系统衰老有两次突然加速。新加坡研究人员分析了 1828 名不同族裔、年龄在 19-97 岁之间健康个体的单细胞转录组。研究人员共对比了 380 万个免疫细胞，发现了基因活性发生显著变化的两次尖峰。两次尖峰分别出现在 40 岁左右和 60 岁后。每次尖峰人体内都出现炎症加剧，免疫细胞在维护和管理 RNA 及蛋白质方面的能力会有所下降。两个免疫衰老尖峰出现的时间在男女之间存在细微差异。",
+      "section": "cn-tech",
+      "rankScore": 0.555382
+    },
+    {
+      "id": "6217743d42737316",
+      "title": "从深圳到上海，少数派的共创故事还在继续",
+      "url": "https://sspai.com/post/119318",
+      "source": "sspai",
+      "publishedAt": "2026-11-22T01:05:44.000Z",
+      "author": "侧脸君",
+      "excerpt": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...",
+      "section": "cn-tech",
+      "rankScore": 0.546132
+    },
+    {
+      "id": "bf73ed57044212cf",
+      "title": "Inkling 2 Mini 实测解析：26.4B 模型把中间层循环跑3 遍，20GB 内存塞进笔记本在本地笔记本上跑",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nVDFQYjFsRVNia1ZwU21PS2N1X0N5OWVfTHpQLUx2N1E5dWwxZnJiUlIxczFBR0tTRWNFYUMtSTZxNGhWM0xhbGR6dWdNTlRNUWhiRg?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-22T00:53:53.000Z",
+      "excerpt": "Inkling 2 Mini 实测解析：26.4B 模型把中间层循环跑3 遍，20GB 内存塞进笔记本在本地笔记本上跑 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.475562
+    },
+    {
+      "id": "c4534c919666158a",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-21T11:03:17.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week.",
+      "section": "security",
+      "rankScore": 0.448652
+    },
+    {
+      "id": "e3554f5571a3ac60",
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-21T08:49:20.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\"",
+      "section": "security",
+      "rankScore": 0.411443
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
