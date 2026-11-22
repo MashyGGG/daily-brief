@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-22",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-22T18:28:21.684Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "bda1c78a7f041558",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-22T17:57:43.000Z",
+      "excerpt": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "section": "news",
+      "rankScore": 0.615856
+    },
+    {
+      "id": "b19d42bae4b9bc7e",
+      "title": "台学者郭育仁看中美俄峰会：美总统完全掉入中国设计好的陷阱",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261122-%E5%8F%B0%E5%AD%A6%E8%80%85%E9%83%AD%E8%82%B2%E4%BB%81%E7%9C%8B%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%B3%B0%E4%BC%9A-%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%AE%8C%E5%85%A8%E6%8E%89%E5%85%A5%E4%B8%AD%E5%9B%BD%E8%AE%BE%E8%AE%A1%E5%A5%BD%E7%9A%84%E9%99%B7%E9%98%B1",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-22T15:17:51.000Z",
+      "author": "瑞迪",
+      "excerpt": "举世瞩目的中美俄三国深圳峰会早已落幕。首次举行的中美俄三边峰会此前被形容为“有历史意义”的峰会，甚至引发可能会是新国际形势下的“雅尔塔”的猜测。但峰会最终达成的几近空泛的联合声明与此前的举世瞩目形成巨大反差。台湾国立中山大学中国与亚太区域研究所教授兼所长、国策研究院副所长郭育仁先生接受本台电话采访时表示，虽然这次仓促决定的三边峰会不会有任何实质内容已在预料之中，但他认为美国总统特朗普听任中国国家主席习近平借峰会将自己塑造成和平爱好者十分荒谬，美国总统特朗普完全掉入了中国设计的陷阱。中美俄三边峰会在很大程度上遮掩了舆论对有全球21个经济体的领袖或领袖代表出席的亚太经合组织非正式峰会的关注。",
+      "section": "news",
+      "rankScore": 0.602302
+    },
+    {
+      "id": "fec6294c7ba6aed5",
+      "title": "台湾副外长警告加拿大总理卡尼：深化对华关系恐面临“经济胁迫”",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261122-%E5%8F%B0%E6%B9%BE%E5%89%AF%E5%A4%96%E9%95%BF%E8%AD%A6%E5%91%8A%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC-%E6%B7%B1%E5%8C%96%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%B3%BB%E6%81%90%E9%9D%A2%E4%B8%B4-%E7%BB%8F%E6%B5%8E%E8%83%81%E8%BF%AB",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-22T15:11:28.000Z",
+      "author": "法广",
+      "excerpt": "台湾副外长陈明祺周六（11月21日）警告加拿大总理卡尼，如果加拿大进一步深化与中国的经贸联系，可能会使自身暴露在其一直警惕的“经济胁迫”风险之下。他表示，台湾已经从亲身经历中体会到，对中国的依赖会带来怎样的后果。",
+      "section": "news",
+      "rankScore": 0.599028
+    },
+    {
+      "id": "8b087d9aa1caa593",
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-22T18:20:38.000Z",
+      "author": "Chico Harlan and Lisa Friedman",
+      "excerpt": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "section": "news",
+      "rankScore": 0.55683
+    },
+    {
+      "id": "21eb38485922581a",
+      "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
+      "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-22T18:00:00.000Z",
+      "excerpt": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
+      "section": "news",
+      "rankScore": 0.548365
+    },
+    {
+      "id": "0ee6577c9cfc6253",
+      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-22T17:55:27.000Z",
+      "author": "José Olivares",
+      "excerpt": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in…",
+      "section": "news",
+      "rankScore": 0.546498
+    },
+    {
+      "id": "f4c5f0a3b92788f6",
+      "title": "菲律賓寵物火葬場醜聞：死去貓狗本應火化，但屍體卻出現在直播畫面中",
+      "url": "https://www.bbc.com/zhongwen/articles/cv62pjg5d533o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-22T08:57:48.000Z",
+      "excerpt": "許多傷心的菲律賓人面臨著一個令人痛心的現實：他們的寵物能並沒有得到應有的葬禮",
+      "section": "news",
+      "rankScore": 0.488885
+    },
+    {
+      "id": "bfe6ffcc1ce3e711",
+      "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-22T18:23:08.000Z",
+      "author": "Tim Balk",
+      "excerpt": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.",
+      "section": "news",
+      "rankScore": 0.488123
+    },
+    {
+      "id": "5f491f156839e652",
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+      "source": "npr-news",
+      "publishedAt": "2026-11-22T17:44:52.000Z",
+      "author": "Jane Arraf",
+      "excerpt": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+      "section": "news",
+      "rankScore": 0.474387
+    },
+    {
+      "id": "ea95e8dd713200d9",
+      "title": "01:34:35 财联社11月23日电，特朗普表示，如果新年后仍未达成协议，倾向于对伊朗发动打击。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CVVFnRk5HbkllRmlBY0x6WWk4Vk1HVlUxSjh3cUdtY19FZFlGZ2Z4bUs4eFdlTW52TGpTZWRNOU5FRE9BdmdNdQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-22T17:34:35.000Z",
+      "excerpt": "01:34:35 财联社11月23日电，特朗普表示，如果新年后仍未达成协议，倾向于对伊朗发动打击。 财联社 特朗普：万一未来的美国总统不靠谱呢，我签的伊朗协议得永远有效 新浪新闻_手机新浪网 特朗普：寻求与伊朗达成永久性协议 华尔街见闻 特朗普称没有考虑伊朗政权更迭 新京报 特朗普：伊朗“不想达成我能接受的协议” 凤凰网",
+      "section": "news",
+      "rankScore": 0.403453
+    },
+    {
+      "id": "b9efaa61322a17ec",
+      "title": "Xi needs Trump more than ever",
+      "url": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
+      "source": "ft-world",
+      "publishedAt": "2026-11-22T13:00:06.000Z",
+      "excerpt": "The Shenzhen summit shows the high stakes for Beijing as many in Washington call for tougher measures",
+      "section": "news",
+      "rankScore": 0.372163
+    },
+    {
+      "id": "725212e3f884b665",
+      "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168855",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-22T12:00:00.000Z",
+      "excerpt": "COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” setback.",
+      "section": "news",
+      "rankScore": 0.300504
+    },
+    {
+      "id": "b2690dd9f1ed30f1",
+      "title": "李家超致贺香港特区选委会当选委员 冀秉持“爱国者治港”原则履职尽责",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736218.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-22T15:58:55.000Z",
+      "excerpt": "中新社香港11月22日电 香港特区行政长官李家超22日向2026年香港特区选举委员会(简称“选委会”)界别分组一般选举当选委员致贺。他期望所有选委会委员秉持“爱国者治港”原则履职尽责，为“一国两制”实践行稳致远贡献力量。",
+      "section": "cn-news",
+      "rankScore": 0.685698
+    },
+    {
+      "id": "c52bdfc706e7d133",
+      "title": "短道速滑世巡赛首尔站收官 中国队获接力一金一铜",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736189.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-22T12:40:40.000Z",
+      "excerpt": "中新社首尔11月22日电 国际滑联官网消息，2026-2027赛季短道速滑世界巡回赛韩国首尔站22日收官。中国队在本站打破新赛季世巡赛“金牌荒”，斩获女子3000米接力金牌，并夺得混合团体接力铜牌。",
+      "section": "cn-news",
+      "rankScore": 0.626034
+    },
+    {
+      "id": "2bcbcb07531436b5",
+      "title": "歌手、演员方力申，刷新吉尼斯世界纪录",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3R3RPd3cyRFRfOGFOd1dwa096WWVfak9xc0dYYVB5cWotVHlqM1dTS0cwZWZ0TF90OWZYdFlBbFV3OGQtY3MwZHRhVTltWkhhME5YVW9rYW5tNUlxUENzTQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-22T15:48:52.000Z",
+      "excerpt": "歌手、演员方力申，刷新吉尼斯世界纪录",
+      "section": "cn-news",
+      "rankScore": 0.556387
+    },
+    {
+      "id": "5558ca8ade36a6eb",
+      "title": "创14个月新低 国际金价走势与地缘政治局势变化有何关联？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736215.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-22T15:13:49.000Z",
+      "excerpt": "本周，国际金价出现连续下跌。国际现货黄金单周跌幅达8.9%，每盎司3800美元、3700美元、3600美元关口接连失守，现货黄金最低触及每盎司3502美元，创14个月新低。",
+      "section": "cn-news",
+      "rankScore": 0.54021
+    },
+    {
+      "id": "eda6c7503082ba41",
+      "title": "印尼糖果厂火灾现场整理出24个尸袋",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zRXdmdmljTlRkUUI3dUF4djZHdnBKWE5KTlg1TzR3UENmNlF0Y0xvcGtjZFVPUEplR3QxTXBJM0J4OVRjdnZJUVp2bk1xai1LRW5oNnI5LXI?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-22T14:42:02.000Z",
+      "excerpt": "印尼糖果厂火灾现场整理出24个尸袋 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.525541
+    },
+    {
+      "id": "ac4a147ac559ba3c",
+      "title": "视频丨全国秋冬种进入尾声 主产区积极应对超强厄尔尼诺影响",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40ck1pQlYxdmNWSmtrWWY5aGR1MkVpbEd1elA1dzY3S2tOZUYtQWFWNFYwc01RdHpKTVBISkVUQVhDbTRLZHJVRmRNeG4?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-22T14:55:30.000Z",
+      "excerpt": "视频丨全国秋冬种进入尾声 主产区积极应对超强厄尔尼诺影响 凤凰网 27万亩！“麦”向希望 凤凰网 超强厄尔尼诺事件背景下 “中原粮仓”河南小麦如何“闯关”？ Sohu 冬小麦播种过八成，暖冬未必是好消息 新浪财经 全国秋冬种进入尾声 主产区积极应对超强厄尔尼诺影响 中国网新闻中心",
+      "section": "cn-news",
+      "rankScore": 0.472672
+    },
+    {
+      "id": "68f36371c43a8d42",
+      "title": "回购 增持 派现A股“市值管理工具箱”持续发力",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sVEdFYkpld1dqNkJIZ1hveEw0R2RnNmJvc0pYbFB1eXJ1YXVhZVdUTGpYcWxkX1VSaWZTdHRqa2xmMm9XVE8zOGY3OVl5ZHlwQUU4TDllWnEyM1VFbWZIWld2WnAxZw?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-22T17:08:16.000Z",
+      "excerpt": "回购 增持 派现A股“市值管理工具箱”持续发力 东方财富网 A股利好，超60家上市公司，密集披露 凤凰网财经 央行下调回购增持再贷款利率至1% 11月超60家公司获贷款承诺函 Sohu 沪市主板一晚新增15单回购增持计划 ThePaper.cn 新浪网· 手机新浪网",
+      "section": "cn-news",
+      "rankScore": 0.461248
+    },
+    {
+      "id": "71b56c4ab1e73baf",
+      "title": "iPhone Duo上市滿月 中國市場降價幅度續擴大",
+      "url": "https://www.cna.com.tw/news/acn/202611220191.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-22T14:03:41.000Z",
+      "excerpt": "（中央社台北22日電）蘋果（Apple）首款摺疊機iPhone Duo上市滿月，中國財經媒體今天報導，中國部分電商平台已出現優惠價比官方定價低人民幣逾1000元（逾新台幣4930元）。",
+      "section": "cn-news",
+      "rankScore": 0.451414
+    },
+    {
+      "id": "95ecf4431e6cd903",
+      "title": "Has AI solved the Riemann hypothesis? Claim makes waves at 200th birthday event in China",
+      "url": "https://www.scmp.com/news/china/science/article/3375386/has-ai-solved-riemann-hypothesis-claim-makes-waves-200th-birthday-event-china",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-22T16:01:05.000Z",
+      "author": "Victoria Bela",
+      "excerpt": "A US-based mathematician has stunned the community by claiming to have solved the nearly 170-year-old Riemann hypothesis using artificial intelligence (AI). The news broke on Friday as a major conference opened in southern China’s Shenzhen, where world-leading mathematicians have gathered until…",
+      "section": "cn-news",
+      "rankScore": 0.437131
+    },
+    {
+      "id": "8c740e90b01a291c",
+      "title": "沪深北交易所调整融资保证金比例 有望释放近4000亿元增量资金",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xSW9BcjFpbkNFZDVpZGJYdzVrZWpGcUxlYzg5dDBkeDVPZlVvZ2VpTGFOTXFYS0ZpZHA3WUI2U0FESkx5RndWUmJEUHJSYnZvNnRGXzhqM2JVdHlNb2U0LXpKNzJKUQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-22T18:22:30.000Z",
+      "excerpt": "沪深北交易所调整融资保证金比例 有望释放近4000亿元增量资金 东方财富网 沪深交易所、中国结算推出一揽子降费措施 东方财富网 利好来了！融资保证金比例下调，近4000亿增量资金可期 新浪新闻_手机新浪网 “稳股市”组合拳来了，三项新政发布 ThePaper.cn 刚刚，A股利好！上交所、深交所、北交所，集体宣布！ 同花顺财经",
+      "section": "cn-news",
+      "rankScore": 0.418196
+    },
+    {
+      "id": "3af0a3281d3c8cee",
+      "title": "西藏扎囊拓宽农牧民淡季增收路 提供770个就业岗位",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736197.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-22T12:50:21.000Z",
+      "excerpt": "中新网拉萨11月22日电 (记者 贡桑拉姆)近日，西藏山南市扎囊县联合湖南省第十一批援藏工作队株洲组，举办全县首届农牧民淡季区外就业援藏专场招聘会。活动吸引68家用人单位参会，提供就业岗位770个，20名农牧民与用工单位达成就业意向。",
+      "section": "cn-life",
+      "rankScore": 0.631993
+    },
+    {
+      "id": "b66e942366858d56",
+      "title": "明年开始，如果房价继续下跌，中国50%的家庭或要面临3个问题 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUS1aZmdRZmRLWkdSSXctR05MRmNmWlBqQk1hRDFRVndWWUFLWUdNWFFtbTU1ekMwTDQtQ1E4ZzBVdlMwVUdfN1NHdUNVRDFnSWRaU0FYYXJoWHJzTjBWXzBLTktuTmZ2WlZLSExQTS1lbUNDRFBIV3hkNUt4OGhWUl9Nc1g2WWxzM01RNA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-22T16:53:33.000Z",
+      "excerpt": "明年开始，如果房价继续下跌，中国50%的家庭或要面临3个问题 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.586241
+    },
+    {
+      "id": "034ebf42e46e7ffd",
+      "title": "袁家军陈新武会见中国航天科技集团董事长陈鸣波一行",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUJKSkI3SHJDMHhNd0tZZVFUQ3k4VEgzTUxGRjc2MjEtODlycnByZ2J2LUpiY0xhNGEzVWVnaWdKWHRQYUxESkd6NmdGaGxMbXJwZ2x5dzhlZ1RZQ0l3Wkx2b3VJTGMxY3pmUUw3eXlSV2ozdHJJWng2azdRQVpGWnhqbEl4YjJic2phMkhWVXJYWEhTZmRv?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-22T17:21:53.000Z",
+      "excerpt": "袁家军陈新武会见中国航天科技集团董事长陈鸣波一行 重庆人大",
+      "section": "cn-life",
+      "rankScore": 0.532727
+    },
+    {
+      "id": "853d19f6f129a264",
+      "title": "气象预警 | 阵风7级或以上！山西发布大风蓝色预警 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTW9jckhDZWNFOGhXdDR0Y3lSMWliRVI5Q2tLS2pNUE5peW9yRjVXVkhEYjMyaEVLU2JSRXQtam1pVHlLR1NFN1FaTUIzVTdUeGN6MTZrWE1UemE0amFVMm1iRGRPaVF3dDNWMDdnRmZzOE5qenJsNTRjM2paWDQzb3J2LTNOSm9qeGVJeQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-22T14:23:36.000Z",
+      "excerpt": "气象预警 | 阵风7级或以上！山西发布大风蓝色预警 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.517033
+    },
+    {
+      "id": "dcf83f6737c3b2ad",
+      "title": "极氪辟谣虚假召回短信：勿点链接，谨防信息泄露财产损失！",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xQjVRVEcxTF9OTlYwdWdkeGxjdWZoQk90R3E1MmdwdlJxelFMSDA5RzFoWldDenVzY0VFRklXc2JHcnZ5X1hSRUV2ZTRyck92NjdacDhrVnBtakZ3cTI0UDRyaWFIN0p4c2RPZWxyN3Bjdw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-22T17:21:31.000Z",
+      "excerpt": "极氪辟谣虚假召回短信：勿点链接，谨防信息泄露财产损失！ 手机新浪网",
+      "section": "cn-life",
+      "rankScore": 0.466004
+    },
+    {
+      "id": "f153c1e28c760602",
+      "title": "1990—2023年不同收入水平国家六种胃肠道癌症发病与死亡负担的全球差异及趋势",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KejBtQ1BlY3E2RXEzcUEwRnlNbTBmQm9wendBakdSOW0yTWYtVzJzbmt1dldyaVRqV2FyckxzUXdUOE5rb0RZQ3VDQTVVOWhhR3BtT2xFOWN2RnlXV3VKdGxXM2xUZDNOaS1Hakln?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-22T16:03:38.000Z",
+      "excerpt": "1990—2023年不同收入水平国家六种胃肠道癌症发病与死亡负担的全球差异及趋势 生物通",
+      "section": "cn-life",
+      "rankScore": 0.438046
+    },
+    {
+      "id": "a275aeddb8db41f4",
+      "title": "【践行改造宗旨】以曲艺赋能改造 绘就教育矫治新图景 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGFxTnVfUHBCQmRKbkRhc0xBSTZvQkpCdFp4SzV5RzZiZENlNklIQmFDdUVrWnJTZHd2eW1MX0pDY1IxRTBkY2g4Nnk5V0c5ZWpRbExCWnh0aTFmM01xWDN4M1FaSUJyX1VPbW5yRGM1YXJIUktEWmNKWW02ZmFacEF1OHVVRW5LQk1UYw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-22T16:09:12.000Z",
+      "excerpt": "【践行改造宗旨】以曲艺赋能改造 绘就教育矫治新图景 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.377181
+    },
+    {
+      "id": "bdd3a242acc72b55",
+      "title": "舌尖上的小雪！冬藏美食地图带你寻找儿时家乡味",
+      "url": "https://www.chinanews.com.cn/life/2026/11-22/10736065.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-22T07:29:07.000Z",
+      "excerpt": "中国天气网讯 时序流转，小雪节气如约而至。小雪，是冬季的第二个节气，反映气温与降水变化趋势，因寒未深、降水未大而得名。俗话说 “小雪腌菜，大雪腌肉”，小雪节气气温走低、空气干爽，正是腌物储鲜的好时节。冬腊风腌，蓄以御冬，中国天气特别推出小雪节气冬藏美食地图，带你寻找儿时家乡的味道。",
+      "section": "cn-life",
+      "rankScore": 0.361926
+    }
+  ],
+  "warnings": []
+}
