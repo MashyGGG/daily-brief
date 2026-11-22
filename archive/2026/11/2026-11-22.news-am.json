@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-22",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-22T02:37:17.222Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "fe92685ec02f51fb",
+      "title": "地球迎來新的「迷你月亮」——它並不孤單",
+      "url": "https://www.bbc.com/zhongwen/articles/cqy7rg0yyxxko/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-22T01:30:51.000Z",
+      "excerpt": "地球迎來新迷你衛星，體積極小且僅短暫繞行。同時存在準衛星與幽靈衛星等暫時天體，但皆遠不及月球，也無危險。",
+      "section": "news",
+      "rankScore": 0.817854
+    },
+    {
+      "id": "06457bb09b85a18b",
+      "title": "欧盟与印度尼西亚的贸易协议：让欧盟GDP高出160亿欧元， 印度尼西亚GDP高270亿欧元",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261121-%E6%AC%A7%E7%9B%9F%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E7%9A%84%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE-%E8%AE%A9%E6%AC%A7%E7%9B%9Fgdp%E9%AB%98%E5%87%BA160%E4%BA%BF%E6%AC%A7%E5%85%83%EF%BC%8C-%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9Agdp%E9%AB%98270%E4%BA%BF%E6%AC%A7%E5%85%83",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-21T23:18:50.000Z",
+      "author": "安东尼",
+      "excerpt": "欧盟与印度尼西亚周六在布鲁塞尔正式签署了一项贸易协议，旨在开放双方市场。因为有了这份协议， 预计到2042年，欧盟GDP高出160亿欧元， 印度尼西亚GDP高270亿欧元。",
+      "section": "news",
+      "rankScore": 0.644874
+    },
+    {
+      "id": "fc254ff792c54524",
+      "title": "德维尔潘竞选总统为何引发热议",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261121-%E5%BE%B7%E7%BB%B4%E5%B0%94%E6%BD%98%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E7%83%AD%E8%AE%AE",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-21T23:14:19.000Z",
+      "author": "安德烈",
+      "excerpt": "法国总统竞选进入关键阶段，左右候选人成堆，极右翼国民联盟候选人玛丽娜.勒庞领衔民调，极左翼法兰西不屈服领袖梅郎雄摇旗呐喊，声势不小，民调虽低于国民联盟十个点左右，但高于其他左右各翼。然而就在这个周五，又杀出一个号称超出“群党”，既不屑于与两个极端为伍，又痛斥马克龙主义的所谓中间派削弱了法国，讲话有点戴高乐式的姿态，言辞却似不乏革命者情怀的一个候选人，他就是希拉克时期曾担任总理的德维尔潘。",
+      "section": "news",
+      "rankScore": 0.643619
+    },
+    {
+      "id": "2f2e992eff1a52d9",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-22T01:25:03.000Z",
+      "excerpt": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "section": "news",
+      "rankScore": 0.611941
+    },
+    {
+      "id": "55d8ff40a28135db",
+      "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-22T02:08:49.000Z",
+      "author": "Henry Belot",
+      "excerpt": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an independent candidate from handing out…",
+      "section": "news",
+      "rankScore": 0.553673
+    },
+    {
+      "id": "56112382d56c2dbd",
+      "title": "Bessent confirms he’s living on US military base over Iran fears",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-22T02:05:50.000Z",
+      "excerpt": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
+      "section": "news",
+      "rankScore": 0.55301
+    },
+    {
+      "id": "b06bee80a9c84c6e",
+      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-22T01:56:16.000Z",
+      "author": "Steve Fisher, Paulina Villegas and Alan Feuer",
+      "excerpt": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+      "section": "news",
+      "rankScore": 0.550884
+    },
+    {
+      "id": "91d0efa90ab7f798",
+      "title": "India’s $126bn insurance sector slams proposed commission cap",
+      "url": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-22T01:30:02.000Z",
+      "excerpt": "Industry argues regulation would hamper growth of a market that only recently opened up fully to foreign investment",
+      "section": "news",
+      "rankScore": 0.476923
+    },
+    {
+      "id": "c3d855cc775d90ee",
+      "title": "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa",
+      "url": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-21T22:57:09.000Z",
+      "author": "Hiroko Tabuchi and John Ismay",
+      "excerpt": "The Army had hired a firm to turn the explosives into harmless waste, but then dropped it in favor of a controlled blast that could launch lead dust across Iowa.",
+      "section": "news",
+      "rankScore": 0.447196
+    },
+    {
+      "id": "d33dfcabca1b0aef",
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+      "source": "npr-news",
+      "publishedAt": "2026-11-21T22:40:36.000Z",
+      "author": "The Associated Press",
+      "excerpt": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+      "section": "news",
+      "rankScore": 0.443978
+    },
+    {
+      "id": "43a878872eddc6c6",
+      "title": "知情人士：美方要求乌明年1月初与俄达成和平协议",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YeTlMbG5WX2VDSGg3b1FwRV9IMHVZdndhZVJFUHlUeTRNbXdOWDJXbllNNTAtVjVEMFhmS01ucC0wVWlWQmUzN2dINVlYcHZkWkVR?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-22T02:08:23.000Z",
+      "excerpt": "知情人士：美方要求乌明年1月初与俄达成和平协议 华尔街见闻",
+      "section": "news",
+      "rankScore": 0.415183
+    },
+    {
+      "id": "ab047080079a8681",
+      "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-21T12:00:00.000Z",
+      "excerpt": "When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.",
+      "section": "news",
+      "rankScore": 0.273785
+    },
+    {
+      "id": "2d03bc6b1a938d64",
+      "title": "14日的面试13日出结果？长安大学致歉",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735960.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-22T02:19:19.000Z",
+      "excerpt": "中新网西安11月22日电 (记者 杨英琦)近日，有媒体报道，多名考生反映，参加长安大学辅导员招聘时发现，11月14日初面结束，学校官网显示13日出了面试结果。针对此事，21日，长安大学发布情况通报。",
+      "section": "cn-news",
+      "rankScore": 0.83401
+    },
+    {
+      "id": "e13adf90cd56e27f",
+      "title": "全国政协召开双周协商座谈会 围绕构建以先进制造业为骨干的现代化产业体系协商议政 王沪宁主持",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735953.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-22T01:58:08.000Z",
+      "section": "cn-news",
+      "rankScore": 0.758036
+    },
+    {
+      "id": "5e38a398ebe1a576",
+      "title": "男子3年前醉驾被吊销驾照后，再次醉驾肇事逃逸被刑拘",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hQ2xPTjRSeUd1Ui0wM0loX2pXZW9laXVLYWZfZDllb3BnNmRSdGFITGpHU0Qzd2RvR2F6VTZkMkc5MkdNdUdxbGl5R2tRY3VlT0lZSTJuS0hJcmdnVnJZcA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-22T02:31:51.000Z",
+      "excerpt": "男子3年前醉驾被吊销驾照后，再次醉驾肇事逃逸被刑拘",
+      "section": "cn-news",
+      "rankScore": 0.628641
+    },
+    {
+      "id": "8f14c24e084b0988",
+      "title": "2026“世界电视日”大视听产业系列活动武汉启幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10735963.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-22T02:17:01.000Z",
+      "excerpt": "中新网武汉11月22日电 (蒋秋雨 高玲玲 王梦媛)2026“世界电视日”大视听产业系列活动21日在武汉经开区启幕，行业领军人物、知名学者齐聚一堂，聚焦行业前沿技术趋势与产业机遇，打造立足华中、面向全国、链接海外的视听文化盛会，为大视听产业发展锚定方向。",
+      "section": "cn-news",
+      "rankScore": 0.624932
+    },
+    {
+      "id": "a0ad146ac0658d3b",
+      "title": "今年流感跨毒株感染风险加大，今年流感季三毒株同时活跃",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXUGE2WllZOXZ0RWZXenVsMU1EbTNWZGZ6aWcybGh1aUw4N2d6RGJOdXR4d3dhaWRDOU1FVk5VZU84Z0xHTF9LVzBlamRIUHF0YWg3NUNXRWg?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-22T01:57:48.000Z",
+      "excerpt": "今年流感跨毒株感染风险加大，今年流感季三毒株同时活跃 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.620128
+    },
+    {
+      "id": "b0e8e16bd290fe8c",
+      "title": "分析：APEC上与习近平、特朗普历史性会晤，对普京是一场重大胜利 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45NkZnNG16REF4QkNEa1dKZGhNTXRsRmtTNWxONlhLbkxLMTItQkdpdzg0N2RnV0NIdlY2WnJYbW9sZGw4M1NfSEEzc2x3VXE2Y2NEZEtUR2NodWFjUmlJTTFWblkwNEnSAWxBVV95cUxPOTZreE5JRDNEaWdta0VxRUw0UTJwSU9TbGo3WFcyTTQwbnR3NENYX2VpNHF4Nk9jWHpCUGQyVmt5UE9YNjdIalRvc1BCWlFycGpDcnlkR3NVLXlRWmR3RmVaZXZKNnBjV0k3LVM?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-22T02:15:00.000Z",
+      "excerpt": "分析：APEC上与习近平、特朗普历史性会晤，对普京是一场重大胜利 BBC 中俄美三方峰会场面大于实质成果——BBC驻北美记者分析 BBC 一周军评：都有原子弹协议不放弹 观察者网 国际锐评丨这场“开创性”的中俄美元首会晤释放哪些信号？ 新浪新闻_手机新浪网 美中俄峰会谁是赢家？余茂春分析特朗普应对习、普策略 美国之音",
+      "section": "cn-news",
+      "rankScore": 0.555047
+    },
+    {
+      "id": "c7d40299fb5370dd",
+      "title": "Xi’s Apec summit speech is a call to cooperation suited to the times",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3375061/xis-apec-summit-speech-call-cooperation-suited-times",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-22T01:30:06.000Z",
+      "author": "Wei Wei",
+      "excerpt": "In his keynote speech at the Apec CEO Summit in Shenzhen on November 18, President Xi Jinping quoted the ancient Chinese saying “fan yi zhi dao yu shi jie xing”, which suggests that all approaches must move with the times to be of benefit.",
+      "section": "cn-news",
+      "rankScore": 0.476936
+    },
+    {
+      "id": "16ecd200b00d8741",
+      "title": "就在周一！首批18只“每日明牌”基金来了",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtNmhTaTJYUEVudEZ5Qkt0ZnUyamo3RjhzM3VLQlctTTdCUVprckNUSGtqc3EzTGduRTZtMlFYTG1kNlRpQVkxVHRxTnpoWUREbWZNU3dRZllCaE1uLUhaaA?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-22T00:51:35.000Z",
+      "excerpt": "就在周一！首批18只“每日明牌”基金来了 ThePaper.cn 周一上市！18只“每日明牌”基金，来了 新浪财经 主动型ETF能否成为中国股市改革契机？ 日经中文网 首批主动ETF重仓股曝光：360亿新钱买了啥 华尔街见闻 22家私募现身15只首批主动ETF，合计持有5.24亿份 新京报",
+      "section": "cn-news",
+      "rankScore": 0.469447
+    },
+    {
+      "id": "1dbeef5a929257d9",
+      "title": "服务上云 推动健康数智技术应用（总书记的关切·落地的回响）",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aaGh5UEw2c2M0dExOWmVMRHNtMVJieDhFTmM0cjZtV3VxT09sZEczU3dna25CVjNXQTFpSlo5czlYN2xCbEE4VHBLV0NGTjgyUUcwR0o1N2NZdi1hQkdFa3RpaE13ZU1maTdF?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-22T00:56:00.000Z",
+      "excerpt": "服务上云 推动健康数智技术应用（总书记的关切·落地的回响） 中国共产党新闻网",
+      "section": "cn-news",
+      "rankScore": 0.403119
+    },
+    {
+      "id": "a275ccabae0c3d9d",
+      "title": "屯門夾公仔機店內遭盜竊 台主失電批喻口罩男歸還",
+      "url": "https://hk.news.yahoo.com/%E5%B1%AF%E9%96%80%E5%A4%BE%E5%85%AC%E4%BB%94%E6%A9%9F%E5%BA%97%E5%85%A7%E9%81%AD%E7%9B%9C%E7%AB%8A-%E5%8F%B0%E4%B8%BB%E5%A4%B1%E9%9B%BB%E6%89%B9%E5%96%BB%E5%8F%A3%E7%BD%A9%E7%94%B7%E6%AD%B8%E9%82%84-012451113.html",
+      "source": "yahoo-hk",
+      "publishedAt": "2026-11-21T17:24:51.000Z",
+      "excerpt": "今日(22日)凌晨零時許，有夾公仔台主於社交平台上傳一段長約1分50秒影片，片段拍攝於屯門一所夾公仔店舖內，從片段所見店內共放置有4部夾公仔機。拍攝時間於昨日(21日)晚上約10時許，從閉路電視所見一名戴口罩男子，身穿灰色外套，孭着一個布袋及手持一張圓櫈進入店內，其後該名男子於店內探頭四處張望，之後從其中一部的公仔機機頂上挑選了一個灰色的環保袋，隨即將手上的櫈放進袋內，其後男子在店內再次張望尋找獵物，最後在公仔機頂上拿走一把疑似電批的物件放入袋內後離去，整個盜竊過程被拍下。",
+      "section": "cn-news",
+      "rankScore": 0.382582
+    },
+    {
+      "id": "075c3f378db1b52d",
+      "title": "邮寄假律师函为境外诈骗铺路 兼职代发为何沦为犯罪一环？",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735969.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-22T02:27:35.000Z",
+      "excerpt": "“从来没借过钱，哪来的催款通知？”一通来自外省的报警电话，牵出了一条藏在快递包裹里的犯罪链条。近日，上海闵行警方抓获了两名代发虚假律师函实施诈骗的犯罪嫌疑人。",
+      "section": "cn-life",
+      "rankScore": 0.836765
+    },
+    {
+      "id": "3df237afa495a958",
+      "title": "实际收入下滑，物价猛涨！澳人生活水平严重倒退，专家警告：情况还会恶化 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjNMLTl1TzE0YWF2cTBVMkJMMTUzT2U0ZUlZVWZ3MzZkNnNvQmtBTE9CNjA1MkVVMVNtTFVhaXN5WWlNT2xmcjhxSHBZajRhWEVuRHBZQ1NoalFwb0h6c1NLNnFPVDdEbEhJeVg0QlpVM0RkOG1CNkRBRFF4Y1dpcU1hdUp5Q0FiV3djVA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-22T01:59:28.000Z",
+      "excerpt": "实际收入下滑，物价猛涨！澳人生活水平严重倒退，专家警告：情况还会恶化 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.620545
+    },
+    {
+      "id": "39fc5df5df0481b3",
+      "title": "湿度成变局，看懂冬季四种预警护好自己安稳过冬",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1scURGMGI2aFZ4dzJabUlGdWgwZV9PU28tWTYxYnRWVGZoVG1QN2dncUU3Uk11LTBJZTM3d0ZVakpYQzBMYTh6S1lpaS1vUFdKNTR4U0xHR1BfN2hoU3ow?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-22T01:01:17.000Z",
+      "excerpt": "湿度成变局，看懂冬季四种预警护好自己安稳过冬 华声在线",
+      "section": "cn-life",
+      "rankScore": 0.605999
+    },
+    {
+      "id": "b3d4e5574a99cabb",
+      "title": "“文明开麦”走进昝岗综合文体中心：讲述身边故事，共叙时代新风",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHMxZHdUdnc2VEs1ZTNHempDaW5DRVhfazVsS0tQdjVYbHk4Rm9Kekp5Vl9BaFFoalVpalFJU2lBNjlIM1k1dHZwcEFwSm90UVZwaHEtUWtRSHVCS2QtcWd6blRYem8yTUNNN1ZXNzNnalM2YlBvRzlLdGFHcmgzdw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-22T02:15:22.000Z",
+      "excerpt": "“文明开麦”走进昝岗综合文体中心：讲述身边故事，共叙时代新风 中国雄安官网",
+      "section": "cn-life",
+      "rankScore": 0.555129
+    },
+    {
+      "id": "4eb34a3d34c935c4",
+      "title": "医生发现：男性若戒掉吸烟，用不了半年时间，身体或会有4个改变",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44WDFxRFRyUFZ3WnJlMXhSY2dtYndkYXQwcGJZamM4R2NZREtKT191ek1OVWZFWl96ZXFPNk9PQXViNF9TMWZqVTlzV21sSDlPQ294dWxBMml0LXhhOEZ3Y3Jn?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-22T02:00:24.000Z",
+      "excerpt": "医生发现：男性若戒掉吸烟，用不了半年时间，身体或会有4个改变 手机网易网 男性一旦彻底戒烟过不了5个月会收获5个改变 VanPeople",
+      "section": "cn-life",
+      "rankScore": 0.482828
+    },
+    {
+      "id": "9779486ea0dd499e",
+      "title": "【网通社快报】小鹏汽车发布提示警惕冒用其名义的“召回领赔偿”诈骗",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYWllJTmdWQUxOTFd6SXhDTEVKU2VOdzFwWnBYOWU5Tm8tU2hMYU54SnlFOXNmRy1jTC12TUlhTmJjcC1WNzJCYnd4a3A?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-22T01:40:39.000Z",
+      "excerpt": "【网通社快报】小鹏汽车发布提示警惕冒用其名义的“召回领赔偿”诈骗 凤凰网",
+      "section": "cn-life",
+      "rankScore": 0.478987
+    },
+    {
+      "id": "7eaa954e696fa586",
+      "title": "韩国查出49名偷带手机高考考生:向全国手机连发3次灾难预警，即使调至静音模式，也会以最大音量发出10.5秒警报声 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUlliRTQwOTEzVDhQbW9qYWFVUDBDNS10RmQtYmlUaExPNm9nWHhQQnJuZlVvRXZkamVYandPYVpnQktLSzVCX093OWtxdEdoX1doUi1yXzFCYWowQi12MDY5ZVo3RDBPdXExalFld2JvYWhzWGFITFZVUzJEckY3dG9BNWQ1VW1fZnNZcQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-22T02:28:30.000Z",
+      "excerpt": "韩国查出49名偷带手机高考考生:向全国手机连发3次灾难预警，即使调至静音模式，也会以最大音量发出10.5秒警报声 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.418535
+    },
+    {
+      "id": "94c7bde32cc4313b",
+      "title": "钛杯、钛锅火了！真能抑菌吗 先别急着下单",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qZ0lheG9qNzVwb0NWNGZaM2lNSXQzZ0txUVVURFJoeFZPZ2h0RURmY1RZbzJ6QXNyYWRoT2Rxdndha294ZHlyNkdIMWxnVFpUQVFZdWpvbUI?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-21T15:56:00.000Z",
+      "excerpt": "钛杯、钛锅火了！真能抑菌吗 先别急着下单 驱动之家",
+      "section": "cn-life",
+      "rankScore": 0.260932
+    }
+  ],
+  "warnings": []
+}
