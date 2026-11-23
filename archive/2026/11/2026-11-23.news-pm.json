@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-23",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-23T22:35:10.613Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "523cc86ce6bd84c5",
+      "title": "為何黃仁勳大到不能被解僱？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6qx5eqgg0rwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-23T19:19:55.000Z",
+      "excerpt": "英偉達能夠發展成為人工智能產業的核心支柱，黃仁勳在當中發揮的關鍵作用，最終成為決定性因素。",
+      "section": "news",
+      "rankScore": 0.71984
+    },
+    {
+      "id": "3a33800c41479d4b",
+      "title": "黄仁勋重返英伟达：科技大佬和金融界纷纷表示欢迎",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261123-%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE-%E7%A7%91%E6%8A%80%E5%A4%A7%E4%BD%AC%E5%92%8C%E9%87%91%E8%9E%8D%E7%95%8C%E7%BA%B7%E7%BA%B7%E8%A1%A8%E7%A4%BA%E6%AC%A2%E8%BF%8E",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-23T21:06:35.000Z",
+      "author": "肖曼",
+      "excerpt": "尽管美国的一些国会议员对黄仁勋重返英伟达董事会的决定持批评态度，但一些科技大佬们和金融界人士纷纷对黄仁勋重返英伟达表示欢迎。",
+      "section": "news",
+      "rankScore": 0.654567
+    },
+    {
+      "id": "ffb5a2fec1ddd9bd",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-23T20:48:35.000Z",
+      "excerpt": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "section": "news",
+      "rankScore": 0.580803
+    },
+    {
+      "id": "426387d2491b1f68",
+      "title": "Australian politics live: Labor to ‘save more than we spend’ in budget update, Chalmers says; rental affordability plummets to 14-year low",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-23T22:22:58.000Z",
+      "author": "Krishani Dhanji",
+      "excerpt": "The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal…",
+      "section": "news",
+      "rankScore": 0.554991
+    },
+    {
+      "id": "953482d880753aa3",
+      "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
+      "url": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-23T21:46:33.000Z",
+      "author": "Amy Qin",
+      "excerpt": "American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.",
+      "section": "news",
+      "rankScore": 0.540051
+    },
+    {
+      "id": "c7a188e259ed8a55",
+      "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+      "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-23T21:30:40.000Z",
+      "excerpt": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
+      "section": "news",
+      "rankScore": 0.533534
+    },
+    {
+      "id": "7ce87c85180b3be9",
+      "title": "Why I’m Not Surprised Jensen Huang Is Back",
+      "url": "https://www.nytimes.com/2026/11/23/opinion/jensen-huang-nvidia-economy-ai.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-23T22:24:59.000Z",
+      "author": "Natasha Sarin",
+      "excerpt": "The Opinion contributing writer Natasha Sarin explains why the Nvidia chief is so important to the A.I. industry as a whole.",
+      "section": "news",
+      "rankScore": 0.486341
+    },
+    {
+      "id": "7e715c37ab4cb280",
+      "title": "Some women in tech have concerns about Huang's return",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+      "source": "npr-news",
+      "publishedAt": "2026-11-23T22:03:57.000Z",
+      "author": "Andrea Hsu",
+      "excerpt": "Women who have advocated for DEI in tech say Jensen Huang's return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money. s",
+      "section": "news",
+      "rankScore": 0.47879
+    },
+    {
+      "id": "7b7afb18fde976ab",
+      "title": "Nasdaq jumps 7% as Nvidia shares soar",
+      "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-23T22:01:02.000Z",
+      "excerpt": "Chip giant gains 31.5% after Huang reinstated while S&P rises 4.7%",
+      "section": "news",
+      "rankScore": 0.477743
+    },
+    {
+      "id": "982621b6fc844ebc",
+      "title": "COP31联合国气候峰会结束，未能达成协议",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT1NfaXJRRUU4cHJ1YWkzOWJpVDcxTWo4bVRTUnNWaGYxSFNqM196VVVkakdRdl9FWjFCdmM2d3k3NFFJTG1NUDkxQV9GZXAzRi1WdEZ4VnlxRUJib05tcVg1NnY4NUs1bkVZTmZYdkxIWUdzQ3BRbExnNmNTY3RNMlVKQlVqTDFvODNfNzNWejdvcUNJN2JYQ2V4cmp4UdIBoAFBVV95cUxPWEpoWEZPVlhWUTQzRUVqREVWbFRVVEc3VG9GcDBXUUNsOG1kVmg5Z012SmJ3cGVwbTJjdkxrTkVzY0FMZGdCTUc4dU9nQ1dXOVVoZzhseHZtQ3JtTmtlUURDS3NOMVVpazFNVnB5Tmo1bTdhYm1aV3cxdDRpbmxjNjI2MXdSd3NpelU2R0FSRllYZTNYNk9STWJxMDVlU0tI?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-23T22:07:14.000Z",
+      "excerpt": "COP31联合国气候峰会结束，未能达成协议 美国之音 欧洲等国拒签，协议破裂，自2009年以来首次 观察者网 “作为付出巨大努力的缔约方，中方深感失望” 凤凰网 史上“拖堂”最久COP31闭幕：共识难产，考题后移 光明网 谭显春谈COP31：中国被关注，正从“减排了多少”转换到试点制度等能不能被复制 Jiemian.com",
+      "section": "news",
+      "rankScore": 0.411402
+    },
+    {
+      "id": "15c8d7ee734ba1be",
+      "title": "利比亚：联合国特派团敦促对班加西港口袭击事件展开调查",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143251",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "excerpt": "联合国利比亚支助团呼吁对周日发生在东部城市班加西港口及近海的袭击事件展开独立调查。",
+      "section": "news",
+      "rankScore": 0.336841
+    },
+    {
+      "id": "f09a1fce213f8556",
+      "title": "Cover Story newsletter: Axis of malice",
+      "url": "https://www.economist.com/the-world-this-week/2026/11/23/cover-story-newsletter-axis-of-malice",
+      "source": "economist-week",
+      "publishedAt": "2026-11-23T12:54:57.000Z",
+      "excerpt": "An exclusive look at how we designed our cover",
+      "section": "news",
+      "rankScore": 0.281713
+    },
+    {
+      "id": "397f3a70c9525763",
+      "title": "丁薛祥访问新加坡并主持中新双边合作机制会议",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZMUpSMV9kLVhCeGJ3SWZfUURvSmlWUzJRbXVDQkNFNDZvTV92NEd1ZkhWVUxMeFNObXpqN2pTa2lGbDJ4ZndROUN3SFVJNFowYWNOT0FJQzB3MEkzV2Q1Ri1Ka3V5b1gtbERYWDVWcWFnLUE5cF96QVJadmJvd2s?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-23T22:06:11.000Z",
+      "excerpt": "丁薛祥访问新加坡并主持中新双边合作机制会议 人民日报",
+      "section": "cn-news",
+      "rankScore": 0.548105
+    },
+    {
+      "id": "fda81afa85ab4c72",
+      "title": "特朗普祝贺黄仁勋重掌英伟达：称其回归无国家安全风险",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736710.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-23T14:35:59.000Z",
+      "excerpt": "中新网11月23日电 当地时间11月23日，美国总统特朗普在社交媒体发文，祝贺英伟达董事会决定恢复黄仁勋担任公司首席执行官。",
+      "section": "cn-news",
+      "rankScore": 0.545112
+    },
+    {
+      "id": "1a9c1229c90b5fbe",
+      "title": "外交部：中国不搞地缘争夺，不搞势力范围",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736714.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-23T15:09:35.000Z",
+      "excerpt": "中新社北京11月23日电 (记者 黄钰钦)针对中俄美元首会晤若机制化是否会削弱现有多边机制，中国外交部发言人郭嘉昆23日在例行记者会上应询指出，中国不搞地缘争夺，不搞势力范围，而是在相互尊重、平等相待的基础上，同各国开展友好交往。",
+      "section": "cn-news",
+      "rankScore": 0.51864
+    },
+    {
+      "id": "4e4c6b236b29a3fe",
+      "title": "Jensen Huang’s stunning return in 11 days – 5 key takeaways",
+      "url": "https://www.scmp.com/news/us/economy-trade-business/article/3375531/jensen-huangs-stunning-return-11-days-5-key-takeaways",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-23T22:06:52.000Z",
+      "author": "Nayan Seth",
+      "excerpt": "Jensen Huang’s dramatic return as Nvidia’s CEO on Monday, engineered through US President Donald Trump’s personal intervention, carries major implications for Washington’s AI policy, priorities within the administration and its rivalry with Beijing.",
+      "section": "cn-news",
+      "rankScore": 0.479837
+    },
+    {
+      "id": "0da6fb091cf1c700",
+      "title": "纽约股市三大股指23日大幅上涨",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3ZXT2VfckVFQmVTRDBrTFY3NTBHaWRBdy00M0VTWVBpZ1VyZHpKX2JZa3ozeE9pQ0RWLXVTUmpRV3FGcGt6ZWdiUWlTU0Jsb0JYQndzT2dPLUZvMjFyY2Jkekg1RUdZWGNjekUxZW1CRFJTUE12YXFLc3ZqU0VQdUtVelNXblJ1?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-23T22:03:19.000Z",
+      "excerpt": "纽约股市三大股指23日大幅上涨 新华网",
+      "section": "cn-news",
+      "rankScore": 0.478563
+    },
+    {
+      "id": "4c5c5dcba133915e",
+      "title": "特朗普：是我说服了英伟达",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jM0FxWUVGWGZLd3hNbnZGMGI4NEN3YjN0azE5OGQyOUhIMnVkY2ZpMHlYSGozY1JhTGtKSmx5bjNiMnhneFQ1ZFJTTU14WnJkY1FKZGRSOElaWTZKMUpDVA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-23T16:24:00.000Z",
+      "excerpt": "特朗普：是我说服了英伟达",
+      "section": "cn-news",
+      "rankScore": 0.458688
+    },
+    {
+      "id": "8a9fd2462c21babe",
+      "title": "“月租”酒店划不划算？先分清“安居”与“旅居”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736725.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-23T16:11:04.000Z",
+      "excerpt": "酒店包月当租房，正在成为一种新的生活方式。上海一位租客和酒店谈定每晚300元，工作日入住、周末回远郊的家，一个月房费约3600元、最高4800元，两份早餐、保洁、停车全包；而在同地段租一间20平方米的“老破小”，房租加水电、停车等杂费每月要5500元左右。两相比较，住酒店反而省了近2000元。与此同时，头部酒店集团集体下场，上线长租房源、推出独立公寓品牌。",
+      "section": "cn-news",
+      "rankScore": 0.452718
+    },
+    {
+      "id": "c0cb0b022151053e",
+      "title": "英伟达美股开盘大涨，市值增加超1万亿美元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DUzRnM1VFaVl4dG5MNGYzR3ZjX0ZORTNOU0FFdFloaUg3TUtULXpmQ25TaXlSR00xMXFrLU5FN1BwYjZORzNnbUtYZW9SaHpxam5rcXRvODA?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-23T15:08:18.000Z",
+      "excerpt": "英伟达美股开盘大涨，市值增加超1万亿美元 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.423749
+    },
+    {
+      "id": "34b998a1b834db9b",
+      "title": "逐玉在海外市场的播出表现如何？",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52UVlBdjhXT0FtLUVIdS1Pc3k5YmdSQWVXNG0yMHJGaGNBX3dlZzB3eUhsQTkwRVZ6OEhSYWxJMmEwbmh3dFUtYUFVN0I4NUZ1TnprRWNQU1JvX3Qxcmw0YjgxWDFWSkk5blE1YUxpNkpSams?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-23T20:27:06.000Z",
+      "excerpt": "逐玉在海外市场的播出表现如何？ 手机新浪网 张凌赫网上两岸粉丝见面会超26万人观看！政治栅栏挡不住文化共鸣 凤凰网 张凌赫田曦薇唱阿里山的姑娘：衷心希望能和台湾粉丝见面 中国日报网 张凌赫感谢台湾观众：能通过一部剧让大家的心连在一起，非常非常想去台湾，走一走、看一看、吃一吃 ThePaper.cn 年末现场别只带单人灯，成片亮起的双人灯海才是看得见的底气|张凌赫|田曦薇|双人灯牌_新浪新闻 手机新浪网",
+      "section": "cn-news",
+      "rankScore": 0.380592
+    },
+    {
+      "id": "60cb15ebb22b602b",
+      "title": "中國養老金差異大 機關事業單位為居民類36倍",
+      "url": "https://www.cna.com.tw/news/acn/202611230283.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-23T13:48:55.000Z",
+      "excerpt": "（中央社記者張淑伶北京23日電）中國不同群體的養老金差異很大，體制內人員遠勝農民。最新調查顯示，居民類養老金、企業職工養老金和機關事業單位養老金的中位數分別為人民幣125元（約新台幣613元）、3000元和4500元，機關事業單位為居民類36倍。",
+      "section": "cn-news",
+      "rankScore": 0.344098
+    },
+    {
+      "id": "58586ea61685c793",
+      "title": "【五中全会精神在基层·一线见闻】微民生撬动大幸福",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12VjJ3eV9sTmFFRlVKbURhZ1M2VkdIeW5wcDc3SG1vS2ppZWlFWjB0R0N0Tk14eGFvOHA2QkkzRnEweUlWOUNLUzU2YUpQVERVNkdfSmVlOWRSUjhHcVpiX3ZzM3ZtaW5BckxqSXpyOG9yVlVa?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-23T22:16:58.000Z",
+      "excerpt": "【五中全会精神在基层·一线见闻】微民生撬动大幸福 青海新闻网",
+      "section": "cn-life",
+      "rankScore": 0.621595
+    },
+    {
+      "id": "52f804b9c234889f",
+      "title": "中央气象台继续发布大风蓝色预警，全国多地阵风8~9级",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KNVhucDNiVXd4cTY1V0FIQW5oSVkwRmx5YktDekNFRW01N0ZxRWpxbWJnVFgwWjVoTnpJZ2tyZC1pMlgzdEFmcFdnOGhMT2VFQkwybFJnYUNUb1Y3M1E?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-23T22:15:04.000Z",
+      "excerpt": "中央气象台继续发布大风蓝色预警，全国多地阵风8~9级 京报网",
+      "section": "cn-life",
+      "rankScore": 0.620718
+    },
+    {
+      "id": "32b9be0fcb648c87",
+      "title": "中央民族大学在2026年度三大创新创业赛事中喜获多项荣誉",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KR2tMTWQ4TjZqZUtRRTAwMl9HbXl4Yjd2LURENzQ3RnZoamlLMWwyWTgtMkZEa1dlX3dtdU43MkF5VURYLUI4czEtZzh1MnM3aTFxbndDT1VQQ09LTjgydlFCWjU?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-23T22:09:34.000Z",
+      "excerpt": "中央民族大学在2026年度三大创新创业赛事中喜获多项荣誉 国家民族事务委员会",
+      "section": "cn-life",
+      "rankScore": 0.549493
+    },
+    {
+      "id": "e33bf86153b4c4dc",
+      "title": "浙江织密校园安全网 配备6668名公安法治副校长",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736701.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-23T14:02:47.000Z",
+      "excerpt": "中新网杭州11月23日电 (钱晨菲)23日，在浙江深化共治警务建设新闻发布会上，浙江省公安厅党委副书记、常务副厅长罗杰介绍，目前该省配备6668名公安法治副校长加强“护校安园”，并会同教育部门深化“校警驿站”建设，提供政务服务86.5万人次。",
+      "section": "cn-life",
+      "rankScore": 0.524681
+    },
+    {
+      "id": "32c1fad982bce824",
+      "title": "第六批鼓励研发申报儿童药品清单公布",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUpRcnVzcnFuSVEwc3pXNG9KcXlsby1IVDBoM2p0eXoxa1lrVzI2bWNNc1pvRDVodjNQWENnbFpJVmROYmt5emozb25wXzFSTkJKMHllbnJYQlZsLXYyUzF1eWJNOTVDYnpTbVpiVnI2MDRqWUVvcUVvRUFUTm1jZWlB?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-23T22:00:07.000Z",
+      "excerpt": "第六批鼓励研发申报儿童药品清单公布 天津日报",
+      "section": "cn-life",
+      "rankScore": 0.477414
+    },
+    {
+      "id": "ab9f6d8000ec3f6f",
+      "title": "抽烟又火了？医生研究发现：糖尿病患者在抽烟时，需要多注意6点",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aOXN3ejd6cFBoMlpjQ21tUEgxaDhCQjAxZktidzBpekdidjVnNjBXQVFpSVE2OXdacXdKNXVTdzZnOGZEM01fWEtWc1A3MnRTbkNJY0x2a0h0VTRKaVdkUXhB?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-23T18:13:40.000Z",
+      "excerpt": "抽烟又火了？医生研究发现：糖尿病患者在抽烟时，需要多注意6点 手机网易网",
+      "section": "cn-life",
+      "rankScore": 0.396125
+    },
+    {
+      "id": "1fc657d924666bb2",
+      "title": "网传“多啃苹果、玉米就能让牙齿变整齐” 医生：只说对一半",
+      "url": "https://www.chinanews.com.cn/life/2026/11-23/10736631.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-23T12:10:49.000Z",
+      "excerpt": "最近，社交平台上流传起一种说法：“多让孩子啃苹果、啃玉米，牙齿就能变整齐，还能省下一大笔正畸费。 还有网友调侃：“省下的正畸费，都够买一个大金镯子了。”",
+      "section": "cn-life",
+      "rankScore": 0.379815
+    },
+    {
+      "id": "5a3891e794596c2d",
+      "title": "2026年阿拉伯国家区域版报告：学前教育机会| Global Education Monitoring Report - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWdIZzhmVld2d2NDNVc2WjAwbGtSQ1NJN25NVnFLSVZybUtPTENfVEVGckhIaWNjLWRrS1FSNkZ5dDNybEpDeEhzd0ZaOElvNG1MakpkbWxyQm1jQlM0UEhMM0NSbGtqT3hoRjQ5RlI0MWJILUpYZk5PaEtkandkcVh1MGczd29WU2QzNkF4clN2RGxuV21wUE9jcmV5eXBn?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-23T18:10:50.000Z",
+      "excerpt": "2026年阿拉伯国家区域版报告：学前教育机会| Global Education Monitoring Report UNESCO",
+      "section": "cn-life",
+      "rankScore": 0.338664
+    }
+  ],
+  "warnings": []
+}
