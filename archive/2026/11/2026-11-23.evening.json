@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-23",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-23T23:48:54.058Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "e14eb741200509a7",
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-23T21:47:25.000Z",
+      "score": 1159,
+      "author": "Marvisak",
+      "excerpt": "An attempt at running GTA VI on PC — ★1159 · Rust",
+      "section": "tech",
+      "rankScore": 1.04058
+    },
+    {
+      "id": "52d182fe2ac457c3",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-23T16:13:12.000Z",
+      "score": 1290,
+      "author": "janvdberg",
+      "excerpt": "1290 points · 311 comments · https://news.ycombinator.com/item?id=50614249",
+      "section": "tech",
+      "rankScore": 0.909599
+    },
+    {
+      "id": "b822e3efb4632679",
+      "title": "homie: a local voice agent for macOS, 0.43s commands from a 4B model",
+      "url": "https://homie-mac.vercel.app/fast",
+      "source": "lobsters",
+      "publishedAt": "2026-11-23T23:41:15.000Z",
+      "author": "homie-mac.vercel.app by saifbuild",
+      "section": "tech",
+      "rankScore": 0.678948
+    },
+    {
+      "id": "6cad8d1dad8ccc1f",
+      "title": "Issue statuses and repository boards are in public preview",
+      "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-23T20:37:11.000Z",
+      "author": "Allison",
+      "excerpt": "Open or closed doesn’t always tell you where an issue stands. You can now use more specific statuses to give your team and agents shared context about what’s in flight…",
+      "section": "tech",
+      "rankScore": 0.608706
+    },
+    {
+      "id": "a9ee266161307aae",
+      "title": "How LinkedIn Built a View-Agnostic Analytics System for Modern iOS UI Architectures",
+      "url": "https://www.infoq.com/news/2026/11/linkedin-view-agnostic-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-23T18:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "To address the challenge posed by modern iOS UI systems where the logical UI structure may not mirror the native UIKit hierarchy, LinkedIn engineers developed a view-agnostic analytics system build around a shared MeasurableNode contract. By Sergio De Simone",
+      "section": "tech",
+      "rankScore": 0.573896
+    },
+    {
+      "id": "cc2c2f91a8f2481e",
+      "title": "DoorDash Dispatch: Building a Lightning-Fast Delivery System",
+      "url": "https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-23T16:31:03.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we’ll look at how DoorDash Dispatch built a lightning-fast delivery system.",
+      "section": "tech",
+      "rankScore": 0.540649
+    },
+    {
+      "id": "7173b5c3f3578525",
+      "title": "v2.1.331",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+      "source": "anthropic",
+      "publishedAt": "2026-11-23T21:34:41.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Added Code Mode support in terminal sessions on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude Platform on AWS Added oidc.groups_jsonpath to the Claude apps gateway, to read groups from the matching entries of a list of objects with a small subset of…",
+      "section": "ai",
+      "rankScore": 0.795109
+    },
+    {
+      "id": "f246a277d0d3a006",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "huggingface",
+      "publishedAt": "2026-11-23T17:20:37.000Z",
+      "section": "ai",
+      "rankScore": 0.579491
+    },
+    {
+      "id": "22c8648d5596aa1c",
+      "title": "企业 AI 发展新趋势：推动 AI Agent 迈向规模化应用的新阶段",
+      "url": "https://www.infoq.cn/video/its3v5OfmRuikL5SeWUu?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-23T19:52:07.000Z",
+      "author": "王玮",
+      "section": "cn-tech",
+      "rankScore": 0.587246
+    },
+    {
+      "id": "2d66e53a708ae544",
+      "title": "CachyOS 支持 Easy Anti-Cheat v2",
+      "url": "https://www.solidot.org/story?sid=85971",
+      "source": "solidot",
+      "publishedAt": "2026-11-23T15:37:55.000Z",
+      "excerpt": "基于 Arch Linux、专注于高性能优化的发行版 CachyOS 释出了最新版本 CachyOS November 2026，主要变化是为需要运行反作弊工具的 Linux 多人游戏提供了 Easy Anti-Cheat v2 支持。其它变化包括：用于回滚受损系统的新恢复环境 cachyos-recovery；引入新 UI 的 CachyOS Package Installer v2；取代 KMS 和 nvidia-module-loader 的 cachyos-drm-awaiter，确保在显示管理器启动前已完成加载 GPU 驱动；等等。",
+      "section": "cn-tech",
+      "rankScore": 0.512818
+    },
+    {
+      "id": "c6928245695e1198",
+      "title": "还是中国牛人多啊！人们吭哧吭哧搞了 25 年，总算追上了盛教授的脚步。",
+      "url": "https://www.v2ex.com/t/1259264",
+      "source": "v2ex",
+      "publishedAt": "2026-11-23T14:30:28.000Z",
+      "score": 7,
+      "author": "rangerheart",
+      "excerpt": "看到一篇 2001 年发表于《中国机械工程》的论文：《基于多 Agent 技术的 CAPP 系统体系结构的研究》，作者是盛步云、杨明忠，收稿日期为 1999 年 11 月 10 日。 文章里面已经讨论了 Agent 的自主行动、学习与记忆、人机交流、相互协调，以及应对意外变化等能力。 多 Agent 的组织方式也分得很清楚：上下级结构、对等结构和分层结构。具体系统又拆成产品 Agent、协调 Agent、资源 Agent、执行 Agent 和用户 Agent，分别负责提供信息、拆解任务、调度资源、执行任务和用户交互。 当然，这和今天基于大语言模型的 Agent 存在技术差异。",
+      "section": "cn-tech",
+      "rankScore": 0.498671
+    },
+    {
+      "id": "93aa3fa8f809e5c5",
+      "title": "a16z 实测 11307 次 Agent 购物：AI 买东西只看3 个详情页，要登录直接放弃11 月 23 日，a1",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Zdnh3N01CQ3B0RzJ5aE1qR0swUERyeW1pUGNQQ0xqaUlLZjR6Njd3LVZvTzFKdzZ3ZEYtN0w2UnJDSXdmX0c2Mm1fdFNFam02SG00Rw?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-23T20:27:10.000Z",
+      "excerpt": "a16z 实测 11307 次 Agent 购物：AI 买东西只看3 个详情页，要登录直接放弃11 月 23 日，a1 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.422755
+    },
+    {
+      "id": "7d2e0e1c1fa98d68",
+      "title": "市场已定价“AI基建周期2027年见顶”，摩根大通：基本面不支持“极度悲观”的市场预期",
+      "url": "https://www.36kr.com/p/4082292253873287",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-23T13:37:04.000Z",
+      "author": "36氪的朋友们",
+      "excerpt": "摩根大通认为，亚洲科技硬件股近期的暴跌，已提前计入了市场对“未来3-4个月EPS下修25%-30%及2027年盈利见顶”的极度悲观预期，但若悲观预期落空，科技股有望迎来20%以上的强劲反弹。 11月22日，摩根大通Gokul Hariharan团队研报指出，自9月初以来亚洲科技股累计下跌超过30%，而同期MSCI亚太指数跌幅为15%-20%，投资者讨论的焦点已从“2028年是否见顶”转向“2027年是否就是峰值”。 (亚洲科技板块除存储外的估值已回落至平均市盈率水平) 摩根大通认为，市场当前的定价隐含了未来3-4个月25%-30%的紧急盈利下修。",
+      "section": "cn-tech",
+      "rankScore": 0.367785
+    },
+    {
+      "id": "bc91b97dcb9570b4",
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-23T17:45:15.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised…",
+      "section": "security",
+      "rankScore": 0.526833
+    },
+    {
+      "id": "f343f66bc6aef24c",
+      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-23T15:10:48.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open.",
+      "section": "security",
+      "rankScore": 0.453285
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
