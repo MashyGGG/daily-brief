@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-23",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-23T02:36:43.551Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 14,
+  "items": [
+    {
+      "id": "1d85f9642ee4f232",
+      "title": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-23T02:36:43.551Z",
+      "score": 399,
+      "excerpt": "The open-source agent for CI/CD reliability.",
+      "section": "tech",
+      "rankScore": 1.11
+    },
+    {
+      "id": "03e05485bd309b8b",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "source": "hn-front",
+      "publishedAt": "2026-11-22T19:10:34.000Z",
+      "score": 371,
+      "author": "gaws",
+      "excerpt": "371 points · 173 comments · https://news.ycombinator.com/item?id=50602843",
+      "section": "tech",
+      "rankScore": 0.98378
+    },
+    {
+      "id": "dfcc4e8f8697fb8b",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "hn-front",
+      "publishedAt": "2026-11-22T21:01:16.000Z",
+      "score": 265,
+      "author": "Retell15",
+      "excerpt": "265 points · 114 comments · https://news.ycombinator.com/item?id=50603845",
+      "section": "tech",
+      "rankScore": 0.93068
+    },
+    {
+      "id": "f995f5b0c2780ded",
+      "title": "QCon San Francisco 2026: The Harness Is the New Operating System",
+      "url": "https://www.infoq.com/news/2026/11/harness-new-operating-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-22T22:44:00.000Z",
+      "author": "Andrew Hoblitzell",
+      "excerpt": "At QCon San Francisco 2026, Mad Labs founder and CEO Manju Rajashekhar opened the conference arguing that the harness around an AI model, rather than the model itself, decides what an agent can do and how safely it does it.",
+      "section": "tech",
+      "rankScore": 0.683005
+    },
+    {
+      "id": "44142a63c128ed9c",
+      "title": "Testing Terraform with AWS Emulator",
+      "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-22T21:44:04.000Z",
+      "author": "notes.hatedabamboo.me via winter",
+      "section": "tech",
+      "rankScore": 0.603238
+    },
+    {
+      "id": "7d35d09a7d25cd5e",
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "verge",
+      "publishedAt": "2026-11-22T22:48:02.000Z",
+      "author": "Terrence O’Brien",
+      "excerpt": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come.",
+      "section": "tech",
+      "rankScore": 0.445532
+    },
+    {
+      "id": "d9c1e4c2f13c642d",
+      "title": "Select Styling Specimens",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-22T19:45:06.000Z",
+      "excerpt": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the…",
+      "section": "ai",
+      "rankScore": 0.702791
+    },
+    {
+      "id": "df2dd0eee028a9da",
+      "title": "躺起编程：我给 VS Code 做了个扩展，躺在沙发上也能用手机接着和 Claude Code 写代码，从查看测试结果到追问报错，不用远程桌面，也不用重新解释项目上下文",
+      "url": "https://www.v2ex.com/t/1258984",
+      "source": "v2ex",
+      "publishedAt": "2026-11-22T23:04:40.000Z",
+      "score": 4,
+      "author": "ty5yidc",
+      "excerpt": "最想离开工位的时候，往往是刚让 Claude Code 跑完一轮修改、正在等测试结果的时候。人可以先去沙发上躺一会儿，可要是测试挂了，只想追问一句「哪条断言没过」，难道还得起身回电脑前？ 我给自己做的 VS Code 扩展 Claude Code Config Helper（LLS CCAI） 加了一个「远程办公」入口，就是为了这几句话。电脑留在书桌上，手机用浏览器打开同一个项目、同一段对话。从手机发出的下一条消息，会进入电脑上的 Claude Code 会话；等它回复，手机也能看到结果。这就是我说的 躺起编程 。 躺在沙发上，适合做什么？ 我不想把桌面 IDE 缩成巴掌大。",
+      "section": "cn-tech",
+      "rankScore": 0.678235
+    },
+    {
+      "id": "e14808ab218b71ac",
+      "title": "Pi创始人曝现代开发奇观：系统崩了，一屋子工程师都在问Claude怎么修",
+      "url": "https://www.36kr.com/p/4080304280130436",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-23T02:19:24.000Z",
+      "author": "极客邦科技InfoQ",
+      "excerpt": "系统崩了，工程师们紧急开会。照理说，这时候最该有人站出来，指出故障发生在哪一层、哪段代码出了问题、系统该怎么恢复。但会议室里，竟然没有一个人说得清楚。 所有人都在做同一件事：向 Claude 提问。 这可不是哪个程序员编出来的黑色幽默。这是近期 Flask 作者、Pi 开发者 Armin Ronacher 在一场访谈中透露的同行经历。对此他感叹道：“真的太可怕了。” 不过，这位发出如此感叹的恰恰是正在把越来越多软件开发工作交给 AI 的人。Armin 参与开发的 Pi，每天会收到约 40 至 50 个新 Issue。",
+      "section": "cn-tech",
+      "rankScore": 0.625669
+    },
+    {
+      "id": "093f01f74cf29b0d",
+      "title": "🔥 拾趣 Magpie v0.2.0 发布：模型视图更准确，词典功能上新，多项细节优化",
+      "url": "https://www.oschina.net/news/503729",
+      "source": "oschina",
+      "publishedAt": "2026-11-23T00:17:07.000Z",
+      "excerpt": "🔥 拾趣 Magpie v0.2.0 发布：模型视图更准确，多项细节优化 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现；复制、搜索、写入 Obsidian、Anki 、预填日历，结果直接落地。图片、视频与扫描文档中的文字，框选亦可识别——处理在原地完成，无需迁入对话窗口...",
+      "section": "cn-tech",
+      "rankScore": 0.595098
+    },
+    {
+      "id": "e37e6cc0e53aa1c2",
+      "title": "打造 AI 优先的销售与营销运营体系",
+      "url": "https://www.infoq.cn/video/mihBFvImttvJlSFUqC49?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-22T17:41:49.000Z",
+      "author": "王玮",
+      "section": "cn-tech",
+      "rankScore": 0.551414
+    },
+    {
+      "id": "9ac6b35fe3a3d36a",
+      "title": "Waymo 无人驾驶出租车因旧金山洪水而陷入困境",
+      "url": "https://www.solidot.org/story?sid=85958",
+      "source": "solidot",
+      "publishedAt": "2026-11-22T12:01:39.000Z",
+      "excerpt": "无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致了多辆 Waymo 汽车受困。Golden Gate Park Panhandle 旁的 Oak 街有两条车道被淹，积水从井盖涌出，Waymo 汽车停在了井盖前，堵住了一条可通行的车道，迫使后面的汽车从水更深的车道绕路。一名 Waymo 乘客搭乘出租车从 North Beach 到 Mission Bay，整个行程耗时一个半小时，无人出租车遭遇积水路段先后靠边停车约 10 次。Waymo 随后暂停了当天所有服务。",
+      "section": "cn-tech",
+      "rankScore": 0.502616
+    },
+    {
+      "id": "94fe0f2945ebdc2a",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-22T05:06:55.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.",
+      "section": "security",
+      "rankScore": 0.34172
+    },
+    {
+      "id": "c799364a285d63c4",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-22T05:03:41.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the…",
+      "section": "security",
+      "rankScore": 0.340822
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
