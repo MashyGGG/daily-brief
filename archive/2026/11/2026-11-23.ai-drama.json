@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-23",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-23T21:16:39.690Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 9,
+  "items": [
+    {
+      "id": "bd7edf69f46c52c3",
+      "title": "AI filmmaking: how director Perry Bhandal works solo using gen AI tools - Broadcast",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQk5mSUhZcndwTWxtRmpnazZCOUhIYkpCS19WUUFnOHJNVVdFSjdpemJWOGpjVzJDRW9XRHFwZ1huMElIOWVZSEdsVzJhakNXd1pjMXRGUzNVaDZJdzh6OEV4aGJEUzRuYnhTek1FaFBsNnlZcVRGLXNhX3JlcERiZTFlSk9SY1BMQU9nWVFBX0w1UzgtemlhZWFXYUpHVm92WXdHTWpzTkZNbUg5aTh3eXpaMWRMc2h6c3k0SkltRDJNdDdPdUdoMmQwQ1hDY1dK?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-23T16:00:22.000Z",
+      "excerpt": "AI filmmaking: how director Perry Bhandal works solo using gen AI tools Broadcast",
+      "section": "drama-news",
+      "rankScore": 0.65607,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "f6ee2c0036f4a61d",
+      "title": "Filmmaker Bruce Bellocchi’s XIII Media Group Announces AICINEO — An All-in-One AI Filmmaking and Entertainment Platform - Issuewire",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT3Q2SlFTY1E4Zm1hZUxsemdFMml2eF80NnVPTFlReDdUU19peGZBRXgzdGRSR0pGcU1JcUtHaTdiMk1xcTcxTzlSVDYtY3JxVnloT3RBMUNRSWdUUllVak1QS25EVXY3ZnZUa1lJcHNKMWZQVmdZTmNMeS1JczdyVEtlQlRIVU1yUVJGa3hrM0FvdGludzFOdk9TamZXUjRENk5qRWlIb0xqb19kZllZZkpYV2R1b1FKY2didUp4U0ZGdjRsZll3VnozSzVFb2J6LXVDQ3BubE5uc3BjSVJ2S0xzZkRWbVNudzJHSG16U3c?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-23T14:23:54.000Z",
+      "excerpt": "Filmmaker Bruce Bellocchi’s XIII Media Group Announces AICINEO — An All-in-One AI Filmmaking and Entertainment Platform Issuewire",
+      "section": "drama-news",
+      "rankScore": 0.642672,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "3a3b073efe433a49",
+      "title": "AI短剧要有制作证明，微信向抄袭融梗宣战 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFY4Vzk0dDg4TnJNQ2QxZGJUQVUwQVRkcGtpNmJwWk90dm4zSmFXQTZUOUNUOFN4RHI4SHR5Um92NnFxMUR2OGVTYWhFTjQ1SWluQlJ2MzJ4a2wtRVBLRy1YR24zV0dmenZBNDZYeG5JMFRHdzlrbFM5YTB4OHF5ODRGN19PaXdX?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-23T13:31:00.000Z",
+      "excerpt": "AI短剧要有制作证明，微信向抄袭融梗宣战 Sohu",
+      "section": "drama-news",
+      "rankScore": 0.635325,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "c4cb6dd18e5fe85f",
+      "title": "成都创作者单人打造爆款AI短剧：4000元成本跑出十亿流量",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GWnQ2UWhyTmltbzFMOWtzaVRSbm90QnJ1ODhKRl8tVWd5WWN0bmNJT0xsOTJXYy1OeGxhdkJqX2FUbmdsTHUxVFlqZkFlbjNCM0dFNkNhUEZsWVpkdFFPZWItV0NxS2NsWjJReg?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-23T09:25:00.000Z",
+      "excerpt": "成都创作者单人打造爆款AI短剧：4000元成本跑出十亿流量 中国新闻网",
+      "section": "drama-news",
+      "rankScore": 0.601158,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "9813c0f681888c37",
+      "title": "AI漫剧的“千分之一”困局：平台角色才是真正的分水岭 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzRwWHdDSVJjTjI0bGFFNUhnVEFqQXdmZnFGcnVicjdvNjhrbjkxeUtPUUtmV04yYVFGZDRPUDJWbUpmN2RkLUktVHJoNEJrdzNlckZNMnhBUDZNNXFjZXVqT3UtdFRfODE1MDZnV0p6d2lESVBOc2ZDWEZVNktqTWtmSWtxNHRQ?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-23T08:19:00.000Z",
+      "excerpt": "AI漫剧的“千分之一”困局：平台角色才是真正的分水岭 Sohu",
+      "section": "drama-news",
+      "rankScore": 0.591991,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "9acdf4e1c57107b8",
+      "title": "刘志晟：从工具走向资产，音乐为AI漫剧出海赋能",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hYVR2RmRvcUR5b1RWb1BsaEZ1alpmaWtMa2hvMTl5TkxZQlhMYU9VN2gxR1pLVWJHdENMSkpUbzJnS3k4LWJGaUEwcmpGWUFBc0tzWlJRZzNOaW8?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-23T08:09:26.000Z",
+      "excerpt": "刘志晟：从工具走向资产，音乐为AI漫剧出海赋能 四川在线",
+      "section": "drama-news",
+      "rankScore": 0.590663,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "6555f5c6d87494dd",
+      "title": "拿下热榜第一，这群同学“跑通”AI短剧出海“最后一公里”",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vdHBuaHBWV09haTg4bnltS1NwZHM5LU55c1JpVW9WYXlVT3lLZzhiYjl0eVRkRHpJUk5iLURtYnowZTdSZThfM3hRUWxCU3pYdnd4ZXF6NXhwd2M?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-23T08:08:35.000Z",
+      "excerpt": "拿下热榜第一，这群同学“跑通”AI短剧出海“最后一公里” 四川在线",
+      "section": "drama-news",
+      "rankScore": 0.590545,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "7a38e2d10141c7a6",
+      "title": "当OPC遇上AI短剧 爆款背后一位创作者的历史表达",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EZFJRQ0MzeHFQaU9WTGx1eDZjYUR1VGMxY0sxVnBKdFBZcnU0bzl5OTNXcEZZNDVLOVhHVDBac2V1OWQwcjg1bGZWb0ZjcFJ4T0x2aXg5YXVsRW0wSXgybzJKcVREM0FNd1E?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-23T07:11:59.000Z",
+      "excerpt": "当OPC遇上AI短剧 爆款背后一位创作者的历史表达 中国新闻网",
+      "section": "drama-news",
+      "rankScore": 0.582684,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "8e89465e0418eb24",
+      "title": "解密AI短剧全流程！中山日报社公开课受热捧，九大模块拆解制作痛点",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IbWtPby1ZQnpQc3FHWHJwVTdDeFZ6VjRsMzJGcVlLNVlXYnBZbUVxN01wbDlTc3Jha3VNc3FsTndXMGMzT2VrWURrY3NhOVRFeVJ0NlB0ZWNSUm9kZmRHQTdrQlpXX09XWmlRakZn?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-22T14:21:29.000Z",
+      "excerpt": "解密AI短剧全流程！中山日报社公开课受热捧，九大模块拆解制作痛点 中山网",
+      "section": "drama-news",
+      "rankScore": 0.442336,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    }
+  ],
+  "warnings": [
+    "AI短剧漫剧 · 国内外资讯与案例：本期 9/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 0/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "从短镜头拼成完整故事",
+      "url": "https://help.runwayml.com/hc/en-us/articles/26871350018835-How-to-create-longer-videos-and-films",
+      "task": "拆解一条喜欢的 30–60 秒作品，记录开头、变化、结尾和每镜时长。",
+      "doneWhen": "有一张至少 6 镜头的拆解表。"
+    }
+  }
+}
