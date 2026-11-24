@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-24",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-24T05:56:53.848Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "bea1f0b610ca15ed",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-24T05:56:53.848Z",
+      "score": 397,
+      "excerpt": "Cursor plugin specification and official plugins",
+      "section": "tech",
+      "rankScore": 1.08
+    },
+    {
+      "id": "d95d0e3fefeef624",
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "source": "hn-front",
+      "publishedAt": "2026-11-23T17:07:26.000Z",
+      "score": 1441,
+      "author": "MrBuddyCasino",
+      "excerpt": "1441 points · 811 comments · https://news.ycombinator.com/item?id=50615308",
+      "section": "tech",
+      "rankScore": 0.919512
+    },
+    {
+      "id": "d51154cec5642427",
+      "title": "What VP != VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-24T02:10:30.000Z",
+      "author": "friedgil.com via nicosalm",
+      "section": "tech",
+      "rankScore": 0.621184
+    },
+    {
+      "id": "ad3f5993f83673e4",
+      "title": "Secret scanning reduces false positives for Slack",
+      "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-23T18:32:59.000Z",
+      "author": "Allison",
+      "excerpt": "Secret scanning now reduces false-positive detections for Slack secrets. False positives reduced The following detector improvements reduce false-positive matches for supported secrets. Provider Secret type Improvement Slack slack_incoming_webhook_url Exclude URLs…",
+      "section": "tech",
+      "rankScore": 0.510024
+    },
+    {
+      "id": "7415407a5ff8b891",
+      "title": "Java News Roundup: Java4Shell, Oracle CSPUs, OpenJDK, Azul Payara, BellSoft, Helidon, LangChain4j",
+      "url": "https://www.infoq.com/news/2026/11/java-news-roundup-nov16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-23T15:30:00.000Z",
+      "author": "Michael Redlich",
+      "excerpt": "This week's Java roundup for November 16th, 2026, features news highlighting: the Java4Shell RCE vulnerability; Oracle CSPUs; Lazy Constants targeted for JDK 28; the November 2026 edition of Azul Payara; point releases of Java Operator SDK, LangChain4j and Micrometer; maintenance releases of…",
+      "section": "tech",
+      "rankScore": 0.493635
+    },
+    {
+      "id": "0b9c569924e11f5d",
+      "title": "Kubernetes v1.38 Sneak Peek",
+      "url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
+      "source": "kubernetes",
+      "publishedAt": "2026-11-23T16:00:00.000Z",
+      "excerpt": "As we get closer to the release date for Kubernetes v1.38, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health.",
+      "section": "tech",
+      "rankScore": 0.467528
+    },
+    {
+      "id": "f64e46c1159df215",
+      "title": "datasette-charts 0.2a0",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-24T04:24:29.000Z",
+      "excerpt": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools.",
+      "section": "ai",
+      "rankScore": 0.809195
+    },
+    {
+      "id": "503c73cb84c6a5fe",
+      "title": "datasette-agent 0.7a1",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-24T03:45:57.000Z",
+      "excerpt": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages.",
+      "section": "ai",
+      "rankScore": 0.796351
+    },
+    {
+      "id": "399a582a96bf616d",
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-24T04:14:16.000Z",
+      "author": "swyx .ai",
+      "excerpt": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "section": "ai",
+      "rankScore": 0.738641
+    },
+    {
+      "id": "3ac14f5320239038",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "openai",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "excerpt": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "section": "ai",
+      "rankScore": 0.417744
+    },
+    {
+      "id": "e38f27c0be18d503",
+      "title": "预想购入一款 windows 的开发本",
+      "url": "https://www.v2ex.com/t/1259341",
+      "source": "v2ex",
+      "publishedAt": "2026-11-24T02:10:46.000Z",
+      "score": 20,
+      "author": "newOpenEyes",
+      "excerpt": "有推荐的品牌和型号吗？？需求想要轻薄版的",
+      "section": "cn-tech",
+      "rankScore": 0.753467
+    },
+    {
+      "id": "4bfff632a550e91f",
+      "title": "国产大模型的黄仁勋变量",
+      "url": "https://www.36kr.com/p/4083259280561031",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-24T04:26:25.000Z",
+      "author": "李炤锋",
+      "excerpt": "文 | 李炤锋 温丽虹 编辑 | 张雨忻 今年 1 月，在北京举行的 AGI-Next 峰会上，智谱首席科学家唐杰提醒台下的开发者：美国公司手里还有未公开的模型，中美大模型的差距“说不定并没有缩小”。 同一场会议上，谈到三到五年后中国公司领跑全球的可能性，时任阿里 Qwen 大模型负责人林俊旸说：“我觉得是 20% 吧，20% 已经非常乐观了。” 远程参会的姚顺雨则相对乐观，他认为，“概率还挺高的”。 到了夏天，一批表现优异的国产大模型密集发布，行业对于“中美模型差距”的问题明显乐观了起来。",
+      "section": "cn-tech",
+      "rankScore": 0.60738
+    },
+    {
+      "id": "ffc018e2ff925079",
+      "title": "黄仁勋重回英伟达",
+      "url": "https://www.oschina.net/news/503766/nvidia-board-reinstates-jensen-huang-as-president-ceo",
+      "source": "oschina",
+      "publishedAt": "2026-11-24T02:49:53.000Z",
+      "excerpt": "黄仁勋离开英伟达不到两周，又回来了。 英伟达董事会在 11 月 23 日通过一致投票，恢复他总裁、CEO 和董事会成员的职务，即刻生效。 根据官方新闻稿，董事会给出的理由之一——他们收到了美国政府高层的信息，并据此确认黄仁勋复职\"不构成国家安全风险\"。总统本人在接受 CNBC 采访时把话说得更直接： \"I convinced them....",
+      "section": "cn-tech",
+      "rankScore": 0.583246
+    },
+    {
+      "id": "e769b5ed0e45b715",
+      "title": "AI 时代的数据工程：如何打造 AI 原生团队",
+      "url": "https://www.infoq.cn/video/qWRo8T0IdKoI7RBuQwNd?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-23T19:40:31.000Z",
+      "author": "王玮",
+      "section": "cn-tech",
+      "rankScore": 0.528783
+    },
+    {
+      "id": "33021b2a0c80bf7b",
+      "title": "写在动荡之后：漫步巴黎的寻常一日",
+      "url": "https://sspai.com/post/119412",
+      "source": "sspai",
+      "publishedAt": "2026-11-24T03:03:10.000Z",
+      "author": "中天与大瓶子",
+      "excerpt": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」",
+      "section": "cn-tech",
+      "rankScore": 0.521393
+    },
+    {
+      "id": "df27f1a57c49d9a7",
+      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+      "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-23T08:24:15.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country.",
+      "section": "security",
+      "rankScore": 0.340931
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
