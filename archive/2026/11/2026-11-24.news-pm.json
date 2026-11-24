@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-24",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-24T21:07:27.742Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "3088f25fa60b5548",
+      "title": "深圳人在亚太经合会期间“全妆出街”受到市政府感谢",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261124-%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%9C%A8%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E4%BC%9A%E6%9C%9F%E9%97%B4-%E5%85%A8%E5%A6%86%E5%87%BA%E8%A1%97-%E5%8F%97%E5%88%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E6%84%9F%E8%B0%A2",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-24T21:02:18.000Z",
+      "author": "肖曼",
+      "excerpt": "亚太经合组织（APEC）第三十三次领导人非正式会议在深圳举行，11月24日，中共深圳市委、市人民政府发出《你们是城市的荣光——致广大市民朋友的感谢信》。",
+      "section": "news",
+      "rankScore": 0.697353
+    },
+    {
+      "id": "c6cbcb9076b1cff6",
+      "title": "中国的“天宫”迎来首位外籍宇航员",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261124-%E4%B8%AD%E5%9B%BD%E7%9A%84-%E5%A4%A9%E5%AE%AB-%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E5%AE%87%E8%88%AA%E5%91%98",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-24T20:56:41.000Z",
+      "author": "法广",
+      "excerpt": "11月24日，首位参与中国航天任务的外国航天员表示，本周他将从戈壁沙漠启程，肩负着“2.5亿巴基斯坦人的希望”奔赴太空。中国在航天项目上投入了数十亿美元，“天宫”空间站由三人组成的航天员乘组负责运营，乘组通常每六个月轮换一次。",
+      "section": "news",
+      "rankScore": 0.694472
+    },
+    {
+      "id": "6f55bc25434a3380",
+      "title": "黃仁勳重掌Nvidia：習近平從特朗普身上看到了什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cjr4gwxzgyydo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-24T16:15:54.000Z",
+      "excerpt": "黃仁勳戲劇性重返英偉達，不僅讓北京看到了影響華盛頓的可能，也讓習近平進一步了解特朗普的軟肋，以及中國在中美科技與貿易博弈中可以利用的籌碼。",
+      "section": "news",
+      "rankScore": 0.660577
+    },
+    {
+      "id": "b6bc04214cb9b794",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-24T20:59:21.000Z",
+      "excerpt": "The verdict follows a months-long trial in New York.",
+      "section": "news",
+      "rankScore": 0.626256
+    },
+    {
+      "id": "c56cc6d5df44e7b6",
+      "title": "‘Saturday Night Live’ Is Coming to France",
+      "url": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-24T21:02:37.000Z",
+      "author": "Amanda Holpuch",
+      "excerpt": "A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.",
+      "section": "news",
+      "rankScore": 0.558012
+    },
+    {
+      "id": "c381383e0ce7b19b",
+      "title": "Australian politics live: Chalmers notes ‘serious moment for our economy’; inflation expected to jump to 4.8%",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-24T20:48:41.000Z",
+      "author": "Krishani Dhanji",
+      "excerpt": "Get our daily political email , free app or daily news podcast Wells says meeting with US ambassador ‘really useful’ Anika Wells says she won’t hypothesise what the United States will do, if anything, after the US ambassador raised “objections” to the digital duty of care bill.",
+      "section": "news",
+      "rankScore": 0.552296
+    },
+    {
+      "id": "d8279136ec638be3",
+      "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
+      "url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-24T20:28:40.000Z",
+      "excerpt": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action.",
+      "section": "news",
+      "rankScore": 0.544084
+    },
+    {
+      "id": "8dde96cc985dd176",
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+      "source": "npr-news",
+      "publishedAt": "2026-11-24T21:04:50.000Z",
+      "author": "Jenna McLaughlin",
+      "section": "news",
+      "rankScore": 0.489056
+    },
+    {
+      "id": "425efc07b89ffefd",
+      "title": "An Adored Manhattan Grocery, and Seinfeld Favorite, May Close Its Doors",
+      "url": "https://www.nytimes.com/2026/11/24/nyregion/zingones-market-upper-west-wise-manhattan.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-24T20:56:32.000Z",
+      "author": "Katherine Rosman",
+      "excerpt": "Zingone Bros. is beloved on the Upper West Side. That might not be enough to keep it open.",
+      "section": "news",
+      "rankScore": 0.486077
+    },
+    {
+      "id": "b5eee91a1a321bbb",
+      "title": "Britain bought fake C4 explosives for Ukraine",
+      "url": "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-24T20:50:20.000Z",
+      "excerpt": "Flagship UK procurement unit paid a part-time US police officer for tonnes of plastic explosives with no detectable RDX, the main ingredient in military C4",
+      "section": "news",
+      "rankScore": 0.483851
+    },
+    {
+      "id": "61b2669fe0ac689d",
+      "title": "伊朗军队防空部队在波斯湾上空击落两架无人机",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NSElzazB4SUJ2X0o4STNscHFTWnlvSEhZNGxIckptdG12UVpSbzBYZ1c3YmxVMUUzZ3ZkSzI3RkxUMlY5OFhiQno5djc3RHllMm45WjRYQVFlbkZ5Nlkzd2pMdVZwUQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-24T20:44:42.000Z",
+      "excerpt": "伊朗军队防空部队在波斯湾上空击落两架无人机 东方财富网 美提醒在巴林公民提高警惕：敌对行动可能升级 凤凰网 伊朗称击落一架美军MQ-1无人机，过去24小时内，革命卫队防空系统击落了四架美军无人机 ThePaper.cn 美伊冲突，大消息！伊朗革命卫队袭击美军基地，特朗普称将与伊朗达成永久性协议 Sohu 伊朗伊斯兰革命卫队对巴林美军基地进行打击 央视网",
+      "section": "news",
+      "rankScore": 0.412996
+    },
+    {
+      "id": "28b6aaee5720705a",
+      "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "excerpt": "When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict.",
+      "section": "news",
+      "rankScore": 0.25155
+    },
+    {
+      "id": "5ae30c47258dfe31",
+      "title": "王毅同英国外交大臣米利班德通电话",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737270.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-24T15:00:19.000Z",
+      "excerpt": "2026年11月24日，中共中央政治局委员、外交部长王毅应约同英国外交大臣米利班德通电话。",
+      "section": "cn-news",
+      "rankScore": 0.562892
+    },
+    {
+      "id": "e44a0373d5e275dc",
+      "title": "安徽省气象台发布大雾黄色预警",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBud1BUNnA1eU5rY2NQNzA3eDd3bWN6b2Q1NWFOU1NieDVLN1hXdVdFNWR5RTQxQWNGT3UyVEotQUwwa09YMWVPYktxX1ZJYlRMNVhfUkI0TERNaHkwNHVtV3FWYmRabkptTHpkSGdQMzNkTnRzeHc?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-24T19:39:00.000Z",
+      "excerpt": "安徽省气象台发布大雾黄色预警 中央气象台",
+      "section": "cn-news",
+      "rankScore": 0.523708
+    },
+    {
+      "id": "096dd94e374b4190",
+      "title": "现货白银日内跌幅扩大至5%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSYktVQ1JnSUxOdTA0cXhOOEN4NkdYVTBkV0pvdEo3aUh4b2xya1lvbjJEcXJ6UDZQT2ZEX0FsLVdtX1BqRVZiN1NGX3l3NWptRzVmbzZrX2w?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-24T16:13:55.000Z",
+      "excerpt": "现货白银日内跌幅扩大至5% Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.494517
+    },
+    {
+      "id": "329da7dfa560e754",
+      "title": "马来西亚总理：中国非常理性；与中国打交道比与美国更容易",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81bDNjZmZvRE9LQU04aFVMa2UzVjhjTWRlQmlReUN5a0ZQNG1DbnRZd00yNVBjYm4xNWEtVm85Zi0yemFDcjdmWFZXRWk2dWxaS0ZZcFUwSGdTM0pnNFZ5Sg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-24T16:06:00.000Z",
+      "excerpt": "马来西亚总理：中国非常理性；与中国打交道比与美国更容易",
+      "section": "cn-news",
+      "rankScore": 0.490864
+    },
+    {
+      "id": "03965c96ea8b6c9a",
+      "title": "Huawei guilty on 10 of 12 counts after 2-month battle in US courtroom",
+      "url": "https://www.scmp.com/news/us/article/3375673/huawei-guilty-10-12-counts-after-2-month-battle-us-courtroom",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-24T20:36:38.000Z",
+      "author": "Mark Magnier",
+      "excerpt": "The nearly seven-year US criminal case against Huawei Technologies and three subsidiaries finally ended on Tuesday when a jury in Brooklyn found that the company was guilty on 10 of 12 counts, including bank and wire fraud, conspiracy to steal trade secrets and evading sanctions.",
+      "section": "cn-news",
+      "rankScore": 0.478933
+    },
+    {
+      "id": "aa1297259486d6c2",
+      "title": "国际油价24日上涨",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvOTFHd2hIdXM2bExXUE14bmVQbXItQVR3UG1jejdoX3JjNHZHUHBZT0c3YjRBc1U1OWhLUUNyVU1Hc0RPZUt4QldZRnl5S01qR29Fdk1lRjQwUExMNVJLZnh1UDVCQkZCY3dJV0RGU1l2WUhBX1daZElLR1VtQ1E?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-24T20:31:33.000Z",
+      "excerpt": "国际油价24日上涨 新华网 大宗商品综述：油价跌 伊朗紧张局势暂缓 金价反弹 锡领涨基本金属 新浪财经_金融信息服务商 原油供应过剩在即，柴油短缺却还没结束，全球燃料市场为何越来越分化？ 金融界 油价下跌：交易员权衡供应前景与航运风险 Sohu 美国竭泽而渔，中国从容撤退：波斯湾阴云下的黑金博弈 腾讯新闻",
+      "section": "cn-news",
+      "rankScore": 0.477108
+    },
+    {
+      "id": "89df78a37cd4f250",
+      "title": "2026年10月全国查处违反中央八项规定精神问题28934起",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737139.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-24T11:05:46.000Z",
+      "excerpt": "11月24日，中央纪委国家监委公布了2026年10月全国查处违反中央八项规定精神问题汇总情况。当月，全国共查处违反中央八项规定精神问题28934起，批评教育和处理35193人，其中党纪政务处分23996人，这是连续第158个月公布月报数据。",
+      "section": "cn-news",
+      "rankScore": 0.469726
+    },
+    {
+      "id": "418b69942e3b727c",
+      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737255.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-24T13:56:21.000Z",
+      "excerpt": "中新网北京11月24日(记者 左雨晴) 24日，记者从市场监管总局专题新闻发布会上了解到，我国正深度参与国际标准体系建设，聚焦数据治理、人机交互、安全可信等关键领域，组织头部企业、领先科研机构，牵头29项基础共性国际标准研制；围绕智慧城市、智能制造等重点行业，统筹15个标准技术机构牵头推动49项行业应用国际标准研制，形成协同推进、相互支撑的良好格局。",
+      "section": "cn-news",
+      "rankScore": 0.431025
+    },
+    {
+      "id": "00af905b871b4737",
+      "title": "陳吉寧落馬 上海市委常委會：反腐不停歇",
+      "url": "https://www.cna.com.tw/news/acn/202611240321.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-24T15:00:38.000Z",
+      "excerpt": "（中央社記者李雅雯上海24日電）中共中央政治局委員、上海市委書記陳吉寧涉嫌嚴重違紀違法，正接受調查。上海市委常委會今晚舉行擴大會議，強調陳吉寧被調查充分釋放「反腐敗鬥爭不停歇」強烈訊號。",
+      "section": "cn-news",
+      "rankScore": 0.409506
+    },
+    {
+      "id": "153fd35ba4dc0923",
+      "title": "刘德华的女儿刘向蕙的成长经历是怎样的？",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFptUlBSTjJyY1Ewb3pMbHl4QXcwckVCeHYzVnpFWWFGZFdmNXdmY1ZyRDNjZkRPdjBhQk4yT1ZITkk5cDQ3S2lsd1Fhblc4SGUyam81UTBZbmRJeXA3SmZSVURhY1hUSmg2SjZhdW1aS2NqQVdGTGIyb1RPVGp2eVNqY1RTOU40MnJQNDdmSmpJcUEzb05td24tSF91QTZFQV9hTWxERTVwQQ?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-24T20:08:27.000Z",
+      "excerpt": "刘德华的女儿刘向蕙的成长经历是怎样的？ 手机新浪网 刘德华谈51岁“老来得女”：并不是容易的事 Sohu 刘德华女儿近照曝光：浓眉大眼像妈 14岁身高超160 文学城 刘德华罕谈老来得女心声 自嘲做偶像太久 忘了要生孩子 China Press 刘德华自曝辅导女儿写作业时很烦恼：最头疼的是数学，内容与自己小时候完全不同 新浪财经",
+      "section": "cn-news",
+      "rankScore": 0.401842
+    },
+    {
+      "id": "4783a0d1b1e29768",
+      "title": "深化转化履职成果 助推民生实事落实",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KUzRIZ2xUcFVRc2UwMEpFZ2E5alRHQkJrMHYwbkNMbHBMTjFiXzlHZ080UU16SS1nbG9Db2dFRUl3TjRiVkVSODJRN245WGN5WlZkblpud3pYZVI2YlZydUk0TzFjR20zc3c?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-24T20:45:39.000Z",
+      "excerpt": "深化转化履职成果 助推民生实事落实 四川日报",
+      "section": "cn-life",
+      "rankScore": 0.619933
+    },
+    {
+      "id": "872f286748f93917",
+      "title": "“1991年的张大爷”“1988年的张奶奶”刷屏！玩梗之外，别让事实输给流量",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737269.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-24T14:55:28.000Z",
+      "excerpt": "最近，“1991年出生的张大爷”“1988年出生的张奶奶”等相关所谓小学生试题，在网上传得沸沸扬扬。",
+      "section": "cn-life",
+      "rankScore": 0.61108
+    },
+    {
+      "id": "ccb24f01490d6faf",
+      "title": "中国红十字会向智利捐赠应急车辆",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mRnk0UzBLMlJhNGs2TTlGYlFpc0h3Mk9Uc2xXT2ZqTDBoR0JYUFVjRVYyZGFqMU4td0x4dHZLMzJEeGZ3R191MzJWNjRpX3pLM3hTRFJQTkREcVdoRGs3Qw?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-24T17:50:00.000Z",
+      "excerpt": "中国红十字会向智利捐赠应急车辆 光明网",
+      "section": "cn-life",
+      "rankScore": 0.538864
+    },
+    {
+      "id": "f9abb24429c5c578",
+      "title": "Stellantis因防抱死制动软件缺陷召回8.2万辆Ram卡车",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOejZPdFMtYzhNUVVkcW1OZS1VQUx2a0w5cjhPU2ZqNmFRR05PMjlNeHNnZ3VHcGp1bzZpdkpUTVlHWUl5NHlObGZqdVFyVUxlQlgzSXRWUG9POEdvdjVpXzAzcjRzV3ZrY2NzdV9BWG1DSlFCdkJvT0FQTXdDWVpMVDdMV3ZuSHBUTnVKTGlVTE9TdDNIZ19XaDZseTg?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-24T18:30:05.000Z",
+      "excerpt": "Stellantis因防抱死制动软件缺陷召回8.2万辆Ram卡车 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.433505
+    },
+    {
+      "id": "4ceb90b910960d16",
+      "title": "整合单细胞与批量RNA测序揭示泛癌Treg特征及其介导的免疫治疗耐药机制",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rRG01dS1ucTRwdU9rMUEzSkFTd0pnMzg5SkZETWxsMHhmOWpadVl6VlNpcm8yUkJ3R1FNNVg0M25VTFlyNTA0WGo2MnYxLXBVUjVNU29WRE9wTk9udHpUNzF3M2Jzb0F3OXFTRVR3?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-24T18:17:01.000Z",
+      "excerpt": "整合单细胞与批量RNA测序揭示泛癌Treg特征及其介导的免疫治疗耐药机制 生物通",
+      "section": "cn-life",
+      "rankScore": 0.428814
+    },
+    {
+      "id": "333f4bd0d9008041",
+      "title": "学大教育：关于股东股份解除质押及质押的公告",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tQ09Pb1lVbm50OTU0V2FTQWhqZWJVajRsaWhPNG9kc2g4TWk3NHVlNnVOVWxIbzFMRjFDM04xY1BXU3JBV0c2cFdtLXZDVm15SGVFYmlFZjVMWXh5MWNwdFM2cnFndw?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-24T19:05:06.000Z",
+      "excerpt": "学大教育：关于股东股份解除质押及质押的公告 东方财富网",
+      "section": "cn-life",
+      "rankScore": 0.38235
+    },
+    {
+      "id": "07e25ba3f3ab888c",
+      "title": "冬天嗓子干、流鼻血？有这四种症状小心“暖气病”",
+      "url": "https://www.chinanews.com.cn/life/2026/11-24/10737087.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-24T09:39:43.000Z",
+      "excerpt": "目前，北方进入全面供暖季，南方各种取暖设备纷纷启动。供暖开启之后，如出现口干舌燥、皮肤发痒、鼻塞、咳嗽等症状，需格外警惕，很可能你正在遭遇“暖气病”。",
+      "section": "cn-life",
+      "rankScore": 0.34731
+    },
+    {
+      "id": "89ed86b7fc0492f0",
+      "title": "北京市民政局等四部门关于支持养老服务机构举办护理院、护理站等医疗机构有关工作事项的通知",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1c4ODB2RWtpblRIYnRGZEZXNUJrOHZXSWxLaWQ3SF9jLWpxc0xJckpYMnZXMVR1RVhPRkRIQUMxcmRWSjAxTDIyYVVKU2RHZ1o0UVZ5d3hWYmg5UFJKdFNrc1FPSUZxV21uTmY2V1UzNVhyNGg5T0w0VmF1TG15bzdEZw?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-24T10:52:30.000Z",
+      "excerpt": "北京市民政局等四部门关于支持养老服务机构举办护理院、护理站等医疗机构有关工作事项的通知 北京市人民政府门户网站",
+      "section": "cn-life",
+      "rankScore": 0.307708
+    }
+  ],
+  "warnings": []
+}
