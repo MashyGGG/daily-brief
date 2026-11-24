@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-24",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-24T22:20:40.596Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 17,
+  "items": [
+    {
+      "id": "4d0f7855db00ad30",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-24T22:20:40.596Z",
+      "score": 187,
+      "excerpt": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "section": "tech",
+      "rankScore": 1.02
+    },
+    {
+      "id": "73e4297ac289858f",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "source": "hn-front",
+      "publishedAt": "2026-11-24T16:32:17.000Z",
+      "score": 236,
+      "author": "louiereederson",
+      "excerpt": "236 points · 96 comments · https://news.ycombinator.com/item?id=50630594",
+      "section": "tech",
+      "rankScore": 0.880918
+    },
+    {
+      "id": "93d7a68c6cfbdfff",
+      "title": "From Files to Cited Answers in One API Call: Managed Ingestion and SearchDocuments in Agent Retrieval",
+      "url": "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/",
+      "source": "google-developers",
+      "publishedAt": "2026-11-24T22:20:40.596Z",
+      "excerpt": "Agent Retrieval in Vertex AI introduces managed ingestion and SearchDocuments to replace custom chunking and embedding pipelines. Developers can now import document and video files directly from Cloud Storage and query them with a single API call for cited page numbers and timestamped results.",
+      "section": "tech",
+      "rankScore": 0.7875
+    },
+    {
+      "id": "9b5202b53f26b4c3",
+      "title": "A Deep Dive into JVM Start-up (2025)",
+      "url": "https://inside.java/2025/01/28/jvm-start-up/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-24T22:05:30.000Z",
+      "author": "inside.java via juliethefoxcoon",
+      "section": "tech",
+      "rankScore": 0.675454
+    },
+    {
+      "id": "ebf8b3dd2e601ef8",
+      "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-11-24T19:16:38.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
+      "section": "tech",
+      "rankScore": 0.673596
+    },
+    {
+      "id": "56d44352be53e193",
+      "title": "More predictable notifications on GitHub.com",
+      "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "source": "github-changelog",
+      "publishedAt": "2026-11-24T16:40:59.000Z",
+      "author": "Allison",
+      "excerpt": "Starting December 1, 2026, we’re migrating notifications on GitHub.com over the course of a week to make subscriptions more predictable, correct unexpected behavior, and support the growing scale of activity.…",
+      "section": "tech",
+      "rankScore": 0.538241
+    },
+    {
+      "id": "d5dfe4ca75132efa",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "huggingface",
+      "publishedAt": "2026-11-24T16:34:13.000Z",
+      "section": "ai",
+      "rankScore": 0.601896
+    },
+    {
+      "id": "c08e94a2c77ecb47",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "openai",
+      "publishedAt": "2026-11-24T13:00:00.000Z",
+      "excerpt": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "section": "ai",
+      "rankScore": 0.541264
+    },
+    {
+      "id": "ba55b3d866c99c35",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "google-ai",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "excerpt": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "section": "ai",
+      "rankScore": 0.518725
+    },
+    {
+      "id": "b5b0b3f0a97a5134",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "openai",
+      "publishedAt": "2026-11-24T11:00:00.000Z",
+      "excerpt": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "section": "ai",
+      "rankScore": 0.469835
+    },
+    {
+      "id": "e26889382467e048",
+      "title": "OceanBase发布AI数据平OceanLake！CEO杨冰：我们赌多模态，就像当年赌分布式一样",
+      "url": "https://www.infoq.cn/article/qEXNRNufkiFkiUEU9aae?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-24T20:21:09.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.643083
+    },
+    {
+      "id": "467387786ce9d776",
+      "title": "东北积雪天数预计将会显著减少",
+      "url": "https://www.solidot.org/story?sid=85982",
+      "source": "solidot",
+      "publishedAt": "2026-11-24T15:57:38.000Z",
+      "excerpt": "根据两项研究，未来东北地积雪覆盖天数将普遍减少。与 2001 年—2020 年相比，到本世纪末，中等排放情景下区域平均积雪覆盖天数预计减少约 64 天，低排放和高排放情景下分别减少约 42天 和 85 天。高排放情景下，年积雪覆盖不足 50 天的区域占比预计由 19% 增至 99%，表明大范围地区可能向短暂、间歇性积雪状态转变。研究进一步指出，未来雪季缩短具有明显的季节非对称性。雪季前期积雪变化主要与降雪条件相关，而冬末至春季积雪持续性对升温更为敏感，其损失成为较强增暖情景下雪季缩短的突出特征。",
+      "section": "cn-tech",
+      "rankScore": 0.569358
+    },
+    {
+      "id": "f0bbe230fe2a965b",
+      "title": "多个 AGENT 项目怎么跟踪管理",
+      "url": "https://www.v2ex.com/t/1259555",
+      "source": "v2ex",
+      "publishedAt": "2026-11-24T13:27:06.000Z",
+      "score": 12,
+      "author": "oneyenp",
+      "excerpt": "比如同时在处理 10 个 AGENT 项目（或者是简单的处理一些分析任务），10 个对话是不同的方向，输出了不同的项目资料、研究内容等等。这个时候怎么管理呢…… 有时候可能都忘了自己这些任务在哪里处理过了… 是需要一个 obisidian 表单之类的来维护这些项目/对话的状态和结果吗？还是需要怎么维护呢，有什么建议吗。",
+      "section": "cn-tech",
+      "rankScore": 0.509324
+    },
+    {
+      "id": "0bdc5649b2ab476a",
+      "title": "预售秒罄引爆盘面，AI眼镜站在量产与博弈的十字路口",
+      "url": "https://www.36kr.com/p/4083576546826118",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-24T13:39:55.000Z",
+      "author": "览富财经网",
+      "excerpt": "11月24日，A股AI眼镜概念板块盘中震荡走高。截至收盘，联创电子（002036.SZ）、光洋股份（002708.SZ）、中京电子（002579.SZ）等多股涨停；明月镜片（301101.SZ）、天邑股份（300504.SZ）、申昊科技（300853.SZ）、龙旗科技（603341.SH）等涨超8%。 本轮行情的直接导火索来自大洋彼岸。三星与谷歌联合打造的Intelligent Eyewear，在美、韩两地同步开启预售，全部备货数小时便被抢购一空，产品计划在12月10日正式发售并启动发货。 一边是海外新品数小时售罄的消费狂欢，一边是A股盘面批量涨停的资本躁动。",
+      "section": "cn-tech",
+      "rankScore": 0.406817
+    },
+    {
+      "id": "f2fd733bcc054587",
+      "title": "把 NTFS 从内核搬到用户态：FSKit 的三层结构，和它没解决的那些事上周那篇《Mac 读写NTFS：装完还是写不",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jMkFmZzVMMDBMand0MVRWdnh2NWlKekdFX0lNNHFNSnJ4WnZoNXA5NE42WXM5NmY1dzVNYV81cHQzRFdteGRMd1p6ODNXSXpEVmlMdA?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-24T17:03:38.000Z",
+      "excerpt": "把 NTFS 从内核搬到用户态：FSKit 的三层结构，和它没解决的那些事上周那篇《Mac 读写NTFS：装完还是写不 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.384319
+    },
+    {
+      "id": "8e7c7058a18f30c5",
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-24T16:54:07.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.",
+      "section": "security",
+      "rankScore": 0.544495
+    },
+    {
+      "id": "3a82858a53ed86f7",
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file.",
+      "section": "security",
+      "rankScore": 0.40444
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
