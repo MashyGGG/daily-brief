@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-25",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-25T20:27:23.016Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "4b6268c96d6956a2",
+      "title": "民主党议员扬言明年国会掌权后反击特朗普关税政策",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261125-%E6%B0%91%E4%B8%BB%E5%85%9A%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%98%8E%E5%B9%B4%E5%9B%BD%E4%BC%9A%E6%8E%8C%E6%9D%83%E5%90%8E%E5%8F%8D%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-25T19:18:47.000Z",
+      "author": "华盛顿特约记者 陈米亚",
+      "excerpt": "美国总统特朗普（Donald Trump）政府计划向中国、欧盟及其他主要贸易伙伴加征新关税，引起民主党议员强烈反对。",
+      "section": "news",
+      "rankScore": 0.66482
+    },
+    {
+      "id": "fb7bc337feb9d050",
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-25T19:26:44.000Z",
+      "excerpt": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
+      "section": "news",
+      "rankScore": 0.602008
+    },
+    {
+      "id": "e58c690892fbdf9c",
+      "title": "Oregon man and dog narrowly escape being swept away by high tides as officials urge caution at beaches",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-25T20:03:53.000Z",
+      "author": "Dani Anguiano",
+      "excerpt": "Record-breaking king tides have prompted west coast authorities to warn residents to stay away from beaches The US west coast has seen record-breaking tides this week and authorities have urged residents to avoid beaches, but not everyone is heeding those warnings.",
+      "section": "news",
+      "rankScore": 0.550359
+    },
+    {
+      "id": "b2a32b63d5da229f",
+      "title": "Elderly man with Alzheimer’s rescued after 11 days in Amazon jungle",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_man-with-alzheimers-rescued-after-11-days-in-amazon-251126?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-25T19:57:08.000Z",
+      "excerpt": "A 74-year-old man with Alzheimer's has been found alive after missing for 11 days in Brazil's Amazon rainforest.",
+      "section": "news",
+      "rankScore": 0.54759
+    },
+    {
+      "id": "8c1e9901b9f4f2b5",
+      "title": "美國準備公布對全球貿易夥伴加征新關稅的計劃",
+      "url": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-25T12:18:58.000Z",
+      "excerpt": "新關稅將打擊美國許多最大的貿易夥伴，包括中國和歐盟。",
+      "section": "news",
+      "rankScore": 0.539436
+    },
+    {
+      "id": "a03cc3f65c6f2947",
+      "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
+      "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-25T19:11:09.000Z",
+      "author": "Eric Lipton and Anton Troianovski",
+      "excerpt": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
+      "section": "news",
+      "rankScore": 0.528725
+    },
+    {
+      "id": "aaaf3965d3f1a3dc",
+      "title": "The Ensemble Cast of a New York Sitcom Is Suddenly Running the Country",
+      "url": "https://www.nytimes.com/2026/11/25/opinion/nyc-jeffries-schumer-mamdani-aoc-trump.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-25T19:58:21.000Z",
+      "author": "Kurt Andersen",
+      "excerpt": "Remember when New York was an island off this nation’s coast?",
+      "section": "news",
+      "rankScore": 0.479578
+    },
+    {
+      "id": "bb3d7f3cd45e598d",
+      "title": "The fund manager’s dilemma over AI",
+      "url": "https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-25T18:05:53.000Z",
+      "excerpt": "Assessing concentration risks may be more complicated than it seems",
+      "section": "news",
+      "rankScore": 0.439205
+    },
+    {
+      "id": "36082f0a410b73fb",
+      "title": "Group of Senate Democrats push to add freshman to leadership",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+      "source": "npr-news",
+      "publishedAt": "2026-11-25T17:30:47.000Z",
+      "author": "Barbara Sprunt",
+      "excerpt": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
+      "section": "news",
+      "rankScore": 0.426605
+    },
+    {
+      "id": "96f901210a78ed0e",
+      "title": "乌克兰袭击俄罗斯船只致两名利比亚人员丧生，利比亚军方誓言做出回应",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZjlrS3BWRURCWkI1ZVJFM2x5TmdUS254T0lNWnRwZnR2NEM4a0FDSHh4Ykxvald2cWlRSWlSSDJkOVVsZld6R0xLU051bi1zeHdnaHM2Rm9HYjlMTVZCOGpKdlVaa2U0dURKZ3hZbDUyYlg1d0k2X0pFVjEtWkFXUWdMbmNBbC1JWTZuMFNnM2hnSXJSTXoxNVZmMUZHVEswaVd2allnQVVtQzZRRGtfVG8xeHJ0TjI3WEVFSWh5clZsMXU0ZVZFeU5XcEhNZnprcndfRU1YQkxWQzJ1TFYybUJn0gHkAUFVX3lxTFBka1pvUUVaVWM1Qm5VWVlwQUJnWmlVMENOWEYwM1BsT29OTWNwbGx6ZEcyQmp4N3NZbFZqNFllWEhuU01aUkNrS3EwSl84Vktic0FBMVFTSXllZDRDdTRGR1pvcXFFaXRjZkthNEdCRmNhcmFlUy1sUFRaWkhCd1kwazBlcEY2OUdiLTcwTjUzNDV1bnFVVDRaSUpaRHBIYndSa19jX2ZLMlFUNm14NEl1a1FoNEd0UFgzeF80eTVLYnRGZG1mVTg4QlZTdFJJM21nczIwbXFzRmp2RXVKQ3ZoM3dwRA?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-25T20:08:50.000Z",
+      "excerpt": "乌克兰袭击俄罗斯船只致两名利比亚人员丧生，利比亚军方誓言做出回应 美国之音 战火烧到北非？俄舰遭重创，美媒：局势进入新阶段 新浪新闻_手机新浪网 2艘自爆艇撞沉俄护卫舰！战火蔓延第三国港口，全球航线拉响警报 凤凰网 意大利急了：乌克兰打到“家门口” 观察者网 非盟谴责船只在利比亚海域遇袭事件 敦促各方保持克制 央视网",
+      "section": "news",
+      "rankScore": 0.414292
+    },
+    {
+      "id": "0181fa20cd2034a1",
+      "title": "【专题报道】电力转型不能止步于发电：三国经验揭示全球清洁能源转型中构筑电网挑战",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143199",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "excerpt": "随着全球太阳能和风能装机容量持续增长，如何将清洁电力可靠、高效地输送到家庭、企业和工业设施，正成为能源转型面临的关键挑战。",
+      "section": "news",
+      "rankScore": 0.395823
+    },
+    {
+      "id": "58ee4ec4eca0d125",
+      "title": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168874",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "excerpt": "Millions of people in Somalia still face severe food shortages and malnutrition despite the reduced risk of famine in Baidoa, global food security experts warned on Wednesday.",
+      "section": "news",
+      "rankScore": 0.263882
+    },
+    {
+      "id": "615d0e797c185415",
+      "title": "中国岭南首次发现丹尼索瓦人和10.1万年前未知古人类",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737857.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-25T16:10:50.000Z",
+      "excerpt": "中新网北京11月26日电 (记者 孙自法)作为古人类演化、迁徙和扩散的关键地区之一，中国岭南是否生活过丹尼索瓦人？同期还有无其他古人类共存？这些议题一直因缺乏化石记录悬而未决，也备受关注。",
+      "section": "cn-news",
+      "rankScore": 0.625279
+    },
+    {
+      "id": "373e91d4b89939ab",
+      "title": "谷爱凌训练受伤肩膀脱臼：参加云顶世界杯站可能性较小",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-25/10737834.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-25T13:52:16.000Z",
+      "excerpt": "11月25日，谷爱凌发文，称前几天在奥地利训练中不幸受伤肩膀脱臼。“开车路程一小时后到达医院，立刻拍片子正骨位。我还在等待医生的判断，但目前能参加云顶世界杯站比赛的可能性较小。很抱歉让已经购票或安排好行程、准备到现场为我加油的朋友们失望了。”",
+      "section": "cn-news",
+      "rankScore": 0.596851
+    },
+    {
+      "id": "3a9fd39cfb129584",
+      "title": "泽连斯基拒绝卢卡申科：带我飞莫斯科见普京？我又不是行李箱",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xUVltcmV3Y0tuNkFUemN5Q0FtV2NodkpnbDlZMVUyZnctYW1MR3RFMjdPSV9CeV9VSmlGVzB4b2lUYjVhWFBuVjVfQ19mblpZcTNrYTlfTnhhWklfY3BPUA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-25T15:27:11.000Z",
+      "excerpt": "泽连斯基拒绝卢卡申科：带我飞莫斯科见普京？我又不是行李箱",
+      "section": "cn-news",
+      "rankScore": 0.491446
+    },
+    {
+      "id": "ea7711cb7716c926",
+      "title": "研究新发现 十万年前华南地区存在多种古人类",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bVlkeURKUHE4Ymk4VkgwZC12YmdyNkxsZ1FjczByZ1JSakRlV0dmVmNjdHpESkE5dzVFeUs5NXBJLWx2WURONU14OUFFc0t2VDIwMXpLWVhodGs?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-25T17:11:27.000Z",
+      "excerpt": "研究新发现 十万年前华南地区存在多种古人类 极目新闻 研究新发现：十万年前华南地区存在多种古人类 ThePaper.cn 如何凭几颗牙齿化石发现中国年代最晚的直立人？考古学家为您揭秘 Sohu 我国境内最晚直立人化石被发现 改写直立人生态适应认知 新浪新闻_手机新浪网 中国岭南首次发现丹尼索瓦人和10.1万年前未知古人类 中国新闻网",
+      "section": "cn-news",
+      "rankScore": 0.479617
+    },
+    {
+      "id": "6907b2ed52c6ed17",
+      "title": "Colombia quiet as China says lawmakers’ Taiwan trip crossed its ‘first red line’",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375815/colombia-quiet-china-says-lawmakers-taiwan-trip-crossed-its-first-red-line",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-25T19:52:34.000Z",
+      "author": "Igor Patrick",
+      "excerpt": "A multiparty group of Colombian lawmakers visiting Taiwan has drawn a formal protest from China, while President Abelardo de la Espriella’s government has stayed silent for two days as of Wednesday, even as the pressure from Beijing has intensified.",
+      "section": "cn-news",
+      "rankScore": 0.477502
+    },
+    {
+      "id": "0b0cb765bdb3703f",
+      "title": "中外旅行商携手开发内蒙古冰雪旅游市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737841.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-25T14:14:37.000Z",
+      "excerpt": "中新社内蒙古兴安盟11月25日电 (记者 张玮)“你好！中国”——2027冰雪主题旅游海外推广活动洽谈会25日晚在内蒙古自治区兴安盟阿尔山市举办。中外旅行商签署合作协议，携手开发内蒙古冰雪旅游市场。",
+      "section": "cn-news",
+      "rankScore": 0.457954
+    },
+    {
+      "id": "4490e8a4721b3960",
+      "title": "纳指100一度跌超4%恐陷熊市，道指转涨，英伟达重挫7%，金银大跌，避险资金涌入美债",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oREhXV2g4X3VMLWNjLTNBT2FHeWFObkJBMjU1Vjk4UGNZc2pEdGtvUE1seUp6b25pQkRaSG9vMUtuLTVtU1o4SDliYzJYRFNkT2t3?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-25T18:28:44.000Z",
+      "excerpt": "纳指100一度跌超4%恐陷熊市，道指转涨，英伟达重挫7%，金银大跌，避险资金涌入美债 华尔街见闻 11月25日收盘：美股涨跌不一 芯片板块重挫 英伟达跌近6% Anthropic跌破IPO发行价 新浪财经_金融信息服务商 科技股获利了结情绪升温！纳指跌近1.5%，英伟达跌5.86% ThePaper.cn 全球市场：美股三大指数涨跌不一 费城半导体指数重挫近8% 英伟达跌近6% 东方财富网 美股三大指数集体低开，纳指低开3.3%，英伟达跌超7% 凤凰网财经",
+      "section": "cn-news",
+      "rankScore": 0.447408
+    },
+    {
+      "id": "070b8cd6cfa4cbd7",
+      "title": "莫扎特《魔笛》首演点亮童话之夜",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BbFBObjRTV0JPYnlRR1JpTENabzA2OGwtTXB4T19IUFA1RVFDaVB5SWFoRU00Qnc2Uzk1WVFkbUJ5QnJwZm4tZjZfWFZOal9yaXlxOWx6cnkzemJRbXk0c1NaTjJuTWY3T01TY25seTctTE1weURuWA?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-25T19:21:29.000Z",
+      "excerpt": "莫扎特《魔笛》首演点亮童话之夜 新浪财经 百城千幕，同赴《魔笛》奇境——北京“超现场”再献歌剧盛宴 Sohu 中国国家大剧院与法国波尔多国家歌剧院联合制作歌剧《魔笛》将在北京登台 旅日侨网 探班《魔笛》：蔡尧挑战莫扎特歌剧｜京探 新京报 国家大剧院与法国波尔多国家歌剧院联合制作歌剧《魔笛》将在京登台 中国新闻网",
+      "section": "cn-news",
+      "rankScore": 0.399723
+    },
+    {
+      "id": "1f03350953659698",
+      "title": "陳吉寧被查 外媒：中國「清華系」官員網絡接連失勢",
+      "url": "https://www.cna.com.tw/news/acn/202611250329.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-25T13:46:01.000Z",
+      "excerpt": "（中央社台北25日電）中共公布中央政治局委員、上海市委書記陳吉寧被查後，陳吉寧來自北京清華大學的背景引發一項分析。外媒指出，以中共前中央組織部部長陳希為核心的「清華系」官員網絡，在過去2年接連失勢，多人出事。",
+      "section": "cn-news",
+      "rankScore": 0.395337
+    },
+    {
+      "id": "d916676031e412cc",
+      "title": "震裕科技：取得不超1.8亿元股票回购专项贷款承诺函",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SeVM2NTNlVGM0MG5rT0Y2WC1DVjgtZWVQb1RXZWNoa3VfaVZKU1dkbDBZcThhemE3U1huMndmSlhKNnl6NVU4RjUzcGw2YjNRTEI0aG9WOXU?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-25T09:00:00.000Z",
+      "excerpt": "震裕科技：取得不超1.8亿元股票回购专项贷款承诺函 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.312746
+    },
+    {
+      "id": "31f27ce9ff9c1dec",
+      "title": "各地全力推进冬修水利",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737849.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-25T15:22:02.000Z",
+      "excerpt": "央视网消息(新闻联播)：眼下，冬修水利正值黄金期，农田水利设施加速建设。",
+      "section": "cn-life",
+      "rankScore": 0.652092
+    },
+    {
+      "id": "7864b5650c041aad",
+      "title": "新航达卓昂救险车申报：随车起重排水 应急能力如何",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGhkSEZ5cEZZYUw2Mk5QRU1FSDNBZzh0OEtFM2lIZmZRT3NOQ2ZLNThqOGUyeXJHbHQxRm1VTjg3blBuNG5qcjFOY0FaY3A1REc3d2o2bnVRc3plZFRCNm9ybkE1eUVKSXZRUFVCdDIxbjBYTXVNbkZpdFYzM194ZGJRRzRmTmM?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-25T17:42:40.000Z",
+      "excerpt": "新航达卓昂救险车申报：随车起重排水 应急能力如何 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.553977
+    },
+    {
+      "id": "4cf4d78117169afb",
+      "title": "图说百科｜流感防治8问8答",
+      "url": "https://www.chinanews.com.cn/life/2026/11-25/10737850.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-25T15:24:29.000Z",
+      "excerpt": "急性呼吸道传染病已进入流行季。呼吸道感染可谓“多毒并存”，患者在出现相关症状后，除了要及时就诊，更要明确感染背后的“元凶”，做到有针对性治疗。",
+      "section": "cn-life",
+      "rankScore": 0.544667
+    },
+    {
+      "id": "46db6d7750faa0dc",
+      "title": "研究指出香港高房价源于政府、地产商与购房者形成的制度均衡与利益共谋",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zMDdjcXN5Q0o2eWp5OWxnM0ZNX0VGYVVaM3FGV1JJOWJtclRnQkxqVE9mSWFoeFY5Z0hkRTFONFdsTDVVam5mVWhUVXczaW5ISnBhXw?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-25T15:50:58.000Z",
+      "excerpt": "研究指出香港高房价源于政府、地产商与购房者形成的制度均衡与利益共谋 虎嗅",
+      "section": "cn-life",
+      "rankScore": 0.502423
+    },
+    {
+      "id": "875464600108d8c3",
+      "title": "Waymo召回4488辆自动驾驶汽车：看懂交警手势却停不住，端到端方案的边界在哪里",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HWDlGYjM0ck4tcGg0RTNPMlkteVM3Uy1XRFhveFpVZjZhNk9oM3JaaFpVek5Qamw1Y0lBTktrTWg0b3VjVWtmcHV2NW0zek9MWGR4ZDRmVW9zcDFq?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-25T19:34:10.000Z",
+      "excerpt": "Waymo召回4488辆自动驾驶汽车：看懂交警手势却停不住，端到端方案的边界在哪里 网通社",
+      "section": "cn-life",
+      "rankScore": 0.470896
+    },
+    {
+      "id": "f5518ffc15ad19f0",
+      "title": "抽烟又火了？医生研究发现：心梗病人在抽烟时，多注意3点",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RNWZ4dzllbERQMXoxanVCSDkyNXB6MU1UdnFZQmlOWE5DZjZwcEU0Ui1FbDI1Q3JoWFRITnZWVkRhOEx2WGhWSERYTlNyWGR4ODdSYTloNWtUSktyVTJUeHFn?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-25T18:55:26.000Z",
+      "excerpt": "抽烟又火了？医生研究发现：心梗病人在抽烟时，多注意3点 手机网易网",
+      "section": "cn-life",
+      "rankScore": 0.456992
+    },
+    {
+      "id": "ddad3d8746cbd715",
+      "title": "“熠·京秋”第五届北京老年教育文化艺术展演精彩回顾",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzT0RFV3FUS3FpMDhJYV9kdXU0N1h6QzJsOG9QY09vVkY1aVdmMkdNbjJKY0k0c29TT0xKTUJzUE9WQm5tQnhtTVk3dXdtaENzVFBpVGRIVDJDUEZCUllWQTJfZ3MxQm1EVkJQOUZoVGJTQQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-25T18:23:35.000Z",
+      "excerpt": "“熠·京秋”第五届北京老年教育文化艺术展演精彩回顾 京报网",
+      "section": "cn-life",
+      "rankScore": 0.381908
+    },
+    {
+      "id": "4a8ca853c4807bde",
+      "title": "以真实场景牵引技术创新，中关村这场供需对接会发布五大工业AI场景需求",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0WE9RV3dHSXNZMFpiTG01WXpRanFTcFo0dXhvMU9iaFM0anZBTzZQNEYtZkhUN0E2TzRjbWw4V0d2bGdVUjhRVlB2Wk9nLVFVQnRWZXRzeVpZeHVseXBiTEl2WDRka3Fpb3NWMFdfa00?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-25T09:36:14.000Z",
+      "excerpt": "以真实场景牵引技术创新，中关村这场供需对接会发布五大工业AI场景需求 国际科技创新中心",
+      "section": "cn-life",
+      "rankScore": 0.292861
+    }
+  ],
+  "warnings": []
+}
