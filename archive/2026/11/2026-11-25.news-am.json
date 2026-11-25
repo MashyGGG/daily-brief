@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-25",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-25T05:00:29.928Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "0bb10bf68742c7ec",
+      "title": "宏福苑大火一週年：「這條刺永遠都在」，遺屬在傷痛中尋找答案",
+      "url": "https://www.bbc.com/zhongwen/articles/c3j4r274lj82o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-25T03:21:30.000Z",
+      "excerpt": "對許多家庭來說，道歉只是「最低消費」，他們仍在等一個完整的答案。BBC中文接觸了多位遇難者家屬，記錄他們怎樣度過這一年。",
+      "section": "news",
+      "rankScore": 0.807
+    },
+    {
+      "id": "f429124ee59d9d63",
+      "title": "上海市委书记陈吉宁被调查",
+      "url": "https://cn.nytimes.com/china/20261125/shanghai-party-leader-investigation-china-xi/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-25T03:09:27.000Z",
+      "author": "储百亮",
+      "excerpt": "陈吉宁曾任清华大学校长、环保部长和北京市长，其背景与习近平的科技优先事项十分契合。很多分析人士曾认为，他有望在习近平的下一届政府中获得晋升。 Pool photo by Carl Court 上海市委书记陈吉宁。他的科学教育背景被认为与中国最高领导人习近平的优先事项相契合。",
+      "section": "news",
+      "rankScore": 0.736068
+    },
+    {
+      "id": "3bf225e62752e63a",
+      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-25T04:49:55.000Z",
+      "excerpt": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+      "section": "news",
+      "rankScore": 0.627354
+    },
+    {
+      "id": "9b8459d217f1e817",
+      "title": "英伟达事件背后：一个为中国输送人工智能芯片的庞大网络",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261124-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E-%E4%B8%80%E4%B8%AA%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%BE%93%E9%80%81%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87%E7%9A%84%E5%BA%9E%E5%A4%A7%E7%BD%91%E7%BB%9C",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-24T22:42:20.000Z",
+      "author": "阿曼亭",
+      "excerpt": "在黄仁勋11月23日重新执掌英伟达的同时，全球媒体正在梳理是哪些操作让英伟达的相关芯片得以绕过美国的限制，被运往中国。 法国世界报周二写道，美国自2022年起禁止英伟达向中国出售部分最先进的人工智能芯片。然而，一系列调查显示，相关企业和中间商通过虚假申报、海外部署、关联公司转运和物流网络等方式，仍然可能将受限制的芯片送给中国。比如Megaspeed案例。",
+      "section": "news",
+      "rankScore": 0.594954
+    },
+    {
+      "id": "4b2e75dc266bed33",
+      "title": "UK warns companies of potential Russian sabotage threat",
+      "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-25T04:48:57.000Z",
+      "excerpt": "Britain's Defence Ministry and security service warn of the threat in unusual public announcement.",
+      "section": "news",
+      "rankScore": 0.557434
+    },
+    {
+      "id": "7268d11103d4011d",
+      "title": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-25T04:29:29.000Z",
+      "author": "Andrew Messenger",
+      "excerpt": "Clubs fail to sign up for 2027 season as disquiet over governing body’s executive grips football community About 100 football clubs, representing hundreds of thousands of players, have deliberately missed the deadline to sign up for next season amid a dispute with Football Queensland.",
+      "section": "news",
+      "rankScore": 0.553108
+    },
+    {
+      "id": "0d4d97d2f2b572a6",
+      "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-25T00:38:35.000Z",
+      "author": "Erika Solomon and Falih Hassan",
+      "excerpt": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+      "section": "news",
+      "rankScore": 0.501797
+    },
+    {
+      "id": "d4333d6b295e97bc",
+      "title": "Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-25T04:22:46.000Z",
+      "author": "Alan Feuer",
+      "excerpt": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, has left for Spain. He faced the prospect that the Trump administration might deport him to Liberia.",
+      "section": "news",
+      "rankScore": 0.482663
+    },
+    {
+      "id": "c0c8d7806b1c5353",
+      "title": "Asian markets lose ground as AI fears return",
+      "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-25T03:52:20.000Z",
+      "excerpt": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
+      "section": "news",
+      "rankScore": 0.476746
+    },
+    {
+      "id": "fd80a43f995e254f",
+      "title": "12:32:42【以防长说伊朗正研发化学武器】",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xbGhVc0s0Uzk0SWFYdWJFVTExNWNUQnZOU1RGVHgxRW1ERW9hQ19jY0EyYkZPaTZSVGdmQ012TGRLcjZnTmlncQ?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-25T04:32:42.000Z",
+      "excerpt": "12:32:42【以防长说伊朗正研发化学武器】 财联社 以媒：以防长称伊朗“正在研发化学武器” 浙江在线 以色列看守政府总理内塔尼亚胡称伊朗威胁“迫在眉睫” 新华网 以色列政坛就是否对伊朗动武起分歧，内塔尼亚胡在动袭击念头 ThePaper.cn 以正直党领导人称无需在组阁前对伊朗动武 央视网",
+      "section": "news",
+      "rankScore": 0.415367
+    },
+    {
+      "id": "c416f6fbb83fbbeb",
+      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "source": "npr-news",
+      "publishedAt": "2026-11-24T21:09:29.000Z",
+      "author": "Anna King",
+      "excerpt": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+      "section": "news",
+      "rankScore": 0.398414
+    },
+    {
+      "id": "44d7803897e8d4dd",
+      "title": "纪念消除对妇女暴力行为国际日 联合国呼吁加强司法保护并追究施暴者责任",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143259",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "excerpt": "联合国周二举行“消除对妇女暴力行为国际日”官方纪念活动。联合国常务副秘书长阿明娜·穆罕默德在活动上表示，尽管国际社会在终结针对妇女和女童的暴力行为方面取得进展，但仍有许多承诺尚未兑现。她呼吁各国加强司法保护，确保幸存者获得保护和救济，并追究施暴者的责任。",
+      "section": "news",
+      "rankScore": 0.374875
+    },
+    {
+      "id": "7a51beb381476c57",
+      "title": "朝中社：朝鲜驱逐瑞士外交办事处代表 限其48小时内离境",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737460.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-25T04:13:18.000Z",
+      "excerpt": "中新网11月25日电 据朝中社报道，当地时间25日，朝鲜外务省宣布瑞士驻朝鲜外交办事处代表为“不受欢迎的人”，限其在48小时内离境。",
+      "section": "cn-news",
+      "rankScore": 0.824267
+    },
+    {
+      "id": "49e3ce29569f9a38",
+      "title": "台媒关注张凌赫田曦薇网络直播 国台办回应",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737469.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-25T04:37:06.000Z",
+      "excerpt": "中新网11月25日电 11月25日，国务院台办举行例行新闻发布会。有记者问，关于大陆演员张凌赫和田曦薇线上网络直播粉丝见面会。请问发言人，大陆方面是否计划推出更积极的措施，推动两岸文化交流常态化？",
+      "section": "cn-news",
+      "rankScore": 0.76285
+    },
+    {
+      "id": "3303b3bcea421a3a",
+      "title": "我国首套600MW级压缩空气储能系统膨胀机顺利下线",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByNWZVMjIzUHpQSWpXRVUzVFRCNkkwRjNzQThwa0JtVElGQzN0VVdrSlB4ak9IUGlDakVPUERnU3lYdzhhcWdPV3kzLUlNbk1wQlFTSGNWc2g?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-25T04:50:36.000Z",
+      "excerpt": "我国首套600MW级压缩空气储能系统膨胀机顺利下线 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.627525
+    },
+    {
+      "id": "8ecdc3c04d79d0cf",
+      "title": "第八届“滴滴司机节”举办 超4200名司机获表彰",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737373.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-25T03:29:30.000Z",
+      "excerpt": "11月24日起，第八届“滴滴司机节”在宁波、北京、兰州等14个城市举办，超4200名司机获“全国优秀司机”“城市荣誉司机”表彰。期间，滴滴在10个城市地标建筑为司机点亮大屏，展示优秀司机风采。同时，为司机发放超45万份节日礼品，在端内为司机提供福利抽奖，感谢全国司机师傅的陪伴和信任。",
+      "section": "cn-news",
+      "rankScore": 0.60725
+    },
+    {
+      "id": "6b47aaf4e52daa3b",
+      "title": "元旦春节期间工会送温暖活动启动",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeW9ZSG1GZFRyLWVNS2VGb2IweXB5SVRDcnlLcHVDeUJPNnpadm01eG5QYmkySmpwa2VfTmU3ZXhISnVqSnFFNk5JcHlZeDdlYS1wTWxUMTdLdGlJRmY3b0Q1b3NUWXhRVXFJNFUxOGtjZnpNSkRpSm1BeG1aUTYtbA?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-25T04:19:09.000Z",
+      "excerpt": "元旦春节期间工会送温暖活动启动 人民日报 聚焦困难职工与重点群体职工开展多元服务 2027年工会送温暖活动启动 Sohu 中通快递启动 “有你的冬天不太冷”冬季送温暖活动，为小哥送上围脖手套耳罩等御寒物资 劳动观察 秦皇岛顺丰速运开展爱心餐慰问一线快递员活动 微博 （图表·漫画）“两节”送温暖活动启动 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.550811
+    },
+    {
+      "id": "235122e57978aa4b",
+      "title": "藍天行動聯盟主席武之璋過世 國台辦表哀悼",
+      "url": "https://www.cna.com.tw/news/acn/202611250100.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-25T04:04:35.000Z",
+      "excerpt": "（中央社記者張淑伶北京25日電）台灣統派人士、「藍天行動聯盟」主席武之璋20日逝世，中國大陸國台辦發言人張晗今天對此表示哀悼。",
+      "section": "cn-news",
+      "rankScore": 0.547574
+    },
+    {
+      "id": "7b82416b73b45949",
+      "title": "结石排完就万事大吉？可能悄悄再给你安排续集",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4N1JkVHc3UThocEJXOGtId0xGbTM5SWc0WVdrZm5xR0dnbTQ4V2ZKblAteW9vX21RUVh1ZUJRRHB0S24tU09pUzhPYUV3aVptUHRCaGJGRXFYeG4yNW5MSg?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-24T22:27:11.000Z",
+      "excerpt": "结石排完就万事大吉？可能悄悄再给你安排续集",
+      "section": "cn-news",
+      "rankScore": 0.531671
+    },
+    {
+      "id": "11559d5818b11fcf",
+      "title": "英力特复牌次日再跌停，停牌前10个交易日累涨53%",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxTEZsd2h0MUxjb01obUx3NFhQeE55YlV6T0hQZWZ1azR5RmtNZmxMaVFyV2hKN2Rpb3lMN1FGYUZKWHVpYktPVk9rdTR4d1pTamdsOXVMTzJWTTlE?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-25T03:18:30.000Z",
+      "excerpt": "英力特复牌次日再跌停，停牌前10个交易日累涨53% www.caiwennews.com",
+      "section": "cn-news",
+      "rankScore": 0.470167
+    },
+    {
+      "id": "b19ab102a991e5e5",
+      "title": "Soybean scientist ‘critical’ for China’s food security dies at 61 after illness",
+      "url": "https://www.scmp.com/news/china/science/article/3375582/soybean-scientist-critical-chinas-food-security-dies-61-after-illness",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-25T03:00:11.000Z",
+      "author": "Dannie Peng",
+      "excerpt": "A leading Chinese scientist whose research into the genetics of soybeans was deemed “critical for national food security”, has died at the age of 61 following an illness, according to an obituary published by his institution on November 19.",
+      "section": "cn-news",
+      "rankScore": 0.466605
+    },
+    {
+      "id": "e713aac7edfc9e79",
+      "title": "台湾粉丝热情邀请《逐玉》主演入岛交流国台办：两岸青年双向奔赴最生动体现- 中国日报网 - China Daily",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0drbUUxbHp5aS10VzlYbDVtTVpBMUZwR0MzaDhFMDZsUFFJMTJIbmptVGJybzFVNDdDRjlEb1FLQ25NcEdvSzNyM09Lc29LOTVjWmZxeHg3X2VBUE40WkQwblF1cGpQQ0NiNklMZ1RCU0tRUW9rZ29vdmNGSG95NA?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-25T03:06:54.000Z",
+      "excerpt": "台湾粉丝热情邀请《逐玉》主演入岛交流国台办：两岸青年双向奔赴最生动体现- 中国日报网 China Daily 台媒关注张凌赫田曦薇网络直播 国台办回应 新浪财经_金融信息服务商 评论：台湾陆剧迷值得一场线下的粉丝见面会 Sohu 台湾粉丝热情邀请《逐玉》主演入岛交流，国台办：这是两岸青年双向奔赴最生动体现 ThePaper.cn 张凌赫再谈心愿称“想去台湾走一走、吃一吃”，台湾粉丝热情敲碗 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.401067
+    },
+    {
+      "id": "88f0013f2cc6a63a",
+      "title": "会“拐弯”的指路牌，越多越好",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737440.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-25T03:53:01.000Z",
+      "excerpt": "会“拐弯”的指路牌，越多越好(民生观)",
+      "section": "cn-life",
+      "rankScore": 0.817506
+    },
+    {
+      "id": "5bea4b55a1ab8c32",
+      "title": "央视CCTV-10专题报道临沂科技职业学院就业育人工作",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42T2tqZzNsNlYxY2dFUzN0SzlWb3N1S3QzS0xLR19lcW5HYy1hQmk0Z2pYazZlcmtNS3AwZnRQbGNDMkJ6UTZIT0x4TmcwOHQyamhCb2VuWHpjMlFVdUVYSDhWSVUzZFg3ZnVVeA?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-25T04:35:47.000Z",
+      "excerpt": "央视CCTV-10专题报道临沂科技职业学院就业育人工作 鲁网",
+      "section": "cn-life",
+      "rankScore": 0.623821
+    },
+    {
+      "id": "fc12846cbed531e2",
+      "title": "贾林·努尔哈米提到伊犁州应急管理局调研并听取有关单位工作汇报时强调以“时时放心不下”的责任感抓实抓细安全工作",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ub0xOUHlUU0J5SmcyLTg5cUJnM2NKRFBZOVhhTVdoOC1hc2ZnSUdFNTNUQzJjb2xJRTNVTUtENXVnSVp2M0ZLYUFfU0ZvdFV5R3lJeDRZZVBtRGQ1UWx6bFZZTFZjSmhVQkVueG1ZTQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-25T03:53:42.000Z",
+      "excerpt": "贾林·努尔哈米提到伊犁州应急管理局调研并听取有关单位工作汇报时强调以“时时放心不下”的责任感抓实抓细安全工作 伊犁日报",
+      "section": "cn-life",
+      "rankScore": 0.6133
+    },
+    {
+      "id": "d701144b0a44aae1",
+      "title": "第4届中西医结合妇科盆底疾病及生殖整形学习班在京举办",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Uc2MzbktEalNqUi1VZDRXNmU3emJwZ2ZMLUpwUVhlYXZVYWtOeHdFMGlpUE1lbENlSzZiRGplRnVjaFRaSEVtN3lOQWlGdGhka2VXeTNucC1DcVppLTJmaDBYckpJcnBpY3lSUDI5SjVna2kwam8wQmNBcWU?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-25T04:23:34.000Z",
+      "excerpt": "第4届中西医结合妇科盆底疾病及生殖整形学习班在京举办 北京市卫生健康委员会",
+      "section": "cn-life",
+      "rankScore": 0.551793
+    },
+    {
+      "id": "0a04f6482648cd42",
+      "title": "偏肺病毒一发现就是肺实变？这个比例家长要知道 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTE2UXVWbnJ0bXBvakJYemlsWFpNbzNPazlKLThrc2pVWXlYd25FUFBEV3lpMHhRcDlLVHdsTnhmUURMMGJjVkZScHhaZXdXOGdXbm9GZjlPTUc3emkzaDVOeG5NMzl0TVQ3dDJnMEVFeGhWTFl4WFhqUDBMSFQ0ZS0tdmJILThLRDk0dA?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-25T04:27:13.000Z",
+      "excerpt": "偏肺病毒一发现就是肺实变？这个比例家长要知道 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.483528
+    },
+    {
+      "id": "9bb7635b7c708ad4",
+      "title": "霍林郭勒：集中攻坚重点食品领域筑牢食品安全防线 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFlBU29uSlo5a0R5VmQ4bzBuQUtDMmhpZG4xa3VJQUUyc2NBLUtzSnRJNTM4V0pUR21pRlFqVVRiOUVKTG41OGFTTGhqM0VHWFI5YnRCWXpuSlJldFc2d1RvM2gzbldyeGtaTW9jbUxIeG15MlFGb3h5dnJtV0ZKNWNWWURjZ21SRUFn?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-25T04:03:00.000Z",
+      "excerpt": "霍林郭勒：集中攻坚重点食品领域筑牢食品安全防线 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.47882
+    },
+    {
+      "id": "7bca6870f6e4c5c7",
+      "title": "漳州城市职业学院：以“有组织科研”为乡村振兴与产业升级注入新动能",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83aHJYUU5sZWU0S2stZXI3aTFVUEplTTVOUkgzcmJoOF9tQWxzM1FDQnlELUt6QmlfeUZWZXQtNlFnZVpZejkwdjNqVlY1ZU85c2NjYjVfN1BrY3Q5N01oX1RxbjdyNEVuMGY5WmwtVDFIdXFZSks2dQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-25T04:43:03.000Z",
+      "excerpt": "漳州城市职业学院：以“有组织科研”为乡村振兴与产业升级注入新动能 中国教育新闻网",
+      "section": "cn-life",
+      "rankScore": 0.417092
+    },
+    {
+      "id": "1cbde0d9acddf86c",
+      "title": "中国神舟二十四号成功发射 首名外籍航天员随行",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aRzJEX3piYXZ5c2h3UjUyYlgzSzRxRDFiVEtYZnBYOGhraURLVG1pUDNGbjVIQWQ2ZU1BOGliSFQ3TnczSWtLNUFSMlpOQmhIQmRvMjVpUmhiX245U3d6cVhLZTJPVDJHbHpr?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-25T01:08:53.000Z",
+      "excerpt": "中国神舟二十四号成功发射 首名外籍航天员随行 联合早报",
+      "section": "cn-life",
+      "rankScore": 0.317831
+    }
+  ],
+  "warnings": []
+}
