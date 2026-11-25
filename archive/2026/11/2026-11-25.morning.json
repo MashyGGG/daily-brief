@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-25",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-25T04:51:41.343Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "35d06ede33938ba7",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "source": "hn-front",
+      "publishedAt": "2026-11-25T01:19:26.000Z",
+      "score": 312,
+      "author": "E-Reverance",
+      "excerpt": "312 points · 137 comments · https://news.ycombinator.com/item?id=50637220",
+      "section": "tech",
+      "rankScore": 0.974962
+    },
+    {
+      "id": "6142258bbcc99bdb",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "source": "gh-trending",
+      "publishedAt": "2026-11-25T04:51:41.343Z",
+      "score": 158,
+      "excerpt": "The official NGINX Open Source repository.",
+      "section": "tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "96fa49fb01041dab",
+      "title": "Showing a MessageBox from kernel-mode",
+      "url": "https://vollragm.github.io/posts/kernel-message-box/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-25T04:23:25.000Z",
+      "author": "vollragm.github.io via juliethefoxcoon",
+      "section": "tech",
+      "rankScore": 0.674843
+    },
+    {
+      "id": "087a9556ed7e0055",
+      "title": "Idempotency when you don't control the other end",
+      "url": "https://stackoverflow.blog/2026/11/24/idempotency-when-you-don-t-control-the-other-end/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-11-24T17:01:51.000Z",
+      "author": "Lennart Svensson",
+      "section": "tech",
+      "rankScore": 0.477681
+    },
+    {
+      "id": "2691507f10a98549",
+      "title": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "source": "verge",
+      "publishedAt": "2026-11-24T23:59:29.000Z",
+      "author": "Ryan Waniata",
+      "excerpt": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you.",
+      "section": "tech",
+      "rankScore": 0.433182
+    },
+    {
+      "id": "cf9a9548cd43c21b",
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-24T22:50:11.000Z",
+      "author": "Stephen Clark",
+      "excerpt": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "section": "tech",
+      "rankScore": 0.419707
+    },
+    {
+      "id": "c34128e496e063e7",
+      "title": "v2.1.332",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
+      "source": "anthropic",
+      "publishedAt": "2026-11-25T01:32:14.000Z",
+      "author": "claude-code-publisher[bot]",
+      "excerpt": "What's changed Added skills from MCP servers (beta). They show as server:skill in the / menu; other skills keep their names Added a PreSkillShellCommand hook event that can refuse a skill or command's inline shell commands as it loads; on 2.1.331 and older, a settings file naming it opens a dialog…",
+      "section": "ai",
+      "rankScore": 0.805745
+    },
+    {
+      "id": "a2abdc112c3e7d49",
+      "title": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-24T23:02:07.000Z",
+      "excerpt": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk.",
+      "section": "ai",
+      "rankScore": 0.723476
+    },
+    {
+      "id": "0a05d830840d1075",
+      "title": "凌晨 2 点起来改 bug，有点崩溃",
+      "url": "https://www.v2ex.com/t/1259637",
+      "source": "v2ex",
+      "publishedAt": "2026-11-25T02:23:40.000Z",
+      "score": 26,
+      "author": "PeanutMi",
+      "excerpt": "事情起因是写的代码质量不高出现告警，凌晨 2 点被拉起来改代码 可能后续还会复盘什么，搞得压力有点大 想问大家都是这样的吗，想考公了",
+      "section": "cn-tech",
+      "rankScore": 0.832994
+    },
+    {
+      "id": "5226e6b4489269e7",
+      "title": "AI进厂，先革企业的命",
+      "url": "https://www.36kr.com/p/4084571385796480",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-25T04:10:31.000Z",
+      "author": "机器最前线",
+      "excerpt": "过去两年，资本市场为AI买单看重的是技术想象力与算力规模；但如今，二级市场的估值逻辑正在回归商业本质——盈利能力，成了衡量AI巨头的新标尺。 作为印证，此前Anthropic正式上市，发行价高达83美元，首日涨幅达17%。可在随后的两个交易日，Anthropic的股价连续回落。即便在此期间爆出了Fable证明黎曼猜想的轰动性消息，也未能扭转其在二级市场的颓势。显然，市场并没有把技术突破和未来的盈利能力划上等号。 那么，这家手握全球顶尖大模型的公司，接下来会将盈利模式的方向锚定在何处？透过Anthropic的招股说明书，我们或许能一探究竟。",
+      "section": "cn-tech",
+      "rankScore": 0.619707
+    },
+    {
+      "id": "f2c30779b6a9cc40",
+      "title": "AI 时代，技术大会是否还需要门槛？",
+      "url": "https://www.oschina.net/news/503797",
+      "source": "oschina",
+      "publishedAt": "2026-11-25T03:41:50.000Z",
+      "excerpt": "“GOTC 办了五年，这是现场第一次出现‘10 后’。” GOTC，the Global Open-source Technology Conference，是一年一度的全球开源技术峰会。开源中国创新生态负责人李晨，作为 GOTC 2026 的开场主持人，在主舞台上发出了这句感慨。 今年的 GOTC 相比往届做出了极大的改变，取消传统的主论坛+分论坛，取而代之的是在现场搭...",
+      "section": "cn-tech",
+      "rankScore": 0.612536
+    },
+    {
+      "id": "84eca7169f31ffe0",
+      "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+      "url": "https://sspai.com/post/118791",
+      "source": "sspai",
+      "publishedAt": "2026-11-25T03:07:41.000Z",
+      "author": "随便好啦",
+      "excerpt": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+      "section": "cn-tech",
+      "rankScore": 0.536888
+    },
+    {
+      "id": "31abe689e424aa7d",
+      "title": "基因工程烟草能用于高效合成抗癌药",
+      "url": "https://www.solidot.org/story?sid=85981",
+      "source": "solidot",
+      "publishedAt": "2026-11-24T14:53:56.000Z",
+      "excerpt": "紫杉醇（paclitaxel）是临床上应用最广泛的化疗药物之一，被大量用于治疗乳腺癌、卵巢癌和肺癌等多种恶性肿瘤。然而这种救命药最初提取自太平洋红豆杉的树皮，天然含量极低。科学家正在尝试把红豆杉合成紫杉醇的基因全部搬到生长迅速的其他植物或微生物中，像酿酒或种庄稼一样，低成本、可持续地批量生产紫杉醇。一项研究在本氏烟草（Nicotiana benthamiana）中首次完整重构并验证了紫杉醇的从头生物合成途径，使工程烟草中的紫杉醇产量飙升 500 倍以上，达到与天然红豆杉树皮相当的水平。",
+      "section": "cn-tech",
+      "rankScore": 0.514019
+    },
+    {
+      "id": "c382abab83d5c3a1",
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-24T13:28:26.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication.",
+      "section": "security",
+      "rankScore": 0.44354
+    },
+    {
+      "id": "79a6afb012e7ae14",
+      "title": "Danfoss AK-SM 8xxA Series",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1…",
+      "section": "security",
+      "rankScore": 0.418975
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
