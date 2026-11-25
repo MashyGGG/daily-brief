@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-25",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-25T21:37:14.504Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 15,
+  "items": [
+    {
+      "id": "a67869023bc1a466",
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "hn-front",
+      "publishedAt": "2026-11-25T17:18:26.000Z",
+      "score": 803,
+      "author": "lxhrstn",
+      "excerpt": "803 points · 332 comments · https://news.ycombinator.com/item?id=50644817",
+      "section": "tech",
+      "rankScore": 1.012109
+    },
+    {
+      "id": "28f3c59e008c21e0",
+      "title": "mockitdown examples - user-interface mockup language like SwiftUI",
+      "url": "https://bbogovich.github.io/mockitdown/demos/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-25T20:46:55.000Z",
+      "author": "bbogovich.github.io via colindean",
+      "section": "tech",
+      "rankScore": 0.659135
+    },
+    {
+      "id": "8fdbd75d457060d2",
+      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+      "source": "pragmatic-engineer",
+      "publishedAt": "2026-11-25T17:31:32.000Z",
+      "author": "Gergely Orosz",
+      "excerpt": "Katelyn Lesse explains how Anthropic rewrote Claude’s API in Rust and how AI agents are changing engineering at the company.",
+      "section": "tech",
+      "rankScore": 0.641296
+    },
+    {
+      "id": "7ec87540952efd60",
+      "title": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
+      "url": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "author": "Sergio De Simone",
+      "excerpt": "Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action (VLA) model designed to improve robots' dexterity, reliability, and learning speed, while enabling safer operation in unstructured real-world environments. By Sergio De Simone",
+      "section": "tech",
+      "rankScore": 0.610579
+    },
+    {
+      "id": "b44b970cb226fefb",
+      "title": "When AI Writes the Code, What Counts as Evidence?",
+      "url": "https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/",
+      "source": "stackoverflow-blog",
+      "publishedAt": "2026-11-25T15:59:41.000Z",
+      "author": "Elliot Gardiner",
+      "section": "tech",
+      "rankScore": 0.512295
+    },
+    {
+      "id": "5635fc03a5e50ab6",
+      "title": "RSS Club: Preview Art-Directed Scrollytelling Article",
+      "url": "https://css-tricks.com/rss-club-preview-art-directed-scrollytelling-article/",
+      "source": "css-tricks",
+      "publishedAt": "2026-11-25T15:32:42.000Z",
+      "author": "Geoff Graham",
+      "excerpt": "Hey folks! I’m just so dang excited about this little project I’m working on with long-time author Lee Meyer that I had to share it with you before it goes out. We’re going full 2013-meets-2026 with an art-directed piece that …",
+      "section": "tech",
+      "rankScore": 0.473768
+    },
+    {
+      "id": "9a2732c1601e6917",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "huggingface",
+      "publishedAt": "2026-11-25T18:52:55.000Z",
+      "section": "ai",
+      "rankScore": 0.699469
+    },
+    {
+      "id": "b60b8846e88ea62b",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "huggingface",
+      "publishedAt": "2026-11-25T10:22:09.000Z",
+      "section": "ai",
+      "rankScore": 0.425844
+    },
+    {
+      "id": "56ef65276b1bf9b6",
+      "title": "AMD 联合中科慧灵完成人形机器人端侧 AI 验证，探索“大小脑”双处理器架构",
+      "url": "https://www.infoq.cn/article/stLpgV1kNHuvr21qRH9x?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-25T19:11:08.000Z",
+      "author": "李冬梅",
+      "section": "cn-tech",
+      "rankScore": 0.630425
+    },
+    {
+      "id": "6ee0307c9ca692aa",
+      "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音",
+      "url": "https://www.solidot.org/story?sid=85993",
+      "source": "solidot",
+      "publishedAt": "2026-11-25T15:54:33.000Z",
+      "excerpt": "EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾长期担任 BBC Sport 首席解说员，也曾为 EA 足球游戏解说。在其遗孀和儿子的许可下，EA 利用其过去的录音资料与生成式 AI 技术合成了他的声音。该内容将于 11 月 26 日上线《EA Sports FC 27》。EA 向 Motson 的家人支付了费用以获得使用其形象及重现其声音的权利，但未透露具体财务条款。",
+      "section": "cn-tech",
+      "rankScore": 0.590495
+    },
+    {
+      "id": "b5a3efbb1f5e4fa4",
+      "title": "目前还有哪些好用的中转站",
+      "url": "https://www.v2ex.com/t/1259770",
+      "source": "v2ex",
+      "publishedAt": "2026-11-25T09:02:53.000Z",
+      "score": 18,
+      "author": "samhan",
+      "section": "cn-tech",
+      "rankScore": 0.542954
+    },
+    {
+      "id": "2f0bc69bb879cc11",
+      "title": "AI炒股新玩法，盯上3000万散户，提前24小时预测交易行为",
+      "url": "https://www.36kr.com/p/4085120459172228",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-25T13:08:03.000Z",
+      "author": "硅基观察Pro",
+      "excerpt": "谁能想到，在金融市场上，AI最先研究透的可能不是市场，而是散户。 最近，以色列AI创业公司42AI正式结束隐身研发状态，并披露了6250万美元的种子轮融资。 这家公司的生意很有意思。过去几十年，华尔街投入了大量的人力和资金，试图预测金融资产的涨跌。但42AI换了一个思路：既然行情这么难预测，能不能预测投资者的行为？ 比如，黄金突然大涨，哪些散户会忍不住追高，哪些散户会选择获利了结，又有多少人会加杠杆？ 42AI做的，就是把这些行为变成可以量化、预测的数据，再将预测结果卖给券商，帮助券商制定对冲策略。 目前，42AI已经与10家大型券商展开合作，涉及近3000万名投资者的客户数据。",
+      "section": "cn-tech",
+      "rankScore": 0.411775
+    },
+    {
+      "id": "232f210164d575b6",
+      "title": "一个只卖$1.99 的 iPhone Duo 小工具，Pivlu 估算月入约$10,390；但它不是可照抄的增长案例",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qcXRoSVkyWEJIaGk3aUMtUWs3WGFrUGdfQnJmbS1pa3FnMG5jQjVaM0ZqbEsxNFlUUUlwRTljZ0RPTzEtbmYtNkVnWHZDZW5KekNNOQ?oc=5",
+      "source": "juejin",
+      "publishedAt": "2026-11-25T15:30:58.000Z",
+      "excerpt": "一个只卖$1.99 的 iPhone Duo 小工具，Pivlu 估算月入约$10,390；但它不是可照抄的增长案例 稀土掘金",
+      "section": "cn-tech",
+      "rankScore": 0.367908
+    },
+    {
+      "id": "d28d3a7703f68c98",
+      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-25T12:30:08.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline.",
+      "section": "security",
+      "rankScore": 0.439472
+    },
+    {
+      "id": "5091cfccf39cb410",
+      "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+      "source": "cisa-advisories",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "author": "CISA",
+      "excerpt": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series Improper Input Validation Vulnerability…",
+      "section": "security",
+      "rankScore": 0.425123
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
