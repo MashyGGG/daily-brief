@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-26",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-26T04:19:51.065Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "f36913e437329ebf",
+      "title": "台灣「九合一」選舉：六都市長候選人簡介",
+      "url": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-26T04:11:59.000Z",
+      "excerpt": "這場選舉將影響藍綠政治版圖，也被視為2028年總統大選的前哨戰。BBC中文整理六都候選人的簡介。",
+      "section": "news",
+      "rankScore": 0.837377
+    },
+    {
+      "id": "f33156803e8a28a4",
+      "title": "中国人工智能雄心面临一个严峻问题：去哪里找钱",
+      "url": "https://cn.nytimes.com/business/20261126/china-ai-investment-spending/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-26T04:03:05.000Z",
+      "author": "黄瑞黎,LI YOU",
+      "excerpt": "中美企业都需要解决训练AI模型的成本飙升问题，但中国企业面临的是一个更为严峻的融资环境。科技巨头正疲于应对负现金流问题，投资者对人工智能的热情也已降温。 Qilai Shen for The New York Times 中国深圳繁忙的电子市场。",
+      "section": "news",
+      "rankScore": 0.764877
+    },
+    {
+      "id": "4f26e92d5b8d0202",
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-26T04:10:58.000Z",
+      "excerpt": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "section": "news",
+      "rankScore": 0.627779
+    },
+    {
+      "id": "5178bb632ca01ed6",
+      "title": "英伟达\"闹剧\"：习近平的\"稳定\"与特朗普的\"混乱\"之最新一章",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261125-%E8%8B%B1%E4%BC%9F%E8%BE%BE-%E9%97%B9%E5%89%A7-%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84-%E7%A8%B3%E5%AE%9A-%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84-%E6%B7%B7%E4%B9%B1-%E4%B9%8B%E6%9C%80%E6%96%B0%E4%B8%80%E7%AB%A0",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-25T21:45:17.000Z",
+      "author": "呢喃",
+      "excerpt": "本期世界报头版关注点如下：欧盟准备重新与普京开启对话、政党“不屈法国”领导人梅朗雄在左翼阵营的主导地位得到了强化、针对法国极右翼政党国民联盟的司法调查的跟进、法国前总统萨科齐相关司法案件进展、中国是如何获取英伟达芯片的、法国职业病情况汇总与跟踪等。我们在本期节目中，为您选取和中国相关的内容做综述。",
+      "section": "news",
+      "rankScore": 0.590398
+    },
+    {
+      "id": "43a786cf8be1b4fd",
+      "title": "Australian politics live: Liberals ‘tossing up whether to leave or remain’, Albanese says; Coalition warns energy prices to cause Christmas ‘pain’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-26T04:04:14.000Z",
+      "author": "Krishani Dhanji",
+      "excerpt": "Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will…",
+      "section": "news",
+      "rankScore": 0.556529
+    },
+    {
+      "id": "44e5411946e669c3",
+      "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-26T03:20:23.000Z",
+      "excerpt": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
+      "section": "news",
+      "rankScore": 0.546785
+    },
+    {
+      "id": "639a0726d6f61523",
+      "title": "Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis",
+      "url": "https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-26T00:11:25.000Z",
+      "author": "Isabella Kwai",
+      "excerpt": "Scrutiny has fallen on Dr. Jean Kaseya, the director general of the Africa Centers for Disease Control and Prevention, after reports of staff intimidation and mismanagement of funds.",
+      "section": "news",
+      "rankScore": 0.504792
+    },
+    {
+      "id": "343af50ec3fbd7e4",
+      "title": "Early review of Disney’s ABC station licences blocked in blow to Trump",
+      "url": "https://www.ft.com/content/99acbf19-3a6f-4b4c-aa8c-77b8b7edb5e9?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-26T04:10:42.000Z",
+      "excerpt": "US judge Loren AliKhan wrote that broadcast regulator’s chair had ‘taken President Trump’s rhetoric as his marching orders’",
+      "section": "news",
+      "rankScore": 0.488221
+    },
+    {
+      "id": "6a793f6ab8c0aae0",
+      "title": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree",
+      "url": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-26T03:42:51.000Z",
+      "author": "Zach Montague",
+      "excerpt": "Just before Democrats take over the state government, Trump administration and outgoing Republican officials in Texas ink legal settlement barring removal of wire for 30 years.",
+      "section": "news",
+      "rankScore": 0.482805
+    },
+    {
+      "id": "dc4018791f2cbad0",
+      "title": "日本将于12月在北海道启动部署远程导弹",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xdzk0VkhNRmxzaE9BQ0p2Z3JDek1HNDhrS2lxc0JnTUZySmdDVFloanN1eE1KMnZpTW11Ujczd3o1alNDa0lHRzZBamtrN0FjaWlreXBtS0tHdw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-26T03:56:00.000Z",
+      "excerpt": "日本将于12月在北海道启动部署远程导弹 上观新闻",
+      "section": "news",
+      "rankScore": 0.416025
+    },
+    {
+      "id": "32336e2a0903ef00",
+      "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+      "source": "npr-news",
+      "publishedAt": "2026-11-25T21:02:58.000Z",
+      "author": "Wynne Davis",
+      "excerpt": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+      "section": "news",
+      "rankScore": 0.40505
+    },
+    {
+      "id": "1ab33f4eef00530d",
+      "title": "阿富汗人经西巴尔干路线赴欧：旅程平均209天，花费逾7500欧元",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143267",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "excerpt": "国际移民组织最新数据显示，尽管经西巴尔干路线前往欧洲的阿富汗国民数量有所减少，但继续这段旅程的人们仍面临经济困难和不确定性，旅程平均耗时数月，花费高达数千欧元。",
+      "section": "news",
+      "rankScore": 0.385037
+    },
+    {
+      "id": "85770fd1c7bea2c1",
+      "title": "1-10月全国电力市场交易电量同比增长18.3%",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737981.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-26T03:14:30.000Z",
+      "excerpt": "中新网11月26日电 据国家能源局微信公众号消息，2026年10月，全国各电力交易机构完成交易电量6435亿千瓦时，同比增长14.1%。从交易范围看，省内交易电量5184亿千瓦时，同比增长18.5%；跨省跨区交易电量1251亿千瓦时，同比增长0.3%。从交易品种看，中长期交易电量5631亿千瓦时，现货交易电量804亿千瓦时。绿电交易电量339亿千瓦时，同比增长19.8%。电网企业市场化代理购电电量578亿千瓦时。",
+      "section": "cn-news",
+      "rankScore": 0.818216
+    },
+    {
+      "id": "e2b7f276bfb27977",
+      "title": "贵州长征文化旅游（集团）有限公司董事、副总经理赖基勇被查",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737985.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-26T03:20:12.000Z",
+      "excerpt": "中新网11月26日电 据遵义市纪委监委派驻市国资委纪检监察组、播州区纪委监委消息：贵州长征文化旅游(集团)有限公司董事、副总经理赖基勇涉嫌严重违纪违法，目前正接受遵义市纪委监委派驻市国资委纪检监察组纪律审查和播州区监委监察调查。",
+      "section": "cn-news",
+      "rankScore": 0.751773
+    },
+    {
+      "id": "4580ba818153f58a",
+      "title": "中国牵头制定！这一国际标准成30余个欧洲国家重要技术参考",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738006.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-26T03:59:00.000Z",
+      "excerpt": "记者今天从国家数据局了解到，由我国专家牵头制定的人工智能训练数据质量国际标准(ISO/IEC 5259-4:2024)已被欧洲相关机构采纳，成为30余个欧洲国家人工智能合规评估的重要技术参考，将应用于人工智能训练数据采集、标注、质量判断等环节。我国在人工智能国际规则制定中持续发挥重要作用。",
+      "section": "cn-news",
+      "rankScore": 0.624787
+    },
+    {
+      "id": "2229813b03caf780",
+      "title": "午间涨跌停股分析：53只涨停股、7只跌停股，水产概念活跃，好当家11天7板，中水渔业涨停",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlTHFjTWg4V2RoRW9CdGd3eXFQSU44ck9tSmRra1k4TnhQU0lsWUR2SE1fc2g0RlJXY2ZzWHlpNy01RWJfenJ2aWxJTC00UUt2UEo1c2Fn?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-26T03:41:58.000Z",
+      "excerpt": "午间涨跌停股分析：53只涨停股、7只跌停股，水产概念活跃，好当家11天7板，中水渔业涨停 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.620529
+    },
+    {
+      "id": "aa41e731a98a6600",
+      "title": "两分钟看懂中国柑橘产业，小橘子大生意",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnYnRHeXBrQXE2NXRYb3U0WktocUJFMGItdTQtaC1LWFl2cW5qZG9YTTRWamdkMEVZdEFzNENmYS1LdGQtY2lVUkt0Q0dvZFJnS3luRW9WVm05b3A5NnpTNw?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-26T03:00:07.000Z",
+      "excerpt": "两分钟看懂中国柑橘产业，小橘子大生意",
+      "section": "cn-news",
+      "rankScore": 0.610066
+    },
+    {
+      "id": "f62d7ff2f14c1ab0",
+      "title": "中國快時尚希音Q3營收年減5.9% 歐洲收入承壓",
+      "url": "https://www.cna.com.tw/news/acn/202611260066.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-26T03:28:12.000Z",
+      "excerpt": "（中央社記者李雅雯上海26日電）中國快時尚希音（Shein）第3季營收年減5.9%。營收下滑主要受到歐盟取消小額包裹進口關稅豁免政策調整影響，希音第3季來自歐洲淨收入年減27.6%。",
+      "section": "cn-news",
+      "rankScore": 0.548522
+    },
+    {
+      "id": "59fc9f90c7a629d0",
+      "title": "V12次列车承接“英雄列车”品牌开启新旅程 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXRGU2Y1ZXR0VU0wbTJzNmxubUdYUG8wVkpvREZfY25xeDc4YnRkZnpZeldqUV8xSXRIdlJYLUNUc3NCUW1vcmdiU2cyM0wwNU9VMGE1Rzd1SHFIR0xGVzZzb05iWElXTTZtY1FBcEI4R21hUEtFTF9sWlVmaGV5SEZDaXBNZ2d1em5TTg?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-26T02:43:05.000Z",
+      "excerpt": "V12次列车承接“英雄列车”品牌开启新旅程 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.538496
+    },
+    {
+      "id": "3878abc200735264",
+      "title": "From AI models to football: how China plans to expand defence education by 2030",
+      "url": "https://www.scmp.com/news/china/politics/article/3375850/ai-models-football-how-china-plans-expand-defence-education-2030",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-26T04:00:20.000Z",
+      "author": "William Zheng",
+      "excerpt": "Gig economy workers, intervillage sports contests and students across China are among targets for Beijing’s new five-year blueprint for national defence education, which was released on Wednesday and will be in place until 2030.",
+      "section": "cn-news",
+      "rankScore": 0.486205
+    },
+    {
+      "id": "1dc1eb39874a7a12",
+      "title": "小米三季报：手机开始高端化，汽车还没走出亏损",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56cnlwQWZqdXdoZkQ1S0VZNzVnWVhoUF9hcVRuNlBkYVg1ZXZxTHZWWVMxX2ktX1dyNFBTUzBuYkxLWHQ1cmNrTnJnWlU?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-26T03:02:00.000Z",
+      "excerpt": "小米三季报：手机开始高端化，汽车还没走出亏损 钛媒体 小米要不要豪赌？ 手机新浪网 小米汽车三季度收入下滑近两成，快速扩张后直面“成熟经营”考题 观察者网 硬件公司遇上“最难的一个季度”，但苦日子还没到头 Sohu 小米三季度调整后净利下滑近57%：AI仍处于大规模投入期，汽车出海有序推进 ThePaper.cn",
+      "section": "cn-news",
+      "rankScore": 0.474862
+    },
+    {
+      "id": "3309c89046586f01",
+      "title": "董路坚持留下赵松源值不值？国少锋线答案与青训留人真相一文看懂",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yUXFidVp3alN0emZMcHZhREVMS1UtUGtyWmRiZU1RQWlwLS1jZXNjZ3V2Y3BPd2k4Qk9maVBxV2lUSXNFV1N1WHFTaFg4VF9MdXR1ZmU5U2hmT1VITUxhNTNKVExpcDdqUVp3Y1hTMWxMU2phcnYw?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-26T04:02:15.000Z",
+      "excerpt": "董路坚持留下赵松源值不值？国少锋线答案与青训留人真相一文看懂 手机新浪网 记者手记：爆火的赵松源笔记，让“幕后”的改变被看见 新华网 中国足球“保守得最好的秘密”，藏在一个17岁高中生身上 新浪财经_金融信息服务商 国际足联官网发文介绍中国U17男足小将赵松源，晒出其笔记 ThePaper.cn [流言板]媒体人：山东泰山和北京国安都在接触国足U17前锋赵松源 虎扑体育网",
+      "section": "cn-news",
+      "rankScore": 0.417066
+    },
+    {
+      "id": "2d7f1e9dd2283143",
+      "title": "从雪域高原来到山城 西藏芒康青少年组团来渝 “走亲”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738002.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-26T03:48:43.000Z",
+      "excerpt": "中新网重庆11月26日电 (梁钦卿)渝芒携手赴山城，石榴花开少年行。“渝芒走亲·山水相连”2026年芒康青少年走进重庆研学实践“三交”(交往、交流、交融)活动25日在重庆市两江新区龙兴实验小学校启动，来自西藏芒康的近40名青少年开启山城研学实践之旅。",
+      "section": "cn-life",
+      "rankScore": 0.829622
+    },
+    {
+      "id": "5809b3217418a8ad",
+      "title": "时光海岸炸场预警 揽佬开麦，《八方来财》",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GUGg0UHlDMzhvdXFQQlpzVzg1N3lQQm5QdVdKYmJGdVh1VTdrUnJFRmVFMUwxNk9yY1RzNHZfc3FMNk53ZDZnUXVBOTlfWWpxQjBNVHpXUkNtaGpkSUtZaQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-26T04:09:18.000Z",
+      "excerpt": "时光海岸炸场预警 揽佬开麦，《八方来财》 Jiemian.com",
+      "section": "cn-life",
+      "rankScore": 0.627362
+    },
+    {
+      "id": "7feedf7ecda953a1",
+      "title": "从“排队半小时”到“刷脸两秒钟”——利川市聚焦医保领域群腐集中整治见闻",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yemdzWUFkZkRPV3ZwMHFFRFBrNVJwV0tBYTZkQmh6T0cyVVFkSXNMWk1MOXg3TTc5Zng4SnVPbXN5VDhZcjJveWdsWTRmTGRRVndOM3prS3lOLVMwRENRNDg2M056WjF1cFE?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-26T03:55:29.000Z",
+      "excerpt": "从“排队半小时”到“刷脸两秒钟”——利川市聚焦医保领域群腐集中整治见闻 中华网",
+      "section": "cn-life",
+      "rankScore": 0.623908
+    },
+    {
+      "id": "7c5a7721c891b474",
+      "title": "奉贤光明村盘活乡村治理的“一池春水”_媒体报道",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWN5S1pCSmZyQ1UwTWdzMk51NURTa1JlVF9DWkV4aHNBcjlDSnpHQ0FsVndDS2NqNlAydF9ldW5LZW1vVDEtWUJ1VGlTM04xc0hRUmhzQWp0ZzJxc2RCM1d0U3FPcGJzRDBYc3ZfV2RNbEtzWGZJeEFQX1dMSXhQWQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-26T03:58:00.000Z",
+      "excerpt": "奉贤光明村盘活乡村治理的“一池春水”_媒体报道 上海市农业农村委员会",
+      "section": "cn-life",
+      "rankScore": 0.555144
+    },
+    {
+      "id": "665f36aa62273836",
+      "title": "处方 “跑” 遍山乡 用药近在身旁—— 咸丰县以“双中心”建设深化基层药品保供改革试点",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01amZJLXY4WlRPVjl4aTQzZjB5U0MzaUoyeVdxY1A3b2RfWC1VWDdxR3hBcDNfeWQ1WDRBdWxHelFIZFdPMnhwMGhtU0RQOGp5bk1VWjRJTDNOVFZYT2o3bzBNU0g5UEFVZHc?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-26T04:01:41.000Z",
+      "excerpt": "处方 “跑” 遍山乡 用药近在身旁—— 咸丰县以“双中心”建设深化基层药品保供改革试点 中华网",
+      "section": "cn-life",
+      "rankScore": 0.486467
+    },
+    {
+      "id": "b30980184b0eaa66",
+      "title": "强强联合，守护危重患者生命线！山东省立第三医院脓毒症中心、ECMO中心正式成立 - ByDrug",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04SDZSTGNJeUgwNUs2eTdoekxCZ05qM25jZVgtaXo5U0xEZUh4ckIwWXlqMEZJZG9wYUVoaGo0a2NGVlpBQy1KY2FfV0ZCcUhIaXJUdWYxcWwxY3E4MjBOSHFKUnE2bFk4bThCXzY0c2NSOTROQ3IxVURxeU1CZw?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-26T03:23:26.000Z",
+      "excerpt": "强强联合，守护危重患者生命线！山东省立第三医院脓毒症中心、ECMO中心正式成立 ByDrug",
+      "section": "cn-life",
+      "rankScore": 0.47903
+    },
+    {
+      "id": "154fe2f697eca6d6",
+      "title": "任志锋等 | 把伟大长征精神全面融入学校思想政治教育",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82NFZ5Tm1xUy1oREphdmw5NktMU2lndWhZZ25Ka3VVUlFweTNvTXEyLVMycENXSEt3bExZaVRSN1hKQWQ3aXBCNklpemJjNWhSbklzanUyQWR5TXFUb3pNcEE3OHozemVTcFZ5UDgxbWhzcVlO?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-26T03:52:59.000Z",
+      "excerpt": "任志锋等 | 把伟大长征精神全面融入学校思想政治教育 中国教育新闻网",
+      "section": "cn-life",
+      "rankScore": 0.415522
+    },
+    {
+      "id": "1d30c9807e06a80d",
+      "title": "开窗通风仍中毒，两人深夜送医！近期千万警惕",
+      "url": "https://www.chinanews.com.cn/life/2026/11-25/10737471.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-25T05:00:01.000Z",
+      "excerpt": "随着气温下降",
+      "section": "cn-life",
+      "rankScore": 0.311157
+    }
+  ],
+  "warnings": []
+}
