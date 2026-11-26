@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "date": "2026-11-26",
+  "scheduleId": "ai-drama",
+  "recipients": {
+    "me-mail": {
+      "status": "sent",
+      "at": "2026-11-26T18:58:50.068Z"
+    }
+  }
+}

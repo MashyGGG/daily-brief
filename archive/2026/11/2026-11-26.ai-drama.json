@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-26",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-26T18:58:50.068Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 5,
+  "items": [
+    {
+      "id": "4cf6f8411442fe7f",
+      "title": "阜博集团早盘涨超5% AI短剧持续抢占注意力阜博为红果独家版权服务商 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1F0SUxISTZ6Y09oN2NXTVlXN0ZqWkhrc1RtSnVTMHdadnZlbnJnT2UwMHFyRWo2cWFVakp4bU9yTTZVRjJlcEx2TTdDTHF0VTVwckl4UjFqX04zZXB3TXJ2dUQ4dUk2clpxeFRIaUtnOTV1VVljNnZSNnFRVUkxcHVqeWJfelJXNFIxNVhJbDR4TmJLQk9rTktrbllYeDhPTmxxR0tpN1M5OXRsMkE?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-26T11:03:45.000Z",
+      "excerpt": "阜博集团早盘涨超5% AI短剧持续抢占注意力阜博为红果独家版权服务商 新浪财经_金融信息服务商",
+      "section": "drama-news",
+      "rankScore": 0.634016,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "06728a0f7dabb9a2",
+      "title": "AI filmmaking masterclass in Ras Al Khaimah costs AED 250 - Tbreak UAE",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUREV0SWJ4Z0FTRVZIaW1NZzJoZWY5eFIzTDBaWk56Qk5IZnh0V3E3akpKUjJ6cWw4Rk5hNDBsN3FBNURKNFBqYU1JcUNENjl2NWxrTFM3eWFUN0xqRWRqTkhDTFBlZFRrUlpDQg?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-26T09:42:00.000Z",
+      "excerpt": "AI filmmaking masterclass in Ras Al Khaimah costs AED 250 Tbreak UAE",
+      "section": "drama-news",
+      "rankScore": 0.622662,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "aa695437e28e702b",
+      "title": "重庆小伙出海卖AI短剧，一部剧狂赚6600万",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03YzhpQnNwOTZMaUp1NEF2MTI1Y3pISDBrdGJxeHBlN0RvOW5lTnFwci00VzE2RDg3MVpjMmtSTzAtX1FnRndlby05aF85czJsemFRdy1wYk9YR3ZFbGoydw?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-26T09:14:00.000Z",
+      "excerpt": "重庆小伙出海卖AI短剧，一部剧狂赚6600万 电商派",
+      "section": "drama-news",
+      "rankScore": 0.618773,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "d4386b0afa620d49",
+      "title": "AI短剧走红引欧美歌手致谢创作者回应传闻",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YTEItMTgtc2RRamE2NGd1dGxTb3o3WW1lRTFxd2dWRjA5S1NHVVdjMnRfeFBIQ2xsa19rTUVuOVdLc2Y1WnZwakt1OTY?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-26T05:34:16.000Z",
+      "excerpt": "AI短剧走红引欧美歌手致谢创作者回应传闻 www.itsdw.cn",
+      "section": "drama-news",
+      "rankScore": 0.588254,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "897fc56f1a84c534",
+      "title": "海看股份11月25日回应AI漫剧话题：已与红果抖音签框架协议，业务营收占比较小_公司新闻",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aLVc2a200UjE3ei1ISXZ6RXB6am5fd0xZZkFQOW5oMTNpSTltMFBqS0ZsT0xZZlpHMDFvU2lZSHZyTHJwN3RsYWFxSS1UY1g2djlYeTFnd1o4LXg3Vkl0UDF3?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-25T23:09:33.000Z",
+      "excerpt": "海看股份11月25日回应AI漫剧话题：已与红果抖音签框架协议，业务营收占比较小_公司新闻 证券之星",
+      "section": "drama-news",
+      "rankScore": 0.3476343,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    }
+  ],
+  "warnings": [
+    "source \"drama-en-tutorial\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)",
+    "AI短剧漫剧 · 国内外资讯与案例：本期 5/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 0/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "分镜先于精细画面",
+      "url": "https://runway.com/resources/ai-storyboard",
+      "task": "写一个原创小故事，用粗图排出 6 个分镜。",
+      "doneWhen": "不依赖旁人解释也能顺序看懂故事。"
+    }
+  }
+}
