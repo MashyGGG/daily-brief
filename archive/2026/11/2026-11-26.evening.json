@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-26",
+  "slot": "evening",
+  "scheduleId": "evening",
+  "generatedAt": "2026-11-26T21:26:25.114Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 14,
+  "itemCount": 13,
+  "items": [
+    {
+      "id": "f7bae5a0b6788bc0",
+      "title": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "source": "hn-front",
+      "publishedAt": "2026-11-26T10:11:01.000Z",
+      "score": 415,
+      "author": "saikatsg",
+      "excerpt": "415 points · 229 comments · https://news.ycombinator.com/item?id=50653667",
+      "section": "tech",
+      "rankScore": 0.769056
+    },
+    {
+      "id": "fb5840117d8000bf",
+      "title": "AMD Specific Patches for Llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "source": "hn-front",
+      "publishedAt": "2026-11-26T17:11:29.000Z",
+      "score": 198,
+      "author": "julianlam",
+      "excerpt": "198 points · 52 comments · https://news.ycombinator.com/item?id=50657265",
+      "section": "tech",
+      "rankScore": 0.739323
+    },
+    {
+      "id": "c96759b5696b63ad",
+      "title": "Ambiguous Errors Are the Mind Killer",
+      "url": "https://amit.prasad.me/blog/ambiguous-errors",
+      "source": "lobsters",
+      "publishedAt": "2026-11-26T21:23:06.000Z",
+      "author": "amit.prasad.me by amit",
+      "section": "tech",
+      "rankScore": 0.680959
+    },
+    {
+      "id": "8ac5855fcedeb875",
+      "title": "The Life of a Database Row: What Really Happens Behind the Scenes",
+      "url": "https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really",
+      "source": "bytebytego",
+      "publishedAt": "2026-11-26T16:30:34.000Z",
+      "author": "ByteByteGo",
+      "excerpt": "In this article, we’ll look at the life of a row in the database with respect to these operations.",
+      "section": "tech",
+      "rankScore": 0.61503
+    },
+    {
+      "id": "89aeda70b58df072",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "source": "verge",
+      "publishedAt": "2026-11-26T21:00:00.000Z",
+      "author": "Andrew Webster",
+      "excerpt": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games.",
+      "section": "tech",
+      "rankScore": 0.481194
+    },
+    {
+      "id": "849f21e29c2ae90c",
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-26T18:00:29.000Z",
+      "author": "Jonathan M. Gitlin",
+      "excerpt": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+      "section": "tech",
+      "rankScore": 0.421355
+    },
+    {
+      "id": "07186003f146da44",
+      "title": "从模仿到自我纠错：Keeta客服模型的RSI实践",
+      "url": "https://tech.meituan.com/2026/11/26/Agent-RSI-practice-in-meituan.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-26T21:26:25.114Z",
+      "excerpt": "一个客服模型，能不能越用越聪明？递归自我改进（RSI）的难点不在“学”，而在“判”：错没错、错在谁、按哪一版规则算错。我们团队的闭环是：上线服务 → 巡检找错 → 归因定责 → 构造修复 → 在线自蒸馏（OPSD）→ 评估上线，周而复始。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "37190fec5883dfdd",
+      "title": "你们用 FRP 时最怕遇到什么问题？我在做一个平台，想听真话",
+      "url": "https://www.v2ex.com/t/1260171",
+      "source": "v2ex",
+      "publishedAt": "2026-11-26T17:03:45.000Z",
+      "score": 8,
+      "author": "chenyu600",
+      "excerpt": "先交代身份：我在做 SpaceFrp，这篇有自荐成分，也确实想听大家的实际使用体验。 最近一直在改节点状态、隧道管理、Windows 客户端和流量规则。做的过程中发现，隧道能连上只是第一步；掉线后能不能及时发现、流量怎么算、免费额度有什么限制、客户端是否容易上手，都会影响长期使用。 想请教大家：你们主要用 FRP 做开发调试、远程桌面、NAS，还是长期运行服务？选服务时最在意什么？又有哪些问题会让你直接放弃一个平台？ 我做的是 SpaceFrp： https://frp.spacezs.cn/ 愿意体验的话，欢迎直接说哪里不好用；不打算使用也欢迎聊聊以前踩过的坑。我会认真看回复。",
+      "section": "cn-tech",
+      "rankScore": 0.637428
+    },
+    {
+      "id": "be32900e675a514b",
+      "title": "今天的老年人相比上一代人记忆力衰退放缓",
+      "url": "https://www.solidot.org/story?sid=86006",
+      "source": "solidot",
+      "publishedAt": "2026-11-26T15:58:59.000Z",
+      "excerpt": "今天的老年人相比上一代人认知衰退更慢记忆更好。一项针对 1910-1964 年间出生的 21.9 万人的研究发现，出生年份每向后推移十年，60 岁时的记忆力得分便会提高 10%。全世界很多国家的人口正在老龄化，患有痴呆症的人数也在上升。但过去四十年美国人任何年龄患痴呆症的个人风险下降了三分之二。研究人员推测，记忆力的提升可能得益于童年时期更好的教育、医疗保健和营养状况；而认知功能衰退速度的放缓，则可能受到人生后期多种因素的影响，例如心血管疾病和代谢性疾病治疗水平的改善。",
+      "section": "cn-tech",
+      "rankScore": 0.598486
+    },
+    {
+      "id": "5e356be519c677b9",
+      "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+      "url": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+      "source": "infoq-cn",
+      "publishedAt": "2026-11-26T15:35:51.000Z",
+      "author": "褚杏娟",
+      "section": "cn-tech",
+      "rankScore": 0.533063
+    },
+    {
+      "id": "b485d06d9ede2d96",
+      "title": "极客公园创新大会 2027 全议程公布！",
+      "url": "https://www.36kr.com/p/4086570563189384",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-26T13:24:39.000Z",
+      "author": "未来一氪",
+      "excerpt": "17 年， IF，永远是创新者的主场。 这一年，AI 的能力还在不断突破，工作、创作、商业，一件件被改写。 你笃定了多年的经验，正在被重新定价；你以为早已看懂的赛道，换个角度，结论可能完全不同。 这是一场价值的重估，也是今年的主题「Revaluation 价值，另有答案」想要回答的事。 可是重估之后，新的坐标在哪里？它又指向何方？ 这从来不是一个人、一个角度能回答的问题。 所以我们决定，请最关键的人，回答最关键的问题。 他们是在技术、产品、组织里一路向前的创业者，是在没有答案的地方，先走出了一步的人。 他们会把自己在价值重估中看到的新坐标、新指向，毫无保留地带到 IF 的现场。",
+      "section": "cn-tech",
+      "rankScore": 0.423528
+    },
+    {
+      "id": "c090cf4063ba5a0b",
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-26T19:39:57.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does.",
+      "section": "security",
+      "rankScore": 0.649301
+    },
+    {
+      "id": "e34a680d9bf36f04",
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-26T15:13:41.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025.",
+      "section": "security",
+      "rankScore": 0.522507
+    }
+  ],
+  "warnings": [
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
