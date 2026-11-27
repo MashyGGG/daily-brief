@@ -1,0 +1,74 @@
+{
+  "publishDate": "2026-11-27",
+  "lines": {
+    "daily": {
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "slot": "morning"
+        },
+        {
+          "date": "2026-11-27",
+          "slot": "evening"
+        }
+      ],
+      "itemCount": 29,
+      "itemIds": [
+        "11d8963c7c0287c5",
+        "8efecf50559cc104",
+        "e6a1c5a0df924760",
+        "9a8aba2045672bdd",
+        "7bd8ff906484063d",
+        "d13eaad6ce315444",
+        "543053478ac44faa",
+        "d806af87c188218f",
+        "9d08beb448f5ea89",
+        "ae8a831dcee5a32c",
+        "cef6dcd964882cb1",
+        "bdacdee75bef8e5e",
+        "2de6e562c28a096e",
+        "9f4852df91045ca2",
+        "42b78c8d34911a0c",
+        "86ba078eb4efba83",
+        "931f2e30bdff6055",
+        "185d1c30131d5ff5",
+        "295277a8a8994286",
+        "1e68989042e0635e",
+        "24c5aec13fa1e7cc",
+        "09bd2ba5540c9a69",
+        "d1a4ce60f6dc2476",
+        "6ad61248b3e0c09a",
+        "3e21aa95cece1104",
+        "5827cbef90fe7de3",
+        "6afa2e0363493d2f",
+        "4767baccc71a1996",
+        "58cf18f739877bc5"
+      ],
+      "contentHash": "83308dd5d2c4174f",
+      "targets": {
+        "notion-archive": {
+          "platform": "notion",
+          "status": "published",
+          "postId": "4259696e-9c08-8144-b8b8-f5469e6d7dca",
+          "url": "https://app.notion.com/p/2026-11-27-4259696e9c088144b8b8f5469e6d7dca",
+          "contentHash": "83308dd5d2c4174f",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-11-27T21:29:00.636Z",
+          "lastError": null
+        },
+        "juejin": {
+          "platform": "juejin",
+          "status": "draft",
+          "postId": "7712966444408897570",
+          "url": "https://juejin.cn/editor/drafts/7712966444408897570",
+          "contentHash": "83308dd5d2c4174f",
+          "attempts": 1,
+          "failStreak": 0,
+          "updatedAt": "2026-11-27T21:29:00.636Z",
+          "lastError": null
+        }
+      }
+    }
+  }
+}
