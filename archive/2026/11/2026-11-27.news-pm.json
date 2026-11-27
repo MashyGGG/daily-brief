@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-27",
+  "slot": "news-pm",
+  "scheduleId": "news-pm",
+  "generatedAt": "2026-11-27T19:54:38.403Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 13,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "9302e57ec8db62e9",
+      "title": "桑普：港裔台人参选限制多 暂难成气候",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE/20261127-%E6%A1%91%E6%99%AE-%E6%B8%AF%E8%A3%94%E5%8F%B0%E4%BA%BA%E5%8F%82%E9%80%89%E9%99%90%E5%88%B6%E5%A4%9A-%E6%9A%82%E9%9A%BE%E6%88%90%E6%B0%94%E5%80%99",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-27T18:12:05.000Z",
+      "author": "香港特约记者 麦燕庭",
+      "excerpt": "在2019年的反对修订逃犯条例运动之后，不少香港人移居台湾，而获得定居身份可以投票的，人数约有一万人，但这却未能令参选的港人数目大幅上升，以即将进行投票的九合一选举为例，只有两人是具有港人背景，与四年前的选举相若；与大陆配偶的参选人数节节上升，今年便有26名具陆配身份人士参选，比2022年的九合一选举上升37%。追求民主自由的香港人，为什么来了台湾之后，参选人数远较陆配为低？有什么困难？如何解决？",
+      "section": "news",
+      "rankScore": 0.647407
+    },
+    {
+      "id": "ac8670964858d223",
+      "title": "入侵乌克兰战争近五年，俄军损兵折将估计超过70万人",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261127-%E5%85%A5%E4%BE%B5%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E8%BF%91%E4%BA%94%E5%B9%B4%EF%BC%8C%E4%BF%84%E5%86%9B%E6%8D%9F%E5%85%B5%E6%8A%98%E5%B0%86%E4%BC%B0%E8%AE%A1%E8%B6%85%E8%BF%8770%E4%B8%87%E4%BA%BA",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-27T17:08:41.000Z",
+      "author": "瑞迪",
+      "excerpt": "两个黑客团体11月初成功侵入俄罗斯联邦统计局网络。一些独立媒体根据由此流出的官方统计数字估计，2022年至2026年9月底，俄军可能有超过70万人死于战场。克里姆林宫发言人25日在例行简报会上拒绝对这些数字发表评论。",
+      "section": "news",
+      "rankScore": 0.614894
+    },
+    {
+      "id": "2096aa954cb03475",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-27T18:42:50.000Z",
+      "excerpt": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "section": "news",
+      "rankScore": 0.596858
+    },
+    {
+      "id": "e7e0573866afea22",
+      "title": "Graham Thorpe’s widow takes legal action against NHS trust after inquest",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/27/graham-thorpe-widow-legal-action-against-nhs-trust-after-inquest",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-27T19:47:38.000Z",
+      "author": "Nadeem Badshah",
+      "excerpt": "Former England Test cricketer was diagnosed with anxiety and depression before he took his own life in 2024 The wife of Graham Thorpe, the former England cricketer who took his own life, has started legal proceedings against an NHS trust after an inquest identified “failings” in his mental health…",
+      "section": "news",
+      "rankScore": 0.557125
+    },
+    {
+      "id": "a682f2d52b13bc0f",
+      "title": "With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War",
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-27T18:01:19.000Z",
+      "author": "Ivan Nechepurenko",
+      "excerpt": "Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been constrained.",
+      "section": "news",
+      "rankScore": 0.513508
+    },
+    {
+      "id": "a798565d91cc948e",
+      "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+      "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-27T17:58:36.000Z",
+      "excerpt": "Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.",
+      "section": "news",
+      "rankScore": 0.512394
+    },
+    {
+      "id": "aaf56d962498a59c",
+      "title": "Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies",
+      "url": "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-27T19:43:58.000Z",
+      "author": "Benjamin Oreskes, Maya King and Dana Rubinstein",
+      "excerpt": "Ms. Stewart-Cousins, 76, served in the state senate for 20 years.",
+      "section": "news",
+      "rankScore": 0.486169
+    },
+    {
+      "id": "5752f343961d605e",
+      "title": "Trump’s Nvidia intervention has a cost for US stocks",
+      "url": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-27T18:26:25.000Z",
+      "excerpt": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
+      "section": "news",
+      "rankScore": 0.45833
+    },
+    {
+      "id": "553c4f7ae7f9b52c",
+      "title": "押注英偉達發展AI，亞洲在黃仁勳復職後前景如何？",
+      "url": "https://www.bbc.com/zhongwen/articles/cq62p0n4er0wo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-27T07:40:38.000Z",
+      "excerpt": "黃仁勳戲劇性地重返英偉達執行長職位，引發亞洲股市劇烈波動，也暴露出區內經濟體高度依賴AI產業及英偉達所帶來的風險。",
+      "section": "news",
+      "rankScore": 0.388304
+    },
+    {
+      "id": "97abee7b05c92637",
+      "title": "塞尔维亚议会最大党团总统候选人公布：认同欧洲价值观的化学教授",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03MjRPaHk1YjFmT1ZOSEI0b2ozQ3dqMHZfM3FYXzVjUnpLcGNmMVdmdDQtZkVMbjNNclBUZWM2ZXBSTFl0ZGtiUVItazU0T25Ub1lsOXZfMXhrbm54ZUlEdw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-27T16:39:38.000Z",
+      "excerpt": "塞尔维亚议会最大党团总统候选人公布：认同欧洲价值观的化学教授 东方财富",
+      "section": "news",
+      "rankScore": 0.359998
+    },
+    {
+      "id": "6db4c05af8013847",
+      "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+      "source": "npr-news",
+      "publishedAt": "2026-11-27T10:59:36.000Z",
+      "author": "NPR Staff",
+      "excerpt": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold the postponed Macy's Thanksgiving Day Parade.",
+      "section": "news",
+      "rankScore": 0.297934
+    },
+    {
+      "id": "243e33f2aa90c4be",
+      "title": "Putting survivors at the centre of gender-based violence services",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168885",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-27T12:00:00.000Z",
+      "excerpt": "Reaching out for help can be an enormous step for survivors of gender-based violence (GBV), and what happens after walking through the doors of a support service can shape the path towards recovery and safety",
+      "section": "news",
+      "rankScore": 0.273957
+    },
+    {
+      "id": "299000730cd7d239",
+      "title": "我国成功发射遥感五十号04星",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739061.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-27T13:29:11.000Z",
+      "excerpt": "中新网北京11月27日电 (马帅莎 李宸)北京时间11月27日21时05分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将遥感五十号04星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于国土普查、农作物估产和防灾减灾等领域。",
+      "section": "cn-news",
+      "rankScore": 0.602796
+    },
+    {
+      "id": "1d69cd5d71769331",
+      "title": "信长星当选中共江苏省委书记",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739090.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-27T14:48:46.000Z",
+      "excerpt": "中国共产党江苏省第十五届委员会第一次全体会议11月27日选举信长星为省委书记，刘小涛、范波为省委副书记，当选为省委常委的还有周红波、张文兵、胡立杰(女)、边学文、李耀光、陈忠伟、马士光、沈剑荣、敬健、吴庆文。",
+      "section": "cn-news",
+      "rankScore": 0.597456
+    },
+    {
+      "id": "7a2b59cb1d904421",
+      "title": "新雪季，冷资源释放“热”动能",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92RWcwSHNlRkF5dXc2WGZFSFBMRDBQNUFjaEE5dC11S2dyQUlfeVlnQzFlN0xBQnlqWXY5cWlKOU5HUEMwUElmMkZkOHF5T1MtZTBIeVEyNVdMWjhoeXNDcmNfVHRIZw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-27T18:42:09.000Z",
+      "excerpt": "新雪季，冷资源释放“热”动能 东方财富 雪场上线夜滑模式 冬日冰雪运动开启全天候精彩 央视网 热“雪”沸腾聚人气 “冰雪 ”玩法上“新”引爆冰雪消费热潮 上海热线 新雪季观察：短途滑雪兴起，阿普瑞风打通雪场与日常 ThePaper.cn 冰雪“热”潮里的中国：家门口的雪花成了老百姓的金饭碗 新浪财经_金融信息服务商",
+      "section": "cn-news",
+      "rankScore": 0.53026
+    },
+    {
+      "id": "01b710d70ea416fc",
+      "title": "大平调《文王访贤》再现文王敬贤典故，让稀有剧种“被看见”",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vcXAzSFlGajhzUEloN2p2Sl85VEhzeC0xR0N2ZEluZ2FOSmdEZ2pCRzFMREp5TEVfSHdRTDd4Sjl5R05jV0ZnLUxiUkNlWmNnX0hwRnBjSENCdEpObDhYYQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-27T16:15:07.000Z",
+      "excerpt": "大平调《文王访贤》再现文王敬贤典故，让稀有剧种“被看见”",
+      "section": "cn-news",
+      "rankScore": 0.528682
+    },
+    {
+      "id": "d32076213bd11620",
+      "title": "大智慧：撤回湘财股份换股吸收合并公司申请",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xVnd0eXNvbExNTUdSNWszMVBmNHpxMFRYaWx4ZndoQ2Y3ZmFpVi1JeVFjODNVYWdrN1VMdmEzcXM2TjdnbDdhZzRjd3NyQlE1SVFPdWwxZHU?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-27T14:18:41.000Z",
+      "excerpt": "大智慧：撤回湘财股份换股吸收合并公司申请 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.474943
+    },
+    {
+      "id": "7bc89dc365067163",
+      "title": "聚焦“人工智能+能源” 2026兴隆湖能源电力创新发展大会在蓉举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739072.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-27T13:57:23.000Z",
+      "excerpt": "中新网成都11月27日电 (单鹏)随着人工智能技术加速发展并与能源深度融合，能源电力行业正迎来新一轮技术变革。27日，由清华四川能源互联网研究院、四川省电力行业协会联合主办的2026兴隆湖能源电力创新发展大会在成都举行。",
+      "section": "cn-news",
+      "rankScore": 0.465112
+    },
+    {
+      "id": "9ef9bdba1f9138b3",
+      "title": "前10个月规模以上工业企业利润同比增长16.0% 全国工业生产总体平稳 新动能快速成长",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rS09GbS1ydmtfXzVNTUlmYlJxdWE1Q2Vyd1pvdGhPMm04cjQtZF83QjhtQUJnV1V2MmJMQkVETS1BTVdpQWVPXzgwNzJ3aHVJSHJLY0tzNVJhZFVGU0M4cmh5anVqUQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-27T17:44:29.000Z",
+      "excerpt": "前10个月规模以上工业企业利润同比增长16.0% 全国工业生产总体平稳 新动能快速成长 东方财富 10月规上工业企业利润增速持续回升，盈利改善逐渐扩散 新浪新闻_手机新浪网 支撑明显、引领凸显，增长16%！“数”读前10月规上工业企业利润- 中国日报网 China Daily 国家统计局：1-10月酒、饮料和精制茶制造业利润总额下降16.4% 中华网财经 2026年1—10月份全国规模以上工业企业利润增长16.0% 光明网",
+      "section": "cn-news",
+      "rankScore": 0.443277
+    },
+    {
+      "id": "c253f3fac6a34e90",
+      "title": "杨紫牛角帽造型出圈！粉丝追问紫色帽子去向",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YMWROTVBWTW5NeXV1TlZkTjFvSkRRM3RYRFdEakt4YUk2YmJ4dHI3TVVXRnM0b2o3NDZlTFE3MF9XRUNXek0zaVN6Z3Zrb0h4WTdMbGxvN3dDQktscHNQNDhNRFdIc1dfUUNmbFV2ZHRWbWM?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-27T18:12:19.000Z",
+      "excerpt": "杨紫牛角帽造型出圈！粉丝追问紫色帽子去向 新浪网 新浪网· 新浪网 倒计时2天！2026微博国际文化交流之夜将首度在港举行 紫荆网 2026微博国际文化交流之夜节目单出炉 紫荆网 张柏芝中文网官方微博 手机新浪网",
+      "section": "cn-news",
+      "rankScore": 0.388516
+    },
+    {
+      "id": "bb7886ca9389fc42",
+      "title": "How Xi’s party discipline playbook signals strict vetting ahead of the 2027 congress",
+      "url": "https://www.scmp.com/news/china/politics/article/3376004/how-xis-party-discipline-playbook-signals-strict-vetting-ahead-2027-congress",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-27T14:00:08.000Z",
+      "author": "Alcott Wei",
+      "excerpt": "China’s newly released supplementary reading for the fifth plenary session of the 20th Central Committee offers a clear window into the priorities that will shape next year’s 21st Communist Party congress.",
+      "section": "cn-news",
+      "rankScore": 0.362741
+    },
+    {
+      "id": "dd3d70db763e87fa",
+      "title": "中國整頓央企 國資委：合併精簡產能過剩業務",
+      "url": "https://www.cna.com.tw/news/acn/202611270203.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-27T09:56:12.000Z",
+      "excerpt": "（中央社記者李雅雯上海27日電）在貿易失衡疑慮聲中，中國國務院國資委黨委委員、副主任李鎮今天表示，央企要及時注意同質化競爭情況，合併精簡業務重疊、產能過剩、低價競爭的領域。",
+      "section": "cn-news",
+      "rankScore": 0.314486
+    },
+    {
+      "id": "37f50776802e2634",
+      "title": "E法同行 向上向海｜在上海，遇见网络法治的N种打开方式",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739069.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-27T13:56:39.000Z",
+      "excerpt": "中新网上海11月27日电(记者 崔艳燕)当数字技术重塑城市生活，网络法治也面临着新的时代命题。上海，正在用一系列鲜活实践交出自己的答卷。",
+      "section": "cn-life",
+      "rankScore": 0.619698
+    },
+    {
+      "id": "46382a08c97dffef",
+      "title": "江西省委民声通道办理情况通报 一批民生问题得到回复",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VR3pTdUJvd2V3YmUtejlTbExjN1BCb0RSVENhTDBEdVNyalJlZExnTV9BcGJhT0JURkRyNjJ4QTYxb0lycmgyUnN3?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-27T18:18:47.000Z",
+      "excerpt": "江西省委民声通道办理情况通报 一批民生问题得到回复 凤凰网江西",
+      "section": "cn-life",
+      "rankScore": 0.585758
+    },
+    {
+      "id": "116b343dc0fe4bc8",
+      "title": "应急广播服务防汛救灾助力全国转移安置55.5万余人",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuTXVhZHY3Wkw1X2ktSUtnZDY5MXkwYTBnZVp6cXVYVjI4V2Rwdm1OYXpuVDdPVm1TLWdwYmRNOEJEU05wSDdyWTJ1blR6ZWF6Y0ZfNFdVWmxBVjZjQzhlaXpyRmhmWFNCYWpLQ0p4NzRBN2hqLWRLRXdPSkdTUm8?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-27T16:35:43.000Z",
+      "excerpt": "应急广播服务防汛救灾助力全国转移安置55.5万余人 人民日报",
+      "section": "cn-life",
+      "rankScore": 0.538189
+    },
+    {
+      "id": "6d4d931a8a38ea75",
+      "title": "陈海波开展食品安全督导检查",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVZNYUhFUHJkWVFZRk9HSkN5T05kU1pGSEloTG0xMVpCODlRM1lhc1Bhbmc3WnVqbGVUVjhOajhfakFLY2RUT051RE5acVJwMkpXX3VyTVlTb2luRm5TZ3RJNDhWUzNRaHBMaGVKOHRzRlpVU014TnhNUVdBSjVxbFhCb1ZLTVlTTmlZbHg0NnNJejhQS2dJQw?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-27T18:23:35.000Z",
+      "excerpt": "陈海波开展食品安全督导检查 新浪财经",
+      "section": "cn-life",
+      "rankScore": 0.457313
+    },
+    {
+      "id": "4ecad815208d8a57",
+      "title": "代谢综合征及其组成成分与新发抑郁和焦虑风险的关联及炎症中介作用：基于325,937人的前瞻性队列研究",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIejNGV3J3Ul85VWlOYjRacGxWNUx4b1E5TFRBcEl1TUREOXVFeXNWRmlrWW9qNEROcjEyRWhKbWlnX2RPdEZWb3EtTWhvRjlKWlZ4RVdNblNBTkc0NlJINWdCUTBhamhiVHd3?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-27T18:20:04.000Z",
+      "excerpt": "代谢综合征及其组成成分与新发抑郁和焦虑风险的关联及炎症中介作用：基于325,937人的前瞻性队列研究 生物通",
+      "section": "cn-life",
+      "rankScore": 0.456051
+    },
+    {
+      "id": "37f46735ca071cf9",
+      "title": "国家能源局主要负责人会见南非电力和能源部部长",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wTE9mMTA4ZlpFbnZLS0tHNFNYRTNWMmhwcERHanNoTE1Nd1dZN09FemRPNmk2WGxaMnUzTjNfSkl6NGw5Y3pGOEJ0TFY1QnNqLWtSRnBpaU0xRUFOeElfLVFXXzhJY2draFZzRkcwYU5ySVhlbUFXcjNMSQ?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-27T14:21:51.000Z",
+      "excerpt": "国家能源局主要负责人会见南非电力和能源部部长 国家能源局",
+      "section": "cn-life",
+      "rankScore": 0.423471
+    },
+    {
+      "id": "25b3ae1c9d10870c",
+      "title": "多空辩论更新：学大教育扣非增速归因披露，利润弹性来源存分歧",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNmM3cjRadWtaV1lrc0RNVURkaHYtTmMzRG9IX2lDRy1rOXk1WTZrcGpxaVpmS0dZS3RxSUlWbUp3bUdtSUFWYjRzRWtoM2FocTdtTi04Wl9fYlFBUFE0OHFR?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-27T17:20:35.000Z",
+      "excerpt": "多空辩论更新：学大教育扣非增速归因披露，利润弹性来源存分歧 证券之星",
+      "section": "cn-life",
+      "rankScore": 0.372598
+    },
+    {
+      "id": "e602987cec211418",
+      "title": "普林斯顿教授：AI证出黎曼猜想不是机器的胜利",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pVV9iM0tjaUVHZWduU2doaFRwNGN5VnhhVFlNODdGZUJ5WlQ4RGt5Z0xCTkRpcGJIUDE4TzZJOWg3SHhNY2lrMDNXd0Y1ZWEtbGFPTGFKbDJlcWo5ZENYcnpvekJydnBZ?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-27T15:43:45.000Z",
+      "excerpt": "普林斯顿教授：AI证出黎曼猜想不是机器的胜利 文学城",
+      "section": "cn-life",
+      "rankScore": 0.285669
+    }
+  ],
+  "warnings": []
+}
