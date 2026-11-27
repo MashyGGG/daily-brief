@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-27",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-27T04:29:26.990Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "8babaf79b9423f89",
+      "title": "為何特朗普新一輪關稅的威脅不如以往？",
+      "url": "https://www.bbc.com/zhongwen/articles/c3j4rw1r4p29o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-27T04:22:48.000Z",
+      "excerpt": "面對特朗普首輪關稅攻勢，世界各國已調整貿易流向，繞過美國的關稅壁壘。如今，各國更將目光投向特朗普卸任後的時代。",
+      "section": "news",
+      "rankScore": 0.837783
+    },
+    {
+      "id": "f7f066be92d7c6fd",
+      "title": "特朗普新关税再将矛头指向北京，旨在削弱中国供应链优势",
+      "url": "https://cn.nytimes.com/business/20261127/trump-tariffs-asia/?utm_source=RSS",
+      "source": "nyt-cn",
+      "publishedAt": "2026-11-27T02:47:16.000Z",
+      "author": "艾莎",
+      "excerpt": "特朗普政府以产能过剩为由推出新关税措施，再次凸显了其对削弱中国在供应链中主导地位的重视。在美国政府解释加征关税理由的报告中，中国被提及数百次。 Doug Mills/The New York Times 本月早些时候，特朗普总统与习近平在中国深圳。",
+      "section": "news",
+      "rankScore": 0.738777
+    },
+    {
+      "id": "37cc2bfd6172feff",
+      "title": "陈吉宁落马：在习近平执政时期，政治忠诚正在取代专业能力",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261126-%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC-%E5%9C%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%A7%E6%94%BF%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%94%BF%E6%B2%BB%E5%BF%A0%E8%AF%9A%E6%AD%A3%E5%9C%A8%E5%8F%96%E4%BB%A3%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-26T23:51:43.000Z",
+      "author": "阿曼亭",
+      "excerpt": "就上海市委书记陈吉宁落马，法国世界报周四刊出文章表示，近年来，中国高层政治清洗的规模不断扩大，随着将于2027年秋季举行的中共第二十一次全国代表大会越来越近，中共高层政治清洗又加大了速度和力度。连仕途曾被看好的技术官僚、上海市委书记陈吉宁，也成为最新一名落马的高级官员。这一事件再次反映出，在习近平执政时期，即使身居高位、拥有专业能力和丰富行政经验，也未必能够获得政治安全保障。",
+      "section": "news",
+      "rankScore": 0.622852
+    },
+    {
+      "id": "ca1afa3433522702",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-27T03:28:15.000Z",
+      "excerpt": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "section": "news",
+      "rankScore": 0.6147
+    },
+    {
+      "id": "125ef6a2871944ca",
+      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-27T04:06:52.000Z",
+      "excerpt": "It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border.",
+      "section": "news",
+      "rankScore": 0.554982
+    },
+    {
+      "id": "4920b689ab90dd70",
+      "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+      "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-27T03:14:10.000Z",
+      "author": "Petra Stock",
+      "excerpt": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coast Major fires are among a multitude of weather extremes forecast across Australia on Friday and into the weekend, which also includes severe storms, heavy rain, floods and…",
+      "section": "news",
+      "rankScore": 0.54327
+    },
+    {
+      "id": "514571e4c2401b4d",
+      "title": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-26T21:40:09.000Z",
+      "author": "Stephen Castle",
+      "excerpt": "Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group.",
+      "section": "news",
+      "rankScore": 0.469044
+    },
+    {
+      "id": "7a796633d82facc4",
+      "title": "India’s electricity demand to rise fivefold in 25 years, says Suzlon’s Girish Tanti",
+      "url": "https://www.ft.com/content/a342f53c-c323-4fa1-bdc2-16d504c1dd10?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-27T01:30:01.000Z",
+      "excerpt": "Renewables can match coal power for reliability at lower cost, insists wind power pioneer",
+      "section": "news",
+      "rankScore": 0.45511
+    },
+    {
+      "id": "9f42c6e654cb51b8",
+      "title": "A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea",
+      "url": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-27T00:46:52.000Z",
+      "author": "Shaila Dewan and Breena Kerr",
+      "excerpt": "The famed pier in Pacifica, Calif., had long been crumbling. This week, a portion of it succumbed to fierce waves and toppled into the sea.",
+      "section": "news",
+      "rankScore": 0.44672
+    },
+    {
+      "id": "e60abcabd1ec0a50",
+      "title": "强风暴横扫美国东海岸，数十万户断电，400多个航班取消；美国陆军引爆近5吨含铅爆炸物",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04RW1Sa21nc1NkUmhzN0lyS0lXLUNFcG14aTkyZWdPdlV5aXpILWUyTzNYcnhrcXhycUt2dHA0N3FPSXpORTd4ejAtT3ZjTlVTd2llVU9yZEJVZw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-27T04:01:00.000Z",
+      "excerpt": "强风暴横扫美国东海岸，数十万户断电，400多个航班取消；美国陆军引爆近5吨含铅爆炸物 上观新闻 强风暴来袭 纽约梅西百货感恩节游行百年来首次延期 新华网 强风暴来袭 美国东北部航班遭遇天气考验 新华网 强风暴袭击美国东海岸 致数十万用户停电 数千航班受扰 凤凰网 美国感恩节强风暴来袭：暴雨、洪水、航班停飞，东海岸83万户家庭断电 ThePaper.cn",
+      "section": "news",
+      "rankScore": 0.415258
+    },
+    {
+      "id": "0a78a85a97030d20",
+      "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+      "source": "npr-news",
+      "publishedAt": "2026-11-26T12:24:29.000Z",
+      "author": "Brittney Melton",
+      "excerpt": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
+      "section": "news",
+      "rankScore": 0.302368
+    },
+    {
+      "id": "bf7020706fe59654",
+      "title": "Maritime trade stagnates amid geopolitical uncertainty",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168884",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-26T12:00:00.000Z",
+      "excerpt": "Seaborne trade that underpins the global economy continues to slow, while disruption from conflict and climate-related factors is hitting least-developed economies and small island nations hardest, UN economists said on Thursday.",
+      "section": "news",
+      "rankScore": 0.255092
+    },
+    {
+      "id": "02b8dc4459dfe5b3",
+      "title": "工信部：前10个月电信业务收入累计完成1.43万亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738570.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-27T02:06:40.000Z",
+      "excerpt": "中新网11月27日电 据工信部网站消息，前10个月，通信业运行基本平稳。电信业务总量稳步增长，移动互联网接入流量延续较快增势，5G、千兆、物联网等新型基础设施建设持续推进。",
+      "section": "cn-news",
+      "rankScore": 0.792406
+    },
+    {
+      "id": "0dbc095bc379c0e2",
+      "title": "国务院任免国家工作人员",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738648.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-27T04:16:25.000Z",
+      "excerpt": "中新网11月27日电 据人力资源和社会保障部网站消息，国务院任免国家工作人员。",
+      "section": "cn-news",
+      "rankScore": 0.766018
+    },
+    {
+      "id": "da9a520cae7e2e61",
+      "title": "国常会：研究持续深化资本市场投融资综合改革工作",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pRFhYTDc3UXpRYmdRM3llTXZJR3FPQmp5ZGFycjlvdE11UGlKLXZ1YUJlbW1VVUd1bFB6R0tTVVhIZnhDYXlvNlItQjlSeno1TlducGV2RGU?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-27T04:28:46.000Z",
+      "excerpt": "国常会：研究持续深化资本市场投融资综合改革工作 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.629829
+    },
+    {
+      "id": "a61e0dc6411664ee",
+      "title": "黑龙江哈尔滨：寒地算力蓄势腾飞 东北智算新引擎",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738635.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-27T03:55:08.000Z",
+      "excerpt": "中新网哈尔滨11月27日电 (记者 田德雨)11月25日，黑龙江省“给力！新引擎”数字经济篇主题采访活动走进哈尔滨算力中心。展示厅内，智慧农业、智慧工业、智慧教育、算力中心等沙盘模型，直观呈现算力赋能各行业数字化应用图景。不远处的机房内，一组组机柜整齐排列，服务器稳定运转。",
+      "section": "cn-news",
+      "rankScore": 0.621421
+    },
+    {
+      "id": "bbec335b59c78829",
+      "title": "凯悦：任命邢林为大中华区总裁，自2027年1月1日起生效",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90OVY0SGx2VGp1eV9xUXhxTndCUy1lZmd5UlJpMWEyYVlEanFvTE1UV1BQZnFGZFRQQ2lwcXAwR0I2TFFUWDF4c2RrVTRDZFVIQkpQNGFGRUhlTFFMaDNwQQ?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-27T03:37:07.000Z",
+      "excerpt": "凯悦：任命邢林为大中华区总裁，自2027年1月1日起生效",
+      "section": "cn-news",
+      "rankScore": 0.616917
+    },
+    {
+      "id": "c02ea8b83190f508",
+      "title": "四川學生課間講四川話被罰 官方責令廢除不當校規",
+      "url": "https://www.cna.com.tw/news/acn/202611270056.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-27T03:29:49.000Z",
+      "excerpt": "（中央社記者張謙香港27日電）據報導，中國四川一所學校的學生在課間休息期間講四川話，遭老師拍照蒐證並處罰，引發外界關注。當地官方其後通報，責令學校立即廢止不當規定，並對涉事教師通報批評。",
+      "section": "cn-news",
+      "rankScore": 0.546748
+    },
+    {
+      "id": "576387e47aa5a590",
+      "title": "推动技术创新和成果落地 两项大赛总决赛在杭州启幕 - 科学网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51MWtCZklDUUNmek9zZm5MQWVLSjI5eE1ERmM0UW5aUWVINFMzNkl2T0Q1LThuU0R6dHBIUzZ2OXFXS3VycDhyY2FGV2l5dnNwdThJQ3Btbk9vNWw5WDBSalc4WGw?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-27T03:03:20.000Z",
+      "excerpt": "推动技术创新和成果落地 两项大赛总决赛在杭州启幕 科学网—新闻 浙江以赛引才促创兴业，第二届全球技术创新大赛颁奖仪式在杭州举行- 中国日报网 China Daily 以赛促引 算力加持 第十五届中国创新创业大赛“AI+OPC”创新应用专业赛在杭州滨江收官 hangzhou.zjol.com.cn 第十五届中国创新创业大赛暨中关村第十届新兴领域专题赛总赛及技术成果交流大会举办 北京市科学技术委员会 杭州发布颠覆性技术及OPC创新应用场景清单 Sohu",
+      "section": "cn-news",
+      "rankScore": 0.540863
+    },
+    {
+      "id": "a26900c60b63bd74",
+      "title": "权威数读丨16.0%！前10月规上工业企业利润继续两位数增长",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKNjFTaGh6ZEExeFpnajMwRnBteFcxdFA3cWtENkppeWplRlhyaEZLMEQ0ZENvbGxUVHhVTEZOSXRNMlMwSm5WRXB2U3RMUFpaeFFjWmR5RmpNNVphbFB1SEJDZDFBWS16Zld6ZEl4NTE0YnVtYTN3?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-27T04:15:41.000Z",
+      "excerpt": "权威数读丨16.0%！前10月规上工业企业利润继续两位数增长 新华网 2026年1—10月份全国规模以上工业企业利润增长16.0% 光明网 2026年1-10月，规上酒、饮料和精制茶制造业营收10994.6亿元 Sohu 国家统计局：1—10月份计算机、通信和其他电子设备制造业利润同比增长1.0倍-36氪 www.36kr.com 前10个月工业利润同比增长16%，高技术制造业引领作用凸显 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.487323
+    },
+    {
+      "id": "7b53af4da1ff5543",
+      "title": "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
+      "url": "https://www.scmp.com/news/world/article/3375979/huawei-guilty-10-counts-us-trial-nvidias-jensen-huang-returns-scmps-7-highlights",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-27T04:15:06.000Z",
+      "author": "SCMP",
+      "excerpt": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.",
+      "section": "cn-news",
+      "rankScore": 0.48721
+    },
+    {
+      "id": "e1f71ad6f03e122c",
+      "title": "33年首负沙特！郭士强称男篮输球只因一点没做好",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50b1c3VEZ3SE5ISWlpM3V0SkJKRTdyVVIwNWhzLTE0WXJwMS0zNnRPMzVjRWtSTlhaUHpmc3RyVGd0T3JoVmhRRV9KYmlHRmRIdnNXeTRraXhfbVJGbVJIOUtnTV9QNE9LMmJJQVhRVkVzcF9EVDBj?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-27T04:10:22.000Z",
+      "excerpt": "33年首负沙特！郭士强称男篮输球只因一点没做好 新浪网 灾难级的发挥！拙劣的指挥，梦游的状态，中国男篮惜败沙特队走上绝路 上观新闻 体坛联播｜郭士强称输球只因命中率太低，丁俊晖上演逆转好戏 ThePaper.cn 中国男篮世界杯预选赛不敌沙特队 出线形势严峻 上海热线 主教练回应中国男篮输掉关键一战 凤凰网",
+      "section": "cn-news",
+      "rankScore": 0.416819
+    },
+    {
+      "id": "d2aed58a00ae3b1b",
+      "title": "安徽三条高铁齐开 5个县告别不通高铁历史",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738650.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-27T04:27:18.000Z",
+      "excerpt": "今天(27日)，安徽淮阜高铁、淮蚌高铁、巢马高铁正式开通运营，5个县将告别不通高铁的历史。",
+      "section": "cn-life",
+      "rankScore": 0.839283
+    },
+    {
+      "id": "b240bcc6447da8d1",
+      "title": "身体出现这些变化 警惕肺功能受损",
+      "url": "https://www.chinanews.com.cn/life/2026/11-27/10738500.shtml",
+      "source": "chinanews-life",
+      "publishedAt": "2026-11-27T00:29:09.000Z",
+      "excerpt": "慢阻肺早期特别“隐蔽”，很多人拖到喘不动气才就医，造成肺功能不可逆损伤。医生提醒：不用等到严重咳喘，身体出现一些小变化，就可能提示肺功能已受损，要及时就诊排查。",
+      "section": "cn-life",
+      "rankScore": 0.63325
+    },
+    {
+      "id": "17ec79b69430f314",
+      "title": "福建省森林防灭火应急救援综合演练在漳州长泰举行",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GYnVhcU5xZGJJUUY3azZoTnZDdF85Tms2QUNfZ3BJd3FmMDI4a3dfTXIxeG9Rcjl6QXZYVFY1QVNYOVNhTndZVmhFVzZQWWtwb0l1bWFnZWh3LW1hWWVqbGF0SzJHV1J1c1JPSElxR1I?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-27T04:23:37.000Z",
+      "excerpt": "福建省森林防灭火应急救援综合演练在漳州长泰举行 中新网福建",
+      "section": "cn-life",
+      "rankScore": 0.628542
+    },
+    {
+      "id": "dd237ecd86d28dc7",
+      "title": "漳州检察“检护民生”：把法治保障落到细微之处- 要闻",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhZEpxTjVrVVZBSWZhT2Vjay1KdjRaZ0xDYkY1dFpSQlFFWkFRT2V4WVZEU0tBQ0NXa3dsaGhRRm9iY0xyQ3BYcmh5NHJ2VEFpWlpkZUVOMUQ5ZnFZTW9hbWNXMzQ?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-27T04:06:00.000Z",
+      "excerpt": "漳州检察“检护民生”：把法治保障落到细微之处- 要闻 东南网",
+      "section": "cn-life",
+      "rankScore": 0.624138
+    },
+    {
+      "id": "3214519dd16d8382",
+      "title": "2026年度永州市卫健委“三减三健”主题健康科普宣传物资询价投标采购公告",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDhMRDQ5Q1BXTG9fWUtVVkZSY3FXVjU3VzNET21Fd0hTQUV0Zm5Xd29hRHVkb1BwTG92bFU0X0tiSW43LXdrWWFPcFVzSDlHbXM0Z2Y4X1kzWkNfckVmTXp0WmR0c0pMQWtxaUhSU3JPZTdWa2Myb1puTWJna0I3VlFDdm9aTzA?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-27T04:09:20.000Z",
+      "excerpt": "2026年度永州市卫健委“三减三健”主题健康科普宣传物资询价投标采购公告 永州市人民政府",
+      "section": "cn-life",
+      "rankScore": 0.55553
+    },
+    {
+      "id": "a9c7feaa755e8147",
+      "title": "孩子癫痫不发作就没事了？这项脑电指标被很多家长忽略了",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iekhnZGRlTU9RZDlJMEd0dlZPRF9tUjZsbnBrUS1kXzRHOVlYdnIzbkRnLXJaVXhVMW9qWVlveC13LVM2U0tmT1d6QnVQTl9oZXhNTXBvQnNYMEM5cFRKeV9rbXdOQlFMT2N3WA?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-27T03:27:15.000Z",
+      "excerpt": "孩子癫痫不发作就没事了？这项脑电指标被很多家长忽略了 中华网 癫痫未必终身用药专家解析儿童与成人治疗差异 China Press",
+      "section": "cn-life",
+      "rankScore": 0.477906
+    },
+    {
+      "id": "458d8c8e66b9fcb9",
+      "title": "快检护航守底线 全力保障党代会 | 巴彦县市场监督管理局扎实做好县第十八次党代会食品安全保障工作 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWxVTDMtb0ZvWEFPNUxqaHNIamFmbXpIdHg4bHBwdmlfZjRTMW5obE5ycG8xWVVhZjdId3QwRlhIdVZNOUhaVWZ5UXBadGJUdjdBaTQ3MFFwMXNXTjE5cVdSUmF5MFUtcWFEWjhXbFRZQUpScHJIbGp1eEg3OHdSTTdfMVZWZ0t4ek9aNW9PSVUyNXVpTHMxZQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-27T03:09:18.000Z",
+      "excerpt": "快检护航守底线 全力保障党代会 | 巴彦县市场监督管理局扎实做好县第十八次党代会食品安全保障工作 新浪财经_金融信息服务商",
+      "section": "cn-life",
+      "rankScore": 0.474415
+    },
+    {
+      "id": "dc7dd8121a947cd4",
+      "title": "深圳坪山科技教育入选全国首批中小学科技教育典型案例",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TR2Mzb1RPeldXVl9Tam14OUxWNmQ4cmUyaU9vUmNsUzFGbk1valNiYzVMY05GNFhIOVctTEtGZWdSd0hnREVmclFyazFQbG1yRDdPNkI3OEJLdHl2R2owWXhKY00xMWxIYnNkRkt3YkwwLVY3?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-27T04:28:30.000Z",
+      "excerpt": "深圳坪山科技教育入选全国首批中小学科技教育典型案例 中国教育新闻网",
+      "section": "cn-life",
+      "rankScore": 0.419842
+    }
+  ],
+  "warnings": []
+}
