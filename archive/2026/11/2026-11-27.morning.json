@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-27",
+  "slot": "morning",
+  "scheduleId": "morning",
+  "generatedAt": "2026-11-27T04:10:08.226Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 16,
+  "items": [
+    {
+      "id": "11d8963c7c0287c5",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "hn-front",
+      "publishedAt": "2026-11-26T21:47:45.000Z",
+      "score": 417,
+      "author": "jlelse",
+      "excerpt": "417 points · 227 comments · https://news.ycombinator.com/item?id=50660180",
+      "section": "tech",
+      "rankScore": 1.051361
+    },
+    {
+      "id": "8efecf50559cc104",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "source": "hn-front",
+      "publishedAt": "2026-11-26T21:08:05.000Z",
+      "score": 290,
+      "author": "dverlaeckt80",
+      "excerpt": "290 points · 62 comments · https://news.ycombinator.com/item?id=50659841",
+      "section": "tech",
+      "rankScore": 0.91108
+    },
+    {
+      "id": "42b78c8d34911a0c",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "source": "lobsters",
+      "publishedAt": "2026-11-26T20:06:50.000Z",
+      "author": "blainehansen.me via florianhartung",
+      "section": "tech",
+      "rankScore": 0.551605
+    },
+    {
+      "id": "5827cbef90fe7de3",
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "source": "verge",
+      "publishedAt": "2026-11-26T19:00:00.000Z",
+      "author": "Victoria Song",
+      "excerpt": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen.",
+      "section": "tech",
+      "rankScore": 0.383029
+    },
+    {
+      "id": "6afa2e0363493d2f",
+      "title": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
+      "url": "https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+      "source": "infoq-arch",
+      "publishedAt": "2026-11-26T06:45:00.000Z",
+      "author": "Steef-Jan Wiggers",
+      "excerpt": "At Ignite 2026, Microsoft positioned Copilot as the operating system for work and extended agent identity, governance, and cost controls across Azure, Foundry, Entra, and Defender.",
+      "section": "tech",
+      "rankScore": 0.368744
+    },
+    {
+      "id": "58cf18f739877bc5",
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "source": "ars-technica",
+      "publishedAt": "2026-11-26T12:15:42.000Z",
+      "author": "Scott K. Johnson",
+      "excerpt": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+      "section": "tech",
+      "rankScore": 0.304415
+    },
+    {
+      "id": "d13eaad6ce315444",
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "source": "latent-space",
+      "publishedAt": "2026-11-26T23:02:48.000Z",
+      "author": "Basil Chatha",
+      "excerpt": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
+      "section": "ai",
+      "rankScore": 0.676091
+    },
+    {
+      "id": "3e21aa95cece1104",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "source": "simonwillison",
+      "publishedAt": "2026-11-26T06:08:25.000Z",
+      "excerpt": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive…",
+      "section": "ai",
+      "rankScore": 0.399427
+    },
+    {
+      "id": "4767baccc71a1996",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "huggingface",
+      "publishedAt": "2026-11-26T05:05:36.000Z",
+      "section": "ai",
+      "rankScore": 0.354832
+    },
+    {
+      "id": "9a8aba2045672bdd",
+      "title": "iTV – 主要面对电视端的影音方案.....",
+      "url": "https://www.v2ex.com/t/1260231",
+      "source": "v2ex",
+      "publishedAt": "2026-11-27T02:46:49.000Z",
+      "score": 14,
+      "author": "leegradyllljjjj",
+      "excerpt": "地址： http://39.108.175.141:5080/",
+      "section": "cn-tech",
+      "rankScore": 0.84917
+    },
+    {
+      "id": "7bd8ff906484063d",
+      "title": "SLM 生成式高并发推理引擎：延迟约束下的有效吞吐优化",
+      "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
+      "source": "meituan-tech",
+      "publishedAt": "2026-11-27T04:10:08.226Z",
+      "excerpt": "本文为SLM（Small Language Model， 小参数量语言模型0.5~1B）在搜推场景的大规模落地提供了一套高性能、可复用的工程实践。",
+      "section": "cn-tech",
+      "rankScore": 0.84
+    },
+    {
+      "id": "9d08beb448f5ea89",
+      "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
+      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html",
+      "source": "ruanyifeng",
+      "publishedAt": "2026-11-27T00:10:30.000Z",
+      "author": "阮一峰",
+      "excerpt": "这里记录每周值得分享的科技内容，周五发布。...",
+      "section": "cn-tech",
+      "rankScore": 0.64927
+    },
+    {
+      "id": "ae8a831dcee5a32c",
+      "title": "智能家居盯上家庭AI这个超级入口",
+      "url": "https://www.36kr.com/p/4087432362628738",
+      "source": "36kr-ai",
+      "publishedAt": "2026-11-27T04:01:31.000Z",
+      "author": "冯大白",
+      "excerpt": "智能家居厂商正在争夺家电的日常调度权。空调能制冷，灯能照亮房间，家里已经有一批每天都要用的机器。过去家里人得一件件告诉它们什么时候开、什么时候停。厂商想让AI接过这份工作，把一句家常话拆成几件家电可以办的事。家里人要是用惯了一套日程，往后添空调或者换个温控器，能沿用多少已经调好的设置，就会影响他们选哪一款。 国家统计局公布的2025年数据里，全国居民平均每百户拥有空调161.8台。联网空调和用了多年的普通空调都在这批存量里。在手机上把几台空调集中到一起，可以省下找遥控器的工夫。系统里登记的设备、房间和功能，可以帮助手找到那台空调。",
+      "section": "cn-tech",
+      "rankScore": 0.627845
+    },
+    {
+      "id": "bdacdee75bef8e5e",
+      "title": "蚂蚁百灵 Ling-3.2-air 开源发布，提升编程、智能体与多模态能力",
+      "url": "https://www.oschina.net/news/503847",
+      "source": "oschina",
+      "publishedAt": "2026-11-27T02:54:52.000Z",
+      "excerpt": "蚂蚁百灵发布并开源了新一代大模型：Ling-3.2-air，1240 亿总参数，每个 token 只激活 55 亿。 先看这个稀疏度：124B 里只激活 5.5B，约 4.4%。也就是说，它的推理成本对标的是一个 5.5B 的小模型，但参数池有 124B。这个比例比很多 MoE 模型都要激进。 架构细节在模型卡里写得很全：属于 Hybrid-linear MoE，35 层 KDA ...",
+      "section": "cn-tech",
+      "rankScore": 0.611182
+    },
+    {
+      "id": "d1a4ce60f6dc2476",
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-26T10:57:55.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about.",
+      "section": "security",
+      "rankScore": 0.413272
+    },
+    {
+      "id": "6ad61248b3e0c09a",
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "source": "hacker-news-sec",
+      "publishedAt": "2026-11-26T10:57:25.000Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "excerpt": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed.",
+      "section": "security",
+      "rankScore": 0.413133
+    }
+  ],
+  "warnings": [
+    "source \"css-tricks\" failed: Error: HTTP 415",
+    "source \"meituan-tech\" ships no per-item dates: all items were stamped with the run clock, so the staleness check is blind to it"
+  ]
+}
