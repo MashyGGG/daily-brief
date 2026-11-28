@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-28",
+  "slot": "news-am",
+  "scheduleId": "news-am",
+  "generatedAt": "2026-11-28T04:11:46.985Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 24,
+  "itemCount": 30,
+  "items": [
+    {
+      "id": "f9ad916ebb2e5732",
+      "title": "在中国，“中国制造”已经成为一种时尚",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261127-%E5%9C%A8%E4%B8%AD%E5%9B%BD%EF%BC%8C-%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0-%E5%B7%B2%E7%BB%8F%E6%88%90%E4%B8%BA%E4%B8%80%E7%A7%8D%E6%97%B6%E5%B0%9A",
+      "source": "rfi-zh",
+      "publishedAt": "2026-11-27T23:37:07.000Z",
+      "author": "阿曼亭",
+      "excerpt": "法国世界报周五刊出一篇发自上海的文章指出，中国奢侈品市场正在发生深刻的变化。曾经风靡中国的路易威登、古驰和迪奥等西方奢侈品牌，正面临越来越激烈的竞争。中国本土品牌迅速崛起，逐渐赢得消费者的青睐。“中国制造”不再只是低价和代工的代名词，而是正在成为一种新的时尚潮流。",
+      "section": "news",
+      "rankScore": 0.623704
+    },
+    {
+      "id": "4c219f3a34b2cb08",
+      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "publishedAt": "2026-11-28T01:20:35.000Z",
+      "excerpt": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+      "section": "news",
+      "rankScore": 0.5872
+    },
+    {
+      "id": "4c71a0e9a4491d7a",
+      "title": "The split-second teamwork behind an F1 pit stop",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss",
+      "source": "aljazeera",
+      "publishedAt": "2026-11-28T04:01:24.000Z",
+      "excerpt": "Al Jazeera’s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew.",
+      "section": "news",
+      "rankScore": 0.557693
+    },
+    {
+      "id": "90933bce824a4bbb",
+      "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+      "source": "guardian-world",
+      "publishedAt": "2026-11-28T04:00:51.000Z",
+      "author": "Josh Taylor",
+      "excerpt": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for?",
+      "section": "news",
+      "rankScore": 0.55757
+    },
+    {
+      "id": "e9d58ab8ca6fc584",
+      "title": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways",
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
+      "source": "nyt-world",
+      "publishedAt": "2026-11-28T01:35:00.000Z",
+      "author": "Megan Specia",
+      "excerpt": "‘Heal,’ a 30-minute authorized documentary released this week, offers glimpses into Catherine’s recovery since her 2024 cancer diagnosis and treatment.",
+      "section": "news",
+      "rankScore": 0.525159
+    },
+    {
+      "id": "e2d268bdf57998a4",
+      "title": "Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them",
+      "url": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html",
+      "source": "nyt-home",
+      "publishedAt": "2026-11-28T02:46:33.000Z",
+      "author": "Carl Hulse",
+      "excerpt": "Decisions on voting rights, immigration and corruption generated a backlash that helped spur turnout that drove the Democratic sweep of Congress.",
+      "section": "news",
+      "rankScore": 0.473427
+    },
+    {
+      "id": "f2581ef6dc90165f",
+      "title": "Copper thieves prey on Japan’s ancient shrines in AI frenzy",
+      "url": "https://www.ft.com/content/98b72508-3d41-4f03-9a9a-bfb345e3a902?syn-25a6b1a6=1",
+      "source": "ft-world",
+      "publishedAt": "2026-11-28T01:01:26.000Z",
+      "excerpt": "Priests forced to abandon tradition and favour cheaper steel to repair roofs",
+      "section": "news",
+      "rankScore": 0.452988
+    },
+    {
+      "id": "5a4900bf78b1db1a",
+      "title": "日本静冈县一野猪冲入店铺致7人受伤",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bE9VdmIxWU5wN3BYUHhldEUyTDA1T0FRbkJsR0NjNFhFU3kwNFkxV3hDMzNOcExES1pjbHppUzJzNnNUeHFWeUpnYVo4VnRDY2QtT1hUdkZoY09WRmgtc3RUV3Jodw?oc=5",
+      "source": "gn-world-zh",
+      "publishedAt": "2026-11-28T03:45:00.000Z",
+      "excerpt": "日本静冈县一野猪冲入店铺致7人受伤 东方财富",
+      "section": "news",
+      "rankScore": 0.415536
+    },
+    {
+      "id": "a6c5b913610f3f37",
+      "title": "小行星撞地球有解嗎？科學家揭示首次行星防禦實驗成果",
+      "url": "https://www.bbc.com/zhongwen/articles/crvg238j0g47o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-zhongwen",
+      "publishedAt": "2026-11-27T06:16:13.000Z",
+      "excerpt": "四年前，一艘太空船蓄意撞向這顆小行星，使其表面形貌發生巨大變化。",
+      "section": "news",
+      "rankScore": 0.401478
+    },
+    {
+      "id": "365c7fe6248e3f64",
+      "title": "厄尔尼诺加剧全球饥饿风险 南部非洲和中美洲新增热点地区",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143271",
+      "source": "un-news-zh",
+      "publishedAt": "2026-11-27T12:00:00.000Z",
+      "excerpt": "联合国粮食及农业组织和联合国世界粮食计划署周五警告称，厄尔尼诺现象正在加剧全球粮食危机，南部非洲和中美洲干旱走廊已被列入饥饿热点地区名单。预计2026年12月至2027年5月期间，这些地区的急性粮食不安全状况将显著恶化。两机构同时指出，苏丹和南苏丹部分地区存在饥荒风险。",
+      "section": "news",
+      "rankScore": 0.387054
+    },
+    {
+      "id": "6e99f890a4d331b9",
+      "title": "Can luxury save Macy's?",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+      "source": "npr-news",
+      "publishedAt": "2026-11-27T10:01:00.000Z",
+      "author": "Alina Selyukh",
+      "excerpt": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself — as a higher-end destination.",
+      "section": "news",
+      "rankScore": 0.277903
+    },
+    {
+      "id": "8875a6ac1c8f44a2",
+      "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+      "source": "un-news-en",
+      "publishedAt": "2026-11-27T12:00:00.000Z",
+      "excerpt": "Serious funding cuts are severely weakening protection for refugee and stateless women and girls and others at risk of gender-based violence (GBV), like Mariam, who survived a decade of captivity and rape at the hands of Boko Haram militia.",
+      "section": "news",
+      "rankScore": 0.258036
+    },
+    {
+      "id": "f563a0d8ff85f793",
+      "title": "日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739154.shtml",
+      "source": "chinanews-import",
+      "publishedAt": "2026-11-28T02:50:11.000Z",
+      "excerpt": "中新网11月28日电 据日本共同社报道，当地时间27日下午，日本静冈县发生一起野猪伤人事件，共造成7人受伤。",
+      "section": "cn-news",
+      "rankScore": 0.8128
+    },
+    {
+      "id": "74cd6d1d0a448c3b",
+      "title": "歼-35A飞抵珠海 将首次真机进馆展出",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739155.shtml",
+      "source": "chinanews-china",
+      "publishedAt": "2026-11-28T02:51:13.000Z",
+      "excerpt": "今天(28日)上午，歼-35A飞抵珠海，它将在第十六届中国国际航空航天博览会上，首次以真机形式亮相1号馆，面向全球观众近距离静态展示。",
+      "section": "cn-news",
+      "rankScore": 0.745382
+    },
+    {
+      "id": "840bf30f18c7011a",
+      "title": "黄金配置为何仍要看“周期”？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739170.shtml",
+      "source": "chinanews-finance",
+      "publishedAt": "2026-11-28T04:10:23.000Z",
+      "excerpt": "中新网上海11月28日电 (高志苗)当地时间11月27日，COMEX黄金期货涨2.44%，报3681.1美元/盎司；现货黄金涨2.45%，报3653.50美元/盎司。尽管短线出现反弹，2026年以来黄金市场仍经历剧烈调整，短期价格波动与长期配置逻辑之间的张力进一步凸显。",
+      "section": "cn-news",
+      "rankScore": 0.62965
+    },
+    {
+      "id": "986cda48c3a08b24",
+      "title": "最新 | 普京宣布：正式入列！",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QU0dubUFYX0dsVU5JMUhPYmx1MDlhNkFDWjIyODd0MnhUZldsR3N4UXZ1YTZadVV3Y1M2STg0My1tM2xyYnVtMl9saXhIZTRVUVBuSF84ZjlLM29rdUtGUA?oc=5",
+      "source": "thepaper",
+      "publishedAt": "2026-11-28T02:34:34.000Z",
+      "excerpt": "最新 | 普京宣布：正式入列！",
+      "section": "cn-news",
+      "rankScore": 0.605696
+    },
+    {
+      "id": "9c2dda71c9ec1598",
+      "title": "金价银价集体大涨",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiMFh3TlJFc2F3ZUtDcUE1Wm1IVG4yRE1IVDZQUldsNm9TaHJRS0xRanFSTVhqTzJyZy1iY1ZxWUJ6OF9mUnY2b1g4YW9yUmNrTnhLQTJ3?oc=5",
+      "source": "jiemian",
+      "publishedAt": "2026-11-28T01:49:21.000Z",
+      "excerpt": "金价银价集体大涨 Jiemian.com",
+      "section": "cn-news",
+      "rankScore": 0.594392
+    },
+    {
+      "id": "b930eaf4c69e6ca6",
+      "title": "为亚太区域合作提供智力支撑",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BVnZCdEpCdjZnNVMwT1UxRGpLY2ttdVREWWNPQ3FPX0ozOF8wcXJ5TzFmS2JpNkoxd3hoT1JkaXVBX0dvMmFXVEkwNDhEazZJaXVQd25YQ05vb2VpSnJBUXBtV1JBZVd4UFYzejRwaW5xc05LaUE?oc=5",
+      "source": "gn-nation-zh",
+      "publishedAt": "2026-11-28T02:59:25.000Z",
+      "excerpt": "为亚太区域合作提供智力支撑 习近平外交思想和新时代中国外交",
+      "section": "cn-news",
+      "rankScore": 0.543919
+    },
+    {
+      "id": "179780ab37d94aab",
+      "title": "Cambodia’s Ream Naval Base back in spotlight after Chinese radar features in joint drill",
+      "url": "https://www.scmp.com/news/china/military/article/3376023/cambodias-ream-naval-base-back-spotlight-after-chinese-radar-features-joint-drill",
+      "source": "scmp-china",
+      "publishedAt": "2026-11-28T04:00:11.000Z",
+      "author": "Amber Wang",
+      "excerpt": "Chinese-made long-range radar equipment has been spotted at Cambodia’s Ream Naval Base during the ongoing Golden Dragon 2026 exercises, a move likely to draw fresh attention to the air surveillance capabilities at the Chinese-funded naval facility.",
+      "section": "cn-news",
+      "rankScore": 0.487744
+    },
+    {
+      "id": "f020f8bf0c52ddf8",
+      "title": "我国发布地球大模型引擎SUICE V0.1版",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WNWFOajM0ZU1ESVBhc3VmV09aYjNlVGlOQ2hacjlTNVBFZmlFaURyN0xwXzJCZy0zb2lXeXlZM1FBN2ZzbG5iT0ROTDhKR21HUW9LdW5SQ1pZTmxyM3NVMHczUnFTUG1LN2pTNUlLSlBYUkZ2Nm50aFhiTXQ?oc=5",
+      "source": "gn-business-zh",
+      "publishedAt": "2026-11-28T02:54:37.000Z",
+      "excerpt": "我国发布地球大模型引擎SUICE V0.1版 求是",
+      "section": "cn-news",
+      "rankScore": 0.474995
+    },
+    {
+      "id": "0ef43fc22f6b5584",
+      "title": "独家专访｜中国空间站首位外籍航天员的中文老师：齐尚·阿里刚来时不会说中文，从“你好”学起",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9obUg5MXNWaXNvSWdZYWJjd3EtMVV0eXdxR09GcUZjOGc2YzdpNk9NZmp5VHphMTdYYTk0YV9fOVBwbE1IQWtXbzlQWUw4UFNVeUxDbUFfZkxaUlN6MkE?oc=5",
+      "source": "gnews-cn",
+      "publishedAt": "2026-11-28T01:33:09.000Z",
+      "excerpt": "独家专访｜中国空间站首位外籍航天员的中文老师：齐尚·阿里刚来时不会说中文，从“你好”学起 京报网 巴基斯坦部长：“天宫”之旅承载着巴基斯坦的发展愿景--国际 人民网 【新思想引领新征程】开放合作推动航天事业造福全人类 新浪新闻 神二十四成功发射、能源技术攻关突破 本周我国多领域捷报频传 中国青年网 视频丨拉美媒体积极报道中国航天国际合作成果",
+      "section": "cn-news",
+      "rankScore": 0.393561
+    },
+    {
+      "id": "a0e01015e37b975f",
+      "title": "陳吉寧落馬 海基會：非尋常現象",
+      "url": "https://www.cna.com.tw/news/acn/202611270168.aspx",
+      "source": "cna-zh",
+      "publishedAt": "2026-11-27T08:41:54.000Z",
+      "excerpt": "（中央社記者呂佳蓉台北27日電）中共中央政治局委員、中共上海市委書記陳吉寧落馬。海基會副秘書長黎寶文表示，重要的職位在無預警的情況下出現人事異動，不是一個尋常的現象，現階段無更多資訊可提供。",
+      "section": "cn-news",
+      "rankScore": 0.300026
+    },
+    {
+      "id": "c3a9dbdceaa8c587",
+      "title": "10分钟邂逅1400年：中外青年小商桥 “搭桥” 记",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739169.shtml",
+      "source": "chinanews-society",
+      "publishedAt": "2026-11-28T04:05:05.000Z",
+      "excerpt": "中新网漯河11月28日电 (记者 张楠)27日，初冬时节的河南漯河临颍县小商河畔热闹异常。三名外国留学生和两名中国网络大V围蹲在地上，对着大小不一的木制构件仔细研究。",
+      "section": "cn-life",
+      "rankScore": 0.837767
+    },
+    {
+      "id": "fb32eca9bfe1ca99",
+      "title": "阿根廷发生5.0级地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQWZLakZRZnBQZk5hTTVSY05UYjY1bDZmamxJYmNqbHB1NVFrT091b3ZRZ2dIMUxrcFBveEwwTkNQSTk1LUkwOHdYOHVXTU5yWHN0V2VrMUxoSWFySnY0SV9wa2R5M1djRHdmRktWQU5EZm5NNy1FYk5leHVDNkxUM2pEV3JxTExoaFMwLQ?oc=5",
+      "source": "gn-disaster",
+      "publishedAt": "2026-11-28T03:37:00.000Z",
+      "excerpt": "阿根廷发生5.0级地震 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.621304
+    },
+    {
+      "id": "85121de348b4f6f7",
+      "title": "医保上线新功能参保人可便捷查询个人用药情况_中央部委动态_首都之窗",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsRG4zVGEyWm9RejBCUHBaa3owcXdScy0yMklYODgyS1JyR094QVFuRTZHLTFrNG9RZEFJN2VDV1drRE15am1tbEZhLWhFSEpqd2tYLXlnanJDQUk3VUY3MjJDTnRnMmpLTzc3X2VpQWE5aXBQYWxz?oc=5",
+      "source": "gn-minsheng",
+      "publishedAt": "2026-11-28T03:00:00.000Z",
+      "excerpt": "医保上线新功能参保人可便捷查询个人用药情况_中央部委动态_首都之窗 北京市人民政府门户网站",
+      "section": "cn-life",
+      "rankScore": 0.612054
+    },
+    {
+      "id": "15d8a0dd4199031e",
+      "title": "王中明在部分全国人大代表视察河南法院征求意见座谈会上强调增强政治自觉用心用情做好代表工作",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vV2VKSXBwUm90bzRsbFZTUDJGSE54dzNKZ2hhUXVoc1NtX2I5YUhBX3RlR2wwbl9nNGtHbTBaM1dxdUtrNkw5RlNPZTNUUHQwR2FBT3h5MEFsRjhNaUNkbk1R?oc=5",
+      "source": "gn-govcn",
+      "publishedAt": "2026-11-28T01:49:12.000Z",
+      "excerpt": "王中明在部分全国人大代表视察河南法院征求意见座谈会上强调增强政治自觉用心用情做好代表工作 中华人民共和国最高人民法院",
+      "section": "cn-life",
+      "rankScore": 0.528315
+    },
+    {
+      "id": "fdd07d905759f612",
+      "title": "国家药监局：北京同仁堂等17家药企27批次药品不符合规定 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzlOZFJEWXluQ1A3czB5dVpsbDJ2cnI1WUlmMEJEbjhNOEx1dkhoVDlBOVRVTkVuVjRnZFNXRExTR0hNM2VMMDhReFhaZmxIcTlKanBLTGRqZ2hGRUhuQUxwN2NreVlPTlk1el9LYTg2V2lFbWVRZW5DZllCTXNmd0N4SUhtN1ZyQTZiaQ?oc=5",
+      "source": "gn-food",
+      "publishedAt": "2026-11-28T03:49:27.000Z",
+      "excerpt": "国家药监局：北京同仁堂等17家药企27批次药品不符合规定 Sohu",
+      "section": "cn-life",
+      "rankScore": 0.485657
+    },
+    {
+      "id": "a96ab00b5edcb97e",
+      "title": "单次裸盖菇素剂量或在48小时内缓解抑郁｜#科学资讯# #精神健康# #裸盖菇素# - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3Q5bzRTODRsSDBva1Mxd1c1OU5lYUN4NWpYVUpCTzBpN092UHNEWWRkanFNdkxGM1o4cXZlZ2RHRm8xVWhVT1YyZXdndEgtYlMzV1hFTzA3dTZRZ2R2NEdmc2I4TTg3cXBIbDhyaDlVUWw5VE01R01Qazc5UHF1SThrbmhZckRDR2tSeg?oc=5",
+      "source": "gn-health-zh",
+      "publishedAt": "2026-11-28T02:26:22.000Z",
+      "excerpt": "单次裸盖菇素剂量或在48小时内缓解抑郁｜#科学资讯# #精神健康# #裸盖菇素# Sohu",
+      "section": "cn-life",
+      "rankScore": 0.469502
+    },
+    {
+      "id": "b209646c52e005e2",
+      "title": "【高质量发展看伊犁】伊犁州社会福利院探索双向融合教育",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZZExiVnZTVlJwazNYVVlNZFJ2NnRpTXdURWNMYjhfZmx3R25OeUJDZDQ2LUY1c3hGdmh2TklCMHBhN3ItNFRNLU5weUNkUy1ha1drWU1MOThHVE1acEswZmpQYjlzTk1mMWNSLWlwQQ?oc=5",
+      "source": "gn-edu",
+      "publishedAt": "2026-11-28T03:54:46.000Z",
+      "excerpt": "【高质量发展看伊犁】伊犁州社会福利院探索双向融合教育 伊犁日报",
+      "section": "cn-life",
+      "rankScore": 0.417164
+    },
+    {
+      "id": "e0bf5d2abb5a225c",
+      "title": "引力波通讯？物理学家通过重力发送无法屏蔽的信息",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SaFU2YWZQcmdKZG5FQ2xjZEJPMXVhYVJwNWhBemJJMkNweVNFM2RSVkw2cC1hQ1ZDWDJHdUV2YS1pY3ZjaTB3Y0RHX0FCa3d5MnFORFhSSk0?oc=5",
+      "source": "gn-science-zh",
+      "publishedAt": "2026-11-27T13:34:00.000Z",
+      "excerpt": "引力波通讯？物理学家通过重力发送无法屏蔽的信息 驱动之家",
+      "section": "cn-life",
+      "rankScore": 0.228086
+    }
+  ],
+  "warnings": []
+}
