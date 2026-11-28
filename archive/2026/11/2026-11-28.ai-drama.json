@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-28",
+  "slot": "ai-drama",
+  "scheduleId": "ai-drama",
+  "generatedAt": "2026-11-28T17:30:03.419Z",
+  "configHash": "524e398ebaad",
+  "timezone": "Asia/Shanghai",
+  "lookbackHours": 48,
+  "itemCount": 6,
+  "items": [
+    {
+      "id": "0f8bcb785f8ea076",
+      "title": "From Kerala to Goa: Malayali creators make their mark at IFFI’s first AI filmathon - Onmanorama",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0hSaTFTZ2J3OUh1WEVGX0RTNm5sdk1LNlREQlhXd0t4UVR5VEVsdDNRMm0tNWNXdFREcXFINERObkdIWDVmUVg2ZzI2a0NCVjF0TGVkTG9XakhvbnFPbDMxVTVJU3BxWXd2ZUp0X1k4ZXdLTFBDUjN3ZDVJM1E0dko3UlpGci1JZE1xU2syclZOVzMtMG8xY243VEMtZ3ZqeVRkbHdDSFJESVJCbHFPQnh0SVlzcW5XdjJPRA?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-28T15:32:08.000Z",
+      "excerpt": "From Kerala to Goa: Malayali creators make their mark at IFFI’s first AI filmathon Onmanorama",
+      "section": "drama-news",
+      "rankScore": 0.683622,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "4e6ac6907cfd7935",
+      "title": "“刷来刷去，都是这几张脸” AI短剧角色为何都长一个样？做一张脸耗时久、算力成本高，精品剧成本是“工厂型”的两三倍#一财情报局 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMEdtTnN0LUFuc3JNOHBFVll2TC05VUJsZjYzV0ljRmRLTC1PbHdVY213WUxFUGhERGx1NkIzN0duUDBlbHBvUlBtbE44SjMyZVRHYVh4eXZnSHZWR1pyTE9INVkyQVVjcUJVZkFjRktCSnZHWURrSzZ1Zl9UM09Zem1KSzEzVzZI?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-28T07:28:17.000Z",
+      "excerpt": "“刷来刷去，都是这几张脸” AI短剧角色为何都长一个样？做一张脸耗时久、算力成本高，精品剧成本是“工厂型”的两三倍#一财情报局 Sohu",
+      "section": "drama-news",
+      "rankScore": 0.61642,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "04c199c5e13d1dac",
+      "title": "Elate raises $2.5M convertible to fund AI filmmaking push - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTzJEczRpLXh3UDZhVUFQazdzTVpvNl9ha1AwTmtpcWp4eHd2YUpPdVpiVGJjZ2JwSXJ5YTVwSnhTVWlxQ3ozdHBGY21HcGdjUE1kVnpPOG1EUUE4czlTMnZfdWZldDZvcEZ1eGZhMHhoS3oyT1BWT01PSGd1Zld2VG5Ga2dhbW1HWVozX1psT1ZtZjFL?oc=5",
+      "source": "drama-en-news",
+      "publishedAt": "2026-11-27T22:58:08.000Z",
+      "excerpt": "Elate raises $2.5M convertible to fund AI filmmaking push Dealroom",
+      "section": "drama-news",
+      "rankScore": 0.545566,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "与制作、作品案例或发布环节有关。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "291caf9f87033a20",
+      "title": "电影院播放热门AI漫剧 探索解决商业变现难等问题",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMnI4cXdXcVlITXBrNlQ0cDd5MzRhUFJkMVhzMTRyN3dpRWtpRFdBbklkNUdnenpzalZoNndXSVA5emlSSUVDdVlyY3R5dnlDVzU3Qmp3M2JVS3NPY0VaZlRXb3RjcjVVak5HcTVScWxod05IVGhyb3JSM3JaSWRkTg?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-28T13:57:06.000Z",
+      "excerpt": "电影院播放热门AI漫剧 探索解决商业变现难等问题 经济参考报",
+      "section": "drama-news",
+      "rankScore": 0.43577495,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "e1dd4f965baba88f",
+      "title": "AI短剧《爱上大难不死的男孩的女孩》，被指侵权《哈利.波特》，作者回应：不以营利或商业化为目的的二创，其实都还好，暂时没收到华纳相关投诉 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXZKRUlGVVVMNy1JVktrQTY4R0piTk4yaG9UQ1Y1OVJrSlQwS0RGNGZkNEhtemFrei0xSkxWMzdDNnVpd2Z3TVZiQlVkek9zMnB1aUdTMXV0SlhvV19wSDBsRXJXZ1VPUloteWJoV1dGeFMtYW1HR0JsV2Q5X1FvelBNdDA0ejFjNWZUQg?oc=5",
+      "source": "drama-cn-news",
+      "publishedAt": "2026-11-28T03:08:59.000Z",
+      "excerpt": "AI短剧《爱上大难不死的男孩的女孩》，被指侵权《哈利.波特》，作者回应：不以营利或商业化为目的的二创，其实都还好，暂时没收到华纳相关投诉 Sohu",
+      "section": "drama-news",
+      "rankScore": 0.3772639,
+      "editorial": {
+        "kind": "news",
+        "evidence": "excerpt",
+        "reason": "行业经营动态，作为背景参考。",
+        "action": "阅读原文，记录对选题、制作或发布的一项影响。"
+      }
+    },
+    {
+      "id": "c753fd3945fc4fe0",
+      "title": "v0.46.4",
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.4",
+      "source": "drama-comfyui",
+      "publishedAt": "2026-11-28T00:43:23.000Z",
+      "author": "comfyanonymous",
+      "excerpt": "ComfyUI v0.46.4",
+      "section": "drama-tools",
+      "rankScore": 0.8010638999999999,
+      "editorial": {
+        "kind": "release",
+        "evidence": "excerpt",
+        "reason": "来自已配置的官方技术来源。",
+        "action": "核对版本、使用条件和授权，再判断是否用于当前练习。"
+      }
+    }
+  ],
+  "warnings": [
+    "source \"drama-en-tutorial\" returned 0 items (HTTP was fine — the feed itself is empty or unparseable)",
+    "AI短剧漫剧 · 国内外资讯与案例：本期 5/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 教程与制作方法（近30天）：本期 0/6 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI短剧漫剧 · 开源与技术更新：本期 1/10 条；经时间窗口、去重、相关性和内容证据筛选后不足，不以低质量内容补足。",
+    "AI 制作笔记未启用：本期保留来源原始摘要和语言，详细步骤请阅读原文与末尾常青教材。"
+  ],
+  "dedupeGroup": "ai-drama",
+  "learningReminder": {
+    "stage": "了解与选方向",
+    "steps": [
+      "1. 了解与选方向【当前】：今天只精读 1 篇教程，拆解 1 个镜头，记录 1 个可验证的问题；本周完成 5–10 秒练习。",
+      "2. 单镜头练习：固定角色参考图，完成 3 个可剪辑的镜头；记录提示词、版本、失败原因和费用。",
+      "3. 完整样片：按分镜完成 30–60 秒单角色单场景动态漫，补齐配音、字幕和结尾，并请人盲看复述故事。",
+      "4. 发布与复盘：核查素材授权与平台最新规则，主动声明 AI 生成；发布后记录 24/72 小时表现，每轮只改一个变量。",
+      "5. 技术复现与开发：复现一个官方工作流；用同一分镜比较云端与开源路线，再自动化一个已稳定的制作环节。"
+    ],
+    "guideUrl": "https://github.com/MashyGGG/daily-brief/blob/main/docs/ai-drama/PLAYBOOK.md",
+    "lesson": {
+      "title": "分镜先于精细画面",
+      "url": "https://runway.com/resources/ai-storyboard",
+      "task": "写一个原创小故事，用粗图排出 6 个分镜。",
+      "doneWhen": "不依赖旁人解释也能顺序看懂故事。"
+    }
+  }
+}
